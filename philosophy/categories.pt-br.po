@@ -8,7 +8,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: categories.html\n"
-"POT-Creation-Date: 2016-05-04 14:55+0000\n"
+"POT-Creation-Date: 2017-05-08 12:26+0000\n"
 "PO-Revision-Date: 2015-01-20 21:20+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -261,9 +261,9 @@ msgstr ""
 
 #. type: Content of: <p>
 msgid ""
-"We prefer the term &ldquo;<a href= \"/philosophy/open-source-misses-the-"
-"point.html\">free software</a>&rdquo; because it refers to freedom&mdash;"
-"something that the term &ldquo;open source&ldquo; does not do."
+"We prefer the term &ldquo;<a href=\"/philosophy/open-source-misses-the-point."
+"html\">free software</a>&rdquo; because it refers to freedom&mdash;something "
+"that the term &ldquo;open source&ldquo; does not do."
 msgstr ""
 
 #. type: Content of: <h3>
@@ -366,15 +366,28 @@ msgstr ""
 #. type: Content of: <p>
 msgid ""
 "Some copyleft licenses, such as GPL version&nbsp;3, block other means of "
-"turning software proprietary, such as <a href=\"http://www.gnu.org/licenses/"
-"rms-why-gplv3.html\">tivoization</a>."
+"turning software proprietary, such as <a href=\"/licenses/rms-why-gplv3.html"
+"\">tivoization</a>."
 msgstr ""
 
 #. type: Content of: <p>
+# | In the GNU Project, we copyleft almost all the software we write, because
+# | our goal is to give <em>every</em> user the freedoms implied by the term
+# | &ldquo;free software.&rdquo; See our <a [-href=
+# | \"/copyleft/copyleft.html\">copyleft-]
+# | {+href=\"/licenses/copyleft.html\">copyleft+} article</a> for more
+# | explanation of how copyleft works and why we use it.
+#, fuzzy
+#| msgid ""
+#| "In the GNU Project, we copyleft almost all the software we write, because "
+#| "our goal is to give <em>every</em> user the freedoms implied by the term "
+#| "&ldquo;free software.&rdquo; See our <a href= \"/copyleft/copyleft.html"
+#| "\">copyleft article</a> for more explanation of how copyleft works and "
+#| "why we use it."
 msgid ""
 "In the GNU Project, we copyleft almost all the software we write, because "
 "our goal is to give <em>every</em> user the freedoms implied by the term "
-"&ldquo;free software.&rdquo; See our <a href= \"/copyleft/copyleft.html"
+"&ldquo;free software.&rdquo; See our <a href=\"/licenses/copyleft.html"
 "\">copyleft article</a> for more explanation of how copyleft works and why "
 "we use it."
 msgstr ""
@@ -385,12 +398,33 @@ msgstr ""
 "copyleft funciona e por que o usamos."
 
 #. type: Content of: <p>
+# | Copyleft is a general concept; to copyleft an actual program, you need to
+# | use a specific set of distribution terms. There are many possible ways to
+# | write copyleft distribution terms, so in principle there can be many
+# | copyleft free software licenses.  However, in actual practice nearly all
+# | copylefted software uses the <a [-href=\"/copyleft/gpl.html\">GNU-]
+# | {+href=\"/licenses/gpl.html\">GNU+} General Public License</a>. Two
+# | different copyleft licenses are usually &ldquo;incompatible&rdquo;, which
+# | means it is illegal to merge the code using one license with the code
+# | using the other license; therefore, it is good for the community if people
+# | use a single copyleft license.
+#, fuzzy
+#| msgid ""
+#| "Copyleft is a general concept; to copyleft an actual program, you need to "
+#| "use a specific set of distribution terms. There are many possible ways to "
+#| "write copyleft distribution terms, so in principle there can be many "
+#| "copyleft free software licenses.  However, in actual practice nearly all "
+#| "copylefted software uses the <a href=\"/copyleft/gpl.html\">GNU General "
+#| "Public License</a>. Two different copyleft licenses are usually &ldquo;"
+#| "incompatible&rdquo;, which means it is illegal to merge the code using "
+#| "one license with the code using the other license; therefore, it is good "
+#| "for the community if people use a single copyleft license."
 msgid ""
 "Copyleft is a general concept; to copyleft an actual program, you need to "
 "use a specific set of distribution terms. There are many possible ways to "
 "write copyleft distribution terms, so in principle there can be many "
 "copyleft free software licenses.  However, in actual practice nearly all "
-"copylefted software uses the <a href=\"/copyleft/gpl.html\">GNU General "
+"copylefted software uses the <a href=\"/licenses/gpl.html\">GNU General "
 "Public License</a>. Two different copyleft licenses are usually &ldquo;"
 "incompatible&rdquo;, which means it is illegal to merge the code using one "
 "license with the code using the other license; therefore, it is good for the "
@@ -480,10 +514,10 @@ msgstr ""
 
 #. type: Content of: <p>
 msgid ""
-"Lax permissive licenses include the X11 license and the <a href=\"bsd.html"
-"\">two BSD licenses</a>.  These licenses permit almost any use of the code, "
-"including distributing proprietary binaries with or without changing the "
-"source code."
+"Lax permissive licenses include the X11 license and the <a href=\"/licenses/"
+"bsd.html\">two BSD licenses</a>.  These licenses permit almost any use of "
+"the code, including distributing proprietary binaries with or without "
+"changing the source code."
 msgstr ""
 
 #. type: Content of: <h3>
@@ -491,8 +525,17 @@ msgid "GPL-covered software"
 msgstr "Software coberto pela GPL"
 
 #. type: Content of: <p>
+# | The <a [-href=\"/copyleft/gpl.html\">GNU-]
+# | {+href=\"/licenses/gpl.html\">GNU+} GPL (General Public License)</a> is
+# | one specific set of distribution terms for copylefting a program. The GNU
+# | Project uses it as the distribution terms for most GNU software.
+#, fuzzy
+#| msgid ""
+#| "The <a href=\"/copyleft/gpl.html\">GNU GPL (General Public License)</a> "
+#| "is one specific set of distribution terms for copylefting a program. The "
+#| "GNU Project uses it as the distribution terms for most GNU software."
 msgid ""
-"The <a href=\"/copyleft/gpl.html\">GNU GPL (General Public License)</a> is "
+"The <a href=\"/licenses/gpl.html\">GNU GPL (General Public License)</a> is "
 "one specific set of distribution terms for copylefting a program. The GNU "
 "Project uses it as the distribution terms for most GNU software."
 msgstr ""
@@ -656,7 +699,7 @@ msgstr ""
 #. type: Content of: <p>
 #, fuzzy
 msgid ""
-"Most GNU software is <a href= \"/copyleft/copyleft.html\">copylefted</a>, "
+"Most GNU software is <a href= \"/licenses/copyleft.html\">copylefted</a>, "
 "but not all; however, all GNU software must be <a href=\"/philosophy/free-sw."
 "html\">free software</a>."
 msgstr ""
@@ -742,7 +785,7 @@ msgstr "Software proprietário"
 msgid ""
 "Proprietary software is another name for nonfree software.  In the past we "
 "subdivided nonfree software into &ldquo;semifree software&rdquo;, which "
-"could be modified and redistributed noncommercially, and &ldquo; proprietary "
+"could be modified and redistributed noncommercially, and &ldquo;proprietary "
 "software&rdquo;, which could not be.  But we have dropped that distinction "
 "and now use &ldquo;proprietary software&rdquo; as synonymous with nonfree "
 "software."
@@ -1027,7 +1070,7 @@ msgstr ""
 #, fuzzy
 msgid ""
 "Copyright &copy; 1996, 1997, 1998, 2001, 2006, 2007, 2009, 2010, 2014, 2015, "
-"2016 Free Software Foundation, Inc."
+"2016, 2017 Free Software Foundation, Inc."
 msgstr "Copyright &copy; 1996, 1997, 1998, 2001 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>

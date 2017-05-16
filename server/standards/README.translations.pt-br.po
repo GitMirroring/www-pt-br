@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: README.translations.html\n"
-"POT-Creation-Date: 2017-03-28 05:56+0000\n"
+"POT-Creation-Date: 2017-05-04 05:56+0000\n"
 "PO-Revision-Date: 2017-04-20 16:51-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -224,15 +224,28 @@ msgstr ""
 msgid "Clarity"
 msgstr "Claridade"
 
-#. type: Content of: outside any tag (error?)
+#. type: Content of: <p>
+# | With few exceptions, the pages we translate are addressed to the general
+# | public.  Before working on a page, please look at the original and ask
+# | yourself whether it is addressed to programmers or to the general public. 
+# | Then aim your translation at the same audience.  [-In pages meant for the
+# | general public, please avoid words that are not found in common
+# | dictionaries, except for our special terms such as \"GNU\" and
+# | \"copyleft\" (see the list below).-]
+#, fuzzy
+#| msgid ""
+#| "With few exceptions, the pages we translate are addressed to the general "
+#| "public.  Before working on a page, please look at the original and ask "
+#| "yourself whether it is addressed to programmers or to the general "
+#| "public.  Then aim your translation at the same audience.  In pages meant "
+#| "for the general public, please avoid words that are not found in common "
+#| "dictionaries, except for our special terms such as \"GNU\" and \"copyleft"
+#| "\" (see the list below)."
 msgid ""
 "With few exceptions, the pages we translate are addressed to the general "
 "public.  Before working on a page, please look at the original and ask "
 "yourself whether it is addressed to programmers or to the general public.  "
-"Then aim your translation at the same audience.  In pages meant for the "
-"general public, please avoid words that are not found in common "
-"dictionaries, except for our special terms such as \"GNU\" and \"copyleft"
-"\" (see the list below)."
+"Then aim your translation at the same audience."
 msgstr ""
 "Com poucas exceções, as páginas que nós traduzimos são direcionadas para o "
 "público geral. Antes de trabalhar em uma página, por favor dê uma olhada na "
@@ -241,6 +254,13 @@ msgstr ""
 "alvo. Em páginas destinadas para o público geral, por favor evite palavras "
 "que não são encontradas em dicionários comuns, exceto para nossos termos "
 "especiais, como “GNU” e “copyleft” (veja a lista abaixo)."
+
+#. type: Content of: <p>
+msgid ""
+"In pages meant for the general public, please avoid words that are not found "
+"in common dictionaries, except for our special terms such as &ldquo;"
+"GNU&rdquo; and &ldquo;copyleft&rdquo; (see the list below)."
+msgstr ""
 
 #. type: Content of: <h4>
 msgid "Accuracy"
