@@ -3,12 +3,12 @@
 # This file is distributed under the same license as the gnu.org article.
 # Leandro Guimarães Faria Corcete DUTRA <leandro.gfc.dutra@gmail.com>, 2009.
 # Dec 2014: trivial update of a few strings (T. Godefroy).
-# Rafael Fontenelle <rafaelff@gnome.org>, 2016.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2016, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: keepingup.html\n"
 "POT-Creation-Date: 2017-03-30 07:56+0000\n"
-"PO-Revision-Date: 2016-11-15 21:58-0200\n"
+"PO-Revision-Date: 2017-04-23 18:46-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 0.7.1\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
 
 # type: Content of: <title>
 #. type: Content of: <title>
@@ -207,6 +207,11 @@ msgid ""
 "<a href=\"//www.fsf.org/free-software-supporter/\">Free Software Supporter</"
 "a>"
 msgstr ""
+"Você pode obter notícias arquivadas em espanhol sobre GNU e a FSF em <a href="
+"\"http://web.archive.org/web/20160913034809/http://gnuticias.es.gnu.org/\"> "
+"GNUticias</a>. Notícias recentes estão disponíveis na tradução em espanhol "
+"do <a href=\"//www.fsf.org/free-software-supporter/\">Free Software "
+"Supporter</a>"
 
 # type: Content of: <div>
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
@@ -256,18 +261,12 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-# | Copyright &copy; 2003, 2004, 2005, 2006, 2007, 2014, [-2015-] {+2015,
-# | 2017+} Free Software Foundation, Inc.
-#, fuzzy
-#| msgid ""
-#| "Copyright &copy; 2003, 2004, 2005, 2006, 2007, 2014, 2015 Free Software "
-#| "Foundation, Inc."
 msgid ""
 "Copyright &copy; 2003, 2004, 2005, 2006, 2007, 2014, 2015, 2017 Free "
 "Software Foundation, Inc."
 msgstr ""
-"Copyright &copy; 2003, 2004, 2005, 2006, 2007, 2014, 2015 Free Software "
-"Foundation, Inc."
+"Copyright &copy; 2003, 2004, 2005, 2006, 2007, 2014, 2015, 2017 Free "
+"Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -298,3 +297,31 @@ msgstr "Última atualização: "
 #~ msgstr ""
 #~ "Pode-se obter notícias em espanhol sobre o GNU em <a href=\"http://"
 #~ "gnuticias.es.gnu.org\">GNUticias</a>."
+
+# type: Content of: <ul><li>
+#~ msgid ""
+#~ "<a href=\"http://mail.gnu.org/mailman/listinfo/info-gnu-events\"> info-"
+#~ "gnu-events</a>: Announcements of GNU and FSF events."
+#~ msgstr ""
+#~ "<a href = \"http://mail.gnu.org/mailman/listinfo/info-gnu/events\">info-"
+#~ "gnu-events</a>: anúncios de eventos GNU e da FSF."
+
+# type: Content of: <p>
+#~ msgid ""
+#~ "Read the <a href=\"/press/press.html#releases\">Press Releases</a> from "
+#~ "the GNU Project and the FSF."
+#~ msgstr ""
+#~ "Leia os <a href = \"/press/press.html#releases\">Informes à Imprensa</a> "
+#~ "do Projeto GNU e da FSF."
+
+# type: Content of: <ul><li>
+#~ msgid ""
+#~ "<a href=\"http://mail.gnu.org/mailman/listinfo/info-fsf\"> info-fsf</a>: "
+#~ "Free Software Foundation announcements and information."
+#~ msgstr ""
+#~ "<a href = \"http://mail.gnu.org/mailman/listinfo/info-fsf\">info-fsf</a>: "
+#~ "anúnicos e informações da Free Software Foundation."
+
+# type: Content of: <h3>
+#~ msgid "News"
+#~ msgstr "Notícias"

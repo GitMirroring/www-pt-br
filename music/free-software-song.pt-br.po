@@ -2,12 +2,12 @@
 # Copyright (C) 2016 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original articles.
 # Initial translation by zhrO zh <zhrtvp@gmail.com>, 2016
-# Rafael Fontenelle <rafaelff@gnome.org>, 2016.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2016, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: free-software-song.html\n"
 "POT-Creation-Date: 2017-03-08 11:26+0000\n"
-"PO-Revision-Date: 2016-10-29 22:41-0200\n"
+"PO-Revision-Date: 2017-04-23 17:29-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 0.7.1\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
 
 #. type: Content of: <title>
 msgid "The Free Software Song - GNU Project - Free Software Foundation"
@@ -271,29 +271,6 @@ msgstr ""
 "catmoognu.ogv\">Ogg Vídeo</a> (4,5 MB)."
 
 #. type: Content of: <ul><li>
-# | [-The-]{+In 2012, the+} band [-<a
-# | href=\"http://sebkhachott.net/spip/?Free-Software-Song\">Sebkha-Chott</a>-]
-# | {+Sebkha-Chott+} released [-in 2012,-] a <em>matricide</em> of the Free
-# | Software Song to celebrate the death of <a
-# | href=\"http://www.laquadrature.net/en/ACTA\">ACTA</a>. It's available in
-# | <a
-# | href=\"http://archive.org/download/Sebkha-Chott_FSFSongIsHip_2012/SC_FSF.ogg\">Ogg
-# | vorbis</a> (2.3MB), or in <a
-# | href=\"http://archive.org/download/Sebkha-Chott_FSFSongIsHip_2012/SC_FSF.flac\">FLAC</a>
-# | (10.1MB), under the <a
-# | href=\"//directory.fsf.org/wiki/License:Free-Art-L-v1.3\">Free Art
-# | License, version 1.3</a>.
-#, fuzzy
-#| msgid ""
-#| "The band <a href=\"http://sebkhachott.net/spip/?Free-Software-Song"
-#| "\">Sebkha-Chott</a> released in 2012, a <em>matricide</em> of the Free "
-#| "Software Song to celebrate the death of <a href=\"http://www.laquadrature."
-#| "net/en/ACTA\">ACTA</a>. It's available in <a href=\"http://archive.org/"
-#| "download/Sebkha-Chott_FSFSongIsHip_2012/SC_FSF.ogg\">Ogg vorbis</a> "
-#| "(2.3MB), or in <a href=\"http://archive.org/download/Sebkha-"
-#| "Chott_FSFSongIsHip_2012/SC_FSF.flac\">FLAC</a> (10.1MB), under the <a "
-#| "href=\"//directory.fsf.org/wiki/License:Free-Art-L-v1.3\">Free Art "
-#| "License, version 1.3</a>."
 msgid ""
 "In 2012, the band Sebkha-Chott released a <em>matricide</em> of the Free "
 "Software Song to celebrate the death of <a href=\"http://www.laquadrature."
@@ -303,14 +280,13 @@ msgid ""
 "SC_FSF.flac\">FLAC</a> (10.1MB), under the <a href=\"//directory.fsf.org/"
 "wiki/License:Free-Art-L-v1.3\">Free Art License, version 1.3</a>."
 msgstr ""
-"A banda <a href=\"http://sebkhachott.net/spip/?Free-Software-Song\">Sebkha-"
-"Chott</a> lançou, em 2012, um <em>matricida</em> da Música do Software Livre "
-"para celebrar a morte da <a href=\"http://www.laquadrature.net/en/ACTA"
-"\">ACTA</a>. Está disponível em <a href=\"http://archive.org/download/Sebkha-"
-"Chott_FSFSongIsHip_2012/SC_FSF.ogg\">Ogg Vorbis</a> (2,3 MB) ou em <a href="
-"\"http://archive.org/download/Sebkha-Chott_FSFSongIsHip_2012/SC_FSF.flac"
-"\">FLAC</a> (10,1 MB), sob a <a href=\"//directory.fsf.org/wiki/License:Free-"
-"Art-L-v1.3\">Licença de Arte Livre, versão 1.3</a>."
+"Em 2012, a banda Sebkha-Chott lançou um <em>matricida</em> da Música do "
+"Software Livre para celebrar a morte da <a href=\"http://www.laquadrature."
+"net/en/ACTA\">ACTA</a>. Está disponível em <a href=\"http://archive.org/"
+"download/Sebkha-Chott_FSFSongIsHip_2012/SC_FSF.ogg\">Ogg Vorbis</a> (2,3 MB) "
+"ou em <a href=\"http://archive.org/download/Sebkha-Chott_FSFSongIsHip_2012/"
+"SC_FSF.flac\">FLAC</a> (10,1 MB), sob a <a href=\"//directory.fsf.org/wiki/"
+"License:Free-Art-L-v1.3\">Licença de Arte Livre, versão 1.3</a>."
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -447,18 +423,12 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-# | Copyright &copy; 1993, 2001, 2002, 2003, 2004, 2005, 2006, 2010, 2011,
-# | 2014, 2015, [-2016-] {+2016, 2017+} Richard Stallman
-#, fuzzy
-#| msgid ""
-#| "Copyright &copy; 1993, 2001, 2002, 2003, 2004, 2005, 2006, 2010, 2011, "
-#| "2014, 2015, 2016 Richard Stallman"
 msgid ""
 "Copyright &copy; 1993, 2001, 2002, 2003, 2004, 2005, 2006, 2010, 2011, 2014, "
 "2015, 2016, 2017 Richard Stallman"
 msgstr ""
 "Copyright &copy; 1993, 2001, 2002, 2003, 2004, 2005, 2006, 2010, 2011, 2014, "
-"2015, 2016 Richard Stallman"
+"2015, 2016, 2017 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
