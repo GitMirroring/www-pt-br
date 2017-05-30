@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: README.translations.html\n"
-"POT-Creation-Date: 2017-05-04 05:56+0000\n"
+"POT-Creation-Date: 2017-05-26 08:56+0000\n"
 "PO-Revision-Date: 2017-04-20 16:51-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -1099,14 +1099,30 @@ msgstr ""
 "\"> Andreas Tolfsen</a> - Novo coordenador necessário)"
 
 #. type: Content of: <ul><li>
+# | [-<code>es</code>-]{+<code>nl</code>+} - <a
+# | [-href=\"https://savannah.gnu.org/projects/www-es\">Spanish</a>-]
+# | {+href=\"https://savannah.gnu.org/projects/www-nl\">Dutch</a>+} (<a
+# | [-href=\"https://savannah.gnu.org/users/dora\">Dora Scilipoti</a>,-]
+# | {+href=\"https://savannah.gnu.org/users/tuijldert\">Tom Uijldert</a>,+} <a
+# | [-href=\"https://savannah.gnu.org/users/jfrtnaga\">Javier Fernández
+# | Retenaga</a>)-] {+href=\"https://savannah.gnu.org/users/jvs\">Justin van
+# | Steijn</a>)+}
+#, fuzzy
+#| msgid ""
+#| "<code>es</code> - <a href=\"https://savannah.gnu.org/projects/www-es"
+#| "\">Spanish</a> (<a href=\"https://savannah.gnu.org/users/dora\">Dora "
+#| "Scilipoti</a>, <a href=\"https://savannah.gnu.org/users/jfrtnaga\">Javier "
+#| "Fernández Retenaga</a>)"
 msgid ""
 "<code>nl</code> - <a href=\"https://savannah.gnu.org/projects/www-nl"
 "\">Dutch</a> (<a href=\"https://savannah.gnu.org/users/tuijldert\">Tom "
-"Uijldert</a>)"
+"Uijldert</a>, <a href=\"https://savannah.gnu.org/users/jvs\">Justin van "
+"Steijn</a>)"
 msgstr ""
-"<code>nl</code> - <a href=\"https://savannah.gnu.org/projects/www-nl"
-"\">Holandês</a> (<a href=\"https://savannah.gnu.org/users/tuijldert\">Tom "
-"Uijldert</a>)"
+"<code>es</code> - <a href=\"https://savannah.gnu.org/projects/www-es"
+"\">Espanhol</a> (<a href=\"https://savannah.gnu.org/users/dora\">Dora "
+"Scilipoti</a>, <a href=\"https://savannah.gnu.org/users/jfrtnaga\">Javier "
+"Fernández Retenaga</a>)"
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -1366,3 +1382,12 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização: "
+
+#~ msgid ""
+#~ "<code>nl</code> - <a href=\"https://savannah.gnu.org/projects/www-nl"
+#~ "\">Dutch</a> (<a href=\"https://savannah.gnu.org/users/tuijldert\">Tom "
+#~ "Uijldert</a>)"
+#~ msgstr ""
+#~ "<code>nl</code> - <a href=\"https://savannah.gnu.org/projects/www-nl"
+#~ "\">Holandês</a> (<a href=\"https://savannah.gnu.org/users/tuijldert\">Tom "
+#~ "Uijldert</a>)"
