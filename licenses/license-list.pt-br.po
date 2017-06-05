@@ -11,8 +11,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: license-list.html\n"
 "POT-Creation-Date: 2016-06-29 14:57+0000\n"
-"PO-Revision-Date: 2015-02-23 19:39+0100\n"
-"Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
+"PO-Revision-Date: 2017-05-20 16:20-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -84,7 +84,7 @@ msgstr ""
 #. type: Content of: <style>
 #, fuzzy, no-wrap
 msgid "#legend dl.red dt:after { content: \"Nonfree licenses\"; }\n"
-msgstr "#legend dl.red dt:after { content: \"Licenças não-livres\"; }\n"
+msgstr "#legend dl.red dt:after { content: \"Licenças não livres\"; }\n"
 
 #. type: Content of: <style>
 #, no-wrap
@@ -132,7 +132,7 @@ msgstr ""
 #, fuzzy
 msgid "<a href=\"#NonFreeSoftwareLicenses\">Nonfree Software Licenses</a>"
 msgstr ""
-"<a href=\"#NonFreeSoftwareLicense\"> Licenças de software não-livre</a>"
+"<a href=\"#NonFreeSoftwareLicense\"> Licenças de software não livre</a>"
 
 # type: Content of: <ul><li>
 #. type: Content of: <div><ul><li>
@@ -151,7 +151,7 @@ msgstr ""
 msgid ""
 "<a href=\"#NonFreeDocumentationLicenses\"> Nonfree Documentation Licenses</a>"
 msgstr ""
-"<a href=\"#NonFreeDocumentationLicenses\">Licenças de documentação não-"
+"<a href=\"#NonFreeDocumentationLicenses\">Licenças de documentação não "
 "livre</a>"
 
 # type: Content of: <ul><li>
@@ -408,7 +408,7 @@ msgid ""
 msgstr ""
 "Esta é a versão mais recente da GNU LGPL: uma licença de software livre, mas "
 "não é uma licença com copyleft forte, pois ela permite a linkedição com "
-"módulos não-livres. Ela é compatível com a GPLv3. Nós a recomendamos somente "
+"módulos não livres. Ela é compatível com a GPLv3. Nós a recomendamos somente "
 "em <a href=\"/licenses/why-not-lgpl.html\">circunstâncias especiais</a>."
 
 #. type: Content of: <dl><dd><p>
@@ -446,7 +446,7 @@ msgid ""
 msgstr ""
 "Esta é a versão anterior da GNU LGPL: uma licença de software livre, mas não "
 "é uma licença com copyleft forte porque da permissão para linkeditar com "
-"software não-livre. É compatível com as versãos 2 e 3 da GPL. Em geral, "
+"software não livre. É compatível com as versãos 2 e 3 da GPL. Em geral, "
 "recomendamos <a href=\"#LGPL\">a versão mais recente da LGPL</a>, <a href=\"/"
 "licenses/why-not-lgpl.html\">somente em circunstâncias especiais</a>."
 
@@ -609,7 +609,7 @@ msgid ""
 "This is a lax, permissive non-copyleft free software license, compatible "
 "with the GNU GPL."
 msgstr ""
-"Esta é uma licença de software livre, permissiva e não-copyleft, que é "
+"Esta é uma licença de software livre, permissiva e não copyleft, que é "
 "compatível com a GNU GPL."
 
 #. type: Content of: <dl><dt>
@@ -1484,7 +1484,7 @@ msgid ""
 "This is a lax permissive non-copyleft free software license, compatible with "
 "the GNU GPL."
 msgstr ""
-"Esta é uma licença de software livre, permissiva e não-copyleft, que é "
+"Esta é uma licença de software livre, permissiva e não copyleft, que é "
 "compatível com a GNU GPL."
 
 #. type: Content of: <dl><dd><p>
@@ -1568,7 +1568,7 @@ msgid ""
 "This is a lax, permissive non-copyleft free software license, compatible "
 "with version 3 of the GPL."
 msgstr ""
-"Esta é uma licença de software livre, permissiva e não-copyleft, que é "
+"Esta é uma licença de software livre, permissiva e não copyleft, que é "
 "compatível com a versão 3 da GPL."
 
 # type: Content of: <dl><dd><p>
@@ -1622,7 +1622,7 @@ msgid ""
 "This is a lax, permissive non-copyleft free software license which is "
 "compatible with the GNU GPL."
 msgstr ""
-"Esta é uma licença de software livre, permissiva e não-copyleft, que é "
+"Esta é uma licença de software livre, permissiva e não copyleft, que é "
 "compatível com a GNU GPL."
 
 # type: Content of: <h3>
@@ -2109,7 +2109,7 @@ msgstr ""
 "recurso para mapear nomes de arquivos, que permite especificar “use o "
 "arquivo X quando o arquivo Y for solicitado”. Com este recurso, a exigência "
 "é apenas desagradável; sem este recurso, a mesma exigência seria um "
-"obstáculo sério, e seria forçoso concluir que ela torna o programa não-livre."
+"obstáculo sério, e seria forçoso concluir que ela torna o programa não livre."
 
 #. type: Content of: <dl><dd><p>
 msgid ""
@@ -2131,7 +2131,7 @@ msgid ""
 "software."
 msgstr ""
 "A LPPL diz que alguns arquivos, em certas versões do LaTeX, podem ter "
-"restrições adicionais, que poderiam torná-los não-livres. Por este motivo, "
+"restrições adicionais, que poderiam torná-los não livres. Por este motivo, "
 "pode ser necessário fazer verificações cuidadosas para poder produzir uma "
 "versão do LaTeX que seja software livre."
 
@@ -2815,7 +2815,7 @@ msgstr "<span id=\"NonFreeSoftwareLicense\"></span>"
 #. type: Content of: <div><h4>
 #, fuzzy
 msgid "Nonfree Software Licenses"
-msgstr "Licenças de Software não-livre"
+msgstr "Licenças de Software não livre"
 
 # type: Content of: <ul><li><ul><li>
 #. type: Content of: <div>
@@ -2834,7 +2834,7 @@ msgid ""
 "automatically incompatible with the <a href=\"#GNUGPL\">GNU GPL</a>.</strong>"
 msgstr ""
 "As licenças a seguir <em>não se qualificam</em> como licenças de <a href=\"/"
-"philosophy/free-sw.html\">software livre</a>. Uma licença de software não-"
+"philosophy/free-sw.html\">software livre</a>. Uma licença de software não "
 "livre é automaticamente incompatível com a <a href=\"#GNUGPL\">GNU GPL</a>."
 
 # type: Content of: <p>
@@ -2843,8 +2843,8 @@ msgid ""
 "Of course, we urge you to avoid using nonfree software licenses, and to "
 "avoid nonfree software in general."
 msgstr ""
-"É claro, nós pedimos que você evite o uso de licenças de software não-"
-"livres, e que você evite software não-livre em geral."
+"É claro, nós pedimos que você evite o uso de licenças de software não "
+"livres, e que você evite software não livre em geral."
 
 # type: Content of: <p>
 #. type: Content of: <p>
@@ -2854,7 +2854,7 @@ msgid ""
 "licenses that are often mistaken for free software licenses but are, in "
 "fact, <strong>not</strong> free software licenses."
 msgstr ""
-"Não seria possível listarmos todas as licenças não-livres que existem; "
+"Não seria possível listarmos todas as licenças não livres que existem; "
 "afinal, cada empresa de software proprietário tem a sua própria. Nós nos "
 "focamos em licenças que são frequentemente tomadas erroneamente como se "
 "fossem licenças de software livre, mas são, na verdade, licenças "
@@ -2873,8 +2873,8 @@ msgid ""
 msgstr ""
 "Nós incluímos links para esses pacotes quando é possível faze-lo sem violar "
 "nossa regra geral: de que nósnão fazemos links para sites que promovem, "
-"encoragam ou facilitam o uso de pacotes de software não-livre. A última "
-"coisa que nós queremos fazer é dar a qualquer programa não-livre publicidade "
+"encoragam ou facilitam o uso de pacotes de software não livre. A última "
+"coisa que nós queremos fazer é dar a qualquer programa não livre publicidade "
 "gratuita que poderia encorajar mais pessoas a utiliza-lo. Pelo mesmo motivo, "
 "nós evitamos nomear os programas nos quais a licença é utilizada, a não ser "
 "que nós pensemos que por alguma rasão específica isto não irá nos trair."
@@ -3766,7 +3766,7 @@ msgid ""
 "This is a permissive non-copyleft free documentation license that is "
 "compatible with the GNU FDL."
 msgstr ""
-"Esta é uma licença de documentação permissiva e não-copyleft que é "
+"Esta é uma licença de documentação permissiva e não copyleft que é "
 "compatível com a GNU FDL."
 
 #. type: Content of: <dl><dt>
@@ -3837,7 +3837,7 @@ msgstr ""
 "Isto faz com que seja perigoso recomendar ou utilizar esta licença: se "
 "alguém recomendar “Use a Licença de Publicação Aberta, versão 1.0,x mas não "
 "permita nenhuma opção”, seria fácil para a segunda parte da recomendação ser "
-"esquecida; alguém poderia utilizar a licença com opções, tornando o não-"
+"esquecida; alguém poderia utilizar a licença com opções, tornando o não "
 "livre o manual em questão, e ainda assim pensar que seguiu o conselho."
 
 # type: Content of: <dl><dd><p>
@@ -3885,7 +3885,7 @@ msgstr ""
 
 #. type: Content of: <div><h4>
 msgid "Nonfree Documentation Licenses"
-msgstr "Licenças de documentacão não-livre"
+msgstr "Licenças de documentacão não livre"
 
 # type: Content of: <ul><li><ul><li>
 #. type: Content of: <div>
@@ -4104,7 +4104,7 @@ msgid ""
 "faq/#can-i-apply-a-creative-commons-license-to-software\">it <em>should not "
 "be used on software</em></a>."
 msgstr ""
-"Esta é uma licença de documentação permissiva e não-copyleft que é "
+"Esta é uma licença de documentação permissiva e não copyleft que é "
 "compatível com a GNU FDL."
 
 #. type: Content of: <dl><dd><p>
@@ -4137,7 +4137,7 @@ msgid ""
 "creativecommons.org/faq/#can-i-apply-a-creative-commons-license-to-software"
 "\">it <em>should not be used on software</em></a>."
 msgstr ""
-"Esta é uma licença de documentação permissiva e não-copyleft que é "
+"Esta é uma licença de documentação permissiva e não copyleft que é "
 "compatível com a GNU FDL."
 
 #. type: Content of: <dl><dd><p>
@@ -4643,7 +4643,7 @@ msgstr "Última atualização: "
 #~ "versions of the GNU GPL; however, it is not recommended for use on "
 #~ "software."
 #~ msgstr ""
-#~ "Esta é uma licença de documentação permissiva e não-copyleft que é "
+#~ "Esta é uma licença de documentação permissiva e não copyleft que é "
 #~ "compatível com a GNU FDL."
 
 # type: Content of: <div><p>
@@ -4657,7 +4657,7 @@ msgstr "Última atualização: "
 #~ "This is lax permissive non-copyleft free software license, compatible "
 #~ "with the GNU GPL."
 #~ msgstr ""
-#~ "Esta é uma licença de software livre, permissiva e não-copyleft, que é "
+#~ "Esta é uma licença de software livre, permissiva e não copyleft, que é "
 #~ "compatível com a GNU GPL."
 
 #, fuzzy
