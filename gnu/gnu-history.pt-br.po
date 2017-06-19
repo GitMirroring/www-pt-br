@@ -9,7 +9,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnu-history.html\n"
-"POT-Creation-Date: 2014-04-04 23:59+0000\n"
+"POT-Creation-Date: 2017-06-16 06:56+0000\n"
 "PO-Revision-Date: 2017-05-20 16:20-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -33,15 +33,35 @@ msgid "Overview of the GNU System"
 msgstr "Visão Geral do Sistema GNU"
 
 #. type: Content of: <p>
+# | The GNU operating system is a complete free software system,
+# | upward-compatible with Unix.  GNU stands for &ldquo;GNU's Not Unix&rdquo;.
+# |  {+It is pronounced as <a href=\"/gnu/pronunciation.html\">one syllable
+# | with a hard g</a>.+}  <a href=\"http://www.stallman.org/\">Richard
+# | Stallman</a> made the <a href=\"/gnu/initial-announcement.html\">Initial
+# | Announcement</a> of the GNU Project in September 1983.  A longer version
+# | called the <a href=\"/gnu/manifesto.html\">GNU Manifesto</a> was published
+# | in March 1985.  It has been translated into several <a
+# | href=\"/gnu/manifesto.html#translations\">other languages</a>.
+#, fuzzy
+#| msgid ""
+#| "The GNU operating system is a complete free software system, upward-"
+#| "compatible with Unix.  GNU stands for &ldquo;GNU's Not Unix&rdquo;.  <a "
+#| "href=\"http://www.stallman.org/\">Richard Stallman</a> made the <a href="
+#| "\"/gnu/initial-announcement.html\">Initial Announcement</a> of the GNU "
+#| "Project in September 1983.  A longer version called the <a href=\"/gnu/"
+#| "manifesto.html\">GNU Manifesto</a> was published in March 1985.  It has "
+#| "been translated into several <a href=\"/gnu/manifesto.html#translations"
+#| "\">other languages</a>."
 msgid ""
 "The GNU operating system is a complete free software system, upward-"
-"compatible with Unix.  GNU stands for &ldquo;GNU's Not Unix&rdquo;.  <a href="
-"\"http://www.stallman.org/\">Richard Stallman</a> made the <a href=\"/gnu/"
-"initial-announcement.html\">Initial Announcement</a> of the GNU Project in "
-"September 1983.  A longer version called the <a href=\"/gnu/manifesto.html"
-"\">GNU Manifesto</a> was published in March 1985.  It has been translated "
-"into several <a href=\"/gnu/manifesto.html#translations\">other languages</"
-"a>."
+"compatible with Unix.  GNU stands for &ldquo;GNU's Not Unix&rdquo;.  It is "
+"pronounced as <a href=\"/gnu/pronunciation.html\">one syllable with a hard "
+"g</a>.  <a href=\"http://www.stallman.org/\">Richard Stallman</a> made the "
+"<a href=\"/gnu/initial-announcement.html\">Initial Announcement</a> of the "
+"GNU Project in September 1983.  A longer version called the <a href=\"/gnu/"
+"manifesto.html\">GNU Manifesto</a> was published in March 1985.  It has been "
+"translated into several <a href=\"/gnu/manifesto.html#translations\">other "
+"languages</a>."
 msgstr ""
 "O sistema operacional GNU é um sistema de software livre completo, "
 "compatível com o Unix. GNU significa &ldquo;GNU's Not Unix&rdquo; (GNU Não é "
@@ -286,18 +306,34 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
+# | Copyright &copy; 1996, 1997, 1998, 1999, 2001, 2002, 2003, 2005, 2007,
+# | 2009, 2012, [-2014-] {+2014, 2017+} Free Software Foundation, Inc.
+#, fuzzy
+#| msgid ""
+#| "Copyright &copy; 1996, 1997, 1998, 1999, 2001, 2002, 2003, 2005, 2007, "
+#| "2009, 2012, 2014 Free Software Foundation, Inc."
 msgid ""
 "Copyright &copy; 1996, 1997, 1998, 1999, 2001, 2002, 2003, 2005, 2007, 2009, "
-"2012, 2014 Free Software Foundation, Inc."
+"2012, 2014, 2017 Free Software Foundation, Inc."
 msgstr ""
 "Copyright &copy; 1996, 1997, 1998, 1999, 2001, 2002, 2003, 2005, 2007, 2009, "
 "2012, 2014 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
+# | This page is licensed under a <a rel=\"license\"
+# | [-href=\"http://creativecommons.org/licenses/by-nd/3.0/us/\">Creative-]
+# | {+href=\"http://creativecommons.org/licenses/by-nd/4.0/\">Creative+}
+# | Commons [-Attribution-NoDerivs 3.0 United States-]
+# | {+Attribution-NoDerivatives 4.0 International+} License</a>.
+#, fuzzy
+#| msgid ""
+#| "This page is licensed under a <a rel=\"license\" href=\"http://"
+#| "creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+#| "NoDerivs 3.0 United States License</a>."
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
 "creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
