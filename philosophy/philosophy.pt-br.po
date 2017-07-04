@@ -10,11 +10,12 @@
 # Hudson Flávio Meneses Lacerda <hfmlacerda@yahoo.com.br>, 2013.
 # Dec 2014: remove wrong msgstr's, trivially update a few strings (T. Godefroy).
 # Rafael Fontenelle <rafaelff@gnome.org>, 2012, 2013, 2017.
+# Daniel Roma <listasdiscussaolinux@gmail.com>, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: philosophy.html\n"
 "POT-Creation-Date: 2016-11-18 06:59+0000\n"
-"PO-Revision-Date: 2017-01-28 23:11-0200\n"
+"PO-Revision-Date: 2017-06-05 22:23-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -37,7 +38,7 @@ msgid ""
 "See <a href=\"http://audio-video.gnu.org/\">audio-video.gnu.org</a> for "
 "recordings of Richard Stallman's speeches."
 msgstr ""
-"Veja <a href=\"http://audio-video.gnu.org/\">audio-video.gnu.org</a> para "
+"Acesse <a href=\"http://audio-video.gnu.org/\">audio-video.gnu.org</a> para "
 "gravações de discursos do Richard Stallman."
 
 #. type: Content of: <p>
@@ -47,8 +48,8 @@ msgid ""
 "users can have freedom in their computing."
 msgstr ""
 "<em>Software livre</em> significa que os usuários do software têm liberdade. "
-"(A questão não é de preço.) Nós desenvolvemos o sistema operacional GNU de "
-"modo que os usuários possam ter liberdade no uso do computador."
+"(A questão não é sobre o preço.) Nós desenvolvemos o sistema operacional GNU "
+"de modo que os usuários possam ter liberdade no uso do computador."
 
 #. type: Content of: <p>
 msgid ""
@@ -59,7 +60,7 @@ msgid ""
 msgstr ""
 "Especificamente, software livre significa que os usuários têm as <a href=\"/"
 "philosophy/free-sw.html\">quatro liberdades essenciais</a>: (0) para "
-"executar o programa, (1) para estudar e mudar o código-fonte do programa, "
+"executar o programa; (1) para estudar e mudar o código-fonte do programa; "
 "(2) para redistribuir cópias exatas e (3) para distribuir versões "
 "modificadas."
 
@@ -78,8 +79,7 @@ msgstr ""
 
 #. type: Content of: <p>
 msgid "For further reading, please select a section from the menu above."
-msgstr ""
-"Para leituras complementares, por favor selecione uma seção no menu acima."
+msgstr "Para demais leituras, por favor selecione uma seção no menu acima."
 
 #. type: Content of: <p>
 msgid ""

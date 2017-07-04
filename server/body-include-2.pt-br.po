@@ -6,17 +6,20 @@
 # André Jan Smit <ajansmit@gmail.com>, 2012.
 # Dec 2014: Retrieve old translated strings (T. Godefroy).
 # Bruno Félix Rezende Ribeiro <oitofelix@gnu.org>, 2015.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2016.
 msgid ""
 msgstr ""
 "Project-Id-Version: body-include-2.html\n"
 "POT-Creation-Date: 2017-06-08 07:25+0000\n"
-"PO-Revision-Date: 2015-09-01 14:09-0300\n"
-"Last-Translator: Bruno Félix Rezende Ribeiro <oitofelix@gnu.org>\n"
+"PO-Revision-Date: 2016-07-09 16:36-0200\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
 
 # type: Content of: <body><div><div><div><ul><li>
 #. type: Content of: <div><div><p>
@@ -80,7 +83,7 @@ msgstr "<a href=\"/gnu/gnu.html\">SOBRE&nbsp;O&nbsp;GNU</a>"
 # type: Content of: <body><div><div><div><ul><li>
 #. type: Content of: <div><ul><li>
 msgid "<a href=\"/philosophy/philosophy.html\">PHILOSOPHY</a>"
-msgstr "<a href= \"/philosophy/philosophy.html\">FILOSOFIA</a>"
+msgstr "<a href=\"/philosophy/philosophy.html\">FILOSOFIA</a>"
 
 # type: Content of: <body><div><div><div><ul><li>
 #. type: Content of: <div><ul><li>
@@ -106,3 +109,88 @@ msgstr "<a href=\"/doc/doc.html\">DOCUMENTAÇÃO</a>"
 #. type: Content of: <div><ul><li>
 msgid "<a href=\"/help/help.html\">HELP&nbsp;GNU</a>"
 msgstr "<a href=\"/help/help.html\">AJUDE&nbsp;O&nbsp;GNU</a>"
+
+#~ msgid ""
+#~ "<span dir=\"ltr\">The&nbsp; <strong><a href=\"/ghm/upcoming.html\">9th "
+#~ "HACKERS MEETING</a></strong>&nbsp; will be held in Rennes (France)  "
+#~ "from&nbsp;August&nbsp;18&nbsp;to&nbsp;20.</span>"
+#~ msgstr ""
+#~ "<span dir=\"ltr\">O&nbsp; <strong><a href=\"/ghm/upcoming.html\">9º "
+#~ "HACKERS MEETING</a></strong>&nbsp; será realizado em Rennes (França)  "
+#~ "entre&nbsp;Agosto&nbsp;18&nbsp;e&nbsp;20.</span>"
+
+#~ msgid "by <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
+#~ msgstr "por <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
+
+# type: Content of: <body><div><div><div><div><p>
+#~ msgid "A monthly email newsletter about GNU and Free Software"
+#~ msgstr "Um informativo mensal sobre o GNU e a FSF"
+
+#~ msgid "<label>Enter your email address (e.g. richard@example.com)</label>"
+#~ msgstr ""
+#~ "<label>Digite seu endereço de e-mail (por exemplo richard@exemplo.com.br)"
+#~ "</label>"
+
+# type: Content of: <body><div><div><form><div>
+#~ msgid ""
+#~ "<label class=\"netscape4\" for=\"phrase\">Search:</label> <input name="
+#~ "\"phrase\" id=\"phrase\" type=\"text\" size=\"18\" accesskey=\"s\" value="
+#~ "\"Why GNU/Linux?\" onfocus=\"this.value=''\" /> <input type=\"submit\" "
+#~ "value=\"Search\" />"
+#~ msgstr ""
+#~ "<label class=\"netscape4\" for=\"phrase\">Pesquisa:</label> <input name="
+#~ "\"phrase\" id=\"phrase\" type=\"text\" size=\"18\" accesskey=\"s\" value="
+#~ "\"Por que GNU/Linux?\" onfocus=\"this.value=''\" /> <input type=\"submit"
+#~ "\" value=\"Search\" />"
+
+#~ msgid ""
+#~ "<a href=\"https://my.fsf.org/associate/support_freedom?\" class="
+#~ "\"nounderline\"> Giants like Microsoft and Apple are trying harder than "
+#~ "ever to control the software you use."
+#~ msgstr ""
+#~ "<a href=\"https://my.fsf.org/associate/support_freedom?\" class="
+#~ "\"nounderline\"> Gigantes como a Microsoft e a Apple estão tentando mais "
+#~ "do que nunca controlar o software que você usa."
+
+#~ msgid ""
+#~ "The FSF brings software freedom supporters together to amplify your "
+#~ "voices and make an impact."
+#~ msgstr ""
+#~ "A FSF está reunindo os defensores do software livre para amplificar suas "
+#~ "vozes e causar repercussão."
+
+#~ msgid "In 2013, we want to grow the free software movement."
+#~ msgstr "Em 2013, queremos aumentar o movimento do software livre."
+
+#~ msgid ""
+#~ "<span class=\"underline\">Start your membership today with a $10 donation "
+#~ "and help us crank up the volume.</span> </a>"
+#~ msgstr ""
+#~ "<span class=\"underline\">Torne-se hoje mesmo um membro com uma doação de "
+#~ "10 dólares e nos ajude a aumentar o volume.</span> </a>"
+
+# type: Content of: <body><div><div><div><ul><li>
+#~ msgid ""
+#~ "<a href=\"https://my.fsf.org/associate/support_freedom?\" class="
+#~ "\"nounderline\">"
+#~ msgstr ""
+#~ "<a href=\"https://my.fsf.org/associate/support_freedom?\" class="
+#~ "\"nounderline\">"
+
+#~ msgid "Fundraising knob"
+#~ msgstr "Botão de doações"
+
+#~ msgid "<span class=\"underline\">Help crank it up.</span>"
+#~ msgstr "<span class=\"underline\">Nos ajude a aumentar o volume.</span>"
+
+#~ msgid "<strong class=\"underline\">Donate now!</strong> </a>"
+#~ msgstr "<strong class=\"underline\">Doe agora!</strong> </a>"
+
+#~ msgid "Pledge to take action on May 4th 2012 -- Day Against DRM"
+#~ msgstr "Comprometa-se a agir no dia 4 de maio de 2012 -- Dia Contra o DRM"
+
+#~ msgid "<a href=\"http://libreplanet.org/wiki/LibrePlanet2012\">"
+#~ msgstr "<a href=\"http://libreplanet.org/wiki/LibrePlanet2012\">"
+
+#~ msgid "LibrePlanet 2012 -- March 24/25th 2012"
+#~ msgstr "LibrePlanet 2012 -- 24 e 25 de março de 2012"

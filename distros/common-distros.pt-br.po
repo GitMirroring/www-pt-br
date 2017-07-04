@@ -8,7 +8,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: common-distros.html\n"
-"POT-Creation-Date: 2017-05-20 15:55+0000\n"
+"POT-Creation-Date: 2017-07-02 10:29+0000\n"
 "PO-Revision-Date: 2017-05-21 04:57-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -548,11 +548,25 @@ msgid "Android"
 msgstr "Android"
 
 #. type: Content of: <p>
+# | <a href=\"/philosophy/android-and-users-freedom.html\">Android</a> as
+# | released by Google contains many nonfree parts as well as many free parts.
+# |  Most of the free parts are covered by a pushover license (not <a
+# | [-href=\"/copyleft/copyleft.html\">copyleft</a>),-]
+# | {+href=\"/licenses/copyleft.html\">copyleft</a>),+} so manufacturers that
+# | distribute Android in a product sometimes make those parts nonfree as well.
+#, fuzzy
+#| msgid ""
+#| "<a href=\"/philosophy/android-and-users-freedom.html\">Android</a> as "
+#| "released by Google contains many nonfree parts as well as many free "
+#| "parts.  Most of the free parts are covered by a pushover license (not <a "
+#| "href=\"/copyleft/copyleft.html\">copyleft</a>), so manufacturers that "
+#| "distribute Android in a product sometimes make those parts nonfree as "
+#| "well."
 msgid ""
 "<a href=\"/philosophy/android-and-users-freedom.html\">Android</a> as "
 "released by Google contains many nonfree parts as well as many free parts.  "
 "Most of the free parts are covered by a pushover license (not <a href=\"/"
-"copyleft/copyleft.html\">copyleft</a>), so manufacturers that distribute "
+"licenses/copyleft.html\">copyleft</a>), so manufacturers that distribute "
 "Android in a product sometimes make those parts nonfree as well."
 msgstr ""
 "<a href=\"/philosophy/android-and-users-freedom.html\">Android</a> como "
@@ -563,14 +577,23 @@ msgstr ""
 "também fazem uma versão não livre daquelas partes."
 
 #. type: Content of: <h3>
-msgid "CyanogenMod"
-msgstr "CyanogenMod"
+msgid "LineageOS"
+msgstr ""
 
 #. type: Content of: <p>
+# | [-This-]{+LineageOS (formerly CyanogenMod) is a+} modified version of
+# | [-Android-] {+Android, which+} contains nonfree libraries. It also
+# | explains how to install the nonfree applications that Google distributes
+# | with Android.
+#, fuzzy
+#| msgid ""
+#| "This modified version of Android contains nonfree libraries.  It also "
+#| "explains how to install the nonfree applications that Google distributes "
+#| "with Android."
 msgid ""
-"This modified version of Android contains nonfree libraries.  It also "
-"explains how to install the nonfree applications that Google distributes "
-"with Android."
+"LineageOS (formerly CyanogenMod) is a modified version of Android, which "
+"contains nonfree libraries. It also explains how to install the nonfree "
+"applications that Google distributes with Android."
 msgstr ""
 "Essa versão modificada do Android contém bibliotecas não livres. Ela também "
 "explica como instalar as aplicações não livres que o Google distribui com o "
@@ -666,3 +689,6 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização: "
+
+#~ msgid "CyanogenMod"
+#~ msgstr "CyanogenMod"

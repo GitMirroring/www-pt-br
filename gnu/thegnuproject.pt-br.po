@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: thegnuproject.html\n"
-"POT-Creation-Date: 2017-06-16 06:56+0000\n"
+"POT-Creation-Date: 2017-06-25 13:26+0000\n"
 "PO-Revision-Date: 2017-05-20 16:20-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -1903,12 +1903,27 @@ msgstr ""
 "impedido de ser distribuído sob a ameaça de um processo de patente."
 
 #. type: Content of: <p>
+# | There are ways to cope with patents: we can search for evidence that a
+# | patent is invalid, and we can look for alternative ways to do a job.  But
+# | each of these methods works only sometimes; when both fail, a patent may
+# | force all free software to lack some feature that users want.  [-What-] 
+# | {+After a long wait, the patents expire (the MP3 patents are expected to
+# | have expired by 2018), but what+} will we do [-when this happens?-]
+# | {+until then?+}
+#, fuzzy
+#| msgid ""
+#| "There are ways to cope with patents: we can search for evidence that a "
+#| "patent is invalid, and we can look for alternative ways to do a job.  But "
+#| "each of these methods works only sometimes; when both fail, a patent may "
+#| "force all free software to lack some feature that users want.  What will "
+#| "we do when this happens?"
 msgid ""
 "There are ways to cope with patents: we can search for evidence that a "
 "patent is invalid, and we can look for alternative ways to do a job.  But "
 "each of these methods works only sometimes; when both fail, a patent may "
-"force all free software to lack some feature that users want.  What will we "
-"do when this happens?"
+"force all free software to lack some feature that users want.  After a long "
+"wait, the patents expire (the MP3 patents are expected to have expired by "
+"2018), but what will we do until then?"
 msgstr ""
 "Existem maneiras de lidar com as patentes: podemos procurar evidências de "
 "que uma patente é inválida, e nós podemos procurar formas alternativas para "
