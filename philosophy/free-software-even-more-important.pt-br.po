@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: free-software-even-more-important.html\n"
-"POT-Creation-Date: 2017-04-10 06:56+0000\n"
+"POT-Creation-Date: 2017-07-07 12:55+0000\n"
 "PO-Revision-Date: 2017-05-20 16:20-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -128,15 +128,33 @@ msgstr ""
 "usuários de outras maneiras."
 
 #. type: Content of: <p>
+# | Even when proprietary software isn't downright malicious, its developers
+# | have an incentive to make it <a
+# | [-href=\"https://getpocket.com/explore/item/how-technology-hijacks-people-s-minds-from-a-magician-and-google-s-design-ethicist-1300144185\">addictive,-]
+# | {+href=\"https://observer.com/2016/06/how-technology-hijacks-peoples-minds%E2%80%8A-%E2%80%8Afrom-a-magician-and-googles-design-ethicist/\">
+# | addictive,+} controlling and manipulative</a>.  You can say, as does the
+# | author of that article, that the developers have an ethical obligation not
+# | to do that, but generally they follow their interests.  If you want this
+# | not to happen, make sure the program is controlled by its users.
+#, fuzzy
+#| msgid ""
+#| "Even when proprietary software isn't downright malicious, its developers "
+#| "have an incentive to make it <a href=\"https://getpocket.com/explore/item/"
+#| "how-technology-hijacks-people-s-minds-from-a-magician-and-google-s-design-"
+#| "ethicist-1300144185\">addictive, controlling and manipulative</a>.  You "
+#| "can say, as does the author of that article, that the developers have an "
+#| "ethical obligation not to do that, but generally they follow their "
+#| "interests.  If you want this not to happen, make sure the program is "
+#| "controlled by its users."
 msgid ""
 "Even when proprietary software isn't downright malicious, its developers "
-"have an incentive to make it <a href=\"https://getpocket.com/explore/item/"
-"how-technology-hijacks-people-s-minds-from-a-magician-and-google-s-design-"
-"ethicist-1300144185\">addictive, controlling and manipulative</a>.  You can "
-"say, as does the author of that article, that the developers have an ethical "
-"obligation not to do that, but generally they follow their interests.  If "
-"you want this not to happen, make sure the program is controlled by its "
-"users."
+"have an incentive to make it <a href=\"https://observer.com/2016/06/how-"
+"technology-hijacks-peoples-minds%E2%80%8A-%E2%80%8Afrom-a-magician-and-"
+"googles-design-ethicist/\"> addictive, controlling and manipulative</a>.  "
+"You can say, as does the author of that article, that the developers have an "
+"ethical obligation not to do that, but generally they follow their "
+"interests.  If you want this not to happen, make sure the program is "
+"controlled by its users."
 msgstr ""
 "Mesmo quando software proprietário não é diretamente malicioso, seus "
 "desenvolvedores possuem um incentivo para torná-lo <a href=\"https://"
