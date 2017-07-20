@@ -1,0 +1,197 @@
+# Brazilian Portuguese translation of http://www.gnu.org/server/standards/README.editors.html
+# Copyright (C) 2017 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017.
+# Adonay Felipe Nogueira, 2017 (proofread).
+msgid ""
+msgstr ""
+"Project-Id-Version: README.editors.html\n"
+"POT-Creation-Date: 2014-04-05 00:03+0000\n"
+"PO-Revision-Date: 2017-05-19 19:45-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid ""
+"Guidelines for Writing Web Pages at www.gnu.org - GNU Project - Free "
+"Software Foundation"
+msgstr ""
+"Diretrizes para Escrever Páginas Web no www.gnu.org - Projeto GNU - Free "
+"Software Foundation"
+
+#. type: Content of: <h2>
+msgid "Guidelines for Writing Web Pages at www.gnu.org"
+msgstr "Diretrizes para Escrever Páginas Web no www.gnu.org"
+
+#. type: Content of: <p>
+msgid ""
+"This is a general guide for everyone who wishes to write a web page for the "
+"GNU project web server, <code>www.gnu.org</code>. There are several other "
+"guides that are important, one of the most important ones is the <a href=\"/"
+"server/fsf-html-style-sheet.html\">FSF HTML Style Sheet</a>. A <a href=\"/"
+"server/standards/README.webmastering.html#readme\"> list of other guides</a> "
+"is also available."
+msgstr ""
+"Esse é um guia geral para cada um que deseja escrever uma página web para "
+"servidor web do projeto GNU, <code>www.gnu.org</code>. Há vários outros "
+"guias que são importantes, um dos mais importantes é a <a href=\"/server/fsf-"
+"html-style-sheet.html\">Folha de Estilo HTML da FSF</a>. Uma <a href=\"/"
+"server/standards/README.webmastering.html#readme\"> lista de outros guias</"
+"a> também está disponível."
+
+#. type: Content of: <p>
+msgid ""
+"No pages on the GNU project web server should ever make any references to "
+"nonfree software or nonfree documentation. This is VERY important."
+msgstr ""
+"Nenhuma página no servidor web do projeto GNU deve fazer qualquer referência "
+"a software ou documentação não livre. Isso é MUITO importante."
+
+#. type: Content of: <p>
+msgid ""
+"The boilerplate that is used for all our pages is in <a href=\"/boilerplate."
+"html\">http://www.gnu.org/boilerplate.html</a>.  A good start when writing a "
+"web page is to use that boilerplate and follow the instructions in it. "
+"Please delete the unneeded comments as you go.  It makes the HTML source "
+"file easier for future maintainers to work with.  You should also check for "
+"specialized versions of boilerplate.html in the current directory, and those "
+"above it."
+msgstr ""
+"O padrão que é usado para todas as nossas páginas está no <a href=\"/"
+"boilerplate.html\">http://www.gnu.org/boilerplate.html</a>. Um bom começo ao "
+"escrever uma página web é usar este padrão e seguir as instruções nele. Por "
+"favor, exclua os comentários desnecessários na medida em que for escrevendo. "
+"Isso torna o arquivo fonte HTML fácil para futuros mantenedores trabalharem "
+"nela. Você também deve verificar para versões especializadas de boilerplate."
+"html no diretório atual, e aqueles sobre ela."
+
+#. type: Content of: <p>
+msgid ""
+"When writing a page for a certain program, we want to have some basic "
+"information on such a page:"
+msgstr ""
+"Ao escrever uma página para um determinado programa, queremos ter algumas "
+"informações básicas em tal página:"
+
+#. type: Content of: <ul><li>
+msgid "A description on what the program does"
+msgstr "Uma descrição sobre o que o programa faz"
+
+#. type: Content of: <ul><li>
+msgid "Where to download the program in question"
+msgstr "Onde baixar o programa em questão"
+
+#. type: Content of: <ul><li>
+msgid "Where to report bugs"
+msgstr "Onde relatar erros"
+
+#. type: Content of: <ul><li>
+msgid "FAQs and documentation if they are available"
+msgstr "FAQs e documentação, se disponível"
+
+#. type: Content of: <ul><li>
+msgid "Installation instructions"
+msgstr "Instruções de instalação"
+
+#. type: Content of: <p>
+msgid ""
+"The description should be long enough so that people can grasp the whole "
+"program, but not so long that they get bored by reading it. If a package "
+"consists of several smaller programs, it is best to write a general "
+"description of what types of programs belong in the package and then write "
+"shorter descriptions for each program."
+msgstr ""
+"A descrição deve ser longa o suficiente para que as pessoas possam entender "
+"todo o programa, mas não longa ao ponto deles ficarem entediados lendo-a. Se "
+"um pacote consiste em vários programas menores, é melhor escrever uma "
+"descrição de quais tipos de programas pertencem ao pacote e, então, escrever "
+"descrições para cada programa."
+
+#. type: Content of: <p>
+msgid ""
+"The GNU Project would like to host all web pages about a program, so if the "
+"main pages are currently on some other server, please consider moving them "
+"to the GNU project web server instead."
+msgstr ""
+"O Projeto GNU gostaria de hospedar todas as páginas web sobre um programa, "
+"então se as páginas principais estiverem, atualmente, em algum outro "
+"servidor, por favor considere movê-los para o servidor web do projeto GNU."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+# type: Content of: <div><p>
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF.  Links quebrados e outras correções ou "
+"sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid "Copyright (C) 1999, 2011, 2012, 2014 Free Software Foundation, Inc."
+msgstr "Copyright (C) 1999, 2011, 2012, 2014 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+"NoDerivs 3.0 United States License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle\n"
+"<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, 2017"
+
+# type: Content of: <div><p>
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização: "

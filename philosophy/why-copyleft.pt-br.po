@@ -1,0 +1,170 @@
+# Brazilian Portuguese translation of http://www.gnu.org/philosophy/why-copyleft.html
+# Copyright (C) 2017 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: why-copyleft.html\n"
+"POT-Creation-Date: 2014-03-14 04:36+0000\n"
+"PO-Revision-Date: 2017-07-03 21:00-0200\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid "Why Copyleft? - GNU Project - Free Software Foundation"
+msgstr "Por que Copyleft? - Projeto GNU - Free Software Foundation"
+
+#. type: Content of: <h2>
+msgid "Why Copyleft?"
+msgstr "Por que Copyleft?"
+
+#. type: Content of: <p>
+msgid ""
+"<cite>&ldquo;When it comes to defending the freedom of others, to lie down "
+"and do nothing is an act of weakness, not humility.&rdquo;</cite>"
+msgstr ""
+"<cite>“Quando se trata de defender a liberdade dos outros, ficar sentado e "
+"fazer nada é um ato de fraqueza, e não de humildade.”</cite>"
+
+#. type: Content of: <p>
+msgid ""
+"In the GNU Project we usually recommend people use <a href=\"/copyleft/"
+"copyleft.html\">copyleft</a> licenses like GNU GPL, rather than permissive "
+"non-copyleft free software licenses.  We don't argue harshly against the non-"
+"copyleft licenses&mdash;in fact, we occasionally recommend them in special "
+"circumstances&mdash;but the advocates of those licenses show a pattern of "
+"arguing harshly against the <acronym title=\"General Public License\">GPL</"
+"acronym>."
+msgstr ""
+"No Projeto GNU, geralmente recomendamos que as pessoas usem licenças <a href="
+"\"/copyleft/copyleft.html\">copyleft</a>, como a GNU GPL, em vez de licenças "
+"de software livre sem copyleft. Não argumentamos duramente contra as "
+"licenças sem copyleft &mdash; na verdade, ocasionalmente nós as recomendamos "
+"em circunstâncias especiais &mdash;, mas os advogam por aquelas licenças "
+"mostram um padrão de argumentação dura contra a <acronym title=\"General "
+"Public License\">GPL</acronym>."
+
+#. type: Content of: <p>
+msgid ""
+"In one such argument, a person stated that his use of one of the BSD "
+"licenses was an &ldquo;act of humility&rdquo;: &ldquo;I ask nothing of those "
+"who use my code, except to credit me.&rdquo; It is rather a stretch to "
+"describe a legal demand for credit as &ldquo;humility&rdquo;, but there is a "
+"deeper point to be considered here."
+msgstr ""
+"Em um de tais argumentos, uma pessoal declarou que seu uso de uma das "
+"licenças BSD era um “ato de humildade”: “Eu peço nada daqueles que usam o "
+"meu código, exceto me dar o crédito”. É uma forma de descrever uma demanda "
+"legal por crédito como “humildade”, mas há uma questão mais profunda a ser "
+"considerada aqui."
+
+#. type: Content of: <p>
+msgid ""
+"Humility is abnegating your own self interest, but you and the one who uses "
+"your code are not the only ones affected by your choice of which free "
+"software license to use for your code.  Someone who uses your code in a "
+"nonfree program is trying to deny freedom to others, and if you let him do "
+"it, you're failing to defend their freedom.  When it comes to defending the "
+"freedom of others, to lie down and do nothing is an act of weakness, not "
+"humility."
+msgstr ""
+"Humildade é abnegar seu próprio interesse, mas você e aquele que usa seu "
+"código não são os únicos afetados por suas escolhas de qual licença de "
+"software livre usar em seu código. Alguém que usa seu código em um programa "
+"não livre está tentando negar liberdade a outros e, se você permitir que ele "
+"o faça, você está falhando em defender os direitos deles. Quando se trata de "
+"defender a liberdade dos outros, ficar sentado e fazer nada é um ato de "
+"fraqueza, e não de humildade."
+
+#. type: Content of: <p>
+msgid ""
+"Releasing your code under one of the BSD licenses, or some other permissive "
+"non-copyleft license, is not doing wrong; the program is still free "
+"software, and still a contribution to our community.  But it is weak, and in "
+"most cases it is not the best way to promote users' freedom to share and "
+"change software."
+msgstr ""
+"Lançar seu código sob uma das licenças BSD, ou alguma outra licença "
+"permissiva sem copyleft, não é incorreto; o programa ainda é um software "
+"livre e ainda é uma contribuição para nossa comunidade. Porém é fraco e, na "
+"maioria dos casos, não é a melhor forma de promover a liberdade dos usuários "
+"de compartilhar e modificar softwares."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+# type: Content of: <div><p>
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF.  Links quebrados e outras correções ou "
+"sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2003, 2007, 2008, 2013 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2003, 2007, 2008, 2013 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+"NoDerivs 3.0 United States License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2017"
+
+# type: Content of: <div><p>
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização: "

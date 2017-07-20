@@ -1,0 +1,141 @@
+# Brazilian Portuguese translation of https://www.gnu.org/distros/free-non-gnu-distros.html
+# Copyright (C) 2017 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: free-non-gnu-distros.html\n"
+"POT-Creation-Date: 2015-06-25 16:55+0000\n"
+"PO-Revision-Date: 2017-04-11 12:30-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid "Free Non-GNU Distributions - GNU Project - Free Software Foundation"
+msgstr "Distribuições Não-GNU Livres - Projeto GNU - Free Software Foundation"
+
+#. type: Content of: <h2>
+msgid "Free Non-GNU Distributions"
+msgstr "Distribuições Não-GNU Livres"
+
+#. type: Content of: <p>
+msgid ""
+"This page lists free system distros that are not versions of the GNU "
+"system.  These systems must meet the <a href=\"/distros/free-system-"
+"distribution-guidelines.html\">free system distribution guidelines</a> just "
+"as GNU/Linux systems must."
+msgstr ""
+"Essa página lista as distros de sistemas livres que não são versões do "
+"sistema GNU. Esses sistemas devem atender às <a href=\"/distros/free-system-"
+"distribution-guidelines.html\">diretrizes para distribuições de sistemas "
+"livres</a> da mesma forma que os sistemas GNU/Linux."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"<a href=\"http://replicant.us\">Replicant</a> is the free version of "
+"Android.  The Replicant developers have replaced many nonfree libraries, for "
+"certain phone models.  The nonfree apps are excluded, but you certainly "
+"don't want to use those."
+msgstr ""
+"<a href=\"http://replicant.us\">Replicant</a> é a versão livre do Android. "
+"Os desenvolvedores do Replicant substituíram muitas bibliotecas não-livres, "
+"para alguns modelos de telefone. Os aplicativos não-livres estão excluídos, "
+"mas você certamente não deseja usá-los."
+
+#. type: Content of: <p>
+msgid ""
+"If you maintain a non-GNU distribution that follows the <a href=\"/distros/"
+"free-system-distribution-guidelines.html\">Free System Distribution "
+"Guidelines</a> and would like to be listed here, please write to us at <a "
+"href=\"mailto:licensing@fsf.org\">&lt;licensing@fsf.org&gt;</a> with an "
+"introduction and a link to the project Web site.  When you do, we'll explain "
+"more about our evaluation process to you, and get started on it quickly.  We "
+"look forward to hearing from you!"
+msgstr ""
+"Se você mantém uma distribuição não-GNU que segue as <a href=\"/distros/free-"
+"system-distribution-guidelines.html\">Diretrizes para Distribuições de "
+"Sistemas Livres</a> e gostaria que ela fosse listada aqui, por favor escreva "
+"para nós em <a href=\"mailto:licensing@fsf.org\">&lt;licensing@fsf.org&gt;</"
+"a> com uma introdução e um link para o site do projeto. Quando você fizer "
+"isso, nós lhe explicaremos mais sobre nosso processo de avaliação e iniciá-"
+"lo prontamente. Estamos ansiosos para ouvir de você!"
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+# type: Content of: <div><p>
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF.  Links quebrados e outras correções ou "
+"sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2015 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2015 Free Software Foundation, Inc."
+
+#
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<b>Traduzido por:</b> Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org"
+"\">&lt;rafaelff@gnome.org&gt;</a>, 2017"
+
+# type: Content of: <div><p>
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização: "

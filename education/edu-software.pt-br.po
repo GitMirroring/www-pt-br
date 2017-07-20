@@ -1,0 +1,232 @@
+# Brazilian Portuguese translation of https://www.gnu.org/education/edu-software.html
+# Copyright (C) 2017 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: edu-software.html\n"
+"POT-Creation-Date: 2016-09-13 15:56+0000\n"
+"PO-Revision-Date: 2017-07-20 06:51-0200\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid "Educational Free Software - GNU Project - Free Software Foundation"
+msgstr "Software Livre Educacional - Projeto GNU - Free Software Foundation"
+
+#. type: Content of: <p>
+msgid ""
+"<a href=\"/education/education.html\">Education</a> &rarr; <a href=\"/"
+"education/edu-resources.html\">Educational Resources</a> &rarr; Educational "
+"Free Software"
+msgstr ""
+"<a href=\"/education/education.html\">Educação</a> &rarr; <a href=\"/"
+"education/edu-resources.html\">Recursos Educacionais</a> &rarr; Software "
+"Livre Educacional"
+
+#. type: Content of: <h2>
+msgid "Educational Free Software"
+msgstr "Software Livre Educacional"
+
+#. type: Content of: <div><p>
+msgid ""
+"Before addressing the subject in this section, we would like to remind our "
+"readers that the word \"Free\" in \"Free Software\" <strong>does not refer "
+"to price</strong> but to <strong>liberty</strong>. Free Software is software "
+"that grants you <strong>freedom</strong>, namely the freedom to run, copy, "
+"distribute, study, change and improve the software. To learn more, see the "
+"<a href=\"/philosophy/free-sw.html\"> Free Software definition</a>."
+msgstr ""
+"Antes de abordar o assunto nesta seção, gostaríamos de lembrar nossos "
+"leitores que a palavra em inglês “Free” da expressão “Free Software” "
+"<strong>não se refere a preço</strong>, e sim a <strong>liberdade</strong> "
+"e, por este motivo, que se traduz em português Software Livre. Um Software "
+"Livre é um software que lhe concede <strong>liberdade</strong>, em especial "
+"a liberdade de executar, copiar, distribuir, estudar, modificar e melhorar o "
+"software. Para aprender mais, veja a <a href=\"/philosophy/free-sw.html\"> "
+"definição de Software Livre</a>. "
+
+#. type: Content of: <h3>
+msgid "What you will find in this section"
+msgstr "O que você vai encontrar nesta seção"
+
+#. type: Content of: <p>
+msgid ""
+"These pages do not constitute an exhaustive listing of available educational "
+"free programs. Our aim is to present some examples so as to illustrate how "
+"educational institutions can put into practice and effectively apply the "
+"freedoms that Free Software grants them. For each program described, we will "
+"show how those freedoms were actually applied."
+msgstr ""
+"Essas páginas não constituem uma lista exaustiva de programas livres "
+"educacionais disponíveis. Nossa meta é apresentar alguns exemplos de forma a "
+"ilustrar quão instituições educacionais podem colocar em prática e "
+"efetivamente aplicar as liberdades que o Software Livre conceda. Para cada "
+"programa descrito, vamos mostrar como aquelas liberdades foram aplicadas."
+
+#. type: Content of: <p>
+msgid "The following are the examples that we present:"
+msgstr "A seguir estão os exemplos que nós apresentamos:"
+
+#. type: Content of: <p>
+msgid ""
+"<a href=\"/education/edu-software-gcompris.html\">GCompris</a> | <a href=\"/"
+"education/edu-software-gimp.html\">GIMP</a> | <a href=\"/education/edu-"
+"software-tuxpaint.html\">Tux Paint</a>"
+msgstr ""
+"<a href=\"/education/edu-software-gcompris.html\">GCompris</a> | <a href=\"/"
+"education/edu-software-gimp.html\">GIMP</a> | <a href=\"/education/edu-"
+"software-tuxpaint.html\">Tux Paint</a>"
+
+#. type: Content of: <p>
+msgid ""
+"Some of the programs presented here, like GCompris, are part of the GNU "
+"Project. This means that developers of these programs agree to pay attention "
+"to making the program work well with the rest of the GNU System. A GNU "
+"program uses the latest version of the license that the GNU Project "
+"recommends in order to protect the users' fundamental freedoms. A GNU "
+"program does not recommend the use of any nonfree program, and it does not "
+"refer the user to any nonfree documentation for Free Software, as defined in "
+"our campaign for <a href=\"/philosophy/free-doc.html\">free documentation</"
+"a>."
+msgstr ""
+"Alguns dos programas aqui apresentados, como o GCompris, são parte do "
+"Projeto GNU. Isso significa que os desenvolvedores desses programas "
+"concordam em prestar atenção em fazer o programa funcionar bem com o resto "
+"do Sistema GNU. Um programa GNU usa a versão mais recente da licença que o "
+"Projeto GNU recomenda para proteger as liberdades fundamentais dos usuários. "
+"Um programa GNU não recomenda o uso de qualquer programa não livre, e ele "
+"não faz referência a qualquer documentação não livre para Software Livre, "
+"como definido em nossa campanha por <a href=\"/philosophy/free-doc.html\">"
+"documentação livre</a>."
+
+#. type: Content of: <p>
+msgid ""
+"You can also check the <a href=\"/software/free-software-for-education.html"
+"\"> list of educational software</a> that we recommend."
+msgstr ""
+"Você também pode verificar a <a href=\"/software/free-software-for-education."
+"html\">lista de softwares educacionais</a> que nós recomendamos."
+
+#. type: Content of: <p>
+msgid ""
+"People who wish to migrate to Free Software or are looking for a free libre "
+"program to accomplish a particular task, should refer to the <a href="
+"\"http://directory.fsf.org\">Free Software Directory</a>, which consists of "
+"a catalog of more than 6,000 free programs that run on <a href=\"http://gnu."
+"org/distros/free-distros.html\">free operating systems</a>. In particular, "
+"the <a href=\"http://directory.fsf.org/category/educ/\">Education</a> "
+"section of the Directory lists programs inherent to different levels of "
+"education, from pre-elementary school to highly specialized levels, "
+"including university and research."
+msgstr ""
+"Pessoas que desejam migrar para o Software livre, ou estão procurando por um "
+"programa livre para realizar uma tarefa em especial, devem acessar o <a href="
+"\"http://directory.fsf.org\">Diretório de Software Livre</a>, que consiste "
+"em um catálogo de mais de 6.000 programas livres para se executar em <a href="
+"\"http://gnu.org/distros/free-distros.html\">sistemas operacionais livres</"
+"a>. Em especial, a seção <a href=\"http://directory.fsf.org/category/educ/"
+"\">Educação</a> do Diretório lista programas inerentes a níveis diferentes "
+"de educação, de escola de educação infantil a níveis altamente "
+"especializados, incluindo universidades e pesquisas."
+
+#. type: Content of: <div><p>
+msgid ""
+"We are looking for free educational games, or information about free games "
+"that can be used for educational purposes. Contact <a href=\"mailto:"
+"education@gnu.org\">&lt;education@gnu.org&gt;</a>."
+msgstr ""
+"Estamos procurando por jogos educacionais livres ou informações sobre jogos "
+"livres que podem ser usados para propósitos educacionais. Contate <a href="
+"\"mailto:education@gnu.org\">&lt;education@gnu.org&gt;</a>."
+
+#. type: Content of: <p>
+msgid ""
+"If you know of a Free Software program that is being used by an educational "
+"institution for specific purposes, or has been modified or otherwise adapted "
+"by its users to meet their own educational needs, please let us know by "
+"sending an email to <a href=\"mailto:education@gnu.org\">&lt;education@gnu."
+"org&gt;</a>."
+msgstr ""
+"Se você sabe de um programa Software Livre que está sendo usado por uma "
+"instituição educacional para propósitos específicos, ou foi modificado ou "
+"adaptado por seus usuários para atender a suas próprias necessidades "
+"educacionais, por favor nos avise pelo endereço de e-mail <a href=\"mailto:"
+"education@gnu.org\">&lt;education@gnu.org&gt;</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF.  Links quebrados e outras correções ou "
+"sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2011, 2012, 2016 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2011, 2012, 2016 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<b>Tradução:</b> Rafael Fontenelle \n"
+"<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, 2017"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização: "

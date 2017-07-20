@@ -1,53 +1,29 @@
-# Brazilian Portuguese translation of http://www.gnu.org/education/edu-why.html
-# Copyright (C) 2014 Free Software Foundation, Inc.
+# Brazilian Portuguese translation of https://www.gnu.org/education/edu-why.html
+# Copyright (C) 2017 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Hudson Flávio Menese Lacerda <hfmlacerda@yahoo.com.br>, 2014
-#
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: edu-why.html\n"
-"POT-Creation-Date: 2015-05-04 19:56+0000\n"
-"PO-Revision-Date: 2015-02-23 19:37+0100\n"
-"Last-Translator: Hudson Flávio Meneses Lacerda <hfmlacerda@yahoo.com.br>\n"
+"POT-Creation-Date: 2016-09-13 15:56+0000\n"
+"PO-Revision-Date: 2017-04-07 10:45-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
 
 #. type: Content of: <title>
 msgid ""
 "Why Educational Institutions Should Use and Teach Free Software - GNU "
 "Project - Free Software Foundation"
 msgstr ""
-"Por que instituições educacionais devem usar e ensinar software livre - "
+"Por que Instituições Educacionais Devem Usar e Ensinar Software Livre - "
 "Projeto GNU - Free Software Foundation"
-
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/education/edu-contents.html\">Education Contents</a>"
-msgstr "<a href=\"/education/edu-contents.html\">Conteúdo sobre Educação</a>"
-
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/education/edu-cases.html\">Case Studies</a>"
-msgstr "<a href=\"/education/edu-cases.html\">Estudos de caso</a>"
-
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/education/edu-resources.html\">Educational Resources</a>"
-msgstr "<a href=\"/education/edu-resources.html\">Recursos educacionais</a>"
-
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/education/edu-projects.html\">Education Projects</a>"
-msgstr "<a href=\"/education/edu-projects.html\">Projetos sobre Educação</a>"
-
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/education/edu-faq.html\">FAQ</a>"
-msgstr ""
-"<a href=\"/education/edu-faq.html\">FAQ (Respostas a perguntas freqüentes)</"
-"a>"
-
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/education/edu-team.html\">The Education Team</a>"
-msgstr "<a href=\"/education/edu-team.html\">A Equipe de Educação</a>"
 
 #. type: Content of: <p>
 msgid ""
@@ -56,20 +32,20 @@ msgid ""
 "Institutions Should Use and Teach Free Software"
 msgstr ""
 "<a href=\"/education/education.html\">Educação</a> &rarr; <a href=\"/"
-"education/education.html#indepth\">Em detalhes</a> &rarr; Por que "
-"instituições educacionais devem usar e ensinar software livre"
+"education/education.html#indepth\">Em Detalhes</a> &rarr; Por que "
+"Instituições Educacionais Devem Usar e Ensinar Software Livre"
 
 #. type: Content of: <h2>
 msgid "Why Educational Institutions Should Use and Teach Free Software"
-msgstr "Por que instituições educacionais devem usar e ensinar software livre"
+msgstr "Por que Instituições Educacionais Devem Usar e Ensinar Software Livre"
 
 #. type: Content of: <div><p>
 msgid ""
 "<strong>\"Schools should teach their students to be citizens of a strong, "
 "capable, independent and free society.\"</strong>"
 msgstr ""
-"<strong>&ldquo;Escolas devem ensinar seus estudantes a serem cidadãos de uma "
-"sociedade forte, capaz, independente e livre.&rdquo;</strong>"
+"<strong>“Escolas devem ensinar seus estudantes a serem cidadãos de uma "
+"sociedade forte, capaz, independente e livre.”</strong>"
 
 #. type: Content of: <p>
 msgid ""
@@ -88,9 +64,9 @@ msgid ""
 "Schools should teach the value of sharing by setting an example. Free "
 "software supports education by allowing the sharing of knowledge and tools:"
 msgstr ""
-"Escolas devem ensinar o valor do compartilhamento ao dar o exemplo.  "
-"Software livre apóia a educação por permitir o compartilhamento de "
-"conhecimento e ferramentas:"
+"Escolas devem ensinar o valor do compartilhamento dando exemplo. Software "
+"livre apoia a educação por permitir o compartilhamento de conhecimento e "
+"ferramentas:"
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -102,11 +78,11 @@ msgid ""
 "the source code for the student to read and learn."
 msgstr ""
 "<strong>Conhecimento</strong>. Muitos jovens estudantes têm talento para "
-"programação;  eles são fascinados por computadores e ávidos de aprender como "
-"seus sistemas funcionam.  Com software proprietário, essa informação é um "
-"segredo, então os professores não têm como torná-la disponível a seus "
-"estudantes.  Mas se o programa é Software Livre, o professor pode explicar o "
-"básico e então entregar o código fonte para que o estudante leia e aprenda."
+"programação; eles são fascinados por computadores e ávidos de  aprender como "
+"seus sistemas funcionam. Com software proprietário, essa informação é um "
+"segredo, então os professores não têm como torná-la disponível para seus "
+"estudantes. Mas se o programa é Software Livre, o professor pode explicar o "
+"básico e, então, entregar o código fonte para que o estudante leia e aprenda."
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -116,12 +92,12 @@ msgid ""
 msgstr ""
 "<strong>Ferramentas</strong>. Professores podem entregar aos estudantes "
 "cópias dos programas que eles usam em sala de aula, de modo que eles possam "
-"usá-los em casa.  Com Software Livre, copiar não é apenas autorizado, é "
+"usá-los em casa. Com Software Livre, copiar não é apenas autorizado, é "
 "incentivado."
 
 #. type: Content of: <h3>
 msgid "Social Responsibility"
-msgstr "Responsabilidade social"
+msgstr "Responsabilidade Social"
 
 #. type: Content of: <p>
 msgid ""
@@ -134,16 +110,15 @@ msgid ""
 "can change. Educational institutions should not allow proprietary software "
 "companies to impose their power on the rest of society and its future."
 msgstr ""
-"A computação tornou-se uma parte essencial da vida de todo dia.  A "
-"tecnologia digital está transformando a sociedade muito rapidamente, e as "
-"escolas têm uma influência sobre o futuro da sociedade.  Sua missão é fazer "
-"com que os estudantes estejam prontos para participar de uma sociedade "
-"digital livre, ensinando a eles as habilidades que lhes facilitem ter o "
-"controle de suas próprias vidas.  Software não deve estar sob o poder de um "
-"desenvolvedor que unilateralmente toma decisões que ninguém mais pode "
-"mudar.  Instituições educacionais não devem permitir que companhias de "
-"software proprietário imponham seu poder sobre o resto da sociedade e seu "
-"futuro."
+"A computação tornou-se uma parte essencial do dia a dia. A tecnologia "
+"digital está transformando a sociedade muito rapidamente e escolas têm um "
+"influência no futuro da sociedade. Sua missão é fazer com que o sestudantes "
+"estejam prontos para participar de uma sociedade digital livre, ensinando a "
+"eles as habilidades que lhes facilitem ter o controle de suas próprias "
+"vidas. Software não deve estar sob o poder de um desenvolvedor que, "
+"unilateralmente, toma decisões que ninguém mais pode mudar. Instituições "
+"educacionais não devem permitir que empresas de software proprietário "
+"imponham seu poder sobre o resto da sociedade e seu futuro."
 
 #. type: Content of: <h3>
 msgid "Independence"
@@ -157,31 +132,11 @@ msgid ""
 "interests and it avoids vendor lock-in."
 msgstr ""
 "Escolas têm uma responsabilidade ética de ensinar virtude, não dependência "
-"de um único produto ou de uma companhia poderosa específica.  Além disso, ao "
-"escolher Software Livre, a escola mesma ganha independência de quaisquer "
-"interesses comerciais e evita aprisionamento por um fornecedor."
+"de um único produto ou uma empresa poderosa específica. Além disso, ao "
+"escolher Software Livre, a própria escola ganha independência de qualquer "
+"interesse comercial e evita aprisonamento por um fornecedor."
 
-# | Proprietary software companies use schools and universities as a
-# | springboard to reach users and thus impose their software on society as a
-# | whole. They offer discounts, or even gratis copies of their proprietary
-# | programs to educational institutions, so that students will learn to use
-# | them and become dependent on them. After these students graduate, neither
-# | the[-m-]{+y+} nor their future employers will be offered discounted
-# | copies.  Essentially, what these companies are doing is they are
-# | recruiting schools and universities into agents to lead people to
-# | permanent lifelong dependency.
 #. type: Content of: <ul><li>
-#, fuzzy
-#| msgid ""
-#| "Proprietary software companies use schools and universities as a "
-#| "springboard to reach users and thus impose their software on society as a "
-#| "whole. They offer discounts, or even gratis copies of their proprietary "
-#| "programs to educational institutions, so that students will learn to use "
-#| "them and become dependent on them. After these students graduate, neither "
-#| "them nor their future employers will be offered discounted copies.  "
-#| "Essentially, what these companies are doing is they are recruiting "
-#| "schools and universities into agents to lead people to permanent lifelong "
-#| "dependency."
 msgid ""
 "Proprietary software companies use schools and universities as a springboard "
 "to reach users and thus impose their software on society as a whole. They "
@@ -192,15 +147,15 @@ msgid ""
 "companies are doing is they are recruiting schools and universities into "
 "agents to lead people to permanent lifelong dependency."
 msgstr ""
-"Companhias de software proprietário usam escolas e universidades como um "
-"trampolim para alcançar usuários e então impor seu software sobre a "
-"sociedade como um todo.  Elas oferecem descontos, ou mesmo cópias grátis de "
-"seus programas proprietários às instituições educacionais, de modo que os "
-"estudantes aprendam a usá-los e se tornem dependentes deles.  Depois que "
+"Empresas de software proprietário usam escolas e universidades como um "
+"trampolim para atingir usuários e, com isso, impor seus softwares sobre a "
+"sociedade como um todo. Elas oferecem descontos, ou até mesmo cópias grátis "
+"de seus programas proprietários às instituições educacionais, de forma que "
+"estudantes aprendam a usá-los e se tornem dependentes deles. Depois que "
 "esses estudantes se formarem, nem eles nem seus futuros empregadores terão "
-"oferta de cópias com descontos.  Essencialmente, o que essas companhias "
-"estão fazendo é recrutar escolas e universidades como agentes para conduzir "
-"as pessoas a uma dependência permanente, para toda a vida."
+"oferta de cópias com descontos. Essencialmente, o que essas empresas estão "
+"fazendo é recrutar escolas e universidades como agentes para conduzir "
+"pessoas a uma dependência permanente a longo prazo."
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -215,12 +170,12 @@ msgid ""
 msgstr ""
 "Licenças de software livre não expiram, o que significa que, uma vez que "
 "Software Livre seja adotado, as instituições permanecerão independentes de "
-"um vendedor.  Além do mais, licenças de Software Livre garantem aos usuários "
-"os direitos não somente de usar o software como quiserem, de copiá-lo e "
-"distribuí-lo, mas também de modificá-lo para atender às suas próprias "
-"necessidades.  Portanto, se as instituições eventualmente quiserem "
+"um fornecedor. Além do mais, licenças de Software Livre concedem aos "
+"usuários os direitos não somente de usar o software como quiserem, de copiá-"
+"lo e de distribuí-lo, mas também de modificá-lo para atender a suas próprias "
+"necessidades. Portanto, se as instituições eventualmente quiserem "
 "implementar uma função particular em um certo software, elas poderão "
-"contratar os serviços de qualquer programador para realizar a tarefa, "
+"contratar os serviços de qualquer desenvolvedor para realizar a tarefa, "
 "independentemente de quem tenha sido o fornecedor original."
 
 #. type: Content of: <h3>
@@ -256,10 +211,10 @@ msgid ""
 "or no cost, schools can actually aid families facing financial issues, thus "
 "promoting fairness and equal opportunities of learning among students."
 msgstr ""
-"Esta é uma vantagem óbvia que irá apelar imediatamente a muitos "
-"administradores de escolas, mas é um benefício marginal.  O ponto principal "
-"desse aspecto é que, ao estarem autorizadas a distribuir cópias dos "
-"programas a um custo pequeno ou nulo, as escolas podem de fato ajudar "
+"Esta é uma vantagem óbvia que vai interessar imediatamente muitos "
+"administradores de escolas, mas é um benefício superficial. O ponto "
+"principal desse aspecto é que ao estarem autorizadas a distribuir cópias dos "
+"programas a  um custo pequeno ou zero, as escolas podem de fato ajudar "
 "famílias em dificuldades financeiras, promovendo assim justiça e "
 "oportunidades iguais de aprendizagem entre os estudantes."
 
@@ -273,10 +228,10 @@ msgid ""
 "for education already. In any case, excellence of performance is a secondary "
 "benefit; the ultimate goal is freedom for computer users."
 msgstr ""
-"Soluções em Software Livre estáveis, seguras e fáceis de instalar já estão "
-"disponíveis para educação.  Em todo caso, excelência de <em>performance</em> "
-"é um benefício secundário; o objetivo último é a liberdade dos usuários de "
-"computadores."
+"Soluções com Software Livre estáveis, seguras e fáceis de instalar já estão "
+"disponíveis para educação. Em todo caso, excelência de desempenho é um "
+"benefício secundário; o objetivo principal é a liberdade dos usuários de "
+"computador."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -324,27 +279,27 @@ msgstr ""
 "\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
 "envio de traduções das páginas desse site."
 
-# | Copyright &copy; [-2011-] {+2011, 2015+} Free Software Foundation, Inc.
 #. type: Content of: <div><p>
-#, fuzzy
-#| msgid "Copyright &copy; 2011 Free Software Foundation, Inc."
-msgid "Copyright &copy; 2011, 2015 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2011 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2011, 2015, 2016 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2011, 2015, 2016 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
-"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
-msgstr "<b>Tradução:</b> Hudson Flávio Meneses Lacerda, 2014"
+msgstr ""
+"<b>Traduzido por:</b>\n"
+"Hudson Flávio Meneses Lacerda, <a href=\"mailto:hfmlacerda@yahoo.com.br"
+"\">&lt;hfmlacerda@yahoo.com.br&gt;</a>, 2014"
 
 # type: Content of: <div><p>
 #.  timestamp start 
