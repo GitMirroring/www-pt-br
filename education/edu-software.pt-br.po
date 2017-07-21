@@ -103,8 +103,8 @@ msgstr ""
 "Projeto GNU recomenda para proteger as liberdades fundamentais dos usuários. "
 "Um programa GNU não recomenda o uso de qualquer programa não livre, e ele "
 "não faz referência a qualquer documentação não livre para Software Livre, "
-"como definido em nossa campanha por <a href=\"/philosophy/free-doc.html\">"
-"documentação livre</a>."
+"como definido em nossa campanha por <a href=\"/philosophy/free-doc.html"
+"\">documentação livre</a>."
 
 #. type: Content of: <p>
 msgid ""
@@ -165,6 +165,7 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr " "
 
+# type: Content of: <div><p>
 #. type: Content of: <div><div><p>
 msgid ""
 "Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
@@ -226,6 +227,7 @@ msgstr ""
 "<b>Tradução:</b> Rafael Fontenelle \n"
 "<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, 2017"
 
+# type: Content of: <div><p>
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
