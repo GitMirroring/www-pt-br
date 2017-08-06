@@ -87,7 +87,7 @@ msgid ""
 "simplified description; see also the <a href=\"/philosophy/free-sw.html"
 "\">full definition</a>."
 msgstr ""
-"Software livre é software que vem com permissão para qualquer um copiar, "
+"Software livre é o software que vem com permissão para qualquer um copiar, "
 "usar e distribuir, com ou sem modificações, gratuitamente ou por um preço. "
 "Em particular, isso significa que o código fonte deve estar disponível. “Se "
 "não é fonte, não é software”. Esta é uma definição simplificada; veja também "
@@ -265,10 +265,13 @@ msgid ""
 "html\">free software</a>&rdquo; because it refers to freedom&mdash;something "
 "that the term &ldquo;open source&ldquo; does not do."
 msgstr ""
+"Nós preferimos o termo &ldquo;<a href=\"/philosophy/open-source-misses-the-point."
+"html\">software livre</a>&rdquo; porque se refere a liberdade&mdash;algo "
+"que o termo &ldquo;código aberto&ldquo; não faz."
 
 #. type: Content of: <h3>
 msgid "Public domain software"
-msgstr "Domínio público"
+msgstr "Software de domínio público"
 
 #. type: Content of: <p>
 # | Public domain software is software that is not copyrighted. [-It-] {+If
@@ -301,6 +304,12 @@ msgid ""
 "holders have legally given permission for everyone to use it in freedom, "
 "using a free software license."
 msgstr ""
+"Em alguns casos, um programa executável pode ser de domínio público mas o "
+"código fonte não está disponível. Isso não é software livre, porque software "
+"livre requer acesso ao código fonte. Por isso que, muitos softwares "
+"livres não estão em domínio público software; eles tem copyright, e o "
+"detentor do copyright tem que legalmente dá permissão para todos a liberdade, "
+"usando a licença de software livre."
 
 #. type: Content of: <p>
 msgid ""
@@ -326,6 +335,11 @@ msgid ""
 "domain, you must take some legal steps to disclaim the copyright on it; "
 "otherwise, the program is copyrighted."
 msgstr ""
+"Sobre a Convenção de Berne, que muitos países tem assinado, tudo "
+"que seja assinado está automaticamente sob copyright. Isso inclue programas. "
+"Contudo, se você quer que um programa que você escrever seja de domínio "
+"público, você deve seguir alguns passos legais para renunciar o copyright; "
+"senão, o programa permanece sob copyright."
 
 #. type: Content of: <h3>
 msgid "Copylefted software"
@@ -369,6 +383,9 @@ msgid ""
 "turning software proprietary, such as <a href=\"/licenses/rms-why-gplv3.html"
 "\">tivoization</a>."
 msgstr ""
+"Algumas licenças de copyleft, como a GPL versão&nbsp;3, outro bloco significa "
+"tornar o software proprietário, como <a href=\"/licenses/rms-why-gplv3.html"
+"\">tivoização</a>."
 
 #. type: Content of: <p>
 # | In the GNU Project, we copyleft almost all the software we write, because
@@ -510,7 +527,7 @@ msgstr ""
 
 #. type: Content of: <h3>
 msgid "Lax permissive licensed software"
-msgstr ""
+msgstr "Permissão ambígua de licença de software"
 
 #. type: Content of: <p>
 msgid ""
@@ -519,6 +536,10 @@ msgid ""
 "the code, including distributing proprietary binaries with or without "
 "changing the source code."
 msgstr ""
+"Permissão ambígua de licença inclue a licença X11 a e <a href=\"/licenses/"
+"bsd.html\">licença BSD-2</a>. Essas licenças permite o uso do código "
+"para qualquer fim, incluíndo distribuir binários proprietário com ou sem "
+"o código fonte."
 
 #. type: Content of: <h3>
 msgid "GPL-covered software"
@@ -548,6 +569,7 @@ msgstr ""
 msgid ""
 "To equate free software with GPL-covered software is therefore an error."
 msgstr ""
+"Equiparar software livre com software sob GPL é portanto um erro."
 
 #. type: Content of: <h3>
 msgid "The GNU operating system"
@@ -742,13 +764,15 @@ msgstr ""
 
 #. type: Content of: <h3>
 msgid "FSF-copyrighted GNU software"
-msgstr ""
+msgstr "Software GNU da FSF"
 
 #. type: Content of: <p>
 msgid ""
 "The developers of GNU packages can transfer the copyright to the FSF, or "
 "they can keep it.  The choice is theirs."
 msgstr ""
+"Os desenvolvedores de pacotes GNU pode transferir o copyright para a FSF, ou "
+"eles podem o manter. A escolha são deles."
 
 #. type: Content of: <p>
 msgid ""
@@ -756,12 +780,17 @@ msgid ""
 "copyrighted GNU software, and the FSF can enforce its license.  If they have "
 "kept the copyright, enforcing the license is their responsibility."
 msgstr ""
+"Se eles transferir o copyright para a FSF, o software GNU está sob o domínio "
+"da FSF, e a FSF pode reforçar a licença. Eles tem que "
+"manter o copyright, reforçando a licença que está sob sua responsabilidade."
 
 #. type: Content of: <p>
 msgid ""
 "The FSF does not accept copyright assignments of software that is not an "
 "official GNU package, as a rule."
 msgstr ""
+"A FSF não aceita atribuições de copyright de software que não seja um "
+"pacote oficial GNU, como uma regra."
 
 #. type: Content of: <h3>
 msgid "Nonfree software"
@@ -790,6 +819,12 @@ msgid ""
 "and now use &ldquo;proprietary software&rdquo; as synonymous with nonfree "
 "software."
 msgstr ""
+"Software proprietário é outro nome para software não-livre. No passado nós "
+"subdividimos o software não-livre em &ldquo;software semi-livre&rdquo;, que "
+"poderia ser modificado e redistribuído não comercialmente, e &ldquo;software "
+"proprietário&rdquo;, que não poderia. Mas nós retiramos essa distinção "
+"e agora usamos &ldquo;software proprietário&rdquo; como sinônimo de software "
+"não-livre."
 
 #. type: Content of: <p>
 msgid ""
@@ -900,7 +935,7 @@ msgstr ""
 
 #. type: Content of: <h3>
 msgid "Private software"
-msgstr ""
+msgstr "Software privado"
 
 #. type: Content of: <p>
 msgid ""
@@ -908,6 +943,9 @@ msgid ""
 "organization or company). That user keeps it and uses it, and does not "
 "release it to the public either as source code or as binaries."
 msgstr ""
+"Software privado ou customizado é um software desenvolvido por um usuário "
+"(tipicamente uma organização ou empresa). Onde os usuários o mantém e o usa, "
+"e não lança-o para o público ou como código fonte ou como binário."
 
 #. type: Content of: <p>
 msgid ""
@@ -917,6 +955,11 @@ msgid ""
 "copies to others and does not provide the four freedoms with those copies, "
 "those copies are not free software."
 msgstr ""
+"Um programa privado é software livre (em mais ou menso um senso trivial) "
+"se ele unicamente tem as quatro liberdades para o usuário. Em particular, "
+"se o usuário tem todos os direitos do programa privado, o programa é livre. "
+"Contudo, se o usuário distribui cópias para os outros e não prover as "
+"quatro liberdades com as cópias dele, essas cópias não são software livre."
 
 #. type: Content of: <p>
 msgid ""
@@ -929,6 +972,14 @@ msgid ""
 "the development of private or custom software and the principles of the free "
 "software movement."
 msgstr ""
+"Software livre é o que se importa com a liberdade, não acesso. Em geral nós "
+"não acreditamos se é errado desenvolver um programa e não lança-lo. Essas são "
+"ocasiões que um programa é tão importante que um único argumento que reté-lo "
+"do público está fazendo errado para a humanidade. Contudo, esses casos são "
+"raro. Muitos programas não são tão importantes, e a recusa de liberá-los "
+"não é particulamente errada. Portanto, não há conflito entre o "
+"privado ou o software customizado e os princípios do movimento de software "
+"livre."
 
 #. type: Content of: <p>
 msgid ""
@@ -936,6 +987,10 @@ msgid ""
 "therefore most programming jobs are, or could be, done in a way compatible "
 "with the free software movement."
 msgstr ""
+"Aproximadamente todos os empregos de programadores são do tipo de "
+"desenvolvimento de software personalizados; contudo muitos empregos de "
+"programadores são, ou deveria, feitos em conformidade com o movimento de "
+"software livre."
 
 #. type: Content of: <h3>
 msgid "Commercial software"
@@ -1071,7 +1126,9 @@ msgstr ""
 msgid ""
 "Copyright &copy; 1996, 1997, 1998, 2001, 2006, 2007, 2009, 2010, 2014, 2015, "
 "2016, 2017 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 1996, 1997, 1998, 2001 Free Software Foundation, Inc."
+msgstr 
+"Copyright &copy; 1996, 1997, 1998, 2001, 2006, 2007, 2009, 2010, 2014, 2015, "
+"2016, 2017 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 # | This page is licensed under a <a rel=\"license\"
@@ -1097,63 +1154,10 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Tradução: 2002/07/03 <a  href=\"mailto:nferraz@insite.com.br\">Nelson "
-"Ferraz</a>"
+"Tradução: 2017/08/06 <a  href=\"mailto:d4n1@d4n1.org\">Daniel Pimentel</a>"
 
 # type: Content of: <div><p>
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
-msgstr "Última atualização: "
-
-#, fuzzy
-#~| msgid ""
-#~| "The <a href=\"http://www.x.org\">X Window System</a> illustrates this.  "
-#~| "The X Consortium releases X11 with distribution terms that make it non-"
-#~| "copylefted free software.  If you wish, you can get a copy which has "
-#~| "those distribution terms and is free.  However, there are non-free "
-#~| "versions as well, and there are popular workstations and PC graphics "
-#~| "boards for which non-free versions are the only ones that work.  If you "
-#~| "are using this hardware, X11 is not free software for you."
-#~ msgid ""
-#~ "The <a href=\"http://www.x.org\">X Window System</a> illustrates this. "
-#~ "The X Consortium releases X11 with distribution terms that make it "
-#~ "noncopylefted free software. If you wish, you can get a copy which has "
-#~ "those distribution terms and is free. However, there are nonfree versions "
-#~ "as well, and there are (or at least were) popular workstations and PC "
-#~ "graphics boards for which nonfree versions are the only ones that work. "
-#~ "If you are using this hardware, X11 is not free software for you. <a href="
-#~ "\"/philosophy/x.html\">The developers of X11 even made X11 nonfree</a> "
-#~ "for a while; they were able to do this because others had contributed "
-#~ "their code under the same noncopyleft license."
-#~ msgstr ""
-#~ "O <a href=\"http://www.x.org\">X Window System</a> ilustra isso.  O X "
-#~ "Consortium lança o X11 com termos de distribuição que o torna software "
-#~ "livre sem copyleft.  Se você desejar, pode obter uma cópia com esses "
-#~ "termos e que é livre. No entanto, também existem versões não livres, e "
-#~ "existem estações de trabalho e placas gráficas populares para as quais as "
-#~ "versões não livres são as únicas que funcionam. Se você estiver usando "
-#~ "este hardware, o X11 não é livre para você."
-
-#, fuzzy
-#~| msgid ""
-#~| "A Unix-like operating system consists of many programs.  The GNU system "
-#~| "includes all the GNU software, as well as many other packages such as "
-#~| "the X Window System and TeX which are not GNU software."
-#~ msgid ""
-#~ "A Unix-like operating system consists of many programs. The GNU system "
-#~ "includes all of the <a href=\"#GNUsoftware\">offical GNU packages</a>.  "
-#~ "It also includes many other packages, such as the X Window System and "
-#~ "TeX, which are not GNU software."
-#~ msgstr ""
-#~ "Um sistema operacional estilo Unix consiste de muitos programas. O "
-#~ "sistema GNUinclui todo o <a href=\"#GNUsoftware\">software GNU</a>, bem "
-#~ "como muitos outros pacotes como o X Window System e TeX, que não são "
-#~ "software GNU."
-
-#, fuzzy
-#~ msgid ""
-#~ "Copyright &copy; 1996, 1997, 1998, 2001, 2006, 2007, 2009, 2010, 2014 "
-#~ "Free Software Foundation, Inc."
-#~ msgstr ""
-#~ "Copyright &copy; 1996, 1997, 1998, 2001 Free Software Foundation, Inc."
+msgstr "Última atualização: 2017"
