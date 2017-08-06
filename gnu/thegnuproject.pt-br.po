@@ -1902,21 +1902,6 @@ msgstr ""
 "comprimido em <acronym title=\"MPEG-1 Audio Layer 3\">MP3</acronym> foi "
 "impedido de ser distribuído sob a ameaça de um processo de patente."
 
-#. type: Content of: <p>
-# | There are ways to cope with patents: we can search for evidence that a
-# | patent is invalid, and we can look for alternative ways to do a job.  But
-# | each of these methods works only sometimes; when both fail, a patent may
-# | force all free software to lack some feature that users want.  [-What-] 
-# | {+After a long wait, the patents expire (the MP3 patents are expected to
-# | have expired by 2018), but what+} will we do [-when this happens?-]
-# | {+until then?+}
-#, fuzzy
-#| msgid ""
-#| "There are ways to cope with patents: we can search for evidence that a "
-#| "patent is invalid, and we can look for alternative ways to do a job.  But "
-#| "each of these methods works only sometimes; when both fail, a patent may "
-#| "force all free software to lack some feature that users want.  What will "
-#| "we do when this happens?"
 msgid ""
 "There are ways to cope with patents: we can search for evidence that a "
 "patent is invalid, and we can look for alternative ways to do a job.  But "
@@ -2301,8 +2286,8 @@ msgid ""
 "Copyright &copy; 1998, 2001, 2002, 2005, 2006, 2007, 2008, 2010, 2014, 2015, "
 "2017 Richard Stallman"
 msgstr ""
-"Copyright &copy; 1998, 2001, 2002, 2005, 2006, 2007, 2008, 2010, 2014, 2015 "
-"Richard Stallman"
+"Copyright &copy; 1998, 2001, 2002, 2005, 2006, 2007, 2008, 2010, 2014, 2015, "
+"2017 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -2321,6 +2306,8 @@ msgstr ""
 "<b>Tradução</b>: <a href=\"http://oitofelix.freeshell.org/\">Bruno Félix "
 "Rezende Ribeiro</a> <a href=\"mailto:oitofelix@gnu.org\">&lt;oitofelix@gnu."
 "org&gt;</a>, 2015."
+"<b>Revisão</b>: <a href=\"http://d4n1.org/\">Daniel Pimentel</a>"
+"<a href=\"mailto:d4n1@d4n1.org\">&lt;d4n1@d4n1.org&gt;</a>, 2017."
 
 # type: Content of: <div><p>
 #.  timestamp start 
