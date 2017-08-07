@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: README.translations.html\n"
-"POT-Creation-Date: 2017-07-10 08:25+0000\n"
+"POT-Creation-Date: 2017-07-30 16:56+0000\n"
 "PO-Revision-Date: 2017-06-05 23:41-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -1220,30 +1220,25 @@ msgstr ""
 "\">Andriy Bandura</a>)"
 
 #. type: Content of: <ul><li>
-# | <code>zh-cn</code> - <a
-# | href=\"https://savannah.gnu.org/projects/www-zh-cn\">Simplified
-# | Chinese</a> (<a href=\"https://savannah.gnu.org/users/monnand\"> Nan
-# | Deng</a>, <a href=\"https://savannah.gnu.org/users/zeuux\">Bill Xu</a>, <a
-# | href=\"https://savannah.gnu.org/users/chxiaobin\">Chen [-Xiaobin</a>)-]
-# | {+Xiaobin</a> - New coordinator needed)+}
+# | [-<code>zh-tw</code>-]{+<code>zh-cn</code>+} - <a
+# | [-href=\"https://savannah.gnu.org/projects/www-zh-cn\">Traditional-]
+# | {+href=\"https://savannah.gnu.org/projects/www-zh-cn\">Simplified+}
+# | Chinese</a> (<a [-href=\"https://savannah.gnu.org/users/zerngjia\">
+# | Cheng-Chia Tseng</a>)-] {+href=\"https://savannah.gnu.org/users/wxie\">
+# | Xie Wensheng</a>)+}
 #, fuzzy
 #| msgid ""
-#| "<code>zh-cn</code> - <a href=\"https://savannah.gnu.org/projects/www-zh-cn"
-#| "\">Simplified Chinese</a> (<a href=\"https://savannah.gnu.org/users/"
-#| "monnand\"> Nan Deng</a>, <a href=\"https://savannah.gnu.org/users/zeuux"
-#| "\">Bill Xu</a>, <a href=\"https://savannah.gnu.org/users/chxiaobin\">Chen "
-#| "Xiaobin</a>)"
+#| "<code>zh-tw</code> - <a href=\"https://savannah.gnu.org/projects/www-zh-cn"
+#| "\">Traditional Chinese</a> (<a href=\"https://savannah.gnu.org/users/"
+#| "zerngjia\"> Cheng-Chia Tseng</a>)"
 msgid ""
 "<code>zh-cn</code> - <a href=\"https://savannah.gnu.org/projects/www-zh-cn"
-"\">Simplified Chinese</a> (<a href=\"https://savannah.gnu.org/users/monnand"
-"\"> Nan Deng</a>, <a href=\"https://savannah.gnu.org/users/zeuux\">Bill Xu</"
-"a>, <a href=\"https://savannah.gnu.org/users/chxiaobin\">Chen Xiaobin</a> - "
-"New coordinator needed)"
+"\">Simplified Chinese</a> (<a href=\"https://savannah.gnu.org/users/wxie\"> "
+"Xie Wensheng</a>)"
 msgstr ""
-"<code>zh-cn</code> - <a href=\"https://savannah.gnu.org/projects/www-zh-cn"
-"\">Chinês Simplificado</a> (<a href=\"https://savannah.gnu.org/users/monnand"
-"\"> Nan Deng</a>, <a href=\"https://savannah.gnu.org/users/zeuux\">Bill Xu</"
-"a>, <a href=\"https://savannah.gnu.org/users/chxiaobin\">Chen Xiaobin</a>)"
+"<code>zh-tw</code> - <a href=\"https://savannah.gnu.org/projects/www-zh-cn"
+"\">Chinês Tradicional</a> (<a href=\"https://savannah.gnu.org/users/zerngjia"
+"\"> Cheng-Chia Tseng</a>)"
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -1367,6 +1362,26 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização: "
+
+#, fuzzy
+#~| msgid ""
+#~| "<code>zh-cn</code> - <a href=\"https://savannah.gnu.org/projects/www-zh-"
+#~| "cn\">Simplified Chinese</a> (<a href=\"https://savannah.gnu.org/users/"
+#~| "monnand\"> Nan Deng</a>, <a href=\"https://savannah.gnu.org/users/zeuux"
+#~| "\">Bill Xu</a>, <a href=\"https://savannah.gnu.org/users/chxiaobin"
+#~| "\">Chen Xiaobin</a>)"
+#~ msgid ""
+#~ "<code>zh-cn</code> - <a href=\"https://savannah.gnu.org/projects/www-zh-cn"
+#~ "\">Simplified Chinese</a> (<a href=\"https://savannah.gnu.org/users/"
+#~ "monnand\"> Nan Deng</a>, <a href=\"https://savannah.gnu.org/users/zeuux"
+#~ "\">Bill Xu</a>, <a href=\"https://savannah.gnu.org/users/chxiaobin\">Chen "
+#~ "Xiaobin</a> - New coordinator needed)"
+#~ msgstr ""
+#~ "<code>zh-cn</code> - <a href=\"https://savannah.gnu.org/projects/www-zh-cn"
+#~ "\">Chinês Simplificado</a> (<a href=\"https://savannah.gnu.org/users/"
+#~ "monnand\"> Nan Deng</a>, <a href=\"https://savannah.gnu.org/users/zeuux"
+#~ "\">Bill Xu</a>, <a href=\"https://savannah.gnu.org/users/chxiaobin\">Chen "
+#~ "Xiaobin</a>)"
 
 #~ msgid ""
 #~ "<code>nl</code> - <a href=\"https://savannah.gnu.org/projects/www-nl"

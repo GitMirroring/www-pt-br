@@ -3,17 +3,20 @@
 # This file is distributed under the same license as the original article.
 # Bruno Félix Rezende Ribeiro <oitofelix@gnu.org>, 2015.
 # Ineiev, 2016 (defuzzify).
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: thegnuproject.html\n"
 "POT-Creation-Date: 2017-06-25 13:26+0000\n"
-"PO-Revision-Date: 2017-05-20 16:20-0300\n"
+"PO-Revision-Date: 2017-08-04 10:45-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
 
 #. type: Content of: <title>
 msgid "About the GNU Project - GNU Project - Free Software Foundation"
@@ -47,7 +50,7 @@ msgstr ""
 "Originalmente publicado no livro <em>Open Sources</em>.  Richard Stallman <a "
 "href=\"/philosophy/open-source-misses-the-point.html\">nunca foi um apoiante "
 "do “código aberto”</a>, mas contribuiu com este artigo para que as ideias do "
-"movimento de software livre não fossem totalmente ausente daquele livro."
+"movimento de software livre não estivessem totalmente ausentes naquele livro."
 
 #. type: Content of: <blockquote><p>
 msgid ""
@@ -106,7 +109,7 @@ msgid ""
 "could always ask to see the source code, so that you could read it, change "
 "it, or cannibalize parts of it to make a new program."
 msgstr ""
-"Nós não chamávamos o nosso software “software livre”, porque esse termo "
+"Nós não chamávamos o nosso software de “software livre”, porque esse termo "
 "ainda não existia; mas isso é o que era.  Sempre que as pessoas de outra "
 "universidade ou empresa queriam portar e usar um programa, tínhamos o prazer "
 "de deixá-los.  Se você visse alguém usando um programa desconhecido e "
@@ -123,7 +126,7 @@ msgid ""
 "hacking.html\">On Hacking</a>."
 msgstr ""
 "(1) O uso do termo “hacker” significando “violador de segurança” é uma "
-"confusão por parte dos meios de comunicação de massa.  Nós hackers nos "
+"confusão causada pelos meios de comunicação de massa.  Nós hackers nos "
 "recusamos a reconhecer este significado, e continuamos usando a palavra com "
 "o significado de alguém que ama programar, alguém que aprecia brincadeiras "
 "inteligentes, ou a combinação dos dois.  Veja meu artigo, <a href=\"http://"
@@ -158,10 +161,10 @@ msgid ""
 "AI Lab bought a new PDP-10 in 1982, its administrators decided to use "
 "Digital's nonfree timesharing system instead of ITS."
 msgstr ""
-"A comunidade hacker do laboratório de IA já havia colapsado, não muito "
-"antes.  Em 1981, a empresa derivada Symbolics havia contratado quase todos "
-"os hackers do laboratório de IA, e a comunidade desfalcada foi incapaz de "
-"manter-se.  (O livro Hackers, de Steve Levy, descreve esses eventos, bem "
+"A comunidade hacker do laboratório de IA já havia entrado em colapso, não "
+"muito antes.  Em 1981, a empresa derivada Symbolics havia contratado quase "
+"todos os hackers do laboratório de IA, e a comunidade desfalcada foi incapaz "
+"de manter-se.  (O livro Hackers, de Steve Levy, descreve esses eventos, bem "
 "como dá uma imagem clara desta comunidade no seu apogeu).  Quando o "
 "laboratório de IA comprou um novo PDP-10 em 1982, seus administradores "
 "decidiram usar o sistema de tempo compartilhado não livre da Digital em vez "
@@ -206,7 +209,7 @@ msgid ""
 msgstr ""
 "A ideia de que o sistema social do software privativo — o sistema que diz "
 "que você não tem permissão para compartilhar ou modificar o software — é "
-"anti-social, antiético ou simplesmente errado, pode vir como uma surpresa "
+"antissocial, antiético ou simplesmente errado, pode vir como uma surpresa "
 "para alguns leitores.  Mas o que mais poderíamos dizer sobre um sistema "
 "baseado na divisão e impotência dos usuários?  Os leitores que acham a ideia "
 "surpreendente podem ter tomado por certo o sistema social do software "
@@ -401,21 +404,6 @@ msgstr ""
 "ter que conspirar para privar seus amigos."
 
 #. type: Content of: <p>
-# | As an operating system developer, I had the right skills for this job.  So
-# | even though I could not take success for granted, I realized that I was
-# | elected to do the job.  I chose to make the system compatible with Unix so
-# | that it would be portable, and so that Unix users could easily switch to
-# | it.  The name GNU was chosen, following a hacker tradition, as a recursive
-# | acronym for &ldquo;GNU's Not Unix.&rdquo; {+It is pronounced as <a
-# | href=\"/gnu/pronunciation.html\">one syllable with a hard g</a>.+}
-#, fuzzy
-#| msgid ""
-#| "As an operating system developer, I had the right skills for this job.  "
-#| "So even though I could not take success for granted, I realized that I "
-#| "was elected to do the job.  I chose to make the system compatible with "
-#| "Unix so that it would be portable, and so that Unix users could easily "
-#| "switch to it.  The name GNU was chosen, following a hacker tradition, as "
-#| "a recursive acronym for &ldquo;GNU's Not Unix.&rdquo;"
 msgid ""
 "As an operating system developer, I had the right skills for this job.  So "
 "even though I could not take success for granted, I realized that I was "
@@ -431,7 +419,8 @@ msgstr ""
 "Eu decidi fazer o sistema compatível com o Unix para que ele fosse portável, "
 "e para que os usuários do Unix pudessem migrar para ele facilmente.  O nome "
 "GNU foi escolhido, seguindo uma tradição hacker, como um acrônimo recursivo "
-"para “GNU Não é Unix” (do inglês “GNU’s Not Unix”)."
+"para “GNU Não é Unix” (do inglês “GNU’s Not Unix”). É pronunciado como <a "
+"href=\"/gnu/pronunciation.html\">uma sílaba com g forte</a>."
 
 #. type: Content of: <p>
 msgid ""
@@ -1075,7 +1064,7 @@ msgstr ""
 "A venda de cópias do Emacs demonstra um tipo de negócio de software livre.  "
 "Quando a FSF assumiu esse negócio, eu precisava de uma outra maneira de "
 "ganhar a vida.  Eu a encontrei na venda de serviços relacionados ao software "
-"livre que eu tinha desenvolvido.  Isto incluia ensino, sobre os temas de "
+"livre que eu tinha desenvolvido.  Isto incluía ensino, sobre os temas de "
 "como programar o GNU Emacs e como personalizar o GCC, e desenvolvimento de "
 "software, principalmente portando o GCC para novas plataformas."
 
@@ -1903,20 +1892,6 @@ msgstr ""
 "impedido de ser distribuído sob a ameaça de um processo de patente."
 
 #. type: Content of: <p>
-# | There are ways to cope with patents: we can search for evidence that a
-# | patent is invalid, and we can look for alternative ways to do a job.  But
-# | each of these methods works only sometimes; when both fail, a patent may
-# | force all free software to lack some feature that users want.  [-What-] 
-# | {+After a long wait, the patents expire (the MP3 patents are expected to
-# | have expired by 2018), but what+} will we do [-when this happens?-]
-# | {+until then?+}
-#, fuzzy
-#| msgid ""
-#| "There are ways to cope with patents: we can search for evidence that a "
-#| "patent is invalid, and we can look for alternative ways to do a job.  But "
-#| "each of these methods works only sometimes; when both fail, a patent may "
-#| "force all free software to lack some feature that users want.  What will "
-#| "we do when this happens?"
 msgid ""
 "There are ways to cope with patents: we can search for evidence that a "
 "patent is invalid, and we can look for alternative ways to do a job.  But "
@@ -1929,8 +1904,9 @@ msgstr ""
 "que uma patente é inválida, e nós podemos procurar formas alternativas para "
 "realizar uma tarefa.  Mas esses métodos funcionam apenas algumas vezes; "
 "quando ambos falham, uma patente pode forçar o software livre a deixar a "
-"desejar com respeito a uma funcionalidade que os usuários querem.  O que "
-"vamos fazer quando isso acontecer?"
+"desejar com respeito a uma funcionalidade que os usuários querem. Após uma "
+"longa espera, as patentes expiram (espera-se que as patentes do MP3 expirem "
+"em 2018), mas o que vamos fazer até então?"
 
 #. type: Content of: <p>
 msgid ""
@@ -2291,18 +2267,12 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-# | Copyright &copy; 1998, 2001, 2002, 2005, 2006, 2007, 2008, 2010, 2014,
-# | [-2015-] {+2015, 2017+} Richard Stallman
-#, fuzzy
-#| msgid ""
-#| "Copyright &copy; 1998, 2001, 2002, 2005, 2006, 2007, 2008, 2010, 2014, "
-#| "2015 Richard Stallman"
 msgid ""
 "Copyright &copy; 1998, 2001, 2002, 2005, 2006, 2007, 2008, 2010, 2014, 2015, "
 "2017 Richard Stallman"
 msgstr ""
-"Copyright &copy; 1998, 2001, 2002, 2005, 2006, 2007, 2008, 2010, 2014, 2015 "
-"Richard Stallman"
+"Copyright &copy; 1998, 2001, 2002, 2005, 2006, 2007, 2008, 2010, 2014, 2015, "
+"2017 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""

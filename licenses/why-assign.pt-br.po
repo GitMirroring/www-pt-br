@@ -7,13 +7,13 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: why-assign.html\n"
-"POT-Creation-Date: 2015-01-04 00:38+0100\n"
+"POT-Creation-Date: 2017-08-01 05:26+0000\n"
 "PO-Revision-Date: 2016-11-30 23:37-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Virtaal 1.0.0-beta1\n"
@@ -38,6 +38,24 @@ msgstr ""
 "Universidade da Columbia"
 
 #. type: Content of: <blockquote><p>
+# | [Explanatory note added in Jan 2013: this point applies to the packages
+# | that are FSF-copyrighted.  When the developers of a program make it a GNU
+# | package, they can decide either to give the copyright to the FSF so it can
+# | enforce the GPL for the package, or else to keep the copyright as well as
+# | the responsibility for enforcing the GPL.  If they make it an
+# | FSF-copyrighted package, then the FSF asks for copyright assignments for
+# | further contributions, and this page explains [-why.]-] {+why.  <a
+# | href=\"https://www.fsf.org/bulletin/2014/spring/copyright-assignment-at-the-fsf\">
+# | Additional pertinent explanation</a>.]+}
+#, fuzzy
+#| msgid ""
+#| "[Explanatory note added in Jan 2013: this point applies to the packages "
+#| "that are FSF-copyrighted.  When the developers of a program make it a GNU "
+#| "package, they can decide either to give the copyright to the FSF so it "
+#| "can enforce the GPL for the package, or else to keep the copyright as "
+#| "well as the responsibility for enforcing the GPL.  If they make it an FSF-"
+#| "copyrighted package, then the FSF asks for copyright assignments for "
+#| "further contributions, and this page explains why.]"
 msgid ""
 "[Explanatory note added in Jan 2013: this point applies to the packages that "
 "are FSF-copyrighted.  When the developers of a program make it a GNU "
@@ -45,7 +63,9 @@ msgid ""
 "enforce the GPL for the package, or else to keep the copyright as well as "
 "the responsibility for enforcing the GPL.  If they make it an FSF-"
 "copyrighted package, then the FSF asks for copyright assignments for further "
-"contributions, and this page explains why.]"
+"contributions, and this page explains why.  <a href=\"https://www.fsf.org/"
+"bulletin/2014/spring/copyright-assignment-at-the-fsf\"> Additional pertinent "
+"explanation</a>.]"
 msgstr ""
 "[Nota explanatória adicionada em Jan 2013: esse ponto se aplica aos pacotes "
 "que estão sob copyright da FSF. Quando os desenvolvedores de um programa "
@@ -144,14 +164,30 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2001, 2008, 2009, 2014 Free Software Foundation, Inc."
+# | Copyright &copy; 2001, 2008, 2009, [-2014-] {+2014, 2017+} Free Software
+# | Foundation, Inc.
+#, fuzzy
+#| msgid ""
+#| "Copyright &copy; 2001, 2008, 2009, 2014 Free Software Foundation, Inc."
+msgid ""
+"Copyright &copy; 2001, 2008, 2009, 2014, 2017 Free Software Foundation, Inc."
 msgstr "Copyright &copy; 2001, 2008, 2009, 2014 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
+# | This page is licensed under a <a rel=\"license\"
+# | [-href=\"http://creativecommons.org/licenses/by-nd/3.0/us/\">Creative-]
+# | {+href=\"http://creativecommons.org/licenses/by-nd/4.0/\">Creative+}
+# | Commons [-Attribution-NoDerivs 3.0 United States-]
+# | {+Attribution-NoDerivatives 4.0 International+} License</a>.
+#, fuzzy
+#| msgid ""
+#| "This page is licensed under a <a rel=\"license\" href=\"http://"
+#| "creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+#| "NoDerivs 3.0 United States License</a>."
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
 "creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "

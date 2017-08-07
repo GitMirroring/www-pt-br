@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: free-distros.html\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-01-28 08:26+0000\n"
+"POT-Creation-Date: 2017-07-22 14:56+0000\n"
 "PO-Revision-Date: 2017-05-20 16:20-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -202,8 +202,12 @@ msgstr ""
 "em conceitos de simplicidade."
 
 #. type: Content of: <table><tr><td><a>
-msgid "<a href=\"http://www.dynebolic.org\">"
-msgstr "<a href=\"http://www.dynebolic.org\">"
+# | <a [-href=\"http://www.gnu.org/software/guix/\">-]
+# | {+href=\"https://www.dyne.org/software/dynebolic/\">+}
+#, fuzzy
+#| msgid "<a href=\"http://www.gnu.org/software/guix/\">"
+msgid "<a href=\"https://www.dyne.org/software/dynebolic/\">"
+msgstr "<a href=\"http://www.gnu.org/software/guix/\">"
 
 #. type: Attribute 'alt' of: <table><tr><td><a><img>
 msgid "Dynebolic"
@@ -533,6 +537,9 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização: "
+
+#~ msgid "<a href=\"http://www.dynebolic.org\">"
+#~ msgstr "<a href=\"http://www.dynebolic.org\">"
 
 #~ msgid "Dragora"
 #~ msgstr "Dragora"
