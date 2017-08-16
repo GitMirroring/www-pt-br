@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: other-free-books.html\n"
-"POT-Creation-Date: 2017-03-29 12:56+0000\n"
+"POT-Creation-Date: 2017-08-08 15:55+0000\n"
 "PO-Revision-Date: 2017-01-18 18:42-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -105,12 +105,39 @@ msgstr ""
 "de discussão sobre os perigos dos eBooks</a>"
 
 #. type: Content of: <h3>
-msgid "Free books"
-msgstr "Livros livres"
+# || No change detected.  The change might only be in amounts of spaces.
+#, fuzzy
+#| msgid "Table of Contents"
+msgid "Table of Contents"
+msgstr "Conteúdo"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"#English\">Free books in English</a>"
+msgstr ""
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"#Spanish\">Free books in Spanish</a>"
+msgstr ""
 
 #. type: Content of: <p>
-msgid "Newer listings are placed at the top of this list."
+# | Newer listings are placed at the top of [-this-] {+each+} list.
+#, fuzzy
+#| msgid "Newer listings are placed at the top of this list."
+msgid "Newer listings are placed at the top of each list."
 msgstr "Entradas mais novas estão no topo da lista."
+
+#. type: Content of: <div><h3>
+# | Free books {+in English+}
+#, fuzzy
+#| msgid "Free books"
+msgid "Free books in English"
+msgstr "Livros livres"
+
+#. type: Content of: <div>
+msgid ""
+"<span class=\"anchor-reference-id\">(<a href=\"#English\">#English</a>)</"
+"span>"
+msgstr ""
 
 #. type: Content of: <table><tr><th>
 msgid "Title"
@@ -758,6 +785,104 @@ msgstr "1-56592-654-4"
 #. type: Content of: <table><tr><td>
 msgid "Open Publication License, Version&nbsp;1.0 or later"
 msgstr "Licença de Publicação Aberta, Versão&nbsp;1.0 ou posterior"
+
+#. type: Content of: <div><h3>
+# | Free books {+in Spanish+}
+#, fuzzy
+#| msgid "Free books"
+msgid "Free books in Spanish"
+msgstr "Livros livres"
+
+#. type: Content of: <div>
+msgid ""
+"<span class=\"anchor-reference-id\">(<a href=\"#Spanish\">#Spanish</a>)</"
+"span>"
+msgstr ""
+
+#. type: Content of: <table><tr><td>
+msgid ""
+"<a href=\"http://www.libremanuals.net/\">Una introducci&oacute;n a la "
+"programaci&oacute;n en Emacs Lisp</a>"
+msgstr ""
+
+#. type: Content of: <table><tr><td>
+msgid "Robert J. Chassel (translated by David Arroyo Men&eacute;ndez)"
+msgstr ""
+
+#. type: Content of: <table><tr><td>
+msgid "Libremanuals"
+msgstr ""
+
+#. type: Content of: <table><tr><td>
+msgid "978-84-608-5935-2"
+msgstr ""
+
+#. type: Content of: <table><tr><td>
+# | <a [-href=\"http://www.network-theory.co.uk/gcc/intro/\">An Introduction
+# | to-] {+href=\"http://www.libremanuals.net/una-introduccion-gcc\">Una
+# | Introducci&oacute;n a+} GCC</a>
+#, fuzzy
+#| msgid ""
+#| "<a href=\"http://www.network-theory.co.uk/gcc/intro/\">An Introduction to "
+#| "GCC</a>"
+msgid ""
+"<a href=\"http://www.libremanuals.net/una-introduccion-gcc\">Una "
+"Introducci&oacute;n a GCC</a>"
+msgstr ""
+"<a href=\"http://www.network-theory.co.uk/gcc/intro/\">An Introduction to "
+"GCC</a>"
+
+#. type: Content of: <table><tr><td>
+msgid ""
+"Brian Gough (translated by David Arroyo Men&eacute;ndez and Luis Palomo de "
+"On&iacute;s)"
+msgstr ""
+
+#. type: Content of: <table><tr><td>
+msgid "978-84-608-7274-0"
+msgstr ""
+
+#. type: Content of: <table><tr><td>
+msgid ""
+"<a href=\"http://www.davidam.com/docu/orgguide.es.html\"> Gu&iacute;a "
+"Compacta de Org-Mode</a>"
+msgstr ""
+
+#. type: Content of: <table><tr><td>
+# | Carsten Dominik [-and others-]
+#, fuzzy
+#| msgid "Carsten Dominik and others"
+msgid "Carsten Dominik"
+msgstr "Carsten Dominik e outros"
+
+#. type: Content of: <table><tr><td>
+msgid "(translated by David Arroyo Men&eacute;ndez)"
+msgstr ""
+
+#. type: Content of: <table><tr><td>
+msgid "978-84-608-8894-9"
+msgstr ""
+
+#. type: Content of: <table><tr><td>
+msgid ""
+"<a href=\"https://www.traficantes.net/libros/software-libre-para-una-"
+"sociedad-libre\"> Software libre para una sociedad libre</a>"
+msgstr ""
+
+#. type: Content of: <table><tr><td>
+# | [-by <strong>Richard Stallman</strong>-]{+Richard Stallman+}
+#, fuzzy
+#| msgid "by <strong>Richard Stallman</strong>"
+msgid "Richard Stallman"
+msgstr "por <strong>Richard Stallman</strong>"
+
+#. type: Content of: <table><tr><td>
+msgid "Traficantes de Sue&ntilde;os"
+msgstr ""
+
+#. type: Content of: <table><tr><td>
+msgid "978-84-933555-1-7"
+msgstr ""
 
 #. type: Content of: <dl><dt>
 msgid ""

@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: free-software-song.html\n"
-"POT-Creation-Date: 2017-03-08 11:26+0000\n"
+"POT-Creation-Date: 2017-08-07 15:26+0000\n"
 "PO-Revision-Date: 2017-04-23 17:29-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -243,11 +243,25 @@ msgstr ""
 "licenses/by-sa/2.0/\">CC BY-SA</a>."
 
 #. type: Content of: <ul><li>
+# | This rock/metal version is put out by <a
+# | [-href=\"http://freesoftwaresong.altervista.org/\">-]
+# | {+href=\"https://web.archive.org/web/20150719082345/http://freesoftwaresong.altervista.org/\">+}
+# | Loneload</a> available in <a
+# | href=\"/music/loneload-free-software-song.ogg\">Ogg Vorbis</a> format (2.2
+# | MB), released under <a
+# | href=\"http://creativecommons.org/licenses/by/3.0/\">CC BY</a>.
+#, fuzzy
+#| msgid ""
+#| "This rock/metal version is put out by <a href=\"http://freesoftwaresong."
+#| "altervista.org/\"> Loneload</a> available in <a href=\"/music/loneload-"
+#| "free-software-song.ogg\">Ogg Vorbis</a> format (2.2 MB), released under "
+#| "<a href=\"http://creativecommons.org/licenses/by/3.0/\">CC BY</a>."
 msgid ""
-"This rock/metal version is put out by <a href=\"http://freesoftwaresong."
-"altervista.org/\"> Loneload</a> available in <a href=\"/music/loneload-free-"
-"software-song.ogg\">Ogg Vorbis</a> format (2.2 MB), released under <a href="
-"\"http://creativecommons.org/licenses/by/3.0/\">CC BY</a>."
+"This rock/metal version is put out by <a href=\"https://web.archive.org/"
+"web/20150719082345/http://freesoftwaresong.altervista.org/\"> Loneload</a> "
+"available in <a href=\"/music/loneload-free-software-song.ogg\">Ogg Vorbis</"
+"a> format (2.2 MB), released under <a href=\"http://creativecommons.org/"
+"licenses/by/3.0/\">CC BY</a>."
 msgstr ""
 "Essa versão rock/metal foi criada por <a href=\"http://freesoftwaresong."
 "altervista.org/\">Loneload</a> no formato <a href=\"/music/loneload-free-"
