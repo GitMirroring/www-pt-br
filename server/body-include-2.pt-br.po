@@ -10,7 +10,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: body-include-2.html\n"
-"POT-Creation-Date: 2017-06-08 07:25+0000\n"
+"POT-Creation-Date: 2017-09-15 15:26+0000\n"
 "PO-Revision-Date: 2016-07-09 16:36-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -31,7 +31,11 @@ msgstr ""
 "referrer=4052\">JUNTE-SE&nbsp;À&nbsp;FSF!</a>"
 
 #. type: Content of: <div><div><div><p>
-msgid "<a href=\"http://www.fsf.org/fss\">Free Software Supporter</a>"
+# | <a [-href=\"http://www.fsf.org/fss\">Free-]
+# | {+href=\"//www.fsf.org/fss\">Free+} Software Supporter</a>
+#, fuzzy
+#| msgid "<a href=\"http://www.fsf.org/fss\">Free Software Supporter</a>"
+msgid "<a href=\"//www.fsf.org/fss\">Free Software Supporter</a>"
 msgstr "<a href=\"http://www.fsf.org/fss\">Free Software Supporter</a>"
 
 #. type: Content of: <div><div><div><form><div>
@@ -128,8 +132,8 @@ msgstr "<a href=\"/help/help.html\">AJUDE&nbsp;O&nbsp;GNU</a>"
 
 #~ msgid "<label>Enter your email address (e.g. richard@example.com)</label>"
 #~ msgstr ""
-#~ "<label>Digite seu endereço de e-mail (por exemplo richard@exemplo.com.br)"
-#~ "</label>"
+#~ "<label>Digite seu endereço de e-mail (por exemplo richard@exemplo.com."
+#~ "br)</label>"
 
 # type: Content of: <body><div><div><form><div>
 #~ msgid ""

@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: help.html\n"
-"POT-Creation-Date: 2017-08-01 09:56+0000\n"
+"POT-Creation-Date: 2017-09-22 07:26+0000\n"
 "PO-Revision-Date: 2017-04-04 06:57-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -54,6 +54,15 @@ msgstr ""
 
 #. type: Content of: <div><ul><li>
 msgid "<a href=\"#helpgnu\">Help support GNU development and use</a>"
+msgstr ""
+"<a href=\"#helpgnu\">Ajude apoiando o desenvolvimento do GNU e usando-o</a>"
+
+#. type: Content of: <div><ul><li>
+# | <a [-href=\"#helpgnu\">Help support GNU development and use</a>-]
+# | {+href=\"#hnode\">Help improve h-node.org</a>+}
+#, fuzzy
+#| msgid "<a href=\"#helpgnu\">Help support GNU development and use</a>"
+msgid "<a href=\"#hnode\">Help improve h-node.org</a>"
 msgstr ""
 "<a href=\"#helpgnu\">Ajude apoiando o desenvolvimento do GNU e usando-o</a>"
 
@@ -492,6 +501,46 @@ msgstr ""
 "Livre</a> para publicar suas publicações de trabalhos. Se você tiver "
 "interesse nisso, por favor contate <a href=\"mailto:job-page@fsf.org\">&lt;"
 "job-page@fsf.org&gt;</a>."
+
+#. type: Content of: <h3>
+msgid "Help improve h-node.org"
+msgstr ""
+
+#. type: Content of: <p>
+msgid ""
+"h-node.org is a repository that contains information about how well "
+"particular hardware works with free software."
+msgstr ""
+
+#. type: Content of: <p>
+msgid "Help is needed in:"
+msgstr ""
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"https://h-node.org/wiki/page/en/Help\">Maintaining and improving "
+"the h-node.org wiki</a>."
+msgstr ""
+
+#. type: Content of: <ul><li>
+msgid ""
+"Improving <a href=\"https://h-node.org/wiki/page/en/h-source-code\">h-"
+"source</a> that powers h-node.org and <a href=\"https://h-node.org/wiki/page/"
+"en/client-for-h-node-org\">h-client</a> a desktop program for submiting "
+"device information to h-node.org."
+msgstr ""
+
+#. type: Content of: <ul><li>
+msgid "Suggesting new hardware that should be added to the database."
+msgstr ""
+
+#. type: Content of: outside any tag (error?)
+msgid ""
+"For other ways to help, see <a href=\"https://h-node.org/wiki/page/en/Main-"
+"Page\"> https://h-node.org/wiki/page/en/Main-Page</a>.  For communicating "
+"with h-node.org users/developers, use their <a href=\"https://h-node.org/"
+"wiki/page/en/mailing-lists\">mailing lists</a>."
+msgstr ""
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>

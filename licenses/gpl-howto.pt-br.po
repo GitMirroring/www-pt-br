@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gpl-howto.html\n"
-"POT-Creation-Date: 2017-08-17 18:25+0000\n"
+"POT-Creation-Date: 2017-09-11 11:26+0000\n"
 "PO-Revision-Date: 2017-01-18 18:09-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -163,7 +163,7 @@ msgstr ""
 msgid ""
 "To avoid possible legal complications later, it's wise to ask your employer "
 "or school, if any, to sign a copyright disclaimer for your program, so it "
-"cannot latter claim that the copyright belongs to it and that you had no "
+"cannot later claim that the copyright belongs to it and that you had no "
 "right to release the program at all.  This really has nothing to do with the "
 "GNU GPL&mdash;it applies no matter which free software license you use to "
 "release the program."
@@ -208,7 +208,9 @@ msgstr "Moe Ghoul, Presidente da Vice"
 msgid ""
 "If you are a university student, we recommend you request the disclaimer <a "
 "href=\"/philosophy/university.html\"> at an early stage in writing the "
-"program</a> to reduce resistance."
+"program</a> to reduce resistance.  If you are not a research assistant or "
+"teaching assistant, it could be that the university has no claim to "
+"copyright on your work, but ask a lawyer to make sure of that."
 msgstr ""
 
 #. type: Content of: <p>
@@ -405,7 +407,7 @@ msgstr ""
 # | [-The-]{+Each file's+} copying permission statement {+(also called the
 # | license notice)+}  should come right after [-the-] {+its+} copyright
 # | notices.  For a one-file program, the statement (for the GPL) should look
-# | like this:
+# | like [-this:-] {+this, to use GPL version 3 or later:+}
 #, fuzzy
 #| msgid ""
 #| "The copying permission statement should come right after the copyright "
@@ -414,7 +416,7 @@ msgstr ""
 msgid ""
 "Each file's copying permission statement (also called the license notice)  "
 "should come right after its copyright notices.  For a one-file program, the "
-"statement (for the GPL) should look like this:"
+"statement (for the GPL) should look like this, to use GPL version 3 or later:"
 msgstr ""
 "A declaração da permissão de cópia deve vir depois das notas de copyright. "
 "Para um arquivo de programa, a declaração (para a GPL) deve parecer com isso:"
@@ -525,6 +527,13 @@ msgstr ""
 "    Você deve ter recebido uma cópia da Licença Pública Geral GNU junto\n"
 "    com este programa, Se não, veja &lt;http://www.gnu.org/licenses/&gt;.\n"
 "\n"
+
+#. type: Content of: <p>
+msgid ""
+"To use a different set of GPL versions, you would modify the end of the "
+"first long paragraph.  For instance, to license under version 2 or later, "
+"you would replace &ldquo;3&rdquo; with &ldquo;2&rdquo;."
+msgstr ""
 
 #. type: Content of: <p>
 msgid ""

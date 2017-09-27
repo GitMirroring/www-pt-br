@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: footer-text.html\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-09-05 08:25+0000\n"
+"POT-Creation-Date: 2017-09-15 15:26+0000\n"
 "PO-Revision-Date: 2016-12-18 11:08-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -25,12 +25,21 @@ msgid "<a href=\"#header\">BACK TO TOP</a>"
 msgstr "<a href=\"#header\">VOLTAR AO TOPO</a>"
 
 #. type: Content of: <div><ul><li>
-msgid "<a href=\"http://www.fsf.org/\">FSF</a>"
+# | <a [-href=\"http://www.fsf.org/\">FSF</a>-]
+# | {+href=\"//www.fsf.org/\">FSF</a>+}
+#, fuzzy
+#| msgid "<a href=\"http://www.fsf.org/\">FSF</a>"
+msgid "<a href=\"//www.fsf.org/\">FSF</a>"
 msgstr "<a href=\"http://www.fsf.org/\">FSF</a>"
 
 #. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"http://directory.fsf.org\">FREE&nbsp;SOFTWARE&nbsp;DIRECTORY</a>"
+# | <a
+# | [-href=\"http://directory.fsf.org\">FREE&nbsp;SOFTWARE&nbsp;DIRECTORY</a>-]
+# | {+href=\"//directory.fsf.org\">FREE&nbsp;SOFTWARE&nbsp;DIRECTORY</a>+}
+#, fuzzy
+#| msgid ""
+#| "<a href=\"http://directory.fsf.org\">FREE&nbsp;SOFTWARE&nbsp;DIRECTORY</a>"
+msgid "<a href=\"//directory.fsf.org\">FREE&nbsp;SOFTWARE&nbsp;DIRECTORY</a>"
 msgstr ""
 "<a href=\"http://directory.fsf.org\">DIRETÓRIO&nbsp;DE&nbsp;SOFTWARE&nbsp;"
 "LIVRE</a>"
@@ -52,7 +61,10 @@ msgid "<a href=\"/server/sitemap.html\">SITE&nbsp;MAP</a>"
 msgstr "<a href=\"/server/sitemap.html\">MAPA&nbsp;DO&nbsp;SITE</a>"
 
 #. type: Content of: <div><blockquote><p><a>
-msgid "<a href=\"http://www.fsf.org\">"
+# | <a [-href=\"http://www.fsf.org\">-] {+href=\"//www.fsf.org\">+}
+#, fuzzy
+#| msgid "<a href=\"http://www.fsf.org\">"
+msgid "<a href=\"//www.fsf.org\">"
 msgstr "<a href=\"http://www.fsf.org\">"
 
 #. type: Attribute 'alt' of: <div><blockquote><p><a><img>
@@ -70,15 +82,37 @@ msgstr ""
 "direitos dos usuários de Software Livre.”</strong>"
 
 #. type: Content of: <div><p>
+# | The <a [-href=\"http://www.fsf.org\">Free-]
+# | {+href=\"//www.fsf.org\">Free+} Software Foundation</a> is the principal
+# | organizational sponsor of the GNU Operating System.  <strong>Support GNU
+# | and the FSF</strong> by <a [-href=\"http://shop.fsf.org/\">buying-]
+# | {+href=\"//shop.fsf.org/\">buying+} manuals and gear</a>, <a
+# | href=\"https://my.fsf.org/associate/support_freedom?referrer=4052\">
+# | <strong>joining the FSF</strong></a> as an associate member, or making a
+# | <strong>donation</strong>, either <a
+# | [-href=\"http://donate.fsf.org/\">directly-]
+# | {+href=\"//donate.fsf.org/\">directly+} to the FSF</a> or <a
+# | href=\"http{+s+}://flattr.com/thing/313733/gnuproject-on-Flattr\">via
+# | Flattr</a>.
+#, fuzzy
+#| msgid ""
+#| "The <a href=\"http://www.fsf.org\">Free Software Foundation</a> is the "
+#| "principal organizational sponsor of the GNU Operating System.  "
+#| "<strong>Support GNU and the FSF</strong> by <a href=\"http://shop.fsf.org/"
+#| "\">buying manuals and gear</a>, <a href=\"https://my.fsf.org/associate/"
+#| "support_freedom?referrer=4052\"> <strong>joining the FSF</strong></a> as "
+#| "an associate member, or making a <strong>donation</strong>, either <a "
+#| "href=\"http://donate.fsf.org/\">directly to the FSF</a> or <a href="
+#| "\"http://flattr.com/thing/313733/gnuproject-on-Flattr\">via Flattr</a>."
 msgid ""
-"The <a href=\"http://www.fsf.org\">Free Software Foundation</a> is the "
-"principal organizational sponsor of the GNU Operating System.  "
-"<strong>Support GNU and the FSF</strong> by <a href=\"http://shop.fsf.org/"
-"\">buying manuals and gear</a>, <a href=\"https://my.fsf.org/associate/"
-"support_freedom?referrer=4052\"> <strong>joining the FSF</strong></a> as an "
-"associate member, or making a <strong>donation</strong>, either <a href="
-"\"http://donate.fsf.org/\">directly to the FSF</a> or <a href=\"http://"
-"flattr.com/thing/313733/gnuproject-on-Flattr\">via Flattr</a>."
+"The <a href=\"//www.fsf.org\">Free Software Foundation</a> is the principal "
+"organizational sponsor of the GNU Operating System.  <strong>Support GNU and "
+"the FSF</strong> by <a href=\"//shop.fsf.org/\">buying manuals and gear</a>, "
+"<a href=\"https://my.fsf.org/associate/support_freedom?referrer=4052\"> "
+"<strong>joining the FSF</strong></a> as an associate member, or making a "
+"<strong>donation</strong>, either <a href=\"//donate.fsf.org/\">directly to "
+"the FSF</a> or <a href=\"https://flattr.com/thing/313733/gnuproject-on-Flattr"
+"\">via Flattr</a>."
 msgstr ""
 "A <a href=\"http://www.fsf.org\">Free Software Foundation</a> é a principal "
 "organização que patrocina o <a href=\"http://www.gnu.org/\">Sistema "
@@ -109,8 +143,6 @@ msgstr ""
 #~ "<a href=\"http://directory.fsf.org\">Diretório&nbsp;de&nbsp;Software&nbsp;"
 #~ "Livre</a>"
 
-# | [-by-]<a [-href=\"http://www.stallman.org/\">Richard Stallman</a>-]
-# | {+href=\"https://h-node.org/\">Hardware</a>+}
 #~| msgid "by <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
 #~ msgid "<a href=\"https://h-node.org/\">Hardware</a>"
 #~ msgstr "<a href=\"https://h-node.org/\">Hardware</a>"

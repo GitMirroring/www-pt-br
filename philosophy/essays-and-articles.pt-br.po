@@ -11,7 +11,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: essays-and-articles.html\n"
-"POT-Creation-Date: 2017-08-04 07:08+0000\n"
+"POT-Creation-Date: 2017-09-13 17:56+0000\n"
 "PO-Revision-Date: 2017-08-16 02:38-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -1103,6 +1103,21 @@ msgstr ""
 #. type: Content of: <h4>
 msgid "Cultural and Social Issues"
 msgstr "Problemas Sociais e Culturais"
+
+#. type: Content of: <ul><li>
+# | <a [-href=\"/philosophy/censoring-emacs.html\">Censoring My
+# | Software</a>,-] {+href=\"/philosophy/hackathons.html\"> Why Hackathons
+# | Should Insist on Free Software</a>+} by Richard Stallman[-.-]
+#, fuzzy
+#| msgid ""
+#| "<a href=\"/philosophy/censoring-emacs.html\">Censoring My Software</a>, "
+#| "by Richard Stallman."
+msgid ""
+"<a href=\"/philosophy/hackathons.html\"> Why Hackathons Should Insist on "
+"Free Software</a> by Richard Stallman"
+msgstr ""
+"<a href=\"/philosophy/censoring-emacs.html\">Censurando Meu Software</a>, "
+"por Richard Stallman."
 
 #. type: Content of: <ul><li>
 msgid ""

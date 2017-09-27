@@ -9,7 +9,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnu-history.html\n"
-"POT-Creation-Date: 2017-06-16 06:56+0000\n"
+"POT-Creation-Date: 2017-09-04 10:56+0000\n"
 "PO-Revision-Date: 2017-05-20 16:20-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -188,17 +188,41 @@ msgstr ""
 "o GNU."
 
 #. type: Content of: <p>
+# | By 1990 we had either found or written all the major components except
+# | one&mdash;the kernel.  Then Linux, a Unix-like kernel, was developed by
+# | Linus Torvalds in 1991 and made free software in 1992.  Combining Linux
+# | with the almost-complete GNU system resulted in a complete operating
+# | system: the GNU/Linux system.  Estimates are that tens of millions of
+# | people now use GNU/Linux systems, typically via <a
+# | [-href=\"/distros\">GNU/Linux-]
+# | {+href=\"/distros/distros.html\">GNU/Linux+} distributions</a>.  The
+# | principal version of Linux now contains non-free firmware
+# | &ldquo;blobs&rdquo;; free software activists now maintain a modified free
+# | version of Linux, called <a
+# | href=\"http://directory.fsf.org/project/linux\"> Linux-libre</a>.
+#, fuzzy
+#| msgid ""
+#| "By 1990 we had either found or written all the major components except "
+#| "one&mdash;the kernel.  Then Linux, a Unix-like kernel, was developed by "
+#| "Linus Torvalds in 1991 and made free software in 1992.  Combining Linux "
+#| "with the almost-complete GNU system resulted in a complete operating "
+#| "system: the GNU/Linux system.  Estimates are that tens of millions of "
+#| "people now use GNU/Linux systems, typically via <a href=\"/distros\">GNU/"
+#| "Linux distributions</a>.  The principal version of Linux now contains non-"
+#| "free firmware &ldquo;blobs&rdquo;; free software activists now maintain a "
+#| "modified free version of Linux, called <a href=\"http://directory.fsf.org/"
+#| "project/linux\"> Linux-libre</a>."
 msgid ""
 "By 1990 we had either found or written all the major components except "
 "one&mdash;the kernel.  Then Linux, a Unix-like kernel, was developed by "
 "Linus Torvalds in 1991 and made free software in 1992.  Combining Linux with "
 "the almost-complete GNU system resulted in a complete operating system: the "
 "GNU/Linux system.  Estimates are that tens of millions of people now use GNU/"
-"Linux systems, typically via <a href=\"/distros\">GNU/Linux distributions</"
-"a>.  The principal version of Linux now contains non-free firmware &ldquo;"
-"blobs&rdquo;; free software activists now maintain a modified free version "
-"of Linux, called <a href=\"http://directory.fsf.org/project/linux\"> Linux-"
-"libre</a>."
+"Linux systems, typically via <a href=\"/distros/distros.html\">GNU/Linux "
+"distributions</a>.  The principal version of Linux now contains non-free "
+"firmware &ldquo;blobs&rdquo;; free software activists now maintain a "
+"modified free version of Linux, called <a href=\"http://directory.fsf.org/"
+"project/linux\"> Linux-libre</a>."
 msgstr ""
 "Por volta de 1990 nós havíamos encontrado ou escrito todos os componentes "
 "principais, exceto um — o kernel.  Então o Linux, um kernel do tipo Unix, "

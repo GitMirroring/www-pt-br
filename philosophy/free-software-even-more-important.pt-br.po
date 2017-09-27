@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: free-software-even-more-important.html\n"
-"POT-Creation-Date: 2017-07-07 12:55+0000\n"
+"POT-Creation-Date: 2017-08-27 15:56+0000\n"
 "PO-Revision-Date: 2017-05-20 16:20-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -48,8 +48,15 @@ msgstr ""
 "now-than-ever-before\">Wired</a>."
 
 #. type: Content of: <blockquote><p>
+# | <a [-href=\"/help\">Suggested-] {+href=\"/help/help.html\">Suggested+}
+# | ways you can help the free software movement</a>.
+#, fuzzy
+#| msgid ""
+#| "<a href=\"/help\">Suggested ways you can help the free software movement</"
+#| "a>."
 msgid ""
-"<a href=\"/help\">Suggested ways you can help the free software movement</a>."
+"<a href=\"/help/help.html\">Suggested ways you can help the free software "
+"movement</a>."
 msgstr ""
 "<a href=\"/help\">Maneiras sugeridas para você ajudar o movimento do "
 "software livre</a>."
@@ -662,13 +669,28 @@ msgid "Conclusion"
 msgstr "Conclusão"
 
 #. type: Content of: <p>
+# | We deserve to have control of our own computing; how can we win this
+# | control? By rejecting nonfree software on the computers we own or
+# | regularly use, and rejecting SaaSS.  By <a
+# | href=\"/licenses/license-recommendations.html\"> developing free
+# | software</a> (for those of us who are programmers.) By refusing to develop
+# | or promote nonfree software or SaaSS.  By <a [-href=\"/help\">spreading-]
+# | {+href=\"/help/help.html\">spreading+} these ideas to others</a>.
+#, fuzzy
+#| msgid ""
+#| "We deserve to have control of our own computing; how can we win this "
+#| "control? By rejecting nonfree software on the computers we own or "
+#| "regularly use, and rejecting SaaSS.  By <a href=\"/licenses/license-"
+#| "recommendations.html\"> developing free software</a> (for those of us who "
+#| "are programmers.) By refusing to develop or promote nonfree software or "
+#| "SaaSS.  By <a href=\"/help\">spreading these ideas to others</a>."
 msgid ""
 "We deserve to have control of our own computing; how can we win this "
 "control? By rejecting nonfree software on the computers we own or regularly "
 "use, and rejecting SaaSS.  By <a href=\"/licenses/license-recommendations."
 "html\"> developing free software</a> (for those of us who are programmers.) "
 "By refusing to develop or promote nonfree software or SaaSS.  By <a href=\"/"
-"help\">spreading these ideas to others</a>."
+"help/help.html\">spreading these ideas to others</a>."
 msgstr ""
 "Nós merecemos ter o controle da nossa própria informática; como podemos "
 "ganhar esse controle?  Ao rejeitar software não livre nos computadores que "

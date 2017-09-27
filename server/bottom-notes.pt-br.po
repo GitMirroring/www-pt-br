@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: bottom-notes.html\n"
-"POT-Creation-Date: 2017-07-13 16:25+0000\n"
+"POT-Creation-Date: 2017-09-15 15:26+0000\n"
 "PO-Revision-Date: 2015-09-01 14:26-0300\n"
 "Last-Translator: Bruno Félix Rezende Ribeiro <oitofelix@gnu.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -15,8 +15,15 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. type: Content of: <div><p>
+# | <a [-href=\"http://www.fsf.org/about/dmca-notice\">Copyright-]
+# | {+href=\"//www.fsf.org/about/dmca-notice\">Copyright+} Infringement
+# | Notification</a>
+#, fuzzy
+#| msgid ""
+#| "<a href=\"http://www.fsf.org/about/dmca-notice\">Copyright Infringement "
+#| "Notification</a>"
 msgid ""
-"<a href=\"http://www.fsf.org/about/dmca-notice\">Copyright Infringement "
+"<a href=\"//www.fsf.org/about/dmca-notice\">Copyright Infringement "
 "Notification</a>"
 msgstr ""
 "<a href=\"http://www.fsf.org/about/dmca-notice\">Notificação de Violação de "

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: linux-and-gnu.html\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-02-17 10:25+0000\n"
+"POT-Creation-Date: 2017-09-04 10:56+0000\n"
 "PO-Revision-Date: 2017-05-20 16:20-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -234,9 +234,9 @@ msgstr ""
 "excitantes<a href=\"#unexciting\">(1)</a>, porque você não pode ter um "
 "sistema sem eles. Alguns de nossos componentes, as ferramentas de sistema, "
 "se tornaram populares por conta própria entre os programadores, mas nós "
-"escrevemos muitos componentes que não são ferramentas<a href=\"#nottools\">"
-"(2)</a>. Nós desenvolvemos um jogo de xadrez, o GNU Chess, porque um sistema "
-"completo precisa de jogos também."
+"escrevemos muitos componentes que não são ferramentas<a href=\"#nottools"
+"\">(2)</a>. Nós desenvolvemos um jogo de xadrez, o GNU Chess, porque um "
+"sistema completo precisa de jogos também."
 
 #. type: Content of: <p>
 msgid ""
@@ -310,13 +310,29 @@ msgstr ""
 "financiou um estágio inicial do desenvolvimento do Debian GNU/Linux."
 
 #. type: Content of: <p>
+# | Today there are many different variants of the GNU/Linux system (often
+# | called &ldquo;distros&rdquo;).  Most of them include non-free
+# | software&mdash;their developers follow the philosophy associated with
+# | Linux rather than that of GNU.  But there are also <a
+# | [-href=\"/distros/\">completely-]
+# | {+href=\"/distros/distros.html\">completely+} free GNU/Linux distros</a>. 
+# | The FSF supports computer facilities for <a
+# | href=\"http://gnewsense.org/\">gNewSense</a>.
+#, fuzzy
+#| msgid ""
+#| "Today there are many different variants of the GNU/Linux system (often "
+#| "called &ldquo;distros&rdquo;).  Most of them include non-free "
+#| "software&mdash;their developers follow the philosophy associated with "
+#| "Linux rather than that of GNU.  But there are also <a href=\"/distros/"
+#| "\">completely free GNU/Linux distros</a>.  The FSF supports computer "
+#| "facilities for <a href=\"http://gnewsense.org/\">gNewSense</a>."
 msgid ""
 "Today there are many different variants of the GNU/Linux system (often "
 "called &ldquo;distros&rdquo;).  Most of them include non-free software&mdash;"
 "their developers follow the philosophy associated with Linux rather than "
-"that of GNU.  But there are also <a href=\"/distros/\">completely free GNU/"
-"Linux distros</a>.  The FSF supports computer facilities for <a href="
-"\"http://gnewsense.org/\">gNewSense</a>."
+"that of GNU.  But there are also <a href=\"/distros/distros.html"
+"\">completely free GNU/Linux distros</a>.  The FSF supports computer "
+"facilities for <a href=\"http://gnewsense.org/\">gNewSense</a>."
 msgstr ""
 "Há hoje muitas variantes diferentes do sistema GNU/Linux (frequentemente "
 "chamadas de “distros”). A maioria delas inclui software não livre &mdash; "
@@ -412,8 +428,8 @@ msgstr ""
 "o sistema GNU e suas variantes usam alguns programas BSD; porém, como um "
 "todo, eles são dois sistemas diferentes que evoluíram separadamente. Os "
 "desenvolvedores do BSD não escreveram um núcleo e o adicionaram ao sistema "
-"GNU, e um nome como GNU/BSD não se adequaria à situação.<a href=\"#gnubsd\">"
-"(5)</a>"
+"GNU, e um nome como GNU/BSD não se adequaria à situação.<a href=\"#gnubsd"
+"\">(5)</a>"
 
 #. type: Content of: <h3>
 msgid "Notes:"

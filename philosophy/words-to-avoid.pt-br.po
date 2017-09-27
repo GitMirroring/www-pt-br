@@ -9,7 +9,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: words-to-avoid.html\n"
-"POT-Creation-Date: 2017-08-01 04:26+0000\n"
+"POT-Creation-Date: 2017-09-15 18:26+0000\n"
 "PO-Revision-Date: 2017-05-20 16:20-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -526,14 +526,30 @@ msgid "&ldquo;Cloud Computing&rdquo;"
 msgstr "“Computação em Nuvem”"
 
 #. type: Content of: <p>
+# | The term &ldquo;cloud computing&rdquo; (or just [-<a
+# | name=\"Cloud\">&ldquo;cloud&rdquo;</a>,-] {+&ldquo;cloud&rdquo;,+} in the
+# | context of computing) is a marketing buzzword with no coherent meaning. 
+# | It is used for a range of different activities whose only common
+# | characteristic is that they use the Internet for something beyond
+# | transmitting files.  Thus, the term spreads confusion.  If you base your
+# | thinking on it, your thinking will be confused (or, could we say,
+# | &ldquo;cloudy&rdquo;?).
+#, fuzzy
+#| msgid ""
+#| "The term &ldquo;cloud computing&rdquo; (or just <a name=\"Cloud\">&ldquo;"
+#| "cloud&rdquo;</a>, in the context of computing) is a marketing buzzword "
+#| "with no coherent meaning.  It is used for a range of different activities "
+#| "whose only common characteristic is that they use the Internet for "
+#| "something beyond transmitting files.  Thus, the term spreads confusion.  "
+#| "If you base your thinking on it, your thinking will be confused (or, "
+#| "could we say, &ldquo;cloudy&rdquo;?)."
 msgid ""
-"The term &ldquo;cloud computing&rdquo; (or just <a name=\"Cloud\">&ldquo;"
-"cloud&rdquo;</a>, in the context of computing) is a marketing buzzword with "
-"no coherent meaning.  It is used for a range of different activities whose "
-"only common characteristic is that they use the Internet for something "
-"beyond transmitting files.  Thus, the term spreads confusion.  If you base "
-"your thinking on it, your thinking will be confused (or, could we say, "
-"&ldquo;cloudy&rdquo;?)."
+"The term &ldquo;cloud computing&rdquo; (or just &ldquo;cloud&rdquo;, in the "
+"context of computing) is a marketing buzzword with no coherent meaning.  It "
+"is used for a range of different activities whose only common characteristic "
+"is that they use the Internet for something beyond transmitting files.  "
+"Thus, the term spreads confusion.  If you base your thinking on it, your "
+"thinking will be confused (or, could we say, &ldquo;cloudy&rdquo;?)."
 msgstr ""
 "O termo “computação em nuvem” (ou simplesmente <a name=\"Cloud\">“nuvem”</"
 "a>, no contexto da computação) é uma palavra da moda sem qualquer sentido "
@@ -1658,14 +1674,16 @@ msgstr "“MP3 Player”"
 #.  The MP3 patents will reportedly expire by 2018.  
 #. type: Content of: <p>
 # | In the late 1990s it became feasible to make portable, solid-state digital
-# | audio players. Most [-support-] {+supported+} the patented MP3 codec, but
-# | not all.  Some {+players+} support the patent-free audio codecs Ogg Vorbis
-# | and FLAC, and may not even support MP3-encoded files at all, precisely to
-# | avoid these patents.  To call such players &ldquo;MP3 players&rdquo; is
-# | not only confusing, it also privileges the MP3 {+format+} that we ought to
-# | reject.  We suggest the terms &ldquo;digital audio player,&rdquo; or
-# | simply &ldquo;audio player&rdquo; [-if context permits.-] {+when that's
-# | clear enough.+}
+# | audio players.  Most [-support-] {+players supported+} the patented MP3
+# | codec, [-but not all.-] {+and that is still the case.+}  Some [-support-]
+# | {+players also supported+} the patent-free audio codecs Ogg Vorbis and
+# | FLAC, and [-may not even support-] {+a few couldn't play+} MP3-encoded
+# | files at [-all, precisely-] {+all because their developers needed+} to
+# | [-avoid these patents.  To call such players &ldquo;MP3 players&rdquo; is
+# | not only confusing, it also privileges-] {+protect themselves from+} the
+# | {+patents on+} MP3 [-that we ought to reject.  We suggest the terms
+# | &ldquo;digital audio player,&rdquo; or simply &ldquo;audio player&rdquo;
+# | if context permits.-] {+format.+}
 #, fuzzy
 #| msgid ""
 #| "In the late 1990s it became feasible to make portable, solid-state "
@@ -1678,13 +1696,11 @@ msgstr "“MP3 Player”"
 #| "audio player&rdquo; if context permits."
 msgid ""
 "In the late 1990s it became feasible to make portable, solid-state digital "
-"audio players. Most supported the patented MP3 codec, but not all.  Some "
-"players support the patent-free audio codecs Ogg Vorbis and FLAC, and may "
-"not even support MP3-encoded files at all, precisely to avoid these "
-"patents.  To call such players &ldquo;MP3 players&rdquo; is not only "
-"confusing, it also privileges the MP3 format that we ought to reject.  We "
-"suggest the terms &ldquo;digital audio player,&rdquo; or simply &ldquo;audio "
-"player&rdquo; when that's clear enough."
+"audio players.  Most players supported the patented MP3 codec, and that is "
+"still the case.  Some players also supported the patent-free audio codecs "
+"Ogg Vorbis and FLAC, and a few couldn't play MP3-encoded files at all "
+"because their developers needed to protect themselves from the patents on "
+"MP3 format."
 msgstr ""
 "No fim dos anos 90, tornou-se possível criar tocadores de audio digital com "
 "memória em estado sólido. A maior parte tinha suporte ao MP3, um codec "
@@ -1695,6 +1711,21 @@ msgstr ""
 "confuso, mas também privilegia o MP3, que devemos rejeitar. Sugerimos os "
 "termos “tocador de audio digital” ou simplesmente “tocador de áudio”, se o "
 "contexto permitir."
+
+#. type: Content of: <p>
+msgid ""
+"Using the term &ldquo;MP3 players&rdquo; for audio players in general has "
+"the effect of promoting the MP3 format and discouraging the other formats "
+"(some of which are technically superior as well).  Even though the MP3 "
+"patents have expired, it is still undesirable to do that."
+msgstr ""
+
+#. type: Content of: <p>
+msgid ""
+"We suggest the term &ldquo;digital audio player,&rdquo; or simply &ldquo;"
+"audio player&rdquo; when that's clear enough, instead of &ldquo;MP3 player."
+"&rdquo;"
+msgstr ""
 
 #. type: Content of: <h3>
 msgid "&ldquo;Open&rdquo;"

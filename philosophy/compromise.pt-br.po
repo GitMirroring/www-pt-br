@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: compromise.html\n"
-"POT-Creation-Date: 2015-01-10 12:55+0000\n"
+"POT-Creation-Date: 2017-08-27 14:56+0000\n"
 "PO-Revision-Date: 2017-05-20 16:20-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -128,14 +128,34 @@ msgstr ""
 "mesmo quando não concordamos totalmente com os grupos por trás delas."
 
 #. type: Content of: <p>
+# | But we reject certain compromises even though many others in our community
+# | are willing to make them.  For instance, we <a
+# | [-href=\"/philosophy/free-system-distribution-guidelines.html\">-]
+# | {+href=\"/distros/free-system-distribution-guidelines.html\">+} endorse
+# | only the GNU/Linux distributions</a> that have policies not to include
+# | nonfree software or lead users to install it.  To endorse nonfree
+# | distributions would be a <acronym title=\"ruinous
+# | (r&#363;'&#601;-n&#601;s) adj. 1. Causing or apt to cause ruin;
+# | destructive.  2. Falling to ruin; dilapidated or
+# | decayed.\">ruinous</acronym> compromise.
+#, fuzzy
+#| msgid ""
+#| "But we reject certain compromises even though many others in our "
+#| "community are willing to make them.  For instance, we <a href=\"/"
+#| "philosophy/free-system-distribution-guidelines.html\"> endorse only the "
+#| "GNU/Linux distributions</a> that have policies not to include nonfree "
+#| "software or lead users to install it.  To endorse nonfree distributions "
+#| "would be a <acronym title=\"ruinous (r&#363;'&#601;-n&#601;s) adj. 1. "
+#| "Causing or apt to cause ruin; destructive.  2. Falling to ruin; "
+#| "dilapidated or decayed.\">ruinous</acronym> compromise."
 msgid ""
 "But we reject certain compromises even though many others in our community "
-"are willing to make them.  For instance, we <a href=\"/philosophy/free-"
-"system-distribution-guidelines.html\"> endorse only the GNU/Linux "
-"distributions</a> that have policies not to include nonfree software or lead "
-"users to install it.  To endorse nonfree distributions would be a <acronym "
-"title=\"ruinous (r&#363;'&#601;-n&#601;s) adj. 1. Causing or apt to cause "
-"ruin; destructive.  2. Falling to ruin; dilapidated or decayed.\">ruinous</"
+"are willing to make them.  For instance, we <a href=\"/distros/free-system-"
+"distribution-guidelines.html\"> endorse only the GNU/Linux distributions</a> "
+"that have policies not to include nonfree software or lead users to install "
+"it.  To endorse nonfree distributions would be a <acronym title=\"ruinous "
+"(r&#363;'&#601;-n&#601;s) adj. 1. Causing or apt to cause ruin; "
+"destructive.  2. Falling to ruin; dilapidated or decayed.\">ruinous</"
 "acronym> compromise."
 msgstr ""
 "Mas nós rejeitamos certos compromissos, embora muitos outros em nossa "
@@ -361,17 +381,40 @@ msgstr ""
 "nossos valores honestos."
 
 #. type: Content of: <p>
+# | If you want to move to free software without compromising the goal of
+# | freedom, look at <a href=\"http://www.fsf.org/resources\">the FSF's
+# | resources area</a>.  It lists hardware and machine configurations that
+# | work with free software, <a [-href=\"/distros\">-]
+# | {+href=\"/distros/distros.html\">+} totally free GNU/Linux distros</a> to
+# | install, and <a href=\"http://directory.fsf.org/\"> thousands of free
+# | software packages</a> that work in a 100 percent free software
+# | environment.  If you want to help the community stay on the road to
+# | freedom, one important way is to publicly uphold citizen values.  When
+# | people are discussing what is good or bad, or what to do, cite the values
+# | of freedom and community and argue from them.
+#, fuzzy
+#| msgid ""
+#| "If you want to move to free software without compromising the goal of "
+#| "freedom, look at <a href=\"http://www.fsf.org/resources\">the FSF's "
+#| "resources area</a>.  It lists hardware and machine configurations that "
+#| "work with free software, <a href=\"/distros\"> totally free GNU/Linux "
+#| "distros</a> to install, and <a href=\"http://directory.fsf.org/\"> "
+#| "thousands of free software packages</a> that work in a 100 percent free "
+#| "software environment.  If you want to help the community stay on the road "
+#| "to freedom, one important way is to publicly uphold citizen values.  When "
+#| "people are discussing what is good or bad, or what to do, cite the values "
+#| "of freedom and community and argue from them."
 msgid ""
 "If you want to move to free software without compromising the goal of "
 "freedom, look at <a href=\"http://www.fsf.org/resources\">the FSF's "
 "resources area</a>.  It lists hardware and machine configurations that work "
-"with free software, <a href=\"/distros\"> totally free GNU/Linux distros</a> "
-"to install, and <a href=\"http://directory.fsf.org/\"> thousands of free "
-"software packages</a> that work in a 100 percent free software environment.  "
-"If you want to help the community stay on the road to freedom, one important "
-"way is to publicly uphold citizen values.  When people are discussing what "
-"is good or bad, or what to do, cite the values of freedom and community and "
-"argue from them."
+"with free software, <a href=\"/distros/distros.html\"> totally free GNU/"
+"Linux distros</a> to install, and <a href=\"http://directory.fsf.org/\"> "
+"thousands of free software packages</a> that work in a 100 percent free "
+"software environment.  If you want to help the community stay on the road to "
+"freedom, one important way is to publicly uphold citizen values.  When "
+"people are discussing what is good or bad, or what to do, cite the values of "
+"freedom and community and argue from them."
 msgstr ""
 "Se você deseja começar a usar software livre sem comprometer o objetivo da "
 "liberdade, veja <a href=\"http://www.fsf.org/resources\">a área de recursos "
@@ -452,18 +495,34 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
+# | Copyright &copy; 2008, 2009, 2014, [-2015-] {+2015, 2017+} <a
+# | href=\"http://www.stallman.org/\">Richard Stallman</a>.
+#, fuzzy
+#| msgid ""
+#| "Copyright &copy; 2008, 2009, 2014, 2015 <a href=\"http://www.stallman.org/"
+#| "\">Richard Stallman</a>."
 msgid ""
-"Copyright &copy; 2008, 2009, 2014, 2015 <a href=\"http://www.stallman.org/"
-"\">Richard Stallman</a>."
+"Copyright &copy; 2008, 2009, 2014, 2015, 2017 <a href=\"http://www.stallman."
+"org/\">Richard Stallman</a>."
 msgstr ""
 "Copyright &copy; 2008, 2009, 2014, 2015 <a href=\"http://www.stallman.org/"
 "\">Richard Stallman</a>."
 
 #. type: Content of: <div><p>
+# | This page is licensed under a <a rel=\"license\"
+# | [-href=\"http://creativecommons.org/licenses/by-nd/3.0/us/\">Creative-]
+# | {+href=\"http://creativecommons.org/licenses/by-nd/4.0/\">Creative+}
+# | Commons [-Attribution-NoDerivs 3.0 United States-]
+# | {+Attribution-NoDerivatives 4.0 International+} License</a>.
+#, fuzzy
+#| msgid ""
+#| "This page is licensed under a <a rel=\"license\" href=\"http://"
+#| "creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+#| "NoDerivs 3.0 United States License</a>."
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
 "creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
