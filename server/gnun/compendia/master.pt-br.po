@@ -1,14 +1,15 @@
 # Master Compendium for Brazilian Portuguese translations of gnu.org articles.
-# Copyright (C) 2012, 2013 Free Software Foundation, Inc.
-# This file is distributed under the same license as the articles in www.gnu.org.
+# Copyright (C) 2017 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
 # Rafael Beraldo <rberaldo@cabaladada.org>, 2013.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: master\n"
-"POT-Creation-Date: 2010-11-22 12:25-0500\n"
-"PO-Revision-Date: 2013-02-07 01:39-0200\n"
-"Last-Translator: Rafael Beraldo <rberaldo@cabaladada.org>\n"
+"Project-Id-Version: Master\n"
+"POT-Creation-Date: 2017-09-30 15:09-0300\n"
+"PO-Revision-Date: 2017-09-30 15:09-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -16,8 +17,16 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-# type: Content of: <div><p>
-#. type: Content of: <div><p>
+# Tradutor: insira seu nome e seu e-mail neste modelo.
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+#, fuzzy
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: NOME COMPLETO <a href=\"mailto:ENDEREÇO DE EMAIL\">&lt;"
+"ENDEREÇO DE EMAIL&gt;</a>, 2017."
+
+#. type: Content of: <div><div><p>
 msgid ""
 "Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
 "\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
@@ -42,34 +51,8 @@ msgstr ""
 #.         <p>For information on coordinating and submitting translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
-#.         README</a>.
-#. type: Content of: <div><p>
-msgid ""
-"For information on coordinating and submitting translations of this article, "
-"see <a href=\"/server/standards/README.translations.html\">Translations "
-"README</a>."
-msgstr ""
-"A equipe de traduções para o português brasileiro se esforça para oferecer "
-"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
-"favor, envie seus comentários e sugestões em geral sobre as traduções para "
-"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
-"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas desse site."
-
-#
-#.  TRANSLATORS: Ignore the original text in this paragraph,
-#.         replace it with the translation of these two:
-#.         We work hard and do our best to provide accurate, good quality
-#.         translations.  However, we are not exempt from imperfection.
-#.         Please send your comments and general suggestions in this regard
-#.         to <a href="mailto:web-translators@gnu.org">
-#.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
-#.         our web pages, see <a
-#.         href="/server/standards/README.translations.html">Translations
-#.         README</a>.
-#. type: Content of: <div><p>
+#.         README</a>. 
+#. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
 "\">Translations README</a> for information on coordinating and submitting "
@@ -83,40 +66,122 @@ msgstr ""
 "\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
 "envio de traduções das páginas desse site."
 
-# type: Content of: <div><p>
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização:"
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+"NoDerivs 3.0 United States License</a>."
+msgstr ""
+"Esta página está sob <a rel=\"license\" href=\"https://creativecommons.org/"
+"licenses/by-nd/3.0/us/deed.pt_BR\">licença da Creative Commons Atribuição-"
+"SemDerivações 3.0 Estados Unidos</a>."
+
+#. type: Content of: <ul><li>
+msgid "John Gilmore"
+msgstr "John Gilmore"
+
+#. type: Content of: <ul><li>
+msgid "Paul Eggert"
+msgstr "Paul Eggert"
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2014 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2014 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2014, 2015 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2014, 2015 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2014, 2015, 2016, 2017 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2014, 2015, 2016, 2017 Free Software Foundation, Inc."
+
+#. type: Content of: <table><tr><td>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <h3>
+msgid "Introduction"
+msgstr "Introdução"
+
+#. type: Content of: <h3>
+msgid "Table of Contents"
+msgstr "Conteúdo"
+
+#. type: Content of: <p>
+msgid "by <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
+msgstr "por <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
+
+#. type: Content of: <p>
+msgid "by <strong>Richard Stallman</strong>"
+msgstr "por <strong>Richard Stallman</strong>"
+
+#. type: Attribute 'content' of: <meta>
+msgid ""
+"GNU, FSF, Free Software Foundation, Linux, Emacs, GCC, Unix, Free Software, "
+"Operating System, GNU Kernel, HURD, GNU HURD, Hurd"
+msgstr ""
+"GNU, FSF, Free Software Foundation, Linux, Emacs, GCC, Unix, Software Livre, "
+"Sistema Operacional, GNU Kernel, HURD, GNU HURD, Hurd"
+
+#. type: Attribute 'content' of: <meta>
+msgid ""
+"Since 1983, developing the free Unix style operating system GNU, so that "
+"computer users can have the freedom to share and improve the software they "
+"use."
+msgstr ""
+"Desde 1983, desenvolvendo o GNU, sistema operacional livre tipo Unix, para "
+"que usuários de computador possam ter a liberdade de compartilhar e melhorar "
+"o software que usam."
+
+#. type: Content of: <h4>
+msgid "Disclaimer"
+msgstr "Aviso legal"
+
+#. type: Content of: <p>
+msgid ""
+"<a href=\"/fun/humor.html\">Other humor</a> in the GNU Humor Collection."
+msgstr "<a href=\"/fun/humor.html\">Mais humor</a> na coleção de humor GNU."
+
+#. type: Content of: <p>
+msgid "The Free Software Foundation claims no copyright on this joke."
+msgstr ""
+"A Fundação do Software Livre não reivindica nenhum direito autoral desta "
+"piada."
+
+#. type: Content of: <p>
+msgid ""
+"The joke on this page was obtained from the FSF's <a href=\"http://lists.gnu."
+"org/\">email archives</a> of the GNU Project."
+msgstr ""
+"A piada nesta página foi obtida a partir dos <a href=\"http://lists.gnu.org/"
+"\">arquivos de e-mail</a> do Projeto GNU mantidos pela FSF."
+
 #. type: Content of: <div><p>
 msgid ""
 "Please send FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org\">&lt;"
 "gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways to "
 "contact</a> the FSF."
 msgstr ""
-"Envie suas perguntas sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu.org"
-"\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
-"meios de contatar</a> a FSF."
-
-# type: Content of: <div><p>
-#. type: Content of: <div><p>
-msgid ""
-"Please send FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
-"\"><em>gnu@gnu.org</em></a>.  There are also <a href=\"/contact/\">other "
-"ways to contact</a> the FSF."
-msgstr ""
-"Envie suas perguntas sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu.org"
-"\"><em>gnu@gnu.org</em></a>. Também existem <a href=\"/contact/\">outros "
-"meios de contatar</a> a FSF."
-
-# type: Content of: <div><p>
-#. type: Content of: <div><p>
-msgid ""
-"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
-"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
-"to contact</a> the FSF."
-msgstr ""
 "Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
 "org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
 "meios de contatar</a> a FSF."
 
-# type: Content of: <div><p>
 #. type: Content of: <div><p>
 msgid ""
 "Please send broken links and other corrections or suggestions to <a href="
@@ -125,48 +190,135 @@ msgstr ""
 "Envie links quebrados e outras correções ou sugestões para <a href=\"mailto:"
 "webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>."
 
-# type: Content of: <div><p>
-#. type: Content of: <div><p>
-msgid ""
-"Please send broken links and other corrections or suggestions to <a href="
-"\"mailto:webmasters@gnu.org\"><em>webmasters@gnu.org</em></a>."
-msgstr ""
-"Envie links quebrados e outras correções ou sugestões para <a href=\"mailto:"
-"webmasters@gnu.org\"><em>webmasters@gnu.org</em></a>."
+#. type: Content of: <h3>
+msgid "Footnotes"
+msgstr "Notas de rodapé"
 
-#. type: Content of: <div><p>
-msgid ""
-"Please send broken links and other corrections or suggestions to <a href="
-"\"mailto:education@gnu.org\">&lt;education@gnu.org&gt;</a>."
-msgstr ""
-"Envie links quebrados e outras correções ou sugestões para <a href=\"mailto:"
-"education@gnu.org\">&lt;education@gnu.org&gt;</a>."
-
-#. type: Content of: <div><p>
-msgid ""
-"This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
-msgstr ""
-"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
-"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
-
-# type: Content of: <div><p>
-#. type: Content of: <table><tr><td>
-msgid "</a>"
-msgstr "</a>"
-
-# type: Content of: <div><p>
-#.  timestamp start
-#. type: Content of: <div><p>
-msgid "Updated:"
-msgstr "Última atualização: "
-
-# type: Content of: <p>
 #. type: Content of: <p>
 msgid ""
 "by <a href=\"http://www.stallman.org/\"><strong>Richard Stallman</strong></a>"
 msgstr ""
 "por <a href=\"http://www.stallman.org/\"><strong>Richard Stallman</strong></"
+"a>"
+
+#. type: Content of: <h3>
+msgid "Licensing"
+msgstr "Licenciamento"
+
+#. type: Content of: <p>
+msgid "This picture is available in the following formats:"
+msgstr "Esta imagem está disponível nos seguintes formatos:"
+
+#. type: Content of: <div><p>
+msgid "Copyright notice above."
+msgstr "Nota de direitos autorais acima."
+
+#. type: Content of: <blockquote><p>
+msgid ""
+"This essay is published in <a href=\"http://shop.fsf.org/product/free-"
+"software-free-society/\"><cite>Free Software, Free Society: The Selected "
+"Essays of Richard M. Stallman</cite></a>."
+msgstr ""
+"Este ensaio foi publicado em <a href=\"http://shop.fsf.org/product/free-"
+"software-free-society/\"><cite>Free Software, Free Society: The Selected "
+"Essays of Richard M. Stallman</cite></a>."
+
+#. type: Content of: <blockquote><p>
+msgid "Media Contact: Free Software Foundation"
+msgstr "Contato com a mídia: Free Software Foundatio"
+
+#. type: Content of: <p>
+msgid ""
+"<a href=\"/proprietary/proprietary.html\">Other examples of proprietary "
+"malware</a>"
+msgstr ""
+"<a href=\"/proprietary/proprietary.html\">Outros exemplos de malwares "
+"proprietários</a>"
+
+#. type: Content of: <p>
+msgid ""
+"Nonfree (proprietary) software is very often malware (designed to mistreat "
+"the user). Nonfree software is controlled by its developers, which puts them "
+"in a position of power over the users; <a href=\"/philosophy/free-software-"
+"even-more-important.html\">that is the basic injustice</a>. The developers "
+"often exercise that power to the detriment of the users they ought to serve."
+msgstr ""
+"O software não livre (proprietário) é muitas vezes um malware (projetado "
+"para maltratar o usuário). O software não livre é controlado por seus "
+"desenvolvedores, o que os coloca em uma posição de poder sobre os usuários; "
+"<a href=\"/philosophy/free-software-even-more-important.html\">isso é a "
+"injustiça básica</a>. Os desenvolvedores muitas vezes exercem esse poder em "
+"detrimento dos usuários que deveriam servir."
+
+#. type: Content of: <p>
+msgid "Donald and Jill Knuth"
+msgstr "Donald e Jill Knuth"
+
+#. type: Content of: <p>
+msgid "Krishna Kunchithapadam"
+msgstr "Krishna Kunchithapadam"
+
+#. type: Content of: <p>
+msgid "Terence O'Gorman"
+msgstr "Terence O'Gorman"
+
+#. type: Content of: <p>
+msgid "David Moews"
+msgstr "David Moews"
+
+#. type: Content of: <p>
+msgid "Alessandro Vesely"
+msgstr "Alessandro Vesely"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"#equipmentservices\" id=\"TOCequipment\">Equipment and Services</a>"
+msgstr ""
+"<a href=\"#equipmentservices\" id=\"TOCequipment\">Equipamentos e Serviços</"
+"a>"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"#patrons\" id=\"TOCpatrons\">Patrons</a>"
+msgstr "<a href=\"#patrons\" id=\"TOCpatrons\">Patronos</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"#sustaining\" id=\"TOCsustaining\">Sustaining Contributors</a>"
+msgstr ""
+"<a href=\"#sustaining\" id=\"TOCsustaining\">Contribuintes Sustentadores</a>"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"#contributor\" id=\"TOCcontributor\">Contributors</a>"
+msgstr "<a href=\"#contributor\" id=\"TOCcontributor\">Contribuintes</a>"
+
+#. type: Content of: <ul><li>
+msgid "<a id=\"TOCother\">Other</a>"
+msgstr "<a id=\"TOCother\">Outros</a>"
+
+#. type: Content of: <h4>
+msgid "<a href= \"#TOCpatrons\" id=\"patrons\">Patrons</a> ($5000 or more)"
+msgstr ""
+"<a href= \"#TOCpatrons\" id=\"patrons\">Patronos</a> (US$ 5.000,00 ou mais)"
+
+#. type: Content of: <h4>
+msgid ""
+"<a href=\"#TOCsustaining\" id=\"sustaining\">Sustaining Contributors</a> "
+"($1000 to $4999)"
+msgstr ""
+"<a href=\"#TOCsustaining\" id=\"sustaining\">Contribuintes Sustentadores</a> "
+"(US$ 1.000,00 a US$ 4.999,00)"
+
+#. type: Content of: <h4>
+msgid ""
+"<a href=\"#TOCcontributor\" id=\"contributor\">Contributors</a> ($500 to "
+"$999)"
+msgstr ""
+"<a href=\"#TOCcontributor\" id=\"contributor\">Contribuintes</a> (US$ 500,00 "
+"to US$ 999,00)"
+
+#. type: Content of: <h4>
+msgid ""
+"<a href=\"#TOCequipment\" id=\"equipmentservices\">Equipment and Services</a>"
+msgstr ""
+"<a href=\"#TOCequipment\" id=\"equipmentservices\">Equipamentos e Serviços</"
 "a>"
