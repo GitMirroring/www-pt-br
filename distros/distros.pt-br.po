@@ -10,7 +10,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: distros.html\n"
-"POT-Creation-Date: 2015-04-13 09:55+0000\n"
+"POT-Creation-Date: 2017-10-16 18:55+0000\n"
 "PO-Revision-Date: 2017-05-20 16:20-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -34,12 +34,28 @@ msgid "GNU/Linux Distros"
 msgstr "Distros GNU/Linux"
 
 #. type: Content of: <p>
+# | Free [-GNU/Linux system-] distributions (or &ldquo;distros&rdquo;) {+of
+# | the <a href=\"/gnu/linux-and-gnu.html\">GNU/Linux system</a>+} only
+# | include and only propose free software.  They reject non-free
+# | applications, non-free programming platforms, non-free drivers, non-free
+# | firmware &ldquo;blobs&rdquo;, and any other non-free software and
+# | documentation.  If they discover that by mistake some had been included,
+# | they remove it.
+#, fuzzy
+#| msgid ""
+#| "Free GNU/Linux system distributions (or &ldquo;distros&rdquo;) only "
+#| "include and only propose free software.  They reject non-free "
+#| "applications, non-free programming platforms, non-free drivers, non-free "
+#| "firmware &ldquo;blobs&rdquo;, and any other non-free software and "
+#| "documentation.  If they discover that by mistake some had been included, "
+#| "they remove it."
 msgid ""
-"Free GNU/Linux system distributions (or &ldquo;distros&rdquo;) only include "
-"and only propose free software.  They reject non-free applications, non-free "
-"programming platforms, non-free drivers, non-free firmware &ldquo;"
-"blobs&rdquo;, and any other non-free software and documentation.  If they "
-"discover that by mistake some had been included, they remove it."
+"Free distributions (or &ldquo;distros&rdquo;) of the <a href=\"/gnu/linux-"
+"and-gnu.html\">GNU/Linux system</a> only include and only propose free "
+"software.  They reject non-free applications, non-free programming "
+"platforms, non-free drivers, non-free firmware &ldquo;blobs&rdquo;, and any "
+"other non-free software and documentation.  If they discover that by mistake "
+"some had been included, they remove it."
 msgstr ""
 "Distribuições livres do sistema GNU/Linux (ou “distros”) incluem e sugerem "
 "apenas Software Livre. Elas rejeitam aplicações não livres, plataformas de "
@@ -307,14 +323,28 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2014, 2015 Free Software Foundation, Inc."
+# | Copyright &copy; 2014, [-2015-] {+2015, 2017+} Free Software Foundation,
+# | Inc.
+#, fuzzy
+#| msgid "Copyright &copy; 2014, 2015 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2014, 2015, 2017 Free Software Foundation, Inc."
 msgstr "Copyright &copy; 2014, 2015 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
+# | This page is licensed under a <a rel=\"license\"
+# | [-href=\"http://creativecommons.org/licenses/by-nd/3.0/us/\">Creative-]
+# | {+href=\"http://creativecommons.org/licenses/by-nd/4.0/\">Creative+}
+# | Commons [-Attribution-NoDerivs 3.0 United States-]
+# | {+Attribution-NoDerivatives 4.0 International+} License</a>.
+#, fuzzy
+#| msgid ""
+#| "This page is licensed under a <a rel=\"license\" href=\"http://"
+#| "creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+#| "NoDerivs 3.0 United States License</a>."
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
 "creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "

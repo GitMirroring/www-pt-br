@@ -1,13 +1,13 @@
 # Brazilian Portuguese translation for http://www.gnu.org/doc/other-free-books.html
-# Copyright (C) 2016 Free Software Foundation, Inc.
+# Copyright (C) 2017 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnu.org article.
 # Rafael Beraldo <rberaldo@cabaladada.org>, 2012.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2016.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2016, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: other-free-books.html\n"
-"POT-Creation-Date: 2017-08-08 15:55+0000\n"
-"PO-Revision-Date: 2017-01-18 18:42-0200\n"
+"POT-Creation-Date: 2017-10-11 14:55+0000\n"
+"PO-Revision-Date: 2017-09-29 07:30-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 0.7.1\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -105,39 +105,32 @@ msgstr ""
 "de discussão sobre os perigos dos eBooks</a>"
 
 #. type: Content of: <h3>
-# || No change detected.  The change might only be in amounts of spaces.
-#, fuzzy
-#| msgid "Table of Contents"
 msgid "Table of Contents"
 msgstr "Conteúdo"
 
 #. type: Content of: <ul><li>
 msgid "<a href=\"#English\">Free books in English</a>"
-msgstr ""
+msgstr "<a href=\"#English\">Livros livres em inglês</a>"
 
 #. type: Content of: <ul><li>
 msgid "<a href=\"#Spanish\">Free books in Spanish</a>"
-msgstr ""
+msgstr "<a href=\"#Spanish\">Livros livres em espanhol</a>"
 
 #. type: Content of: <p>
-# | Newer listings are placed at the top of [-this-] {+each+} list.
-#, fuzzy
-#| msgid "Newer listings are placed at the top of this list."
 msgid "Newer listings are placed at the top of each list."
-msgstr "Entradas mais novas estão no topo da lista."
+msgstr "Entradas mais novas estão no topo de cada lista."
 
 #. type: Content of: <div><h3>
-# | Free books {+in English+}
-#, fuzzy
-#| msgid "Free books"
 msgid "Free books in English"
-msgstr "Livros livres"
+msgstr "Livros livres em inglês"
 
 #. type: Content of: <div>
 msgid ""
 "<span class=\"anchor-reference-id\">(<a href=\"#English\">#English</a>)</"
 "span>"
 msgstr ""
+"<span class=\"anchor-reference-id\">(<a href=\"#English\">#English</a>)</"
+"span>"
 
 #. type: Content of: <table><tr><th>
 msgid "Title"
@@ -256,13 +249,8 @@ msgid "Old GNU manual license"
 msgstr "Antiga licença de manual GNU"
 
 #. type: Content of: <table><tr><td>
-# | <a [-href=\"http://nostarch.com/wikipedia.htm\">How-]
-# | {+href=\"http://www.howwikipediaworks.net/\">How+} Wikipedia Works</a>
-#, fuzzy
-#| msgid ""
-#| "<a href=\"http://nostarch.com/wikipedia.htm\">How Wikipedia Works</a>"
 msgid "<a href=\"http://www.howwikipediaworks.net/\">How Wikipedia Works</a>"
-msgstr "<a href=\"http://nostarch.com/wikipedia.htm\">How Wikipedia Works</a>"
+msgstr "<a href=\"http://www.howwikipediaworks.net/\">How Wikipedia Works</a>"
 
 #. type: Content of: <table><tr><td>
 msgid "Phoebe Ayers, Charles Matthews, and Ben Yates"
@@ -787,102 +775,60 @@ msgid "Open Publication License, Version&nbsp;1.0 or later"
 msgstr "Licença de Publicação Aberta, Versão&nbsp;1.0 ou posterior"
 
 #. type: Content of: <div><h3>
-# | Free books {+in Spanish+}
-#, fuzzy
-#| msgid "Free books"
 msgid "Free books in Spanish"
-msgstr "Livros livres"
+msgstr "Livros livres em espanhol"
 
 #. type: Content of: <div>
 msgid ""
 "<span class=\"anchor-reference-id\">(<a href=\"#Spanish\">#Spanish</a>)</"
 "span>"
 msgstr ""
-
-#. type: Content of: <table><tr><td>
-msgid ""
-"<a href=\"http://www.libremanuals.net/\">Una introducci&oacute;n a la "
-"programaci&oacute;n en Emacs Lisp</a>"
-msgstr ""
-
-#. type: Content of: <table><tr><td>
-msgid "Robert J. Chassel (translated by David Arroyo Men&eacute;ndez)"
-msgstr ""
-
-#. type: Content of: <table><tr><td>
-msgid "Libremanuals"
-msgstr ""
-
-#. type: Content of: <table><tr><td>
-msgid "978-84-608-5935-2"
-msgstr ""
-
-#. type: Content of: <table><tr><td>
-# | <a [-href=\"http://www.network-theory.co.uk/gcc/intro/\">An Introduction
-# | to-] {+href=\"http://www.libremanuals.net/una-introduccion-gcc\">Una
-# | Introducci&oacute;n a+} GCC</a>
-#, fuzzy
-#| msgid ""
-#| "<a href=\"http://www.network-theory.co.uk/gcc/intro/\">An Introduction to "
-#| "GCC</a>"
-msgid ""
-"<a href=\"http://www.libremanuals.net/una-introduccion-gcc\">Una "
-"Introducci&oacute;n a GCC</a>"
-msgstr ""
-"<a href=\"http://www.network-theory.co.uk/gcc/intro/\">An Introduction to "
-"GCC</a>"
-
-#. type: Content of: <table><tr><td>
-msgid ""
-"Brian Gough (translated by David Arroyo Men&eacute;ndez and Luis Palomo de "
-"On&iacute;s)"
-msgstr ""
-
-#. type: Content of: <table><tr><td>
-msgid "978-84-608-7274-0"
-msgstr ""
+"<span class=\"anchor-reference-id\">(<a href=\"#Spanish\">#Spanish</a>)</"
+"span>"
 
 #. type: Content of: <table><tr><td>
 msgid ""
 "<a href=\"http://www.davidam.com/docu/orgguide.es.html\"> Gu&iacute;a "
 "Compacta de Org-Mode</a>"
 msgstr ""
+"<a href=\"http://www.davidam.com/docu/orgguide.es.html\"> Gu&iacute;a "
+"Compacta de Org-Mode</a>"
 
 #. type: Content of: <table><tr><td>
-# | Carsten Dominik [-and others-]
-#, fuzzy
-#| msgid "Carsten Dominik and others"
 msgid "Carsten Dominik"
-msgstr "Carsten Dominik e outros"
+msgstr "Carsten Dominik"
 
 #. type: Content of: <table><tr><td>
 msgid "(translated by David Arroyo Men&eacute;ndez)"
-msgstr ""
+msgstr "(traduzido por David Arroyo Men&eacute;ndez)"
+
+#. type: Content of: <table><tr><td>
+msgid "Libremanuals"
+msgstr "Libremanuals"
 
 #. type: Content of: <table><tr><td>
 msgid "978-84-608-8894-9"
-msgstr ""
+msgstr "978-84-608-8894-9"
 
 #. type: Content of: <table><tr><td>
 msgid ""
 "<a href=\"https://www.traficantes.net/libros/software-libre-para-una-"
 "sociedad-libre\"> Software libre para una sociedad libre</a>"
 msgstr ""
+"<a href=\"https://www.traficantes.net/libros/software-libre-para-una-"
+"sociedad-libre\"> Software libre para una sociedad libre</a>"
 
 #. type: Content of: <table><tr><td>
-# | [-by <strong>Richard Stallman</strong>-]{+Richard Stallman+}
-#, fuzzy
-#| msgid "by <strong>Richard Stallman</strong>"
 msgid "Richard Stallman"
-msgstr "por <strong>Richard Stallman</strong>"
+msgstr "Richard Stallman"
 
 #. type: Content of: <table><tr><td>
 msgid "Traficantes de Sue&ntilde;os"
-msgstr ""
+msgstr "Traficantes de Sue&ntilde;os"
 
 #. type: Content of: <table><tr><td>
 msgid "978-84-933555-1-7"
-msgstr ""
+msgstr "978-84-933555-1-7"
 
 #. type: Content of: <dl><dt>
 msgid ""
@@ -976,12 +922,8 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-# | Copyright &copy; 2014, 2015, [-2016-] {+2016, 2017+} Free Software
-# | Foundation, Inc.
-#, fuzzy
-#| msgid "Copyright &copy; 2014, 2015, 2016 Free Software Foundation, Inc."
 msgid "Copyright &copy; 2014, 2015, 2016, 2017 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2014, 2015, 2016 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2014, 2015, 2016, 2017 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -999,13 +941,43 @@ msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "<b>Tradução</b>: Rafael Beraldo <a href=\"mailto:rberaldo@cabaladada.org"
 "\">&lt;rberaldo@cabaladada.org&gt;</a>, 2012; Rafael Fontenelle <a href="
-"\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, 2016."
+"\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, 2016, 2017."
 
 # type: Content of: <div><p>
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização: "
+
+#~ msgid ""
+#~ "<a href=\"http://www.libremanuals.net/\">Una introducci&oacute;n a la "
+#~ "programaci&oacute;n en Emacs Lisp</a>"
+#~ msgstr ""
+#~ "<a href=\"http://www.libremanuals.net/\">Una introducci&oacute;n a la "
+#~ "programaci&oacute;n en Emacs Lisp</a>"
+
+#~ msgid "Robert J. Chassel (translated by David Arroyo Men&eacute;ndez)"
+#~ msgstr "Robert J. Chassel (traduzido por David Arroyo Men&eacute;ndez)"
+
+#~ msgid "978-84-608-5935-2"
+#~ msgstr "978-84-608-5935-2"
+
+#~ msgid ""
+#~ "<a href=\"http://www.libremanuals.net/una-introduccion-gcc\">Una "
+#~ "Introducci&oacute;n a GCC</a>"
+#~ msgstr ""
+#~ "<a href=\"http://www.libremanuals.net/una-introduccion-gcc\">Una "
+#~ "Introducci&oacute;n a GCC</a>"
+
+#~ msgid ""
+#~ "Brian Gough (translated by David Arroyo Men&eacute;ndez and Luis Palomo "
+#~ "de On&iacute;s)"
+#~ msgstr ""
+#~ "Brian Gough (traduzido por David Arroyo Men&eacute;ndez e Luis Palomo de "
+#~ "On&iacute;s)"
+
+#~ msgid "978-84-608-7274-0"
+#~ msgstr "978-84-608-7274-0"
 
 #~ msgid ""
 #~ "<a href=\"http://www.network-theory.co.uk/postgresql/vol1/\">The "
@@ -1039,3 +1011,51 @@ msgstr "Última atualização: "
 
 #~ msgid "0954612043"
 #~ msgstr "0954612043"
+
+#~ msgid "Copyright &copy; 2014, 2015, 2016 Free Software Foundation, Inc."
+#~ msgstr "Copyright &copy; 2014, 2015, 2016 Free Software Foundation, Inc."
+
+#~ msgid ""
+#~ "<a href=\"http://www.cafeshops.com/bartlettpublish.8640017\">Programming "
+#~ "from the Ground Up</a>"
+#~ msgstr ""
+#~ "<a href=\"http://www.cafeshops.com/bartlettpublish.8640017\">Programming "
+#~ "from the Ground Up</a>"
+
+#~ msgid ""
+#~ "The June 2001 printing of this book failed to list the license "
+#~ "notification properly.  This printed edition says it is a proprietary "
+#~ "book.  The publisher has assured us that this was purely a printing error "
+#~ "and that the intended license is &ldquo;Open Publication License, "
+#~ "Version&nbsp;1.0, No options exercised&rdquo;.  Their <a href=\"http://"
+#~ "www.advancedlinuxprogramming.com/errata.html\">errata page</a> confirms "
+#~ "this.  They have assured us that the next printing will have the "
+#~ "corrected license."
+#~ msgstr ""
+#~ "A impressão de junho de 2001 desse livro falhou em listar a notificação "
+#~ "de licença apropriadamente. A edição impressa diz que é um livro "
+#~ "proprietário. A editora nos assegurou que isso foi simplesmente um erro "
+#~ "na impressão e que a licença planejada era a “Open Publication License, "
+#~ "Version&nbsp;1.0, Sem opções exercidas”. A <a href=\"http://www."
+#~ "advancedlinuxprogramming.com/errata.html\">página de errada</a> confirma "
+#~ "isso."
+
+#~ msgid "Copyright &copy; 2014 Free Software Foundation, Inc."
+#~ msgstr "Copyright &copy; 2014 Free Software Foundation, Inc."
+
+#~ msgid ""
+#~ "The 2001 printing of this book failed to list the license notification "
+#~ "properly.  This printed edition says it is a proprietary book.  The "
+#~ "publisher has assured us that this was purely a printing error and that "
+#~ "the intended license is the Open Publication License, Version&nbsp;1.0, "
+#~ "with no options exercised.  Their <a href=\"http://www.newriders.com/"
+#~ "content/images/0735710015/errata/0735710015.pdf\">errata (in PDF format)</"
+#~ "a> confirms this."
+#~ msgstr ""
+#~ "A impressão de 2001 desse livro falhou em listar a notificação de licença "
+#~ "apropriadamente. A edição impressa diz que é um livro proprietário. A "
+#~ "editora nos assegurou que isso foi simplesmente um erro na impressão e "
+#~ "que a licença planejada era a Open Publication License, Version&nbsp;1.0, "
+#~ "sem opções exercidas. A  <a href=\"http://www.newriders.com/content/"
+#~ "images/0735710015/errata/0735710015.pdf\">errata do livro (em PDF)</a> "
+#~ "confirma isso."

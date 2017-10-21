@@ -1,20 +1,22 @@
 # Brazilian Portuguese translation of http://www.gnu.org/encyclopedia/encyclopedia.html
-# Copyright (C) 2013 Free Software Foundation, Inc.
+# Copyright (C) 2017 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Rafael Beraldo <rberaldo@cabaladada.org>, 2013.
 # May 2014: trivial update (T. Godefroy).
-#
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: encyclopedia.html\n"
 "POT-Creation-Date: 2016-04-14 12:00+0000\n"
-"PO-Revision-Date: 2013-01-08 16:22-0200\n"
-"Last-Translator: Rafael Beraldo <rberaldo@cabaladada.org>\n"
+"PO-Revision-Date: 2017-09-29 07:40-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
 
 #. type: Content of: <title>
 msgid "The Free Encyclopedia Project - GNU Project - Free Software Foundation"
@@ -47,12 +49,12 @@ msgid ""
 msgstr ""
 "No momento em que estávamos começando um projeto, chamado GNUpedia, para "
 "desenvolver uma enciclopédia livre, o projeto da enciclopédia <em>Nupedia</"
-"em> adotou a <a href=\"/licenses/fdl.html\">GNU Free Documentation License</"
-"a>, tornando-se um projeto comercial livre. Nós decidimos, então, fundir o "
-"projeto GNUpedia com a Nupedia. Hoje em dia, o projeto da enciclopédia <a "
-"href=\"http://www.wikipedia.org\">Wikipédia</a> adotou a filosofia da "
-"Nupedia e a levou ainda mais longe. Nós lhe encorajamos visitar e contribuir "
-"com o site."
+"em> adotou a <a href=\"/licenses/fdl.html\">Licença de Documentação Livre "
+"GNU</a>, tornando-se um projeto comercial livre. Nós decidimos, então, "
+"fundir o projeto GNUpedia com a Nupedia. Hoje em dia, o projeto da "
+"enciclopédia <a href=\"http://www.wikipedia.org\">Wikipédia</a> adotou a "
+"filosofia da Nupedia e a levou ainda mais longe. Nós lhe encorajamos visitar "
+"e contribuir com o site."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -101,19 +103,10 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-# | Copyright &copy; 1999, [-2014-] {+2014, 2016+} Richard M. Stallman
-#, fuzzy
-#| msgid "Copyright &copy; 1999, 2014 Richard M. Stallman"
 msgid "Copyright &copy; 1999, 2014, 2016 Richard M. Stallman"
-msgstr "Copyright &copy; 1999, 2014 Richard M. Stallman"
+msgstr "Copyright &copy; 1999, 2014, 2016 Richard M. Stallman"
 
 #. type: Content of: <div><p>
-# || No change detected.  The change might only be in amounts of spaces.
-#, fuzzy
-#| msgid ""
-#| "This page is licensed under a <a rel=\"license\" href=\"http://"
-#| "creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
-#| "NoDerivatives 4.0 International License</a>."
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
 "creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
@@ -136,6 +129,3 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização: "
-
-#~ msgid "Copyright &copy; 1999, 2014 Richard M. Stallman"
-#~ msgstr "Copyright &copy; 1999, 2014 Richard M. Stallman"

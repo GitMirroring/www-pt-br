@@ -5,12 +5,12 @@
 # Rafael Beraldo <rberaldo@cabaladada.org>, 2012.
 # Arthur Rodrigues Araruna <araruna@gmail.com>, 2012.
 # May 2014: trivial update (T. Godefroy).
-#
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: gnu-history.html\n"
 "POT-Creation-Date: 2017-09-04 10:56+0000\n"
-"PO-Revision-Date: 2017-05-20 16:20-0300\n"
+"PO-Revision-Date: 2017-09-29 08:24-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -18,6 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bits\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
 
 #. type: Content of: <title>
 msgid "Overview of the GNU System - GNU Project - Free Software Foundation"
@@ -33,25 +34,6 @@ msgid "Overview of the GNU System"
 msgstr "Visão Geral do Sistema GNU"
 
 #. type: Content of: <p>
-# | The GNU operating system is a complete free software system,
-# | upward-compatible with Unix.  GNU stands for &ldquo;GNU's Not Unix&rdquo;.
-# |  {+It is pronounced as <a href=\"/gnu/pronunciation.html\">one syllable
-# | with a hard g</a>.+}  <a href=\"http://www.stallman.org/\">Richard
-# | Stallman</a> made the <a href=\"/gnu/initial-announcement.html\">Initial
-# | Announcement</a> of the GNU Project in September 1983.  A longer version
-# | called the <a href=\"/gnu/manifesto.html\">GNU Manifesto</a> was published
-# | in March 1985.  It has been translated into several <a
-# | href=\"/gnu/manifesto.html#translations\">other languages</a>.
-#, fuzzy
-#| msgid ""
-#| "The GNU operating system is a complete free software system, upward-"
-#| "compatible with Unix.  GNU stands for &ldquo;GNU's Not Unix&rdquo;.  <a "
-#| "href=\"http://www.stallman.org/\">Richard Stallman</a> made the <a href="
-#| "\"/gnu/initial-announcement.html\">Initial Announcement</a> of the GNU "
-#| "Project in September 1983.  A longer version called the <a href=\"/gnu/"
-#| "manifesto.html\">GNU Manifesto</a> was published in March 1985.  It has "
-#| "been translated into several <a href=\"/gnu/manifesto.html#translations"
-#| "\">other languages</a>."
 msgid ""
 "The GNU operating system is a complete free software system, upward-"
 "compatible with Unix.  GNU stands for &ldquo;GNU's Not Unix&rdquo;.  It is "
@@ -64,10 +46,11 @@ msgid ""
 "languages</a>."
 msgstr ""
 "O sistema operacional GNU é um sistema de software livre completo, "
-"compatível com o Unix. GNU significa &ldquo;GNU's Not Unix&rdquo; (GNU Não é "
-"Unix).  <a href=\"http://www.stallman.org/\">Richard Stallman</a> fez o <a "
-"href=\"/gnu/initial-announcement.html\">Anúncio Inicial</a> do Projeto GNU "
-"em setembro de 1983.  Uma versão mais longa, chamada de <a href=\"/gnu/"
+"compatível com o Unix. GNU significa “GNU's Not Unix” (GNU Não é Unix). Ele "
+"é pronunciado como <a href=\"/gnu/pronunciation.html\">uma sílaba com g "
+"forte</a>. <a href=\"http://www.stallman.org/\">Richard Stallman</a> fez o "
+"<a href=\"/gnu/initial-announcement.html\">Anúncio Inicial</a> do Projeto "
+"GNU em setembro de 1983.  Uma versão mais longa, chamada de <a href=\"/gnu/"
 "manifesto.html\">Manifesto GNU</a>, foi publicada em março de 1985.  O texto "
 "tem sido traduzido para várias <a href=\"/gnu/manifesto.html#translations"
 "\">outras línguas</a>."
@@ -79,10 +62,10 @@ msgid ""
 "because it was a real word, and third, it was fun to say (or <a href="
 "\"http://www.poppyfields.net/poppy/songs/gnu.html\">Sing</a>)."
 msgstr ""
-"O nome &ldquo;GNU&rdquo; foi escolhido porque atende a alguns requisitos; em "
-"primeiro lugar, é um acrônimo recursivo para &ldquo;GNU's Not Unix&rdquo;, "
-"depois, porque é uma palavra real e, finalmente, é divertido de falar (ou <a "
-"href=\"http://www.poppyfields.net/poppy/songs/gnu.html\">Cantar</a>)."
+"O nome “GNU” foi escolhido porque atende a alguns requisitos; em primeiro "
+"lugar, é um acrônimo recursivo para “GNU's Not Unix”, depois, porque é uma "
+"palavra real e, finalmente, é divertido de falar (ou <a href=\"http://www."
+"poppyfields.net/poppy/songs/gnu.html\">Cantar</a>)."
 
 #. type: Content of: <p>
 msgid ""
@@ -97,17 +80,17 @@ msgid ""
 "software, you may charge a fee for the physical act of transferring a copy, "
 "or you may give away copies.)"
 msgstr ""
-"A palavra &ldquo;livre&rdquo; em &ldquo;software livre&rdquo; se refere à <a "
-"href=\"/philosophy/free-sw.html\">liberdade</a>, não ao preço.  Você pode ou "
-"não pagar para obter software do projeto GNU.  De qualquer forma, uma vez "
-"que você tenha o software, você tem quatro liberdades específicas ao usá-lo: "
-"a liberdade de executar o programa como você desejar; a liberdade de copiá-"
-"lo e dá-lo a seus amigos e colegas; a liberdade de modificar o programa como "
-"você desejar, por ter acesso total ao código-fonte; a liberdade de "
-"distribuir versões melhoradas e, portanto, ajudar a construir a comunidade.  "
-"(Se você redistribuir software do projeto GNU, você pode cobrar uma taxa "
-"pelo ato físico de transferir uma cópia, ou você pode simplesmente dar "
-"cópias de graça.)"
+"A palavra “livre” em “software livre” se refere à <a href=\"/philosophy/free-"
+"sw.html\">liberdade</a>, não ao preço.  Você pode ou não pagar para obter "
+"software do projeto GNU.  De qualquer forma, uma vez que você tenha o "
+"software, você tem quatro liberdades específicas ao usá-lo: a liberdade de "
+"executar o programa como você desejar; a liberdade de copiá-lo e dá-lo a "
+"seus amigos e colegas; a liberdade de modificar o programa como você "
+"desejar, por ter acesso total ao código-fonte; a liberdade de distribuir "
+"versões melhoradas e, portanto, ajudar a construir a comunidade.  (Se você "
+"redistribuir software do projeto GNU, você pode cobrar uma taxa pelo ato "
+"físico de transferir uma cópia, ou você pode simplesmente dar cópias de "
+"graça.)"
 
 #. type: Content of: <p>
 msgid ""
@@ -188,30 +171,6 @@ msgstr ""
 "o GNU."
 
 #. type: Content of: <p>
-# | By 1990 we had either found or written all the major components except
-# | one&mdash;the kernel.  Then Linux, a Unix-like kernel, was developed by
-# | Linus Torvalds in 1991 and made free software in 1992.  Combining Linux
-# | with the almost-complete GNU system resulted in a complete operating
-# | system: the GNU/Linux system.  Estimates are that tens of millions of
-# | people now use GNU/Linux systems, typically via <a
-# | [-href=\"/distros\">GNU/Linux-]
-# | {+href=\"/distros/distros.html\">GNU/Linux+} distributions</a>.  The
-# | principal version of Linux now contains non-free firmware
-# | &ldquo;blobs&rdquo;; free software activists now maintain a modified free
-# | version of Linux, called <a
-# | href=\"http://directory.fsf.org/project/linux\"> Linux-libre</a>.
-#, fuzzy
-#| msgid ""
-#| "By 1990 we had either found or written all the major components except "
-#| "one&mdash;the kernel.  Then Linux, a Unix-like kernel, was developed by "
-#| "Linus Torvalds in 1991 and made free software in 1992.  Combining Linux "
-#| "with the almost-complete GNU system resulted in a complete operating "
-#| "system: the GNU/Linux system.  Estimates are that tens of millions of "
-#| "people now use GNU/Linux systems, typically via <a href=\"/distros\">GNU/"
-#| "Linux distributions</a>.  The principal version of Linux now contains non-"
-#| "free firmware &ldquo;blobs&rdquo;; free software activists now maintain a "
-#| "modified free version of Linux, called <a href=\"http://directory.fsf.org/"
-#| "project/linux\"> Linux-libre</a>."
 msgid ""
 "By 1990 we had either found or written all the major components except "
 "one&mdash;the kernel.  Then Linux, a Unix-like kernel, was developed by "
@@ -230,9 +189,9 @@ msgstr ""
 "em 1992.  Combinar o Linux com o quase completo sistema GNU resultou num "
 "sistema operacional completo: o sistema GNU/Linux.  Estimativas apontam que "
 "dezenas de milhões de pessoas hoje usam sistemas GNU/Linux, tipicamente "
-"através de <a href=\"/distros\">distribuições GNU/Linux</a>.  A versão "
-"principal do Linux hoje em dia contém firmware não livre; ativistas do "
-"software livre mantém uma versão do Linux modificada e livre, chamada <a "
+"através de <a href=\"/distros/distros.html\">distribuições GNU/Linux</a>.  A "
+"versão principal do Linux hoje em dia contém firmware não livre; ativistas "
+"do software livre mantém uma versão do Linux modificada e livre, chamada <a "
 "href=\"http://directory.fsf.org/project/linux\">Linux-libre</a>."
 
 #. type: Content of: <p>
@@ -330,38 +289,22 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-# | Copyright &copy; 1996, 1997, 1998, 1999, 2001, 2002, 2003, 2005, 2007,
-# | 2009, 2012, [-2014-] {+2014, 2017+} Free Software Foundation, Inc.
-#, fuzzy
-#| msgid ""
-#| "Copyright &copy; 1996, 1997, 1998, 1999, 2001, 2002, 2003, 2005, 2007, "
-#| "2009, 2012, 2014 Free Software Foundation, Inc."
 msgid ""
 "Copyright &copy; 1996, 1997, 1998, 1999, 2001, 2002, 2003, 2005, 2007, 2009, "
 "2012, 2014, 2017 Free Software Foundation, Inc."
 msgstr ""
 "Copyright &copy; 1996, 1997, 1998, 1999, 2001, 2002, 2003, 2005, 2007, 2009, "
-"2012, 2014 Free Software Foundation, Inc."
+"2012, 2014, 2017 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
-# | This page is licensed under a <a rel=\"license\"
-# | [-href=\"http://creativecommons.org/licenses/by-nd/3.0/us/\">Creative-]
-# | {+href=\"http://creativecommons.org/licenses/by-nd/4.0/\">Creative+}
-# | Commons [-Attribution-NoDerivs 3.0 United States-]
-# | {+Attribution-NoDerivatives 4.0 International+} License</a>.
-#, fuzzy
-#| msgid ""
-#| "This page is licensed under a <a rel=\"license\" href=\"http://"
-#| "creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-#| "NoDerivs 3.0 United States License</a>."
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
 "creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
 "NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
-"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>

@@ -3,12 +3,12 @@
 # This file is distributed under the same license as the gnu.org article.
 # Rafael Beraldo <rberaldo@cabaladada.org>, 2012.
 # Dec 2014, Jan 2015: trivial update (T. Godefroy).
-#
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: compromise.html\n"
 "POT-Creation-Date: 2017-08-27 14:56+0000\n"
-"PO-Revision-Date: 2017-05-20 16:20-0300\n"
+"PO-Revision-Date: 2017-10-21 12:29-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -16,11 +16,12 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
 
 #. type: Content of: <title>
 msgid "Avoiding Ruinous Compromises - GNU Project - Free Software Foundation"
 msgstr ""
-"Evitando Compromissos Ruinosos - GNU Project - Free Software Foundation"
+"Evitando Compromissos Ruinosos - Projeto GNU - Free Software Foundation"
 
 #. type: Content of: <h2>
 msgid "Avoiding Ruinous Compromises"
@@ -43,16 +44,16 @@ msgid ""
 "Free Software Foundation</a> as an Associate Member.&rdquo;&mdash;<b>Richard "
 "Stallman</b>"
 msgstr ""
-"&ldquo;Vinte cinco anos atrás, <a href=\"/gnu/initial-announcement.html\">em "
-"27 de setembro de 1983, anunciei um plano</a> para criar um sistema "
-"operacional completamente livre chamado GNU&mdash;sigla para &lsquo;GNU's "
-"Not Unix&rsquo; (GNU Não é Unix);.  Como parte do vigésimo quinto "
-"aniversário do sistema GNU, escrevi este artigo sobre como nossa comunidade "
-"pode evitar compromissos ruinosos.  Além de evitar tais compromissos, existe "
-"muitas maneiras para <a href=\"/help/\">ajudar o GNU</a> e o software "
-"livre.  Uma forma básica é <a href=\"https://www.fsf.org/associate/"
-"support_freedom/join_fsf?referrer=4052\"> juntar-se à Free Software "
-"Foundation</a> como um Membro Associado.&rdquo;&mdash;<b>Richard Stallman</b>"
+"“Vinte cinco anos atrás, <a href=\"/gnu/initial-announcement.html\">em 27 de "
+"setembro de 1983, anunciei um plano</a> para criar um sistema operacional "
+"completamente livre chamado GNU &mdash; sigla para &lsquo;GNU's Not "
+"Unix&rsquo; (GNU Não é Unix);.  Como parte do vigésimo quinto aniversário do "
+"sistema GNU, escrevi este artigo sobre como nossa comunidade pode evitar "
+"compromissos ruinosos.  Além de evitar tais compromissos, existe muitas "
+"maneiras para <a href=\"/help/\">ajudar o GNU</a> e o software livre.  Uma "
+"forma básica é <a href=\"https://www.fsf.org/associate/support_freedom/"
+"join_fsf?referrer=4052\"> juntar-se à Free Software Foundation</a> como um "
+"Membro Associado.” &mdash;<b>Richard Stallman</b>"
 
 #. type: Content of: <p>
 msgid ""
@@ -82,7 +83,7 @@ msgstr ""
 "the-last-mile-is-always-the-hardest/\">é longo</a>. Serão necessários muitos "
 "passos e muitos anos para alcançar um mundo no qual é normal que usuários de "
 "software tenham liberdade. Alguns desses passos são difíceis e requerem "
-"sacrifícios. Alguns deles se tornam mais fáceis se nós fazermos compromissos "
+"sacrifícios. Alguns deles se tornam mais fáceis se nós fizermos compromissos "
 "com pessoas que têm objetivos diferentes."
 
 #. type: Content of: <p>
@@ -95,15 +96,15 @@ msgid ""
 "patents under the effect of these provisions."
 msgstr ""
 "Assim sendo, a <a href=\"http://www.fsf.org/\">Free Software Foundation</a> "
-"faz acordos &mdash; e até mesmo grandes. Por exemplo, nós fizemos "
+"assume compromissos &mdash; e até mesmo grandes. Por exemplo, nós fizemos "
 "compromissos nas disposições de patente da versão 3 da <a href=\"/licenses/"
-"gpl.html\">GNU General Public License</a> (GNU GPL), de modo que grandes "
+"gpl.html\">Licença Pública Geral GNU</a> (GNU GPL), de modo que grandes "
 "empresas contribuam para e distribuam software sob a GPLv3 trazendo, "
 "portanto, algumas patentes sob o efeito dessas disposições."
 
 #. type: Attribute 'alt' of: <img>
 msgid "[GPLv3 Logo]"
-msgstr " [Logo da GPLv3] "
+msgstr "[Logo da GPLv3]"
 
 #. type: Content of: <p>
 msgid ""
@@ -117,7 +118,7 @@ msgid ""
 "campaigns we agree with, even when we don't fully agree with the groups "
 "behind them."
 msgstr ""
-"O propósito da <a href=\"/licenses/lgpl.html\">Lesser GPL</a> é um "
+"O propósito da <a href=\"/licenses/lgpl.html\">GPL Menor</a> é um "
 "compromisso: nós a usamos em certas bibliotecas livres para permitir seu uso "
 "em programas não livres porque pensamos que legalmente proibir isso apenas "
 "levaria desenvolvedores a usar bibliotecas proprietárias. Aceitamos e "
@@ -128,26 +129,6 @@ msgstr ""
 "mesmo quando não concordamos totalmente com os grupos por trás delas."
 
 #. type: Content of: <p>
-# | But we reject certain compromises even though many others in our community
-# | are willing to make them.  For instance, we <a
-# | [-href=\"/philosophy/free-system-distribution-guidelines.html\">-]
-# | {+href=\"/distros/free-system-distribution-guidelines.html\">+} endorse
-# | only the GNU/Linux distributions</a> that have policies not to include
-# | nonfree software or lead users to install it.  To endorse nonfree
-# | distributions would be a <acronym title=\"ruinous
-# | (r&#363;'&#601;-n&#601;s) adj. 1. Causing or apt to cause ruin;
-# | destructive.  2. Falling to ruin; dilapidated or
-# | decayed.\">ruinous</acronym> compromise.
-#, fuzzy
-#| msgid ""
-#| "But we reject certain compromises even though many others in our "
-#| "community are willing to make them.  For instance, we <a href=\"/"
-#| "philosophy/free-system-distribution-guidelines.html\"> endorse only the "
-#| "GNU/Linux distributions</a> that have policies not to include nonfree "
-#| "software or lead users to install it.  To endorse nonfree distributions "
-#| "would be a <acronym title=\"ruinous (r&#363;'&#601;-n&#601;s) adj. 1. "
-#| "Causing or apt to cause ruin; destructive.  2. Falling to ruin; "
-#| "dilapidated or decayed.\">ruinous</acronym> compromise."
 msgid ""
 "But we reject certain compromises even though many others in our community "
 "are willing to make them.  For instance, we <a href=\"/distros/free-system-"
@@ -159,8 +140,8 @@ msgid ""
 "acronym> compromise."
 msgstr ""
 "Mas nós rejeitamos certos compromissos, embora muitos outros em nossa "
-"comunidade estão dispostos a aceitá-los. Por exemplo, nós <a href=\"/"
-"philosophy/free-system-distribution-guidelines.html\">endossamos apenas "
+"comunidade estejam dispostos a aceitá-los. Por exemplo, nós <a href=\"/"
+"distros/free-system-distribution-guidelines.html\">endossamos apenas "
 "distribuições GNU/Linux</a> que possuem a política de não incluir software "
 "não livre ou levar usuários a instalá-lo. Endossar distribuições não livres "
 "seria um compromisso <acronym title=\"ruinoso adj. 1. Que ameaça ruir; que "
@@ -188,9 +169,9 @@ msgstr ""
 "No nível das ideias, compromissos ruinosos são aqueles que reforçam as "
 "premissas que buscamos mudar. Nosso objetivo é um mundo no qual os usuários "
 "de software são livres, mas a maioria dos usuários ainda sequer reconhece a "
-"liberdade como um assunto importante. Eles assumiram valores de &ldquo;"
-"consumidores&rdquo;, o que significa que eles julgam qualquer programa "
-"apenas pelas suas características práticas, como preço e conveniência."
+"liberdade como um assunto importante. Eles assumiram valores de "
+"“consumidores”, o que significa que eles julgam qualquer programa apenas "
+"pelas suas características práticas, como preço e conveniência."
 
 #. type: Content of: <p>
 msgid ""
@@ -205,8 +186,8 @@ msgid ""
 msgstr ""
 "O livro clássico de Dale Carnegie, <cite>Como Fazer Amigos e Influenciar "
 "Pessoas</cite>, aconselha que a forma mais efetiva de persuadir alguém a "
-"fazer algo é apresentar argumentos que apelem aos seus valores. Existem "
-"maneiras para apelar aos valores de consumidor típicos de nossa sociedade. "
+"fazer algo é apresentar argumentos que apelem para seus valores. Existem "
+"maneiras de apelar para os valores típicos de consumidor de nossa sociedade. "
 "Por exemplo, o usuário que obter software livre gratuitamente pode "
 "economizar. Muitos programas livres são convenientes e confiáveis, também. "
 "Citar esses benefícios práticos tem conseguido persuadir muitos usuários a "
@@ -224,8 +205,8 @@ msgstr ""
 "Se conseguir que mais pessoas usem alguns programas livres é seu objetivo, "
 "talvez você decida-se calar sobre o conceito de liberdade e focar apenas nas "
 "vantagens práticas que fazem sentido em termos de valores de consumidor. É "
-"isso que o termo &ldquo;open source&rdquo; (&ldquo;código aberto&rdquo;, em "
-"português) e a retórica associada a ele fazem."
+"isso que o termo “open source” (“código aberto”, em português) e a retórica "
+"associada a ele fazem."
 
 #. type: Content of: <p>
 msgid ""
@@ -245,14 +226,14 @@ msgid ""
 "and this affirms and reinforces them.  That's why we <a href=\"/philosophy/"
 "open-source-misses-the-point.html\">do not support open source.</a>"
 msgstr ""
-"A filosofia do código aberto pressupõe e apela aos valores de consumidor, "
-"desse modo afirmando e reforçando-os. É por isso que nós <a href=\"/"
-"philosophy/open-source-misses-the-point.html\">não defendemos o código "
+"A filosofia do código aberto pressupõe e apela para os valores de "
+"consumidor, desse modo afirmando e reforçando-os. É por isso que nós <a href="
+"\"/philosophy/open-source-misses-the-point.html\">não defendemos o código "
 "livre</a>."
 
 #. type: Attribute 'alt' of: <img>
 msgid "[Levitating Gnu with a laptop]"
-msgstr " [GNU levitando com um laptop] "
+msgstr "[GNU levitando com um laptop]"
 
 #. type: Content of: <p>
 msgid ""
@@ -266,10 +247,10 @@ msgstr ""
 "Para estabelecer uma comunidade livre de modo completo e duradouro, "
 "precisamos fazer mais do que conseguir que as pessoas usem alguns programas "
 "livres. Precisamos difundir a ideia de julgar o software (e outras coisas) "
-"baseado nos &ldquo;valores de cidadão&rdquo;; baseado no respeito à "
-"liberdade dos usuários e da comunidade, não somente em termos de "
-"conveniência. Assim, as pessoas não cairão na armadilha do programa "
-"proprietário, fisgadas por uma característica conveniente e atraente."
+"baseado nos “valores de cidadão”; baseado no respeito à liberdade dos "
+"usuários e da comunidade, não somente em termos de conveniência. Assim, as "
+"pessoas não cairão na armadilha do programa proprietário, fisgadas por uma "
+"característica conveniente e atraente."
 
 #. type: Content of: <p>
 msgid ""
@@ -290,7 +271,7 @@ msgid ""
 "the practical advantages of free software, we reiterate frequently that "
 "those are just <em>additional, secondary</em> reasons to prefer it."
 msgstr ""
-"Isso não quer dizer que não podemos citar as vantagens práticas&mdash;"
+"Isso não quer dizer que não podemos citar as vantagens práticas &mdash; "
 "podemos e citamos. Essa atitude se torna um problema apenas quando as "
 "vantagens práticas roubam a cena e põe a liberdade em segundo plano. Quando "
 "citamos as vantagens práticas do software livre, nós reiteramos "
@@ -316,13 +297,13 @@ msgid ""
 "java-trap.html\">Java</a> (formerly) or the Flash runtime (still), or a "
 "nonfree device driver that enables support for certain hardware models."
 msgstr ""
-"Por exemplo, a experiência mostra que você pode atrair alguns usuários ao <a "
-"href=\"/gnu/why-gnu-linux.html\">GNU/Linux</a> se incluir alguns programas "
-"não livres, que podem ser um programa atraente e não livre que irá chamar a "
-"atenção de alguns usuários, ou uma plataforma de programação não livre como "
-"o <a href=\"/philosophy/java-trap.html\">Java</a> (antigamente) ou o Flash "
-"(ainda hoje), ou algum driver não livre que habilita o suporte a certos "
-"modelos de hardware."
+"Por exemplo, a experiência mostra que você pode atrair alguns usuários para "
+"o <a href=\"/gnu/why-gnu-linux.html\">GNU/Linux</a> se incluir alguns "
+"programas não livres. Esse poderia ser um aplicativo não livre atraente que "
+"chama a atenção de alguns usuários, ou uma plataforma de programação não "
+"livre como o <a href=\"/philosophy/java-trap.html\">Java</a> (antigamente) "
+"ou o Flash (ainda hoje), ou algum driver não livre que habilita o suporte a "
+"certos modelos de hardware."
 
 #. type: Content of: <p>
 msgid ""
@@ -334,9 +315,9 @@ msgid ""
 msgstr ""
 "Esses compromissos são tentadores, mas irão minar o objetivo. Se você "
 "distribuir software não livre ou incentivar seu uso, será difícil dizer "
-"&ldquo;Software não livre é uma injustiça, um problema social e devemos por "
-"um fim a ele&rdquo;. E mesmo que você continue a dizer essas palavras, suas "
-"ações irão corroê-las."
+"“Software não livre é uma injustiça, um problema social e devemos por um fim "
+"a ele”. E mesmo que você continue a dizer essas palavras, suas ações irão "
+"corroê-las."
 
 #. type: Content of: <p>
 msgid ""
@@ -381,29 +362,6 @@ msgstr ""
 "nossos valores honestos."
 
 #. type: Content of: <p>
-# | If you want to move to free software without compromising the goal of
-# | freedom, look at <a href=\"http://www.fsf.org/resources\">the FSF's
-# | resources area</a>.  It lists hardware and machine configurations that
-# | work with free software, <a [-href=\"/distros\">-]
-# | {+href=\"/distros/distros.html\">+} totally free GNU/Linux distros</a> to
-# | install, and <a href=\"http://directory.fsf.org/\"> thousands of free
-# | software packages</a> that work in a 100 percent free software
-# | environment.  If you want to help the community stay on the road to
-# | freedom, one important way is to publicly uphold citizen values.  When
-# | people are discussing what is good or bad, or what to do, cite the values
-# | of freedom and community and argue from them.
-#, fuzzy
-#| msgid ""
-#| "If you want to move to free software without compromising the goal of "
-#| "freedom, look at <a href=\"http://www.fsf.org/resources\">the FSF's "
-#| "resources area</a>.  It lists hardware and machine configurations that "
-#| "work with free software, <a href=\"/distros\"> totally free GNU/Linux "
-#| "distros</a> to install, and <a href=\"http://directory.fsf.org/\"> "
-#| "thousands of free software packages</a> that work in a 100 percent free "
-#| "software environment.  If you want to help the community stay on the road "
-#| "to freedom, one important way is to publicly uphold citizen values.  When "
-#| "people are discussing what is good or bad, or what to do, cite the values "
-#| "of freedom and community and argue from them."
 msgid ""
 "If you want to move to free software without compromising the goal of "
 "freedom, look at <a href=\"http://www.fsf.org/resources\">the FSF's "
@@ -419,14 +377,14 @@ msgstr ""
 "Se você deseja começar a usar software livre sem comprometer o objetivo da "
 "liberdade, veja <a href=\"http://www.fsf.org/resources\">a área de recursos "
 "da FSF</a>. Lá há uma lista de hardware e configurações de máquina que "
-"funcionam com software livre, <a href=\"/distros\">distribuições GNU/Linux "
-"completamente livres</a> para instalar e <a href=\"http://directory.fsf.org/"
-"\"> milhares de pacotes de software livre</a> que funcionam em um ambiente "
-"100% software livre. Se você deseja ajudar a comunidade a continuar no "
-"caminho da liberdade, uma maneira importante é apoiar publicamente os "
-"valores de cidadão. Quando as pessoas estão discutindo o que é bom ou ruim, "
-"ou o que fazem, cite os valores da liberdade e comunidade e discuta a partir "
-"deles."
+"funcionam com software livre, <a href=\"/distros/distros.html\"> "
+"distribuições GNU/Linux completamente livres</a> para instalar e <a href="
+"\"http://directory.fsf.org/\"> milhares de pacotes de software livre</a> que "
+"funcionam em um ambiente 100% software livre. Se você deseja ajudar a "
+"comunidade a continuar no caminho da liberdade, uma maneira importante é "
+"apoiar publicamente os valores de cidadão. Quando as pessoas estão "
+"discutindo o que é bom ou ruim, ou o que fazem, cite os valores da liberdade "
+"e comunidade e discuta a partir deles."
 
 #. type: Content of: <p>
 msgid ""
@@ -495,38 +453,22 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-# | Copyright &copy; 2008, 2009, 2014, [-2015-] {+2015, 2017+} <a
-# | href=\"http://www.stallman.org/\">Richard Stallman</a>.
-#, fuzzy
-#| msgid ""
-#| "Copyright &copy; 2008, 2009, 2014, 2015 <a href=\"http://www.stallman.org/"
-#| "\">Richard Stallman</a>."
 msgid ""
 "Copyright &copy; 2008, 2009, 2014, 2015, 2017 <a href=\"http://www.stallman."
 "org/\">Richard Stallman</a>."
 msgstr ""
-"Copyright &copy; 2008, 2009, 2014, 2015 <a href=\"http://www.stallman.org/"
-"\">Richard Stallman</a>."
+"Copyright &copy; 2008, 2009, 2014, 2015, 2017 <a href=\"http://www.stallman."
+"org/\">Richard Stallman</a>."
 
 #. type: Content of: <div><p>
-# | This page is licensed under a <a rel=\"license\"
-# | [-href=\"http://creativecommons.org/licenses/by-nd/3.0/us/\">Creative-]
-# | {+href=\"http://creativecommons.org/licenses/by-nd/4.0/\">Creative+}
-# | Commons [-Attribution-NoDerivs 3.0 United States-]
-# | {+Attribution-NoDerivatives 4.0 International+} License</a>.
-#, fuzzy
-#| msgid ""
-#| "This page is licensed under a <a rel=\"license\" href=\"http://"
-#| "creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-#| "NoDerivs 3.0 United States License</a>."
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
 "creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
 "NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
-"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>

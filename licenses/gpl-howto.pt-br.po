@@ -8,12 +8,12 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gpl-howto.html\n"
 "POT-Creation-Date: 2017-09-11 11:26+0000\n"
-"PO-Revision-Date: 2017-01-18 18:09-0200\n"
+"PO-Revision-Date: 2017-09-27 22:39-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Virtaal 1.0.0-beta1\n"
@@ -31,22 +31,6 @@ msgid "How to use GNU licenses for your own software"
 msgstr "Como usar as licenças GNU para seu próprio software"
 
 #. type: Content of: <p>
-# | This is a brief explanation of how to place a program under the <a
-# | href=\"/licenses/gpl.html\">GNU General Public License</a>, <a
-# | [-href=\"/licenses/lgpl.html\">Lesser-] {+href=\"/licenses/lgpl.html\">GNU
-# | Lesser+} General Public License</a>, or <a
-# | [-href=\"/licenses/agpl.html\">Affero-] {+href=\"/licenses/agpl.html\">GNU
-# | Affero+} General Public License</a>.  For the <a
-# | href=\"/licenses/fdl.html\">GNU Free Documentation License</a>, we have a
-# | <a href=\"/licenses/fdl-howto.html\">separate page</a>.
-#, fuzzy
-#| msgid ""
-#| "This is a brief explanation of how to place a program under the <a href="
-#| "\"/licenses/gpl.html\">GNU General Public License</a>, <a href=\"/"
-#| "licenses/lgpl.html\">Lesser General Public License</a>, or <a href=\"/"
-#| "licenses/agpl.html\">Affero General Public License</a>.  For the <a href="
-#| "\"/licenses/fdl.html\">GNU Free Documentation License</a>, we have a <a "
-#| "href=\"/licenses/fdl-howto.html\">separate page</a>."
 msgid ""
 "This is a brief explanation of how to place a program under the <a href=\"/"
 "licenses/gpl.html\">GNU General Public License</a>, <a href=\"/licenses/lgpl."
@@ -57,28 +41,18 @@ msgid ""
 msgstr ""
 "Esta é uma breve explicação de como colocar um programa sob a <a href=\"/"
 "licenses/gpl.html\"> Licença Pública Geral GNU (GPL)</a>, <a href=\"/"
-"licenses/lgpl.html\">Licença Pública Geral Menor (LGPL)</a> ou <a href=\"/"
-"licenses/agpl.html\">Licença Pública Geral Affero (AGPL)</a>. Para a <a href="
-"\"/licenses/fdl.html\">Licença de Documentação Livre GNU (FDL)</a>, nós "
-"temos uma <a href=\"/licenses/fdl-howto.html\">página separada</a>."
+"licenses/lgpl.html\">Licença Pública Geral Menor GNU (LGPL)</a> ou <a href="
+"\"/licenses/agpl.html\">Licença Pública Geral Affero GNU (AGPL)</a>. Para a "
+"<a href=\"/licenses/fdl.html\">Licença de Documentação Livre GNU (FDL)</a>, "
+"nós temos uma <a href=\"/licenses/fdl-howto.html\">página separada</a>."
 
 #. type: Content of: <p>
-# | [-If you are looking for more detailed-]{+For further+} information,
-# | [-consider perusing-] {+see+} our list of <a
-# | href=\"/licenses/gpl-faq.html\">frequently asked questions about our
-# | licenses</a>.
-#, fuzzy
-#| msgid ""
-#| "If you are looking for more detailed information, consider perusing our "
-#| "list of <a href=\"/licenses/gpl-faq.html\">frequently asked questions "
-#| "about our licenses</a>."
 msgid ""
 "For further information, see our list of <a href=\"/licenses/gpl-faq.html"
 "\">frequently asked questions about our licenses</a>."
 msgstr ""
-"Se você está procurando por informações mais detalhadas, considere examinar "
-"nossa lista de <a href=\"/licenses/gpl-faq.html\">perguntas frequentes sobre "
-"nossas licenças</a>."
+"Para mais informações, veja nossa lista de <a href=\"/licenses/gpl-faq.html"
+"\">perguntas frequentes sobre nossas licenças</a>."
 
 #. type: Content of: <p>
 msgid ""
@@ -99,49 +73,41 @@ msgid ""
 "Here's a brief summary of what you need to do to release a program under one "
 "of our licenses:"
 msgstr ""
+"Aqui está um breve resumo sobre o que você precisa fazer para lançar um "
+"programa sobre uma de nossas licenças:"
 
 #. type: Content of: <ul><li>
 msgid "Get a copyright disclaimer from your employer or school."
-msgstr ""
+msgstr "Obtenha um aviso de renúncia de copyright de seu empregador ou escola."
 
 #. type: Content of: <ul><li>
 msgid "Give each file the proper copyright notices."
-msgstr ""
+msgstr "Dê a cada arquivo as notas de copyright apropriadas."
 
 #. type: Content of: <ul><li>
 msgid "Add a COPYING file with a copy of the GNU GPL or GNU AGPL."
-msgstr ""
+msgstr "Adicione um arquivo COPYING com uma cópia da GNU GPL ou da GNU AGPL."
 
 #. type: Content of: <ul><li>
 msgid ""
 "Also add a COPYING.LESSER file with a copy of the GNU LGPL, if you use that."
 msgstr ""
+"Também adicione um arquivo COPYING.LESSER com uma cópia da GNU LGPL, se você "
+"usá-la."
 
 #. type: Content of: <ul><li>
 msgid "Put a license notice in each file."
-msgstr ""
+msgstr "Coloque uma nota de licença em cada arquivo."
 
 #. type: Content of: <ul><li>
 msgid "(Optionally) make the program display a startup notice."
-msgstr ""
+msgstr "(Opcionalmente) faça o programa exibir uma nota de inicialização."
 
 #. type: Content of: <ul><li>
 msgid "(If using the AGPL) make the program offer copies of its source code."
-msgstr ""
+msgstr "(Se usar a AGPL) faça o programa oferecer cópias de seu código-fonte."
 
 #. type: Content of: <p>
-# | [-Whichever license you plan to use, the process-]{+This+} involves adding
-# | two elements to each source file of your program: a copyright notice (such
-# | as &ldquo;Copyright 1999 Terry Jones&rdquo;), and a statement of copying
-# | permission, saying that the program is distributed under the terms of the
-# | GNU General Public License (or the Lesser {+GPL, or the Affero+} GPL).
-#, fuzzy
-#| msgid ""
-#| "Whichever license you plan to use, the process involves adding two "
-#| "elements to each source file of your program: a copyright notice (such as "
-#| "&ldquo;Copyright 1999 Terry Jones&rdquo;), and a statement of copying "
-#| "permission, saying that the program is distributed under the terms of the "
-#| "GNU General Public License (or the Lesser GPL)."
 msgid ""
 "This involves adding two elements to each source file of your program: a "
 "copyright notice (such as &ldquo;Copyright 1999 Terry Jones&rdquo;), and a "
@@ -149,15 +115,15 @@ msgid ""
 "under the terms of the GNU General Public License (or the Lesser GPL, or the "
 "Affero GPL)."
 msgstr ""
-"Seja qual licença você planeja usar, o processo envolve a adição de dois "
-"elementos em cada arquivo fonte do seu programa: uma nota de copyright (como "
-"“<cite>Copyright 1999 Terry Jones</cite>”) e uma declaração de permissão de "
-"cópia, dizendo que o programa é distribuído sobre os termos da Licença "
-"Pública Geral GNU (ou da GPL Menor)."
+"Isso envolve a adição de dois elementos em cada arquivo fonte do seu "
+"programa: uma nota de copyright (como “<cite>Copyright 1999 Terry Jones</"
+"cite>”) e uma declaração de permissão de cópia, dizendo que o programa é "
+"distribuído sobre os termos da Licença Pública Geral GNU (ou da GPL Menor, "
+"ou da GPL Affero)."
 
 #. type: Content of: <h3>
 msgid "The copyright disclaimer"
-msgstr ""
+msgstr "O aviso de renúncia de copyright (ou “copyright disclaimer”)"
 
 #. type: Content of: <p>
 msgid ""
@@ -168,37 +134,34 @@ msgid ""
 "GNU GPL&mdash;it applies no matter which free software license you use to "
 "release the program."
 msgstr ""
+"Para evitar possíveis complicações legais posteriores, é sábio pedir ao seu "
+"empregador ou escola, se for o caso, assinar um aviso de renúncia de "
+"copyright para seu programa, de forma a não ser possível posteriormente "
+"alegarem que o copyright lhes pertence e que você não tinha qualquer direito "
+"de lançar o programa. Isso realmente tem nada a ver com a GNU GPL &mdash; "
+"ela se aplica não importa qual licença de software livre você usa para "
+"lançar seu programa."
 
 #. type: Content of: <p>
 msgid ""
 "Here is a sample copyright disclaimer; just alter the names, title, and "
 "program description as appropriate:"
 msgstr ""
+"Aqui está um exemplo de aviso de renúncia de copyright; basta alterar os "
+"nomes, títulos e descrição do programa conforme apropriado:"
 
 #. type: Content of: <blockquote><p>
-# | Yoyodyne, Inc., hereby disclaims all copyright interest in the program
-# | [-&ldquo;Gnomovision&rdquo;-] {+&ldquo;Woodpecker&rdquo;+} (which [-makes
-# | passes at compilers)-] {+deconstructs trees)+}  written by James Hacker.
-#, fuzzy
-#| msgid ""
-#| "Yoyodyne, Inc., hereby disclaims all copyright interest in the program "
-#| "&ldquo;Gnomovision&rdquo; (which makes passes at compilers) written by "
-#| "James Hacker."
 msgid ""
 "Yoyodyne, Inc., hereby disclaims all copyright interest in the program "
 "&ldquo;Woodpecker&rdquo; (which deconstructs trees)  written by James Hacker."
 msgstr ""
 "Yoyodyne, Inc., por meio deste renuncia todo e qualquer interesse no "
-"copyright do programa “Gnomovision” (que criar passes em compiladores) "
-"escrito por James Hacker."
+"copyright do programa “Woodpecker” (que desconstrói árvores) escrito por "
+"James Hacker."
 
 #. type: Content of: <blockquote><p>
-# | [-&lt;signature-]{+<em>signature+} of Moe [-Ghoul&gt;,-] {+Ghoul</em>+} 1
-# | April 1989
-#, fuzzy
-#| msgid "&lt;signature of Moe Ghoul&gt;, 1 April 1989"
 msgid "<em>signature of Moe Ghoul</em> 1 April 1989"
-msgstr "&lt;assinatura de Moe Ghoul&gt;, 1ª de Abril de 1989"
+msgstr "<em>assinatura de Moe Ghoul</em>, 1º de Abril de 1989"
 
 #. type: Content of: <blockquote><p>
 msgid "Moe Ghoul, President of Vice"
@@ -212,36 +175,26 @@ msgid ""
 "teaching assistant, it could be that the university has no claim to "
 "copyright on your work, but ask a lawyer to make sure of that."
 msgstr ""
+"Se você é um estudante universitário, recomendamos que requeira o aviso de "
+"renúncia <a href=\"/philosophy/university.html\">em um estágio inicial da "
+"escrita do programa</a> para reduzir a resistência. Se você não é um "
+"assistente de pesquisa ou monitor, pode ser que a universidade tenha nenhum "
+"direito ao copyright de sua obra, mas consulte um advogado para ter certeza "
+"disso."
 
 #. type: Content of: <p>
 msgid ""
 "If you work, the best time to negotiate permission to release free software "
 "is <em>when negotiating your employment agreement</em>."
 msgstr ""
+"Se você trabalha, o melhor momento para negociar permissão de lançar o "
+"software livre é <em>quando estiver negociando seu contrato de trabalho</em>."
 
 #. type: Content of: <h3>
-# | [-Copyright-]{+The copyright+} notice [-above.-]
-#, fuzzy
-#| msgid "Copyright notice above."
 msgid "The copyright notice"
-msgstr "Nota de direitos autorais acima."
+msgstr "A nota de copyright"
 
 #. type: Content of: <p>
-# | The copyright notice should include the year in which you finished
-# | preparing the release (so if you finished it in 1998 but didn't post it
-# | until 1999, use 1998).  You should add the proper year for each {+past+}
-# | release; for example, &ldquo;Copyright 1998, 1999 Terry Jones&rdquo; if
-# | some [-versions-] {+releases+} were finished in 1998 and some were
-# | finished in 1999.  If several people helped write the code, use all their
-# | names.
-#, fuzzy
-#| msgid ""
-#| "The copyright notice should include the year in which you finished "
-#| "preparing the release (so if you finished it in 1998 but didn't post it "
-#| "until 1999, use 1998).  You should add the proper year for each release; "
-#| "for example, &ldquo;Copyright 1998, 1999 Terry Jones&rdquo; if some "
-#| "versions were finished in 1998 and some were finished in 1999.  If "
-#| "several people helped write the code, use all their names."
 msgid ""
 "The copyright notice should include the year in which you finished preparing "
 "the release (so if you finished it in 1998 but didn't post it until 1999, "
@@ -252,8 +205,8 @@ msgid ""
 msgstr ""
 "A nota de copyright deve incluir o ano no qual você acabou de preparar a "
 "versão de lançamento (então, se você acabou em 1998 e não publicou até 1999, "
-"use 1998). Você deve adicionar o ano de cada versão de lançamento; por "
-"exemplo, se algumas versões foram terminadas em 1998 e outras em 1999 "
+"use 1998). Você deve adicionar o ano para cada lançamento anterior; por "
+"exemplo, se alguns lançamentos foram terminados em 1998 e outros em 1999 "
 "“Copyright 1998, 1999 Terry Jones”. Se várias pessoas ajudaram a escrever o "
 "código, inclua os nomes de todos elas."
 
@@ -274,20 +227,6 @@ msgstr ""
 "documentação sobre esse uso."
 
 #. type: Content of: <p>
-# | Always use the English word &ldquo;Copyright&rdquo;; by international
-# | convention, this is used worldwide, even for material in other languages.
-# | The copyright symbol &ldquo;&copy;&rdquo; can be included if you wish (and
-# | your character set supports it), but it's not necessary.  There is no
-# | legal significance to using the three-character sequence
-# | &ldquo;(C)&rdquo;, [-although-] {+but+} it does no harm.
-#, fuzzy
-#| msgid ""
-#| "Always use the English word &ldquo;Copyright&rdquo;; by international "
-#| "convention, this is used worldwide, even for material in other languages. "
-#| "The copyright symbol &ldquo;&copy;&rdquo; can be included if you wish "
-#| "(and your character set supports it), but it's not necessary.  There is "
-#| "no legal significance to using the three-character sequence &ldquo;"
-#| "(C)&rdquo;, although it does no harm."
 msgid ""
 "Always use the English word &ldquo;Copyright&rdquo;; by international "
 "convention, this is used worldwide, even for material in other languages. "
@@ -300,46 +239,26 @@ msgstr ""
 "é usada mundialmente, mesmo para materiais em outros idiomas. O símbolo de "
 "copyright “&copy;” pode ser incluído se você assim desejar (e seu conjunto "
 "de caracteres prover suporte para isso), mas não há necessidade. Não há "
-"significância legal em usar a sequência de três caracteres “(C)”, apesar de "
-"não haver problema."
+"significância legal em usar a sequência de três caracteres “(C)”, mas não há "
+"problema."
 
 # a frase naum ficou legal, ao traduzir "right near the top of each file", 
 # naum achei uma traducao melhor que esta.
 #. type: Content of: <p>
-# | If you have copied code from other programs covered by the same license,
-# | copy their copyright notices too.  Put all the copyright notices {+for a
-# | file+} together, right near the top of [-each-] {+the+} file.
-#, fuzzy
-#| msgid ""
-#| "If you have copied code from other programs covered by the same license, "
-#| "copy their copyright notices too.  Put all the copyright notices "
-#| "together, right near the top of each file."
 msgid ""
 "If you have copied code from other programs covered by the same license, "
 "copy their copyright notices too.  Put all the copyright notices for a file "
 "together, right near the top of the file."
 msgstr ""
 "Se você copiou o código de outros programas regidos pela mesma licença, "
-"copie as notas de copyright também. Coloque todos os copyright juntos, no "
-"lado direito, perto do topo de cada arquivo."
+"copie as notas de copyright também. Coloque todos as notas de copyright para "
+"um arquivo juntos, no lado direito, perto do topo do arquivo."
 
 #. type: Content of: <h3>
 msgid "The license files"
-msgstr ""
+msgstr "Os arquivos de licença"
 
 #. type: Content of: <p>
-# | You should also include a copy of the license itself somewhere in the
-# | distribution of your program.  All programs, whether they are released
-# | under the GPL or LGPL, should include <a href=\"/licenses/gpl.txt\">the
-# | text version of the GPL</a>.  In GNU programs {+we conventionally put+}
-# | the license [-is usually-] in a file called COPYING.
-#, fuzzy
-#| msgid ""
-#| "You should also include a copy of the license itself somewhere in the "
-#| "distribution of your program.  All programs, whether they are released "
-#| "under the GPL or LGPL, should include <a href=\"/licenses/gpl.txt\">the "
-#| "text version of the GPL</a>.  In GNU programs the license is usually in a "
-#| "file called COPYING."
 msgid ""
 "You should also include a copy of the license itself somewhere in the "
 "distribution of your program.  All programs, whether they are released under "
@@ -350,40 +269,19 @@ msgstr ""
 "Você também deve incluir uma cópia da licença em algum lugar da distribuição "
 "do seu programa. Todos os programas, lançados sob a GPL ou sob a LGPL, devem "
 "incluir <a href=\"/licenses/gpl.txt\">a versão texto da GPL</a>. Nos "
-"programas GNU, a licença é geralmente colocada num arquivo chamado COPYING."
+"programas GNU, convencionalmente colocamos a licença em um arquivo chamado "
+"COPYING."
 
 #. type: Content of: <p>
-# | If you are releasing your program under the GNU AGPL, [-you only need to
-# | include-] {+use+} <a href=\"/licenses/agpl.txt\">the text version of the
-# | GNU [-AGPL</a>.-] {+AGPL</a> instead of the GNU GPL.+}
-#, fuzzy
-#| msgid ""
-#| "If you are releasing your program under the GNU AGPL, you only need to "
-#| "include <a href=\"/licenses/agpl.txt\">the text version of the GNU AGPL</"
-#| "a>."
 msgid ""
 "If you are releasing your program under the GNU AGPL, use <a href=\"/"
 "licenses/agpl.txt\">the text version of the GNU AGPL</a> instead of the GNU "
 "GPL."
 msgstr ""
-"Se você está relançando seu programa sob a GNU AGPL, você só precisa incluir "
-"<a href=\"/licenses/agpl.txt\">a versão texto da GNU AGPL</a>."
+"Se você está relançando seu programa sob a GNU AGPL, use <a href=\"/licenses/"
+"agpl.txt\">a versão texto da GNU AGPL</a> em vez da GNU GPL."
 
 #. type: Content of: <p>
-# | If you are releasing your program under the [-LGPL,-] {+Lesser GPL,+} you
-# | should also include <a href=\"/licenses/lgpl.txt\">the text version of the
-# | LGPL</a>, usually in a file called COPYING.LESSER.  Please note that,
-# | since the LGPL is a set of additional permissions on top of the GPL, it's
-# | [-important-] {+crucial+} to include both licenses so users have all the
-# | materials they need to understand their rights.
-#, fuzzy
-#| msgid ""
-#| "If you are releasing your program under the LGPL, you should also include "
-#| "<a href=\"/licenses/lgpl.txt\">the text version of the LGPL</a>, usually "
-#| "in a file called COPYING.LESSER.  Please note that, since the LGPL is a "
-#| "set of additional permissions on top of the GPL, it's important to "
-#| "include both licenses so users have all the materials they need to "
-#| "understand their rights."
 msgid ""
 "If you are releasing your program under the Lesser GPL, you should also "
 "include <a href=\"/licenses/lgpl.txt\">the text version of the LGPL</a>, "
@@ -392,34 +290,27 @@ msgid ""
 "include both licenses so users have all the materials they need to "
 "understand their rights."
 msgstr ""
-"Se você está relançando seu programa sob a LGPL, você também deve incluir <a "
-"href=\"/licenses/lgpl.txt\">a versão texto da LGPL</a>, geralmente em um "
-"arquivo chamado COPYING.LESSER. Por favor note que, já que LGPL é um "
-"conjunto de permissões adicionais em cima da GPL, é importante incluir ambas "
-"licenças de forma que usuários tenham todos os materiais que eles precisem "
-"para entender seus direitos."
+"Se você está relançando seu programa sob a GPL Menor, você também deve "
+"incluir <a href=\"/licenses/lgpl.txt\">a versão texto da LGPL</a>, "
+"geralmente em um arquivo chamado COPYING.LESSER. Por favor note que, já que "
+"LGPL é um conjunto de permissões adicionais em cima da GPL, é crucial "
+"incluir ambas licenças de forma que usuários tenham todos os materiais que "
+"eles precisem para entender seus direitos."
 
 #. type: Content of: <h3>
 msgid "The license notices"
-msgstr ""
+msgstr "As notas de licença"
 
 #. type: Content of: <p>
-# | [-The-]{+Each file's+} copying permission statement {+(also called the
-# | license notice)+}  should come right after [-the-] {+its+} copyright
-# | notices.  For a one-file program, the statement (for the GPL) should look
-# | like [-this:-] {+this, to use GPL version 3 or later:+}
-#, fuzzy
-#| msgid ""
-#| "The copying permission statement should come right after the copyright "
-#| "notices.  For a one-file program, the statement (for the GPL)  should "
-#| "look like this:"
 msgid ""
 "Each file's copying permission statement (also called the license notice)  "
 "should come right after its copyright notices.  For a one-file program, the "
 "statement (for the GPL) should look like this, to use GPL version 3 or later:"
 msgstr ""
-"A declaração da permissão de cópia deve vir depois das notas de copyright. "
-"Para um arquivo de programa, a declaração (para a GPL) deve parecer com isso:"
+"A declaração da permissão de cópia de cada arquivo (também chamada de nota "
+"de licença, ou “license notices”) deve vir logo após as notas de copyright. "
+"Para um programa de somente um arquivo, a declaração (para a GPL) deve "
+"parecer com isso, para usar GPL versão 3 ou posterior:"
 
 #. type: Content of: <pre>
 #, no-wrap
@@ -534,6 +425,9 @@ msgid ""
 "first long paragraph.  For instance, to license under version 2 or later, "
 "you would replace &ldquo;3&rdquo; with &ldquo;2&rdquo;."
 msgstr ""
+"Para usar um conjunto diferente de versões GPL, você modificaria o fim do "
+"primeiro parágrafo longo. Por exemplo, para licenciar sob a versão 2 ou "
+"posterior, você substituiria “3” com “2”."
 
 #. type: Content of: <p>
 msgid ""
@@ -551,7 +445,7 @@ msgstr ""
 
 #. type: Content of: <h3>
 msgid "Why license notices?"
-msgstr ""
+msgstr "Por que notas de licenças?"
 
 #. type: Content of: <p>
 msgid ""
@@ -560,6 +454,10 @@ msgid ""
 "that defeats the purpose.  Our practices are designed to avoid any "
 "uncertainty."
 msgstr ""
+"O propósito de uma licença de software livre é dar certos direitos para "
+"todos os usuários de um programa. Se não está claro quais direitos você lhes "
+"deu, isso quebra o propósito. Nossas práticas são feitas para evitar "
+"qualquer incerteza."
 
 #. type: Content of: <p>
 msgid ""
@@ -568,6 +466,10 @@ msgid ""
 "under license FOO,&rdquo; that leaves room for uncertainty about whether the "
 "license FOO applies to the code of that program."
 msgstr ""
+"Se um programa possui uma cópia de uma licença FOO pelos arquivos-fontes, "
+"mas não tem uma declaração explícita de “Esse programa é lançado sob a "
+"licença FOO”, isso deixa espaço para incerteza sobre se a licença FOO se "
+"aplica ao código daquele programa."
 
 #. type: Content of: <p>
 msgid ""
@@ -579,37 +481,32 @@ msgid ""
 "context eliminates all trace of that point.  This invites confusion and "
 "error."
 msgstr ""
+"Se um lançamento possuir uma declaração de que “Esse programa é lançado sob "
+"a licença”, em um lugar central como o arquivo README, isso deixa a situação "
+"clara <em>para aquele lançamento</em>. Porém, programadores geralmente "
+"copiam os arquivos-fontes de um programa para o outro. Se um arquivo-fonte "
+"não contiver declaração sobre qual é sua licença, então mover para outro "
+"contexto elimina todo rastro daquele ponto. Isso convida confusão e erro."
 
 #. type: Content of: <h3>
 msgid "The startup notice"
-msgstr ""
+msgstr "A nota de inicialização"
 
 #. type: Content of: <p>
-# | For interactive programs, it is usually a good idea to make the program
-# | [-print out-] {+display+} a brief notice about copyright and copying
-# | permission when it starts up.  See <a
-# | href=\"/licenses/gpl-3.0.html#howto\">the end of the GNU GPL</a> for more
-# | information about this.
-#, fuzzy
-#| msgid ""
-#| "For interactive programs, it is usually a good idea to make the program "
-#| "print out a brief notice about copyright and copying permission when it "
-#| "starts up.  See <a href=\"/licenses/gpl-3.0.html#howto\">the end of the "
-#| "GNU GPL</a> for more information about this."
 msgid ""
 "For interactive programs, it is usually a good idea to make the program "
 "display a brief notice about copyright and copying permission when it starts "
 "up.  See <a href=\"/licenses/gpl-3.0.html#howto\">the end of the GNU GPL</a> "
 "for more information about this."
 msgstr ""
-"Para programas interativos, é uma boa ideia fazer o programa escrever na "
-"tela uma breve nota de copyright e de permissão de cópia quando ele começar. "
-"Veja <a href=\"/licenses/gpl-3.0.html#howto\">o final da GPL GNU</a> para "
-"mais informação sobre isso."
+"Para programas interativos, é geralmente uma boa ideia fazer o programa "
+"exibir uma breve nota de copyright e de permissão de cópia quando ele "
+"começar. Veja <a href=\"/licenses/gpl-3.0.html#howto\">o final da GNU GPL</"
+"a> para mais informação sobre isso."
 
 #. type: Content of: <h3>
 msgid "The Affero notice"
-msgstr ""
+msgstr "A nota da Affero"
 
 #. type: Content of: <p>
 msgid ""
@@ -631,7 +528,7 @@ msgstr ""
 
 #. type: Content of: <h3>
 msgid "Miscellaneous"
-msgstr ""
+msgstr "Diversos"
 
 #. type: Content of: <p>
 msgid ""
@@ -640,24 +537,10 @@ msgid ""
 "with the legal issues of applying the license."
 msgstr ""
 "É muito importante, por razões práticas, incluir informações de contato para "
-"quem quiser entrar contato com você, talvez no arquivo “README”, mas isso "
-"não tem nada a ver com os casos legais de aplicação da licença."
+"quem quiser entrar contato com você, talvez no arquivo README, mas isso não "
+"tem nada a ver com os casos legais de aplicação da licença."
 
 #. type: Content of: <p>
-# | There is no legal requirement to register your copyright with anyone;
-# | simply [-distributing-] {+writing+} the program makes it copyrighted. 
-# | However, {+for the US,+} it is a [-very-] good idea to register the
-# | copyright with the US Registry of Copyrights, because that puts you in a
-# | stronger position against anyone who violates the license in the US.  Most
-# | other countries have no system of copyright registration.
-#, fuzzy
-#| msgid ""
-#| "There is no legal requirement to register your copyright with anyone; "
-#| "simply distributing the program makes it copyrighted.  However, it is a "
-#| "very good idea to register the copyright with the US Registry of "
-#| "Copyrights, because that puts you in a stronger position against anyone "
-#| "who violates the license in the US.  Most other countries have no system "
-#| "of copyright registration."
 msgid ""
 "There is no legal requirement to register your copyright with anyone; simply "
 "writing the program makes it copyrighted.  However, for the US, it is a good "
@@ -666,26 +549,14 @@ msgid ""
 "in the US.  Most other countries have no system of copyright registration."
 msgstr ""
 "Não há requisitos legais para registrar o seu copyright em qualquer lugar; a "
-"simples distribuição do programa o torna protegido por copyright. Contudo, é "
-"uma boa ideia registrar o copyright no escritório de registros de Copyrights "
-"dos EUA (<cite>US Copyright Office</cite>), o que coloca você em uma forte "
-"posição contra quem violar a sua licença nos EUA. A maioria dos países não "
-"possuem um sistema de registro de copyright."
+"simples escrita do programa o torna protegido por copyright. Contudo, nos "
+"EUA, é uma boa ideia registrar o copyright no Escritório de Registros de "
+"Copyrights dos EUA (<cite>US Copyright Office</cite>), o que coloca você em "
+"uma forte posição contra quem violar a sua licença nos EUA. A maioria dos "
+"países não possuem um sistema de registro de copyright."
 
 # Diretório dos Softwares Livres: rever a traducao disso.
 #. type: Content of: <p>
-# | We would like to list all free software programs in the Free Software
-# | Directory, including all programs licensed under the GPL (any version). 
-# | {+So please submit an entry for your program, when it has reached the
-# | point of being useful.+}  Please see the <a
-# | href=\"http://directory.fsf.org/\">Directory web page</a> for information
-# | and an online submission form.
-#, fuzzy
-#| msgid ""
-#| "We would like to list all free software programs in the Free Software "
-#| "Directory, including all programs licensed under the GPL (any version).  "
-#| "Please see the <a href=\"http://directory.fsf.org/\">Directory web page</"
-#| "a> for information and an online submission form."
 msgid ""
 "We would like to list all free software programs in the Free Software "
 "Directory, including all programs licensed under the GPL (any version).  So "
@@ -695,25 +566,12 @@ msgid ""
 msgstr ""
 "Nós gostaríamos de listar todos programas de software livre no Diretório de "
 "Software Livre, inclusive todos aqueles licenciados sob a GPL (qualquer "
-"versão). Por favor, consulte a <a href=\"http://directory.fsf.org/\">página "
-"do Diretório</a> para obter informações e um formulário de submissão on-line."
+"versão). Então, por favor submeta uma entrada para seu programa, quando ele "
+"tiver alcançado um ponto de ser útil. Por favor, consulte a <a href=\"http://"
+"directory.fsf.org/\">página do Diretório</a> para obter informações e um "
+"formulário de submissão on-line."
 
 #. type: Content of: <p>
-# | It is also possible to make your program a GNU package, a part of the GNU
-# | Project.  [-(That's if we like the program&mdash;we have to look at it
-# | first, and decide.)-]  If you might be interested in joining up with the
-# | GNU Project in this way, please see our <a
-# | href=\"/help/evaluation.html\">GNU software evaluation page</a> for more
-# | information and a short questionnaire.  {+We will respond and discuss the
-# | matter with you.+}
-#, fuzzy
-#| msgid ""
-#| "It is also possible to make your program a GNU package, a part of the GNU "
-#| "Project.  (That's if we like the program&mdash;we have to look at it "
-#| "first, and decide.)  If you might be interested in joining up with the "
-#| "GNU Project in this way, please see our <a href=\"/help/evaluation.html"
-#| "\">GNU software evaluation page</a> for more information and a short "
-#| "questionnaire."
 msgid ""
 "It is also possible to make your program a GNU package, a part of the GNU "
 "Project.  If you might be interested in joining up with the GNU Project in "
@@ -722,24 +580,11 @@ msgid ""
 "respond and discuss the matter with you."
 msgstr ""
 "Também é possível fazer do seu programa um pacote GNU, uma parte do Projeto "
-"GNU. (Isto é, se nós gostarmos do programa&mdash;analisaremos primeiro antes "
-"de decidir.) Se lhe interessa entrar no Projeto GNU por essa maneira, por "
-"favor consulte a nossa <a href=\"/help/evaluation.html\">página de avaliação "
-"do software GNU</a> para obter mais informações e um breve questionário."
+"GNU. Se lhe interessa se juntar ao Projeto GNU dessa maneira, por favor "
+"consulte a nossa <a href=\"/help/evaluation.html\">página de avaliação do "
+"software GNU</a> para obter mais informações e um breve questionário."
 
 #. type: Content of: <p>
-# | [-But you-]{+You+} are welcome to use any of our licenses even if your
-# | program is not a GNU package; indeed, we hope you will.  They're available
-# | to everyone.  If you'd like to advertise your use of a particular license,
-# | feel free to use <a href=\"/graphics/license-logos.html\" title=\"GNU
-# | License Logos\">one of our logos</a>.
-#, fuzzy
-#| msgid ""
-#| "But you are welcome to use any of our licenses even if your program is "
-#| "not a GNU package; indeed, we hope you will.  They're available to "
-#| "everyone.  If you'd like to advertise your use of a particular license, "
-#| "feel free to use <a href=\"/graphics/license-logos.html\" title=\"GNU "
-#| "License Logos\">one of our logos</a>."
 msgid ""
 "You are welcome to use any of our licenses even if your program is not a GNU "
 "package; indeed, we hope you will.  They're available to everyone.  If you'd "
@@ -747,11 +592,11 @@ msgid ""
 "\"/graphics/license-logos.html\" title=\"GNU License Logos\">one of our "
 "logos</a>."
 msgstr ""
-"Contudo, você pode usar qualquer uma de nossas licenças mesmo se seu "
-"programa não for um pacote GNU; de fato, esperamos que você o faça. Elas "
-"estão disponíveis para todo mundo. Se você gostaria de divulgar seu uso de "
-"uma licença específica, sinta-se à vontade para usar <a href=\"/graphics/"
-"license-logos.html\" title=\"GNU License Logos\">uma de nossas logos</a>."
+"Você pode usar qualquer uma de nossas licenças mesmo se seu programa não for "
+"um pacote GNU; de fato, esperamos que você o faça. Elas estão disponíveis "
+"para todo mundo. Se você gostaria de divulgar seu uso de uma licença "
+"específica, sinta-se à vontade para usar <a href=\"/graphics/license-logos."
+"html\" title=\"GNU License Logos\">uma de nossas logos</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -800,38 +645,22 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-# | Copyright &copy; 2001, 2007, 2008, 2009, 2013, [-2014-] {+2014, 2017+}
-# | Free Software Foundation, Inc.
-#, fuzzy
-#| msgid ""
-#| "Copyright &copy; 2001, 2007, 2008, 2009, 2013, 2014 Free Software "
-#| "Foundation, Inc."
 msgid ""
 "Copyright &copy; 2001, 2007, 2008, 2009, 2013, 2014, 2017 Free Software "
 "Foundation, Inc."
 msgstr ""
-"Copyright &copy; 2001, 2007, 2008, 2009, 2013, 2014 Free Software "
+"Copyright &copy; 2001, 2007, 2008, 2009, 2013, 2014, 2017 Free Software "
 "Foundation, Inc."
 
 #. type: Content of: <div><p>
-# | This page is licensed under a <a rel=\"license\"
-# | [-href=\"http://creativecommons.org/licenses/by-nd/3.0/us/\">Creative-]
-# | {+href=\"http://creativecommons.org/licenses/by-nd/4.0/\">Creative+}
-# | Commons [-Attribution-NoDerivs 3.0 United States-]
-# | {+Attribution-NoDerivatives 4.0 International+} License</a>.
-#, fuzzy
-#| msgid ""
-#| "This page is licensed under a <a rel=\"license\" href=\"http://"
-#| "creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-#| "NoDerivs 3.0 United States License</a>."
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
 "creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
 "NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
-"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>

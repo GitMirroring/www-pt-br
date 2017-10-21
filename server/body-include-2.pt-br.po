@@ -1,17 +1,17 @@
 # Brazilian Portuguese translation of http://www.gnu.org/server/body-include-2.html
-# Copyright (C) 2008, 2012, 2015 Free Software Foundation, Inc.
+# Copyright (C) 2008, 2012, 2015, 2017 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Og Maciel <ogmaciel@gnome.org>, 2008.
 # Rafael Beraldo <rberaldo@cabaladada.org>, 2012.
 # André Jan Smit <ajansmit@gmail.com>, 2012.
 # Dec 2014: Retrieve old translated strings (T. Godefroy).
 # Bruno Félix Rezende Ribeiro <oitofelix@gnu.org>, 2015.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2016.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2016, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: body-include-2.html\n"
 "POT-Creation-Date: 2017-09-15 15:26+0000\n"
-"PO-Revision-Date: 2016-07-09 16:36-0200\n"
+"PO-Revision-Date: 2017-09-28 00:20-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 0.7.1\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
 
 # type: Content of: <body><div><div><div><ul><li>
 #. type: Content of: <div><div><p>
@@ -31,12 +31,8 @@ msgstr ""
 "referrer=4052\">JUNTE-SE&nbsp;À&nbsp;FSF!</a>"
 
 #. type: Content of: <div><div><div><p>
-# | <a [-href=\"http://www.fsf.org/fss\">Free-]
-# | {+href=\"//www.fsf.org/fss\">Free+} Software Supporter</a>
-#, fuzzy
-#| msgid "<a href=\"http://www.fsf.org/fss\">Free Software Supporter</a>"
 msgid "<a href=\"//www.fsf.org/fss\">Free Software Supporter</a>"
-msgstr "<a href=\"http://www.fsf.org/fss\">Free Software Supporter</a>"
+msgstr "<a href=\"//www.fsf.org/fss\">Free Software Supporter</a>"
 
 #. type: Content of: <div><div><div><form><div>
 msgid ""
@@ -132,8 +128,8 @@ msgstr "<a href=\"/help/help.html\">AJUDE&nbsp;O&nbsp;GNU</a>"
 
 #~ msgid "<label>Enter your email address (e.g. richard@example.com)</label>"
 #~ msgstr ""
-#~ "<label>Digite seu endereço de e-mail (por exemplo richard@exemplo.com."
-#~ "br)</label>"
+#~ "<label>Digite seu endereço de e-mail (por exemplo richard@exemplo.com.br)"
+#~ "</label>"
 
 # type: Content of: <body><div><div><form><div>
 #~ msgid ""

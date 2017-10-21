@@ -2,29 +2,25 @@
 # Copyright (C) 2015 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Bruno Félix Rezende Ribeiro <oitofelix@gnu.org>, 2015.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: bottom-notes.html\n"
 "POT-Creation-Date: 2017-09-15 15:26+0000\n"
-"PO-Revision-Date: 2015-09-01 14:26-0300\n"
-"Last-Translator: Bruno Félix Rezende Ribeiro <oitofelix@gnu.org>\n"
+"PO-Revision-Date: 2017-09-28 00:22-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
 
 #. type: Content of: <div><p>
-# | <a [-href=\"http://www.fsf.org/about/dmca-notice\">Copyright-]
-# | {+href=\"//www.fsf.org/about/dmca-notice\">Copyright+} Infringement
-# | Notification</a>
-#, fuzzy
-#| msgid ""
-#| "<a href=\"http://www.fsf.org/about/dmca-notice\">Copyright Infringement "
-#| "Notification</a>"
 msgid ""
 "<a href=\"//www.fsf.org/about/dmca-notice\">Copyright Infringement "
 "Notification</a>"
 msgstr ""
-"<a href=\"http://www.fsf.org/about/dmca-notice\">Notificação de Violação de "
+"<a href=\"//www.fsf.org/about/dmca-notice\">Notificação de Violação de "
 "Direitos Autorais</a>"

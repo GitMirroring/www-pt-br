@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: help.html\n"
 "POT-Creation-Date: 2017-09-22 07:26+0000\n"
-"PO-Revision-Date: 2017-04-04 06:57-0300\n"
+"PO-Revision-Date: 2017-09-29 06:59-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -58,13 +58,8 @@ msgstr ""
 "<a href=\"#helpgnu\">Ajude apoiando o desenvolvimento do GNU e usando-o</a>"
 
 #. type: Content of: <div><ul><li>
-# | <a [-href=\"#helpgnu\">Help support GNU development and use</a>-]
-# | {+href=\"#hnode\">Help improve h-node.org</a>+}
-#, fuzzy
-#| msgid "<a href=\"#helpgnu\">Help support GNU development and use</a>"
 msgid "<a href=\"#hnode\">Help improve h-node.org</a>"
-msgstr ""
-"<a href=\"#helpgnu\">Ajude apoiando o desenvolvimento do GNU e usando-o</a>"
+msgstr "<a href=\"#hnode\">Ajude a melhorar o h-node.org</a>"
 
 #. type: Content of: <p>
 msgid ""
@@ -75,7 +70,7 @@ msgid ""
 msgstr ""
 "Para questões gerais sobre o Projeto GNU, envie um e-mail para <a href="
 "\"mailto:gnu@gnu.org\">&lt;gnu@gnu.org&gt;</a> e para questões e sugestões "
-"sobre esse site, envie um e-amil para <a href=\"mailto:webmasters@gnu.org"
+"sobre esse site, envie um e-mail para <a href=\"mailto:webmasters@gnu.org"
 "\">&lt;webmasters@gnu.org&gt;</a>."
 
 #. type: Content of: <h3>
@@ -116,7 +111,7 @@ msgid ""
 "\">projects that would be good to do</a>."
 msgstr ""
 "Há outros <a href=\"http://savannah.gnu.org/people/?group=tasklist"
-"\">projetos que seria bom executar</a>."
+"\">projetos que seria bom realizar</a>."
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -275,8 +270,9 @@ msgid ""
 "Inform your acquaintances about the GNU <a href=\"/philosophy/philosophy.html"
 "\">philosophy</a> and <a href=\"/software/software.html\">software</a>."
 msgstr ""
-"Informe aos seus conhecidos sobre a <a href=\"/philosophy/philosophy.html"
-"\">filosofia</a> e <a href=\"/software/software.html\">softwares</a> do GNU."
+"Informe seus conhecidos sobre a <a href=\"/philosophy/philosophy.html"
+"\">filosofia</a> e os <a href=\"/software/software.html\">softwares</a> do "
+"GNU."
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -290,7 +286,7 @@ msgid ""
 msgstr ""
 "Quando você se referir ao sistema operacional que se iniciou como GNU com "
 "Linux adicionado, chame-o de <a href=\"/gnu/linux-and-gnu.html\">GNU/Linux</"
-"a>, e não siga aqueles que o chamam de \"Linux\". Uma vez que as pessoas "
+"a>, e não siga aqueles que o chamam de “Linux”. Uma vez que as pessoas "
 "estejam cientes do que nós já fizemos, em vez de atribuir a outras pessoas, "
 "elas vão <a href=\"/gnu/why-gnu-linux.html\">apoiar nossos esforços "
 "presentes e futuros ainda mais</a>. Essa ajuda toma muito pouco de seu tempo "
@@ -305,8 +301,7 @@ msgid ""
 msgstr ""
 "Mostre seu apoio para o movimento software livre e nossas <a href=\"/"
 "philosophy/free-sw.html\">ideias de liberdade para usuários de computação</"
-"a>, dizendo \"software livre\", \"software libre\" ou \"software livre/libre"
-"\"."
+"a>, dizendo “software livre”, “software libre” ou “software livre/libre”."
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -314,7 +309,7 @@ msgid ""
 "&ldquo;open source&rdquo;</a> which stands for rejection of our ideals."
 msgstr ""
 "<a href=\"/philosophy/open-source-misses-the-point.html\"> Evite o termo "
-"\"código aberto\"</a>, o qual representa a rejeição de nossos ideais."
+"“código aberto”</a>, o qual representa a rejeição de nossos ideais."
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -366,7 +361,7 @@ msgstr ""
 "org/maintenance/HowToBecomeASavannahHacker\">informações gerais sobre como "
 "se tornar um hacker de savannah</a>. Por favor, se comunique com nós na "
 "lista de discussão <a href=\"http://lists.gnu.org/mailman/listinfo/savannah-"
-"hackers-public\">savannha-hackers-public</a>."
+"hackers-public\">savannah-hackers-public</a>."
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -455,6 +450,9 @@ msgid ""
 "\"mailto:campaigns@fsf.org\">&lt;campaigns@fsf.org&gt;</a> to be added to "
 "the proofreaders list."
 msgstr ""
+"Voluntarie-se para a revisão de manuais GNU novos e revisados. Escreva para "
+"<a href=\"mailto:campaigns@fsf.org\">&lt;campaigns@fsf.org&gt;</a> para ser "
+"adicionar à lista de revisores."
 
 #. type: Content of: <ul><li>
 msgid "Donate <a href=\"/help/help-hardware.html\">hardware</a> to the FSF."
@@ -504,23 +502,27 @@ msgstr ""
 
 #. type: Content of: <h3>
 msgid "Help improve h-node.org"
-msgstr ""
+msgstr "Ajude a melhorar o h-node.org"
 
 #. type: Content of: <p>
 msgid ""
 "h-node.org is a repository that contains information about how well "
 "particular hardware works with free software."
 msgstr ""
+"h-node.org é um repositório que contém informações sobre o quão bem um "
+"hardware em particular funciona com software livre."
 
 #. type: Content of: <p>
 msgid "Help is needed in:"
-msgstr ""
+msgstr "Ajuda é necessária em:"
 
 #. type: Content of: <ul><li>
 msgid ""
 "<a href=\"https://h-node.org/wiki/page/en/Help\">Maintaining and improving "
 "the h-node.org wiki</a>."
 msgstr ""
+"<a href=\"https://h-node.org/wiki/page/en/Help\">Manutenção e melhoria do "
+"wiki do h-node.org</a>."
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -529,10 +531,14 @@ msgid ""
 "en/client-for-h-node-org\">h-client</a> a desktop program for submiting "
 "device information to h-node.org."
 msgstr ""
+"Manutenção do <a href=\"https://h-node.org/wiki/page/en/h-source-code\">h-"
+"source</a>, que fornece o h-node.org, e do <a href=\"https://h-node.org/wiki/"
+"page/en/client-for-h-node-org\">h-client</a>, um programa para envio de "
+"informações de dispositivos para o h-node.org."
 
 #. type: Content of: <ul><li>
 msgid "Suggesting new hardware that should be added to the database."
-msgstr ""
+msgstr "Sugestão de novo hardware que deve ser adicionado ao banco de dados."
 
 #. type: Content of: outside any tag (error?)
 msgid ""
@@ -541,6 +547,10 @@ msgid ""
 "with h-node.org users/developers, use their <a href=\"https://h-node.org/"
 "wiki/page/en/mailing-lists\">mailing lists</a>."
 msgstr ""
+"Para outras formas de ajuda, veja <a href=\"https://h-node.org/wiki/page/en/"
+"Main-Page\"> https://h-node.org/wiki/page/en/Main-Page</a>. Para se "
+"comunicar com os usuários/desenvolvedores do h-node.org, use suas <a href="
+"\"https://h-node.org/wiki/page/en/mailing-lists\">listas de discussão</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>

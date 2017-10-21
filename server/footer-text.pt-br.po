@@ -4,13 +4,13 @@
 # Og Maciel <ogmaciel@gnome.org>, 2008.
 # Rafael Beraldo <rberaldo@cabaladada.org>, 2012.
 # Dec 2014: reformat the FSF statement.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2016.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2016, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: footer-text.html\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-09-15 15:26+0000\n"
-"PO-Revision-Date: 2016-12-18 11:08-0200\n"
+"PO-Revision-Date: 2017-09-28 00:33-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -25,24 +25,14 @@ msgid "<a href=\"#header\">BACK TO TOP</a>"
 msgstr "<a href=\"#header\">VOLTAR AO TOPO</a>"
 
 #. type: Content of: <div><ul><li>
-# | <a [-href=\"http://www.fsf.org/\">FSF</a>-]
-# | {+href=\"//www.fsf.org/\">FSF</a>+}
-#, fuzzy
-#| msgid "<a href=\"http://www.fsf.org/\">FSF</a>"
 msgid "<a href=\"//www.fsf.org/\">FSF</a>"
-msgstr "<a href=\"http://www.fsf.org/\">FSF</a>"
+msgstr "<a href=\"//www.fsf.org/\">FSF</a>"
 
 #. type: Content of: <div><ul><li>
-# | <a
-# | [-href=\"http://directory.fsf.org\">FREE&nbsp;SOFTWARE&nbsp;DIRECTORY</a>-]
-# | {+href=\"//directory.fsf.org\">FREE&nbsp;SOFTWARE&nbsp;DIRECTORY</a>+}
-#, fuzzy
-#| msgid ""
-#| "<a href=\"http://directory.fsf.org\">FREE&nbsp;SOFTWARE&nbsp;DIRECTORY</a>"
 msgid "<a href=\"//directory.fsf.org\">FREE&nbsp;SOFTWARE&nbsp;DIRECTORY</a>"
 msgstr ""
-"<a href=\"http://directory.fsf.org\">DIRETÓRIO&nbsp;DE&nbsp;SOFTWARE&nbsp;"
-"LIVRE</a>"
+"<a href=\"//directory.fsf.org\">DIRETÓRIO&nbsp;DE&nbsp;SOFTWARE&nbsp;LIVRE</"
+"a>"
 
 #. type: Content of: <div><ul><li>
 msgid "<a href=\"https://h-node.org/\">HARDWARE</a>"
@@ -61,15 +51,12 @@ msgid "<a href=\"/server/sitemap.html\">SITE&nbsp;MAP</a>"
 msgstr "<a href=\"/server/sitemap.html\">MAPA&nbsp;DO&nbsp;SITE</a>"
 
 #. type: Content of: <div><blockquote><p><a>
-# | <a [-href=\"http://www.fsf.org\">-] {+href=\"//www.fsf.org\">+}
-#, fuzzy
-#| msgid "<a href=\"http://www.fsf.org\">"
 msgid "<a href=\"//www.fsf.org\">"
-msgstr "<a href=\"http://www.fsf.org\">"
+msgstr "<a href=\"//www.fsf.org\">"
 
 #. type: Attribute 'alt' of: <div><blockquote><p><a><img>
 msgid "[FSF logo]"
-msgstr "[Logo da FSF] "
+msgstr "[Logo da FSF]"
 
 #. type: Content of: <div><blockquote><p>
 msgid ""
@@ -82,28 +69,6 @@ msgstr ""
 "direitos dos usuários de Software Livre.”</strong>"
 
 #. type: Content of: <div><p>
-# | The <a [-href=\"http://www.fsf.org\">Free-]
-# | {+href=\"//www.fsf.org\">Free+} Software Foundation</a> is the principal
-# | organizational sponsor of the GNU Operating System.  <strong>Support GNU
-# | and the FSF</strong> by <a [-href=\"http://shop.fsf.org/\">buying-]
-# | {+href=\"//shop.fsf.org/\">buying+} manuals and gear</a>, <a
-# | href=\"https://my.fsf.org/associate/support_freedom?referrer=4052\">
-# | <strong>joining the FSF</strong></a> as an associate member, or making a
-# | <strong>donation</strong>, either <a
-# | [-href=\"http://donate.fsf.org/\">directly-]
-# | {+href=\"//donate.fsf.org/\">directly+} to the FSF</a> or <a
-# | href=\"http{+s+}://flattr.com/thing/313733/gnuproject-on-Flattr\">via
-# | Flattr</a>.
-#, fuzzy
-#| msgid ""
-#| "The <a href=\"http://www.fsf.org\">Free Software Foundation</a> is the "
-#| "principal organizational sponsor of the GNU Operating System.  "
-#| "<strong>Support GNU and the FSF</strong> by <a href=\"http://shop.fsf.org/"
-#| "\">buying manuals and gear</a>, <a href=\"https://my.fsf.org/associate/"
-#| "support_freedom?referrer=4052\"> <strong>joining the FSF</strong></a> as "
-#| "an associate member, or making a <strong>donation</strong>, either <a "
-#| "href=\"http://donate.fsf.org/\">directly to the FSF</a> or <a href="
-#| "\"http://flattr.com/thing/313733/gnuproject-on-Flattr\">via Flattr</a>."
 msgid ""
 "The <a href=\"//www.fsf.org\">Free Software Foundation</a> is the principal "
 "organizational sponsor of the GNU Operating System.  <strong>Support GNU and "
@@ -114,14 +79,14 @@ msgid ""
 "the FSF</a> or <a href=\"https://flattr.com/thing/313733/gnuproject-on-Flattr"
 "\">via Flattr</a>."
 msgstr ""
-"A <a href=\"http://www.fsf.org\">Free Software Foundation</a> é a principal "
-"organização que patrocina o <a href=\"http://www.gnu.org/\">Sistema "
-"Operacional GNU</a>. <strong>Apoie o GNU e a FSF</strong> <a href=\"http://"
-"shop.fsf.org/\">comprando manuais e produtos</a>, <a href=\"http://www.fsf."
-"org/join\">afiliando-se a FSF como um membro associado</a> ou fazendo uma "
-"<strong>doação</strong> <a href=\"http://donate.fsf.org/\">diretamente à "
-"FSF</a> ou <a href=\"http://flattr.com/thing/313733/gnuproject-on-Flattr"
-"\">via Flattr</a>."
+"A <a href=\"//www.fsf.org\">Free Software Foundation</a> é a principal "
+"organização que patrocina o Sistema Operacional GNU. <strong>Apoie o GNU e a "
+"FSF</strong> <a href=\"//shop.fsf.org/\">comprando manuais e produtos</a>, "
+"<a href=\"https://my.fsf.org/associate/support_freedom?referrer=4052\"> "
+"<strong>afiliando-se a FSF</strong></a> como um membro associado ou fazendo "
+"uma <strong>doação</strong> <a href=\"//donate.fsf.org/\">diretamente à FSF</"
+"a> ou <a href=\"https://flattr.com/thing/313733/gnuproject-on-Flattr\">via "
+"Flattr</a>."
 
 # type: Content of: <div><p>
 #~ msgid "<a href=\"/\">GNU&nbsp;home&nbsp;page</a>"
@@ -143,6 +108,8 @@ msgstr ""
 #~ "<a href=\"http://directory.fsf.org\">Diretório&nbsp;de&nbsp;Software&nbsp;"
 #~ "Livre</a>"
 
+# | [-by-]<a [-href=\"http://www.stallman.org/\">Richard Stallman</a>-]
+# | {+href=\"https://h-node.org/\">Hardware</a>+}
 #~| msgid "by <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
 #~ msgid "<a href=\"https://h-node.org/\">Hardware</a>"
 #~ msgstr "<a href=\"https://h-node.org/\">Hardware</a>"

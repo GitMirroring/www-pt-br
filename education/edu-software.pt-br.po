@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: edu-software.html\n"
 "POT-Creation-Date: 2017-09-04 10:56+0000\n"
-"PO-Revision-Date: 2017-07-20 06:51-0200\n"
+"PO-Revision-Date: 2017-09-28 07:25-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -115,28 +115,6 @@ msgstr ""
 "html\">lista de softwares educacionais</a> que nós recomendamos."
 
 #. type: Content of: <p>
-# | People who wish to migrate to Free Software or are looking for a free
-# | libre program to accomplish a particular task, should refer to the <a
-# | href=\"http://directory.fsf.org\">Free Software Directory</a>, which
-# | consists of a catalog of more than 6,000 free programs that run on <a
-# | [-href=\"http://gnu.org/distros/free-distros.html\">free-]
-# | {+href=\"/distros/free-distros.html\">free+} operating systems</a>. In
-# | particular, the <a
-# | href=\"http://directory.fsf.org/category/educ/\">Education</a> section of
-# | the Directory lists programs inherent to different levels of education,
-# | from pre-elementary school to highly specialized levels, including
-# | university and research.
-#, fuzzy
-#| msgid ""
-#| "People who wish to migrate to Free Software or are looking for a free "
-#| "libre program to accomplish a particular task, should refer to the <a "
-#| "href=\"http://directory.fsf.org\">Free Software Directory</a>, which "
-#| "consists of a catalog of more than 6,000 free programs that run on <a "
-#| "href=\"http://gnu.org/distros/free-distros.html\">free operating systems</"
-#| "a>. In particular, the <a href=\"http://directory.fsf.org/category/educ/"
-#| "\">Education</a> section of the Directory lists programs inherent to "
-#| "different levels of education, from pre-elementary school to highly "
-#| "specialized levels, including university and research."
 msgid ""
 "People who wish to migrate to Free Software or are looking for a free libre "
 "program to accomplish a particular task, should refer to the <a href="
@@ -152,8 +130,8 @@ msgstr ""
 "programa livre para realizar uma tarefa em especial, devem acessar o <a href="
 "\"http://directory.fsf.org\">Diretório de Software Livre</a>, que consiste "
 "em um catálogo de mais de 6.000 programas livres para se executar em <a href="
-"\"http://gnu.org/distros/free-distros.html\">sistemas operacionais livres</"
-"a>. Em especial, a seção <a href=\"http://directory.fsf.org/category/educ/"
+"\"/distros/free-distros.html\">sistemas operacionais livres</a>. Em "
+"especial, a seção <a href=\"http://directory.fsf.org/category/educ/"
 "\">Educação</a> do Diretório lista programas inerentes a níveis diferentes "
 "de educação, de escola de educação infantil a níveis altamente "
 "especializados, incluindo universidades e pesquisas."
@@ -229,12 +207,8 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-# | Copyright &copy; 2011, 2012, [-2016-] {+2016, 2017+} Free Software
-# | Foundation, Inc.
-#, fuzzy
-#| msgid "Copyright &copy; 2011, 2012, 2016 Free Software Foundation, Inc."
 msgid "Copyright &copy; 2011, 2012, 2016, 2017 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2011, 2012, 2016 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2011, 2012, 2016, 2017 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -258,3 +232,6 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização: "
+
+#~ msgid "Copyright &copy; 2011, 2012, 2016 Free Software Foundation, Inc."
+#~ msgstr "Copyright &copy; 2011, 2012, 2016 Free Software Foundation, Inc."

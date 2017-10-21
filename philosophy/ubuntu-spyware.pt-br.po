@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-spyware.html\n"
-"POT-Creation-Date: 2016-06-07 05:25+0000\n"
+"POT-Creation-Date: 2017-10-14 08:56+0000\n"
 "PO-Revision-Date: 2017-08-14 06:18-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -169,6 +169,28 @@ msgstr ""
 "que Ubuntu envie a mesma informação."
 
 #. type: Content of: <p>
+# | Ubuntu uses the information about searches to show the user ads to buy
+# | various things from Amazon.  <a
+# | href=\"http://stallman.org/amazon.html\">Amazon commits many wrongs</a>;
+# | by promoting Amazon, Canonical contributes to them.  However, the ads are
+# | not the core of the problem.  The main issue is the spying.  Canonical
+# | says it does not tell Amazon who searched for what.  However, it is just
+# | as bad for Canonical to collect your personal information as it would have
+# | been for Amazon to collect it.  Ubuntu surveillance is <a
+# | [-href=\"http://nathanheafner.com/home/2013/09/22/ubuntu-dash-search-is-not-anonymous/\">not-]
+# | {+href=\"https://jagadees.wordpress.com/2014/08/27/ubuntu-dash-search-is-not-anonymous/\">not+}
+# | anonymous</a>.
+#, fuzzy
+#| msgid ""
+#| "Ubuntu uses the information about searches to show the user ads to buy "
+#| "various things from Amazon.  <a href=\"http://stallman.org/amazon.html"
+#| "\">Amazon commits many wrongs</a>; by promoting Amazon, Canonical "
+#| "contributes to them.  However, the ads are not the core of the problem.  "
+#| "The main issue is the spying.  Canonical says it does not tell Amazon who "
+#| "searched for what.  However, it is just as bad for Canonical to collect "
+#| "your personal information as it would have been for Amazon to collect "
+#| "it.  Ubuntu surveillance is <a href=\"http://nathanheafner.com/"
+#| "home/2013/09/22/ubuntu-dash-search-is-not-anonymous/\">not anonymous</a>."
 msgid ""
 "Ubuntu uses the information about searches to show the user ads to buy "
 "various things from Amazon.  <a href=\"http://stallman.org/amazon.html"
@@ -177,7 +199,7 @@ msgid ""
 "main issue is the spying.  Canonical says it does not tell Amazon who "
 "searched for what.  However, it is just as bad for Canonical to collect your "
 "personal information as it would have been for Amazon to collect it.  Ubuntu "
-"surveillance is <a href=\"http://nathanheafner.com/home/2013/09/22/ubuntu-"
+"surveillance is <a href=\"https://jagadees.wordpress.com/2014/08/27/ubuntu-"
 "dash-search-is-not-anonymous/\">not anonymous</a>."
 msgstr ""
 "Ubuntu usa informações sobre pesquisas para mostrar ao usuário anúncios para "
@@ -411,7 +433,10 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2012, 2016 Richard Stallman"
+# | Copyright &copy; 2012, [-2016-] {+2016, 2017+} Richard Stallman
+#, fuzzy
+#| msgid "Copyright &copy; 2012, 2016 Richard Stallman"
+msgid "Copyright &copy; 2012, 2016, 2017 Richard Stallman"
 msgstr "Copyright &copy; 2012, 2016 Richard Stallman"
 
 #. type: Content of: <div><p>

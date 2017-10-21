@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: free-system-distribution-guidelines.html\n"
-"POT-Creation-Date: 2015-06-25 16:55+0000\n"
+"POT-Creation-Date: 2017-10-17 09:26+0000\n"
 "PO-Revision-Date: 2017-05-20 16:20-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -39,11 +39,23 @@ msgid "Introduction"
 msgstr "Introdução"
 
 #. type: Content of: <p>
+# | The purpose of these guidelines is to explain what it means for an
+# | installable system distribution (such as a [-GNU/Linux-] {+<a
+# | href=\"/gnu/linux-and-gnu.html\">GNU/Linux</a>+} distribution) to qualify
+# | as <a href=\"/philosophy/free-sw.html\">free</a> (libre), and help
+# | distribution developers make their distributions qualify.
+#, fuzzy
+#| msgid ""
+#| "The purpose of these guidelines is to explain what it means for an "
+#| "installable system distribution (such as a GNU/Linux distribution) to "
+#| "qualify as <a href=\"/philosophy/free-sw.html\">free</a> (libre), and "
+#| "help distribution developers make their distributions qualify."
 msgid ""
 "The purpose of these guidelines is to explain what it means for an "
-"installable system distribution (such as a GNU/Linux distribution) to "
-"qualify as <a href=\"/philosophy/free-sw.html\">free</a> (libre), and help "
-"distribution developers make their distributions qualify."
+"installable system distribution (such as a <a href=\"/gnu/linux-and-gnu.html"
+"\">GNU/Linux</a> distribution) to qualify as <a href=\"/philosophy/free-sw."
+"html\">free</a> (libre), and help distribution developers make their "
+"distributions qualify."
 msgstr ""
 "O propósito destas diretrizes é explicar qual o significado de uma "
 "distribuição de sistema instalável (como uma distribuição GNU/Linux) se "
@@ -176,6 +188,12 @@ msgstr ""
 "possuírem somente software livre hoje, isso pode não ser verdade amanhã. "
 "Programas presentes no sistema não devem sugerir a instalação de plugins, "
 "documentação e outros componentes não livres."
+
+#. type: Content of: <p>
+msgid ""
+"For instance, a free system distribution must not contain browsers that "
+"implement EME, the browser functionality designed to load DRM modules."
+msgstr ""
 
 #. type: Content of: <p>
 msgid ""
@@ -699,7 +717,11 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2014, 2015 Free Software Foundation, Inc."
+# | Copyright &copy; 2014, [-2015-] {+2015, 2017+} Free Software Foundation,
+# | Inc.
+#, fuzzy
+#| msgid "Copyright &copy; 2014, 2015 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2014, 2015, 2017 Free Software Foundation, Inc."
 msgstr "Copyright &copy; 2014, 2015 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>

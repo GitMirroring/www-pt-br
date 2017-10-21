@@ -2,19 +2,20 @@
 # Copyright (C) 2013 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnu.org article.
 # Hudson Flávio Meneses Lacerda, 2013
-#
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: stallmans-law.html\n"
 "POT-Creation-Date: 2016-12-27 18:25+0000\n"
-"PO-Revision-Date: 2013-05-22 10:52-0300\n"
-"Last-Translator: Hudson Flávio Meneses Lacerda <hfmlacerda@yahoo.com.br>\n"
+"PO-Revision-Date: 2017-09-29 17:03-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Outdated-Since: 2013-07-03 16:36+0000\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
 
 #. type: Content of: <title>
 msgid "Stallman's Law - GNU Project - Free Software Foundation"
@@ -25,21 +26,14 @@ msgid "Stallman's Law"
 msgstr "A Lei de Stallman"
 
 #. type: Content of: <p>
-# | [-While-]{+Now that+} corporations dominate society and write the laws,
-# | each advance {+or change+} in technology is an opening for them to further
-# | restrict {+or mistreat+} its users.
-#, fuzzy
-#| msgid ""
-#| "While corporations dominate society and write the laws, each advance in "
-#| "technology is an opening for them to further restrict its users."
 msgid ""
 "Now that corporations dominate society and write the laws, each advance or "
 "change in technology is an opening for them to further restrict or mistreat "
 "its users."
 msgstr ""
-"Enquanto corporações dominarem a sociedade e escreverem as leis, cada avanço "
-"em tecnologia será uma oportunidade para que elas restrinjam ainda mais seus "
-"usuários."
+"Agora que as corporações dominam a sociedade e escrevem as leis, cada avanço "
+"ou alteração na tecnologia é uma oportunidade para que elas restrinjam ou "
+"maltratem ainda mais seus usuários."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -88,31 +82,18 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-# | Copyright &copy; [-2012-] {+2012, 2016+} Free Software Foundation, Inc.
-#, fuzzy
-#| msgid "Copyright &copy; 2012 Free Software Foundation, Inc."
 msgid "Copyright &copy; 2012, 2016 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2012 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2012, 2016 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
-# | This page is licensed under a <a rel=\"license\"
-# | [-href=\"http://creativecommons.org/licenses/by-nd/3.0/us/\">Creative-]
-# | {+href=\"http://creativecommons.org/licenses/by-nd/4.0/\">Creative+}
-# | Commons [-Attribution-NoDerivs 3.0 United States-]
-# | {+Attribution-NoDerivatives 4.0 International+} License</a>.
-#, fuzzy
-#| msgid ""
-#| "This page is licensed under a <a rel=\"license\" href=\"http://"
-#| "creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-#| "NoDerivs 3.0 United States License</a>."
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
 "creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
 "NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
-"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
@@ -124,3 +105,6 @@ msgstr "<b>Tradução:</b> Hudson Flávio Meneses Lacerda (maio de 2013)"
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização: "
+
+#~ msgid "Copyright &copy; 2012 Free Software Foundation, Inc."
+#~ msgstr "Copyright &copy; 2012 Free Software Foundation, Inc."

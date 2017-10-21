@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: README.translations.html\n"
 "POT-Creation-Date: 2017-07-30 16:56+0000\n"
-"PO-Revision-Date: 2017-06-05 23:41-0300\n"
+"PO-Revision-Date: 2017-09-28 06:41-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -1167,11 +1167,11 @@ msgstr ""
 msgid ""
 "<code>sr</code> - <a href=\"https://savannah.gnu.org/projects/www-sr"
 "\">Serbian</a> (<a href=\"https://savannah.gnu.org/users/Ctpajgep"
-"\">Strahinya Radich</a> - New coordinator needed)"
+"\">Strahinya Radich</a>)"
 msgstr ""
 "<code>sr</code> - <a href=\"https://savannah.gnu.org/projects/www-sr"
 "\">Sérvio</a> (<a href=\"https://savannah.gnu.org/users/Ctpajgep\">Strahinya "
-"Radich</a> - Novo coordenador necessário)"
+"Radich</a>)"
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -1220,25 +1220,14 @@ msgstr ""
 "\">Andriy Bandura</a>)"
 
 #. type: Content of: <ul><li>
-# | [-<code>zh-tw</code>-]{+<code>zh-cn</code>+} - <a
-# | [-href=\"https://savannah.gnu.org/projects/www-zh-cn\">Traditional-]
-# | {+href=\"https://savannah.gnu.org/projects/www-zh-cn\">Simplified+}
-# | Chinese</a> (<a [-href=\"https://savannah.gnu.org/users/zerngjia\">
-# | Cheng-Chia Tseng</a>)-] {+href=\"https://savannah.gnu.org/users/wxie\">
-# | Xie Wensheng</a>)+}
-#, fuzzy
-#| msgid ""
-#| "<code>zh-tw</code> - <a href=\"https://savannah.gnu.org/projects/www-zh-cn"
-#| "\">Traditional Chinese</a> (<a href=\"https://savannah.gnu.org/users/"
-#| "zerngjia\"> Cheng-Chia Tseng</a>)"
 msgid ""
 "<code>zh-cn</code> - <a href=\"https://savannah.gnu.org/projects/www-zh-cn"
 "\">Simplified Chinese</a> (<a href=\"https://savannah.gnu.org/users/wxie\"> "
 "Xie Wensheng</a>)"
 msgstr ""
-"<code>zh-tw</code> - <a href=\"https://savannah.gnu.org/projects/www-zh-cn"
-"\">Chinês Tradicional</a> (<a href=\"https://savannah.gnu.org/users/zerngjia"
-"\"> Cheng-Chia Tseng</a>)"
+"<code>zh-cn</code> - <a href=\"https://savannah.gnu.org/projects/www-zh-cn"
+"\">Chinês Simplificado</a> (<a href=\"https://savannah.gnu.org/users/wxie\"> "
+"Xie Wensheng</a>)"
 
 #. type: Content of: <ul><li>
 msgid ""

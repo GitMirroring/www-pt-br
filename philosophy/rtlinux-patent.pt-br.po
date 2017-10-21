@@ -1,21 +1,22 @@
-# Brazilian Portuguese translation of http://www.gnu.org/philosophy/rtlinux-patent.html
-# Copyright (C) 2001 Free Software Foundation, Inc.
+# Brazilian Portuguese translation of https://www.gnu.org/philosophy/rtlinux-patent.html
+# Copyright (C) 2017 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Fernando Lozano, 2001.
 # Jan 2015: GNUNify; licensa > licença (T. Godefroy).
-#
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: rtlinux-patent.html\n"
 "POT-Creation-Date: 2014-03-14 04:35+0000\n"
-"PO-Revision-Date: 2015-01-20 21:20+0100\n"
-"Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
+"PO-Revision-Date: 2017-10-21 16:45-0200\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
-"Language: \n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Outdated-Since: 2001-10-14 22:26+0000\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -31,7 +32,7 @@ msgid ""
 "public, license, gpl, general public license, GNU/Linux, Yodaiken, patent"
 msgstr ""
 "GNU, FSF, Fundação para o Softwre Livre, Linux, RTLinux, violação, geral, "
-"pública, license, gpl, licença pública geral, GNU/Linux, Yodaiken, patente"
+"pública, licença, gpl, licença pública geral, GNU/Linux, Yodaiken, patente"
 
 #. type: Attribute 'content' of: <meta>
 msgid ""
@@ -39,6 +40,9 @@ msgid ""
 "come to an agreement on a fully GPL-compliant version of FSMLabs RTLinux "
 "Open Patent License."
 msgstr ""
+"A Free Software Foundation e Finite State Machine Labs (FSMLAbs) chegaram a "
+"um acordo sobre uma versão totalmente compatível com GPL da Licença de "
+"Patente Aberta RTLinux do FSMLabs."
 
 #. type: Content of: <h2>
 msgid "GPL-compliant version of RTLinux Open Patent License in Works"
@@ -50,6 +54,8 @@ msgstr ""
 msgid ""
 "Here is our new announcement as of Oct 8 (its actual posting was delayed)."
 msgstr ""
+"Aqui está o nosso novo anúncio a partir de 8 de outubro (sua publicação "
+"atual foi adiada)."
 
 #. type: Content of: <p>
 msgid ""
@@ -60,6 +66,13 @@ msgid ""
 "Patent No. 5,995,745 in GPL-covered free software without payment of a "
 "royalty.  This license protects GPL use of the RTLinux process."
 msgstr ""
+"A Free Software Foundation e Finite State Machine Labs Inc. (FSMLabs) "
+"anunciaram hoje o lançamento da licença de patente aberta do RTLinux, Versão "
+"2, totalmente compatível com a Licença Pública Geral GNU (GNU GPL) da Free "
+"Software Foundation. A Licença de Patente Aberta concede o direito de usar a "
+"patente norte-americana nº 5.995.745 em software livre coberto pela GPL sem "
+"pagamento de royalties. Esta licença protege o uso da GPL do processo "
+"RTLinux."
 
 #. type: Content of: <p>
 msgid ""
@@ -73,22 +86,23 @@ msgid ""
 "small companies all over the world.  FSF thanks FSMLabs for its continuing "
 "contributions to the free software community."
 msgstr ""
+"FSMLabs e FSF esperam que o lançamento desta licença acelere a taxa de "
+"revolução do software livre nos campos de computação embarcada e em tempo "
+"real. Essas áreas foram isoladas da linha central de progresso no "
+"desenvolvimento de software por software proprietário baseado em segredos e "
+"incompatibilidades projetados para bloquear os clientes em tecnologia "
+"proprietária. A disponibilidade de software livre superior já levou muitos "
+"projetos inovadores de grandes corporações, milhares de indivíduos e "
+"pequenas empresas em todo o mundo. A FSF agradece a FSMLabs por suas "
+"contínuas contribuições para a comunidade de software livre."
 
 #. type: Content of: <p>
-# | {+Here is the previous announcement, which was the subject of our+} <a
-# | [-href=\"/press/2001-09-18-RTLinux.html\">A-]
-# | {+href=\"/press/2001-09-18-RTLinux.html\">18 September+} press [-release
-# | on this matter is also available.</a>-] {+release</a>.+}
-#, fuzzy
-#| msgid ""
-#| "<a href=\"/press/2001-09-18-RTLinux.html\">A press release on this matter "
-#| "is also available.</a>"
 msgid ""
 "Here is the previous announcement, which was the subject of our <a href=\"/"
 "press/2001-09-18-RTLinux.html\">18 September press release</a>."
 msgstr ""
-"Também está disponível um <a href=\"/press/2001-09-18-RTLinux.html\">press "
-"release</a> sobre o assunto."
+"Aqui está o anúncio anterior, que foi o assunto do nosso <a href=\"/"
+"press/2001-09-18-RTLinux.html\">comunicado de imprensa de 18 de setembro</a>."
 
 #. type: Content of: <p>
 msgid ""
@@ -112,7 +126,7 @@ msgstr ""
 "trabalhando para finalizar o texto da licença. O FSMLabs irá publicar em seu "
 "website o texto desta licença, com uma declaração da FSF confirmando que ela "
 "é conforme com a GPL, em um futuro próximo. A FSF já retirou a sua "
-"declaração de 14 de setembro sobre os termos de licensiamento do RTLinux. "
+"declaração de 14 de setembro sobre os termos de licensciamento do RTLinux. "
 "Nossas diferenças se mostraram como sendo em sua maioria resultado de "
 "infelizes mal-entendidos e nós pedimos a todos que esqueçam esta disputa. A "
 "FSF e o FSMLabs esperam continuar a sua cooperação para garantir a "
@@ -186,7 +200,9 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Fernando Lozano <a href=\"mailto:fernando@lozano.eti.br\">&lt;"
-"fernando@lozano.eti.br&gt;</a>"
+"fernando@lozano.eti.br&gt;</a>, 2001;\n"
+"Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome."
+"org&gt;</a>, 2017"
 
 # type: Content of: <div><p>
 #.  timestamp start 

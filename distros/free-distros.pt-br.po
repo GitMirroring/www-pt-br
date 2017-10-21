@@ -1,5 +1,5 @@
 # Brazilian Portuguese translation of http://www.gnu.org/distros/free-distros.html
-# Copyright (C) 2016 Free Software Foundation, Inc.
+# Copyright (C) 2017 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnu.org article.
 # André Silva <andre.paulista@adinet.com.uy>, 2012.
 # Rafael Beraldo <rberaldo@cabaladada.org>, 2012.
@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: free-distros.html\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-22 14:56+0000\n"
-"PO-Revision-Date: 2017-05-20 16:20-0300\n"
+"PO-Revision-Date: 2017-09-29 07:47-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -202,12 +202,8 @@ msgstr ""
 "em conceitos de simplicidade."
 
 #. type: Content of: <table><tr><td><a>
-# | <a [-href=\"http://www.gnu.org/software/guix/\">-]
-# | {+href=\"https://www.dyne.org/software/dynebolic/\">+}
-#, fuzzy
-#| msgid "<a href=\"http://www.gnu.org/software/guix/\">"
 msgid "<a href=\"https://www.dyne.org/software/dynebolic/\">"
-msgstr "<a href=\"http://www.gnu.org/software/guix/\">"
+msgstr "<a href=\"https://www.dyne.org/software/dynebolic/\">"
 
 #. type: Attribute 'alt' of: <table><tr><td><a><img>
 msgid "Dynebolic"

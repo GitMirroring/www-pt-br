@@ -1,0 +1,944 @@
+# Brazilian Portuguese translation of https://www.gnu.org/links/links.html
+# Copyright (C) 2017 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: links.html\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-07 15:26+0000\n"
+"PO-Revision-Date: 2017-07-11 19:57-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid ""
+"Links to Other Free Software Sites - GNU Project - Free Software Foundation"
+msgstr ""
+"Links para outros sites de software livre - Projeto GNU - Free Software "
+"Foundation"
+
+#. type: Content of: <h2>
+msgid "Links to Other Free Software Sites"
+msgstr "Links para outros sites de software livre"
+
+#. type: Content of: <p>
+msgid ""
+"To help promote knowledge of free software that isn't <a href=\"/philosophy/"
+"categories.html#GNUsoftware\">GNU software distributed by the FSF</a>, we "
+"have collected the following links to other web sites that contain free "
+"software, or are directly related to the issue of free software."
+msgstr ""
+"Para ajudar a disseminar o conhecimento de software livre que não seja <a "
+"href=\"/philosophy/categories.html#GNUsoftware\">software GNU distribuído "
+"pela FSF</a>, nós coletamos os seguintes links para outros sites que contêm "
+"software livre, ou que estejam diretamente relacionados com a questão do "
+"software livre."
+
+#. type: Content of: <p>
+msgid ""
+"We do not have links to web sites of the well-known GNU/Linux system "
+"distributions, or to the well-known BSD system distributions, because all "
+"those sites explicitly describe, and facilitate access to, various non-free "
+"programs.  We would be glad to know of other free software web sites that we "
+"could link to here."
+msgstr ""
+"Nós não temos links para sites das tão conhecidas distribuições do sistema "
+"GNU/Linux, ou para as tão conhecidas distribuições do sistema BSD, porque "
+"todos os sites explicitamente descrevem, e facilitam o acesso a, vários "
+"programas não livres. Nós ficaríamos gratos dos outros sites de software "
+"livre que nós pudéssemos mencionar aqui."
+
+#. type: Content of: <p>
+msgid ""
+"<em><span class=\"highlight\">The FSF is not responsible for the contents of "
+"other web sites, or how up-to-date they are.</span></em>"
+msgstr ""
+"<em><span class=\"highlight\">A FSF não é responsável pelo conteúdo de "
+"outros sites, nem quão atualizados eles estão.</span></em>"
+
+#. type: Content of: <h3>
+msgid "Free GNU/Linux distributions"
+msgstr "Distribuições GNU/Linux livres"
+
+#. type: Content of: <p>
+msgid ""
+"We maintain information about <a href=\"/distros/distros.html\"> fully-free "
+"GNU/Linux distributions</a>."
+msgstr ""
+"Nós mantemos informações sobre <a href=\"/distros/distros.html\"> "
+"distribuições GNU/Linux totalmente livres</a>."
+
+#. type: Content of: <h3>
+msgid "Other free operating systems"
+msgstr "Outros sistemas operacionais livres"
+
+#. type: Content of: <p>
+msgid ""
+"We maintain information about <a href=\"/distros/free-non-gnu-distros.html"
+"\"> fully-free system distributions that are not GNU/Linux</a>."
+msgstr ""
+"Nós mantemos informações sobre <a href=\"/distros/free-non-gnu-distros.html"
+"\"> distribuições de sistemas totalmente livres que não são GNU/Linux</a>."
+
+#. type: Content of: <h3>
+msgid "Collections of free software"
+msgstr "Coleções de software livre"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"http://www.delorie.com\">DJ Delorie's site</a>."
+msgstr "<a href=\"http://www.delorie.com\">Site do DJ Delorie</a>."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"https://www.emacswiki.org/emacs/ElispArea\">GNU EmacsWiki: "
+"ElispArea</a>"
+msgstr ""
+"<a href=\"https://www.emacswiki.org/emacs/ElispArea\">GNU EmacsWiki: "
+"ElispArea</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"https://web.archive.org/web/20091208112854/http://ftp.back2roots."
+"org/geekgadgets/\">GNU programs for the Amiga and BeOS</a>"
+msgstr ""
+"<a href=\"https://web.archive.org/web/20091208112854/http://ftp.back2roots."
+"org/geekgadgets/\">Programas GNU para o Amiga e o BeOS</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/software/for-windows.html\">A short list of free software for "
+"Microsoft Windows</a>, for the Windows user who is curious about free "
+"software."
+msgstr ""
+"<a href=\"/software/for-windows.html\">Uma lista curta de softwares livres "
+"do Microsoft Windows</a>, para o usuário do Windows que está curioso sobre "
+"software livre."
+
+#. type: Content of: <h3>
+msgid "Free software documentation"
+msgstr "Documentação de software livre"
+
+#. type: Content of: <p>
+msgid ""
+"The documentation at these sites may be older than the latest <a href=\"/doc/"
+"doc.html\">versions distributed by GNU</a>."
+msgstr ""
+"A documentação desses sites podem ser mais antigas do que as mais recentes "
+"<a href=\"/doc/doc.html\">versões distribuídas pelo GNU</a>."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://en.flossmanuals.net/\">Floss Manuals</a>, a collection of "
+"free manuals for free software."
+msgstr ""
+"<a href=\"http://en.flossmanuals.net/\">Manuais de FLOSS</a>, uma coleção de "
+"manuais livres para o software livre."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://www.delorie.com/gnu/docs/\">GNU manuals at delorie.com.</a>"
+msgstr ""
+"<a href=\"http://www.delorie.com/gnu/docs/\">Manuais GNU no delorie.com</a>."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://www.rocketaware.com/orbit/Lo/\">Reuse RKT</a> provides "
+"links to FAQs, standards and references."
+msgstr ""
+"<a href=\"http://www.rocketaware.com/orbit/Lo/\">Reuse RKT</a> fornece links "
+"para FAQs, padrões e referências."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/software/gnujdoc/gnujdoc.html\">GNUjdoc</a> is a central archive "
+"of Japanese translations of GNU documents."
+msgstr ""
+"<a href=\"/software/gnujdoc/gnujdoc.html\">GNUjdoc</a> é um arquivo central "
+"das traduções para japonês de documentos GNU."
+
+#. type: Content of: <h3>
+msgid "Unofficial GNU sites"
+msgstr "Sites extraoficiais do GNU"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"http://www.cs.pdx.edu/~trent/gnu\">Trent's pages</a>."
+msgstr "<a href=\"http://www.cs.pdx.edu/~trent/gnu\">Páginas do Trent</a>."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://web.archive.org/web/20101223080452/http://www.visuarama.com/"
+"gnuino/gnuino.html\">A Spanish introduction to free software (archived)</a>."
+msgstr ""
+"<a href=\"http://web.archive.org/web/20101223080452/http://www.visuarama.com/"
+"gnuino/gnuino.html\">Uma introdução em espanhol ao software livre (arquivada)"
+"</a>."
+
+#. type: Content of: <h3>
+msgid "Free knowledge &amp; free culture"
+msgstr "Conhecimento livre &amp; cultura livre"
+
+# Set to Portuguese URL, instead of the language-selector initial page --Rafael
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://www.wikipedia.org\">Wikipedia.org</a> - The Free "
+"Encyclopedia."
+msgstr ""
+"<a href=\"https://pt.wikipedia.org/\">Wikipedia.org</a> - A enciclopédia "
+"livre."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://www.ourproject.org\">OurProject.org</a> - Free Software "
+"&amp; Free Knowledge for a Free Society (mostly in Spanish)."
+msgstr ""
+"<a href=\"http://www.ourproject.org\">OurProject.org</a> - Software livre "
+"&amp; conhecimento livre para uma sociedade livre (boa parte em espanhol)."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://www.mutopiaproject.org/\">Mutopia</a> - collects and "
+"distributes free music, and information about free music."
+msgstr ""
+"<a href=\"http://www.mutopiaproject.org/\">Mutopia</a> - coleta e distribui "
+"música livre e informações sobre música livre."
+
+#. type: Content of: <h3>
+msgid "Organizations related to free software"
+msgstr "Organizações relacionadas com o software livre"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://web.archive.org/web/20160801150658/http://mx.gnu.org/\"> "
+"GNU Mexico</a> - The Mexican branch of the GNU Project"
+msgstr ""
+"<a href=\"http://web.archive.org/web/20160801150658/http://mx.gnu.org/\"> "
+"GNU México</a> - A filial mexicana do projeto GNU"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"https://web.archive.org/web/20160306082159/http://es.gnu.org/P"
+"%C3%A1gina_Principal\"> GNU Spain</a> - The Spanish branch of the GNU Project"
+msgstr ""
+"<a href=\"https://web.archive.org/web/20160306082159/http://es.gnu.org/P"
+"%C3%A1gina_Principal\"> GNU Espanha</a> - A filial espanhola do projeto GNU"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://web.archive.org/web/20140418145937/http://it.gnu.org/\"> "
+"GNU Italia</a> - The Italian branch of the GNU Project"
+msgstr ""
+"<a href=\"http://web.archive.org/web/20140418145937/http://it.gnu.org/\"> "
+"GNU Itália</a> - A filial italiana do projeto GNU"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://www.fsfe.org/\">FSF Europe</a>, Free Software Foundation "
+"Europe."
+msgstr ""
+"<a href=\"http://www.fsfe.org/\">FSF Europa</a>, Fundação do Software Livre "
+"Europa."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://fsffrance.org/\">FSF France</a>, Free Software Foundation "
+"France."
+msgstr ""
+"<a href=\"http://fsffrance.org/\">FSF França</a>, Fundação do Software Livre "
+"França."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://gnu.org.in/\">FSF India</a>, Free Software Foundation India."
+msgstr ""
+"<a href=\"http://gnu.org.in/\">FSF Índia</a>, Free Software Foundation India."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://www.fsfla.org\">FSF Latin America</a>, Free Software "
+"Foundation Latin America"
+msgstr ""
+"<a href=\"http://www.fsfla.org\">FSF América Latina</a>, Fundação do "
+"Software Livre América Latina."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://www.gnusolidario.org/\">GNU Solidario</a>, a non-profit "
+"project to help developing countries with health and education using free "
+"software tools"
+msgstr ""
+"<a href=\"http://www.gnusolidario.org/\">GNU Solidário</a>, um projeto sem "
+"fins lucrativos para ajudar a desenvolver países com saúde e educação usando "
+"ferramentas de software livre"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://www.belgeler.org/\">Belgeler.org</a> - A very comprehensive "
+"Turkish Translation project including philosophical writings about Free "
+"Software"
+msgstr ""
+"<a href=\"http://www.belgeler.org/\">Belgeler.org</a> - Um projeto muito "
+"compreensivo de tradução para turco incluindo escritas filosóficas sobre "
+"software livre"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"http://www.april.org/\">APRIL</a>"
+msgstr "<a href=\"http://www.april.org/\">APRIL</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://ec.europa.eu/internal_market/indprop/docs/comp/replies/"
+"appendix44_en.pdf\"> European Software Patent Horror Gallery</a>"
+msgstr ""
+"<a href=\"http://ec.europa.eu/internal_market/indprop/docs/comp/replies/"
+"appendix44_en.pdf\"> Galeria europeia de horror dos softwares patenteados</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://eupat.ffii.org/\">FFII: Protecting Information Innovation "
+"against the Abuse of the Patent System</a>"
+msgstr ""
+"<a href=\"http://eupat.ffii.org/\">FFII: Protegendo inovações da informação "
+"contra o abuso do sistema de patentes</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://endsoftpatents.org/\">End Software Patents campaign </a>"
+msgstr ""
+"<a href=\"http://endsoftpatents.org/\">Campanha End Software Patents</a> (em "
+"português: Fim das Patentes de Software)"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://www.plos.org/\">Public Library of Science</a> organizes "
+"support for online public libraries of science."
+msgstr ""
+"<a href=\"http://www.plos.org/\">Public Library of Science</a> (em "
+"português: Biblioteca Pública de Ciência) organiza apoio a bibliotecas "
+"públicas online de ciência."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://www.opencores.org\">OpenCores.Org</a> is a volunteer group "
+"interested in developing hardware, with a similar ethos to the free software "
+"movement."
+msgstr ""
+"<a href=\"http://www.opencores.org\">OpenCores.Org</a> é um grupo de "
+"voluntários interessados no desenvolvimento de hardware, com um ethos "
+"similar ao movimento software livre."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://www.openstreetmap.org\">OpenStreetMap is a free editable "
+"map of the whole world. OpenStreetMap allows you to freely view, edit and "
+"use geographical data in a collaborative way.</a>"
+msgstr ""
+"<a href=\"http://www.openstreetmap.org\">OpenStreetMap é um mapa livre "
+"editável de todo o mundo. OpenStreetMap permite que você veja, edite e use "
+"livremente dados geográficos em uma forma colaborativa.</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://www.freemodelfoundry.com/\">The Free Model Foundry</a> - "
+"for electrical engineers, free simulation models of digital components."
+msgstr ""
+"<a href=\"http://www.freemodelfoundry.com/\">The Free Model Foundry</a> - "
+"para engenheiros elétricos, modelos livres simulação de componentes digitais."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://www.crynwr.com/cgi-bin/ezmlm-cgi/0/\">Archives</a> of the "
+"Free Software Business mailing list"
+msgstr ""
+"<a href=\"http://www.crynwr.com/cgi-bin/ezmlm-cgi/0/\">Arquivos</a> da lista "
+"de discussão Free Software Business"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://www.ffii.org\">Foundation for a Free Informational "
+"Infrastructure (FFII)</a>"
+msgstr ""
+"<a href=\"http://www.ffii.org\">Foundation for a Free Informational "
+"Infrastructure (FFII)</a>"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"http://h2oproject.law.harvard.edu/\">OpenCode (H2O)</a>"
+msgstr "<a href=\"http://h2oproject.law.harvard.edu/\">OpenCode (H2O)</a>"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"http://freegis.org\">FreeGIS Project</a>"
+msgstr "<a href=\"http://freegis.org\">Projeto FreeGIS</a>"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"https://translationproject.org\">Translation Project</a>"
+msgstr "<a href=\"https://translationproject.org\">Translation Project</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"https://web.archive.org/web/20150420025426/http://www.ofset.org/"
+"tiki-index.php\" id=\"OFSET\">OFSET</a> - The Organization for Free Software "
+"in Education and Teaching."
+msgstr ""
+"<a href=\"https://web.archive.org/web/20150420025426/http://www.ofset.org/"
+"tiki-index.php\" id=\"OFSET\">OFSET</a> - Uma organização para software "
+"livre na educação e no ensino."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://web.archive.org/web/20060725024828/http://www.cipsga.org.br/"
+"\"> CIPSGA [Archived Page]</a> (closed in 2010 in <a href=\"http://web."
+"archive.org/web/20101007124617/http://www.cipsga.org.br/\"> protest against "
+"software patents</a>)."
+msgstr ""
+"<a href=\"http://web.archive.org/web/20060725024828/http://www.cipsga.org.br/"
+"\"> CIPSGA [página arquivada]</a> (fechada em 2010 em <a href=\"http://web."
+"archive.org/web/20101007124617/http://www.cipsga.org.br/\"> protesto contra "
+"patentes de software</a>)."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://web.archive.org/web/20070110042254/http://www.plugincinema."
+"com/plugin/plugin_cinema/pffp.htm\"> pFFP [Archived Page]</a> - The "
+"plugincinema Free Film Project promotes the use of free software to make and "
+"distribute films."
+msgstr ""
+"<a href=\"http://web.archive.org/web/20070110042254/http://www.plugincinema."
+"com/plugin/plugin_cinema/pffp.htm\"> pFFP [página arquivada]</a> - o Free "
+"Film Project (ou Projeto de Filme Livre) plugincinema promove o uso de "
+"software livre para fazer e distribuir filmes."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://www.softwarelivre.org\">Free Software Project in Brazil</a>"
+msgstr ""
+"<a href=\"http://www.softwarelivre.org\">Projeto Software Livre no Brasil</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"https://web.archive.org/web/20150701183307/http://www.fscorsica.org"
+"\">Free Software Corsica</a> promotes free software and hardware that "
+"supports <a href=\"/distros/free-distros.html\">free GNU/Linux "
+"distributions</a> in Corsica."
+msgstr ""
+"<a href=\"https://web.archive.org/web/20150701183307/http://www.fscorsica.org"
+"\">Software Livre Córsica</a> promove software e hardware livre que apoia <a "
+"href=\"/distros/free-distros.html\">distribuições GNU/Linux livres</a> na "
+"Córsica."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://www.gnulinuxclub.org\">GnuLinuxClub.org</a>, dedicated to "
+"the propagation and usage of GNU/Linux and Free Software among the general "
+"computer users community."
+msgstr ""
+"<a href=\"http://www.gnulinuxclub.org\">GnuLinuxClub.org</a>, dedicado à "
+"propagação e uso de GNU/Linux e Software Livre entre a comunidade geral de "
+"usuários de computador."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://www.vialibre.org.ar\">Fundacion via libre</a>, an "
+"organization which promotes sharing and development of the knowledge based "
+"on free software movement principles."
+msgstr ""
+"<a href=\"http://www.vialibre.org.ar\">Fundacion via libre</a>, uma "
+"organização que promove compartilhamento e desenvolvimento do conhecimento "
+"baseado em princípios do movimento software livre."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"https://web.archive.org/web/20150716194823/http://www.sugarlabs."
+"org/\">Sugar Labs</a>, an organization set up to continue development of the "
+"Sugar desktop environment."
+msgstr ""
+"<a href=\"https://web.archive.org/web/20150716194823/http://www.sugarlabs."
+"org/\">Sugar Labs</a>, uma organização criada para continuar o "
+"desenvolvimento do ambiente de área de trabalho Sugar."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://www.ffkp.se/\">FFKP</a>, an organization that promotes free "
+"culture and software based in Sweden."
+msgstr ""
+"<a href=\"http://www.ffkp.se/\">FFKP</a>, uma organização que promove "
+"cultura e software livre na Suécia."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://ceata.org/\">Fundația Ceata</a>, Romanian foundation "
+"fighting for Free Software and Free Culture."
+msgstr ""
+"<a href=\"http://ceata.org/\">Fundația Ceata</a>, fundação romena lutando "
+"pelo Software Livre e Cultura Livre."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"https://sfconservancy.org\">Software Freedom Conservancy, Inc.</"
+"a>, a 501(c)(3) not-for-profit organization incorporated in New York. They "
+"help promote, improve, develop, and defend Free, Libre, and Open Source "
+"Software (FLOSS) projects."
+msgstr ""
+"<a href=\"https://sfconservancy.org\">Software Freedom Conservancy, Inc.</"
+"a>, uma organização sem fins lucrativos 501(c)(3) incorporada em Nova "
+"Iorque. Elas ajudam a promover, melhorar, desenvolver e defender projetos "
+"software de código livre, libre e aberto (FLOSS, do inglês “Free, Libre, and "
+"Open Source Software”)."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Several companies sell <a href=\"companies.html\">computers with GNU/Linux "
+"preinstalled</a>."
+msgstr ""
+"Diversas empresas vendem <a href=\"companies.html\">computadores com GNU/"
+"Linux pré-instalado</a>."
+
+#. type: Content of: <h3>
+msgid ""
+"Companies that support free software development, and exclusively free "
+"software development"
+msgstr ""
+"Empresas que apoiam o desenvolvimento de software livre, e desenvolvem "
+"exclusivamente software livre"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"http://www.solis.coop.br\">Solis Coop</a> (in Portuguese)"
+msgstr "<a href=\"http://www.solis.coop.br\">Solis Coop</a> (em português)"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"http://www.gnat.com/\">Ada Core Technologies</a>"
+msgstr "<a href=\"http://www.gnat.com/\">Ada Core Technologies</a>"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"http://www.intevation.de/\">Intevation GmbH</a>"
+msgstr "<a href=\"http://www.intevation.de/\">Intevation GmbH</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://www.propus.com.br\">Propus Software Livre</a> (partly in "
+"Portuguese)"
+msgstr ""
+"<a href=\"http://www.propus.com.br\">Propus Software Livre</a> (parcialmente "
+"em português)"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"http://www.prosa.it/\">PROSA</a> (partly in Italian)"
+msgstr "<a href=\"http://www.prosa.it/\">PROSA</a> (parcialmente em italiano)"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"http://josefsson.org/\">Simon Josefsson Datakonsult AB</a>"
+msgstr "<a href=\"http://josefsson.org/\">Simon Josefsson Datakonsult AB</a>"
+
+#. type: Content of: <h3>
+msgid ""
+"Organizations that work for freedom in computer development and electronic "
+"communications"
+msgstr ""
+"Organizações que trabalham para a liberdade no desenvolvimento de computador "
+"e comunicações de eletrônicos"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"http://www.opencores.org\">OpenCores</a>"
+msgstr "<a href=\"http://www.opencores.org\">OpenCores</a>"
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"The OpenCores project exists to further the aims of the Open IP Core "
+"definition, which has the following tenets: information on using the "
+"hardware must be available; the design of the hardware must be available; "
+"design software for hardware must be available."
+msgstr ""
+"O projeto OpenCores existe para promover o objetivo da definição Open IP "
+"Core, que tem os seguintes princípios: informações sobre o uso do hardware "
+"devem estar disponível; o design do hardware deve estar disponível; o design "
+"de software para hardware deve estar disponível."
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"https://lumendatabase.org/\">Lumen</a>"
+msgstr "<a href=\"https://lumendatabase.org/\">Lumen</a>"
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"Lumen, formerly Chilling Effects, is a collection point for cease and desist "
+"notices concerning online activity &mdash; we invite visitors to enter C&amp;"
+"Ds they have received or sent.  The website collects the C&amp;Ds in a "
+"searchable database and hyperlinks them to explanations of the legal issues."
+msgstr ""
+"Lumen, anteriormente Chilling Effects, é um ponto de coleta para avisos de "
+"cessar e desistir sobre atividades on-line &mdash; nós convidamos visitantes "
+"a entrar nos C&amp;Ds que eles receberam ou enviaram.  O site coleta os "
+"C&amp;Ds em um banco de dados pesquisável e faz hiperlinks deles para "
+"explicações das questões legais."
+
+#. type: Content of: <ul><li>
+msgid "The League for Programming Freedom"
+msgstr "A League for Programming Freedom"
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"The League for Programming Freedom is an organization that opposes software "
+"patents and user interface copyrights."
+msgstr ""
+"League for Programming Freedom (em português: Liga pela Liberdade de "
+"Programação) é uma organização que se opõe a patentes de software e "
+"copyrights de interface de usuário."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"The League for Programming Freedom is inactive now.  Please join our <a href="
+"\"http://endsoftpatents.org\">End Software Patents</a> campaign!"
+msgstr ""
+"A League for Programming Freedom está inativa agora. Por favor, junte-se à "
+"nossa campanha <a href=\"http://endsoftpatents.org\">End Software Patents</"
+"a>!"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"http://eff.org\">Electronic Frontier Foundation</a>"
+msgstr "<a href=\"http://eff.org\">Electronic Frontier Foundation</a>"
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"EFF, the Electronic Frontier Foundation, is a non-profit, non-partisan "
+"organization working in the public interest to protect fundamental civil "
+"liberties, including privacy and freedom of expression, in the arena of "
+"computers and the Internet."
+msgstr ""
+"A EFF (em português: Fundação Fronteira Eletrônica), é uma organização "
+"apartidária e sem fins lucrativos trabalhando no interesse público à "
+"proteção de liberdades civis fundamentais, incluindo privacidade e liberdade "
+"de expressão, na arena de computadores e da Internet."
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"http://epic.org\">Electronic Privacy Information Center</a>"
+msgstr "<a href=\"http://epic.org\">Electronic Privacy Information Center</a>"
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"EPIC is a public interest research center in Washington, D.C. It was "
+"established in 1994 to focus public attention on emerging civil liberties "
+"issues and to protect privacy, the First Amendment, and constitutional "
+"values."
+msgstr ""
+"O EPIC (em português: Centro de Informação sobre Privacidade Eletrônica), é "
+"um centro de pesquisa de interesse público em Washington, D.C. Ela foi "
+"criada em 1994 para focar atenção pública em questões emergentes de "
+"liberdades civis e para proteger privacidade, a Primeira Emenda e valores "
+"constitucionais."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://www.cpsr.org\">Computer Professionals for Social "
+"Responsibility</a> (dissolved in 2013)"
+msgstr ""
+"<a href=\"http://www.cpsr.org\">Computer Professionals for Social "
+"Responsibility</a> (dissolvida em 2013)"
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"CPSR was a public-interest alliance of computer scientists and others "
+"concerned about the impact of computer technology on society. They worked to "
+"influence decisions regarding the development and use of computers because "
+"those decisions have far-reaching consequences and reflect our basic values "
+"and priorities."
+msgstr ""
+"A CPSR (em português: Profissionais de Computação com Responsabilidade "
+"Social) era uma aliança de interesse público de cientistas da computação e "
+"outros preocupados com o impacto da tecnologia da computação na sociedade. "
+"Eles trabalharam para influenciar as decisões sobre o desenvolvimento e uso "
+"de computadores, porque essas decisões têm consequência de longo alcance e "
+"refletem nossos valores básicos e prioridades."
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"http://www.aclu.org\">American Civil Liberties Union</a>"
+msgstr ""
+"<a href=\"http://www.aclu.org\">União Americana pelas Liberdades Civis</a>"
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"The American Civil Liberties Union is the nation's foremost advocate of "
+"individual rights &mdash; litigating, legislating, and educating the public "
+"on a broad array of issues affecting individual freedom in the United States."
+msgstr ""
+"A União Americana pelas Liberdades Civis (em inglês: American Civil "
+"Liberties Union) é o principal defensor da nação de direitos individuais "
+"&mdash; litigando, legislando e educando o público em uma ampla gama de "
+"questões que afetam a liberdade individual nos Estados Unidos."
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"http://www.gilc.org\">Global Internet LibertyCampaign</a>"
+msgstr "<a href=\"http://www.gilc.org\">Global Internet LibertyCampaign</a>"
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"The GILC comprises of members from American Civil Liberties Union, the "
+"Electronic Privacy Information Center, Human Rights Watch, the Internet "
+"Society, Privacy International, the Association des Utilisateurs d'Internet, "
+"and other civil liberties and human rights organizations. They advocate the "
+"prohibition of censorship of on-line communication, and insist that on-line "
+"free expression should not be restricted by indirect means such as "
+"excessively restrictive governmental or private controls over computer "
+"hardware or software, telecommunications infrastructure, or other essential "
+"components of the Internet."
+msgstr ""
+"A GILC (em português: Campanha Global pela Liberdade na Internet) é composta "
+"por membros da American Civil Liberties Union, do Electronic Privacy "
+"Information Centre, da Human Rights Watch, da Internet Society, da Privacy "
+"International, da Association des Utilisateurs d'Internet e de outras "
+"liberdades civis e organizações de direitos humanos. Eles defendem a "
+"proibição da censura de comunicação online e insistem em que a liberdade de "
+"expressão online não deve ser restringida por meios indiretos, tais como "
+"controles governamentais ou privados excessivamente restritivos em hardware "
+"ou software de computador, infraestrutura de telecomunicações ou outros "
+"componentes essenciais da Internet."
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"http://www.efa.org.au/\">Electronic Frontiers Australia</a>"
+msgstr ""
+"<a href=\"http://www.efa.org.au/\">Fronteiras Eletrônicas da Austrália</a>"
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"Electronic Frontiers Australia Inc. (EFA) is a non-profit national "
+"organisation representing Internet users concerned with on-line freedoms and "
+"rights."
+msgstr ""
+"A EFA (em inglês: Electronic Frontiers Australia Inc.) é uma organização "
+"nacional sem fins lucrativos representando usuários da Internet preocupados "
+"com as liberdades e direitos online."
+
+#.  <a href="http://www.libertadinformacion.org/">
+#.  
+#.  </a>
+#.  
+#. type: Content of: <ul><li>
+msgid "Asociación por la Libertad de la Información"
+msgstr "Asociación por la Libertad de la Información"
+
+#. type: Content of: <ul><li><p>
+msgid "An association fighting for freedom of information in Spain."
+msgstr "Uma associação que luta pela liberdade de informação na Espanha."
+
+#. type: Content of: <h3>
+msgid "Hosting"
+msgstr "Hospedagem"
+
+#. type: Content of: <p>
+msgid ""
+"These sites provide hosting for free software packages, focused on source "
+"code.  We don't list other well-known hosting sites since they have "
+"advertisements or other encouragement for proprietary software.  As usual, "
+"contact us at &lt;webmasters@gnu.org&gt; if you have suggestions for the "
+"list."
+msgstr ""
+"Esses sites fornecem hospedagem para pacotes de software livre, com foco em "
+"código-fonte. Nós não listamos outros sites de hospedagem bem conhecidos, "
+"pois eles têm anúncios e outros incentivos para software proprietário. Como "
+"de costume, contate-nos em &lt;webmasters@gnu.org&gt; se você tiver "
+"sugestões para a lista."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://savannah.gnu.org/\">Savannah</a>, a hosting site provided "
+"by GNU for both GNU and non-GNU packages. <a href=\"/software/devel.html"
+"\">More info.</a>"
+msgstr ""
+"<a href=\"http://savannah.gnu.org/\">Savannah</a>, o site de hospedagem "
+"fornecido pelo GNU para ambos pacotes GNU e não GNU. <a href=\"/software/"
+"devel.html\">Mais informações</a>."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Gna! (discontinued), the hosting site provided by FSF France, with support "
+"from the French company Free."
+msgstr ""
+"Gna (descontinuado), o site de hospedagem fornecido pela FSF França, com "
+"apoio da empresa francesa Free."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://puszcza.gnu.org.ua/\">Puszcza</a> (pronounced \"push-cha"
+"\"), the hosting site maintained by long-time GNU volunteer Sergey "
+"Poznyakoff in Ukraine."
+msgstr ""
+"<a href=\"http://puszcza.gnu.org.ua/\">Puszcza</a> (pronunciado “puxe-"
+"tcha”), o site de hospedagem mantido pelo voluntário do GNU de longa data "
+"Sergey Poznyakoff na Ucrânia."
+
+#. type: Content of: <h3>
+msgid "News about free software"
+msgstr "Notícias sobre software livre"
+
+#. type: Content of: <p>
+msgid "These sites offer updated news about GNU and other free software."
+msgstr ""
+"Esses sites oferecem notícias atualizadas sobre GNU e outros softwares lives."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"//www.fsf.org/free-software-supporter/\">Free Software Supporter</"
+"a> (translated into Spanish and French)."
+msgstr ""
+"<a href=\"//www.fsf.org/free-software-supporter/\">Free Software Supporter</"
+"a> (traduzido para espanhol e francês)."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://planet.gnu.org\">planet.gnu.org</a>, aggregation of blogs "
+"and news announcements from GNU packages."
+msgstr ""
+"<a href=\"http://planet.gnu.org\">planet.gnu.org</a>, agregação de blogs e "
+"anúncios notícias de pacotes GNU."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://singapore.gnu.googlepages.com/press\">Press/News</a>, free "
+"software news from a Singapore GNU users group (inactive since May 2009)."
+msgstr ""
+"<a href=\"http://singapore.gnu.googlepages.com/press\">Press/News</a>, "
+"notícias sobre software livre de um grupo de usuários GNU de Cingapura "
+"(inativo desde maio de 2009)."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://web.archive.org/web/20160913034809/http://gnuticias.es.gnu."
+"org/\"> GNUticias</a> (in Spanish), archived news about free software and "
+"the GNU Project."
+msgstr ""
+"<a href=\"http://web.archive.org/web/20160913034809/http://gnuticias.es.gnu."
+"org/\"> GNUticias</a> (em espanhol), notícias arquivadas sobre software "
+"livre e o Projeto GNU."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+# type: Content of: <div><p>
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF.  Links quebrados e outras correções ou "
+"sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2014, 2015, 2016, 2017 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2014, 2015, 2016, 2017 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Hélder M. Botter Ribas <a href=\"mailto:helder@grad.icmc.sc."
+"usp.br\">&lt;helder@grad.icmc.sc.usp.br&gt;</a>, 2001;\n"
+"Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome."
+"org&gt;</a>, 2017."
+
+# type: Content of: <div><p>
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização: "
+
+#~ msgid ""
+#~ "To help promote knowledge of free software that isn't <a href=\"/"
+#~ "philosophy/categories.html#GNUsoftware\">GNU software distributed by the "
+#~ "FSF</a>, we have collected the following links to other web sites that "
+#~ "contain free software, or is directly related to the issue of free "
+#~ "software."
+#~ msgstr ""
+#~ "Para ajudar a disseminar o conhecimento de software livre que não seja <a "
+#~ "href=\"/philosophy/categories.html#GNUsoftware\">software GNU distribuído "
+#~ "pela FSF</a>, nós coletamos os seguintes links para outros sites que "
+#~ "contêm software livre, ou que estejam diretamente relacionados com a "
+#~ "questão do software livre."
+
+#~ msgid ""
+#~ "<a href=\"http://www.mibsoftware.com/reuse/\">Reuse RKT</a> provides "
+#~ "links to FAQs, standards and references."
+#~ msgstr ""
+#~ "<a href=\"http://www.mibsoftware.com/reuse/\">Reuse RKT</a> fornece links "
+#~ "para FAQs, padrões e referências."
+
+#~ msgid ""
+#~ "Belgeler.org (unavailable at this time) - A very comprehensive Turkish "
+#~ "Translation project including philosophical writings about Free Software"
+#~ msgstr ""
+#~ "Belgeler.org (indisponível neste momento) - Um projeto muito compreensivo "
+#~ "de tradução para turco incluindo escritas filofósicas sobre software livre"
+
+#~ msgid ""
+#~ "<a href=\"http://translation.sourceforge.net\">Translation Project</a>"
+#~ msgstr ""
+#~ "<a href=\"http://translation.sourceforge.net\">Translation Project</a>"
+
+#~ msgid "<a href=\"http://www.chillingeffects.org\">chillingeffects.org</a>"
+#~ msgstr "<a href=\"http://www.chillingeffects.org\">chillingeffects.org</a>"
+
+#~ msgid ""
+#~ "Chilling Effects is a collection point for cease and desist notices "
+#~ "concerning online activity &mdash; we invite visitors to enter C&amp;Ds "
+#~ "they have received or sent.  The website collects the C&amp;Ds in a "
+#~ "searchable database and hyperlinks them to explanations of the legal "
+#~ "issues."
+#~ msgstr ""
+#~ "Chilling Effects é um ponto de coleta para avisos de cessar e desistir "
+#~ "sobre atividades on-line &mdash; nós convidamos visitantes a entrar nos "
+#~ "C&amp;Ds que eles receberam ou enviaram.  O site coleta os C&amp;Ds em um "
+#~ "banco de dados pesquisável e faz hiperlinks deles para explicações das "
+#~ "questões legais."
+
+#~ msgid ""
+#~ "<a href=\"http://gna.org/\">Gna</a>, the hosting site provided by FSF "
+#~ "France, with support from the French company Free."
+#~ msgstr ""
+#~ "<a href=\"http://gna.org/\">Gna</a>, o site de hospedagem fornecido pela "
+#~ "FSF França, com apoio da empresa francesa Free."
