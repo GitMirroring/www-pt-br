@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: the-root-of-this-problem.html\n"
-"POT-Creation-Date: 2014-05-26 10:56+0000\n"
+"POT-Creation-Date: 2017-10-29 13:26+0000\n"
 "PO-Revision-Date: 2013-05-18 17:36-0300\n"
 "Last-Translator: Hudson Flávio Meneses Lacerda <hfmlacerda@yahoo.com.br>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -87,7 +87,7 @@ msgstr ""
 # | Media Player, Microsoft Windows, and MacOS.  Windows Vista does all three
 # | of those things; it also lets Microsoft change the software without
 # | asking, or command it to permanently cease normal [-functioning.-]
-# | {+functioning.<a href=\"#note1\">(1)</a>+}
+# | {+functioning (<a href=\"#note1\">1</a>).+}
 #, fuzzy
 #| msgid ""
 #| "It is true that a general computer lets you run programs designed to spy "
@@ -103,7 +103,7 @@ msgid ""
 "Flash Player, Windows Media Player, Microsoft Windows, and MacOS.  Windows "
 "Vista does all three of those things; it also lets Microsoft change the "
 "software without asking, or command it to permanently cease normal "
-"functioning.<a href=\"#note1\">(1)</a>"
+"functioning (<a href=\"#note1\">1</a>)."
 msgstr ""
 "É verdade que um computador de uso geral permite a execução de programas "
 "projetados para <a href=\"/philosophy/proprietary.html\">lhe espionar, "
@@ -435,14 +435,27 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2008, 2010 Richard M. Stallman"
+# | Copyright &copy; 2008, [-2010-] {+2010, 2017+} Richard M. Stallman
+#, fuzzy
+#| msgid "Copyright &copy; 2008, 2010 Richard M. Stallman"
+msgid "Copyright &copy; 2008, 2010, 2017 Richard M. Stallman"
 msgstr "Copyright &copy; 2008, 2010 Richard M. Stallman"
 
 #. type: Content of: <div><p>
+# | This page is licensed under a <a rel=\"license\"
+# | [-href=\"http://creativecommons.org/licenses/by-nd/3.0/us/\">Creative-]
+# | {+href=\"http://creativecommons.org/licenses/by-nd/4.0/\">Creative+}
+# | Commons [-Attribution-NoDerivs 3.0 United States-]
+# | {+Attribution-NoDerivatives 4.0 International+} License</a>.
+#, fuzzy
+#| msgid ""
+#| "This page is licensed under a <a rel=\"license\" href=\"http://"
+#| "creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+#| "NoDerivs 3.0 United States License</a>."
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
 "creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "

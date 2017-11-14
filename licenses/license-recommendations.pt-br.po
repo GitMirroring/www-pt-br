@@ -1,12 +1,12 @@
-# LANGUAGE translation of http://www.gnu.org/licenses/license-recommendations.html
-# Copyright (C) YEAR Free Software Foundation, Inc.
+# LANGUAGE translation of https://www.gnu.org/licenses/license-recommendations.html
+# Copyright (C) 2017 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2016.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2016, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: license-recommendations.html\n"
 "POT-Creation-Date: 2017-10-16 19:56+0000\n"
-"PO-Revision-Date: 2017-05-20 16:20-0300\n"
+"PO-Revision-Date: 2017-10-21 18:13-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -172,19 +172,6 @@ msgstr ""
 "estratégia de licenciamento."
 
 #. type: Content of: <p>
-# | For most programs, we recommend that you use the most recent version of
-# | the <a href=\"/licenses/gpl.html\">GNU General Public License (GPL)</a>
-# | for your project.  Its strong copyleft is appropriate for all kinds of
-# | software, and includes numerous protections for users' freedom.  {+Please
-# | give permission to use future license versions as well&mdash;in other
-# | words, make the license notice say that your program is covered by GPL
-# | version 3 or later.+}
-#, fuzzy
-#| msgid ""
-#| "For most programs, we recommend that you use the most recent version of "
-#| "the <a href=\"/licenses/gpl.html\">GNU General Public License (GPL)</a> "
-#| "for your project.  Its strong copyleft is appropriate for all kinds of "
-#| "software, and includes numerous protections for users' freedom."
 msgid ""
 "For most programs, we recommend that you use the most recent version of the "
 "<a href=\"/licenses/gpl.html\">GNU General Public License (GPL)</a> for your "
@@ -196,19 +183,26 @@ msgstr ""
 "Para a maioria dos programas, nós recomendamos que você use a versão mais "
 "recente da <a href=\"/licenses/gpl.html\">Licença Pública Geral GNU (GPL)</"
 "a> para seu projeto. Seu copyleft forte é apropriado para todos tipos de "
-"software e inclui diversas proteções para a liberdade dos usuários."
+"software e inclui diversas proteções para a liberdade dos usuários. Por "
+"favor, dê permissão para usar versões futuras da licenças também &mdash; em "
+"outras palavras, faça com que a nota de licença fale que o seu programa está "
+"coberto pela GPL versão 3 ou posterior."
 
 #. type: Content of: <p>
 msgid ""
 "Here is more advice about <a href=\"/licenses/gpl-howto.html\">how to "
 "release a program under the GNU GPL</a>."
 msgstr ""
+"Aqui você encontra mais conselhos sobre <a href=\"/licenses/gpl-howto.html"
+"\">como lançar um programa sob a GNU GPL</a>."
 
 #. type: Content of: <p>
 msgid ""
 "Now for the exceptions, where it is better to use some other licenses "
 "instead of the GNU GPL."
 msgstr ""
+"Agora, para as exceções, casos em que é melhor usar algumas outras licenças "
+"em vez da GNU GPL."
 
 #. type: Content of: <h4>
 msgid "Small programs"
@@ -550,14 +544,10 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-# | Copyright &copy; 2011, 2013, 2014, [-2015-] {+2015, 2017+} Free Software
-# | Foundation, Inc.
-#, fuzzy
-#| msgid ""
-#| "Copyright &copy; 2011, 2013, 2014, 2015 Free Software Foundation, Inc."
 msgid ""
 "Copyright &copy; 2011, 2013, 2014, 2015, 2017 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2011, 2013, 2014, 2015 Free Software Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2011, 2013, 2014, 2015, 2017 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

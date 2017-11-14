@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: free-software-even-more-important.html\n"
-"POT-Creation-Date: 2017-08-27 15:56+0000\n"
+"POT-Creation-Date: 2017-11-07 13:56+0000\n"
 "PO-Revision-Date: 2017-10-21 14:32-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -85,13 +85,29 @@ msgstr ""
 "sobre os usuários, poder que ninguém deveria ter."
 
 #. type: Content of: <p>
+# | Those two nonfree programs have something else in common: they are both
+# | <em>malware</em>.  That is, both have functionalities designed to mistreat
+# | the user.  Proprietary software nowadays is often malware because <a
+# | [-href=\"/proprietary/proprietary.html\">the-] {+href=\"/malware/\">the+}
+# | developers' power corrupts them</a>.  That directory lists around 300
+# | different malicious functionalities (as of Apr 2017), but it is surely
+# | just the tip of the iceberg.
+#, fuzzy
+#| msgid ""
+#| "Those two nonfree programs have something else in common: they are both "
+#| "<em>malware</em>.  That is, both have functionalities designed to "
+#| "mistreat the user.  Proprietary software nowadays is often malware "
+#| "because <a href=\"/proprietary/proprietary.html\">the developers' power "
+#| "corrupts them</a>.  That directory lists around 300 different malicious "
+#| "functionalities (as of Apr 2017), but it is surely just the tip of the "
+#| "iceberg."
 msgid ""
 "Those two nonfree programs have something else in common: they are both "
 "<em>malware</em>.  That is, both have functionalities designed to mistreat "
 "the user.  Proprietary software nowadays is often malware because <a href=\"/"
-"proprietary/proprietary.html\">the developers' power corrupts them</a>.  "
-"That directory lists around 300 different malicious functionalities (as of "
-"Apr 2017), but it is surely just the tip of the iceberg."
+"malware/\">the developers' power corrupts them</a>.  That directory lists "
+"around 300 different malicious functionalities (as of Apr 2017), but it is "
+"surely just the tip of the iceberg."
 msgstr ""
 "Esses dois programas não livres têm algo mais em comum: ambos são "
 "<em>malwares</em>.  Ou seja, ambos têm funcionalidades concebidas para "
@@ -115,12 +131,24 @@ msgstr ""
 "fazer)."
 
 #. type: Content of: <p>
+# | With proprietary software, the program controls the users, and some other
+# | entity (the developer or &ldquo;owner&rdquo;) controls the program.  So
+# | the proprietary program gives its developer power over its users.  That is
+# | unjust in [-itself, and-] {+itself; moreover, it+} tempts the developer to
+# | mistreat the users in other ways.
+#, fuzzy
+#| msgid ""
+#| "With proprietary software, the program controls the users, and some other "
+#| "entity (the developer or &ldquo;owner&rdquo;) controls the program.  So "
+#| "the proprietary program gives its developer power over its users.  That "
+#| "is unjust in itself, and tempts the developer to mistreat the users in "
+#| "other ways."
 msgid ""
 "With proprietary software, the program controls the users, and some other "
 "entity (the developer or &ldquo;owner&rdquo;) controls the program.  So the "
 "proprietary program gives its developer power over its users.  That is "
-"unjust in itself, and tempts the developer to mistreat the users in other "
-"ways."
+"unjust in itself; moreover, it tempts the developer to mistreat the users in "
+"other ways."
 msgstr ""
 "Com o software proprietário, o programa controla os usuários e alguma outra "
 "entidade (o desenvolvedor ou “proprietário”) controla o programa.  Assim, o "

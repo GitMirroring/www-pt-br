@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: surveillance-vs-democracy.html\n"
-"POT-Creation-Date: 2017-04-04 12:56+0000\n"
+"POT-Creation-Date: 2017-11-09 19:26+0000\n"
 "PO-Revision-Date: 2017-05-20 16:20-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -432,13 +432,31 @@ msgstr ""
 "libre em seu próprio computadores antes de enviá-lo."
 
 #. type: Content of: <div><div><p>
+# | For privacy's sake, you must avoid nonfree software since, as a
+# | consequence of giving others control of your computing, it is <a
+# | [-href=\"/philosophy/proprietary-surveillance.html\">likely-]
+# | {+href=\"/malware/proprietary-surveillance.html\">likely+} to spy on
+# | you</a>.  Avoid <a
+# | href=\"/philosophy/who-does-that-server-really-serve.html\">service as a
+# | software substitute</a>; [-as well as-] {+in addition to+} giving others
+# | control of {+how+} your [-computing,-] {+computing is done,+} it requires
+# | you to hand over all the pertinent data to the server.
+#, fuzzy
+#| msgid ""
+#| "For privacy's sake, you must avoid nonfree software since, as a "
+#| "consequence of giving others control of your computing, it is <a href=\"/"
+#| "philosophy/proprietary-surveillance.html\">likely to spy on you</a>.  "
+#| "Avoid <a href=\"/philosophy/who-does-that-server-really-serve.html"
+#| "\">service as a software substitute</a>; as well as giving others control "
+#| "of your computing, it requires you to hand over all the pertinent data to "
+#| "the server."
 msgid ""
 "For privacy's sake, you must avoid nonfree software since, as a consequence "
-"of giving others control of your computing, it is <a href=\"/philosophy/"
+"of giving others control of your computing, it is <a href=\"/malware/"
 "proprietary-surveillance.html\">likely to spy on you</a>.  Avoid <a href=\"/"
 "philosophy/who-does-that-server-really-serve.html\">service as a software "
-"substitute</a>; as well as giving others control of your computing, it "
-"requires you to hand over all the pertinent data to the server."
+"substitute</a>; in addition to giving others control of how your computing "
+"is done, it requires you to hand over all the pertinent data to the server."
 msgstr ""
 "Por uma questão de privacidade, você deve evitar softwares não livres já "
 "que, como uma consequência de dar a outros o controle de seu computador, "

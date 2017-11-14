@@ -3,12 +3,12 @@
 # This file is distributed under the same license as the original article.
 # Rafael Beraldo <rberaldo@cabaladada.org>, 2013.
 # Dec 2014: add missing links (T. Godefroy).
-# Rafael Fontenelle <rafaelff@gnome.org>, 2012, 2016.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2012, 2016, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: free-system-distribution-guidelines.html\n"
 "POT-Creation-Date: 2017-10-17 09:26+0000\n"
-"PO-Revision-Date: 2017-05-20 16:20-0300\n"
+"PO-Revision-Date: 2017-10-22 20:21-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -39,17 +39,6 @@ msgid "Introduction"
 msgstr "Introdução"
 
 #. type: Content of: <p>
-# | The purpose of these guidelines is to explain what it means for an
-# | installable system distribution (such as a [-GNU/Linux-] {+<a
-# | href=\"/gnu/linux-and-gnu.html\">GNU/Linux</a>+} distribution) to qualify
-# | as <a href=\"/philosophy/free-sw.html\">free</a> (libre), and help
-# | distribution developers make their distributions qualify.
-#, fuzzy
-#| msgid ""
-#| "The purpose of these guidelines is to explain what it means for an "
-#| "installable system distribution (such as a GNU/Linux distribution) to "
-#| "qualify as <a href=\"/philosophy/free-sw.html\">free</a> (libre), and "
-#| "help distribution developers make their distributions qualify."
 msgid ""
 "The purpose of these guidelines is to explain what it means for an "
 "installable system distribution (such as a <a href=\"/gnu/linux-and-gnu.html"
@@ -58,9 +47,10 @@ msgid ""
 "distributions qualify."
 msgstr ""
 "O propósito destas diretrizes é explicar qual o significado de uma "
-"distribuição de sistema instalável (como uma distribuição GNU/Linux) se "
-"qualificar como <a href=\"/philosophy/free-sw.html\">livre</a> e ajudar os "
-"desenvolvedores de distribuições a qualificá-las."
+"distribuição de sistema instalável (como uma distribuição <a href=\"/gnu/"
+"linux-and-gnu.html\">GNU/Linux</a>) se qualificar como <a href=\"/philosophy/"
+"free-sw.html\">livre</a> e ajudar os desenvolvedores de distribuições a "
+"qualificá-las."
 
 #. type: Content of: <p>
 msgid ""
@@ -194,6 +184,9 @@ msgid ""
 "For instance, a free system distribution must not contain browsers that "
 "implement EME, the browser functionality designed to load DRM modules."
 msgstr ""
+"Por exemplo, uma distribuição de sistema livre não deve conter navegadores "
+"que implementam <abbr title=\"Extensão de Mídia Criptografada\">EME</abbr>, "
+"a funcionalidade de navegador projetada para carregar módulos de DRM."
 
 #. type: Content of: <p>
 msgid ""
@@ -717,12 +710,8 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-# | Copyright &copy; 2014, [-2015-] {+2015, 2017+} Free Software Foundation,
-# | Inc.
-#, fuzzy
-#| msgid "Copyright &copy; 2014, 2015 Free Software Foundation, Inc."
 msgid "Copyright &copy; 2014, 2015, 2017 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2014, 2015 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2014, 2015, 2017 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -740,7 +729,7 @@ msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "<b>Tradução</b>: Rafael Fontenelle\n"
 "<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, 2012, "
-"2016."
+"2016, 2017."
 
 # type: Content of: <div><p>
 #.  timestamp start 
