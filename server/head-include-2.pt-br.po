@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: head-include-2.html\n"
-"POT-Creation-Date: 2017-01-12 15:26+0000\n"
+"POT-Creation-Date: 2017-11-16 18:56+0000\n"
 "PO-Revision-Date: 2015-09-01 14:32-0300\n"
 "Last-Translator: Bruno Félix Rezende Ribeiro <oitofelix@gnu.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -15,10 +15,104 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Outdated-Since: 2017-11-16 07:56+0000\n"
 
 #. type: Attribute 'content' of: <meta>
 msgid "width=device-width, initial-scale=1"
 msgstr "width=device-width, initial-scale=1"
+
+#.  #translations
+#. {
+#.   border-bottom: .2em solid #123e3f;
+#. }
+#. #header
+#. {
+#.   clear: both;
+#.   background: linear-gradient(#deeefc, white);
+#. }
+#. #fsf-frame
+#. {
+#.   margin: .3em 1em;
+#. } 
+#. #gnu-banner
+#. {
+#.   float: none;
+#.   padding-bottom: .5em;
+#. }
+#. div#fundraiser
+#. {
+#.   direction: ltr;
+#.   background-color: #123e3f;
+#. }
+#. #fundraiser p
+#. {
+#.   font-size: 1.1em;
+#.   padding: .2em 0 .4em;
+#.   margin: 0 3%;
+#.   color: white;
+#.   text-align: center;
+#. }
+#. #fundraiser p.contribute
+#. {
+#.   line-height: 1.5em;
+#.   text-align: center;
+#.   padding: 0 0 .5em;
+#. }
+#. #fundraiser a
+#. {
+#.   border-radius: 1em;
+#.   -moz-border-radius: 1em;
+#.   -khtml-border-radius: 1em;
+#.   -webkit-border-radius: 1em;
+#.   -opera-border-radius: 1em;
+#.   color: white;
+#.   padding: 0 .5em 0 .5em;
+#.   display: inline-block;
+#.   margin: .3em .5em;
+#.   text-decoration: none;
+#. }
+#. #fundraiser .donate
+#. {
+#.   background-color: #1abc9c;
+#. }
+#. #fundraiser .join
+#. {
+#.   background-color: #3498db;
+#. }
+#. #fundraiser b
+#. {
+#.   color: yellow;
+#. }
+#. .progress
+#. {
+#.   width: 99%;
+#.   line-height: 1.2em;
+#.   text-align: right;
+#.   padding-right: 1%;
+#.   background: #36a9aa;
+#.   color: black;
+#.   font-weight: bold;
+#. }
+#. .progress-bar
+#. {
+#.   float: left;
+#.   line-height: 1.2em;
+#.   padding: 0 .1em;
+#.   margin: 0;
+#.   min-width: 4em;
+#.   background: #feb916;
+#.   text-align: center;
+#.   position: absolute;
+#. } 
+#. type: Content of: <style>
+#, no-wrap
+msgid ""
+"\n"
+"#fundraiser .donate, #fundraiser .join\n"
+"{\n"
+"  width: 4em;\n"
+"}\n"
+msgstr ""
 
 #~ msgid ""
 #~ "#banner2012 { width:974px; height:150px; padding-top:10px;display:block; "

@@ -10,7 +10,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: body-include-2.html\n"
-"POT-Creation-Date: 2017-09-15 15:26+0000\n"
+"POT-Creation-Date: 2017-11-16 07:56+0000\n"
 "PO-Revision-Date: 2017-09-28 00:20-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -21,14 +21,32 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Virtaal 1.0.0-beta1\n"
 
-# type: Content of: <body><div><div><div><ul><li>
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
-"<a href=\"https://www.fsf.org/associate/support_freedom?"
-"referrer=4052\">JOIN&nbsp;THE&nbsp;FSF</a>"
+"Associate members power up the Free Software Foundation.  Help smash our "
+"goal of <b>700</b> new members or donate by December 31st!"
 msgstr ""
-"<a href=\"https://www.fsf.org/associate/support_freedom?"
-"referrer=4052\">JUNTE-SE&nbsp;À&nbsp;FSF!</a>"
+
+#. type: Content of: <div><p>
+msgid ""
+"<a class=\"donate\" href=\"http://my.fsf.org/donate?"
+"pk_campaign=2017_Fundraiser_Banner&amp;pk_kwd=Donate\"> Donate</a> <a class="
+"\"join\" href=\"http://my.fsf.org/join?"
+"pk_campaign=2017_Fundraiser_Banner&amp;pk_kwd=Join\"> Join</a>"
+msgstr ""
+
+#. type: Content of: <div><div><div><span>
+msgid "<span class=\"percentage\">"
+msgstr ""
+
+#. #echo encoding="none" var="d_value" 
+#. type: Content of: <div><div><div>
+msgid "</span>"
+msgstr ""
+
+#. type: Content of: <div><div><div>
+msgid "<span class=\"goal\">$450,000</span>"
+msgstr ""
 
 #. type: Content of: <div><div><div><p>
 msgid "<a href=\"//www.fsf.org/fss\">Free Software Supporter</a>"
@@ -69,12 +87,6 @@ msgstr "[Uma cabeça de GNU]"
 msgid "<strong>GNU</strong> Operating System</a>"
 msgstr "O Sistema Operacional <strong>GNU</strong></a>"
 
-#. type: Content of: <div><div><p>
-msgid ""
-"Sponsored by the <a href=\"#mission-statement\">Free Software Foundation</a>"
-msgstr ""
-"Patrocinado pela <a href=\"#mission-statement\">Free Software Foundation</a>"
-
 # type: Content of: <body><div><div><div><ul><li>
 #. type: Content of: <div><ul><li>
 msgid "<a href=\"/gnu/gnu.html\">ABOUT&nbsp;GNU</a>"
@@ -110,6 +122,21 @@ msgstr "<a href=\"/doc/doc.html\">DOCUMENTAÇÃO</a>"
 msgid "<a href=\"/help/help.html\">HELP&nbsp;GNU</a>"
 msgstr "<a href=\"/help/help.html\">AJUDE&nbsp;O&nbsp;GNU</a>"
 
+# type: Content of: <body><div><div><div><ul><li>
+#~ msgid ""
+#~ "<a href=\"https://www.fsf.org/associate/support_freedom?"
+#~ "referrer=4052\">JOIN&nbsp;THE&nbsp;FSF</a>"
+#~ msgstr ""
+#~ "<a href=\"https://www.fsf.org/associate/support_freedom?"
+#~ "referrer=4052\">JUNTE-SE&nbsp;À&nbsp;FSF!</a>"
+
+#~ msgid ""
+#~ "Sponsored by the <a href=\"#mission-statement\">Free Software Foundation</"
+#~ "a>"
+#~ msgstr ""
+#~ "Patrocinado pela <a href=\"#mission-statement\">Free Software Foundation</"
+#~ "a>"
+
 #~ msgid ""
 #~ "<span dir=\"ltr\">The&nbsp; <strong><a href=\"/ghm/upcoming.html\">9th "
 #~ "HACKERS MEETING</a></strong>&nbsp; will be held in Rennes (France)  "
@@ -128,8 +155,8 @@ msgstr "<a href=\"/help/help.html\">AJUDE&nbsp;O&nbsp;GNU</a>"
 
 #~ msgid "<label>Enter your email address (e.g. richard@example.com)</label>"
 #~ msgstr ""
-#~ "<label>Digite seu endereço de e-mail (por exemplo richard@exemplo.com.br)"
-#~ "</label>"
+#~ "<label>Digite seu endereço de e-mail (por exemplo richard@exemplo.com."
+#~ "br)</label>"
 
 # type: Content of: <body><div><div><form><div>
 #~ msgid ""
