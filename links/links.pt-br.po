@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: links.html\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-07 15:26+0000\n"
+"POT-Creation-Date: 2017-11-24 11:57+0000\n"
 "PO-Revision-Date: 2017-07-11 19:57-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -177,8 +177,8 @@ msgid ""
 "gnuino/gnuino.html\">A Spanish introduction to free software (archived)</a>."
 msgstr ""
 "<a href=\"http://web.archive.org/web/20101223080452/http://www.visuarama.com/"
-"gnuino/gnuino.html\">Uma introdução em espanhol ao software livre (arquivada)"
-"</a>."
+"gnuino/gnuino.html\">Uma introdução em espanhol ao software livre "
+"(arquivada)</a>."
 
 #. type: Content of: <h3>
 msgid "Free knowledge &amp; free culture"
@@ -452,10 +452,18 @@ msgstr ""
 "baseado em princípios do movimento software livre."
 
 #. type: Content of: <ul><li>
+# | <a
+# | [-href=\"https://web.archive.org/web/20150716194823/http://www.sugarlabs.org/\">Sugar-]
+# | {+href=\"https://www.sugarlabs.org/\">Sugar+} Labs</a>, an organization
+# | set up to continue development of the Sugar desktop environment.
+#, fuzzy
+#| msgid ""
+#| "<a href=\"https://web.archive.org/web/20150716194823/http://www.sugarlabs."
+#| "org/\">Sugar Labs</a>, an organization set up to continue development of "
+#| "the Sugar desktop environment."
 msgid ""
-"<a href=\"https://web.archive.org/web/20150716194823/http://www.sugarlabs."
-"org/\">Sugar Labs</a>, an organization set up to continue development of the "
-"Sugar desktop environment."
+"<a href=\"https://www.sugarlabs.org/\">Sugar Labs</a>, an organization set "
+"up to continue development of the Sugar desktop environment."
 msgstr ""
 "<a href=\"https://web.archive.org/web/20150716194823/http://www.sugarlabs."
 "org/\">Sugar Labs</a>, uma organização criada para continuar o "

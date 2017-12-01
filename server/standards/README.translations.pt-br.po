@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: README.translations.html\n"
-"POT-Creation-Date: 2017-07-30 16:56+0000\n"
+"POT-Creation-Date: 2017-11-28 17:57+0000\n"
 "PO-Revision-Date: 2017-09-28 06:41-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -1114,12 +1114,25 @@ msgstr ""
 "a>)"
 
 #. type: Content of: <ul><li>
+# | [-<code>de</code>-]{+<code>pt-br</code>+} - <a
+# | [-href=\"https://savannah.gnu.org/projects/www-de\">German</a>-]
+# | {+href=\"https://savannah.gnu.org/projects/www-pt-br\">Brazilian
+# | Portuguese</a>+} (<a [-href=\"https://savannah.gnu.org/users/joeko\">Joerg
+# | Kohne</a>)-] {+href=\"https://savannah.gnu.org/users/rafaelff1\">Rafael
+# | Fontenelle</a>)+}
+#, fuzzy
+#| msgid ""
+#| "<code>de</code> - <a href=\"https://savannah.gnu.org/projects/www-de"
+#| "\">German</a> (<a href=\"https://savannah.gnu.org/users/joeko\">Joerg "
+#| "Kohne</a>)"
 msgid ""
 "<code>pt-br</code> - <a href=\"https://savannah.gnu.org/projects/www-pt-br"
-"\">Brazilian Portuguese</a> (New coordinator needed)"
+"\">Brazilian Portuguese</a> (<a href=\"https://savannah.gnu.org/users/"
+"rafaelff1\">Rafael Fontenelle</a>)"
 msgstr ""
-"<code>pt-br</code> - <a href=\"https://savannah.gnu.org/projects/www-pt-br"
-"\">Português Brasileiro</a> (Novo coordenador necessário)"
+"<code>de</code> - <a href=\"https://savannah.gnu.org/projects/www-de"
+"\">Alemão</a> (<a href=\"https://savannah.gnu.org/users/joeko\">Joerg Kohne</"
+"a>)"
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -1351,6 +1364,13 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização: "
+
+#~ msgid ""
+#~ "<code>pt-br</code> - <a href=\"https://savannah.gnu.org/projects/www-pt-br"
+#~ "\">Brazilian Portuguese</a> (New coordinator needed)"
+#~ msgstr ""
+#~ "<code>pt-br</code> - <a href=\"https://savannah.gnu.org/projects/www-pt-br"
+#~ "\">Português Brasileiro</a> (Novo coordenador necessário)"
 
 #, fuzzy
 #~| msgid ""
