@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: footer-text.html\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-09-15 15:26+0000\n"
+"POT-Creation-Date: 2017-12-21 20:56+0000\n"
 "PO-Revision-Date: 2017-09-28 00:33-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -59,10 +59,21 @@ msgid "[FSF logo]"
 msgstr "[Logo da FSF]"
 
 #. type: Content of: <div><blockquote><p>
+# | [-</a><strong>&ldquo;Our mission-]{+</a><strong> &ldquo;The Free Software
+# | Foundation (FSF)+} is {+a nonprofit with a worldwide mission+} to
+# | [-preserve, protect and-] promote [-the freedom to use, study, copy,
+# | modify, and redistribute-] computer [-software, and to-] {+user freedom.
+# | We+} defend the rights of [-Free Software-] {+all software+}
+# | users.&rdquo;</strong>
+#, fuzzy
+#| msgid ""
+#| "</a><strong>&ldquo;Our mission is to preserve, protect and promote the "
+#| "freedom to use, study, copy, modify, and redistribute computer software, "
+#| "and to defend the rights of Free Software users.&rdquo;</strong>"
 msgid ""
-"</a><strong>&ldquo;Our mission is to preserve, protect and promote the "
-"freedom to use, study, copy, modify, and redistribute computer software, and "
-"to defend the rights of Free Software users.&rdquo;</strong>"
+"</a><strong> &ldquo;The Free Software Foundation (FSF) is a nonprofit with a "
+"worldwide mission to promote computer user freedom. We defend the rights of "
+"all software users.&rdquo;</strong>"
 msgstr ""
 "</a><strong>“Nossa missão é preservar, proteger e promover a liberdade de "
 "usar, estudar, copiar, modificar e redistribuir software, e defender os "
@@ -108,8 +119,6 @@ msgstr ""
 #~ "<a href=\"http://directory.fsf.org\">Diretório&nbsp;de&nbsp;Software&nbsp;"
 #~ "Livre</a>"
 
-# | [-by-]<a [-href=\"http://www.stallman.org/\">Richard Stallman</a>-]
-# | {+href=\"https://h-node.org/\">Hardware</a>+}
 #~| msgid "by <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
 #~ msgid "<a href=\"https://h-node.org/\">Hardware</a>"
 #~ msgstr "<a href=\"https://h-node.org/\">Hardware</a>"

@@ -1,0 +1,391 @@
+# Brazilian Portuguese translation of https://www.gnu.org/accessibility/accessibility.html
+# Copyright (C) 2017 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017.
+# André Phellip Ferreira <werewolf@cyberdude.com>, 2017. (proofread)
+msgid ""
+msgstr ""
+"Project-Id-Version: accessibility.html\n"
+"POT-Creation-Date: 2016-09-15 11:55+0000\n"
+"PO-Revision-Date: 2017-12-30 12:51-0200\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid "GNU Accessibility Statement - GNU Project - Free Software Foundation"
+msgstr ""
+"Declaração de Acessibilidade do GNU - Projeto GNU - Free Software Foundation"
+
+#. type: Content of: <h2>
+msgid "GNU Accessibility Statement"
+msgstr "Declaração de Acessibilidade do GNU"
+
+#. type: Content of: <p>
+msgid ""
+"<a href=\"/gnu/\">Project GNU</a> urges people working on free software to "
+"follow standards and guidelines for universal accessibility on GNU/Linux and "
+"other free operating systems.  Multi-platform projects should use the cross "
+"platform accessibility interfaces available that include GNU/Linux "
+"distributions and the GNOME desktop.  Project GNU also advises developers of "
+"web sites to follow the guidelines set forth by the World Wide Web "
+"Consortium's Web Accessibility Initiative."
+msgstr ""
+"O <a href=\"/gnu/\">Projeto GNU</a> incentiva as pessoas a trabalhar em "
+"software livre para seguir padrões e diretrizes para acessibilidade "
+"universal no GNU/Linux e outros sistemas operacionais livres. Projetos "
+"multiplataforma devem usar as interfaces multiplataforma disponíveis que "
+"incluem distribuições GNU/Linux e o ambiente GNOME. O Projeto GNU também "
+"aconselha que os desenvolvedores de sites a seguirem as diretrizes "
+"estabelecidas pela Iniciativa para a Acessibilidade na Web (<abbr title="
+"\"Web Accessibility Initiative\">WAI</abbr>) da World Wide Web Consortium."
+
+#. type: Content of: <blockquote><p>
+msgid "<strong>Join the conversation</strong>"
+msgstr "<strong>Junte-se à conversa</strong>"
+
+#. type: Content of: <blockquote><ul><li>
+msgid ""
+"<a href=\"http://lists.gnu.org/mailman/listinfo/accessibility\">GNU "
+"accessibility mailing list</a>"
+msgstr ""
+"<a href=\"http://lists.gnu.org/mailman/listinfo/accessibility\">Lista de "
+"discussão sobre acessibilidade no GNU</a>"
+
+#. type: Content of: <blockquote><ul><li>
+msgid ""
+"<a href=\"http://groups.fsf.org/wiki/Group:Accessibility\">LibrePlanet "
+"accessibility group</a>"
+msgstr ""
+"<a href=\"http://groups.fsf.org/wiki/Group:Accessibility\">Grupo de "
+"acessibilidade LibrePlanet</a>"
+
+#. type: Content of: <p>
+msgid ""
+"According to the United Nations in 2005, there were 600 million people with "
+"disabilities in the world.  To use computers, many of them need special "
+"software known as &ldquo;access technology&rdquo;.  Like other programs, "
+"these can be free software or proprietary.  Those which are free software <a "
+"href=\"/philosophy/free-sw.html\"> respect the freedom of their users</a>; "
+"the rest, proprietary programs, subject those users to the power of the "
+"program's owner.  Programs for accessibility ethically must be free "
+"software, like other programs."
+msgstr ""
+"De acordo com as Nações Unidas em 2005, havia 600 milhões de pessoas com "
+"deficiência no mundo. Para usar computadores, muitos deles precisam de "
+"software especial conhecido como “tecnologia de acesso”. Como outros "
+"programas, estes podem ser software livre ou proprietário. Aqueles que são "
+"software livre <a href=\"/philosophy/free-sw.html\"> respeitam a liberdade "
+"de seus usuários</a>; o resto, programas proprietários, sujeita esses "
+"usuários ao poder do proprietário do programa. Os programas de "
+"acessibilidade, eticamente, devem ser software livre, como outros programas."
+
+#. type: Content of: <p>
+msgid ""
+"In order for access technology to work, the other software in use must "
+"interoperate with it.  The majority of computer programs and web sites (85% "
+"in one estimate) do not comply with accessibility standards and guidelines, "
+"so they do not work with access technology.  They provide a frustrating "
+"experience, and can bar users from job or school activities."
+msgstr ""
+"Para que a tecnologia de acesso funcione, o outro software em uso deve "
+"interoperar com ele. A maioria dos programas de computador e sites (85% em "
+"uma estimativa) não cumprem os padrões e diretrizes de acessibilidade, "
+"portanto não funcionam com a tecnologia de acesso. Eles fornecem uma "
+"experiência frustrante e podem impedir os usuários de realizar atividades "
+"profissionais ou escolares."
+
+#. type: Content of: <p>
+msgid ""
+"Proprietary file formats that require proprietary reading programs are "
+"poison to both accessibility and to the freedoms that we as free software "
+"activists hope to establish.  The biggest offender is Flash format; it "
+"usually requires proprietary software that doesn't cooperate with "
+"accessibility.  Microsoft Silverlight is similar.  <acronym title=\"Portable "
+"Document Format\">PDF</acronym> is also difficult; though there is free "
+"software to view it, it does not support free access technology software.  "
+"Improving this is an important project."
+msgstr ""
+"Os formatos de arquivo proprietários que exigem programas de leitura "
+"proprietários são venenos tanto para a acessibilidade quanto para as "
+"liberdades que nós, como ativistas de software livre, esperamos estabelecer. "
+"O maior ofensor é o formato Flash; geralmente requer software proprietário "
+"que não coopera com acessibilidade. O Microsoft Silverlight é semelhante. "
+"<abbr title=\"Portable Document Format\"> PDF </abbr> também é difícil; "
+"embora haja software livre para vê-lo, ele não oferece suporte a software de "
+"tecnologia de acesso livre. Melhorar isso é um projeto importante."
+
+#. type: Content of: <p>
+msgid ""
+"People with disabilities deserve to have control of their own technological "
+"destinies.  When they use proprietary access technology, they have little or "
+"no way to correct whatever is wrong with it.  Virtually all major decisions "
+"of the proprietary developers are made by people who do not have the "
+"disability; 20 years' experience shows that people with unusual combinations "
+"of disabilities, who require relatively unusual software, or who encounter a "
+"bug that keeps them from doing their job have no way to obtain the changes "
+"they need.  These products are only changed or improved when the vendors see "
+"a business reason for doing the work; this leaves many users behind.  As a "
+"secondary problem, proprietary access software is far more expensive than a "
+"PC.  Many users cannot afford to give up their freedom in this way."
+msgstr ""
+"As pessoas com deficiência merecem ter controle de seus próprios destinos "
+"tecnológicos. Quando eles usam tecnologia de acesso proprietária, eles têm "
+"pouca ou nenhuma maneira de corrigir o que há de errado com ele. "
+"Praticamente todas as principais decisões dos desenvolvedores proprietários "
+"são feitas por pessoas que não têm a deficiência; uma experiência de 20 anos "
+"mostra que as pessoas com combinações incomuns de deficiência, que exigem "
+"softwares relativamente incomuns, ou que enfrentam um erro que os impede de "
+"fazer seu trabalho, não conseguem obter as mudanças de que precisam. Esses "
+"produtos só são alterados ou melhorados quando os fornecedores veem uma "
+"razão comercial para fazer o trabalho e isso deixa muitos usuários para "
+"trás. Como um problema secundário, o software de acesso proprietário é muito "
+"mais caro do que um PC. Muitos usuários não podem dar ao luxo de desistir da "
+"liberdade dessa maneira."
+
+#. type: Content of: <p>
+msgid ""
+"For users with disabilities, as for all other users, free software is <a "
+"href=\"/philosophy/free-software-even-more-important.html\">the only way the "
+"users can control their own computing</a>, their only chance to make "
+"software fit their needs rather than passively accepting whatever developers "
+"choose to offer them."
+msgstr ""
+"Para os usuários com deficiência, como para todos os outros usuários, o "
+"software livre é <a href=\"/philosophy/free-software-even-more-important.html"
+"\">a única forma como os usuários podem controlar sua própria computação</"
+"a>, sua única chance de fazer o software atender às suas necessidades ao "
+"invés de aceitar passivamente qualquer coisa que o desenvolvedor opte por "
+"oferecê-los."
+
+#. type: Content of: <p>
+msgid ""
+"Nations with large populations also have large numbers of people with "
+"disabilities.  Countries including Brazil and Russia are discussing whether "
+"to standardize government purchases on GNU/Linux platforms.  These nations "
+"are all signatories to the UN Convention on the Rights of Persons with "
+"Disabilities, and include technology in their agenda for providing such "
+"rights.  This will require them to hire programmers to work on accessibility "
+"software for their populations.  If it is free software, the rest of the "
+"world will be able to use it too.  The hackers who work on free access "
+"technology will provide tools that people with disabilities can use to "
+"expand their horizons enormously."
+msgstr ""
+"Nações com grandes populações também têm um grande número de pessoas com "
+"deficiência. Países, incluindo o Brasil e a Rússia, estão discutindo se "
+"padronizam as compras do governo em plataformas GNU/Linux. Essas nações são "
+"todas signatárias da Convenção das Nações Unidas sobre os Direitos das "
+"Pessoas com Deficiência<sup><a href=\"#TransNote1\">1</a></sup> e incluem "
+"tecnologia em sua agenda para fornecer tais direitos. Isso exigirá que eles "
+"contratem programadores para trabalhar em software de acessibilidade para "
+"suas populações. Se é software livre, o resto do mundo também poderá usá-lo. "
+"Os hackers que trabalham na tecnologia de acesso gratuito fornecerão "
+"ferramentas que as pessoas com deficiência podem usar para expandir seus "
+"horizontes enormemente."
+
+#. type: Content of: <p>
+msgid ""
+"Making a program accessible is no substitute for making it respect users' "
+"freedom&mdash;these are separate issues&mdash;but the two fit naturally "
+"together."
+msgstr ""
+"Fazer um programa acessível não é um substituto para fazê-lo respeitar a "
+"liberdade dos usuários &ndash; estes são problemas distintos &ndash;, mas os "
+"dois se encaixam naturalmente juntos."
+
+#. type: Content of: <h3>
+msgid "Recommendations"
+msgstr "Recomendações"
+
+#. type: Content of: <ul><li>
+msgid ""
+"Application software developers should learn how to use the accessibility "
+"features of the <acronym title=\"Integrated Development Environment\">IDE</"
+"acronym> or toolkit they employ to build their user interface."
+msgstr ""
+"Desenvolvedores de aplicativo de software devem aprender como usar os "
+"recursos de acessibilidade do <abbr title=\"Ambiente Integrado de "
+"Desenvolvimento\">IDE</abbr> ou conjunto de ferramentas que empregam para "
+"construir sua interface de usuário."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Programmers who need to implement access technology, or work on a desktop or "
+"OS-level accessibility problem, will need to understand the appropriate "
+"accessibility <acronym title=\"Application Programming Interface\">API</"
+"acronym>, and should choose the one that is compatible with free OS/"
+"desktops.  These include the <a href=\"http://library.gnome.org/devel/"
+"accessibility-devel-guide/stable/index.html.en\">GNOME accessibility API</a> "
+"(GNU/Linux platforms only), the <a href=\"http://docs.oracle.com/javase/7/"
+"docs/technotes/guides/access/jaapi.html\">Java accessibility API</a> (GNU/"
+"Linux and Windows) and <a href=\"http://www.linuxfoundation.org/collaborate/"
+"workgroups/accessibility/iaccessible2\">iAccessible2</a> (GNU/Linux and "
+"Windows)."
+msgstr ""
+"Os programadores que precisam implementar tecnologia de acesso ou trabalhar "
+"em um problema de acessibilidade no computador ou em nível de sistema "
+"operacional, precisarão entender a <abbr title=\"Interface de Programação de "
+"Aplicativos\">API</abbr> de acessibilidade apropriada e devem escolher a que "
+"é compatível com SO/ambientes livres. Isso inclui a <a href=\"http://library."
+"gnome.org/devel/accessibility-devel-guide/stable/index.html.en\">API de "
+"acessibilidade do GNOME</a> (apenas plataformas GNU/Linux), a <a href="
+"\"http://docs.oracle.com/javase/7/docs/technotes/guides/access/jaapi.html"
+"\">API de acessibilidade Java</a> (GNU/Linux e Windows) e <a href=\"http://"
+"www.linuxfoundation.org/collaborate/workgroups/accessibility/"
+"iaccessible2\">iAccessible2</a> (GNU/Linux e Windows)."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Web developers should follow the <a href=\"http://www.w3c.org/wai\">W3C web "
+"accessibility guidelines</a> and, for complex web applications, the "
+"developers should follow the <a href=\"http://www.w3.org/WAI/intro/aria\" "
+"title=\"Accessible Rich Internet Applications\">ARIA standard</a>.  "
+"Furthermore, <a href=\"http://www.standards-schmandards.com/projects/fangs/"
+"\">FANGS</a> enables web developers to see how a <a href=\"http://en."
+"wikipedia.org/wiki/Screen_reader\">screen reader</a> will handle the web "
+"pages they are developing."
+msgstr ""
+"Os desenvolvedores web devem seguir as <a href=\"http://www.w3c.org/wai"
+"\">diretrizes de acessibilidade da web do W3C</a> e, para aplicativos web "
+"complexos, os desenvolvedores devem seguir o <a href=\"http://www.w3.org/WAI/"
+"intro/aria\" title=\"Accessible Rich Internet Applications\">padrão ARIA</"
+"a>. Além disso, o <a href=\"http://www.standards-schmandards.com/projects/"
+"fangs/\">FANGS</a> permite que os desenvolvedores web vejam como um <a href="
+"\"https://pt.wikipedia.org/wiki/Leitor_de_tela\">leitor de tela</a> irá "
+"lidar com as páginas web que estão desenvolvendo."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Outside of the web, developers should follow the <a href=\"http://www.w3.org/"
+"WAI/intro/wcag2ict\">relevant W3C accessibility guidelines</a>."
+msgstr ""
+"Fora da web, desenvolvedores devem seguir as <a href=\"http://www.w3.org/WAI/"
+"intro/wcag2ict\">diretrizes de acessibilidade relevantes do W3C</a>."
+
+#. type: Content of: <h3>
+msgid "Remember GNU Principles"
+msgstr "Lembre-se dos Princípios do GNU"
+
+#. type: Content of: <p>
+msgid "Reminder: Always follow these two principles to respect users' freedom."
+msgstr ""
+"Lembrete: Sempre siga esses dois princípios para respeitar a liberdade dos "
+"usuários."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/philosophy/javascript-trap.html\">Nontrivial JavaScript code "
+"distributed to the user</a> should be free software."
+msgstr ""
+"<a href=\"/philosophy/javascript-trap.html\">Código JavaScript não trivial "
+"distribuído para o usuário</a> deve ser software livre."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Please don't invite users to <a href=\"/philosophy/who-does-that-server-"
+"really-serve.html\">do something on a server that they could conceivably do "
+"on their own computers</a>."
+msgstr ""
+"Por favor, não convide usuários para <a href=\"/philosophy/who-does-that-"
+"server-really-serve.html\">fazer alguma coisa em um servidor que eles "
+"poderiam concebivelmente fazer em seus próprios computadores</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr ""
+"<b>Nota do tradutor</b>:\n"
+"<ol>\n"
+"<li id=\"TransNote1\">O Brasil incorporou a Convenção sobre os Direitos das "
+"Pessoas com Deficiência no ordenamento jurídico brasileiro por meio do <a "
+"href=\"http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/decreto/d6949."
+"htm\">Decreto nº 6.949, de 25 de Agosto de 2009</a>.</li>\n"
+"</ol>"
+
+# type: Content of: <div><p>
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF.  Links quebrados e outras correções ou "
+"sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid ""
+"Copyright &copy; 2010, 2013, 2014, 2015, 2016 Free Software Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2010, 2013, 2014, 2015, 2016 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
+
+#. type: Content of: <div><p>
+msgid ""
+"The Recommendations section may also be used under the Creative Commons "
+"Attribution license, and may be relicensed to the GNU Free Documentation "
+"License version 1.3 or later."
+msgstr ""
+"A seção Recomendações também pode ser usada sob a licença de Atribuição da "
+"Creative Commons e pode ser relicenciada para a Licença de Documentação "
+"Livre GNU versão 1.3 ou posterior."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2017\n"
+"<br/>\n"
+"Revisado por: André Phellip Ferreira <a href=\"mailto:werewolf@cyberdude.com"
+"\">&lt;email@andrephellip.com&gt;</a>, 2017"
+
+# type: Content of: <div><p>
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização: "

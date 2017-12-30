@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: free-distros.html\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-07-22 14:56+0000\n"
+"POT-Creation-Date: 2017-12-21 17:56+0000\n"
 "PO-Revision-Date: 2017-09-29 07:47-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -282,6 +282,32 @@ msgid ""
 msgstr ""
 "Parabola GNU/Linux-libre, uma distribuição baseada no Arch que prioriza o "
 "fácil gerenciamento de pacotes e do sistema."
+
+#. type: Content of: <table><tr><td><a>
+# | <a [-href=\"http://proteanos.com/\">-] {+href=\"https://pureos.net/\">+}
+#, fuzzy
+#| msgid "<a href=\"http://proteanos.com/\">"
+msgid "<a href=\"https://pureos.net/\">"
+msgstr "<a href=\"http://proteanos.com/\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "PureOS"
+msgstr ""
+
+#. type: Content of: <table><tr><td>
+# | [-gNewSense,-]{+PureOS,+} a [-GNU/Linux-] {+GNU+} distribution based on
+# | Debian[-,-] with [-sponsorship from the FSF.-] {+a focus on privacy,
+# | security, and convenience.+}
+#, fuzzy
+#| msgid ""
+#| "gNewSense, a GNU/Linux distribution based on Debian, with sponsorship "
+#| "from the FSF."
+msgid ""
+"PureOS, a GNU distribution based on Debian with a focus on privacy, "
+"security, and convenience."
+msgstr ""
+"gNewSense, uma distribuição de GNU/Linux baseada no Debian, patrocinada pela "
+"FSF."
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"http://trisquel.info/\">"

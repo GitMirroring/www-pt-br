@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: README.translations.html\n"
-"POT-Creation-Date: 2017-11-28 17:57+0000\n"
+"POT-Creation-Date: 2017-12-11 07:56+0000\n"
 "PO-Revision-Date: 2017-09-28 06:41-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -1243,8 +1243,18 @@ msgstr ""
 "Xie Wensheng</a>)"
 
 #. type: Content of: <ul><li>
+# | <code>zh-tw</code> - <a
+# | [-href=\"https://savannah.gnu.org/projects/www-zh-cn\">Traditional-]
+# | {+href=\"https://savannah.gnu.org/projects/www-zh-tw\">Traditional+}
+# | Chinese</a> (<a href=\"https://savannah.gnu.org/users/zerngjia\">
+# | Cheng-Chia Tseng</a>)
+#, fuzzy
+#| msgid ""
+#| "<code>zh-tw</code> - <a href=\"https://savannah.gnu.org/projects/www-zh-cn"
+#| "\">Traditional Chinese</a> (<a href=\"https://savannah.gnu.org/users/"
+#| "zerngjia\"> Cheng-Chia Tseng</a>)"
 msgid ""
-"<code>zh-tw</code> - <a href=\"https://savannah.gnu.org/projects/www-zh-cn"
+"<code>zh-tw</code> - <a href=\"https://savannah.gnu.org/projects/www-zh-tw"
 "\">Traditional Chinese</a> (<a href=\"https://savannah.gnu.org/users/zerngjia"
 "\"> Cheng-Chia Tseng</a>)"
 msgstr ""

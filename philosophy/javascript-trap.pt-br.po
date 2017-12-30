@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: javascript-trap.html\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-03-28 11:56+0000\n"
+"POT-Creation-Date: 2017-12-11 08:56+0000\n"
 "PO-Revision-Date: 2017-08-14 05:35-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -263,9 +263,16 @@ msgstr ""
 "vamos tratar da questão do servidor separadamente."
 
 #. type: Content of: <p>
+# | In practical terms, how can we deal with the problem of {+nontrivial+}
+# | nonfree JavaScript programs in web sites? The first step is to avoid
+# | running it.
+#, fuzzy
+#| msgid ""
+#| "In practical terms, how can we deal with the problem of nonfree "
+#| "JavaScript programs in web sites? The first step is to avoid running it."
 msgid ""
-"In practical terms, how can we deal with the problem of nonfree JavaScript "
-"programs in web sites? The first step is to avoid running it."
+"In practical terms, how can we deal with the problem of nontrivial nonfree "
+"JavaScript programs in web sites? The first step is to avoid running it."
 msgstr ""
 "Em termos práticos, como nós podemos lidar com o programa de programas "
 "JavaScript não livres em sites? O primeiro passo é evitar executá-lo."
@@ -708,8 +715,6 @@ msgstr "Última atualização: "
 #~ "ser mais conveniente para bibliotecas de código JavaScript minificado, "
 #~ "especialmente quando você não os escreveu."
 
-# | Copyright &copy; [-2014, 2015 Free Software Foundation, Inc.-]
-# | {+2009-2013, 2016 Richard Stallman+}
 #~| msgid "Copyright &copy; 2014, 2015 Free Software Foundation, Inc."
 #~ msgid "Copyright &copy; 2009-2013, 2016 Richard Stallman"
 #~ msgstr "Copyright &copy; 2009-2013, 2016 Richard Stallman"

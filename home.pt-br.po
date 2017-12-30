@@ -1,0 +1,522 @@
+# Brazilian Portuguese translation of https://www.gnu.org/home.html
+# Copyright (C) 2017 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# André Phellip Ferreira <werewolf@cyberdude.com>, 2017.
+# Daniel Pimentel <d4n1@d4n1.org>, 2017. (proofread)
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: home.html\n"
+"POT-Creation-Date: 2017-12-29 12:26+0000\n"
+"PO-Revision-Date: 2017-12-30 09:17-0200\n"
+"Last-Translator: André Phellip Ferreira <werewolf@cyberdude.com>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid "The GNU Operating System and the Free Software Movement"
+msgstr "O Sistema Operacional GNU e o Movimento de Software Livre"
+
+#. type: Attribute 'content' of: <meta>
+msgid ""
+"GNU, FSF, Free Software Foundation, Linux, Emacs, GCC, Unix, Free Software, "
+"Libre Software, Operating System, GNU Kernel, GNU Hurd"
+msgstr ""
+"GNU, FSF, Free Software Foundation, Linux, Emacs, GCC, Unix, Software Livre, "
+"Software Libre, Sistema Operacional, GNU Kernel, GNU Hurd"
+
+#. type: Attribute 'content' of: <meta>
+msgid ""
+"Since 1983, developing the free Unix style operating system GNU, so that "
+"computer users can have the freedom to share and improve the software they "
+"use."
+msgstr ""
+"Desde 1983, desenvolvendo o GNU, sistema operacional livre tipo Unix, para "
+"que usuários de computador possam ter a liberdade de compartilhar e melhorar "
+"o software que usam."
+
+#. type: Attribute 'title' of: <link>
+msgid "Planet GNU"
+msgstr "Planeta GNOME"
+
+#. type: Content of: <p>
+msgid ""
+"GNU is the only operating system developed specifically to give its users "
+"freedom.  What is GNU, and what freedom is at stake?"
+msgstr ""
+"GNU é o único sistema operacional desenvolvido especificamente para dar "
+"liberdade aos seus usuários. O que é GNU, e qual liberdade está em jogo?"
+
+#. type: Content of: <div><div><h2>
+msgid "What is GNU?"
+msgstr "O que é GNU?"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"GNU is an operating system that is <a href=\"/philosophy/free-sw.html\">free "
+"software</a>&mdash;that is, it respects users' freedom.  The development of "
+"GNU made it possible to use a computer without software that would trample "
+"your freedom."
+msgstr ""
+"GNU é um sistema operacional que é <a href=\"/philosophy/free-sw.html"
+"\">software livre</a> &ndash; que é, o respeito a liberdade de seus "
+"usuários. O desenvolvimento do GNU tornou possível o uso de um computador "
+"sem um software que ameace sua liberdade."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"We recommend <a href=\"/distros/free-distros.html\">installable versions of "
+"GNU</a> (more precisely, GNU/Linux distributions) which are entirely free "
+"software.  <a href=\"#More-GNU\">More about GNU below</a>."
+msgstr ""
+"Nós recomendamos <a href=\"/distros/free-distros.html\">a versão\n"
+"instalável do GNU</a> (mais precisamente, distribuições GNU/Linux) que "
+"sejam\n"
+"totalmente software livre. <a href=\"#More-GNU\">Mais sobre GNU\n"
+"abaixo</a>."
+
+#. type: Content of: <div><div><div><p>
+msgid "<a href=\"/distros/free-distros.html\">Try GNU/Linux!</a>"
+msgstr "<a href=\"/distros/free-distros.html\">Teste o GNU/Linux!</a>"
+
+#. type: Content of: <div><div><div><p>
+msgid "<a href=\"#parts-of-gnu\">Try parts of GNU</a>"
+msgstr "<a href=\"#parts-of-gnu\">Teste partes do GNU</a>"
+
+#. type: Content of: <div><div><div><a>
+msgid "<a href=\"/distros/screenshot-gnewsense.html\">"
+msgstr "<a href=\"/distros/screenshot-gnewsense.html\">"
+
+#. type: Attribute 'alt' of: <div><div><div><a><img>
+msgid "Screenshot of GNU"
+msgstr "Captura de tela do GNU"
+
+# type: Content of: <div><p>
+#. type: Content of: <div><div><div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><div><h2>
+msgid "What is the Free Software Movement?"
+msgstr "O que é o Movimento de Software Livre?"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"The free software movement campaigns to win for the users of computing the "
+"freedom that comes from free software.  Free software puts its users in "
+"control of their own computing.  Non-free software puts its users under the "
+"power of the software's developer. See <a href=\"https://www.fsf.org/blogs/"
+"rms/20140407-geneva-tedx-talk-free-software-free-society\"> the video "
+"explanation</a>."
+msgstr ""
+"As campanhas de movimento de software livre visam devolver aos usuários de "
+"computador a liberdade que vem de software livre. O software livre coloca "
+"seus usuários no controle de sua própria computação. O software não-livre "
+"coloca seus usuários sob o poder do desenvolvedor do software. Veja <a href="
+"\"https://www.fsf.org/blogs/rms/20140407-geneva-tedx-talk-free-software-free-"
+"society\"> a explicação em vídeo</a>."
+
+#. type: Content of: <div><div><h2>
+msgid "What is Free Software?"
+msgstr "O que é Software Livre?"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"<strong>Free software means the users have the freedom to run, copy, "
+"distribute, study, change and improve the software.</strong>"
+msgstr ""
+"<strong>Software Livre significa que os usuários tem liberdade para "
+"executar, copiar, distribuir, estudar, alterar e melhorar o software.</"
+"strong>"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Free software is a matter of liberty, not price.  To understand the concept, "
+"you should think of &ldquo;free&rdquo; as in &ldquo;free speech&rdquo;, not "
+"as in &ldquo;free beer&rdquo;."
+msgstr ""
+"Software Livre é uma questão de liberdade, não de preço. Para entender o "
+"conceito, você deve pensar em “livre” como em “discurso ivre”, não como em "
+"“gratuidade”."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"More precisely, free software means users of a program have the <a href=\"/"
+"philosophy/free-sw.html\">four essential freedoms</a>:"
+msgstr ""
+"Mais precisamente, software livre significa que os usuários de um programa "
+"têm as <a href=\"/philosophy/free-sw.html\">quatro liberdades essenciais</a>:"
+
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"The freedom to run the program as you wish, for any purpose (freedom 0)."
+msgstr ""
+"A liberdade de executar o programa como quiser, para qualquer propósito "
+"(liberdade 0)."
+
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"The freedom to study how the program works, and adapt it to your needs "
+"(freedom 1).  Access to the source code is a precondition for this."
+msgstr ""
+"A liberdade de estudar como o programa funciona, e adaptar às suas "
+"necessidades (liberdade 1). Acesso ao código fonte é uma precondição para "
+"isso."
+
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"The freedom to redistribute copies so you can help your neighbor (freedom 2)."
+msgstr ""
+"A liberdade de redistribuir cópias e assim você pode ajudar seu vizinho "
+"(liberdade 2)."
+
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"The freedom to improve the program, and release your improvements to the "
+"public, so that the whole community benefits (freedom 3).  Access to the "
+"source code is a precondition for this."
+msgstr ""
+"A liberdade de melhorar o programa, e lançar suas melhorias ao público, "
+"assim toda a comunidade se beneficia (liberdade 3). Acesso ao código fonte é "
+"uma precondição para isso."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Developments in technology and network use have made these freedoms <a href="
+"\"/philosophy/free-software-even-more-important.html\">even more important "
+"now</a> than they were in 1983."
+msgstr ""
+"Desenvolvimentos em tecnologia e uso em rede tem tornado essas liberdades <a "
+"href=\"/philosophy/free-software-even-more-important.html\">ainda mais "
+"importantes agora</a> do que eram em 1983."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Nowadays the free software movement goes far beyond developing the GNU "
+"system.  See <a href=\"https://fsf.org\">the Free Software Foundation's web "
+"site</a> for more about what we do, and a list of <a href=\"/help\">ways you "
+"can help</a>."
+msgstr ""
+"Hoje em dia o movimento de software livre vai muito além de desenvolver o "
+"sistema GNU. Acesse o<a href=\"https://fsf.org\"> website da Fundação "
+"Software Livre</a> para saber mais sobre o que fazemos, e uma lista de <a "
+"href=\"/help\">maneiras que você pode ajudar</a>."
+
+#. type: Content of: <div><div><h2>
+msgid "More about GNU"
+msgstr "Mais sobre GNU"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"<a id=\"More-GNU\">GNU</a> is a Unix-like operating system.  That means it "
+"is a collection of many programs: applications, libraries, developer tools, "
+"even games.  The development of GNU, started in January 1984, is known as "
+"the GNU Project.  Many of the programs in GNU are released under the "
+"auspices of the GNU Project; those we call <a href=\"/software/\">GNU "
+"packages</a>."
+msgstr ""
+"<a id=\"More-GNU\">GNU</a> é um sistema operacional semelhante ao Unix. Isso "
+"significa que é uma coleção de muitos programas: aplicativos, bibliotecas, "
+"ferramentas de desenvolvimento e até jogos. O desenvolvimento do GNU, que "
+"começou em Janeiro de 1984, é conhecido como Projeto GNU.  Muitos dos "
+"programas em GNU são lançados sob auspícios do Projeto GNU; estes são "
+"chamados <a href=\"/software/\">pacotes GNU</a>."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"The name &ldquo;GNU&rdquo; is a recursive acronym for &ldquo;GNU's Not Unix."
+"&rdquo; <a href=\"/pronunciation/pronunciation.html\">&ldquo;GNU&rdquo; is "
+"pronounced <em>g'noo</em></a>, as one syllable, like saying &ldquo;"
+"grew&rdquo; but replacing the <em>r</em> with <em>n</em>."
+msgstr ""
+"O nome “GNU” é um acrônimo recursivo para “GNU's Not Unix!” (em português, é "
+"traduzido como “GNU Não é Unix!”). <a href=\"/pronunciation/pronunciation."
+"html\">“GNU” é pronunciado</a> como “menu”, com “g” em vez de “me”, e como o "
+"herbívoro africano “gnu”."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"The program in a Unix-like system that allocates machine resources and talks "
+"to the hardware is called the &ldquo;kernel&rdquo;.  GNU is typically used "
+"with a kernel called Linux.  This combination is the <a href=\"/gnu/linux-"
+"and-gnu.html\"><strong>GNU/Linux operating system</strong></a>.  GNU/Linux "
+"is used by millions, though many <a href=\"/gnu/gnu-linux-faq.html\">call it "
+"&ldquo;Linux&rdquo; by mistake</a>."
+msgstr ""
+"O programa em um sistema semelhante ao Unix que aloca recursos da máquina e "
+"conversa com o hardware é chamado “kernel”. GNU é tipicamente usado com um "
+"kernel chamado Linux. Essa combinação é o <a href=\"/gnu/linux-and-gnu.html"
+"\"><strong> Sistema Operacional GNU/Linux </strong></a>. GNU/Linux é usado "
+"por milhões, apesar de muitos <a href=\"/gnu/gnu-linux-faq.html\"> o "
+"chamarem de “Linux” por engano</a>."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"GNU's own kernel, <a href=\"/software/hurd/hurd.html\">The Hurd</a>, was "
+"started in 1990 (before Linux was started).  Volunteers continue developing "
+"the Hurd because it is an interesting technical project."
+msgstr ""
+"O kernel próprio do GNU, <a href=\"/software/hurd/hurd.html\">O Hurd</a>, "
+"começou em 1990 (antes do Linux começar). Voluntários continuam "
+"desenvolvendo o Hurd porque ele é um projeto técnico interessante."
+
+#. type: Content of: <div><div><p>
+msgid "<a href=\"/gnu/gnu.html\">More information</a>"
+msgstr "<a href=\"/gnu/gnu.html\">Mais informação</a>"
+
+#. type: Content of: <div><div><div><h3>
+msgid "Take Action"
+msgstr "Tome Partido"
+
+#. type: Content of: <div><div><div><ul><li>
+msgid ""
+"<strong>Support the efforts on net neutrality <a href=\"http://www."
+"savetheinternet.com\" title=\"Net neutrality in the United States of America"
+"\">in the USA</a></strong>, and in your home country."
+msgstr ""
+"<strong>Apoie os esforços da neutralidade na internet <a href=\"http://www."
+"savetheinternet.com\" title=\"Net neutrality in the United States of America"
+"\">nos EUA</a></strong>, e no seus país de origem."
+
+#. type: Content of: <div><div><div><ul><li>
+msgid ""
+"Defend <a href=\"http://www.laquadrature.net/en/Privacy\"> privacy</a>, and "
+"support <a href=\"http://www.laquadrature.net/en/the-eu-commissions-"
+"outrageous-attempt-to-avoid-copyright-reform\"> global copyright reform</a> "
+"with <a href=\"http://www.laquadrature.net/en/\">LQDN</a>."
+msgstr ""
+"Defenda a <a href=\"http://www.laquadrature.net/en/Privacy\"> privacidade</"
+"a>, e apoie <a href=\"http://www.laquadrature.net/en/the-eu-commissions-"
+"outrageous-attempt-to-avoid-copyright-reform\"> a reforma global de "
+"copyright</a> com <a href=\"http://www.laquadrature.net/en/\">LQDN</a>."
+
+#. type: Content of: <div><div><div><ul><li>
+msgid ""
+"<strong><a href=\"http://www.fsf.org/campaigns\">Support current FSF "
+"campaigns</a></strong>."
+msgstr ""
+"<strong><a href=\"http://www.fsf.org/campaigns\">Apoie as atuais campanhas "
+"FSF</a></strong>."
+
+#. type: Content of: <div><div><div><ul><li>
+msgid ""
+"Fight against software patents: <a href=\"http://www.endsoftpatents.org"
+"\">worldwide</a>, and <a href=\"/server/takeaction.html#swpat\">in Europe</"
+"a>."
+msgstr ""
+"Lute contra as patentes de software: <a href=\"http://www.endsoftpatents.org"
+"\">mundo afora</a>, e <a href=\"/server/takeaction.html#swpat\">na Europa</"
+"a>."
+
+#. type: Content of: <div><div><div><p>
+msgid "<a href=\"/server/takeaction.html\">More action items</a>"
+msgstr "<a href=\"/server/takeaction.html\">Mais itens de ação</a>"
+
+#. type: Content of: <div><div><div><ul><li>
+msgid ""
+"<strong>Can you contribute to any of these <a href=\"//www.fsf.org/campaigns/"
+"priority-projects/\">High Priority Areas</a>?</strong> Free phone operating "
+"system; decentralization, federation, and self-hosting; free drivers, "
+"firmware, and hardware designs; real-time voice and video chat; encourage "
+"contribution by people underrepresented in the community, and more."
+msgstr ""
+"<strong>Você pode contribuir com algum dessas <a href=\"//www.fsf.org/"
+"campaigns/priority-projects/\">Áreas de Alta Prioridade</a>?</strong> "
+"Sistema operacional livre para telefones; descentralização, federação, e "
+"auto-hospedagem; drivers livres, firmware e design de hardware; chat de voz "
+"e vídeo em tempo-real; encoraje a contribuição de pessoas sub-representadas "
+"na comunidade, e mais."
+
+#. type: Content of: <div><div><div><ul><li>
+msgid ""
+"<strong>Can you take over an <a href=\"/server/takeaction.html#unmaint"
+"\">unmaintained GNU package</a>?</strong>"
+msgstr ""
+"<strong>Você pode assumir um <a href=\"/server/takeaction.html#unmaint"
+"\">pacote não mantido pelo GNU</a>?</strong>"
+
+#. type: Content of: <div><div><div><ul><li>
+msgid "<a href=\"/software/halifax/\">halifax</a>"
+msgstr "<a href=\"/software/halifax/\">halifax</a>"
+
+#. type: Content of: <div><div><div><ul><li>
+msgid ""
+", are all <a href=\"/server/takeaction.html#unmaint\">looking for "
+"maintainers</a>.  Also, these packages are looking for co-maintainers:"
+msgstr ""
+", estão todos <a href=\"/server/takeaction.html#unmaint\">procurando por "
+"mantenedores</a>. Também, estes pacotes estão procurando por co-mantenedores:"
+
+#. type: Content of: <div><div><div><ul><li>
+msgid ""
+"<a href=\"/software/aspell/\">aspell</a>, <a href=\"/software/bison/"
+"\">bison</a>, <a href=\"/software/gnuae/\">gnuae</a>, <a href=\"/software/"
+"gnubik/\">gnubik</a>, <a href=\"/software/metaexchange/\">metaexchange</a>, "
+"<a href=\"/software/powerguru/\">powerguru</a>, <a href=\"/software/xboard/"
+"\">xboard</a>"
+msgstr ""
+"<a href=\"/software/aspell/\">aspell</a>, <a href=\"/software/bison/"
+"\">bison</a>, <a href=\"/software/gnuae/\">gnuae</a>, <a href=\"/software/"
+"gnubik/\">gnubik</a>, <a href=\"/software/metaexchange/\">metaexchange</a>, "
+"<a href=\"/software/powerguru/\">powerguru</a>, <a href=\"/software/xboard/"
+"\">xboard</a>"
+
+#. type: Content of: <div><div><div><ul><li>
+msgid ".  See the package web pages for more information."
+msgstr ". Veja a página de pacotes para mais informação."
+
+#. type: Content of: <div><div><div><p>
+msgid ""
+"<strong><a href=\"/software/recent-releases.html\">Recent GNU releases</a></"
+"strong>"
+msgstr ""
+"<strong><a href=\"/software/recent-releases.html\">Lançamentos recentes GNU</"
+"a></strong>"
+
+#. type: Content of: <div><div><div><p>
+msgid ""
+"<strong><a href=\"/manual/blurbs.html\">Short descriptions for all GNU "
+"packages</a></strong>"
+msgstr ""
+"<strong><a href=\"/manual/blurbs.html\">Breve descrição para todos os "
+"pacotes GNU</a></strong>"
+
+#. type: Content of: <div><div><div><p>
+msgid "Today's random package&hellip;"
+msgstr "Pacote aleatório de hoje…"
+
+#. type: Content of: <div><div><div><h3>
+msgid "Try some parts of GNU"
+msgstr "Teste algumas partes de GNU"
+
+#. type: Content of: <div><div><div><p>
+msgid ""
+"Do you use Windows or iOS? Take a first step towards freedom by installing "
+"some free software on your current operating system:"
+msgstr ""
+"Você usa Windows ou iOS? Tome o primeiro passo em direção à liberdade "
+"instalando algum software livre no seu atual sistema operacional:"
+
+#. type: Content of: <div><div><div><ul><li>
+msgid "<a href=\"/software/for-windows.html\">Free Software for Windows</a>"
+msgstr "<a href=\"/software/for-windows.html\">Software Livre para Windows</a>"
+
+#. type: Content of: <div><div><div><ul><li>
+msgid "<a href=\"/software/for-ios.html\">Free Software for iOS</a>"
+msgstr "<a href=\"/software/for-ios.html\">Software Livre para iOS</a>"
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <p>
+msgid ""
+"The <a href=\"http://www.fsf.org/\">FSF</a> also has sister organizations in "
+"<a href=\"http://www.fsfe.org\">Europe</a>, <a href=\"http://www.fsfla.org/"
+"\">Latin America</a> and <a href=\"http://gnu.org.in/\">India</a>."
+msgstr ""
+"A <a href=\"http://www.fsf.org/\">FSF</a> também tem organizações irmãs na "
+"<a href=\"http://www.fsfe.org\">Europa</a>, <a href=\"http://www.fsfla.org/"
+"\">América Latina</a> e <a href=\"http://gnu.org.in/\">Índia</a>."
+
+# type: Content of: <div><p>
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF.  Links quebrados e outras correções ou "
+"sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid ""
+"Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, "
+"2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017 <a "
+"href=\"http://www.fsf.org\">Free Software Foundation</a>, Inc."
+msgstr ""
+"Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, "
+"2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017 <a "
+"href=\"http://www.fsf.org\">Free Software Foundation</a>, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: André Phellip Ferreira <a href=\"mailto:werewolf@cyberdude.com"
+"\">&lt;werewolf@cyberdude.com&gt;</a>, 2017.\n"
+"\n"
+"Revisado por: Daniel Pimentel <a href=\"mailto:d4n1@d4n1.org\">&lt;d4n1@d4n1."
+"org&gt;</a>, 2017."
+
+# type: Content of: <div><p>
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização: "
+
+#~ msgid ""
+#~ "<a href=\"http://planet.gnu.org/\">Planet GNU</a> <a href=\"http://planet."
+#~ "gnu.org/rss20.xml\">"
+#~ msgstr ""
+#~ "<a href=\"http://planet.gnu.org/\">Planeta GNU</a> <a href=\"http://"
+#~ "planet.gnu.org/rss20.xml\">"
+
+#~ msgid "RSS Feed"
+#~ msgstr "RSS Feed"
+
+#~ msgid ""
+#~ "For more news, see <a href=\"http://planet.gnu.org/\">Planet GNU</a> and "
+#~ "the list of <a href=\"/software/recent-releases.html\">recent GNU "
+#~ "releases</a>."
+#~ msgstr ""
+#~ "Para mais notícias, acesse <a href=\"http://planet.gnu.org/\">Planet GNU</"
+#~ "a> e a lista de <a href=\"/software/recent-releases.html\">lançamentos "
+#~ "recentes GNU</a>."

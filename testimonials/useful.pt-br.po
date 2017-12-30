@@ -1,0 +1,253 @@
+# Brazilian Portuguese translation of https://www.gnu.org/testimonials/useful.html
+# Copyright (C) 2017 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Guilherme Carvalho <funkymarxist@protonmail.com>, 2017.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017 (proofread)
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: useful.html\n"
+"POT-Creation-Date: 2014-04-05 00:03+0000\n"
+"PO-Revision-Date: 2017-12-29 17:45-0200\n"
+"Last-Translator: Guilherme Carvalho <funkymarxist@protonmail.com>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.5.4\n"
+
+#. type: Content of: <title>
+msgid "Free Software is Useful - GNU Project - Free Software Foundation"
+msgstr "O Software Livre é útil - Projeto GNU - Free Software Foundation"
+
+#. type: Content of: <h2>
+msgid "Free Software is Useful"
+msgstr "O Software Livre é útil"
+
+#. type: Content of: <p>
+msgid ""
+"Free software is both versatile and effective in a wide variety of "
+"applications.  Because the source code is given, it can be tailored "
+"specifically to an individuals needs&hellip; Something not easily "
+"accomplished with proprietary software."
+msgstr ""
+"O software livre é versátil e eficaz em uma ampla variedade de aplicações. "
+"Como o código-fonte é fornecido, ele pode ser adaptado especificamente às "
+"necessidades de um indivíduo… Algo não facilmente realizado com software "
+"proprietário."
+
+#. type: Content of: <blockquote><p>
+msgid ""
+"&ldquo;As you well know, GNU tools are all over the place for the various "
+"space missions.  They are used extensively throughout the mission "
+"development, test and operations phases.  I wrote the DARTS dynamics "
+"simulator for Cassini (spacecraft) several years ago and relied heavily on "
+"tools such as GCC, GDB, Emacs, RCS etc.  These and others are in use by many "
+"other spacecraft missions including Galileo, Mars Pathfinder, New Millennium "
+"etc.  It is my personal belief that the FSF activities and software have "
+"been a tremendous source of high quality tools which are readily accessible "
+"and usable by the community.&rdquo;"
+msgstr ""
+"“Como é sabido, as ferramentas GNU estão em todo o lugar em as várias "
+"missões espaciais. Elas são usadas extensivamente durante as fases de "
+"desenvolvimento, teste e operação da missão. Eu escrevi o simulador de "
+"dinâmicas DARTS para a Cassini (espaçonave) vários anos atrás e confiei "
+"fortemente em ferramentas como GCC, GDB, Emacs, RCS etc. Estas e outras "
+"ferramentas estão em uso em muitas outras missões espaciais, incluindo "
+"Galileo, Mars Pathfinder, New Millennium etc. É minha convicção pessoal de "
+"que as atividades e os softwares da FSF foram uma enorme fonte de "
+"ferramentas de alta qualidade que são facilmente acessíveis e utilizáveis "
+"pela comunidade.”"
+
+#. type: Content of: <p><strong>
+msgid "<strong>Abhinandan Jain"
+msgstr "<strong>Abhinandan Jain"
+
+#. type: Content of: <p>
+msgid "NASA engineer</strong>"
+msgstr "engenheiro da Nasa</strong>"
+
+#. type: Content of: <p>
+msgid ""
+"Regarding graphics development for the &ldquo;Titanic&rdquo; movie "
+"production:"
+msgstr ""
+"Com relação ao desenvolvimento de gráficos para a produção do filme "
+"“Titanic”:"
+
+#. type: Content of: <blockquote><p>
+msgid ""
+"&ldquo;Using 200 DEC Alpha-based systems running the Red Hat 4.1 "
+"distribution of GNU/Linux, after upgrading the kernel to support the PC164 "
+"mainboard, Digital Domain found a performance increase of three to four over "
+"SGI systems.  The combination of the GNU/Linux OS and Alpha CPUs also "
+"delivered the most cost-effective solution to time and processing demands."
+"&rdquo;"
+msgstr ""
+"“Usando 200 sistemas DEC baseados em Alpha com a distribuição Red Hat 4.1 do "
+"GNU/Linux, depois de atualizar o kernel para suportar a placa-mãe PC164, a "
+"Digital Domain encontrou um aumento de desempenho de três a quatro em "
+"sistemas SGI. A combinação dos sistemas operacionais GNU/Linux e CPUs do "
+"Alpha também forneceu a solução mais econômica para as demandas de tempo e "
+"processamento.”"
+
+#. type: Content of: <p><strong>
+msgid "<strong>Daryll Strauss"
+msgstr "<strong>Daryll Strauss"
+
+#. type: Content of: <p>
+msgid "Digital Domain</strong>"
+msgstr "Digital Domain</strong>"
+
+#. type: Content of: <blockquote><p>
+msgid ""
+"&ldquo;The proper care of our cancer patients would not be what it is today "
+"without [GNU/]Linux &hellip; The tools that we have been able to deploy from "
+"free software channels have enabled us to write and develop innovative "
+"applications which &hellip; do not exist through commercial avenues.&rdquo;"
+msgstr ""
+"“O cuidado adequado de nossos pacientes com câncer não seria o que é hoje "
+"sem o [GNU/] Linux … As ferramentas que conseguimos implementar a partir de "
+"canais de software livre nos permitiram escrever e desenvolver aplicações "
+"inovadoras que … não existem através dos meios comerciais. ”"
+
+#. type: Content of: <p><strong>
+msgid "<strong>Dr. G.W. Wettstein"
+msgstr "<strong>Dr. G.W. Wettstein"
+
+#. type: Content of: <p><strong>
+msgid "Cancer Center"
+msgstr "Centro de Oncologia"
+
+#. type: Content of: <p>
+msgid "Fargo, North Dakota</strong>"
+msgstr "Fargo, Dakota do Norte</strong>"
+
+#. type: Content of: <blockquote><p>
+msgid ""
+"&ldquo;Within three months, we demonstrated a product developed entirely on "
+"[free] software, the core of which were the programming tools (GCC and GDB) "
+"from the Free Software Foundation.  Solid code, it was cross-platform "
+"compatible with either Motif or Lesstif.  Our satisfied customers extended "
+"the contract and we won some corporate visibility in a very high tech market "
+"&hellip;&rdquo;"
+msgstr ""
+"“Em três meses, demonstramos um produto desenvolvido inteiramente em "
+"software [livre], cujo núcleo era as ferramentas de programação (GCC e GDB) "
+"da Free Software Foundation. De código sólido, era de multiplataforma "
+"compatível com Motif ou Lesstif. Nossos clientes satisfeitos estenderam o "
+"contrato e ganhamos alguma visibilidade corporativa em um mercado de alta "
+"tecnologia …”"
+
+#. type: Content of: <p><strong>
+msgid "<strong>Ron Broberg"
+msgstr "<strong>Ron Broberg"
+
+#. type: Content of: <p><strong>
+msgid "Systems Engineer"
+msgstr "Engenheiro de Sistemas"
+
+#. type: Content of: <p>
+msgid "Lockheed-Martin</strong>"
+msgstr "Lockheed-Martin</strong>"
+
+#. type: Content of: <blockquote><p>
+msgid ""
+"&ldquo;[The Free Software Foundation's] high quality software makes our work "
+"easier, and we value it greatly &hellip; Recently we have received some "
+"prizes and monetary awards for our work. We believe we would not have "
+"received these without your software.&rdquo;"
+msgstr ""
+"“Os softwares de alta qualidade [da Free Software Foundation] torna nosso "
+"trabalho mais fácil, e nós valorizamos muito isso… Recentemente recebemos "
+"alguns prêmios e premiações monetárias pelo o nosso trabalho. Acreditamos "
+"que não teríamos os recebido sem software de vocês.”"
+
+#. type: Content of: <p><strong>
+msgid "<strong>VSC Research and Development group"
+msgstr "<strong>grupo de pesquisa e desenvolvimento VSC"
+
+#. type: Content of: <p>
+msgid "Toyota Motor Corporation</strong>"
+msgstr "Toyota Motor Corporation</strong>"
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr ""
+"Traduzido por: GUILHERME CARVALHO <a href=\"mailto:funkymarxist@protonmail."
+"com\">&lt;funkymarxist@protonmail.com&gt;</a>, 2017."
+
+# type: Content of: <div><p>
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF.  Links quebrados e outras correções ou "
+"sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid ""
+"Copyright &copy; 1998, 1999, 2000, 2001, 2005, 2006, 2008, 2012, 2013, 2014 "
+"Free Software Foundation, Inc."
+msgstr ""
+"Copyright &copy; 1998, 1999, 2000, 2001, 2005, 2006, 2008, 2012, 2013, 2014 "
+"Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+"NoDerivs 3.0 United States License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: GUILHERME CARVALHO<a href=\"mailto:funkymarxist@protonmail.com"
+"\">&lt;funkymarxist@protonmail.com&gt;</a>, 2017."
+
+# type: Content of: <div><p>
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização: "

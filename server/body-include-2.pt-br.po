@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: body-include-2.html\n"
 "POT-Creation-Date: 2017-11-16 07:56+0000\n"
-"PO-Revision-Date: 2017-09-28 00:20-0300\n"
+"PO-Revision-Date: 2017-11-18 18:21-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -26,6 +26,8 @@ msgid ""
 "Associate members power up the Free Software Foundation.  Help smash our "
 "goal of <b>700</b> new members or donate by December 31st!"
 msgstr ""
+"Membros associados empoderam a Free Software Foundation. Ajude-nos a atingir "
+"nossa meta de <b>700</b> novos membros ou doe até 31 de dezembro!"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -34,19 +36,23 @@ msgid ""
 "\"join\" href=\"http://my.fsf.org/join?"
 "pk_campaign=2017_Fundraiser_Banner&amp;pk_kwd=Join\"> Join</a>"
 msgstr ""
+"<a class=\"donate\" href=\"http://my.fsf.org/donate?"
+"pk_campaign=2017_Fundraiser_Banner&amp;pk_kwd=Donate\"> Doe</a> <a class="
+"\"join\" href=\"http://my.fsf.org/join?"
+"pk_campaign=2017_Fundraiser_Banner&amp;pk_kwd=Join\"> Junte-se</a>"
 
 #. type: Content of: <div><div><div><span>
 msgid "<span class=\"percentage\">"
-msgstr ""
+msgstr "<span class=\"percentage\">"
 
 #. #echo encoding="none" var="d_value" 
 #. type: Content of: <div><div><div>
 msgid "</span>"
-msgstr ""
+msgstr "</span>"
 
 #. type: Content of: <div><div><div>
 msgid "<span class=\"goal\">$450,000</span>"
-msgstr ""
+msgstr "<span class=\"goal\">$450,000</span>"
 
 #. type: Content of: <div><div><div><p>
 msgid "<a href=\"//www.fsf.org/fss\">Free Software Supporter</a>"
@@ -155,8 +161,8 @@ msgstr "<a href=\"/help/help.html\">AJUDE&nbsp;O&nbsp;GNU</a>"
 
 #~ msgid "<label>Enter your email address (e.g. richard@example.com)</label>"
 #~ msgstr ""
-#~ "<label>Digite seu endereço de e-mail (por exemplo richard@exemplo.com."
-#~ "br)</label>"
+#~ "<label>Digite seu endereço de e-mail (por exemplo richard@exemplo.com.br)"
+#~ "</label>"
 
 # type: Content of: <body><div><div><form><div>
 #~ msgid ""

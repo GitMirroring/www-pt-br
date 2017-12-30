@@ -2,12 +2,14 @@
 # Copyright (C) 2017 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Rafael Fontenelle <rafaelff@gnome.org>, 2016, 2017.
-# Paulo Francisco Slomp <slomp@ufrgs.br>, 2016.
+# Paulo Francisco Slomp <slomp@ufrgs.br>, 2016. (proofread)
+# Daniel Pimentel <d4n1@d4n1.org>, 2017. (proofread)
+# André Phellip Ferreira <werewolf@cyberdude.com>, 2017. (proofread)
 msgid ""
 msgstr ""
 "Project-Id-Version: surveillance-vs-democracy.html\n"
 "POT-Creation-Date: 2017-11-09 19:26+0000\n"
-"PO-Revision-Date: 2017-05-20 16:20-0300\n"
+"PO-Revision-Date: 2017-12-29 18:45-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -330,9 +332,9 @@ msgid ""
 "accessible to the state."
 msgstr ""
 "A vigilância total que o Estado pode obter permite que o mesmo realize uma "
-"perseguição indiscriminada, dirigida contra qualquer pessoa. Para tonar o "
+"perseguição indiscriminada, dirigida contra qualquer pessoa. Para tornar o "
 "jornalismo e a democracia seguros, necessitamos limitar a acumulação de "
-"dados que está facilmente acessível ao Estado."
+"dados que estão facilmente acessíveis ao Estado."
 
 #. type: Content of: <div><h3>
 msgid "Robust Protection for Privacy Must Be Technical"
@@ -432,24 +434,6 @@ msgstr ""
 "libre em seu próprio computadores antes de enviá-lo."
 
 #. type: Content of: <div><div><p>
-# | For privacy's sake, you must avoid nonfree software since, as a
-# | consequence of giving others control of your computing, it is <a
-# | [-href=\"/philosophy/proprietary-surveillance.html\">likely-]
-# | {+href=\"/malware/proprietary-surveillance.html\">likely+} to spy on
-# | you</a>.  Avoid <a
-# | href=\"/philosophy/who-does-that-server-really-serve.html\">service as a
-# | software substitute</a>; [-as well as-] {+in addition to+} giving others
-# | control of {+how+} your [-computing,-] {+computing is done,+} it requires
-# | you to hand over all the pertinent data to the server.
-#, fuzzy
-#| msgid ""
-#| "For privacy's sake, you must avoid nonfree software since, as a "
-#| "consequence of giving others control of your computing, it is <a href=\"/"
-#| "philosophy/proprietary-surveillance.html\">likely to spy on you</a>.  "
-#| "Avoid <a href=\"/philosophy/who-does-that-server-really-serve.html"
-#| "\">service as a software substitute</a>; as well as giving others control "
-#| "of your computing, it requires you to hand over all the pertinent data to "
-#| "the server."
 msgid ""
 "For privacy's sake, you must avoid nonfree software since, as a consequence "
 "of giving others control of your computing, it is <a href=\"/malware/"
@@ -460,9 +444,9 @@ msgid ""
 msgstr ""
 "Por uma questão de privacidade, você deve evitar softwares não livres já "
 "que, como uma consequência de dar a outros o controle de seu computador, "
-"isto <a href=\"/philosophy/proprietary-surveillance.html\">possibilita lhe "
+"isto <a href=\"/malware/proprietary-surveillance.html\">possibilita lhe "
 "espiar</a>. Evite <a href=\"/philosophy/who-does-that-server-really-serve."
-"html\">serviços como um substituto de softwares</a>; assim como fornecer a "
+"html\">serviços como um substituto de softwares</a>; além de fornecer a "
 "outros o controle de seu computador, isso requer que você entregue todos os "
 "dados pertinentes do servidor."
 
@@ -726,14 +710,15 @@ msgid ""
 "obstruct them."
 msgstr ""
 "Nós poderíamos corrigir ambos problemas adotando um sistema de pagamentos "
-"anônimos — anônimos para o pagador (não queremos ajudar o vendedor esquivar "
-"de taxas). <a href=\"http://www.wired.com/opinion/2013/05/lets-cut-through-"
-"the-bitcoin-hype/\">Bitcoin não é anônimo</a>, apesar de haver esforços para "
-"desenvolver formas de pagar anonimamente com o Bitcoin. Porém, a tecnologia "
-"para <a href=\"http://www.wired.com/wired/archive/2.12/emoney_pr.html"
-"\">dinheiro digital foi primeiramente nos anos 80s</a>; o software GNU para "
-"fazer isso é chamado <a href=\"http://taler.net/\">GNU Taler</a>. Agora, só "
-"precisamos de organizar um negócio adequado, e que o Estado não o obstrua."
+"anônimos — anônimos para o pagador (não queremos ajudar o vendedor a se "
+"esquivar das taxas). <a href=\"http://www.wired.com/opinion/2013/05/lets-cut-"
+"through-the-bitcoin-hype/\">Bitcoin não é anônimo</a>, apesar de haver "
+"esforços para desenvolver formas de pagar anonimamente com o Bitcoin. Porém, "
+"a tecnologia para <a href=\"http://www.wired.com/wired/archive/2.12/"
+"emoney_pr.html\">dinheiro digital foi primeiramente nos anos 80s</a>; o "
+"software GNU para fazer isso é chamado <a href=\"http://taler.net/\">GNU "
+"Taler</a>. Agora, só precisamos organizar um negócio adequado, e que o "
+"Estado não o obstrua."
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -986,7 +971,7 @@ msgid ""
 "prevent digital systems from accumulating massive dossiers before the fact."
 msgstr ""
 "Para o Estado localizar criminosos, é necessário ser capaz de investigar "
-"crimes específicos, ou suspeitas específicas de crimes planejados, sob um "
+"crimes específicos, ou suspeitas específicas de crimes planejados, sob uma "
 "ordem judicial. Com a Internet, o poder de interceptar conversas telefônicas "
 "seriam naturalmente estendidas com o poder de interceptar as conexões com a "
 "Internet. Esse poder é fácil de ser usado com abuso por razões políticas, "
@@ -1017,7 +1002,7 @@ msgstr ""
 "\">fotógrafos</a>.) Uma cidade na Califórnia que exigiu que policiais "
 "utilizassem câmeras de vídeo na farda todo o tempo, descobriu que <a href="
 "\"http://www.motherjones.com/kevin-drum/2013/08/ubiquitous-surveillance-"
-"police-edition\">eles seu uso de força caiu em 60%</a>;. A ACLU concorda com "
+"police-edition\">o uso da força deles caiu em 60%</a>;. A ACLU concorda com "
 "isto."
 
 #. type: Content of: <div><div><p>
