@@ -8,7 +8,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: surveillance-vs-democracy.html\n"
-"POT-Creation-Date: 2017-11-09 19:26+0000\n"
+"POT-Creation-Date: 2018-01-13 15:55+0000\n"
 "PO-Revision-Date: 2017-12-29 18:45-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -237,6 +237,16 @@ msgstr ""
 "responsabilizar a NSA</a>.) A suspeita de um crime seria fundamento para o "
 "acesso, então uma vez que os denunciantes foram acusados de “espionagem”, "
 "localizar o “espião” será uma desculpa para acessar o material acumulado."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"In practice, we can't expect state agencies even to make up excuses to "
+"satisfy the rules for using surveillance data&mdash;because US agencies "
+"already <a href=\"https://theintercept.com/2018/01/09/dark-side-fbi-dea-"
+"illegal-searches-secret-evidence/\"> lie to cover up breaking the rules</"
+"a>.  These rules are not seriously meant to be obeyed; rather, they are a "
+"fairy-tale we can believe if we like."
+msgstr ""
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -1166,7 +1176,10 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2015, 2016, 2017 Richard Stallman"
+# | Copyright &copy; 2015, 2016, [-2017-] {+2017, 2018+} Richard Stallman
+#, fuzzy
+#| msgid "Copyright &copy; 2015, 2016, 2017 Richard Stallman"
+msgid "Copyright &copy; 2015, 2016, 2017, 2018 Richard Stallman"
 msgstr "Copyright &copy; 2015, 2016, 2017 Richard Stallman"
 
 #. type: Content of: <div><p>

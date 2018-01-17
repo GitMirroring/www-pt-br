@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-spyware.html\n"
-"POT-Creation-Date: 2017-10-14 08:56+0000\n"
+"POT-Creation-Date: 2018-01-01 05:59+0000\n"
 "PO-Revision-Date: 2017-10-22 19:53-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -411,7 +411,10 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2012, 2016, 2017 Richard Stallman"
+# | Copyright &copy; 2012, 2016, [-2017-] {+2017, 2018+} Richard Stallman
+#, fuzzy
+#| msgid "Copyright &copy; 2012, 2016, 2017 Richard Stallman"
+msgid "Copyright &copy; 2012, 2016, 2017, 2018 Richard Stallman"
 msgstr "Copyright &copy; 2012, 2016, 2017 Richard Stallman"
 
 #. type: Content of: <div><p>

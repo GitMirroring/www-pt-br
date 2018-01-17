@@ -10,7 +10,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: distros.html\n"
-"POT-Creation-Date: 2017-10-16 18:55+0000\n"
+"POT-Creation-Date: 2018-01-01 05:56+0000\n"
 "PO-Revision-Date: 2017-10-22 19:59-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -308,7 +308,11 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2014, 2015, 2017 Free Software Foundation, Inc."
+# | Copyright &copy; 2014, 2015, [-2017-] {+2017, 2018+} Free Software
+# | Foundation, Inc.
+#, fuzzy
+#| msgid "Copyright &copy; 2014, 2015, 2017 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2014, 2015, 2017, 2018 Free Software Foundation, Inc."
 msgstr "Copyright &copy; 2014, 2015, 2017 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
