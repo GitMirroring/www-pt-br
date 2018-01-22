@@ -1,12 +1,12 @@
 # LANGUAGE translation of http://www.gnu.org/server/standards/README.translations.html
 # Copyright (C) 2016 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2016, 2017.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2016, 2017, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: README.translations.html\n"
 "POT-Creation-Date: 2017-12-11 07:56+0000\n"
-"PO-Revision-Date: 2017-09-28 06:41-0300\n"
+"PO-Revision-Date: 2018-01-18 15:06-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -1114,25 +1114,14 @@ msgstr ""
 "a>)"
 
 #. type: Content of: <ul><li>
-# | [-<code>de</code>-]{+<code>pt-br</code>+} - <a
-# | [-href=\"https://savannah.gnu.org/projects/www-de\">German</a>-]
-# | {+href=\"https://savannah.gnu.org/projects/www-pt-br\">Brazilian
-# | Portuguese</a>+} (<a [-href=\"https://savannah.gnu.org/users/joeko\">Joerg
-# | Kohne</a>)-] {+href=\"https://savannah.gnu.org/users/rafaelff1\">Rafael
-# | Fontenelle</a>)+}
-#, fuzzy
-#| msgid ""
-#| "<code>de</code> - <a href=\"https://savannah.gnu.org/projects/www-de"
-#| "\">German</a> (<a href=\"https://savannah.gnu.org/users/joeko\">Joerg "
-#| "Kohne</a>)"
 msgid ""
 "<code>pt-br</code> - <a href=\"https://savannah.gnu.org/projects/www-pt-br"
 "\">Brazilian Portuguese</a> (<a href=\"https://savannah.gnu.org/users/"
 "rafaelff1\">Rafael Fontenelle</a>)"
 msgstr ""
-"<code>de</code> - <a href=\"https://savannah.gnu.org/projects/www-de"
-"\">Alemão</a> (<a href=\"https://savannah.gnu.org/users/joeko\">Joerg Kohne</"
-"a>)"
+"<code>pt-br</code> - <a href=\"https://savannah.gnu.org/projects/www-pt-br"
+"\">Português brasileiro</a> (<a href=\"https://savannah.gnu.org/users/"
+"rafaelff1\">Rafael Fontenelle</a>)"
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -1239,27 +1228,17 @@ msgid ""
 "Xie Wensheng</a>)"
 msgstr ""
 "<code>zh-cn</code> - <a href=\"https://savannah.gnu.org/projects/www-zh-cn"
-"\">Chinês Simplificado</a> (<a href=\"https://savannah.gnu.org/users/wxie\"> "
+"\">Chinês simplificado</a> (<a href=\"https://savannah.gnu.org/users/wxie\"> "
 "Xie Wensheng</a>)"
 
 #. type: Content of: <ul><li>
-# | <code>zh-tw</code> - <a
-# | [-href=\"https://savannah.gnu.org/projects/www-zh-cn\">Traditional-]
-# | {+href=\"https://savannah.gnu.org/projects/www-zh-tw\">Traditional+}
-# | Chinese</a> (<a href=\"https://savannah.gnu.org/users/zerngjia\">
-# | Cheng-Chia Tseng</a>)
-#, fuzzy
-#| msgid ""
-#| "<code>zh-tw</code> - <a href=\"https://savannah.gnu.org/projects/www-zh-cn"
-#| "\">Traditional Chinese</a> (<a href=\"https://savannah.gnu.org/users/"
-#| "zerngjia\"> Cheng-Chia Tseng</a>)"
 msgid ""
 "<code>zh-tw</code> - <a href=\"https://savannah.gnu.org/projects/www-zh-tw"
 "\">Traditional Chinese</a> (<a href=\"https://savannah.gnu.org/users/zerngjia"
 "\"> Cheng-Chia Tseng</a>)"
 msgstr ""
-"<code>zh-tw</code> - <a href=\"https://savannah.gnu.org/projects/www-zh-cn"
-"\">Chinês Tradicional</a> (<a href=\"https://savannah.gnu.org/users/zerngjia"
+"<code>zh-tw</code> - <a href=\"https://savannah.gnu.org/projects/www-zh-tw"
+"\">Chinês tradicional</a> (<a href=\"https://savannah.gnu.org/users/zerngjia"
 "\"> Cheng-Chia Tseng</a>)"
 
 #. type: Content of: <ul><li>
@@ -1367,7 +1346,7 @@ msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Rafael Fontenelle\n"
 "<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, 2016, "
-"2017"
+"2017, 2018"
 
 # type: Content of: <div><p>
 #.  timestamp start 

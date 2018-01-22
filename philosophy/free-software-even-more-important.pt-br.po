@@ -3,11 +3,12 @@
 # This file is distributed under the same license as the original article.
 # Bruno Félix Rezende Ribeiro <oitofelix@gnu.org>, 2015.
 # Rafael Fontenelle <rafaelff@gnome.org>, 2017.
+# André Phellip Ferreira <werewolf@cyberdude.com>, 2018. (proofread).
 msgid ""
 msgstr ""
 "Project-Id-Version: free-software-even-more-important.html\n"
 "POT-Creation-Date: 2017-11-07 13:56+0000\n"
-"PO-Revision-Date: 2017-10-21 14:32-0200\n"
+"PO-Revision-Date: 2018-01-17 16:25-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -85,22 +86,6 @@ msgstr ""
 "sobre os usuários, poder que ninguém deveria ter."
 
 #. type: Content of: <p>
-# | Those two nonfree programs have something else in common: they are both
-# | <em>malware</em>.  That is, both have functionalities designed to mistreat
-# | the user.  Proprietary software nowadays is often malware because <a
-# | [-href=\"/proprietary/proprietary.html\">the-] {+href=\"/malware/\">the+}
-# | developers' power corrupts them</a>.  That directory lists around 300
-# | different malicious functionalities (as of Apr 2017), but it is surely
-# | just the tip of the iceberg.
-#, fuzzy
-#| msgid ""
-#| "Those two nonfree programs have something else in common: they are both "
-#| "<em>malware</em>.  That is, both have functionalities designed to "
-#| "mistreat the user.  Proprietary software nowadays is often malware "
-#| "because <a href=\"/proprietary/proprietary.html\">the developers' power "
-#| "corrupts them</a>.  That directory lists around 300 different malicious "
-#| "functionalities (as of Apr 2017), but it is surely just the tip of the "
-#| "iceberg."
 msgid ""
 "Those two nonfree programs have something else in common: they are both "
 "<em>malware</em>.  That is, both have functionalities designed to mistreat "
@@ -110,12 +95,11 @@ msgid ""
 "surely just the tip of the iceberg."
 msgstr ""
 "Esses dois programas não livres têm algo mais em comum: ambos são "
-"<em>malwares</em>.  Ou seja, ambos têm funcionalidades concebidas para "
+"<em>malwares</em>. Ou seja, ambos têm funcionalidades concebidas para "
 "maltratar o usuário.  O software proprietário hoje em dia é muitas vezes "
-"malware porque <a href=\"/proprietary/proprietary.html\">o poder dos "
-"desenvolvedores os corrompem</a>. Este diretório lista cerca de 300 "
-"funcionalidades maliciosas diferentes (até abril de 2017), mas com certeza é "
-"apenas a ponta do iceberg."
+"malware porque <a href=\"/malware/\">o poder dos desenvolvedores os "
+"corrompem</a>. Este diretório lista cerca de 300 funcionalidades maliciosas "
+"diferentes (até abril de 2017), mas com certeza é apenas a ponta do iceberg."
 
 #. type: Content of: <p>
 msgid ""
@@ -131,18 +115,6 @@ msgstr ""
 "fazer)."
 
 #. type: Content of: <p>
-# | With proprietary software, the program controls the users, and some other
-# | entity (the developer or &ldquo;owner&rdquo;) controls the program.  So
-# | the proprietary program gives its developer power over its users.  That is
-# | unjust in [-itself, and-] {+itself; moreover, it+} tempts the developer to
-# | mistreat the users in other ways.
-#, fuzzy
-#| msgid ""
-#| "With proprietary software, the program controls the users, and some other "
-#| "entity (the developer or &ldquo;owner&rdquo;) controls the program.  So "
-#| "the proprietary program gives its developer power over its users.  That "
-#| "is unjust in itself, and tempts the developer to mistreat the users in "
-#| "other ways."
 msgid ""
 "With proprietary software, the program controls the users, and some other "
 "entity (the developer or &ldquo;owner&rdquo;) controls the program.  So the "
@@ -153,8 +125,8 @@ msgstr ""
 "Com o software proprietário, o programa controla os usuários e alguma outra "
 "entidade (o desenvolvedor ou “proprietário”) controla o programa.  Assim, o "
 "programa proprietário dá ao seu desenvolvedor poder sobre seus usuários.  "
-"Isso é injusto em si mesmo, e o desenvolvedor se vê tentado a maltratar os "
-"usuários de outras maneiras."
+"Isso é injusto por si só; além disso, isso instiga o desenvolvedor a "
+"maltratar os usuários de outras maneiras."
 
 #. type: Content of: <p>
 msgid ""
@@ -305,7 +277,7 @@ msgstr ""
 
 #. type: Content of: <h3>
 msgid "The Injustice of Proprietariness"
-msgstr "A Injustiça da Privatividade"
+msgstr "A Injustiça da Proprietariedade"
 
 #. type: Content of: <p>
 msgid ""
@@ -365,7 +337,7 @@ msgstr ""
 "do software livre desenvolve programas livres para que os usuários possam se "
 "libertar.  Começamos em 1984 a desenvolver o sistema operacional livre <a "
 "href=\"/gnu/the-gnu-project.html\">GNU</a>.  Hoje, milhões de computadores "
-"executam GNU, primariamente na <a href=\"/gnu/gnu-linux-faq.html"
+"executam GNU, principalmente na <a href=\"/gnu/gnu-linux-faq.html"
 "\">combinação GNU/Linux</a>."
 
 #. type: Content of: <p>
@@ -772,9 +744,13 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"<b>Tradução</b>: <a href=\"http://oitofelix.freeshell.org/\">Bruno Félix "
+"Traduzido por: <a href=\"http://oitofelix.freeshell.org/\">Bruno Félix "
 "Rezende Ribeiro</a> <a href=\"mailto:oitofelix@gnu.org\">&lt;oitofelix@gnu."
-"org&gt;</a>, 2015."
+"org&gt;</a>, 2015;\n"
+"Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome."
+"org&gt;</a>, 2017.<br/>\n"
+"Revisado por: André Phellip Ferreira <a href=\"mailto:werewolf@cyberdude.com"
+"\">&lt;werewolf@cyberdude.com&gt;</a>, 2018."
 
 # type: Content of: <div><p>
 #.  timestamp start 

@@ -1,0 +1,517 @@
+# Brazilian Portuguese translation of https://www.gnu.org/software/software.html
+# Copyright (C) 2018 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018.
+# André Phellip Ferreira <werewolf@cyberdude.com>, 2018. (proofread).
+msgid ""
+msgstr ""
+"Project-Id-Version: software.html\n"
+"POT-Creation-Date: 2016-09-29 13:55+0000\n"
+"PO-Revision-Date: 2018-01-17 16:32-0200\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid "Software - GNU Project - Free Software Foundation"
+msgstr "Software - Projeto GNU - Free Software Foundation"
+
+#. type: Content of: <h2>
+msgid "GNU Software"
+msgstr "Software GNU"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<strong><a href=\"/distros/free-distros.html\">Wholly free GNU/Linux "
+"Distributions</a></strong>"
+msgstr ""
+"<strong><a href=\"/distros/free-distros.html\">Distribuições GNU/Linux "
+"totalmente livre</a></strong>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/distros/distros.html\">GNU/Linux Distributions</a>"
+msgstr "<a href=\"/distros/distros.html\">Distribuições GNU/Linux</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"http://directory.fsf.org/wiki/GNU/\">Free Software Directory</a>"
+msgstr ""
+"<a href=\"http://directory.fsf.org/wiki/GNU/\">Diretório de Software Livre</"
+"a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/manual/manual.html\">Manuals</a>"
+msgstr "<a href=\"/manual/manual.html\">Manuais</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/software/devel.html\">Development resources</a>"
+msgstr "<a href=\"/software/devel.html\">Recursos de desenvolvimento</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/software/gethelp.html\">Get help</a>"
+msgstr "<a href=\"/software/gethelp.html\">Obtendo ajuda</a>"
+
+#. type: Content of: <p>
+msgid ""
+"<a href=\"/gnu/about-gnu.html\">GNU</a> is an operating system which is 100% "
+"free software.  It was launched in 1983 by Richard Stallman (rms)  and has "
+"been developed by many people working together for the sake of freedom of "
+"all software users to control their computing.  Technically, GNU is "
+"generally like Unix.  But unlike Unix, GNU gives its users freedom."
+msgstr ""
+"<a href=\"/gnu/about-gnu.html\">GNU</a> é um sistema operacional que é 100% "
+"software livre. Foi lançado em 1983 por Richard Stallman (rms) e foi "
+"desenvolvido por muitas pessoas trabalhando juntas por causa da liberdade de "
+"todos os usuários de software para controlar sua computação. Tecnicamente, o "
+"GNU é geralmente como o Unix. Mas, ao contrário do Unix, o GNU dá liberdade "
+"a seus usuários."
+
+#. type: Content of: <p>
+msgid ""
+"The GNU system contains all of the <a href=\"/philosophy/categories."
+"html#GNUsoftware\">official GNU software packages</a> (which are listed "
+"below), and also includes non-GNU free software, notably TeX and the X "
+"Window System.  Also, the GNU system is not a single static set of programs; "
+"users and distributors may select different packages according to their "
+"needs and desires.  The result is still a variant of the GNU system."
+msgstr ""
+"O sistema GNU contém todos os <a href=\"/philosophy/categories."
+"html#GNUsoftware\"> pacotes oficiais de software GNU</a> (que estão listados "
+"abaixo), e também inclui software livre que não é GNU, notadamente TeX e o X "
+"Window System. Além disso, o sistema GNU não é um único conjunto estático de "
+"programas; os usuários e distribuidores podem selecionar diferentes pacotes "
+"de acordo com suas necessidades e desejos. O resultado ainda é uma variante "
+"do sistema GNU."
+
+#. type: Content of: <p>
+msgid ""
+"If you're looking for a whole system to install, see our <a href=\"/distros/"
+"free-distros.html\">list of GNU/Linux distributions which are entirely free "
+"software</a>."
+msgstr ""
+"Se você estiver procurando por um sistema inteiro para instalar, veja nossa "
+"<a href=\"/distros/free-distros.html\"> lista de distribuições GNU/Linux que "
+"são totalmente software livre</a>."
+
+#. type: Content of: <p>
+msgid ""
+"To look for individual free software packages, both GNU and non-GNU, please "
+"see the <a href=\"http://directory.fsf.org/\">Free Software Directory</a>: a "
+"categorized, searchable database of free software.  The Directory is "
+"actively maintained by the <a href=\"http://www.fsf.org/\">Free Software "
+"Foundation</a> and includes links to program home pages where available, as "
+"well as entries for <a href=\"http://directory.fsf.org/wiki/GNU/\">all GNU "
+"packages</a>.  Another list of <a href=\"#allgnupkgs\">all GNU packages</a> "
+"is below.  <a href=\"/doc/doc.html\">Free software documentation links</a> "
+"are listed separately."
+msgstr ""
+"Para procurar pacotes de software livre individuais, GNU e não GNU, consulte "
+"o <a href=\"http://directory.fsf.org/\">Diretório de Software Livre</a>: um "
+"banco de dados categorizado e pesquisável de software livre. O Diretório é "
+"ativamente mantido pela <a href=\"http://www.fsf.org/\">Free Software "
+"Foundation</a> e inclui links para páginas de programas, quando disponíveis, "
+"bem como entradas para <a href=\"http://directory.fsf.org/wiki/GNU/\">todos "
+"os pacotes GNU</a>. Outra lista de <a href=\"#allgnupkgs\">todos os pacotes "
+"GNU</a> está abaixo. <a href=\"/doc/doc.html\">Links de documentação de "
+"software livre</a> estão listados separadamente."
+
+#. type: Content of: <p>
+msgid ""
+"Finally, we have a <a href=\"/software/for-windows.html\">short list of free "
+"software for Microsoft Windows</a>, for Windows users who would like to try "
+"free software."
+msgstr ""
+"Finalmente, temos uma <a href=\"/software/for-windows.html\">lista curta de "
+"softwares livres para o Microsoft Windows</a>, para usuários do Windows que "
+"gostariam de experimentar o software livre."
+
+#. type: Content of: <p>
+msgid ""
+"We have also published a <a href=\"/software/free-software-for-education.html"
+"\"> list of recommended educational software</a>."
+msgstr ""
+"Também publicamos uma <a href=\"/software/free-software-for-education.html"
+"\"> lista de softwares educacionais recomendados</a>."
+
+#. type: Content of: <h3>
+msgid "How to get GNU software"
+msgstr "Como obter software GNU"
+
+#. type: Content of: <div><p>
+msgid "<strong>Download distributions</strong>"
+msgstr "<strong>Baixar distribuições</strong>"
+
+#. type: Content of: <div><p><a>
+msgid "<a href=\"/distros/free-distros.html\">"
+msgstr "<a href=\"/distros/free-distros.html\">"
+
+#. type: Attribute 'alt' of: <div><p><a><img>
+msgid "GNU and Linux"
+msgstr "GNU e Linux"
+
+# type: Content of: <div><p>
+#. type: Content of: <div><p>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><p>
+msgid ""
+"<em>If you're looking for a whole system to install, see our <a href=\"/"
+"distros/free-distros.html\">list of GNU/Linux distributions which are "
+"entirely free software</a>.</em>"
+msgstr ""
+"<em>Se você estiver procurando por um sistema inteiro para instalar, veja "
+"nossa <a href=\"/distros/free-distros.html\"> lista de distribuições GNU/"
+"Linux que são totalmente software livre</a>.</em>"
+
+#. type: Content of: <p>
+msgid "GNU software is available by several different methods:"
+msgstr "Software GNU está disponível em vários métodos diferentes:"
+
+#. type: Content of: <ul><li>
+msgid ""
+"Download a <a href=\"/distros/free-distros.html\">wholly free GNU/Linux "
+"distribution</a>."
+msgstr ""
+"Baixe uma <a href=\"/distros/free-distros.html\">distribuição GNU/Linux "
+"totalmente livre</a>."
+
+#. type: Content of: <ul><li>
+msgid "Get a copy from a friend."
+msgstr "Obtenha uma cópia de um amigo."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Buy a computer with a wholly free GNU/Linux system preinstalled from <a href="
+"\"/links/companies.html\">one of the companies</a> that offers this."
+msgstr ""
+"Compre um computador com um sistema GNU/Linux totalmente livre pré-instalado "
+"de <a href=\"/links/companies.html\">uma das empresas</a> que oferece isso."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/order/ftp.html\">Download individual packages from the web or via "
+"FTP</a>: we provide source code for all GNU software as <a href=\"/"
+"philosophy/free-sw.html\">free software</a>, and free of charge.  (Please "
+"also make a <a href=\"/help/donate.html\">donation</a> to the FSF if you "
+"can, to help support the development of more free software.)"
+msgstr ""
+"<a href=\"/order/ftp.html\">Baixe pacotes individuais da web ou via FTP</a>: "
+"fornecemos o código fonte para todo o software GNU como <a href=\"/"
+"philosophy/free-sw.html\">software livre</a> e gratuito. (Por favor, faça "
+"uma <a href=\"/help/donate.html\">doação</a> para a FSF, se puder, para "
+"ajudar a apoiar o desenvolvimento de mais software livre.)"
+
+#. type: Content of: <ul><li>
+msgid ""
+"Use the <a href=\"/software/guix/guix.html\">GNU Guix</a> functional package "
+"manager to install and manage GNU package releases."
+msgstr ""
+"Use o gerenciador de pacotes funcional <a href=\"/software/guix/guix.html"
+"\">GNU Guix</a> para instalar e gerenciar lançamentos do pacote GNU."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Use the <a href=\"/software/gsrc/gsrc.html\">GNU GSRC</a> collection to "
+"easily install the latest GNU package releases on their own, without "
+"conflicting with any system versions."
+msgstr ""
+"Use a coleção <a href=\"/software/gsrc/gsrc.html\">GNU GSRC</a> para "
+"instalar facilmente os lançamentos mais recentes de pacotes GNU por conta "
+"própria, sem conflito com nenhuma versão do sistema."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Use the <a href=\"https://launchpad.net/~dns/+archive/gnu?field."
+"series_filter=\">GNU PPA</a> or <a href=\"https://launchpad.net/~dns/"
+"+archive/gnustep?field.series_filter=\">GNUstep PPA</a> (Personal Package "
+"Archive) on Trisquel, gNewSense, or related distros to get the latest "
+"releases suitably packaged."
+msgstr ""
+"Use o <a href=\"https://launchpad.net/~d//archive/gnu?field.series_filter="
+"\">GNU PPA</a> ou <a href=\"https://launchpad.net/~dns/+archive/gnustep?"
+"field.series_filter=\">GNUstep PPA</a> (Personal Package Archive ou “Arquivo "
+"de Pacotes Pessoais”) no Trisquel, gNewSense ou distros relacionados para "
+"obter as últimas versões adequadamente empacotadas."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Get the development sources for a package and build them.  Many GNU packages "
+"keep their development sources at the GNU hosting site <a href=\"http://"
+"savannah.gnu.org/\">savannah.gnu.org</a>.  Some packages use other source "
+"repositories, or have none at all.  Each package's web pages should give the "
+"specifics."
+msgstr ""
+"Obtenha os fontes de desenvolvimento para um pacote e compile-os. Muitos "
+"pacotes GNU mantêm seus fontes de desenvolvimento no site de hospedagem do "
+"GNU <a href=\"http://savannah.gnu.org/\">savannah.gnu.org</a>. Alguns "
+"pacotes usam outros repositórios de fontes, ou não têm nenhum. As páginas "
+"web de cada pacote devem fornecer as especificidades."
+
+#. type: Content of: <h3>
+msgid "Develop GNU software"
+msgstr "Desenvolva software GNU"
+
+#. type: Content of: <p>
+msgid ""
+"The FSF maintains a list of <a href=\"http://www.fsf.org/campaigns/priority."
+"html\">high-priority free software projects</a>; please help with these "
+"projects if you can.  For other ways to contribute to GNU, including "
+"reviving unmaintained GNU packages and helping with development, see the <a "
+"href=\"/help/help.html\">GNU help wanted</a> page."
+msgstr ""
+"A FSF mantém uma lista de <a href=\"http://www.fsf.org/campaigns/priority."
+"html\">projetos de software livre de alta prioridade</a>; ajude com esses "
+"projetos se você puder. Para outras formas de contribuir com o GNU, "
+"incluindo a revitalização de pacotes GNU não mantidos e ajudando com o "
+"desenvolvimento, veja a página de <a href=\"/help/help.html\">ajuda "
+"necessária GNU</a>."
+
+#. type: Content of: <p>
+msgid ""
+"If you're writing a new program and would like to make your software an "
+"official GNU package, see the <a href=\"/help/evaluation.html\">evaluation "
+"information and submission form</a>. Refer to the <a href=\"/software/repo-"
+"criteria.html\">ethical repository criteria</a> for guidance choosing a "
+"hosting service for your project."
+msgstr ""
+"Se você estiver escrevendo um novo programa e quiser fazer do seu software "
+"um pacote oficial do GNU, veja a <a href=\"/help/evaluation.html"
+"\">informação de avaliação e formulário de envio</a>. Consulte os <a href=\"/"
+"software/repo-criteria.html\">critérios de repositório ético</a> para "
+"orientação, escolhendo um serviço de hospedagem para o seu projeto."
+
+#. type: Content of: <p>
+msgid ""
+"If you're maintaining or developing a GNU package, whether newly dubbed or "
+"of long standing, this short list of <a href=\"/software/maintainer-tips.html"
+"\">tips for GNU maintainers</a> may be useful, along with this information "
+"about <a href=\"/software/devel.html\">GNU software developer resources</a>."
+msgstr ""
+"Se você estiver mantendo ou desenvolvendo um pacote GNU, seja recentemente "
+"nomeado ou de longa data, esta pequena lista de <a href=\"/software/"
+"maintainer-tips.html\">dicas para os mantenedores do GNU</a> pode ser útil, "
+"juntamente com esta informação sobre <a href=\"/software/devel.html"
+"\">recursos de desenvolvedor de software GNU</a>."
+
+#. type: Content of: <h3>
+msgid "<a id=\"allgnupkgs\">All GNU packages</a>"
+msgstr "<a id=\"allgnupkgs\">Todos os pacotes GNU</a>"
+
+#. type: Content of: <p>
+msgid ""
+"Links to the home pages of all current GNU packages are given below, using "
+"their identifiers (rather than long names) for brevity.  They are sorted "
+"alphabetically from left to right.  If you have corrections to this list or "
+"questions about it, please email <a href=\"mailto:maintainers@gnu.org\">&lt;"
+"maintainers@gnu.org&gt;</a>."
+msgstr ""
+"Os links para as páginas de todos os pacotes GNU atuais são fornecidas "
+"abaixo, usando seus identificadores (em vez de nomes longos) por brevidade. "
+"Eles estão ordenados alfabeticamente da esquerda para a direita. Se você tem "
+"correções para esta lista ou perguntas sobre isso, envie um e-mail para <a "
+"href=\"mailto:maintainers@gnu.org\">&lt;maintainers@gnu.org&gt;</a>."
+
+#. type: Content of: <p>
+msgid "Also available are lists of:"
+msgstr "Também estão disponíveis listas de:"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/manual/blurbs.html\">short descriptions for all GNU packages</a>;"
+msgstr ""
+"<a href=\"/manual/blurbs.html\">descrições curtas para todos os pacotes GNU</"
+"a>;"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/manual/manual.html\">documentation for GNU packages</a> (arranged "
+"by category);"
+msgstr ""
+"<a href=\"/manual/manual.html\">documentação para pacotes GNU</a> "
+"(organizado por categoria);"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"/graphics/package-logos.html\">GNU package logos</a>; and"
+msgstr "<a href=\"/graphics/package-logos.html\">logos de pacotes GNU</a>; e"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"/software/recent-releases.html\">recent GNU releases</a>."
+msgstr ""
+"<a href=\"/software/recent-releases.html\">lançamentos recentes do GNU</a>."
+
+#. type: Content of: <h3>
+msgid "Decommissioned GNU packages"
+msgstr "Pacotes descomissionados do GNU"
+
+#. type: Content of: <p>
+msgid ""
+"GNU packages are occasionally decommissioned, generally because they've been "
+"superseded by, or integrated into, other packages.  If you have time and "
+"interest in resurrecting any of these, please contact <a href=\"mailto:"
+"maintainers@gnu.org\">&lt;maintainers@gnu.org&gt;</a>.  Here is the list; we "
+"leave the old project pages up (when they existed): <a href=\"aeneas/"
+"\">aeneas</a>, <a href=\"aetherspace/\">aetherspace</a>, <a href=\"aroundme/"
+"\">aroundme</a>, <a href=\"gnu3dkit/\">3dkit</a>, <a href=\"abcsh/\">abcsh</"
+"a>, <a href=\"awacs/\">awacs</a>, <a href=\"cfs-el/\">cfs-el</a>, <a href="
+"\"checker/\">checker</a>, <a href=\"cons/\">cons</a>, <a href=\"dgs/\">dgs</"
+"a> (display&nbsp;ghostscript), <a href=\"dld/\">dld</a>, <a href=\"dotgnu/"
+"\">dotgnu</a>, <a href=\"dotgnu-pnet/\">dotgnu-pnet</a>, <a href=\"http://"
+"directory.fsf.org/project/DrGenius/\">dr.genius</a>, <a href=\"elib/\">elib</"
+"a>, <a href=\"fcrypt/\">fcrypt</a>, <a href=\"ffp/\">ffp</a>, <a href=\"fhp/"
+"\">fhp</a>, <a href=\"free/\">free&nbsp;(gnu.free)</a>, <a href=\"gcron/"
+"\">gcron</a> (see <a href=\"mcron/\">mcron</a>), <a href=\"gfe/\">gfe</a>, "
+"<a href=\"http://directory.fsf.org/GNU/ggv.html\">ggv</a> (see <a href=\"gv/"
+"\">gv</a>), gicqd, <a href=\"http://directory.fsf.org/project/giptables/"
+"\">giptables</a>, <a href=\"gmorph/\">gmorph</a>, <a href=\"http://directory."
+"fsf.org/project/gnochive/\">gnochive</a>, gnotary, <a href=\"http://"
+"directory.fsf.org/project/gnotepad/\">gnotepad+</a>, gnubios, <a href=\"gnu-"
+"arch/\">gnu-arch</a>, <a href=\"gnu-queue/\">gnu-queue</a>, gnucad, <a href="
+"\"gnufi/\">gnufi</a>, gnupedia (see <a href=\"http://wikipedia.org"
+"\">wikipedia</a>), <a href=\"gnuskies/\">gnuskies</a>, <a href=\"gnusql/"
+"\">gnusql</a>, <a href=\"gnustep-db/\">gnustep-db</a>, <a href=\"gnuts/"
+"\">gnuts</a>, <a href=\"goldwater/\">goldwater</a>, <a href=\"goodbye/"
+"\">goodbye</a>, <a href=\"goose/\">goose</a>, <a href=\"gphoto/\">gphoto</"
+"a>, <a href=\"graphics/\">graphics</a>, grover, <a href=\"gtkeditor/"
+"\">gtkeditor</a>, <a href=\"gtkeyboard/\">gtkeyboard</a>, <a href=\"guss/"
+"\">guss</a>, <a href=\"hegemonie/\">hegemonie</a>, isofsmk, <a href="
+"\"jdresolve/\">jdresolve</a>, lengualibre, leonardo, libopts (see <a href="
+"\"autogen/\">autogen</a>), mana, <a href=\"messenger/\">messenger</a>, <a "
+"href=\"mgcp/\">mgcp</a>, <a href=\"mll2html/\">mll2html</a>, <a href="
+"\"myserver/\">myserver</a>, <a href=\"obst/\">obst</a>, <a href=\"octal/"
+"\">octal</a>, p2c, <a href=\"packaging/\">packaging</a>, <a href=\"patchwork/"
+"\">patchwork</a>, <a href=\"phpgroupware/\">phpgroupware</a>, <a href=\"pips/"
+"\">pips</a>, <a href=\"poc/\">poc</a>, <a href=\"proto/\">proto</a>, <a href="
+"\"radar/\">radar</a>, <a href=\"rat/\">rat</a>, <a href=\"regex/\">regex</"
+"a>, <a href=\"snakecharmer/\">snakecharmer</a>, <a href=\"songanizer/"
+"\">songanizer</a>, <a href=\"sourceinstall/\">sourceinstall</a>, sovix, <a "
+"href=\"sweater/\">sweater</a>, <a href=\"sxml/\">sxml</a>, <a href="
+"\"toutdoux/\">toutdoux</a>, <a href=\"vmslib/\">vmslib</a>, <a href="
+"\"webpublish/\">webpublish</a>, <a href=\"xbase/\">xbase</a>, <a href="
+"\"xinfo/\">xinfo</a>, <a href=\"xmhtml/\">xmhtml</a>, <a href=\"zebra/"
+"\">zebra</a>."
+msgstr ""
+"Pacotes do GNU são ocasionalmente descomissionados, geralmente porque eles "
+"foram substituídos por, ou integrado em, outros pacotes. Se você tem tempo e "
+"interesse em ressuscitar algum desses, por favor contate <a href=\"mailto:"
+"maintainers@gnu.org\">&lt;maintainers@gnu.org&gt;</a>. Aqui está a lista; "
+"deixamos as páginas de antigos projetos ativas (quando elas existiram): <a "
+"href=\"aeneas/\">aeneas</a>, <a href=\"aetherspace/\">aetherspace</a>, <a "
+"href=\"aroundme/\">aroundme</a>, <a href=\"gnu3dkit/\">3dkit</a>, <a href="
+"\"abcsh/\">abcsh</a>, <a href=\"awacs/\">awacs</a>, <a href=\"cfs-el/\">cfs-"
+"el</a>, <a href=\"checker/\">checker</a>, <a href=\"cons/\">cons</a>, <a "
+"href=\"dgs/\">dgs</a> (display&nbsp;ghostscript), <a href=\"dld/\">dld</a>, "
+"<a href=\"dotgnu/\">dotgnu</a>, <a href=\"dotgnu-pnet/\">dotgnu-pnet</a>, <a "
+"href=\"http://directory.fsf.org/project/DrGenius/\">dr.genius</a>, <a href="
+"\"elib/\">elib</a>, <a href=\"fcrypt/\">fcrypt</a>, <a href=\"ffp/\">ffp</"
+"a>, <a href=\"fhp/\">fhp</a>, <a href=\"free/\">free&nbsp;(gnu.free)</a>, <a "
+"href=\"gcron/\">gcron</a> (veja <a href=\"mcron/\">mcron</a>), <a href=\"gfe/"
+"\">gfe</a>, <a href=\"http://directory.fsf.org/GNU/ggv.html\">ggv</a> (veja "
+"<a href=\"gv/\">gv</a>), gicqd, <a href=\"http://directory.fsf.org/project/"
+"giptables/\">giptables</a>, <a href=\"gmorph/\">gmorph</a>, <a href=\"http://"
+"directory.fsf.org/project/gnochive/\">gnochive</a>, gnotary, <a href="
+"\"http://directory.fsf.org/project/gnotepad/\">gnotepad+</a>, gnubios, <a "
+"href=\"gnu-arch/\">gnu-arch</a>, <a href=\"gnu-queue/\">gnu-queue</a>, "
+"gnucad, <a href=\"gnufi/\">gnufi</a>, gnupedia (veja <a href=\"http://"
+"wikipedia.org\">wikipédia</a>), <a href=\"gnuskies/\">gnuskies</a>, <a href="
+"\"gnusql/\">gnusql</a>, <a href=\"gnustep-db/\">gnustep-db</a>, <a href="
+"\"gnuts/\">gnuts</a>, <a href=\"goldwater/\">goldwater</a>, <a href="
+"\"goodbye/\">goodbye</a>, <a href=\"goose/\">goose</a>, <a href=\"gphoto/"
+"\">gphoto</a>, <a href=\"graphics/\">graphics</a>, grover, <a href="
+"\"gtkeditor/\">gtkeditor</a>, <a href=\"gtkeyboard/\">gtkeyboard</a>, <a "
+"href=\"guss/\">guss</a>, <a href=\"hegemonie/\">hegemonie</a>, isofsmk, <a "
+"href=\"jdresolve/\">jdresolve</a>, lengualibre, leonardo, libopts (veja <a "
+"href=\"autogen/\">autogen</a>), mana, <a href=\"messenger/\">messenger</a>, "
+"<a href=\"mgcp/\">mgcp</a>, <a href=\"mll2html/\">mll2html</a>, <a href="
+"\"myserver/\">myserver</a>, <a href=\"obst/\">obst</a>, <a href=\"octal/"
+"\">octal</a>, p2c, <a href=\"packaging/\">packaging</a>, <a href=\"patchwork/"
+"\">patchwork</a>, <a href=\"phpgroupware/\">phpgroupware</a>, <a href=\"pips/"
+"\">pips</a>, <a href=\"poc/\">poc</a>, <a href=\"proto/\">proto</a>, <a href="
+"\"radar/\">radar</a>, <a href=\"rat/\">rat</a>, <a href=\"regex/\">regex</"
+"a>, <a href=\"snakecharmer/\">snakecharmer</a>, <a href=\"songanizer/"
+"\">songanizer</a>, <a href=\"sourceinstall/\">sourceinstall</a>, sovix, <a "
+"href=\"sweater/\">sweater</a>, <a href=\"sxml/\">sxml</a>, <a href="
+"\"toutdoux/\">toutdoux</a>, <a href=\"vmslib/\">vmslib</a>, <a href="
+"\"webpublish/\">webpublish</a>, <a href=\"xbase/\">xbase</a>, <a href="
+"\"xinfo/\">xinfo</a>, <a href=\"xmhtml/\">xmhtml</a>, <a href=\"zebra/"
+"\">zebra</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+# type: Content of: <div><p>
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF.  Links quebrados e outras correções ou "
+"sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2015, 2016 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2015, 2016 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2018.<br/>\n"
+"Revisado por: André Phellip Ferreira <a href=\"mailto:werewolf@cyberdude.com"
+"\">&lt;werewolf@cyberdude.com&gt;</a>, 2018."
+
+# type: Content of: <div><p>
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização: "

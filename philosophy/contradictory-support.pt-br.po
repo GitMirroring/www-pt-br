@@ -1,0 +1,194 @@
+# Brazilian Portuguese translation of https://www.gnu.org/philosophy/contradictory-support.html
+# Copyright (C) 2017 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017.
+# André Phellip Ferreira <werewolf@cyberdude.com>, 2018. (proofread)
+msgid ""
+msgstr ""
+"Project-Id-Version: contradictory-support.html\n"
+"POT-Creation-Date: 2016-07-19 01:56+0000\n"
+"PO-Revision-Date: 2018-01-17 16:39-0200\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid ""
+"Beware of Contradictory &ldquo;Support&rdquo; - GNU Project - Free Software "
+"Foundation"
+msgstr ""
+"Cuidado com o “Suporte” Contraditório - Projeto GNU - Free Software "
+"Foundation"
+
+#. type: Content of: <h2>
+msgid "Beware of Contradictory &ldquo;Support&rdquo;"
+msgstr "Cuidado com o “Suporte” Contraditório"
+
+#. type: Content of: <p>
+msgid "by <strong>Richard Stallman</strong>"
+msgstr "por <strong>Richard Stallman</strong>"
+
+#. type: Content of: <p>
+msgid ""
+"There are organizations that proclaim support for free software or the GNU "
+"Project, and teach classes in use of nonfree software."
+msgstr ""
+"Existem organizações que proclamam suporte para software livre ou o Projeto "
+"GNU e ensinam turmas no uso de software não livre."
+
+#. type: Content of: <p>
+msgid ""
+"It's possible that they do some <em>other</em> things that really support "
+"free software, but those classes certainly don't.  On the contrary, they "
+"work directly against the free software movement by promoting the use of the "
+"nonfree software.  That increases the magnitude of the practical problem it "
+"is our mission to correct."
+msgstr ""
+"É possível que eles façam algumas <em>outras</em> coisas que realmente "
+"oferecem suporte a software livre, mas essas turmas certamente não. Pelo "
+"contrário, eles trabalham diretamente contra o movimento software livre "
+"promovendo o uso do software não livre. Isso aumenta a magnitude do problema "
+"prático que é nossa missão corrigir."
+
+#. type: Content of: <p>
+msgid ""
+"Even worse, that grants nonfree software legitimacy.  The basic point of the "
+"free software movement is that nonfree software is <a href=\"/philosophy/"
+"free-software-even-more-important.html\">unjust</a> and should not exist.  "
+"That's why we need a movement to <em>replace and eliminate</em> it.  "
+"Teaching how to use it asserts that it isn't a problem; that opposes the "
+"free software movement at the deepest level."
+msgstr ""
+"Pior ainda, isso confere legitimidade ao software não livre. O ponto básico "
+"do movimento  software livre é que o software não livre é <a href=\"/"
+"philosophy/free-software-even-more-important.html\">injusto</a> e não deve "
+"existir. É por isso que precisamos de um movimento para <em>substitui-lo e "
+"eliminá-lo</em>. Ensinar a usá-lo passa a mensagem de que ele que não é um "
+"problema; isso se opõe ao movimento software livre no nível mais profundo."
+
+#. type: Content of: <p>
+msgid ""
+"Of course, people have the right to state that view, but they shouldn't "
+"pretend that it constitutes support for our cause."
+msgstr ""
+"Claro, as pessoas têm o direito de afirmar essa visão, mas não devem fingir "
+"que constitui suporte para a nossa causa."
+
+#. type: Content of: <p>
+msgid ""
+"Even more outrageously, some of those organizations claim that their courses "
+"in using nonfree software are connected with or even certified by the GNU "
+"Project or the Free Software Foundation.  Needless to say, we would never "
+"certify such a course, nor recommend it, nor have anything to do with it, "
+"nor even talk about it except with condemnation."
+msgstr ""
+"Ainda mais escandalosamente, algumas dessas organizações afirmam que seus "
+"cursos sobre uso de software não livre estão conectados ou mesmo "
+"certificados pelo Projeto GNU ou pela Free Software Foundation. Nem precisa "
+"dizer que nunca certificaríamos tal curso, nem o recomendaríamos, nem "
+"teríamos nada a ver com isso, nem sequer falaríamos sobre isso, exceto com "
+"condenação."
+
+#. type: Content of: <p>
+msgid ""
+"Teaching use of nonfree programs works against free software; teaching it in "
+"association with the name GNU or the term &ldquo;free software&rdquo; causes "
+"confusion about what we stand for."
+msgstr ""
+"Ensinar o uso de programas não livres trabalha contra o software livre; "
+"ensinar isso em associação com o nome GNU ou o termo “software livre” "
+"provoca confusão sobre o que defendemos."
+
+#. type: Content of: <p>
+msgid ""
+"If you encounter such an organization, please explain these points to the "
+"people who work on it: that such courses go directly against the principles "
+"of the free software movement.  Explain to them why, if they want to help "
+"the free software cause, they need to teach people to choose free software, "
+"not legitimize nonfree software."
+msgstr ""
+"Se você encontrar uma organização assim, explique esses pontos para as "
+"pessoas que trabalham nela: que esses cursos vão diretamente contra os "
+"princípios do movimento software livre. Explique-lhes por que, se eles "
+"querem ajudar a causa do software livre, eles precisam ensinar as pessoas a "
+"escolher o software livre, e não legitimar o software não livre."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+# type: Content of: <div><p>
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF.  Links quebrados e outras correções ou "
+"sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2016 Richard Stallman"
+msgstr "Copyright &copy; 2016 Richard Stallman"
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2017.<br/>\n"
+"Revisado por: André Phellip Ferreira <a href=\"mailto:werewolf@cyberdude.com"
+"\">&lt;werewolf@cyberdude.com&gt;</a>, 2018"
+
+# type: Content of: <div><p>
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização: "

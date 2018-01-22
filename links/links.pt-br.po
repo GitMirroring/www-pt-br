@@ -1,13 +1,13 @@
 # Brazilian Portuguese translation of https://www.gnu.org/links/links.html
-# Copyright (C) 2017 Free Software Foundation, Inc.
+# Copyright (C) 2018 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2017.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: links.html\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-01 05:57+0000\n"
-"PO-Revision-Date: 2017-07-11 19:57-0300\n"
+"PO-Revision-Date: 2018-01-22 18:01-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -16,6 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Virtaal 1.0.0-beta1\n"
+"X-Outdated-Since: 2017-11-24 11:57+0000\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -452,22 +453,13 @@ msgstr ""
 "baseado em princípios do movimento software livre."
 
 #. type: Content of: <ul><li>
-# | <a
-# | [-href=\"https://web.archive.org/web/20150716194823/http://www.sugarlabs.org/\">Sugar-]
-# | {+href=\"https://www.sugarlabs.org/\">Sugar+} Labs</a>, an organization
-# | set up to continue development of the Sugar desktop environment.
-#, fuzzy
-#| msgid ""
-#| "<a href=\"https://web.archive.org/web/20150716194823/http://www.sugarlabs."
-#| "org/\">Sugar Labs</a>, an organization set up to continue development of "
-#| "the Sugar desktop environment."
 msgid ""
 "<a href=\"https://www.sugarlabs.org/\">Sugar Labs</a>, an organization set "
 "up to continue development of the Sugar desktop environment."
 msgstr ""
-"<a href=\"https://web.archive.org/web/20150716194823/http://www.sugarlabs."
-"org/\">Sugar Labs</a>, uma organização criada para continuar o "
-"desenvolvimento do ambiente de área de trabalho Sugar."
+"<a href=\"https://www.sugarlabs.org/\">Sugar Labs</a>, uma organização "
+"criada para continuar o desenvolvimento do ambiente de área de trabalho "
+"Sugar."
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -868,14 +860,10 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-# | Copyright &copy; 2014, 2015, 2016, [-2017-] {+2017, 2018+} Free Software
-# | Foundation, Inc.
-#, fuzzy
-#| msgid ""
-#| "Copyright &copy; 2014, 2015, 2016, 2017 Free Software Foundation, Inc."
 msgid ""
 "Copyright &copy; 2014, 2015, 2016, 2017, 2018 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2014, 2015, 2016, 2017 Free Software Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2014, 2015, 2016, 2017, 2018 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -894,7 +882,7 @@ msgstr ""
 "Traduzido por: Hélder M. Botter Ribas <a href=\"mailto:helder@grad.icmc.sc."
 "usp.br\">&lt;helder@grad.icmc.sc.usp.br&gt;</a>, 2001;\n"
 "Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome."
-"org&gt;</a>, 2017."
+"org&gt;</a>, 2017, 2018."
 
 # type: Content of: <div><p>
 #.  timestamp start 

@@ -1,13 +1,13 @@
 # Brazilian Portuguese translation of http://www.gnu.org/philosophy/javascript-trap.html
-# Copyright (C) 2017 Free Software Foundation, Inc.
+# Copyright (C) 2018 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original articles.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2016, 2017.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2016, 2017, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: javascript-trap.html\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-01 05:58+0000\n"
-"PO-Revision-Date: 2017-08-14 05:35-0300\n"
+"PO-Revision-Date: 2018-01-18 17:30-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -31,7 +31,7 @@ msgid ""
 "without realizing it&mdash;through your web browser.</strong>"
 msgstr ""
 "<strong>Você pode estar executando programas não livres em seu computador "
-"todo dia sem perceber &mdash; por meio de seu navegador web.</strong>"
+"todo dia sem perceber &ndash; por meio de seu navegador web.</strong>"
 
 #. type: Content of: <blockquote><p>
 msgid ""
@@ -65,7 +65,7 @@ msgstr ""
 "Muitos usuários estão cientes de que essa questão se aplica aos plug-ins que "
 "navegadores oferecem para instalar, já que eles podem ser livres ou não "
 "livres. Mas os navegadores executam outros programas não livres sem pedir "
-"autorização e sem avisar &mdash; programas contidos ou vinculados em páginas "
+"autorização e sem avisar &ndash; programas contidos ou vinculados em páginas "
 "web. Esses programas são muito frequentemente escritos em JavaScript, porém "
 "outros linguagens também são usados."
 
@@ -141,8 +141,8 @@ msgid ""
 msgstr ""
 "É possível lançar um programa JavaScript como software livre, por meio da "
 "distribuição do código-fonte sob uma licença de software livre. Se o "
-"programa é independente &mdash; se sua funcionalidade e propósito são "
-"independentes da página na qual ele veio &mdash; não há problema; você pode "
+"programa é independente &ndash; se sua funcionalidade e propósito são "
+"independentes da página na qual ele veio &ndash; não há problema; você pode "
 "copiá-lo para um arquivo em sua máquina, modificá-lo e visitar aquele "
 "arquivo com um navegador para executá-lo. Mas este é um caso incomum."
 
@@ -263,19 +263,13 @@ msgstr ""
 "vamos tratar da questão do servidor separadamente."
 
 #. type: Content of: <p>
-# | In practical terms, how can we deal with the problem of {+nontrivial+}
-# | nonfree JavaScript programs in web sites? The first step is to avoid
-# | running it.
-#, fuzzy
-#| msgid ""
-#| "In practical terms, how can we deal with the problem of nonfree "
-#| "JavaScript programs in web sites? The first step is to avoid running it."
 msgid ""
 "In practical terms, how can we deal with the problem of nontrivial nonfree "
 "JavaScript programs in web sites? The first step is to avoid running it."
 msgstr ""
 "Em termos práticos, como nós podemos lidar com o programa de programas "
-"JavaScript não livres em sites? O primeiro passo é evitar executá-lo."
+"JavaScript não livres e não triviais em sites? O primeiro passo é evitar "
+"executá-lo."
 
 #. type: Content of: <p>
 msgid ""
@@ -408,7 +402,7 @@ msgid ""
 msgstr ""
 "Esses recursos possibilitarão para um programa JavaScript incluído em uma "
 "página web ser livre em um senso real e prático. JavaScript não será mais um "
-"obstáculo em especial para nossa liberdade &mdash; não mais que C e Java são "
+"obstáculo em especial para nossa liberdade &ndash; não mais que C e Java são "
 "agora. Seremos capazes de rejeitar e até substituir os programas JavaScript "
 "não triviais e não livres, assim como rejeitamos e substituímos pacotes não "
 "livres que são oferecidos para instalação na forma comum. Nossa campanha "
@@ -426,7 +420,7 @@ msgstr ""
 "JavaScript não livre: para enviar uma reclamação para os operadores do site "
 "dizendo que eles devem tornar livre ou remover o código JavaScript do site. "
 "Por favor, não hesite em habilitar temporariamente JavaScript para fazer "
-"isso &mdash; mas lembre-se de desabilitá-lo novamente em seguida."
+"isso &ndash; mas lembre-se de desabilitá-lo novamente em seguida."
 
 #. type: Content of: <p>
 msgid ""
@@ -487,11 +481,8 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-# | Copyright &copy; 2009-2013, 2016, [-2017-] {+2017, 2018+} Richard Stallman
-#, fuzzy
-#| msgid "Copyright &copy; 2009-2013, 2016, 2017 Richard Stallman"
 msgid "Copyright &copy; 2009-2013, 2016, 2017, 2018 Richard Stallman"
-msgstr "Copyright &copy; 2009-2013, 2016, 2017 Richard Stallman"
+msgstr "Copyright &copy; 2009-2013, 2016, 2017, 2018 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -508,7 +499,8 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "<b>Tradução:</b> Rafael Fontenelle \n"
-"<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, 2017"
+"<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, 2017, "
+"2018"
 
 # type: Content of: <div><p>
 #.  timestamp start 
@@ -718,6 +710,8 @@ msgstr "Última atualização: "
 #~ "ser mais conveniente para bibliotecas de código JavaScript minificado, "
 #~ "especialmente quando você não os escreveu."
 
+# | Copyright &copy; [-2014, 2015 Free Software Foundation, Inc.-]
+# | {+2009-2013, 2016 Richard Stallman+}
 #~| msgid "Copyright &copy; 2014, 2015 Free Software Foundation, Inc."
 #~ msgid "Copyright &copy; 2009-2013, 2016 Richard Stallman"
 #~ msgstr "Copyright &copy; 2009-2013, 2016 Richard Stallman"
