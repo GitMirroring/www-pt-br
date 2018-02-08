@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: fs-translations.html\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-01 05:58+0000\n"
+"POT-Creation-Date: 2018-02-02 06:26+0000\n"
 "PO-Revision-Date: 2018-01-18 12:38-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -411,6 +411,33 @@ msgid "logiciel commercial"
 msgstr "logiciel commercial"
 
 #. type: Content of: <h3>
+msgid "Galician"
+msgstr ""
+
+#. type: Attribute 'lang' of: <table><tr><td>
+msgid "gl"
+msgstr ""
+
+#. type: Content of: <table><tr><td>
+msgid "software libre"
+msgstr "software libre"
+
+#. type: Content of: <table><tr><td>
+# | software gratu[-i-]{+í+}to
+#, fuzzy
+#| msgid "software gratuito"
+msgid "software gratuíto"
+msgstr "software gratuito"
+
+#. type: Content of: <table><tr><td>
+msgid "software privativo"
+msgstr "software privativo"
+
+#. type: Content of: <table><tr><td>
+msgid "software comercial"
+msgstr "software comercial"
+
+#. type: Content of: <h3>
 msgid "Georgian"
 msgstr "Georgiano"
 
@@ -786,10 +813,6 @@ msgstr "software livre"
 msgid "software proprietário"
 msgstr "software proprietário"
 
-#. type: Content of: <table><tr><td>
-msgid "software comercial"
-msgstr "software comercial"
-
 #. type: Content of: <h3>
 msgid "Romanian"
 msgstr "Romeno"
@@ -925,14 +948,6 @@ msgstr "Espanhol"
 #. type: Attribute 'lang' of: <table><tr><td>
 msgid "es"
 msgstr "es"
-
-#. type: Content of: <table><tr><td>
-msgid "software libre"
-msgstr "software libre"
-
-#. type: Content of: <table><tr><td>
-msgid "software privativo"
-msgstr "software privativo"
 
 #. type: Content of: <h3>
 msgid "Swahili"

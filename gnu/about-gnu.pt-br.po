@@ -1,0 +1,228 @@
+# Brazilian Portuguese translation of https://www.gnu.org/gnu/about-gnu.html
+# Copyright (C) 2018 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: about-gnu.html\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-01 05:56+0000\n"
+"PO-Revision-Date: 2018-01-24 06:18-0200\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid "About the GNU Operating System - GNU Project - Free Software Foundation"
+msgstr ""
+"Sobre o Sistema Operacional do GNU - Projeto GNU - Free Software Foundation"
+
+#. type: Content of: <h2>
+msgid "About the GNU Operating System"
+msgstr "Sobre o Sistema Operacional do GNU"
+
+#. type: Content of: <blockquote><p>
+msgid ""
+"The name &ldquo;GNU&rdquo; is a recursive acronym for &ldquo;GNU's Not Unix!"
+"&rdquo;; it is pronounced as <a href=\"/gnu/pronunciation.html\"> one "
+"syllable with a hard g</a>."
+msgstr ""
+"O nome “GNU” é um acrônimo recursivo para “GNU's Not Unix!”; ela é "
+"pronunciada como <a href=\"/gnu/pronunciation.html\">uma sílaba com um g "
+"forte</a>."
+
+#. type: Content of: <p>
+msgid ""
+"[<a href=\"/gnu/gnu.html\">Other historical and general articles about GNU.</"
+"a>]"
+msgstr ""
+"[<a href=\"/gnu/gnu.html\">Outros artigos históricos e gerais sobre o GNU.</"
+"a>]"
+
+#. type: Content of: <p>
+msgid ""
+"GNU was launched by Richard Stallman (rms) in 1983, as an operating system "
+"which would be put together by people working together for the freedom of "
+"all software users to control their computing.  rms remains the Chief "
+"GNUisance today."
+msgstr ""
+"O GNU foi lançado por Richard Stallman (rms) em 1983, como um sistema "
+"operacional que seria reunido por pessoas que trabalham juntas pela "
+"liberdade de todos os usuários de software para controlar sua computação. "
+"rms permanece sendo o hoje <cite>Cheif GNUisance</cite>."
+
+#. type: Content of: <p>
+msgid ""
+"The primary and continuing goal of GNU is to offer a Unix-compatible system "
+"that would be 100% <a href=\"/philosophy/free-sw.html\">free software</a>.  "
+"Not 95% free, not 99.5%, but 100%.  The name of the system, GNU, is a "
+"recursive acronym meaning GNU's Not Unix&mdash;a way of paying tribute to "
+"the technical ideas of Unix, while at the same time saying that GNU is "
+"something different.  Technically, GNU is like Unix.  But unlike Unix, GNU "
+"gives its users freedom."
+msgstr ""
+"O objetivo principal e contínuo do GNU é oferecer um sistema compatível com "
+"o Unix que seria 100% <a href=\"/philosophy/free-sw.html\">software livre</"
+"a>. Não 95% livre, não 99,5%, mas 100%. O nome do sistema, GNU, é um "
+"acrônimo recursivo que significa “GNU's Not Unix” (em português, “GNU Não é "
+"Unix”) &mdash; uma maneira de homenagear as ideias técnicas do Unix, "
+"enquanto ao mesmo tempo diz que o GNU é algo diferente. Tecnicamente, o GNU "
+"é como o Unix. Mas, ao contrário do Unix, o GNU dá liberdade a seus usuários."
+
+#. type: Content of: <p>
+msgid ""
+"<a href=\"/distros/free-distros.html\">Completely free system distributions</"
+"a> (&ldquo;distros&rdquo;) meeting this goal are available today, many using "
+"the <a href=\"http://www.fsfla.org/svnwiki/selibre/linux-libre/\">Linux-"
+"libre kernel</a> (the <a href=\"/gnu/linux-and-gnu.html\">relationship "
+"between GNU and the Linux kernel</a> is described more fully elsewhere).  "
+"The <a href=\"/software/software.html\">GNU packages</a> have been designed "
+"to work together so we could have a functioning GNU system.  It has turned "
+"out that they also serve as a common &ldquo;upstream&rdquo; for many "
+"distros, so contributions to GNU packages help the free software community "
+"as a whole.  Naturally, work on GNU is ongoing, with the goal to create a "
+"system that gives the greatest freedom to computer users.  GNU packages "
+"include user-oriented applications, utilities, tools, libraries, even "
+"games&mdash;all the programs that an operating system can usefully offer to "
+"its users.  <a href=\"/help/evaluation.html\">New packages are welcome.</a>"
+msgstr ""
+"<a href=\"/distros/free-distros.html\">Distribuições de sistema totalmente "
+"livre</a> (“distros”) que atendem a este objetivo estão disponíveis hoje, "
+"muitas usando o <a href=\"http://www.fsfla.org/svnwiki/selibre/linux-libre/"
+"\">kernel Linux-libre</a> (a <a href=\"/gnu/linux-and-gnu.html\">relação "
+"entre GNU e o kernel Linux</a> é descrita mais detalhadamente em outro "
+"lugar). Os <a href=\"/software/software.html\">pacotes GNU</a> foram criados "
+"para trabalhar em conjunto de forma que possamos ter um sistema GNU "
+"funcional. Descobriu-se que eles também servem como um “upstream” comum para "
+"muitas distros, então contribuições para pacotes GNU ajudam a comunidade de "
+"software livre como um todo. Naturalmente, o trabalho no GNU está em "
+"andamento, com o objetivo de criar um sistema que dê a maior liberdade aos "
+"usuários de computadores. Os pacotes GNU incluem aplicativos orientados a "
+"usuários, utilitários, ferramentas, bibliotecas e até jogos &mdash; todos os "
+"programas que um sistema operacional pode oferecer aos seus usuários. <a "
+"href=\"/help/evaluation.html\">Novos pacotes são bem-vindos.</a>"
+
+#. type: Content of: <p>
+msgid ""
+"Thousands of people have joined in to make GNU the success it is today, and "
+"there are <a href=\"/help/help.html\">many ways to contribute</a>, both "
+"technical and non-technical.  GNU developers gather from time to time in <a "
+"href=\"/ghm/ghm.html\">GNU Hackers Meetings</a>, sometimes as part of the "
+"larger free software community <a href=\"http://libreplanet.org/"
+"\">LibrePlanet</a> conferences."
+msgstr ""
+"Milhares de pessoas se juntaram para tornar o GNU o sucesso que é hoje, e há "
+"<a href=\"/help/help.html\">muitas formas de contribuir</a>, tanto técnicas "
+"como não técnicas. Os desenvolvedores do GNU se reúnem de tempos em tempos "
+"em <a href=\"/ghm/ghm.html\">GNU Hackers Meetings</a> (“Reuniões de Hackers "
+"do GNU”), às vezes como parte das conferências do <a href=\"http://"
+"libreplanet.org/\">LibrePlanet</a>, a maior comunidade de software livre."
+
+#. type: Content of: <p>
+msgid ""
+"GNU has been supported in several ways by the <a href=\"http://www.fsf.org/"
+"\">Free Software Foundation</a>, the nonprofit organization also founded by "
+"rms to advocate free software ideals.  Among other things, the FSF accepts "
+"copyright assignments and disclaimers, so it can act in court on behalf of "
+"GNU programs.  (To be clear, contributing a program to GNU does <em>not</em> "
+"require transferring copyright to the FSF.  If you do assign copyright, the "
+"FSF will enforce the GPL for the program if someone violates it; if you keep "
+"the copyright, enforcement will be up to you.)"
+msgstr ""
+"O GNU sido apoiado de várias maneiras pela <a href=\"http://www.fsf.org/"
+"\">Free Software Foundation</a>, a organização sem fins lucrativos também "
+"fundada pelo rms para defender ideais de software livre. Entre outras "
+"coisas, a FSF aceita atribuições de copyrights e isenções de "
+"responsabilidade, para que possa atuar no tribunal em nome dos programas "
+"GNU. (Para ser claro, contribuir com um programa para o GNU, <em>não</em> "
+"exige a transferência do copyright para a FSF. Se você atribuir o copyright, "
+"a FSF aplicará a GPL para o programa se alguém violá-la; se você mantiver o "
+"copyright, a aplicação dependerá de você.)"
+
+#. type: Content of: <p>
+msgid ""
+"The ultimate goal is to provide free software to do all of the jobs computer "
+"users want to do&mdash;and thus make proprietary software a thing of the "
+"past."
+msgstr ""
+"O objetivo final é fornecer software livre para fazer todos os trabalhos que "
+"os usuários de computadores desejam fazer &mdash; e assim fazer o software "
+"proprietário uma coisa do passado."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+# type: Content of: <div><p>
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF.  Links quebrados e outras correções ou "
+"sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2014, 2017, 2018 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2014, 2017, 2018 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2018."
+
+# type: Content of: <div><p>
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização: "

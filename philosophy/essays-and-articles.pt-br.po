@@ -11,7 +11,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: essays-and-articles.html\n"
-"POT-Creation-Date: 2017-10-20 16:25+0000\n"
+"POT-Creation-Date: 2018-01-31 17:26+0000\n"
 "PO-Revision-Date: 2017-10-21 14:49-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -888,15 +888,37 @@ msgstr ""
 "caso Eldred v. Ashcroft na Suprema Corte</a>"
 
 #. type: Content of: <ul><li>
+# | <a href=\"/philosophy/push-copyright-aside.html\">Science must &ldquo;push
+# | copyright aside&rdquo;</a>, another work of <a
+# | href=\"http://www.stallman.org\">Richard Stallman</a> that appeared in the
+# | <a
+# | [-href=\"http://www.nature.com/nature/debates/e-access/Articles/stallman.html\">-]
+# | {+href=\"https://web.archive.org/web/20050729110347/http://www.nature.com/nature/debates/e-access/Articles/stallman.html\">+}
+# | Nature Webdebates</a> in 2001, explains how copyright is impeding progress
+# | in scientific research.  You may also be interested in <a
+# | href=\"https://www.plos.org/\">The Public Library of Science</a>, which is
+# | dedicated to making scientific research freely available to all on the
+# | Internet.
+#, fuzzy
+#| msgid ""
+#| "<a href=\"/philosophy/push-copyright-aside.html\">Science must &ldquo;"
+#| "push copyright aside&rdquo;</a>, another work of <a href=\"http://www."
+#| "stallman.org\">Richard Stallman</a> that appeared in the <a href=\"http://"
+#| "www.nature.com/nature/debates/e-access/Articles/stallman.html\"> Nature "
+#| "Webdebates</a> in 2001, explains how copyright is impeding progress in "
+#| "scientific research.  You may also be interested in <a href=\"https://www."
+#| "plos.org/\">The Public Library of Science</a>, which is dedicated to "
+#| "making scientific research freely available to all on the Internet."
 msgid ""
 "<a href=\"/philosophy/push-copyright-aside.html\">Science must &ldquo;push "
 "copyright aside&rdquo;</a>, another work of <a href=\"http://www.stallman.org"
-"\">Richard Stallman</a> that appeared in the <a href=\"http://www.nature.com/"
-"nature/debates/e-access/Articles/stallman.html\"> Nature Webdebates</a> in "
-"2001, explains how copyright is impeding progress in scientific research.  "
-"You may also be interested in <a href=\"https://www.plos.org/\">The Public "
-"Library of Science</a>, which is dedicated to making scientific research "
-"freely available to all on the Internet."
+"\">Richard Stallman</a> that appeared in the <a href=\"https://web.archive."
+"org/web/20050729110347/http://www.nature.com/nature/debates/e-access/"
+"Articles/stallman.html\"> Nature Webdebates</a> in 2001, explains how "
+"copyright is impeding progress in scientific research.  You may also be "
+"interested in <a href=\"https://www.plos.org/\">The Public Library of "
+"Science</a>, which is dedicated to making scientific research freely "
+"available to all on the Internet."
 msgstr ""
 "A <a href=\"/philosophy/push-copyright-aside.html\">ciência deve “colocar os "
 "direitos autorais de lado”</a>, outro trabalho de <a href=\"http://www."
@@ -1103,6 +1125,22 @@ msgstr ""
 #. type: Content of: <h4>
 msgid "Cultural and Social Issues"
 msgstr "Problemas Sociais e Culturais"
+
+#. type: Content of: <ul><li>
+# | <a [-href=\"/philosophy/surveillance-vs-democracy.html\">How Much
+# | Surveillance Can Democracy Withstand?</a> by Richard Stallman-]
+# | {+href=\"/philosophy/surveillance-testimony.html\">Surveillance
+# | Testimony</a>+}
+#, fuzzy
+#| msgid ""
+#| "<a href=\"/philosophy/surveillance-vs-democracy.html\">How Much "
+#| "Surveillance Can Democracy Withstand?</a> by Richard Stallman"
+msgid ""
+"<a href=\"/philosophy/surveillance-testimony.html\">Surveillance Testimony</"
+"a>"
+msgstr ""
+"<a href=\"/philosophy/surveillance-vs-democracy.html\">Qual o Nível de "
+"Vigilância Que a Democracia Pode Suportar?</a> por Richard Stallman"
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -1565,7 +1603,10 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 1996-2017 Free Software Foundation, Inc."
+# | Copyright &copy; 1996-201[-7-]{+8+} Free Software Foundation, Inc.
+#, fuzzy
+#| msgid "Copyright &copy; 1996-2017 Free Software Foundation, Inc."
+msgid "Copyright &copy; 1996-2018 Free Software Foundation, Inc."
 msgstr "Copyright &copy; 1996-2017 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>

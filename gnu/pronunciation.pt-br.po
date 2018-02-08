@@ -1,0 +1,170 @@
+# Brazilian Portuguese translation of https://www.gnu.org/gnu/pronunciation.html
+# Copyright (C) 2017 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: pronunciation.html\n"
+"POT-Creation-Date: 2014-05-16 17:25+0000\n"
+"PO-Revision-Date: 2017-10-03 15:48-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid "How To Pronounce GNU - GNU Project - Free Software Foundation"
+msgstr "Como pronunciar GNU - Projeto GNU - Free Software Foundation"
+
+#. type: Content of: <h2>
+msgid "How To Pronounce GNU"
+msgstr "Como pronunciar GNU"
+
+#. type: Content of: <p>
+msgid ""
+"The name &ldquo;GNU&rdquo; is a recursive acronym for &ldquo;GNU's Not Unix!"
+"&rdquo;; it is pronounced as one syllable with a hard g, like &ldquo;"
+"grew&rdquo; but with the letter &ldquo;n&rdquo; instead of &ldquo;r&rdquo;."
+msgstr ""
+"O nome “GNU” é um acrônimo recursivo para “GNU's Not Unix!”, que, em "
+"português, é traduzido como “GNU Não é Unix!”; ele é pronunciado como "
+"“menu”, com “g” em vez de “me”, e como o herbívoro africano “gnu”."
+
+#. type: Content of: <p>
+msgid ""
+"This is a recording of <a href=\"http://www.stallman.org/\">Richard "
+"Stallman</a> saying &ldquo;GNU&rdquo; and another with a short explanation "
+"about how GNU was named:"
+msgstr ""
+"Essa é uma gravação do <a href=\"http://www.stallman.org/\">Richard "
+"Stallman</a> dizendo “GNU” e outra com uma explicação curta sobre como GNU "
+"recebeu o nome:"
+
+#. type: Content of: <p>
+msgid "<strong>How to say &ldquo;GNU&rdquo;:</strong>"
+msgstr "<strong>Como dizer “GNU”:</strong>"
+
+#. type: Content of: <audio>
+msgid "<a href=\"/audio/gnu-pronunciation.ogg\">How To Say GNU</a>"
+msgstr "<a href=\"/audio/gnu-pronunciation.ogg\">Como dizer GNU</a>"
+
+#. type: Content of: <p>
+msgid "<strong>How GNU Was Named:</strong>"
+msgstr "<strong>Como GNU recebeu o nome:</strong>"
+
+#. type: Content of: <audio>
+msgid "<a href=\"/audio/how-gnu-was-named.ogg\">How GNU Was Named</a>"
+msgstr "<a href=\"/audio/how-gnu-was-named.ogg\">Como GNU recebeu o nome</a>"
+
+#. type: Content of: <p>
+msgid ""
+"The combination of <a href=\"/gnu/linux-and-gnu.html\">GNU and Linux</a> is "
+"the <strong>GNU/Linux operating system</strong>, now used by millions and "
+"sometimes incorrectly called simply &ldquo;Linux&rdquo;."
+msgstr ""
+"A combinação de <a href=\"/gnu/linux-and-gnu.html\">GNU e Linux</a> é o "
+"<strong>sistema operacional GNU/Linux</strong>, agora usado por milhões e, "
+"por vezes, incorretamente chamado apenas de “Linux”."
+
+#. type: Content of: <p>
+msgid ""
+"For more detailed information and history of the GNU Operating System visit "
+"<a href=\"/gnu/\">http://www.gnu.org/gnu/</a>"
+msgstr ""
+"Para mais informações detalhadas e histórico do Sistema Operacional GNU, "
+"visite <a href=\"/gnu/\">http://www.gnu.org/gnu/</a>"
+
+#. type: Content of: <h3>
+msgid "License Of The Recordings"
+msgstr "Licença das gravações"
+
+#. type: Content of: <p>
+msgid "Copyright (C) 2001 Richard M. Stallman"
+msgstr "Copyright (C) 2001 Richard M. Stallman"
+
+#. type: Content of: <p>
+msgid ""
+"These recordings are licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+"NoDerivs 3.0 United States License</a>."
+msgstr ""
+"Essas gravações estão licenciadas sob uma licença <a rel=\"license\" href="
+"\"http://creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative "
+"Commons Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+# type: Content of: <div><p>
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF.  Links quebrados e outras correções ou "
+"sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2010, 2013, 2014 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2010, 2013, 2014 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+"NoDerivs 3.0 United States License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2017"
+
+# type: Content of: <div><p>
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização: "

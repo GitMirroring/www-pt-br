@@ -1,22 +1,23 @@
-# Brazilian Portuguese translation of http://www.gnu.org/philosophy/university.html
-# Copyright (C) 2002 Free Software Foundation, Inc.
+# Brazilian Portuguese translation of https://www.gnu.org/philosophy/university.html
+# Copyright (C) 2018 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Cláudio Machado, 2002.
 # Jan 2015: GNUNify. It seems that this translation was from a version of the
 # article which is not in the CVS.
-#
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: university.html\n"
 "POT-Creation-Date: 2014-03-31 06:29+0000\n"
-"PO-Revision-Date: 2015-01-20 21:20+0100\n"
-"Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
+"PO-Revision-Date: 2018-01-24 05:57-0200\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Outdated-Since: 2002-04-13 18:42+0000\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -41,18 +42,16 @@ msgid ""
 "advancing human knowledge, just as they should encourage scientists and "
 "other scholars to publish their work."
 msgstr ""
-"Nós, do movimento pelo software livre, acreditamos que os usuários de "
-"computador devem ter a liberdade de modificar e redistribuir os programas "
-"que eles usam. Na língua inglesa, “livre” <cite>(free)</cite>, significa "
-"“liberdade”, mas também “gratuito”. Essa particularidade, leva muitas "
-"pessoas à compreenderem erradamente os ideais de nosso movimento. O termo "
-"“livre” <cite>(free)</cite> para nós se refere à liberdade. Isso implica que "
-"os usuários tem a liberdade de executar, modificar e redistribuir os "
-"programas. O software livre contribui para o aperfeiçoamento do conhecimento "
-"humano, enquanto os programas proprietários não. As Universidades deveriam "
-"encorajar o desenvolvimento de software livre em consideração dos avanço do "
-"conhecimento humano, da mesma maneira que eles encorajam seus cientistas e "
-"outros catedráticos a publicar seus trabalhos."
+"Nós, do movimento pelo software livre (“free software movement”), "
+"acreditamos que os usuários de computador devem ter a liberdade de modificar "
+"e redistribuir os softwares que eles usam. O “free” de “free software” "
+"refere-se a liberdade: isso significa que os usuários têm a liberdade para "
+"executar, modificar e redistribuir os softwares. O software livre contribui "
+"para o aperfeiçoamento do conhecimento humano, ao contrário dos softwares "
+"não livres. As universidades devem, portanto, encorajar o desenvolvimento de "
+"software livre para o bem dos avanços do conhecimento humano, da mesma "
+"maneira que eles encorajam seus cientistas e outros estudiosos a publicar "
+"seus trabalhos."
 
 #. type: Content of: <p>
 msgid ""
@@ -61,37 +60,13 @@ msgid ""
 "income, not as opportunities to contribute to human knowledge.  Free "
 "software developers have been coping with this tendency for almost 20 years."
 msgstr ""
-"Porém muitos administradores de universidades tem uma atitudades "
-"conservadora em relação ao software (e também sobre a ciência). Eles veem os "
-"programas como uma oportunidade para lucro, não como uma oportunidade para "
-"contribuir para o conhecimento humano. Os desenvolvedores de software livre "
-"vem lidando com essa situação nos últimos 20 anos."
+"Porém muitos administradores de universidades têm uma atitude conservadora "
+"em relação ao software (e também em relação à ciência). Eles veem os "
+"programas como uma oportunidade para obter lucro, não como uma oportunidade "
+"para contribuir para o conhecimento humano. Os desenvolvedores de software "
+"livre vêm lidando com essa situação nos últimos 20 anos."
 
-# The "previous" msgid was guessed from the translation.
 #. type: Content of: <p>
-# | When I started developing the <a href=\"/gnu/thegnuproject.html\">GNU
-# | operating system</a>, in 1984, my first step was to quit my job at MIT.  I
-# | did this specifically so that the MIT licensing office would be unable to
-# | interfere with releasing GNU as free software.  I had planned an approach
-# | for licensing the programs in GNU that would ensure that all modified
-# | versions must be free software as well&mdash;an approach that developed
-# | into the <a href=\"/licenses/gpl.html\">GNU General Public License</a>
-# | (GNU [-GPL). In other words,-] {+GPL)&mdash;and+} I [-left the MIT because
-# | I didn't-] {+did not+} want {+to have to beg+} the MIT [-administrators to
-# | be able-] {+administration+} to [-forbid-] {+let+} me [-from using the GNU
-# | GPL.-] {+use it.+}
-#, fuzzy
-#| msgid ""
-#| "When I started developing the <a href=\"/gnu/thegnuproject.html\">GNU "
-#| "operating system</a>, in 1984, my first step was to quit my job at MIT.  "
-#| "I did this specifically so that the MIT licensing office would be unable "
-#| "to interfere with releasing GNU as free software.  I had planned an "
-#| "approach for licensing the programs in GNU that would ensure that all "
-#| "modified versions must be free software as well&mdash;an approach that "
-#| "developed into the <a href=\"/licenses/gpl.html\">GNU General Public "
-#| "License</a> (GNU GPL). In other words, I left the MIT because I didn't "
-#| "want the MIT administrators to be able to forbid me from using the GNU "
-#| "GPL."
 msgid ""
 "When I started developing the <a href=\"/gnu/thegnuproject.html\">GNU "
 "operating system</a>, in 1984, my first step was to quit my job at MIT.  I "
@@ -99,20 +74,20 @@ msgid ""
 "interfere with releasing GNU as free software.  I had planned an approach "
 "for licensing the programs in GNU that would ensure that all modified "
 "versions must be free software as well&mdash;an approach that developed into "
-"the <a href=\"/licenses/gpl.html\">GNU General Public License</a> (GNU "
-"GPL)&mdash;and I did not want to have to beg the MIT administration to let "
-"me use it."
+"the <a href=\"/licenses/gpl.html\">GNU General Public License</a> (GNU GPL)"
+"&mdash;and I did not want to have to beg the MIT administration to let me "
+"use it."
 msgstr ""
-"Em 1984, quando eu iniciei o desenvolvimento do <a href=\"/gnu/thegnuproject."
-"html\">sistema operacional GNU</a>, minha primeira decisão foi pedir "
-"demissão de meu trabalho no MIT. Fiz isso para que a licença de "
-"desenvolvimento do MIT não interferisse no lançamento do GNU como um "
-"software livre. Eu havia planejado uma estratégia para licenciar os "
-"programas GNU de mode que garantisse que todas as versões modificadas também "
-"fossem software livre. Essa estratégia foi formalizada na <a href=\"/"
-"licenses/gpl.html\">Licença Publica Geral GNU</a> (GNU GPL). Ou seja, saí do "
-"MIT pois não queria que os administradores do MIT pudessem me proibir de "
-"usar a GNU GPL."
+"Quando eu iniciei o desenvolvimento do <a href=\"/gnu/thegnuproject.html"
+"\">sistema operacional GNU</a>, em 1984, minha primeira decisão foi pedir "
+"demissão de meu trabalho no MIT. Fiz isso especificamente para que o "
+"escritório de licenciamento do MIT não interferisse no lançamento do GNU "
+"como um software livre. Eu havia planejado uma estratégia para licenciar os "
+"programas no GNU de modo que garantisse que todas as versões modificadas "
+"também fossem software livre &ndash; uma abordagem que se formalizou como a "
+"<a href=\"/licenses/gpl.html\">Licença Pública Geral GNU</a> (GNU GPL) "
+"&ndash; e eu não queria ter que implorar para a administração do MIT para me "
+"deixar usá-la."
 
 #. type: Content of: <p>
 msgid ""
@@ -126,25 +101,18 @@ msgid ""
 "the dollar signs fade from their eyes, they will usually consent to "
 "releasing it as free software."
 msgstr ""
-"Durante esses anos, funcionários de várias universidades tem vindo até a "
-"Fundação para o Software Livre para pedir conselhos de como evitar o "
-"controle dos administradores que veem programas apenas como algo para se "
-"vender. Um método muito eficaz, aplicável também para projetos já em "
-"desenvolvimento, é basear seu trabalho em um programa já existente e lançado "
-"sob a GNU GPL. Então, você pode falar para o administrador: “Nós não temos "
-"permissão para lançar uma versão modificada à menos que ela use a GNU GPL. "
-"Qualquer outra licença estaremos infrigindo o copyright.” Depois de ver os "
-"cifrões de dólar desvanecer na frente dos seus olhos, eles em geral "
-"concordam em lançar como um software livre."
+"Ao longo dos anos, funcionários de várias universidades têm vindo à Free "
+"Software Foundation para pedir conselhos de como evitar o controle dos "
+"administradores que veem software apenas como algo para se vender. Um método "
+"muito eficaz, aplicável também para projetos já em desenvolvimento, é basear "
+"seu trabalho em um programa já existente e lançado sob a GNU GPL. Então, "
+"você pode falar para os administradores: “Nós não temos permissão para "
+"lançar uma versão modificada a menos que ela use a GNU GPL &ndash; qualquer "
+"outra licença estaríamos infringindo o copyright”. Depois de ver os cifrões "
+"de dólar desvanecerem na frente dos seus olhos, eles geralmente concordam em "
+"lançar como um software livre."
 
-# TODO  1) The following change needs reviewing:
-# ... que possíveis ganhos financeiros do projeto deveriam ser doados para
-# Fundação Software Livre.
-# > ... que o código resultante deveria ser doado à Fundação para o Software
-# Livre.
-# 2) The last phrase is missing.
 #. type: Content of: <p>
-#, fuzzy
 msgid ""
 "You can also ask your funding sponsor for help.  When a group at NYU "
 "developed the GNU Ada Compiler, with funding from the US Air Force, the "
@@ -154,37 +122,16 @@ msgid ""
 "renegotiation.  They would rather have a contract to develop free software "
 "than no contract at all, so they will most likely go along."
 msgstr ""
-"Você pode também pedir ajuda ao financiador do projeto. Quando um grupo da "
-"NYU (New York University) desenvolveu o GNU Ada Compiler, com o "
+"Você também pode pedir ajuda ao financiador do seu projeto. Quando um grupo "
+"da NYU (Universidade de Nova Iorque) desenvolveu o GNU Ada Compiler, com o "
 "financiamento da Força Aérea Americana, o contrato estabelecia que o código "
-"resultante deveria ser doado à Fundação para o Software Livre. Primeiro "
-"estabeleçeram o acordo com o financiador, depois comunicaram aos "
-"administradores da universidade. Então, eles preferiram ter um contrato para "
-"desenvolver software livre do que não ter nenhum contrato."
+"resultante devia ser doado à Free Software Foundation. Primeiro estabeleça o "
+"acordo com o financiador, depois mostre à administração da universidade que "
+"isso não está aberto a negociação. Eles prefeririam ter um contrato para "
+"desenvolver software livre do que não ter nenhum contrato, então eles muito "
+"provavelmente aceitarão."
 
-# The "previous" msgid was guessed from the translation.
 #. type: Content of: <p>
-# | Whatever you do, raise the issue {+early&mdash;well+} before the program
-# | is {+half+} finished.  [-As long as-]  {+At this point,+} the [-program
-# | is-] {+university+} still [-in the development phase, they are going to
-# | need you.  Tell-] {+needs you, so you can play hardball: tell+} the
-# | administration you will finish the program, make it usable, if they [-have
-# | agreed-] {+agree+} in writing to make it free [-software.-] {+software
-# | (and agree to your choice of free software license).+}  Otherwise you will
-# | work on it only enough to write a paper about it, and never make a version
-# | good enough to release.  When the administrators know their choice is to
-# | have a free software package that brings credit to the university or
-# | nothing at all, they will usually choose the former.
-#, fuzzy
-#| msgid ""
-#| "Whatever you do, raise the issue before the program is finished.  As long "
-#| "as the program is still in the development phase, they are going to need "
-#| "you.  Tell the administration you will finish the program, make it "
-#| "usable, if they have agreed in writing to make it free software.  "
-#| "Otherwise you will work on it only enough to write a paper about it, and "
-#| "never make a version good enough to release.  When the administrators "
-#| "know their choice is to have a free software package that brings credit "
-#| "to the university or nothing at all, they will usually choose the former."
 msgid ""
 "Whatever you do, raise the issue early&mdash;well before the program is half "
 "finished.  At this point, the university still needs you, so you can play "
@@ -196,15 +143,16 @@ msgid ""
 "that brings credit to the university or nothing at all, they will usually "
 "choose the former."
 msgstr ""
-"Seja lá como for, aborde o assunto antes que o programa já esteja pronto. "
-"Enquanto o programa ainda estiver em fase desenvolvimento eles vão precisar "
-"de você. Diga aos administradores que você irá terminar o programa, tornar "
-"ele usável, apenas se eles concordarem em tornar o programa um software "
-"livre. Caso contrário, você irá desenvolvê-lo até o ponto de poder escrever "
-"um artigo científico sobre ele e nunca irá concluir uma versão boa o "
-"suficiente para ser lançado comercialmente. Quando os administradores "
-"perceberem que suas escolhas são ter um programa livre com os créditos para "
-"a universidade ou nada, eles irão escolher a primeira opção."
+"Seja lá como for, aborde o assunto logo cedo &ndash; bem antes do programa "
+"estar quase pronto. Neste ponto, a universidade ainda vai precisar de você, "
+"então você pode fazer jogo duro: diga à administração que você irá terminar "
+"o programa, e torná-lo usável, apenas se eles concordarem em torná-lo um "
+"software livre (e concordar com sua escolha de licença de software livre). "
+"Caso contrário, você irá desenvolvê-lo até o ponto de poder escrever um "
+"artigo científico sobre ele e nunca irá concluir uma versão boa o suficiente "
+"para ser lançado comercialmente. Quando os administradores perceberem que "
+"suas escolhas são ter um software livre com os créditos para a universidade "
+"ou nada, eles irão escolher a primeira opção."
 
 #. type: Content of: <p>
 msgid ""
@@ -213,29 +161,12 @@ msgid ""
 "please give us the chance to help.  Send mail to licensing@fsf.org, and put "
 "&ldquo;urgent&rdquo; in the Subject field."
 msgstr ""
+"A FSF algumas vezes consegue persuadir sua universidade a aceitar a Licença "
+"Pública Geral GNU ou aceitar a GPL versão 3. Se você não conseguir fazer "
+"sozinho, por favor nos dê uma chance de ajudá-lo. Envie um e-mail para "
+"licensing@fsf.org e coloque “urgent” no campo de assunto."
 
 #. type: Content of: <p>
-# | Not all universities have grasping policies.  The University of Texas has
-# | a policy that makes it easy to release software developed there as free
-# | software under the GNU General Public License.  Univates in Brazil, and
-# | the International Institute of Information Technology in Hyderabad, India,
-# | both have policies in favor of releasing software under the GPL.  By
-# | developing faculty support first, you may be able to institute such a
-# | policy at your university.  Present the issue as one of principle: does
-# | the university have a mission to advance human knowledge, or is its
-# | [-mission merely-] {+sole purpose+} to [-keep going?-] {+perpetuate
-# | itself?+}
-#, fuzzy
-#| msgid ""
-#| "Not all universities have grasping policies.  The University of Texas has "
-#| "a policy that makes it easy to release software developed there as free "
-#| "software under the GNU General Public License.  Univates in Brazil, and "
-#| "the International Institute of Information Technology in Hyderabad, "
-#| "India, both have policies in favor of releasing software under the GPL.  "
-#| "By developing faculty support first, you may be able to institute such a "
-#| "policy at your university.  Present the issue as one of principle: does "
-#| "the university have a mission to advance human knowledge, or is its "
-#| "mission merely to keep going?"
 msgid ""
 "Not all universities have grasping policies.  The University of Texas has a "
 "policy that makes it easy to release software developed there as free "
@@ -247,55 +178,29 @@ msgid ""
 "a mission to advance human knowledge, or is its sole purpose to perpetuate "
 "itself?"
 msgstr ""
-"Porém nem todas as universidades tem políticas restritivas. A Universidade "
-"do Texas, tem uma política que determina que, por default, todos os "
-"programas desenvolvidos lá sejam licenciados com a GNU GPL. O mesmo aconteçe "
-"na Univates, no Brasil, e no Instituro Internacional de Tecnologia da "
-"Informação, em Hyderabad, Índia. Tendo o apoio do corpo docente, você terá "
-"mais chance de propor um apoio institucional da universidade. Apresente o "
-"assunto como um princípio: a universidade tem como missão contribuir para o "
-"avanço do conhecimento humano ou sua missão é meramente continuar aí?"
+"Nem todas as universidades têm políticas restritivas. A Universidade do "
+"Texas tem uma política que facilita o lançamento de softwares desenvolvidos "
+"lá como software livre sob a Licença Pública Geral GNU. A Univates, no "
+"Brasil, e o Instituto Internacional de Tecnologia da Informação, em "
+"Hyderabad, Índia, têm políticas em favor do lançamento de software sob a "
+"GPL. Tendo o apoio do corpo docente, você terá mais chance de instituir tal "
+"política na sua universidade. Apresente a questão como um princípio: a "
+"universidade tem como missão contribuir para o avanço do conhecimento humano "
+"ou seu único propósito é perpetuar a si própria?"
 
 #. type: Content of: <p>
-# | [-Whatever approach you use,-]{+In persuading the university,+} it helps
-# | to [-have-] {+approach the issue with+} determination and [-adopt-]
-# | {+based on+} an ethical perspective, as we do in the [-Free Software
-# | Movement.-] {+free software movement.+}  To treat the public ethically,
-# | the software should be free&mdash;as in freedom&mdash;for the whole public.
-#, fuzzy
-#| msgid ""
-#| "Whatever approach you use, it helps to have determination and adopt an "
-#| "ethical perspective, as we do in the Free Software Movement.  To treat "
-#| "the public ethically, the software should be free&mdash;as in "
-#| "freedom&mdash;for the whole public."
 msgid ""
 "In persuading the university, it helps to approach the issue with "
 "determination and based on an ethical perspective, as we do in the free "
 "software movement.  To treat the public ethically, the software should be "
 "free&mdash;as in freedom&mdash;for the whole public."
 msgstr ""
-"Para qualquer estratégia que você tiver será preciso primeiramente ter a "
-"determinação de adotar uma perspectiva ética, como nós fazemos no movimento "
-"do software livre. Tratar o público eticamente, os programas devem ser "
-"livres para todas as pessoas."
+"Na persuasão da universidade, ajuda abordar a questão com determinação e "
+"baseado em uma perspectiva ética, como nós fazemos no movimento software "
+"livre. Para tratar o público eticamente, os software devem ser livres para "
+"todas as pessoas."
 
 #. type: Content of: <p>
-# | Many developers of free software profess narrowly practical [-reasons:-]
-# | {+reasons for doing so:+} they advocate allowing others to share and
-# | change software as an expedient for making software powerful and reliable.
-# |  If those values motivate you to develop free software, well and good, and
-# | thank you for your contribution.  But those values [-will-] {+do+} not
-# | [-help-] {+give+} you {+a good footing to+} stand firm when university
-# | administrators [-try to-] {+pressure or+} tempt you to make the program
-# | non[---]free.
-#, fuzzy
-#| msgid ""
-#| "Many developers of free software profess narrowly practical reasons: they "
-#| "advocate allowing others to share and change software as an expedient for "
-#| "making software powerful and reliable.  If those values motivate you to "
-#| "develop free software, well and good, and thank you for your "
-#| "contribution.  But those values will not help you stand firm when "
-#| "university administrators try to tempt you to make the program non-free."
 msgid ""
 "Many developers of free software profess narrowly practical reasons for "
 "doing so: they advocate allowing others to share and change software as an "
@@ -305,32 +210,15 @@ msgid ""
 "when university administrators pressure or tempt you to make the program "
 "nonfree."
 msgstr ""
-"Muitos desenvolvedores de software livre defendem sua posição com argumentos "
-"de salientam a praticidade. Dizem que permitir outros desenvolvedores de "
-"compartilhar mudanças no programa é um método de tornar os programas mais "
-"poderosos e confiáveis. Se esses valores orientam sua motivação de "
-"desenvolver software livre, tudo bem, agradecemos sua contribuição. Porém, "
-"acreditamos que esses valores não são suficientes para manter sua posição "
-"firme quando os administradores da universidade tentarem o persuadir a "
-"tornar seu programa um software proprietário. "
+"Muitos desenvolvedores de software livre apresentam argumentos estritamente "
+"práticos para fazê-lo: eles defendem a permissão de outros compartilharem e "
+"alterarem software como uma forma de torná-lo mais poderoso e confiável. Se "
+"esses valores lhe motivarem a desenvolver software livre, tudo bem, "
+"agradecemos sua contribuição. Mas esses valores não são suficientes para "
+"manter sua posição firme quando os administradores da universidade lhe "
+"pressionarem ou persuadirem a tornar seu programa não livre."
 
 #. type: Content of: <p>
-# | For instance, they may argue that &ldquo;We could make it even more
-# | powerful and reliable with all the money we can get.&rdquo; This claim may
-# | or may not come true in the end, but it is hard to disprove in advance. 
-# | They may suggest a license to offer copies &ldquo;free of charge, for
-# | academic use only,&rdquo; which would tell the general public they don't
-# | deserve freedom, and argue that this will obtain the cooperation of
-# | academia, which is all {+(they say)+} you need.
-#, fuzzy
-#| msgid ""
-#| "For instance, they may argue that &ldquo;We could make it even more "
-#| "powerful and reliable with all the money we can get.&rdquo; This claim "
-#| "may or may not come true in the end, but it is hard to disprove in "
-#| "advance.  They may suggest a license to offer copies &ldquo;free of "
-#| "charge, for academic use only,&rdquo; which would tell the general public "
-#| "they don't deserve freedom, and argue that this will obtain the "
-#| "cooperation of academia, which is all you need."
 msgid ""
 "For instance, they may argue that &ldquo;We could make it even more powerful "
 "and reliable with all the money we can get.&rdquo; This claim may or may not "
@@ -340,32 +228,15 @@ msgid ""
 "and argue that this will obtain the cooperation of academia, which is all "
 "(they say) you need."
 msgstr ""
-"Por exemplo, eles pode argumentar que “nós podemos torná-los ainda mais "
-"poderosos e confiáveis com o dinheiro que vamos ganhar com ele”. É difícil "
-"saber se isso acontecerá ou não verdade, mas também não é fácil provar o "
-"contrário. Eles podem inclusive sugerir uma licença que permita cópias "
-"grátis para uso acadêmico. Com isso ele dirá que você terá a cooperação da "
-"comunidade acadêmica, que é a que você realmente precisa. "
+"Por exemplo, eles podem argumentar que “nós podemos torná-lo ainda mais "
+"poderoso e confiável com o dinheiro que vamos ganhar com ele”. Essa alegação "
+"pode ou não se tornar realidade no final, mas é difícil provar o contrário "
+"antecipadamente. Eles podem inclusive sugerir uma licença para oferecer "
+"cópias “grátis, somente para uso acadêmico”, o que diria ao público geral "
+"que eles não merecem liberdade e argumentaria que você obteria a cooperação "
+"da academia, o que é tudo (segundo eles) que você precisa."
 
 #. type: Content of: <p>
-# | If you start from [-&ldquo;pragmatic&rdquo; values,-] {+values of
-# | convenience alone,+} it is hard to [-give-] {+make+} a good [-reason-]
-# | {+case+} for rejecting these dead-end proposals, but you can do it easily
-# | if you base your stand on ethical and political values.  What good is it
-# | to make a program powerful and reliable at the expense of users' freedom?
-# | Shouldn't freedom apply outside academia as well as within it? The answers
-# | are obvious if freedom and community are among your goals.  Free software
-# | respects the users' freedom, while non[---]free software negates it.
-#, fuzzy
-#| msgid ""
-#| "If you start from &ldquo;pragmatic&rdquo; values, it is hard to give a "
-#| "good reason for rejecting these dead-end proposals, but you can do it "
-#| "easily if you base your stand on ethical and political values.  What good "
-#| "is it to make a program powerful and reliable at the expense of users' "
-#| "freedom?  Shouldn't freedom apply outside academia as well as within it?  "
-#| "The answers are obvious if freedom and community are among your goals.  "
-#| "Free software respects the users' freedom, while non-free software "
-#| "negates it."
 msgid ""
 "If you start from values of convenience alone, it is hard to make a good "
 "case for rejecting these dead-end proposals, but you can do it easily if you "
@@ -375,13 +246,14 @@ msgid ""
 "if freedom and community are among your goals.  Free software respects the "
 "users' freedom, while nonfree software negates it."
 msgstr ""
-"Se você partir de valores “pragmáticos” será difícil dar uma boa razão para "
-"rejeitar essas propostas, mas você poderá fazer isso se basear sua motivação "
-"em valores éticos e políticos. De que vale desenvolver um programa poderoso "
-"e conviável sacrificando a liberdade dos usuários? A liberdade não tem a "
-"mesma importância fora da comunidade acadêmica? As respostas são óbvias se a "
-"liberdade e a comunidade forem os seus objetivos. O software livre respeita "
-"a liberdade dos usuários, enquanto softwares proprietários a negam. "
+"Se você partir de valores de apenas conveniência, é difícil dar uma boa "
+"razão para rejeitar essas propostas, mas você poderá fazer isso com "
+"facilidade se basear sua motivação em valores éticos e políticos. De que "
+"vale desenvolver um programa poderoso e confiável aos custos da liberdade "
+"dos usuários? A liberdade não deveria se aplicar fora da academia assim como "
+"dentro dela? As respostas são óbvias se a liberdade e a comunidade forem os "
+"seus objetivos. O software livre respeita a liberdade dos usuários, enquanto "
+"softwares não livres a negam."
 
 #. type: Content of: <p>
 msgid ""
@@ -389,7 +261,7 @@ msgid ""
 "depends, in one instance, on you."
 msgstr ""
 "Nada fortalece mais sua posição do que saber que a liberdade de sua "
-"comunidade depende, em alguma instância, de você. "
+"comunidade depende, em alguma instância, de você."
 
 #. type: Content of: <blockquote><p>
 msgid ""
@@ -398,8 +270,8 @@ msgid ""
 "Essays of Richard M. Stallman</cite></a>."
 msgstr ""
 "Este ensaio foi publicado em <a href=\"http://shop.fsf.org/product/free-"
-"software-free-society/\"><cite>Software Livre, Sociedade Livre: Artigos "
-"selecionados de Richard M. Stallman</cite></a>."
+"software-free-society/\"><cite>Free Software, Free Society: The Selected "
+"Essays of Richard M. Stallman</cite></a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -465,8 +337,9 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduzida por: Cláudio Machado <a href=\"mailto:claudio.machado@bol.com.br"
-"\">&lt;claudio.machado@bol.com.br&gt;</a>"
+"Traduzido por: Cláudio Machado <a href=\"mailto:claudio.machado@bol.com.br"
+"\">&lt;claudio.machado@bol.com.br&gt;</a>, 2002. Rafael Fontenelle <a href="
+"\"mailto:rafaelff@gnome.org\"> &lt;rafaelff@gnome.org&gt;</a>, 2018."
 
 # type: Content of: <div><p>
 #.  timestamp start 

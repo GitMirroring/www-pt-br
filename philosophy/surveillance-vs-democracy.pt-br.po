@@ -8,7 +8,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: surveillance-vs-democracy.html\n"
-"POT-Creation-Date: 2018-01-13 15:55+0000\n"
+"POT-Creation-Date: 2018-01-30 14:26+0000\n"
 "PO-Revision-Date: 2017-12-29 18:45-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -292,14 +292,40 @@ msgstr ""
 "confidential-databases\">muitas outras ocorrências nos EUA</a>."
 
 #. type: Content of: <div><div><p>
+# | Surveillance data will always be used for other purposes, even if this is
+# | prohibited.  Once the data has been accumulated and the state has the
+# | possibility of access to it, it can misuse that data in dreadful ways, as
+# | shown by examples from <a
+# | [-href=\"http://falkvinge.net/2012/03/17/collected-personal-data-will-always-be-used-against-the-citizens/\">Europe</a>
+# | and-]
+# | {+href=\"http://falkvinge.net/2012/03/17/collected-personal-data-will-always-be-used-against-the-citizens/\">Europe</a>,+}
+# | <a href=\"https://en.wikipedia.org/wiki/Japanese_American_internment\">the
+# | [-US </a>.-] {+US</a>, and most recently <a
+# | href=\"http://www.cbc.ca/news/world/terrifying-how-a-single-line-of-computer-code-put-thousands-of-innocent-turks-in-jail-1.4495021\">Turkey</a>.
+# |  (Turkey's confusion about who had really used the Bylock program only
+# | exacerbated the basic deliberate injustice of arbitrarily punishing people
+# | for having used it.)+}
+#, fuzzy
+#| msgid ""
+#| "Surveillance data will always be used for other purposes, even if this is "
+#| "prohibited.  Once the data has been accumulated and the state has the "
+#| "possibility of access to it, it can misuse that data in dreadful ways, as "
+#| "shown by examples from <a href=\"http://falkvinge.net/2012/03/17/"
+#| "collected-personal-data-will-always-be-used-against-the-citizens/"
+#| "\">Europe</a> and <a href=\"https://en.wikipedia.org/wiki/"
+#| "Japanese_American_internment\">the US </a>."
 msgid ""
 "Surveillance data will always be used for other purposes, even if this is "
 "prohibited.  Once the data has been accumulated and the state has the "
 "possibility of access to it, it can misuse that data in dreadful ways, as "
 "shown by examples from <a href=\"http://falkvinge.net/2012/03/17/collected-"
-"personal-data-will-always-be-used-against-the-citizens/\">Europe</a> and <a "
-"href=\"https://en.wikipedia.org/wiki/Japanese_American_internment\">the US </"
-"a>."
+"personal-data-will-always-be-used-against-the-citizens/\">Europe</a>, <a "
+"href=\"https://en.wikipedia.org/wiki/Japanese_American_internment\">the US</"
+"a>, and most recently <a href=\"http://www.cbc.ca/news/world/terrifying-how-"
+"a-single-line-of-computer-code-put-thousands-of-innocent-turks-in-"
+"jail-1.4495021\">Turkey</a>.  (Turkey's confusion about who had really used "
+"the Bylock program only exacerbated the basic deliberate injustice of "
+"arbitrarily punishing people for having used it.)"
 msgstr ""
 "Dados de vigilância serão sempre usados para outros propósitos, ainda que "
 "isto seja proibido. Uma vez que os dados foram acumulados e o Estado tem a "
@@ -444,13 +470,32 @@ msgstr ""
 "libre em seu próprio computadores antes de enviá-lo."
 
 #. type: Content of: <div><div><p>
+# | For privacy's sake, you must avoid nonfree [-software since, as a
+# | consequence of giving others-] {+software; if you give+} control of your
+# | [-computing, it is-] {+computer's operations to companies, they are+} <a
+# | href=\"/malware/proprietary-surveillance.html\">likely to {+make it+} spy
+# | on you</a>.  Avoid <a
+# | href=\"/philosophy/who-does-that-server-really-serve.html\">service as a
+# | software substitute</a>; in addition to giving others control of how your
+# | computing is done, it requires you to hand over all the pertinent data to
+# | the {+company's+} server.
+#, fuzzy
+#| msgid ""
+#| "For privacy's sake, you must avoid nonfree software since, as a "
+#| "consequence of giving others control of your computing, it is <a href=\"/"
+#| "malware/proprietary-surveillance.html\">likely to spy on you</a>.  Avoid "
+#| "<a href=\"/philosophy/who-does-that-server-really-serve.html\">service as "
+#| "a software substitute</a>; in addition to giving others control of how "
+#| "your computing is done, it requires you to hand over all the pertinent "
+#| "data to the server."
 msgid ""
-"For privacy's sake, you must avoid nonfree software since, as a consequence "
-"of giving others control of your computing, it is <a href=\"/malware/"
-"proprietary-surveillance.html\">likely to spy on you</a>.  Avoid <a href=\"/"
-"philosophy/who-does-that-server-really-serve.html\">service as a software "
-"substitute</a>; in addition to giving others control of how your computing "
-"is done, it requires you to hand over all the pertinent data to the server."
+"For privacy's sake, you must avoid nonfree software; if you give control of "
+"your computer's operations to companies, they are <a href=\"/malware/"
+"proprietary-surveillance.html\">likely to make it spy on you</a>.  Avoid <a "
+"href=\"/philosophy/who-does-that-server-really-serve.html\">service as a "
+"software substitute</a>; in addition to giving others control of how your "
+"computing is done, it requires you to hand over all the pertinent data to "
+"the company's server."
 msgstr ""
 "Por uma questão de privacidade, você deve evitar softwares não livres já "
 "que, como uma consequência de dar a outros o controle de seu computador, "
@@ -461,6 +506,27 @@ msgstr ""
 "dados pertinentes do servidor."
 
 #. type: Content of: <div><div><p>
+# | Protect your friends' and acquaintances' privacy, too.  <a
+# | href=\"http://bits.blogs.nytimes.com/2014/05/21/in-cybersecurity-sometimes-the-weakest-link-is-a-family-member/\">Don't
+# | give out their personal information</a> except how to contact them, and
+# | never give any web site your list of email or phone contacts.  Don't tell
+# | a company such as Facebook anything about your friends that they might not
+# | wish to publish in a newspaper.  Better yet, don't be used by Facebook at
+# | all.  Reject communication systems that require users to give their real
+# | names, even if you are [-going-] {+happy+} to [-give-] {+divulge+} yours,
+# | since they pressure other people to surrender their privacy.
+#, fuzzy
+#| msgid ""
+#| "Protect your friends' and acquaintances' privacy, too.  <a href=\"http://"
+#| "bits.blogs.nytimes.com/2014/05/21/in-cybersecurity-sometimes-the-weakest-"
+#| "link-is-a-family-member/\">Don't give out their personal information</a> "
+#| "except how to contact them, and never give any web site your list of "
+#| "email or phone contacts.  Don't tell a company such as Facebook anything "
+#| "about your friends that they might not wish to publish in a newspaper.  "
+#| "Better yet, don't be used by Facebook at all.  Reject communication "
+#| "systems that require users to give their real names, even if you are "
+#| "going to give yours, since they pressure other people to surrender their "
+#| "privacy."
 msgid ""
 "Protect your friends' and acquaintances' privacy, too.  <a href=\"http://"
 "bits.blogs.nytimes.com/2014/05/21/in-cybersecurity-sometimes-the-weakest-"
@@ -469,8 +535,8 @@ msgid ""
 "or phone contacts.  Don't tell a company such as Facebook anything about "
 "your friends that they might not wish to publish in a newspaper.  Better "
 "yet, don't be used by Facebook at all.  Reject communication systems that "
-"require users to give their real names, even if you are going to give yours, "
-"since they pressure other people to surrender their privacy."
+"require users to give their real names, even if you are happy to divulge "
+"yours, since they pressure other people to surrender their privacy."
 msgstr ""
 "Proteja a privacidade de seus amigos e conhecidos também. <a href=\"http://"
 "bits.blogs.nytimes.com/2014/05/21/in-cybersecurity-sometimes-the-weakest-"

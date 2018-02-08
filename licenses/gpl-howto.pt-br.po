@@ -7,13 +7,13 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gpl-howto.html\n"
-"POT-Creation-Date: 2017-09-11 11:26+0000\n"
+"POT-Creation-Date: 2018-01-24 03:55+0000\n"
 "PO-Revision-Date: 2017-09-27 22:39-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Virtaal 1.0.0-beta1\n"
@@ -81,8 +81,11 @@ msgid "Get a copyright disclaimer from your employer or school."
 msgstr "Obtenha um aviso de renúncia de copyright de seu empregador ou escola."
 
 #. type: Content of: <ul><li>
-msgid "Give each file the proper copyright notices."
-msgstr "Dê a cada arquivo as notas de copyright apropriadas."
+msgid ""
+"Give each file the proper copyright notices. Make sure <a href=\"/licenses/"
+"identify-licenses-clearly.html\">to clearly identify which versions of the "
+"license users can use</a>."
+msgstr ""
 
 #. type: Content of: <ul><li>
 msgid "Add a COPYING file with a copy of the GNU GPL or GNU AGPL."
@@ -645,9 +648,15 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
+# | Copyright &copy; 2001, 2007, 2008, 2009, 2013, 2014, [-2017-] {+2017,
+# | 2018+} Free Software Foundation, Inc.
+#, fuzzy
+#| msgid ""
+#| "Copyright &copy; 2001, 2007, 2008, 2009, 2013, 2014, 2017 Free Software "
+#| "Foundation, Inc."
 msgid ""
-"Copyright &copy; 2001, 2007, 2008, 2009, 2013, 2014, 2017 Free Software "
-"Foundation, Inc."
+"Copyright &copy; 2001, 2007, 2008, 2009, 2013, 2014, 2017, 2018 Free "
+"Software Foundation, Inc."
 msgstr ""
 "Copyright &copy; 2001, 2007, 2008, 2009, 2013, 2014, 2017 Free Software "
 "Foundation, Inc."
@@ -676,6 +685,9 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização: "
+
+#~ msgid "Give each file the proper copyright notices."
+#~ msgstr "Dê a cada arquivo as notas de copyright apropriadas."
 
 #~ msgid ""
 #~ "It's wise to ask your employer or school, if any, to sign a copyright "

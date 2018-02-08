@@ -3,18 +3,20 @@
 # This file is distributed under the same license as the original article.
 # Fernando Lozano, 2001.
 # Jan 2015: GNUNify.
-#
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: copyright-and-globalization.html\n"
 "POT-Creation-Date: 2018-01-22 19:25+0000\n"
-"PO-Revision-Date: 2017-05-20 16:20-0300\n"
+"PO-Revision-Date: 2018-01-24 05:34-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -2190,32 +2192,6 @@ msgstr ""
 "ser dolorosas e extensas."
 
 #. type: Content of: <p>
-# | For example, as a teacher of media, my access to images has been
-# | restricted in recent years in a way that had never been in place before. 
-# | If I write an essay in which I want to use still images, even from films,
-# | they are much harder to get permission to use, and the prices charged to
-# | use those still images are much higher &mdash; even when I make arguments
-# | about intellectual inquiry and the [-the-] legal category of &ldquo;fair
-# | use.&rdquo; So I think, in this moment of extended transformation, the
-# | longer-term prospects may, in fact, not be as disturbing as what's
-# | happening in the shorter term.  But in any case, we need to understand the
-# | whole of our contemporary experience as a renewed version of a struggle
-# | over the control of technological resources that is a recurring principle
-# | of Western society.
-#, fuzzy
-#| msgid ""
-#| "For example, as a teacher of media, my access to images has been "
-#| "restricted in recent years in a way that had never been in place before.  "
-#| "If I write an essay in which I want to use still images, even from films, "
-#| "they are much harder to get permission to use, and the prices charged to "
-#| "use those still images are much higher &mdash; even when I make arguments "
-#| "about intellectual inquiry and the the legal category of &ldquo;fair use."
-#| "&rdquo; So I think, in this moment of extended transformation, the longer-"
-#| "term prospects may, in fact, not be as disturbing as what's happening in "
-#| "the shorter term.  But in any case, we need to understand the whole of "
-#| "our contemporary experience as a renewed version of a struggle over the "
-#| "control of technological resources that is a recurring principle of "
-#| "Western society."
 msgid ""
 "For example, as a teacher of media, my access to images has been restricted "
 "in recent years in a way that had never been in place before.  If I write an "
@@ -2730,37 +2706,22 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-# | Copyright &copy; 2001, 2007, 2008, 2012, [-2014-] {+2014, 2018+} Free
-# | Software Foundation, Inc.
-#, fuzzy
-#| msgid ""
-#| "Copyright &copy; 2001, 2007, 2008, 2012, 2014 Free Software Foundation, "
-#| "Inc."
 msgid ""
 "Copyright &copy; 2001, 2007, 2008, 2012, 2014, 2018 Free Software "
 "Foundation, Inc."
 msgstr ""
-"Copyright &copy; 2001, 2007, 2008, 2012, 2014 Free Software Foundation, Inc."
+"Copyright &copy; 2001, 2007, 2008, 2012, 2014, 2018 Free Software "
+"Foundation, Inc."
 
 #. type: Content of: <div><p>
-# | This page is licensed under a <a rel=\"license\"
-# | [-href=\"http://creativecommons.org/licenses/by-nd/3.0/us/\">Creative-]
-# | {+href=\"http://creativecommons.org/licenses/by-nd/4.0/\">Creative+}
-# | Commons [-Attribution-NoDerivs 3.0 United States-]
-# | {+Attribution-NoDerivatives 4.0 International+} License</a>.
-#, fuzzy
-#| msgid ""
-#| "This page is licensed under a <a rel=\"license\" href=\"http://"
-#| "creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-#| "NoDerivs 3.0 United States License</a>."
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
 "creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
 "NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
-"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
