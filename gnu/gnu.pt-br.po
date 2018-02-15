@@ -1,13 +1,13 @@
 # Brazilian Portuguese translation of http://www.gnu.org/gnu/gnu.html
-# Copyright (C) 2016 Free Software Foundation, Inc.
+# Copyright (C) 2018 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Yuri da Silva <yuri.silva.31.charles AT gmail.com>, 2014 (RT #968979).
-# Rafael Fontenelle <rafaelff@gnome.org>, 2016.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2016, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: gnu.html\n"
 "POT-Creation-Date: 2016-09-29 14:55+0000\n"
-"PO-Revision-Date: 2016-12-20 07:46-0200\n"
+"PO-Revision-Date: 2018-01-22 07:46-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -114,12 +114,12 @@ msgstr ""
 "Richard Stallman e seu desenvolvimento inicial do GNU, publicado no "
 "<cite>The New York Times</cite> em 11 de Janeiro de 1989. Um problema com "
 "este artigo é que ele usa o termo de propaganda “propriedade intelectual” "
-"como se referisse a algo coerente. O termo é tão confuso que falando sobre "
-"ele <a href=\"/philosophy/not-ipr.html\">não faz nenhum sentido</a>. O "
-"artigo é de um modo confuso em relação ao Symbolics. O que Richard Stallman "
-"fez, quando ele ainda trabalhava no MIT, foi escrever, de forma "
-"independente, melhoras comparáveis às melhoras que Symbolics fez em sua "
-"versão da Máquina Lisp do MIT."
+"como se referisse a algo coerente. O termo é tão confuso que falar sobre ele "
+"<a href=\"/philosophy/not-ipr.html\">não faz nenhum sentido</a>. O artigo é "
+"de um modo confuso em relação ao Symbolics. O que Richard Stallman fez, "
+"quando ele ainda trabalhava no MIT, foi escrever, de forma independente, "
+"melhoras comparáveis às melhoras que Symbolics fez em sua versão da Máquina "
+"Lisp do MIT."
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -264,7 +264,7 @@ msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "<strong>Traduzido por</strong>: Yuri da Silva, 2014; \n"
 "Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome."
-"org&gt;</a>, 2016."
+"org&gt;</a>, 2016, 2018."
 
 # type: Content of: <div><p>
 #.  timestamp start 

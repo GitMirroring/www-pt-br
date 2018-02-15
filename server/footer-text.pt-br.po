@@ -1,16 +1,17 @@
 # Brazilian Portuguese translation of http://www.gnu.org/server/footer-text.html
-# Copyright (C) 2008, 2012, 2016 Free Software Foundation, Inc.
+# Copyright (C) 2018 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnu.org article.
 # Og Maciel <ogmaciel@gnome.org>, 2008.
 # Rafael Beraldo <rberaldo@cabaladada.org>, 2012.
 # Dec 2014: reformat the FSF statement.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2016, 2017.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2016-2018.
+# André Phellip Ferreira <werewolf@cyberdude.com>, 2018. (proofread)
 msgid ""
 msgstr ""
 "Project-Id-Version: footer-text.html\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-12-21 20:56+0000\n"
-"PO-Revision-Date: 2017-09-28 00:33-0300\n"
+"PO-Revision-Date: 2018-01-18 15:02-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -59,25 +60,14 @@ msgid "[FSF logo]"
 msgstr "[Logo da FSF]"
 
 #. type: Content of: <div><blockquote><p>
-# | [-</a><strong>&ldquo;Our mission-]{+</a><strong> &ldquo;The Free Software
-# | Foundation (FSF)+} is {+a nonprofit with a worldwide mission+} to
-# | [-preserve, protect and-] promote [-the freedom to use, study, copy,
-# | modify, and redistribute-] computer [-software, and to-] {+user freedom.
-# | We+} defend the rights of [-Free Software-] {+all software+}
-# | users.&rdquo;</strong>
-#, fuzzy
-#| msgid ""
-#| "</a><strong>&ldquo;Our mission is to preserve, protect and promote the "
-#| "freedom to use, study, copy, modify, and redistribute computer software, "
-#| "and to defend the rights of Free Software users.&rdquo;</strong>"
 msgid ""
 "</a><strong> &ldquo;The Free Software Foundation (FSF) is a nonprofit with a "
 "worldwide mission to promote computer user freedom. We defend the rights of "
 "all software users.&rdquo;</strong>"
 msgstr ""
-"</a><strong>“Nossa missão é preservar, proteger e promover a liberdade de "
-"usar, estudar, copiar, modificar e redistribuir software, e defender os "
-"direitos dos usuários de Software Livre.”</strong>"
+"</a><strong>“A Free Software Foundation (FSF) é uma organização sem fins "
+"lucrativos com a missão global de promover a liberdade de usuários de "
+"computador. Nós defendemos os direitos dos usuários de software.”</strong>"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -119,6 +109,8 @@ msgstr ""
 #~ "<a href=\"http://directory.fsf.org\">Diretório&nbsp;de&nbsp;Software&nbsp;"
 #~ "Livre</a>"
 
+# | [-by-]<a [-href=\"http://www.stallman.org/\">Richard Stallman</a>-]
+# | {+href=\"https://h-node.org/\">Hardware</a>+}
 #~| msgid "by <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
 #~ msgid "<a href=\"https://h-node.org/\">Hardware</a>"
 #~ msgstr "<a href=\"https://h-node.org/\">Hardware</a>"

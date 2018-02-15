@@ -1,0 +1,136 @@
+# Brazilian Portuguese translation of https://www.gnu.org/philosophy/bug-nobody-allowed-to-understand.html
+# Copyright (C) 2018 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: bug-nobody-allowed-to-understand.html\n"
+"POT-Creation-Date: 2015-10-16 13:25+0000\n"
+"PO-Revision-Date: 2018-01-18 08:26-0200\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid ""
+"The Bug Nobody is Allowed to Understand - GNU Project - Free Software "
+"Foundation"
+msgstr ""
+"O erro que ninguém tem permissão para entender - Projeto GNU - Free Software "
+"Foundation"
+
+#. type: Content of: <h2>
+msgid "The Bug Nobody is Allowed to Understand"
+msgstr "O erro que ninguém tem permissão para entender"
+
+#. type: Content of: <p>
+msgid "by <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
+msgstr "por <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
+
+#. type: Content of: <p>
+msgid ""
+"In the 1980s, proprietary software users discovered the problem of <em>the "
+"bug that nobody is allowed to understand</em>. When a problem occurs in the "
+"interaction of multiple proprietary software packages with different "
+"developers, none of them is allowed to study the source code of all the "
+"pertinent programs. As a result, none of them can understand the bad "
+"interaction between them, and the bug is never fixed except by accident."
+msgstr ""
+"Na década de 1980, usuários de software proprietários descobriram o problema "
+"<em>do erro que ninguém tem permissão para entender</em>. Quando ocorre um "
+"problema na interação de vários pacotes de software proprietários com "
+"desenvolvedores diferentes, nenhum deles pode estudar o código fonte de "
+"todos os programas pertinentes. Como resultado, nenhum deles pode entender a "
+"má interação entre eles e o erro nunca é corrigido, exceto por acidente."
+
+#. type: Content of: <p>
+msgid ""
+"According to <a href=\"http://www.guardian.co.uk/commentisfree/joris-"
+"luyendijk-banking-blog/2012/may/30/former-it-salesman-voices-of-finance\"> "
+"this article</a>, a similar problem now occurs between multiple instances of "
+"<a href=\"/philosophy/who-does-that-server-really-serve.html\">Service as a "
+"Software Substitute</a>."
+msgstr ""
+"De acordo com <a href=\"http://www.guardian.co.uk/commentisfree/joris-"
+"luyendijk-banking-blog/2012/may/30/former-it-salesman-voices-of-finance\"> "
+"esse artigo</a>, um problema similar agora ocorre entre múltiplas instâncias "
+"de <a href=\"/philosophy/who-does-that-server-really-serve.html\">Serviço "
+"como um Substituto de Software</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+# type: Content of: <div><p>
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF.  Links quebrados e outras correções ou "
+"sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2014, 2015 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2014, 2015 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2018."
+
+# type: Content of: <div><p>
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização: "

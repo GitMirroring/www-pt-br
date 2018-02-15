@@ -2,12 +2,12 @@
 # Copyright (C) 2018 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original articles.
 # Initial translation by zhrO zh <zhrtvp@gmail.com>, 2016
-# Rafael Fontenelle <rafaelff@gnome.org>, 2016, 2017 2018.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2016-2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: free-software-song.html\n"
 "POT-Creation-Date: 2018-01-29 08:26+0000\n"
-"PO-Revision-Date: 2018-01-18 14:18-0200\n"
+"PO-Revision-Date: 2018-02-11 03:13-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -291,26 +291,14 @@ msgstr ""
 "License:Free-Art-L-v1.3\">Licença de Arte Livre, versão 1.3</a>."
 
 #. type: Content of: <ul><li>
-# | The <strong>ecantorix</strong> program, a singing synthesis frontend for
-# | espeak, released under the GPLv3+, features the <a
-# | [-href=\"http://cloud.github.com/downloads/divVerent/ecantorix/song.ogg\">Free-]
-# | {+href=\"/music/free-software-song-ecantorix.ogg\">Free+} Software Song as
-# | an example output</a>.
-#, fuzzy
-#| msgid ""
-#| "The <strong>ecantorix</strong> program, a singing synthesis frontend for "
-#| "espeak, released under the GPLv3+, features the <a href=\"http://cloud."
-#| "github.com/downloads/divVerent/ecantorix/song.ogg\">Free Software Song as "
-#| "an example output</a>."
 msgid ""
 "The <strong>ecantorix</strong> program, a singing synthesis frontend for "
 "espeak, released under the GPLv3+, features the <a href=\"/music/free-"
 "software-song-ecantorix.ogg\">Free Software Song as an example output</a>."
 msgstr ""
 "O programa <strong>ecantorix</strong>, um frontend de síntese de canto para "
-"espeak, lançado sob a GPLv3+, fornecendo a <a href=\"http://cloud.github.com/"
-"downloads/divVerent/ecantorix/song.ogg\">Música de Software Livre como uma "
-"saída de exemplo</a>. "
+"espeak, lançado sob a GPLv3+, fornecendo a <a href=\"/music/free-software-"
+"song-ecantorix.ogg\">Música de Software Livre como uma saída de exemplo</a>."
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -320,7 +308,7 @@ msgid ""
 msgstr ""
 "<a href=\"https://commons.wikimedia.org/wiki/File%3AFreesoftwaresong_126_mix."
 "ogg\">Mais uma versão do Wikimedia Commons</a> (967 KB) está licenciada sob "
-"CC0. "
+"CC0."
 
 #. type: Content of: <p>
 msgid ""
@@ -447,7 +435,8 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "<b>Tradução:</b> Rafael Fontenelle\n"
-"<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, 2016"
+"<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, "
+"2016-2018"
 
 # type: Content of: <div><p>
 #.  timestamp start 
