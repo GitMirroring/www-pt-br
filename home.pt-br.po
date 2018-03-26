@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: home.html\n"
-"POT-Creation-Date: 2018-01-01 06:00+0000\n"
+"POT-Creation-Date: 2018-03-15 13:26+0000\n"
 "PO-Revision-Date: 2017-12-30 09:17-0200\n"
 "Last-Translator: André Phellip Ferreira <werewolf@cyberdude.com>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -97,7 +97,7 @@ msgid "Screenshot of GNU"
 msgstr "Captura de tela do GNU"
 
 # type: Content of: <div><p>
-#. type: Content of: <div><div><div>
+#. type: Content of: <div><div><div><h3>
 msgid "</a>"
 msgstr "</a>"
 
@@ -268,6 +268,27 @@ msgstr ""
 #. type: Content of: <div><div><p>
 msgid "<a href=\"/gnu/gnu.html\">More information</a>"
 msgstr "<a href=\"/gnu/gnu.html\">Mais informação</a>"
+
+#. type: Content of: <div><div><div><h3><a>
+msgid ""
+"<a href=\"http://planet.gnu.org/\">Planet GNU</a> <a href=\"http://planet."
+"gnu.org/rss20.xml\">"
+msgstr ""
+"<a href=\"http://planet.gnu.org/\">Planeta GNU</a> <a href=\"http://planet."
+"gnu.org/rss20.xml\">"
+
+#. type: Attribute 'alt' of: <div><div><div><h3><a><img>
+msgid "RSS Feed"
+msgstr "RSS Feed"
+
+#. type: Content of: <div><div><div><p>
+msgid ""
+"For more news, see <a href=\"http://planet.gnu.org/\">Planet GNU</a> and the "
+"list of <a href=\"/software/recent-releases.html\">recent GNU releases</a>."
+msgstr ""
+"Para mais notícias, acesse <a href=\"http://planet.gnu.org/\">Planet GNU</a> "
+"e a lista de <a href=\"/software/recent-releases.html\">lançamentos recentes "
+"GNU</a>."
 
 #. type: Content of: <div><div><div><h3>
 msgid "Take Action"
@@ -501,22 +522,3 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização: "
-
-#~ msgid ""
-#~ "<a href=\"http://planet.gnu.org/\">Planet GNU</a> <a href=\"http://planet."
-#~ "gnu.org/rss20.xml\">"
-#~ msgstr ""
-#~ "<a href=\"http://planet.gnu.org/\">Planeta GNU</a> <a href=\"http://"
-#~ "planet.gnu.org/rss20.xml\">"
-
-#~ msgid "RSS Feed"
-#~ msgstr "RSS Feed"
-
-#~ msgid ""
-#~ "For more news, see <a href=\"http://planet.gnu.org/\">Planet GNU</a> and "
-#~ "the list of <a href=\"/software/recent-releases.html\">recent GNU "
-#~ "releases</a>."
-#~ msgstr ""
-#~ "Para mais notícias, acesse <a href=\"http://planet.gnu.org/\">Planet GNU</"
-#~ "a> e a lista de <a href=\"/software/recent-releases.html\">lançamentos "
-#~ "recentes GNU</a>."

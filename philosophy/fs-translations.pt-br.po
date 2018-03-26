@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: fs-translations.html\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-02 06:26+0000\n"
+"POT-Creation-Date: 2018-02-25 17:26+0000\n"
 "PO-Revision-Date: 2018-01-18 12:38-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -749,12 +749,38 @@ msgstr "സൗജന്യസോഫ്റ്റ്‌വെയര്‍ (soujany
 msgid "Norwegian"
 msgstr "Norueguês"
 
+#. type: Content of: <table><tr><td>
+msgid "no, nb, nn"
+msgstr ""
+
 #. type: Attribute 'lang' of: <table><tr><td>
 msgid "no"
 msgstr "no"
 
 #. type: Content of: <table><tr><td>
 msgid "fri programvare"
+msgstr "fri programvare"
+
+#. type: Content of: <table><tr><td>
+# | [-fri-]{+gratis+} programvare
+#, fuzzy
+#| msgid "fri programvare"
+msgid "gratis programvare"
+msgstr "fri programvare"
+
+#. type: Content of: <table><tr><td>
+# | [-libere programmage-]{+godseid programvare+} / [-libere programmario-]
+# | {+proprietær programvare+}
+#, fuzzy
+#| msgid "libere programmage / libere programmario"
+msgid "godseid programvare / proprietær programvare"
+msgstr "libere programmage / libere programmario"
+
+#. type: Content of: <table><tr><td>
+# | [-fri-]{+kommersiell+} programvare
+#, fuzzy
+#| msgid "fri programvare"
+msgid "kommersiell programvare"
 msgstr "fri programvare"
 
 #. type: Content of: <h3>
