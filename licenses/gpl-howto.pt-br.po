@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gpl-howto.html\n"
-"POT-Creation-Date: 2018-01-24 03:55+0000\n"
+"POT-Creation-Date: 2018-03-31 01:56+0000\n"
 "PO-Revision-Date: 2017-09-27 22:39-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -129,13 +129,28 @@ msgid "The copyright disclaimer"
 msgstr "O aviso de renúncia de copyright (ou “copyright disclaimer”)"
 
 #. type: Content of: <p>
+# | [-To avoid possible legal complications later,-]{+If you are an
+# | individual, and you have an employer or study in a school,+} it's wise to
+# | ask your employer or [-school, if any,-] {+school+} to sign a copyright
+# | disclaimer for your program, so it cannot later claim that the copyright
+# | belongs to it and that you had no right to release the program at all. 
+# | This really has nothing to do with the GNU GPL&mdash;it applies no matter
+# | which free software license you use to release the program.
+#, fuzzy
+#| msgid ""
+#| "To avoid possible legal complications later, it's wise to ask your "
+#| "employer or school, if any, to sign a copyright disclaimer for your "
+#| "program, so it cannot later claim that the copyright belongs to it and "
+#| "that you had no right to release the program at all.  This really has "
+#| "nothing to do with the GNU GPL&mdash;it applies no matter which free "
+#| "software license you use to release the program."
 msgid ""
-"To avoid possible legal complications later, it's wise to ask your employer "
-"or school, if any, to sign a copyright disclaimer for your program, so it "
-"cannot later claim that the copyright belongs to it and that you had no "
-"right to release the program at all.  This really has nothing to do with the "
-"GNU GPL&mdash;it applies no matter which free software license you use to "
-"release the program."
+"If you are an individual, and you have an employer or study in a school, "
+"it's wise to ask your employer or school to sign a copyright disclaimer for "
+"your program, so it cannot later claim that the copyright belongs to it and "
+"that you had no right to release the program at all.  This really has "
+"nothing to do with the GNU GPL&mdash;it applies no matter which free "
+"software license you use to release the program."
 msgstr ""
 "Para evitar possíveis complicações legais posteriores, é sábio pedir ao seu "
 "empregador ou escola, se for o caso, assinar um aviso de renúncia de "

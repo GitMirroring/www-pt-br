@@ -11,7 +11,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: free-sw.html\n"
-"POT-Creation-Date: 2018-01-01 05:58+0000\n"
+"POT-Creation-Date: 2018-03-31 00:56+0000\n"
 "PO-Revision-Date: 2018-01-18 08:38-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -80,6 +80,15 @@ msgstr ""
 "ou para resolver questões mais sutis. Veja a <a href=\"#History\">seção "
 "Histórico</a> abaixo para uma lista de mudanças que afetam a definição de "
 "software livre."
+
+#. type: Content of: <blockquote><p>
+msgid ""
+"&ldquo;Open source&rdquo; is something different: it has a very different "
+"philosophy based on different values.  Its practical definition is different "
+"too, but nearly all open source programs are in fact free.  We explain the "
+"difference <a href=\"/philosophy/open-source-misses-the-point.html\">here</"
+"a>."
+msgstr ""
 
 #. type: Content of: <p>
 msgid ""
@@ -150,8 +159,13 @@ msgstr ""
 "requisito."
 
 #. type: Content of: <ul><li>
-msgid ""
-"The freedom to redistribute copies so you can help your neighbor (freedom 2)."
+# | The freedom to redistribute copies so you can help [-your neighbor-]
+# | {+others+} (freedom 2).
+#, fuzzy
+#| msgid ""
+#| "The freedom to redistribute copies so you can help your neighbor (freedom "
+#| "2)."
+msgid "The freedom to redistribute copies so you can help others (freedom 2)."
 msgstr ""
 "A liberdade de redistribuir cópias de modo que você possa ajudar ao próximo "
 "(liberdade 2)."

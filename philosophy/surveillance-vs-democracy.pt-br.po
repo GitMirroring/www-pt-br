@@ -8,7 +8,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: surveillance-vs-democracy.html\n"
-"POT-Creation-Date: 2018-02-17 21:25+0000\n"
+"POT-Creation-Date: 2018-03-31 01:56+0000\n"
 "PO-Revision-Date: 2017-12-29 18:45-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -665,13 +665,34 @@ msgstr ""
 "fisicamente milhões de fitas todo o dia e assisti-las ou copiá-las."
 
 #. type: Content of: <div><div><p>
+# | Nowadays, security cameras have become surveillance cameras: they are
+# | connected to the Internet so recordings can be collected in a data center
+# | and saved forever.  {+In Detroit, the cops pressure businesses to give
+# | them <a
+# | href=\"http://www.detroitnews.com/story/news/local/detroit-city/2018/01/23/detroit-green-light/109524794/\">unlimited
+# | access to their surveillance cameras</a> so that they can look through
+# | them at any and all times.+}  This is already dangerous, but it is going
+# | to get worse.  Advances in face recognition may bring the day when
+# | suspected journalists can be tracked on the street all the time to see who
+# | they talk with.
+#, fuzzy
+#| msgid ""
+#| "Nowadays, security cameras have become surveillance cameras: they are "
+#| "connected to the Internet so recordings can be collected in a data center "
+#| "and saved forever.  This is already dangerous, but it is going to get "
+#| "worse.  Advances in face recognition may bring the day when suspected "
+#| "journalists can be tracked on the street all the time to see who they "
+#| "talk with."
 msgid ""
 "Nowadays, security cameras have become surveillance cameras: they are "
 "connected to the Internet so recordings can be collected in a data center "
-"and saved forever.  This is already dangerous, but it is going to get "
-"worse.  Advances in face recognition may bring the day when suspected "
-"journalists can be tracked on the street all the time to see who they talk "
-"with."
+"and saved forever.  In Detroit, the cops pressure businesses to give them <a "
+"href=\"http://www.detroitnews.com/story/news/local/detroit-city/2018/01/23/"
+"detroit-green-light/109524794/\">unlimited access to their surveillance "
+"cameras</a> so that they can look through them at any and all times.  This "
+"is already dangerous, but it is going to get worse.  Advances in face "
+"recognition may bring the day when suspected journalists can be tracked on "
+"the street all the time to see who they talk with."
 msgstr ""
 "Hoje em dia, câmeras de segurança se tornaram câmeras de vigilância: elas "
 "estão conectadas à Internet, de forma que gravações podem ser coletadas por "

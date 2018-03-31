@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: compromise.html\n"
-"POT-Creation-Date: 2017-08-27 14:56+0000\n"
+"POT-Creation-Date: 2018-03-31 00:56+0000\n"
 "PO-Revision-Date: 2017-10-21 12:29-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -174,10 +174,28 @@ msgstr ""
 "pelas suas características práticas, como preço e conveniência."
 
 #. type: Content of: <p>
+# | Dale Carnegie's classic self-help book, <cite>How to Win Friends and
+# | Influence People</cite>, advises that the most effective way to persuade
+# | someone to do something is to present arguments that appeal to [-his-]
+# | {+per+} values.  There are ways we can appeal to the consumer values
+# | typical in our society.  For instance, free software obtained gratis can
+# | save the user money.  Many free programs are convenient and reliable, too.
+# |  Citing those practical benefits has succeeded in persuading many users to
+# | adopt various free programs, some of which are now quite successful.
+#, fuzzy
+#| msgid ""
+#| "Dale Carnegie's classic self-help book, <cite>How to Win Friends and "
+#| "Influence People</cite>, advises that the most effective way to persuade "
+#| "someone to do something is to present arguments that appeal to his "
+#| "values.  There are ways we can appeal to the consumer values typical in "
+#| "our society.  For instance, free software obtained gratis can save the "
+#| "user money.  Many free programs are convenient and reliable, too.  Citing "
+#| "those practical benefits has succeeded in persuading many users to adopt "
+#| "various free programs, some of which are now quite successful."
 msgid ""
 "Dale Carnegie's classic self-help book, <cite>How to Win Friends and "
 "Influence People</cite>, advises that the most effective way to persuade "
-"someone to do something is to present arguments that appeal to his values.  "
+"someone to do something is to present arguments that appeal to per values.  "
 "There are ways we can appeal to the consumer values typical in our society.  "
 "For instance, free software obtained gratis can save the user money.  Many "
 "free programs are convenient and reliable, too.  Citing those practical "
@@ -209,11 +227,21 @@ msgstr ""
 "associada a ele fazem."
 
 #. type: Content of: <p>
+# | That approach can get us only part way to the goal of freedom.  People who
+# | use free software only because it is convenient will stick with it only as
+# | long as it is {+more+} convenient.  And they will see no reason not to use
+# | convenient proprietary programs along with it.
+#, fuzzy
+#| msgid ""
+#| "That approach can get us only part way to the goal of freedom.  People "
+#| "who use free software only because it is convenient will stick with it "
+#| "only as long as it is convenient.  And they will see no reason not to use "
+#| "convenient proprietary programs along with it."
 msgid ""
 "That approach can get us only part way to the goal of freedom.  People who "
 "use free software only because it is convenient will stick with it only as "
-"long as it is convenient.  And they will see no reason not to use convenient "
-"proprietary programs along with it."
+"long as it is more convenient.  And they will see no reason not to use "
+"convenient proprietary programs along with it."
 msgstr ""
 "Essa abordagem pode nos levar apenas até certo ponto em nosso objetivo de "
 "liberdade. Pessoas que usam software livre apenas porque ele é conveniente "
@@ -221,10 +249,20 @@ msgstr ""
 "usar software proprietário em conjunto."
 
 #. type: Content of: <p>
+# | The philosophy of open source presupposes and appeals to consumer values,
+# | and this affirms and reinforces them.  That's why we <a
+# | href=\"/philosophy/open-source-misses-the-point.html\">do not [-support-]
+# | {+advocate+} open source.</a>
+#, fuzzy
+#| msgid ""
+#| "The philosophy of open source presupposes and appeals to consumer values, "
+#| "and this affirms and reinforces them.  That's why we <a href=\"/"
+#| "philosophy/open-source-misses-the-point.html\">do not support open source."
+#| "</a>"
 msgid ""
 "The philosophy of open source presupposes and appeals to consumer values, "
 "and this affirms and reinforces them.  That's why we <a href=\"/philosophy/"
-"open-source-misses-the-point.html\">do not support open source.</a>"
+"open-source-misses-the-point.html\">do not advocate open source.</a>"
 msgstr ""
 "A filosofia do código aberto pressupõe e apela para os valores de "
 "consumidor, desse modo afirmando e reforçando-os. É por isso que nós <a href="
@@ -453,9 +491,15 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
+# | Copyright &copy; 2008, 2009, 2014, 2015, [-2017-] {+2017, 2018+} <a
+# | href=\"http://www.stallman.org/\">Richard Stallman</a>.
+#, fuzzy
+#| msgid ""
+#| "Copyright &copy; 2008, 2009, 2014, 2015, 2017 <a href=\"http://www."
+#| "stallman.org/\">Richard Stallman</a>."
 msgid ""
-"Copyright &copy; 2008, 2009, 2014, 2015, 2017 <a href=\"http://www.stallman."
-"org/\">Richard Stallman</a>."
+"Copyright &copy; 2008, 2009, 2014, 2015, 2017, 2018 <a href=\"http://www."
+"stallman.org/\">Richard Stallman</a>."
 msgstr ""
 "Copyright &copy; 2008, 2009, 2014, 2015, 2017 <a href=\"http://www.stallman."
 "org/\">Richard Stallman</a>."

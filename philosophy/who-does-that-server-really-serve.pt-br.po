@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: who-does-that-server-really-serve.html\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-18 07:00+0000\n"
+"POT-Creation-Date: 2018-03-31 01:56+0000\n"
 "PO-Revision-Date: 2017-08-14 17:42-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -111,11 +111,11 @@ msgstr ""
 msgid ""
 "Our solution to this problem is developing <em>free software</em> and "
 "rejecting proprietary software.  Free software means that you, as a user, "
-"have four essential freedoms: (0)&nbsp;to run the program as you wish, (1)"
-"&nbsp;to study and change the source code so it does what you wish, (2)&nbsp;"
-"to redistribute exact copies, and (3)&nbsp;to redistribute copies of your "
-"modified versions.  (See the <a href=\"/philosophy/free-sw.html\">free "
-"software definition</a>.)"
+"have four essential freedoms: (0)&nbsp;to run the program as you wish, "
+"(1)&nbsp;to study and change the source code so it does what you wish, "
+"(2)&nbsp;to redistribute exact copies, and (3)&nbsp;to redistribute copies "
+"of your modified versions.  (See the <a href=\"/philosophy/free-sw.html"
+"\">free software definition</a>.)"
 msgstr ""
 "Nossa solução para este problema é o desenvolvimento de <em>software livre</"
 "em> e a rejeição de software proprietário. Software livre significa que "
@@ -767,6 +767,13 @@ msgstr ""
 "Os <em>dados</em> no servidor remoto alugado são menos seguros do que se "
 "você tivesse o servidor em casa, mas essa é uma questão separada do SaaSS."
 
+#. type: Content of: <p>
+msgid ""
+"This kind of server rental is sometimes called &ldquo;IaaS,&rdquo; but that "
+"term fits into a conceptual structure that downplays the issues that we "
+"consider important."
+msgstr ""
+
 #. type: Content of: <h3>
 msgid "Dealing with the SaaSS Problem"
 msgstr "Lidando com o Problema do SaaSS"
@@ -931,7 +938,10 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2010, 2013, 2015, 2016 Richard Stallman"
+# | Copyright &copy; 2010, 2013, 2015, [-2016-] {+2016, 2018+} Richard Stallman
+#, fuzzy
+#| msgid "Copyright &copy; 2010, 2013, 2015, 2016 Richard Stallman"
+msgid "Copyright &copy; 2010, 2013, 2015, 2016, 2018 Richard Stallman"
 msgstr "Copyright &copy; 2010, 2013, 2015, 2016 Richard Stallman"
 
 #. type: Content of: <div><p>
