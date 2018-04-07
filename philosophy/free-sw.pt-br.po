@@ -1,18 +1,18 @@
 # Brazilian Portuguese translation of http://www.gnu.org/philosophy/free-sw.html
-# Copyright (C) 2000, 2012, 2016, 2017 Free Software Foundation, Inc.
+# Copyright (C) 2018 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnu.org article.
 # Fernando Lozano <fernando@lozano.eti.br>, 2000.
 # Rafael Beraldo <rberaldo@cabaladada.org>, 2012.
 # Rodrigo Macedo <rodrigomacedo@rmsolucoeseminformatica.com>, 2012.
 # Dec 2014: remove wrong msgstr's; trivially update a few strings (T. Godefroy).
-# Rafael Fontenelle <rafaelff@gnome.org>, 2012, 2016, 2017, 2018.
 # Daniel Roma <listasdiscussaolinux@gmail.com>, 2017.
 # Leandro Dutra <l@dutras.org>, 2017.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2012, 2016-2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: free-sw.html\n"
-"POT-Creation-Date: 2018-03-31 00:56+0000\n"
-"PO-Revision-Date: 2018-01-18 08:38-0200\n"
+"POT-Creation-Date: 2018-04-01 07:56+0000\n"
+"PO-Revision-Date: 2018-04-02 13:41-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -21,8 +21,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Virtaal 1.0.0-beta1\n"
-"X-Poedit-Language: Brazilian Portuguese\n"
-"X-Poedit-Country: Brazil\n"
 
 #. type: Content of: <title>
 msgid "What is free software? - GNU Project - Free Software Foundation"
@@ -86,9 +84,15 @@ msgid ""
 "&ldquo;Open source&rdquo; is something different: it has a very different "
 "philosophy based on different values.  Its practical definition is different "
 "too, but nearly all open source programs are in fact free.  We explain the "
-"difference <a href=\"/philosophy/open-source-misses-the-point.html\">here</"
-"a>."
+"difference in <a href=\"/philosophy/open-source-misses-the-point.html\"> Why "
+"&ldquo;Open Source&rdquo; misses the point of Free Software</a>."
 msgstr ""
+"“Código aberto” (ou <i>open source</i>) é algo diferente: tem uma filosofia "
+"muito diferente baseada em valores diferentes. Sua definição prática também "
+"é diferente, mas quase todos os programas de código aberto são de fato "
+"livres. Nós explicamos a diferença em <a href=\"/philosophy/open-source-"
+"misses-the-point.html\">Por que o “Código Aberto” não compartilha dos "
+"objetivos do Software Livre</a>."
 
 #. type: Content of: <p>
 msgid ""
@@ -159,15 +163,9 @@ msgstr ""
 "requisito."
 
 #. type: Content of: <ul><li>
-# | The freedom to redistribute copies so you can help [-your neighbor-]
-# | {+others+} (freedom 2).
-#, fuzzy
-#| msgid ""
-#| "The freedom to redistribute copies so you can help your neighbor (freedom "
-#| "2)."
 msgid "The freedom to redistribute copies so you can help others (freedom 2)."
 msgstr ""
-"A liberdade de redistribuir cópias de modo que você possa ajudar ao próximo "
+"A liberdade de redistribuir cópias de modo que você possa ajudar outros "
 "(liberdade 2)."
 
 #. type: Content of: <ul><li>
@@ -1202,7 +1200,7 @@ msgstr ""
 "<b>Tradução</b>: Rafael Beraldo\n"
 "<a href=\"mailto:rberaldo@cabaladada.org\">&lt;rberaldo@cabaladada.org&gt;</"
 "a>, 2012; Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
-"rafaelff@gnome.org&gt;</a>, 2017"
+"rafaelff@gnome.org&gt;</a>, 2017, 2018"
 
 # type: Content of: <div><p>
 #.  timestamp start 

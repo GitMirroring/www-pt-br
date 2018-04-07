@@ -1,18 +1,18 @@
-# Brazilian Portuguese translation of http://www.gnu.org/distros/free-distros.html
-# Copyright (C) 2017 Free Software Foundation, Inc.
+# Brazilian Portuguese translation of https://www.gnu.org/distros/free-distros.html
+# Copyright (C) 2018 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnu.org article.
 # André Silva <andre.paulista@adinet.com.uy>, 2012.
 # Rafael Beraldo <rberaldo@cabaladada.org>, 2012.
 # Leandro Toledo <leandrotoledo@member.fsf.org>, 2012.
 # Dec 2014: update links (T. Godefroy).
 # Yuri da Silva <yuri.silva.31.charles AT gmail.com>, 2014 (RT #967994).
-# Rafael Fontenelle <rafaelff@gnome.org>, 2016, 2017.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2016-2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: free-distros.html\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-12-21 17:56+0000\n"
-"PO-Revision-Date: 2017-09-29 07:47-0300\n"
+"PO-Revision-Date: 2018-03-31 01:01-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -284,30 +284,20 @@ msgstr ""
 "fácil gerenciamento de pacotes e do sistema."
 
 #. type: Content of: <table><tr><td><a>
-# | <a [-href=\"http://proteanos.com/\">-] {+href=\"https://pureos.net/\">+}
-#, fuzzy
-#| msgid "<a href=\"http://proteanos.com/\">"
 msgid "<a href=\"https://pureos.net/\">"
-msgstr "<a href=\"http://proteanos.com/\">"
+msgstr "<a href=\"https://pureos.net/\">"
 
 #. type: Attribute 'alt' of: <table><tr><td><a><img>
 msgid "PureOS"
-msgstr ""
+msgstr "PureOS"
 
 #. type: Content of: <table><tr><td>
-# | [-gNewSense,-]{+PureOS,+} a [-GNU/Linux-] {+GNU+} distribution based on
-# | Debian[-,-] with [-sponsorship from the FSF.-] {+a focus on privacy,
-# | security, and convenience.+}
-#, fuzzy
-#| msgid ""
-#| "gNewSense, a GNU/Linux distribution based on Debian, with sponsorship "
-#| "from the FSF."
 msgid ""
 "PureOS, a GNU distribution based on Debian with a focus on privacy, "
 "security, and convenience."
 msgstr ""
-"gNewSense, uma distribuição de GNU/Linux baseada no Debian, patrocinada pela "
-"FSF."
+"PureOS, uma distribuição de GNU baseada no Debian com um foco na "
+"privacidade, segurança e conveniência."
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"http://trisquel.info/\">"
@@ -551,8 +541,8 @@ msgstr ""
 "a>, 2012;\n"
 "<br/>&nbsp;&nbsp;Hudson Flávio Meneses Lacerda, 2014;\n"
 "<br/>&nbsp;&nbsp;Rafael Fontenelle \n"
-"<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, 2016, "
-"2017."
+"<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, "
+"2016-2018."
 
 # type: Content of: <div><p>
 #.  timestamp start 

@@ -1,12 +1,12 @@
 # Brazilian Portuguese translation of http://www.gnu.org/philosophy/why-copyleft.html
-# Copyright (C) 2017 Free Software Foundation, Inc.
+# Copyright (C) 2018 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2017.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: why-copyleft.html\n"
 "POT-Creation-Date: 2018-01-01 05:59+0000\n"
-"PO-Revision-Date: 2017-07-03 21:00-0200\n"
+"PO-Revision-Date: 2018-03-31 19:54-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -42,13 +42,13 @@ msgid ""
 "arguing harshly against the <acronym title=\"General Public License\">GPL</"
 "acronym>."
 msgstr ""
-"No Projeto GNU, geralmente recomendamos que as pessoas usem licenças <a href="
-"\"/copyleft/copyleft.html\">copyleft</a>, como a GNU GPL, em vez de licenças "
-"de software livre sem copyleft. Não argumentamos duramente contra as "
-"licenças sem copyleft &mdash; na verdade, ocasionalmente nós as recomendamos "
-"em circunstâncias especiais &mdash;, mas os advogam por aquelas licenças "
-"mostram um padrão de argumentação dura contra a <acronym title=\"General "
-"Public License\">GPL</acronym>."
+"No Projeto GNU, geralmente recomendamos que as pessoas usem licenças "
+"protegidas por <a href=\"/copyleft/copyleft.html\">copyleft</a>, como a GNU "
+"GPL, em vez de licenças de software livre sem copyleft. Não argumentamos "
+"duramente contra as licenças sem copyleft &ndash; na verdade, ocasionalmente "
+"nós as recomendamos em circunstâncias especiais &ndash;, mas os que advogam "
+"por aquelas licenças mostram um padrão de argumentação dura contra a "
+"<acronym title=\"Licença Pública Geral\">GPL</acronym>."
 
 #. type: Content of: <p>
 msgid ""
@@ -60,30 +60,11 @@ msgid ""
 msgstr ""
 "Em um de tais argumentos, uma pessoal declarou que seu uso de uma das "
 "licenças BSD era um “ato de humildade”: “Eu peço nada daqueles que usam o "
-"meu código, exceto me dar o crédito”. É uma forma de descrever uma demanda "
+"meu código, exceto me dar o crédito”. É um exagero descrever uma demanda "
 "legal por crédito como “humildade”, mas há uma questão mais profunda a ser "
 "considerada aqui."
 
 #. type: Content of: <p>
-# | Humility is [-abnegating-] {+disregarding+} your own self[-
-# | -]{+-+}interest, but [-you and-] the [-one who uses-] {+interest you
-# | abandon when you don't copyleft+} your code [-are not the only ones
-# | affected by your choice of which free software license to use for-] {+is
-# | much bigger than+} your [-code.-] {+own.+}  Someone who uses your code in
-# | a nonfree program is [-trying to deny-] {+denying+} freedom to others,
-# | [-and-] {+so+} if you [-let him do it,-] {+allow that,+} you're failing to
-# | defend [-their-] {+those people's+} freedom.  When it comes to defending
-# | [-the freedom of others,-] {+everyone's freedom,+} to lie down and do
-# | nothing is an act of weakness, not humility.
-#, fuzzy
-#| msgid ""
-#| "Humility is abnegating your own self interest, but you and the one who "
-#| "uses your code are not the only ones affected by your choice of which "
-#| "free software license to use for your code.  Someone who uses your code "
-#| "in a nonfree program is trying to deny freedom to others, and if you let "
-#| "him do it, you're failing to defend their freedom.  When it comes to "
-#| "defending the freedom of others, to lie down and do nothing is an act of "
-#| "weakness, not humility."
 msgid ""
 "Humility is disregarding your own self-interest, but the interest you "
 "abandon when you don't copyleft your code is much bigger than your own.  "
@@ -92,28 +73,15 @@ msgid ""
 "freedom.  When it comes to defending everyone's freedom, to lie down and do "
 "nothing is an act of weakness, not humility."
 msgstr ""
-"Humildade é abnegar seu próprio interesse, mas você e aquele que usa seu "
-"código não são os únicos afetados por suas escolhas de qual licença de "
-"software livre usar em seu código. Alguém que usa seu código em um programa "
-"não livre está tentando negar liberdade a outros e, se você permitir que ele "
-"o faça, você está falhando em defender os direitos deles. Quando se trata de "
-"defender a liberdade dos outros, ficar sentado e fazer nada é um ato de "
-"fraqueza, e não de humildade."
+"A humildade é em desconsideração a seu próprio interesse, mas o interesse "
+"que você abandona quando não protege seu código com copyleft é muito maior "
+"que o seu próprio. Alguém que usa seu código em um programa não livre está "
+"negando a liberdade a outros e, se você permitir isso, você está falhando em "
+"defender a liberdade dessas pessoas. Quando se trata de defender a liberdade "
+"dos outros, ficar sentado e fazer nada é um ato de fraqueza, e não de "
+"humildade."
 
 #. type: Content of: <p>
-# | Releasing your code under {+<a href=\"/licenses/bsd.html\">+} one of the
-# | BSD [-licenses,-] {+licenses</a>,+} or some other {+lax,+} permissive
-# | [-non-copyleft-] license, is not doing wrong; the program is still free
-# | software, and still a contribution to our community.  But it is weak, and
-# | in most cases it is not the best way to promote users' freedom to share
-# | and change software.
-#, fuzzy
-#| msgid ""
-#| "Releasing your code under one of the BSD licenses, or some other "
-#| "permissive non-copyleft license, is not doing wrong; the program is still "
-#| "free software, and still a contribution to our community.  But it is "
-#| "weak, and in most cases it is not the best way to promote users' freedom "
-#| "to share and change software."
 msgid ""
 "Releasing your code under <a href=\"/licenses/bsd.html\"> one of the BSD "
 "licenses</a>, or some other lax, permissive license, is not doing wrong; the "
@@ -121,17 +89,19 @@ msgid ""
 "But it is weak, and in most cases it is not the best way to promote users' "
 "freedom to share and change software."
 msgstr ""
-"Lançar seu código sob uma das licenças BSD, ou alguma outra licença "
-"permissiva sem copyleft, não é incorreto; o programa ainda é um software "
-"livre e ainda é uma contribuição para nossa comunidade. Porém é fraco e, na "
-"maioria dos casos, não é a melhor forma de promover a liberdade dos usuários "
-"de compartilhar e modificar softwares."
+"Lançar seu código sob <a href=\"/licenses/bsd.html\"> uma das licenças BSD</"
+"a>, ou alguma outra licença leniente e permissiva, não é incorreto; o "
+"programa ainda é um software livre e ainda é uma contribuição para nossa "
+"comunidade. Porém é fraco e, na maioria dos casos, não é a melhor forma de "
+"promover a liberdade dos usuários de compartilhar e modificar softwares."
 
 #. type: Content of: <p>
 msgid ""
 "Here are specific examples of nonfree versions of free programs that have "
 "done major harm to the free world."
 msgstr ""
+"Aqui estão exemplos específicos de versões não livres de programas livres "
+"que causaram grandes danos ao mundo livre."
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -143,6 +113,14 @@ msgid ""
 "job.  The nonfree adaptation of LLVM is the only compiler for those "
 "machines, and is likely to remain so."
 msgstr ""
+"Aqueles que lançaram LLVM sob uma licença sem proteção de copyleft <a href="
+"\"https://www.anandtech.com/show/5238/nvidia-releases-cuda-41-cuda-goes-llvm-"
+"and-open-source-kind-of\">permitiram a nVidia a liberar um compilador não "
+"livre de alta qualidade</a> para suas GPUs, mantendo seu conjunto de "
+"instruções em segredo. Assim, não podemos escrever um compilador livre para "
+"essa plataforma sem um grande trabalho de engenharia reversa. A adaptação "
+"não gratuita do LLVM é o único compilador para essas máquinas e é provável "
+"assim que permaneça."
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -151,6 +129,10 @@ msgid ""
 "system</a>, which is free but not copylefted, in the Management Engine back "
 "door in its modern processors."
 msgstr ""
+"A Intel usa <a href=\"http://www.tomshardware.com/news/google-removing-minix-"
+"management-engine-intel,35876.html\">uma versão proprietária do sistema "
+"MINIX</a>, que é livre, mas sem proteção de copyleft, no backdoor Mecanismo "
+"de Gerenciamento (Intel Management Engine) em seus processadores modernos."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -199,42 +181,29 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-# | Copyright &copy; 2003, 2007, 2008, [-2013-] {+2013, 2017, 2018+} Free
-# | Software Foundation, Inc.
-#, fuzzy
-#| msgid ""
-#| "Copyright &copy; 2003, 2007, 2008, 2013 Free Software Foundation, Inc."
 msgid ""
 "Copyright &copy; 2003, 2007, 2008, 2013, 2017, 2018 Free Software "
 "Foundation, Inc."
-msgstr "Copyright &copy; 2003, 2007, 2008, 2013 Free Software Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2003, 2007, 2008, 2013, 2017, 2018 Free Software "
+"Foundation, Inc."
 
 #. type: Content of: <div><p>
-# | This page is licensed under a <a rel=\"license\"
-# | [-href=\"http://creativecommons.org/licenses/by-nd/3.0/us/\">Creative-]
-# | {+href=\"http://creativecommons.org/licenses/by-nd/4.0/\">Creative+}
-# | Commons [-Attribution-NoDerivs 3.0 United States-]
-# | {+Attribution-NoDerivatives 4.0 International+} License</a>.
-#, fuzzy
-#| msgid ""
-#| "This page is licensed under a <a rel=\"license\" href=\"http://"
-#| "creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-#| "NoDerivs 3.0 United States License</a>."
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
 "creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
 "NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
-"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
-"rafaelff@gnome.org&gt;</a>, 2017"
+"rafaelff@gnome.org&gt;</a>, 2017, 2018"
 
 # type: Content of: <div><p>
 #.  timestamp start 

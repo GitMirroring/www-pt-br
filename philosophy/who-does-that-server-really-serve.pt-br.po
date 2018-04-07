@@ -2,13 +2,13 @@
 # Copyright (C) 2017 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Hudson Flávio Meneses Lacerda <hfmlacerda@yahoo.com.br>, 2014
-# Rafael Fontenelle <rafaelff@gnome.org>, 2012, 2017.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2012, 2017, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: who-does-that-server-really-serve.html\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-03-31 01:56+0000\n"
-"PO-Revision-Date: 2017-08-14 17:42-0300\n"
+"PO-Revision-Date: 2018-03-31 00:56-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -111,11 +111,11 @@ msgstr ""
 msgid ""
 "Our solution to this problem is developing <em>free software</em> and "
 "rejecting proprietary software.  Free software means that you, as a user, "
-"have four essential freedoms: (0)&nbsp;to run the program as you wish, "
-"(1)&nbsp;to study and change the source code so it does what you wish, "
-"(2)&nbsp;to redistribute exact copies, and (3)&nbsp;to redistribute copies "
-"of your modified versions.  (See the <a href=\"/philosophy/free-sw.html"
-"\">free software definition</a>.)"
+"have four essential freedoms: (0)&nbsp;to run the program as you wish, (1)"
+"&nbsp;to study and change the source code so it does what you wish, (2)&nbsp;"
+"to redistribute exact copies, and (3)&nbsp;to redistribute copies of your "
+"modified versions.  (See the <a href=\"/philosophy/free-sw.html\">free "
+"software definition</a>.)"
 msgstr ""
 "Nossa solução para este problema é o desenvolvimento de <em>software livre</"
 "em> e a rejeição de software proprietário. Software livre significa que "
@@ -773,6 +773,9 @@ msgid ""
 "term fits into a conceptual structure that downplays the issues that we "
 "consider important."
 msgstr ""
+"Esse tipo de aluguel de servidor às vezes é chamado de \"IaaS\", mas esse "
+"termo se encaixa em uma estrutura conceitual que minimiza as questões que "
+"consideramos importantes."
 
 #. type: Content of: <h3>
 msgid "Dealing with the SaaSS Problem"
@@ -938,11 +941,8 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-# | Copyright &copy; 2010, 2013, 2015, [-2016-] {+2016, 2018+} Richard Stallman
-#, fuzzy
-#| msgid "Copyright &copy; 2010, 2013, 2015, 2016 Richard Stallman"
 msgid "Copyright &copy; 2010, 2013, 2015, 2016, 2018 Richard Stallman"
-msgstr "Copyright &copy; 2010, 2013, 2015, 2016 Richard Stallman"
+msgstr "Copyright &copy; 2010, 2013, 2015, 2016, 2018 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -959,7 +959,8 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "<b>Tradução:</b> Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
-"rafaelff@gnome.org&gt;</a>, 2012, 2017; Hudson Flávio Meneses Lacerda, 2014"
+"rafaelff@gnome.org&gt;</a>, 2012, 2017, 2018; Hudson Flávio Meneses Lacerda, "
+"2014"
 
 # type: Content of: <div><p>
 #.  timestamp start 

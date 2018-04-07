@@ -9,13 +9,13 @@
 # Rodrigo Macedo <rodrigomacedo@rmsolucoeseminformatica.com> 2012.
 # Hudson Flávio Meneses Lacerda <hfmlacerda@yahoo.com.br>, 2013.
 # Dec 2014: remove wrong msgstr's, trivially update a few strings (T. Godefroy).
-# Rafael Fontenelle <rafaelff@gnome.org>, 2012, 2013, 2017.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2012, 2013, 2017, 2018.
 # Daniel Roma <listasdiscussaolinux@gmail.com>, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: philosophy.html\n"
-"POT-Creation-Date: 2017-09-25 09:56+0000\n"
-"PO-Revision-Date: 2017-09-29 15:29-0300\n"
+"POT-Creation-Date: 2018-04-01 08:56+0000\n"
+"PO-Revision-Date: 2018-04-02 19:00-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -132,7 +132,9 @@ msgstr ""
 
 #. type: Content of: <ul><li>
 msgid "<a href=\"/philosophy/selling.html\">Selling Free Software</a> is OK!"
-msgstr "<a href=\"/philosophy/selling.html\">Vender Software Livre</a> é OK!"
+msgstr ""
+"<a href=\"/philosophy/selling.html\">Vender Software Livre</a> não tem "
+"problema!"
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -151,8 +153,8 @@ msgstr ""
 
 #. type: Content of: <ul><li>
 msgid ""
-"<a href=\"/philosophy/open-source-misses-the-point.html\">Why \"Open Source"
-"\" misses the point of Free Software</a>"
+"<a href=\"/philosophy/open-source-misses-the-point.html\">Why &ldquo;Open "
+"Source&rdquo; misses the point of Free Software</a>"
 msgstr ""
 "<a href=\"/philosophy/open-source-misses-the-point.html\">Por que o “Código "
 "Aberto” não compartilha dos objetivos do Software Livre</a>"
@@ -177,19 +179,13 @@ msgstr ""
 msgid "<a href=\"/education/education.html\">Free software in education</a>"
 msgstr "<a href=\"/education/education.html\">Software livre na educação</a>"
 
-#.  please leave both these ID attributes here. ... 
-#.  ... we removed this as an H$ section as it was duplicating the  
-#.  same information on links.html, but it's possible that some users 
-#.  have the URLs bookmarked or on their pages. -len 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"<a id=\"TOCFreedomOrganizations\">We</a> <a id=\"FreedomOrganizations"
-"\">also</a> keep a list of <a href=\"/links/links.html#FreedomOrganizations"
+"We also keep a list of <a href=\"/links/links.html#FreedomOrganizations"
 "\">Organizations that Work for Freedom in Computer Development and "
 "Electronic Communications</a>."
 msgstr ""
-"<a id=\"TOCFreedomOrganizations\">Nós</a> <a id=\"FreedomOrganizations"
-"\">também</a> mantemos uma lista de <a href=\"/links/links."
+"Nós também mantemos uma lista de <a href=\"/links/links."
 "html#FreedomOrganizations\">Organizações que Trabalham pela Liberdade no "
 "Desenvolvimento da Computação e nas Comunicações Eletrônicas</a>."
 
@@ -240,8 +236,10 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2013, 2015, 2016, 2017 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2013, 2015, 2016, 2017 Free Software Foundation, Inc."
+msgid ""
+"Copyright &copy; 2013, 2015, 2016, 2017, 2018 Free Software Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2013, 2015, 2016, 2017, 2018 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -257,18 +255,27 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"<strong>Tradução</strong>: Leandro Guimarães Faria Corcete Dutra\n"
+"<strong>Tradução</strong>:\n"
+"Leandro Guimarães Faria Corcete Dutra\n"
 "<a href=\"mailto:leandro.gfc.dutra@gmail.co\">&lt;leandro.gfc.dutra@gmail."
-"com&gt;</a>, 2009 <br/>\n"
+"com&gt;</a>, 2009;<br/>\n"
 "Rafael Beraldo\n"
 "<a href=\"mailto:rberaldo@cabaladada.org\">&lt;rberaldo@cabaladada.org&gt;</"
-"a>, 2012"
+"a>, 2012;\n"
+"Rafael Fontenelle\n"
+"<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, 2017, "
+"2018."
 
 # type: Content of: <div><p>
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização: "
+
+#~ msgid ""
+#~ "Copyright &copy; 2013, 2015, 2016, 2017 Free Software Foundation, Inc."
+#~ msgstr ""
+#~ "Copyright &copy; 2013, 2015, 2016, 2017 Free Software Foundation, Inc."
 
 #~ msgid "Copyright &copy; 2013, 2015, 2016 Free Software Foundation, Inc."
 #~ msgstr "Copyright &copy; 2013, 2015, 2016 Free Software Foundation, Inc."

@@ -1,5 +1,5 @@
 # Brazilian Portuguese translation of https://www.gnu.org/philosophy/essays-and-articles.html
-# Copyright (C) 2017 Free Software Foundation, Inc.
+# Copyright (C) 2018 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnu.org article.
 # Pedro Oliveira <bili@linux.fe.up.pt>, 2001.
 # Miguel Oliveira <pmike@esoterica.pt>, 2001.
@@ -7,12 +7,13 @@
 # Leandro Guimarães Faria Corcete Dutra <leandro.gfc.dutra@gmail.com>, 2009.
 # Aslan Carlos <aslancarlos@gmail.com>, 2012.
 # Rafael Beraldo <rberaldo@cabaladada.org>, 2012.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2017.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017-2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: essays-and-articles.html\n"
-"POT-Creation-Date: 2018-01-31 17:26+0000\n"
-"PO-Revision-Date: 2017-10-21 14:49-0200\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-05 09:56+0000\n"
+"PO-Revision-Date: 2018-04-06 06:52-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -888,27 +889,6 @@ msgstr ""
 "caso Eldred v. Ashcroft na Suprema Corte</a>"
 
 #. type: Content of: <ul><li>
-# | <a href=\"/philosophy/push-copyright-aside.html\">Science must &ldquo;push
-# | copyright aside&rdquo;</a>, another work of <a
-# | href=\"http://www.stallman.org\">Richard Stallman</a> that appeared in the
-# | <a
-# | [-href=\"http://www.nature.com/nature/debates/e-access/Articles/stallman.html\">-]
-# | {+href=\"https://web.archive.org/web/20050729110347/http://www.nature.com/nature/debates/e-access/Articles/stallman.html\">+}
-# | Nature Webdebates</a> in 2001, explains how copyright is impeding progress
-# | in scientific research.  You may also be interested in <a
-# | href=\"https://www.plos.org/\">The Public Library of Science</a>, which is
-# | dedicated to making scientific research freely available to all on the
-# | Internet.
-#, fuzzy
-#| msgid ""
-#| "<a href=\"/philosophy/push-copyright-aside.html\">Science must &ldquo;"
-#| "push copyright aside&rdquo;</a>, another work of <a href=\"http://www."
-#| "stallman.org\">Richard Stallman</a> that appeared in the <a href=\"http://"
-#| "www.nature.com/nature/debates/e-access/Articles/stallman.html\"> Nature "
-#| "Webdebates</a> in 2001, explains how copyright is impeding progress in "
-#| "scientific research.  You may also be interested in <a href=\"https://www."
-#| "plos.org/\">The Public Library of Science</a>, which is dedicated to "
-#| "making scientific research freely available to all on the Internet."
 msgid ""
 "<a href=\"/philosophy/push-copyright-aside.html\">Science must &ldquo;push "
 "copyright aside&rdquo;</a>, another work of <a href=\"http://www.stallman.org"
@@ -922,13 +902,13 @@ msgid ""
 msgstr ""
 "A <a href=\"/philosophy/push-copyright-aside.html\">ciência deve “colocar os "
 "direitos autorais de lado”</a>, outro trabalho de <a href=\"http://www."
-"stallman.org\">Richard Stallman</a> que apareceu no <a href=\"http://www."
-"nature.com/nature/debates/e-access/Articles/stallman.html\"> Nature "
-"Webdebates</a> em 2001, explica como os direitos autorais tem impedido o "
-"progresso na pesquisa cientifica. Você também pode estar interessado em <a "
-"href=\"https://www.plos.org/\">A Livraria Pública de Ciência</a>, que se "
-"dedica a tornar a pesquisa científica livremente disponível para todos na "
-"Internet."
+"stallman.org\">Richard Stallman</a> que apareceu no <a href=\"https://web."
+"archive.org/web/20050729110347/http://www.nature.com/nature/debates/e-access/"
+"Articles/stallman.html\"> Nature Webdebates</a> em 2001, explica como os "
+"direitos autorais tem impedido o progresso na pesquisa cientifica. Você "
+"também pode estar interessado em <a href=\"https://www.plos.org/\">A "
+"Livraria Pública de Ciência</a>, que se dedica a tornar a pesquisa "
+"científica livremente disponível para todos na Internet."
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -1127,20 +1107,22 @@ msgid "Cultural and Social Issues"
 msgstr "Problemas Sociais e Culturais"
 
 #. type: Content of: <ul><li>
-# | <a [-href=\"/philosophy/surveillance-vs-democracy.html\">How Much
-# | Surveillance Can Democracy Withstand?</a> by Richard Stallman-]
-# | {+href=\"/philosophy/surveillance-testimony.html\">Surveillance
-# | Testimony</a>+}
-#, fuzzy
-#| msgid ""
-#| "<a href=\"/philosophy/surveillance-vs-democracy.html\">How Much "
-#| "Surveillance Can Democracy Withstand?</a> by Richard Stallman"
+msgid ""
+"<a href=\"https://www.theguardian.com/commentisfree/2018/apr/03/facebook-"
+"abusing-data-law-privacy-big-tech-surveillance\"> A radical proposal to keep "
+"your personal data safe</a>, by Richard Stallman"
+msgstr ""
+"<a href=\"https://www.theguardian.com/commentisfree/2018/apr/03/facebook-"
+"abusing-data-law-privacy-big-tech-surveillance\"> Uma proposta radical para "
+"manter seus dados pessoais seguros</a>, por Richard Stallman"
+
+#. type: Content of: <ul><li>
 msgid ""
 "<a href=\"/philosophy/surveillance-testimony.html\">Surveillance Testimony</"
 "a>"
 msgstr ""
-"<a href=\"/philosophy/surveillance-vs-democracy.html\">Qual o Nível de "
-"Vigilância Que a Democracia Pode Suportar?</a> por Richard Stallman"
+"<a href=\"/philosophy/surveillance-testimony.html\">Testemunho de "
+"vigilância</a>"
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -1603,11 +1585,8 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-# | Copyright &copy; 1996-201[-7-]{+8+} Free Software Foundation, Inc.
-#, fuzzy
-#| msgid "Copyright &copy; 1996-2017 Free Software Foundation, Inc."
 msgid "Copyright &copy; 1996-2018 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 1996-2017 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 1996-2018 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -1627,7 +1606,8 @@ msgstr ""
 "<a href=\"mailto:aslancarlos@gmail.com\">&lt;aslancarlos@gmail.com&gt;</a>, "
 "2012; \n"
 "Rafael Fontenelle\n"
-"<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, 2017"
+"<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, 2017, "
+"2018"
 
 # type: Content of: <div><p>
 #.  timestamp start 

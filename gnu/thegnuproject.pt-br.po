@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: thegnuproject.html\n"
 "POT-Creation-Date: 2018-03-31 00:56+0000\n"
-"PO-Revision-Date: 2018-01-18 08:43-0200\n"
+"PO-Revision-Date: 2018-03-31 00:37-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -1873,25 +1873,6 @@ msgid "Software patents"
 msgstr "As patentes de software"
 
 #. type: Content of: <p>
-# | The worst threat we face comes from software patents, which can put
-# | algorithms and features off limits to free software for up to twenty
-# | years.  The LZW compression algorithm patents were applied for in 1983,
-# | and we still cannot release free software to produce proper compressed
-# | <acronym title=\"Graphics Interchange Format\">GIF</acronym>s.  [As of
-# | 2009 they have expired.] In 1998, a free program to produce <acronym
-# | title=\"MPEG-1 Audio Layer 3\">MP3</acronym> compressed audio was removed
-# | from distribution under threat of a patent suit.  {+[As of 2017, these
-# | patents have expired.  Look how long we had to wait.]+}
-#, fuzzy
-#| msgid ""
-#| "The worst threat we face comes from software patents, which can put "
-#| "algorithms and features off limits to free software for up to twenty "
-#| "years.  The LZW compression algorithm patents were applied for in 1983, "
-#| "and we still cannot release free software to produce proper compressed "
-#| "<acronym title=\"Graphics Interchange Format\">GIF</acronym>s.  [As of "
-#| "2009 they have expired.] In 1998, a free program to produce <acronym "
-#| "title=\"MPEG-1 Audio Layer 3\">MP3</acronym> compressed audio was removed "
-#| "from distribution under threat of a patent suit."
 msgid ""
 "The worst threat we face comes from software patents, which can put "
 "algorithms and features off limits to free software for up to twenty years.  "
@@ -1910,7 +1891,8 @@ msgstr ""
 "<acronym title=\"Graphics Interchange Format\">GIF</acronym>s comprimidos.  "
 "[Em 2009 elas expiraram].  Em 1998, um programa livre para produzir áudio "
 "comprimido em <acronym title=\"MPEG-1 Audio Layer 3\">MP3</acronym> foi "
-"impedido de ser distribuído sob a ameaça de um processo de patente."
+"impedido de ser distribuído sob a ameaça de um processo de patente. [Desde "
+"2018, essas patentes expiraram. Veja quanto tempo tivemos que esperar.]"
 
 #. type: Content of: <p>
 msgid ""

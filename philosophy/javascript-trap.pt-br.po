@@ -1,13 +1,13 @@
 # Brazilian Portuguese translation of http://www.gnu.org/philosophy/javascript-trap.html
 # Copyright (C) 2018 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original articles.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2016, 2017, 2018.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2016-2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: javascript-trap.html\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-03-31 01:56+0000\n"
-"PO-Revision-Date: 2018-01-18 17:30-0200\n"
+"PO-Revision-Date: 2018-03-31 00:59-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -116,6 +116,16 @@ msgid ""
 "of these services is to give the web site other personal data that it "
 "shouldn't get."
 msgstr ""
+"Além de não estar livre, muitos desses programas são malwares porque eles <a "
+"href=\"http://github.com/w3c/fingerprinting-guidance/issues/8\">bisbilhotam "
+"o usuário</a>. Ainda mais desagradável, alguns sites usam serviços que "
+"registram <a href=\"https://freedom-to-tinker.com/2017/11/15/no-boundaries-"
+"exfiltration-of-personal-data-by-session-replay-scripts/\">todas as ações do "
+"usuário enquanto olha para a página</a>. Os serviços supostamente “redigem” "
+"as gravações para excluir alguns dados confidenciais que o site não deve "
+"obter. Mas mesmo que isso funcione de forma confiável, todo o propósito "
+"desses serviços é fornecer ao site outros dados pessoais que ele não deveria "
+"obter."
 
 #. type: Content of: <p>
 msgid ""
@@ -723,6 +733,8 @@ msgstr "Última atualização: "
 #~ "ser mais conveniente para bibliotecas de código JavaScript minificado, "
 #~ "especialmente quando você não os escreveu."
 
+# | Copyright &copy; [-2014, 2015 Free Software Foundation, Inc.-]
+# | {+2009-2013, 2016 Richard Stallman+}
 #~| msgid "Copyright &copy; 2014, 2015 Free Software Foundation, Inc."
 #~ msgid "Copyright &copy; 2009-2013, 2016 Richard Stallman"
 #~ msgstr "Copyright &copy; 2009-2013, 2016 Richard Stallman"

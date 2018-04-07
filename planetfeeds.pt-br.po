@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: planetfeeds.html\n"
-"POT-Creation-Date: 2018-03-29 05:29+0000\n"
+"POT-Creation-Date: 2018-04-05 04:57+0000\n"
 "PO-Revision-Date: 2018-03-29 15:33-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -17,49 +17,82 @@ msgstr ""
 "X-Generator: Virtaal 1.0.0-beta1\n"
 
 #. type: Content of: <p>
-msgid "LibrePlanet 2018 a smashing success -- thanks to you!"
-msgstr "LibrePlanet 2018 um sucesso esmagador – graças a você!"
+msgid ""
+"Donald Robertson, III - &quot;Freedom, certified: The verification and "
+"certification programs of the Free Software Foundation&quot; (LFNW, "
+"Bellingham, WA)"
+msgstr ""
+"Donald Robertson, III - “Liberdade, certificada: Os programas de verificação "
+"e certificação da Free Software Foundation” (LFNW, Bellingham, WA)"
 
 #.  TRANSLATORS: 
-#. http://www.fsf.org/blogs/community/libreplanet-2018-a-smashing-success-thanks-to-you 
+#. http://www.fsf.org/events/donald-robertson-iii-20180428-bellingham-lfnw 
 #. type: Content of: <p>
-msgid ""
-": It&#39;s always hard to know how to sum up LibrePlanet -- the Free "
-"Software Foundation&#39;s (FSF) annual conference is an inspiring, in..."
-msgstr ""
-": É sempre difícil saber como resumir o LibrePlanet – a conferência anual da "
-"Free Software Foundation (FSF) é um final de semana inspirador, ..."
+msgid ": FSF licensing &amp; compliance mana..."
+msgstr ": O gerente de licenciamento &amp; e..."
 
 #. type: Content of: <p>
 msgid ""
-"Friday Free Software Directory IRC meetup time: March 30th starting at 12:00 "
-"p.m. EDT/16:00 UTC"
-msgstr ""
-"Friday Free Software Directory IRC – tempo de encontro: 30 de Março, "
-"iniciando às 13:00 BRT/16:00 UTC"
+"John Sullivan - &quot;The business case for copyleft&quot; (LFNW, "
+"Bellingham, WA)"
+msgstr "John Sullivan - “O caso de negócio de copyleft” (LFNW, Bellingham, WA)"
 
 #.  TRANSLATORS: 
-#. http://www.fsf.org/blogs/directory/friday-free-software-directory-irc-meetup-time-march-30th-starting-at-12-00-p-m-edt-16-00-utc 
+#. http://www.fsf.org/events/john-sullivan-20180428-bellingham-lfnw 
 #. type: Content of: <p>
 msgid ""
-": Help improve the Free Software Directory by adding new entries and "
-"updating existing ones. Eve..."
+": FSF executive director John Sullivan will be giving his speech “The "
+"business case for copyleft” at LFNW (201..."
 msgstr ""
-": Ajude a melhorar o Diretório de Software Livre adicionando novas entradas "
-"e atualizando os existentes..."
+": Diretor executivo da FSF, John Sullivan, fará o discurso “O caso de "
+"negócio de copyleft” na LFNW (2018-04-28–29)..."
 
 #. type: Content of: <p>
-msgid "GNU Foliot version 0.9.7"
-msgstr "GNU Foliot versão 0.9.7"
+msgid "GNU Spotlight with Mike Gerwitz: 19 new GNU releases!"
+msgstr "Holofote GNU com Mike Gerwitz: 19 novos lançamentos GNU!"
 
 #.  TRANSLATORS: 
-#. http://savannah.gnu.org/forum/forum.php?forum_id=9129 
+#. http://www.fsf.org/blogs/community/gnu-spotlight-with-mike-gerwitz-19-new-gnu-releases 
 #. type: Content of: <p>
 msgid ""
-": GNU Foliot version 0.9.7 is released! This is a maintenance release, which "
-"brings GNU Foliot up-to-date with Guile-2.2, which introduced an "
-"incompatible module - goo..."
+": * artanis-0.2.4 * autoconf-archive-2018.03.13 * automake-1.16.1 * "
+"datamash-1.3 * dionysus-1.4.0 * foliot-0.9.7 * gawk-4.2.1 * gnuhealth-..."
 msgstr ""
-": GNU Foliot versão 0.9.7 foi lançado! É um lançamento de manutenção, que "
-"traz o GNU Foliot atualizado com Guile-2.2, que introduziu um módulo "
-"incompatível – goo..."
+": * artanis-0.2.4 * autoconf-archive-2018.03.13 * automake-1.16.1 * "
+"datamash-1.3 * dionysus-1.4.0 * foliot-0.9.7 * gawk-4.2.1 * gnuhealth-..."
+
+#~ msgid "LibrePlanet 2018 a smashing success -- thanks to you!"
+#~ msgstr "LibrePlanet 2018 um sucesso esmagador – graças a você!"
+
+#~ msgid ""
+#~ ": It&#39;s always hard to know how to sum up LibrePlanet -- the Free "
+#~ "Software Foundation&#39;s (FSF) annual conference is an inspiring, in..."
+#~ msgstr ""
+#~ ": É sempre difícil saber como resumir o LibrePlanet – a conferência anual "
+#~ "da Free Software Foundation (FSF) é um final de semana inspirador, ..."
+
+#~ msgid ""
+#~ "Friday Free Software Directory IRC meetup time: March 30th starting at "
+#~ "12:00 p.m. EDT/16:00 UTC"
+#~ msgstr ""
+#~ "Friday Free Software Directory IRC – tempo de encontro: 30 de Março, "
+#~ "iniciando às 13:00 BRT/16:00 UTC"
+
+#~ msgid ""
+#~ ": Help improve the Free Software Directory by adding new entries and "
+#~ "updating existing ones. Eve..."
+#~ msgstr ""
+#~ ": Ajude a melhorar o Diretório de Software Livre adicionando novas "
+#~ "entradas e atualizando os existentes..."
+
+#~ msgid "GNU Foliot version 0.9.7"
+#~ msgstr "GNU Foliot versão 0.9.7"
+
+#~ msgid ""
+#~ ": GNU Foliot version 0.9.7 is released! This is a maintenance release, "
+#~ "which brings GNU Foliot up-to-date with Guile-2.2, which introduced an "
+#~ "incompatible module - goo..."
+#~ msgstr ""
+#~ ": GNU Foliot versão 0.9.7 foi lançado! É um lançamento de manutenção, que "
+#~ "traz o GNU Foliot atualizado com Guile-2.2, que introduziu um módulo "
+#~ "incompatível – goo..."

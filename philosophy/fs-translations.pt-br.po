@@ -1,13 +1,13 @@
 # Brazilian Portuguese translation of https://www.gnu.org/philosophy/fs-translations.html
 # Copyright (C) 2018 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnu.org article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2016, 2017, 2018.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2016-2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: fs-translations.html\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-25 17:26+0000\n"
-"PO-Revision-Date: 2018-01-18 12:38-0200\n"
+"PO-Revision-Date: 2018-03-31 19:50-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -412,22 +412,19 @@ msgstr "logiciel commercial"
 
 #. type: Content of: <h3>
 msgid "Galician"
-msgstr ""
+msgstr "Galego"
 
 #. type: Attribute 'lang' of: <table><tr><td>
 msgid "gl"
-msgstr ""
+msgstr "gl"
 
 #. type: Content of: <table><tr><td>
 msgid "software libre"
 msgstr "software libre"
 
 #. type: Content of: <table><tr><td>
-# | software gratu[-i-]{+í+}to
-#, fuzzy
-#| msgid "software gratuito"
 msgid "software gratuíto"
-msgstr "software gratuito"
+msgstr "software gratuíto"
 
 #. type: Content of: <table><tr><td>
 msgid "software privativo"
@@ -751,7 +748,7 @@ msgstr "Norueguês"
 
 #. type: Content of: <table><tr><td>
 msgid "no, nb, nn"
-msgstr ""
+msgstr "no, nb, nn"
 
 #. type: Attribute 'lang' of: <table><tr><td>
 msgid "no"
@@ -762,26 +759,16 @@ msgid "fri programvare"
 msgstr "fri programvare"
 
 #. type: Content of: <table><tr><td>
-# | [-fri-]{+gratis+} programvare
-#, fuzzy
-#| msgid "fri programvare"
 msgid "gratis programvare"
-msgstr "fri programvare"
+msgstr "gratis programvare"
 
 #. type: Content of: <table><tr><td>
-# | [-libere programmage-]{+godseid programvare+} / [-libere programmario-]
-# | {+proprietær programvare+}
-#, fuzzy
-#| msgid "libere programmage / libere programmario"
 msgid "godseid programvare / proprietær programvare"
-msgstr "libere programmage / libere programmario"
+msgstr "godseid programvare / proprietær programvare"
 
 #. type: Content of: <table><tr><td>
-# | [-fri-]{+kommersiell+} programvare
-#, fuzzy
-#| msgid "fri programvare"
 msgid "kommersiell programvare"
-msgstr "fri programvare"
+msgstr "kommersiell programvare"
 
 #. type: Content of: <h3>
 msgid "Persian (Farsi)"
@@ -1192,7 +1179,7 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "<b>Traduzido por</b>: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org"
-"\">&lt;rafaelff@gnome.org&gt;</a>, 2016, 2017"
+"\">&lt;rafaelff@gnome.org&gt;</a>, 2016-2018"
 
 # type: Content of: <div><p>
 #.  timestamp start 
