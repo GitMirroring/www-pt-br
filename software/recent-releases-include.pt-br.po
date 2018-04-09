@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: recent-releases-include.html\n"
-"POT-Creation-Date: 2018-04-04 20:57+0000\n"
+"POT-Creation-Date: 2018-04-08 17:27+0000\n"
 "PO-Revision-Date: 2018-04-04 19:36-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -17,16 +17,40 @@ msgstr ""
 "X-Generator: Virtaal 1.0.0-beta1\n"
 
 #. type: Content of: <ul><li>
+# | <strong>April 0[-4-]{+8+}, 2018</strong>
+#, fuzzy
+#| msgid "<strong>April 04, 2018</strong>"
+msgid "<strong>April 08, 2018</strong>"
+msgstr "<strong>04 de Abril de 2018</strong>"
+
+#. type: Content of: <ul><li><ul><li>
+# | <a
+# | [-href=\"http://lists.gnu.org/archive/html/info-gnu/2018-03/msg00009.html\">GNU-]
+# | {+href=\"http://lists.gnu.org/archive/html/info-gnu/2018-04/msg00004.html\">GNU+}
+# | Mcron [-1.1-] {+1.1.1+} released</a>, <i>Mathieu Lirzin</i>,
+# | [-<tt>21:30</tt>-] {+<tt>13:03</tt>+}
+#, fuzzy
+#| msgid ""
+#| "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-03/msg00009.html"
+#| "\">GNU Mcron 1.1 released</a>, <i>Mathieu Lirzin</i>, <tt>21:30</tt>"
+msgid ""
+"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-04/msg00004.html"
+"\">GNU Mcron 1.1.1 released</a>, <i>Mathieu Lirzin</i>, <tt>13:03</tt>"
+msgstr ""
+"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-03/msg00009.html"
+"\">GNU Mcron 1.1 lançado</a>, <i>Mathieu Lirzin</i>, <tt>21:30</tt>"
+
+#. type: Content of: <ul><li>
 msgid "<strong>April 04, 2018</strong>"
 msgstr "<strong>04 de Abril de 2018</strong>"
 
 #. type: Content of: <ul><li><ul><li>
 msgid ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-04/msg00003.html\">"
-"[GNUnet] gnURL 7.59.0 released</a>, <i>Nils Gillmann</i>, <tt>16:27</tt>"
+"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-04/msg00003.html"
+"\">[GNUnet] gnURL 7.59.0 released</a>, <i>Nils Gillmann</i>, <tt>16:27</tt>"
 msgstr ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-04/msg00003.html\">"
-"[GNUnet] gnURL 7.59.0 lançado</a>, <i>Nils Gillmann</i>, <tt>16:27</tt>"
+"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-04/msg00003.html"
+"\">[GNUnet] gnURL 7.59.0 lançado</a>, <i>Nils Gillmann</i>, <tt>16:27</tt>"
 
 #. type: Content of: <ul><li>
 msgid "<strong>April 02, 2018</strong>"
@@ -68,13 +92,13 @@ msgstr "<strong>29 de Março de 2018</strong>"
 
 #. type: Content of: <ul><li><ul><li>
 msgid ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-03/msg00012.html\">"
-"[ANNOUNCE] nano-2.9.5 is released</a>, <i>Benno Schulenberg</i>, <tt>08:35</"
-"tt>"
+"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-03/msg00012.html"
+"\">[ANNOUNCE] nano-2.9.5 is released</a>, <i>Benno Schulenberg</i>, "
+"<tt>08:35</tt>"
 msgstr ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-03/msg00012.html\">"
-"[ANÚNCIO] nano-2.9.5 foi lançado</a>, <i>Benno Schulenberg</i>, <tt>08:3528</"
-"tt>"
+"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-03/msg00012.html"
+"\">[ANÚNCIO] nano-2.9.5 foi lançado</a>, <i>Benno Schulenberg</i>, "
+"<tt>08:3528</tt>"
 
 #. type: Content of: <ul><li>
 msgid "<strong>March 26, 2018</strong>"
@@ -202,13 +226,13 @@ msgstr "<strong>08 de Março de 2018</strong>"
 
 #. type: Content of: <ul><li><ul><li>
 msgid ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-03/msg00001.html\">"
-"[ANNOUNCE] nano-2.9.4 is released</a>, <i>Benno Schulenberg</i>, <tt>08:28</"
-"tt>"
+"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-03/msg00001.html"
+"\">[ANNOUNCE] nano-2.9.4 is released</a>, <i>Benno Schulenberg</i>, "
+"<tt>08:28</tt>"
 msgstr ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-03/msg00001.html\">"
-"[ANÚNCIO] nano-2.9.4 foi lançado</a>, <i>Benno Schulenberg</i>, <tt>08:28</"
-"tt>"
+"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-03/msg00001.html"
+"\">[ANÚNCIO] nano-2.9.4 foi lançado</a>, <i>Benno Schulenberg</i>, "
+"<tt>08:28</tt>"
 
 #. type: Content of: <ul><li>
 msgid "<strong>March 05, 2018</strong>"
@@ -216,11 +240,13 @@ msgstr "<strong>05 de Março de 2018</strong>"
 
 #. type: Content of: <ul><li><ul><li>
 msgid ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-03/msg00000.html\">"
-"[ANN] artanis-0.2.3 released [stable]</a>, <i>Nala Ginrut</i>, <tt>16:17</tt>"
+"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-03/msg00000.html"
+"\">[ANN] artanis-0.2.3 released [stable]</a>, <i>Nala Ginrut</i>, <tt>16:17</"
+"tt>"
 msgstr ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-03/msg00000.html\">"
-"[ANN] artanis-0.2.3 lançado [estável]</a>, <i>Nala Ginrut</i>, <tt>16:17</tt>"
+"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-03/msg00000.html"
+"\">[ANN] artanis-0.2.3 lançado [estável]</a>, <i>Nala Ginrut</i>, <tt>16:17</"
+"tt>"
 
 #~ msgid "<strong>February 28, 2018</strong>"
 #~ msgstr "<strong>28 de Fevereiro de 2018</strong>"
