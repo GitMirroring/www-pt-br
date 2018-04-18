@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: home.html\n"
-"POT-Creation-Date: 2018-03-15 13:26+0000\n"
-"PO-Revision-Date: 2018-03-26 11:47-0300\n"
+"POT-Creation-Date: 2018-04-17 08:56+0000\n"
+"PO-Revision-Date: 2018-04-18 06:23-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -85,8 +85,12 @@ msgid "<a href=\"/distros/free-distros.html\">Try GNU/Linux!</a>"
 msgstr "<a href=\"/distros/free-distros.html\">Teste o GNU/Linux!</a>"
 
 #. type: Content of: <div><div><div><p>
-msgid "<a href=\"#parts-of-gnu\">Try parts of GNU</a>"
-msgstr "<a href=\"#parts-of-gnu\">Teste partes do GNU</a>"
+msgid ""
+"<a href=\"https://directory.fsf.org/wiki/Free_Software_Directory:"
+"Free_software_replacements\"> Try parts of GNU</a>"
+msgstr ""
+"<a href=\"https://directory.fsf.org/wiki/Free_Software_Directory:"
+"Free_software_replacements\"> Tente partes do GNU</a>"
 
 #. type: Content of: <div><div><div><a>
 msgid "<a href=\"/distros/screenshot-gnewsense.html\">"
@@ -411,26 +415,6 @@ msgstr ""
 msgid "Today's random package&hellip;"
 msgstr "Pacote aleatório de hoje…"
 
-#. type: Content of: <div><div><div><h3>
-msgid "Try some parts of GNU"
-msgstr "Teste algumas partes de GNU"
-
-#. type: Content of: <div><div><div><p>
-msgid ""
-"Do you use Windows or iOS? Take a first step towards freedom by installing "
-"some free software on your current operating system:"
-msgstr ""
-"Você usa Windows ou iOS? Tome o primeiro passo em direção à liberdade "
-"instalando algum software livre no seu atual sistema operacional:"
-
-#. type: Content of: <div><div><div><ul><li>
-msgid "<a href=\"/software/for-windows.html\">Free Software for Windows</a>"
-msgstr "<a href=\"/software/for-windows.html\">Software Livre para Windows</a>"
-
-#. type: Content of: <div><div><div><ul><li>
-msgid "<a href=\"/software/for-ios.html\">Free Software for iOS</a>"
-msgstr "<a href=\"/software/for-ios.html\">Software Livre para iOS</a>"
-
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
@@ -522,3 +506,23 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização: "
+
+#~ msgid "<a href=\"#parts-of-gnu\">Try parts of GNU</a>"
+#~ msgstr "<a href=\"#parts-of-gnu\">Teste partes do GNU</a>"
+
+#~ msgid "Try some parts of GNU"
+#~ msgstr "Teste algumas partes de GNU"
+
+#~ msgid ""
+#~ "Do you use Windows or iOS? Take a first step towards freedom by "
+#~ "installing some free software on your current operating system:"
+#~ msgstr ""
+#~ "Você usa Windows ou iOS? Tome o primeiro passo em direção à liberdade "
+#~ "instalando algum software livre no seu atual sistema operacional:"
+
+#~ msgid "<a href=\"/software/for-windows.html\">Free Software for Windows</a>"
+#~ msgstr ""
+#~ "<a href=\"/software/for-windows.html\">Software Livre para Windows</a>"
+
+#~ msgid "<a href=\"/software/for-ios.html\">Free Software for iOS</a>"
+#~ msgstr "<a href=\"/software/for-ios.html\">Software Livre para iOS</a>"

@@ -1,12 +1,12 @@
 # Brazilian Portuguese translation of http://www.gnu.org/contact/contact.html
 # Copyright (C) 2017 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2017.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: contact.html\n"
-"POT-Creation-Date: 2014-04-04 23:58+0000\n"
-"PO-Revision-Date: 2017-04-06 06:25-0300\n"
+"POT-Creation-Date: 2018-04-13 14:26+0000\n"
+"PO-Revision-Date: 2018-04-13 13:11-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -326,13 +326,39 @@ msgstr ""
 "seja atualizado, contate <a href=\"mailto:sysadmin@gnu.org\">&lt;"
 "sysadmin@gnu.org&gt;</a>."
 
+#. type: Content of: <h3>
+msgid "For reporting a security issue on gnu.org or one of its subdomains"
+msgstr ""
+"Para relatar um problema de segurança no gnu.org ou em um de seus subdomínios"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<strong>If you have <a href=\"https://www.gnupg.org/\">GnuPG</a> setup</"
+"strong>, send encrypted email the FSF Executive Director, Deputy Director, "
+"Web Developer, and Senior Sysadmins listed on our <a href=\"https://www.fsf."
+"org/about/staff-and-board\">Staff and Board page</a>."
+msgstr ""
+"<strong>Se você tiver uma <a href=\"https://www.gnupg.org/\">GnuPG</a> "
+"configurada</strong>, envie um e-mail criptografado para a Diretoria "
+"Executiva da FSF, Vice Diretor, Desenvolvedores Web e Administradores de "
+"Sistema Sênior em nossa <a href=\"https://www.fsf.org/about/staff-and-board"
+"\">páginas Staff and Board</a>."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<strong>If you don't have GnuPG setup</strong>, write to <a href=\"mailto:"
+"sysadmin@gnu.org\">&lt;sysadmin@gnu.org&gt;</a>."
+msgstr ""
+"<strong>Se você não tiver uma GnuPG configurada</strong>, escreva para <a "
+"href=\"mailto:sysadmin@gnu.org\">&lt;sysadmin@gnu.org&gt;</a>."
+
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr ""
 "<b>Nota do tradutor</b>:\n"
 "<ol>\n"
-"<li id=\"TransNote1\">\"501(c)(3)\" é um item da legislação tributária norte-"
+"<li id=\"TransNote1\">“501(c)(3)” é um item da legislação tributária norte-"
 "americana que trata de organizações sem fins lucrativos beneficentes que têm "
 "direitos à isenção de impostos. Este é o mais comum dos 29 tipos de "
 "organizações sem fins lucrativos da 501(c). Para mais informações, veja no "
@@ -382,28 +408,31 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2014 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2014 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2014, 2018 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2014, 2018 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
-"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
-"rafaelff@gnome.org&gt;</a>, 2017"
+"rafaelff@gnome.org&gt;</a>, 2017, 2018"
 
 # type: Content of: <div><p>
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização: "
+
+#~ msgid "Copyright &copy; 2014 Free Software Foundation, Inc."
+#~ msgstr "Copyright &copy; 2014 Free Software Foundation, Inc."

@@ -11,8 +11,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: free-distros.html\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-12-21 17:56+0000\n"
-"PO-Revision-Date: 2018-03-31 01:01-0300\n"
+"POT-Creation-Date: 2018-04-14 13:56+0000\n"
+"PO-Revision-Date: 2018-04-16 14:41-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -33,58 +33,80 @@ msgstr ""
 msgid "Free GNU/Linux distributions"
 msgstr "Distribuições Livres de GNU/Linux"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><h3>
+msgid "Table of Contents"
+msgstr "Conteúdo"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"#intro\">Introduction</a>"
+msgstr "<a href=\"#intro\">Introdução</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"#for-pc\">GNU/Linux distros for PCs and workstations</a>"
+msgstr "<a href=\"#for-pc\">Distros GNU/Linux para PCs e estações</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"#small-distros\">Small GNU/Linux distros</a>"
+msgstr "<a href=\"#small-distros\">Distros GNU/Linux pequenas</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"#howto-get\">How to get free GNU/Linux distros</a>"
+msgstr "<a href=\"#howto-get\">Como obter distros GNU/Linux livres</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"#NewDistro\">See something we missed?</a>"
+msgstr "<a href=\"#NewDistro\">Há algo que nós esquecemos?</a>"
+
+#. type: Content of: <div><p>
 msgid ""
-"<em><span class=\"highlight\">The <a href=\"http://www.fsf.org/\">Free "
-"Software Foundation</a> is not responsible for other web sites, or how up-to-"
-"date their information is.</span></em>"
+"<em>The <a href=\"http://www.fsf.org/\">Free Software Foundation</a> is not "
+"responsible for other websites, or how up-to-date their information is.</em>"
 msgstr ""
-"<em><span class=\"highlight\">A <a href=\"http://www.fsf.org/\">Free "
-"Software Foundation</a> não é responsável por outros sites, ou o quão "
-"atualizada a informação está.</span></em>"
+"<em>A <a href=\"http://www.fsf.org/\">Free Software Foundation</a> não é "
+"responsável por outros sites, ou o quão atualizada a informação está.</em>"
+
+#. type: Content of: <h3>
+msgid "Introduction"
+msgstr "Introdução"
 
 #. type: Content of: <p>
 msgid ""
 "This page lists the <a href=\"/gnu/linux-and-gnu.html\">GNU/Linux</a> "
 "distributions that are entirely <a href=\"/philosophy/free-sw.html\">free</"
-"a> as in freedom.  All of the distributions that follow are installable to a "
-"computer's hard drive; most can be run live."
+"a> as in freedom.  <a href=\"/distros/free-non-gnu-distros.html\">Non-GNU-"
+"based free system distributions</a> are listed separately."
 msgstr ""
 "Esta página lista as distribuições <a href=\"/gnu/linux-and-gnu.html\">GNU/"
 "Linux</a> que são completamente <a href=\"/philosophy/free-sw.html\">livres</"
-"a> como em liberdade. Todas as distribuições a seguir são instaláveis ao "
-"disco rígido; a maioria pode ser utilizada via “Live CD”."
+"a> como em liberdade. <a href=\"/distros/free-non-gnu-distros.html\">As "
+"distribuições livres não baseadas no GNU</a> são listadas separadamente."
 
 #. type: Content of: <p>
 msgid ""
 "The Free Software Foundation recommends and endorses these GNU/Linux "
-"distros, although we do not try to judge or compare them based on any "
-"criterion other than freedom; therefore, we list them in alphabetical "
-"order.  We encourage you to read these brief descriptions and to consult "
-"their respective web sites and other information to choose the one best for "
-"you."
+"distros, although <strong>we do not try to judge or compare them based on "
+"any criterion other than freedom</strong>; therefore, we list them in "
+"alphabetical order."
 msgstr ""
-"A Free Software Foundation recomenda e aprova essas distros GNU/Linux, não "
-"havendo qualquer intenção em julgar ou compará-las com base em nenhum outro "
-"critério além da liberdade; por isso, nós as listamos em ordem alfabética. "
-"Recomendamos que você leia estas breves descrições e consulte as respectivas "
-"páginas de internet e outras informações, para escolher a que for melhor "
-"para você."
+"A Free Software Foundation recomenda e aprova essas distros GNU/Linux, "
+"apesar de <strong>nós não tentarmos julgá-los ou compará-los com base em "
+"qualquer critério que não seja a liberdade</strong>;; por isso, nós as "
+"listamos em ordem alfabética."
 
 #. type: Content of: <p>
 msgid ""
 "These distros are ready-to-use full systems whose developers have made a "
 "commitment to follow the <a href=\"/distros/free-system-distribution-"
 "guidelines.html\">Guidelines for Free System Distributions</a>.  This means "
-"these distros will include, and propose, exclusively free software.  They "
-"will reject nonfree applications, nonfree programming platforms, nonfree "
-"drivers, nonfree firmware &ldquo;blobs&rdquo;, nonfree games, and any other "
-"nonfree software, as well as nonfree manuals or documentation."
+"they will include, and propose, exclusively free software.  They will reject "
+"nonfree applications, nonfree programming platforms, nonfree drivers, "
+"nonfree firmware &ldquo;blobs&rdquo;, nonfree games, and any other nonfree "
+"software, as well as nonfree manuals or documentation."
 msgstr ""
 "Essas distros são sistemas completos prontos para serem usados cujos "
 "desenvolvedores fizeram o compromisso de seguir as <a href=\"/distros/free-"
 "system-distribution-guidelines.html\">Diretrizes para Distribuição de "
-"Sistemas Livres</a>. Isso significa que as distribuições incluirão "
+"Sistemas Livres</a>. Isso significa que elas vão incluir, e propor, "
 "exclusivamente software livre. Elas rejeitarão aplicativos não livres, "
 "plataformas de programação não livres, drivers não livres, “blobs” de "
 "firmware não livres, jogos não livres e quaisquer outros softwares não "
@@ -138,35 +160,36 @@ msgstr ""
 
 #. type: Content of: <p>
 msgid ""
-"<strong>All of the distributions that follow are installable to a computer's "
-"hard drive; most can be run live.  Not all hardware works in the free world; "
-"each distro's site should say which hardware it supports.</strong>"
+"Please note that not all hardware works in the free world; each distro's "
+"site should say which hardware it supports. We suggest that, after reading "
+"the short descriptions below, you consult these sites as well as other "
+"available information, to judge which distro is most convenient for you."
 msgstr ""
-"<strong>Todas as distribuições relacionadas abaixo podem ser instaladas no "
-"disco rígido de um computador; muitas delas operam sem a necessidade de "
-"instalação. Nem todo hardware funciona em um mundo livre; o site de cada "
-"distro deve dizer qual hardware ela suporta.</strong>"
+"Por favor, note que nem todo hardware funciona no mundo livre. O site de "
+"cada distro deve dizer a qual hardware ele possui suporte. Sugerimos que, "
+"depois de ler as breves descrições abaixo, você consulte esses sites, bem "
+"como outras informações disponíveis, para julgar qual distro é mais "
+"conveniente para você."
+
+#. type: Content of: <h3>
+msgid "GNU/Linux distros for PCs and workstations"
+msgstr "Distros GNU/Linux para PCs e estações de trabalhos"
 
 #. type: Content of: <p>
 msgid ""
-"We endorse these distros only for freedom.  We do not try to judge or "
-"compare these distros based on any other criterion; therefore, we list them "
-"in alphabetical order.  We suggest you consult their respective web sites "
-"and other information to judge which one is most convenient for you."
+"The distributions that follow are installable to a computer's hard drive and/"
+"or can be run live."
 msgstr ""
-"Nós aprovamos essas distros apenas pela liberdade. Não tentamos julgar ou "
-"comparar as distribuições se baseando em qualquer outro critério; portanto, "
-"as listamos em ordem alfabética. Nós sugerimos que você consulte seus "
-"respectivos sites e outras informações para escolher qual delas é a melhor "
-"para você."
+"As distribuições a seguir podem ser instaladas no disco rígido do computador "
+"e/ou podem ser executadas ao vivo."
 
 #. type: Content of: <table><thead><tr><th>
 msgid "Distribution"
 msgstr "Distribuição"
 
 #. type: Content of: <table><thead><tr><th>
-msgid "Description"
-msgstr "Descrição"
+msgid "Brief Description"
+msgstr "Descrição breve"
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"http://www.blagblagblag.org/\">"
@@ -186,8 +209,8 @@ msgid "BLAG Linux and GNU, a GNU/Linux distribution based on Fedora."
 msgstr "BLAG Linux e GNU, uma distribuição de GNU/Linux baseada no Fedora."
 
 #. type: Content of: <table><tr><td><a>
-msgid "<a href=\"http://dragora.org\">"
-msgstr "<a href=\"http://dragora.org\">"
+msgid "<a href=\"https://dragora.org/\">"
+msgstr "<a href=\"https://dragora.org/\">"
 
 #. type: Attribute 'alt' of: <table><tr><td><a><img>
 msgid "Dragora GNU/Linux-Libre"
@@ -212,10 +235,13 @@ msgstr "Dynebolic"
 #. type: Content of: <table><tr><td>
 msgid ""
 "Dynebolic, a GNU/Linux distribution with special emphasis on audio and video "
-"editing."
+"editing. This is a &ldquo;static&rdquo; distro, normally run from a live CD. "
+"Since it will not receive security updates, it should be used offline."
 msgstr ""
-"Dynebolic, uma distribuição de GNU/Linux com ênfase especial na edição de "
-"áudio e vídeo."
+"Dynebolic, uma distribuição GNU/Linux com ênfase especial na edição de áudio "
+"e vídeo. Essa é uma distro “estática”, normalmente executada a partir de um "
+"“live CD”. Como ele não receberá atualizações de segurança, ele deve ser "
+"usado desconectado."
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"http://www.gnewsense.org/\">"
@@ -262,14 +288,18 @@ msgstr "Musix GNU+Linux"
 #. type: Content of: <table><tr><td>
 msgid ""
 "Musix, a GNU+Linux distribution based on Knoppix, with special emphasis on "
-"audio production."
+"audio production. This is a &ldquo;static&rdquo; distro, normally run from a "
+"live CD. Since it will not receive security updates, it should be used "
+"offline."
 msgstr ""
-"Musix GNU+Linux, uma distribuição de GNU/Linux baseada no Knoppix, com "
-"ênfase especial na produção de áudio."
+"Musix, uma distribuição GNU+Linux com ênfase especial na produção de áudio. "
+"Essa é uma distro “estática”, normalmente executada a partir de um “live "
+"CD”. Como ele não receberá atualizações de segurança, ele deve ser usado "
+"desconectado."
 
 #. type: Content of: <table><tr><td><a>
-msgid "<a href=\"http://www.parabola.nu/https/\">"
-msgstr "<a href=\"http://www.parabola.nu/https/\">"
+msgid "<a href=\"https://www.parabola.nu\">"
+msgstr "<a href=\"https://www.parabola.nu\">"
 
 #. type: Attribute 'alt' of: <table><tr><td><a><img>
 msgid "Parabola GNU/Linux-libre"
@@ -300,8 +330,8 @@ msgstr ""
 "privacidade, segurança e conveniência."
 
 #. type: Content of: <table><tr><td><a>
-msgid "<a href=\"http://trisquel.info/\">"
-msgstr "<a href=\"http://trisquel.info/\">"
+msgid "<a href=\"https://trisquel.info/\">"
+msgstr "<a href=\"https://trisquel.info/\">"
 
 #. type: Attribute 'alt' of: <table><tr><td><a><img>
 msgid "Trisquel"
@@ -325,11 +355,15 @@ msgstr "Ututo"
 
 #. type: Content of: <table><tr><td>
 msgid ""
-"Ututo XS, a GNU/Linux distribution based on Gentoo.  It was the first fully "
-"free GNU/Linux system recognized by the GNU Project."
+"Ututo S, a GNU/Linux 100% free distribution.  It was the first fully free "
+"GNU/Linux system recognized by the GNU Project."
 msgstr ""
-"Ututo XS, uma distribuição de GNU/Linux baseada no Gentoo. Foi o primeiro "
-"sistema GNU/Linux totalmente livre reconhecido pelo Projeto GNU."
+"Ututo S, uma distribuição 100% livre de GNU/Linux. Foi o primeiro sistema "
+"GNU/Linux totalmente livre reconhecido pelo Projeto GNU."
+
+#. type: Content of: <h3>
+msgid "Small GNU/Linux distros"
+msgstr "Distros GNU/Linux pequenas"
 
 #. type: Content of: <p>
 msgid ""
@@ -385,6 +419,10 @@ msgstr ""
 "binários sejam configurados em tempo de compilação e de execução para "
 "hardwares e casos de uso diferentes."
 
+#. type: Content of: <h3>
+msgid "How to get free GNU/Linux distros"
+msgstr "Como obter distros GNU/Linux livres"
+
 #. type: Content of: <p>
 msgid ""
 "In addition to their own sites, many of these distributions are available "
@@ -402,29 +440,22 @@ msgstr ""
 
 #. type: Content of: <p>
 msgid ""
-"Non-GNU-based free system distributions are listed in <a href=\"/distros/"
-"free-non-gnu-distros.html\">a separate file</a>."
-msgstr ""
-"Distribuições não GNU estão listadas em <a href=\"/distros/free-non-gnu-"
-"distros.html\">um arquivo separado</a>."
-
-#. type: Content of: <p>
-msgid ""
-"We list <a href=\"/links/companies.html\">companies that sell hardware "
-"preinstalled with a free GNU/Linux distribution</a> separately."
-msgstr ""
-"Temos outra lista em separado com <a href=\"/links/companies.html\"> as "
-"empresas que vendem hardware com uma distribuição de GNU/Linux livre pré-"
-"instalada</a>."
-
-#. type: Content of: <p>
-msgid ""
 "<a href=\"/software/software.html\">Individual GNU packages</a> (most of "
 "which are included in the free distributions here)  are described separately."
 msgstr ""
 "<a href=\"/software/software.html\">Os pacotes individuais do GNU</a> (a "
 "maioria dos quais estão inclusos nas distribuições livres) estão descritos "
 "separadamente."
+
+#. type: Content of: <p>
+msgid ""
+"We list <a href=\"https://www.fsf.org/resources/hw/endorsement/respects-your-"
+"freedom\"> companies that sell hardware preinstalled with a free GNU/Linux "
+"distribution</a> separately."
+msgstr ""
+"Temos outra lista em separado com <a href=\"https://www.fsf.org/resources/hw/"
+"endorsement/respects-your-freedom\"> as empresas que vendem hardware com uma "
+"distribuição de GNU/Linux livre pré-instalada</a>."
 
 #. type: Content of: <h3>
 msgid "See something we missed?"
@@ -517,8 +548,10 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2014, 2015, 2016, 2017 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2014, 2015, 2016, 2017 Free Software Foundation, Inc."
+msgid ""
+"Copyright &copy; 2014, 2015, 2016, 2017, 2018 Free Software Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2014, 2015, 2016, 2017, 2018 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -549,6 +582,55 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização: "
+
+#~ msgid ""
+#~ "<strong>All of the distributions that follow are installable to a "
+#~ "computer's hard drive; most can be run live.  Not all hardware works in "
+#~ "the free world; each distro's site should say which hardware it supports."
+#~ "</strong>"
+#~ msgstr ""
+#~ "<strong>Todas as distribuições relacionadas abaixo podem ser instaladas "
+#~ "no disco rígido de um computador; muitas delas operam sem a necessidade "
+#~ "de instalação. Nem todo hardware funciona em um mundo livre; o site de "
+#~ "cada distro deve dizer qual hardware ela suporta.</strong>"
+
+#~ msgid ""
+#~ "We endorse these distros only for freedom.  We do not try to judge or "
+#~ "compare these distros based on any other criterion; therefore, we list "
+#~ "them in alphabetical order.  We suggest you consult their respective web "
+#~ "sites and other information to judge which one is most convenient for you."
+#~ msgstr ""
+#~ "Nós aprovamos essas distros apenas pela liberdade. Não tentamos julgar ou "
+#~ "comparar as distribuições se baseando em qualquer outro critério; "
+#~ "portanto, as listamos em ordem alfabética. Nós sugerimos que você "
+#~ "consulte seus respectivos sites e outras informações para escolher qual "
+#~ "delas é a melhor para você."
+
+#~ msgid ""
+#~ "Dynebolic, a GNU/Linux distribution with special emphasis on audio and "
+#~ "video editing."
+#~ msgstr ""
+#~ "Dynebolic, uma distribuição de GNU/Linux com ênfase especial na edição de "
+#~ "áudio e vídeo."
+
+#~ msgid ""
+#~ "Musix, a GNU+Linux distribution based on Knoppix, with special emphasis "
+#~ "on audio production."
+#~ msgstr ""
+#~ "Musix GNU+Linux, uma distribuição de GNU/Linux baseada no Knoppix, com "
+#~ "ênfase especial na produção de áudio."
+
+#~ msgid ""
+#~ "Non-GNU-based free system distributions are listed in <a href=\"/distros/"
+#~ "free-non-gnu-distros.html\">a separate file</a>."
+#~ msgstr ""
+#~ "Distribuições não GNU estão listadas em <a href=\"/distros/free-non-gnu-"
+#~ "distros.html\">um arquivo separado</a>."
+
+#~ msgid ""
+#~ "Copyright &copy; 2014, 2015, 2016, 2017 Free Software Foundation, Inc."
+#~ msgstr ""
+#~ "Copyright &copy; 2014, 2015, 2016, 2017 Free Software Foundation, Inc."
 
 #~ msgid "<a href=\"http://www.dynebolic.org\">"
 #~ msgstr "<a href=\"http://www.dynebolic.org\">"
