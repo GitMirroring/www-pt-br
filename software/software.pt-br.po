@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: software.html\n"
-"POT-Creation-Date: 2016-09-29 13:55+0000\n"
+"POT-Creation-Date: 2018-04-22 08:56+0000\n"
 "PO-Revision-Date: 2018-01-17 16:32-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -122,13 +122,11 @@ msgstr ""
 
 #. type: Content of: <p>
 msgid ""
-"Finally, we have a <a href=\"/software/for-windows.html\">short list of free "
-"software for Microsoft Windows</a>, for Windows users who would like to try "
-"free software."
+"Finally, we have <a href=\"https://directory.fsf.org/wiki/"
+"Free_Software_Directory:Free_software_replacements\"> a short list of free "
+"software replacements</a> for proprietary software running on various "
+"proprietary systems."
 msgstr ""
-"Finalmente, temos uma <a href=\"/software/for-windows.html\">lista curta de "
-"softwares livres para o Microsoft Windows</a>, para usuários do Windows que "
-"gostariam de experimentar o software livre."
 
 #. type: Content of: <p>
 msgid ""
@@ -488,7 +486,11 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2015, 2016 Free Software Foundation, Inc."
+# | Copyright &copy; 2015, [-2016-] {+2016, 2018+} Free Software Foundation,
+# | Inc.
+#, fuzzy
+#| msgid "Copyright &copy; 2015, 2016 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2015, 2016, 2018 Free Software Foundation, Inc."
 msgstr "Copyright &copy; 2015, 2016 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
@@ -515,3 +517,12 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização: "
+
+#~ msgid ""
+#~ "Finally, we have a <a href=\"/software/for-windows.html\">short list of "
+#~ "free software for Microsoft Windows</a>, for Windows users who would like "
+#~ "to try free software."
+#~ msgstr ""
+#~ "Finalmente, temos uma <a href=\"/software/for-windows.html\">lista curta "
+#~ "de softwares livres para o Microsoft Windows</a>, para usuários do "
+#~ "Windows que gostariam de experimentar o software livre."

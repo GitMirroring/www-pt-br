@@ -9,7 +9,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: words-to-avoid.html\n"
-"POT-Creation-Date: 2018-01-01 05:59+0000\n"
+"POT-Creation-Date: 2018-04-21 19:56+0000\n"
 "PO-Revision-Date: 2018-01-18 13:09-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -272,6 +272,16 @@ msgstr "“<a href=\"#SaaS\">SaaS</a>” |"
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#SellSoftware\">Sell software</a>&rdquo; |"
 msgstr "“<a href=\"#SellSoftware\">Vender software</a>”"
+
+#.  GNUN-SORT-NEXT-ITEM 
+#. type: Content of: <p>
+# | &ldquo;<a [-href=\"#SharingEconomy\">Sharing economy</a>&rdquo;-]
+# | {+href=\"#SharingPersonalData\">Sharing (personal data)</a>&rdquo;+} |
+#, fuzzy
+#| msgid "&ldquo;<a href=\"#SharingEconomy\">Sharing economy</a>&rdquo; |"
+msgid ""
+"&ldquo;<a href=\"#SharingPersonalData\">Sharing (personal data)</a>&rdquo; |"
+msgstr "“<a href=\"#SharingEconomy\">Sharing economy</a>” |"
 
 #.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
@@ -777,17 +787,39 @@ msgstr ""
 "passada."
 
 #. type: Content of: <p>
+# | [-Do we want people-]{+What does it mean+} to think of [-writings
+# | (software, news, any other kind)-] {+works of authorship+} as a commodity,
+# | with the assumption that there is nothing special about any one story,
+# | article, program, or song? [-Should we treat them as fungible?-] That is
+# | the twisted viewpoint of [-an economist,-] {+the owner+} or the accountant
+# | of a publishing company.  It is no surprise that proprietary software
+# | would like you to think of the use of software as a commodity.  Their
+# | twisted viewpoint comes through clearly in <a
+# | href=\"http://www.businessinsider.com/former-google-exec-launches-sourcepoint-with-10-million-series-a-funding-2015-6\">this
+# | article</a>, which also refers to publications as &ldquo;<a
+# | href=\"#Content\">content</a>.&rdquo;
+#, fuzzy
+#| msgid ""
+#| "Do we want people to think of writings (software, news, any other kind) "
+#| "as a commodity, with the assumption that there is nothing special about "
+#| "any one story, article, program, or song? Should we treat them as "
+#| "fungible? That is the twisted viewpoint of an economist, or the "
+#| "accountant of a publishing company.  It is no surprise that proprietary "
+#| "software would like you to think of the use of software as a commodity.  "
+#| "Their twisted viewpoint comes through clearly in <a href=\"http://www."
+#| "businessinsider.com/former-google-exec-launches-sourcepoint-with-10-"
+#| "million-series-a-funding-2015-6\">this article</a>, which also refers to "
+#| "publications as &ldquo;<a href=\"#Content\">content</a>.&rdquo;"
 msgid ""
-"Do we want people to think of writings (software, news, any other kind) as a "
-"commodity, with the assumption that there is nothing special about any one "
-"story, article, program, or song? Should we treat them as fungible? That is "
-"the twisted viewpoint of an economist, or the accountant of a publishing "
-"company.  It is no surprise that proprietary software would like you to "
-"think of the use of software as a commodity.  Their twisted viewpoint comes "
-"through clearly in <a href=\"http://www.businessinsider.com/former-google-"
-"exec-launches-sourcepoint-with-10-million-series-a-funding-2015-6\">this "
-"article</a>, which also refers to publications as &ldquo;<a href=\"#Content"
-"\">content</a>.&rdquo;"
+"What does it mean to think of works of authorship as a commodity, with the "
+"assumption that there is nothing special about any one story, article, "
+"program, or song? That is the twisted viewpoint of the owner or the "
+"accountant of a publishing company.  It is no surprise that proprietary "
+"software would like you to think of the use of software as a commodity.  "
+"Their twisted viewpoint comes through clearly in <a href=\"http://www."
+"businessinsider.com/former-google-exec-launches-sourcepoint-with-10-million-"
+"series-a-funding-2015-6\">this article</a>, which also refers to "
+"publications as &ldquo;<a href=\"#Content\">content</a>.&rdquo;"
 msgstr ""
 "Convém perguntar: nós queremos que as pessoas pensem em escritos (softwares, "
 "notícias e qualquer outro tipo) como materiais de consumo, com a suposição "
@@ -818,22 +850,50 @@ msgstr ""
 "sendo naturais."
 
 #. type: Content of: <p>
+# | It also encourages the [-acceptation-] {+acceptance+} of
+# | &ldquo;streaming&rdquo; services, which use DRM to perversely limit
+# | listening to [-music so that it fits-] {+music, or watching video, to
+# | squeeze those activities into+} the assumptions of the word
+# | &ldquo;consume.&rdquo;
+#, fuzzy
+#| msgid ""
+#| "It also encourages the acceptation of &ldquo;streaming&rdquo; services, "
+#| "which use DRM to perversely limit listening to music so that it fits the "
+#| "assumptions of the word &ldquo;consume.&rdquo;"
 msgid ""
-"It also encourages the acceptation of &ldquo;streaming&rdquo; services, "
-"which use DRM to perversely limit listening to music so that it fits the "
-"assumptions of the word &ldquo;consume.&rdquo;"
+"It also encourages the acceptance of &ldquo;streaming&rdquo; services, which "
+"use DRM to perversely limit listening to music, or watching video, to "
+"squeeze those activities into the assumptions of the word &ldquo;consume."
+"&rdquo;"
 msgstr ""
 "Isso também incentiva a aceitação dos serviços de “streaming”, que utilizam "
 "DRM para perversamente limitar acesso a músicas de forma que esta se "
 "enquadre na suposição da palavra “consumo”."
 
 #. type: Content of: <p>
+# | Why is this perverse usage spreading? Some may feel that the term sounds
+# | sophisticated, but rejecting it with cogent reasons can appear even more
+# | sophisticated.  {+Some want to generalize about all kinds of media, but
+# | the usual English verbs (&ldquo;read,&rdquo; &ldquo;listen to,&rdquo;
+# | &ldquo;watch&rdquo;) don't do this.+}  Others may be acting from business
+# | interests (their own, or their employers').  Their use of the term in
+# | prestigious forums gives the impression that it's the
+# | &ldquo;correct&rdquo; term.
+#, fuzzy
+#| msgid ""
+#| "Why is this perverse usage spreading? Some may feel that the term sounds "
+#| "sophisticated, but rejecting it with cogent reasons can appear even more "
+#| "sophisticated.  Others may be acting from business interests (their own, "
+#| "or their employers').  Their use of the term in prestigious forums gives "
+#| "the impression that it's the &ldquo;correct&rdquo; term."
 msgid ""
 "Why is this perverse usage spreading? Some may feel that the term sounds "
 "sophisticated, but rejecting it with cogent reasons can appear even more "
-"sophisticated.  Others may be acting from business interests (their own, or "
-"their employers').  Their use of the term in prestigious forums gives the "
-"impression that it's the &ldquo;correct&rdquo; term."
+"sophisticated.  Some want to generalize about all kinds of media, but the "
+"usual English verbs (&ldquo;read,&rdquo; &ldquo;listen to,&rdquo; &ldquo;"
+"watch&rdquo;) don't do this.  Others may be acting from business interests "
+"(their own, or their employers').  Their use of the term in prestigious "
+"forums gives the impression that it's the &ldquo;correct&rdquo; term."
 msgstr ""
 "Porque é que este uso perverso do termo vem se espalhando?  Alguns podem "
 "achar que o termo soa sofisticado, mas rejeitá-lo com razões convincentes "
@@ -845,30 +905,30 @@ msgstr ""
 #. type: Content of: <p>
 msgid ""
 "To speak of &ldquo;consuming&rdquo; music, fiction, or any other artistic "
-"works is to treat them as products rather than as art.  If you don't want to "
-"spread that attitude, you would do well to avoid using the term &ldquo;"
-"consume&rdquo; for them.  What to use instead? We prefer specific verbs such "
-"as &ldquo;listen to&rdquo;, &ldquo;watch&rdquo;, &ldquo;read&rdquo; or "
-"&ldquo;look at&rdquo;, since they help to restrain the tendency to "
-"overgeneralize."
+"works is to treat them as commodities rather than as art.  Do we want to "
+"think of published works that way? Do we want to encourage the public to do "
+"so?"
 msgstr ""
-"Falar de “consumir” música, ficção ou quaisquer outras obras artísticas é "
-"tratá-las como produtos, e não como arte. Se você não quer espalhar essa "
-"atitude, você faria bem em evitar o uso do termo “consumo” para eles. O que "
-"usar então? Nós preferimos verbos específicos como “ouvir a”, “assistir”, "
-"“ler” e “olhar em”, já que isso ajuda a restringir a tendência a generalizar."
 
 #. type: Content of: <p>
 msgid ""
-"When it is absolutely necessary to generalize about all kinds of works and "
-"all media, we recommend &ldquo;experience&rdquo; or &ldquo;give attention "
-"to&rdquo; for an artistic work or a work to present a point of view, and "
-"&ldquo;use&rdquo; for a practically useful work."
+"Those who answer no, please join me in shunning the term &ldquo;"
+"consume&rdquo; for this."
 msgstr ""
-"Quando é absolutamente necessário generalizar todos os tipos de obras e "
-"todas as mídias, nós recomendamos “experimentar” ou “dar atenção a” para uma "
-"obra artística ou uma obra apresentar um ponto de vistas, e “usar” para uma "
-"obra útil na prática."
+
+#. type: Content of: <p>
+msgid ""
+"What to use instead? You can use specific verbs such as &ldquo;read,&rdquo; "
+"&ldquo;listen to,&rdquo; &ldquo;watch&rdquo; or &ldquo;look at,&rdquo; since "
+"they help to restrain the tendency to overgeneralize."
+msgstr ""
+
+#. type: Content of: <p>
+msgid ""
+"If you insist on generalizing, you can use the expression &ldquo;attend to,"
+"&rdquo; which requires less of a stretch than &ldquo;consume.&rdquo; For a "
+"work meant for practical use, &ldquo;use&rdquo; is best."
+msgstr ""
 
 #. type: Content of: <p>
 msgid "See also the following entry."
@@ -2067,6 +2127,23 @@ msgstr ""
 "uma discussão mais aprofundada sobre o assunto."
 
 #. type: Content of: <h3>
+# | &ldquo;Sharing [-economy&rdquo;-] {+(personal data)&rdquo;+}
+#, fuzzy
+#| msgid "&ldquo;Sharing economy&rdquo;"
+msgid "&ldquo;Sharing (personal data)&rdquo;"
+msgstr "“Economia compartilhada”"
+
+#. type: Content of: <p>
+msgid ""
+"When companies manipulate or lure people into revealing personal data and "
+"thus ceding their privacy, please don't refer to this as &ldquo;sharing."
+"&rdquo; We use the term &ldquo;sharing&rdquo; to refer to noncommercial "
+"cooperation, including noncommercial redistribution of exact copies of "
+"published works, and we say this is <em>good</em>.  Please don't apply that "
+"word to a practice which is harmful and dangerous."
+msgstr ""
+
+#. type: Content of: <h3>
 msgid "&ldquo;Sharing economy&rdquo;"
 msgstr "“Economia compartilhada”"
 
@@ -2423,3 +2500,30 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização: "
+
+#~ msgid ""
+#~ "To speak of &ldquo;consuming&rdquo; music, fiction, or any other artistic "
+#~ "works is to treat them as products rather than as art.  If you don't want "
+#~ "to spread that attitude, you would do well to avoid using the term &ldquo;"
+#~ "consume&rdquo; for them.  What to use instead? We prefer specific verbs "
+#~ "such as &ldquo;listen to&rdquo;, &ldquo;watch&rdquo;, &ldquo;read&rdquo; "
+#~ "or &ldquo;look at&rdquo;, since they help to restrain the tendency to "
+#~ "overgeneralize."
+#~ msgstr ""
+#~ "Falar de “consumir” música, ficção ou quaisquer outras obras artísticas é "
+#~ "tratá-las como produtos, e não como arte. Se você não quer espalhar essa "
+#~ "atitude, você faria bem em evitar o uso do termo “consumo” para eles. O "
+#~ "que usar então? Nós preferimos verbos específicos como “ouvir a”, "
+#~ "“assistir”, “ler” e “olhar em”, já que isso ajuda a restringir a "
+#~ "tendência a generalizar."
+
+#~ msgid ""
+#~ "When it is absolutely necessary to generalize about all kinds of works "
+#~ "and all media, we recommend &ldquo;experience&rdquo; or &ldquo;give "
+#~ "attention to&rdquo; for an artistic work or a work to present a point of "
+#~ "view, and &ldquo;use&rdquo; for a practically useful work."
+#~ msgstr ""
+#~ "Quando é absolutamente necessário generalizar todos os tipos de obras e "
+#~ "todas as mídias, nós recomendamos “experimentar” ou “dar atenção a” para "
+#~ "uma obra artística ou uma obra apresentar um ponto de vistas, e “usar” "
+#~ "para uma obra útil na prática."

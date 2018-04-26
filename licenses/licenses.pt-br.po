@@ -4,12 +4,12 @@
 # Fernado Lozano, 2001.
 # Yuri da Silva <yuri.silva.31.charles AT gmail.com>, 2014.
 # Daniel Pimentel <d4n1@d4n1.org>, 2016.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2016.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2016, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: licenses.html\n"
-"POT-Creation-Date: 2016-09-29 15:55+0000\n"
-"PO-Revision-Date: 2017-05-20 16:20-0300\n"
+"POT-Creation-Date: 2018-04-19 02:56+0000\n"
+"PO-Revision-Date: 2018-04-19 06:46-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -91,17 +91,19 @@ msgid ""
 "Published software should be <a href=\"/philosophy/free-sw.html\">free "
 "software</a>.  To make it free software, you need to release it under a free "
 "software license.  We normally use the <a href=\"#GPL\">GNU General Public "
-"License</a> (GNU GPL), but occasionally we use <a href=\"/licenses/license-"
-"list.html#SoftwareLicenses\">other free software licenses</a>.  We use only "
-"licenses that are compatible with the GNU GPL for GNU software."
+"License</a> (GNU GPL), specifying version 3 or any later version, but "
+"occasionally we use <a href=\"/licenses/license-list.html#SoftwareLicenses"
+"\">other free software licenses</a>.  We use only licenses that are "
+"compatible with the GNU GPL for GNU software."
 msgstr ""
 "Software publicado deve ser <a href=\"/philosophy/free-sw.html\">software "
 "livre</a>. Para fazê-lo software livre, você precisa lançá-lo sob uma "
 "licenças de software livre. Nós normalmente usamos a <a href=\"#GPL"
-"\">Licença Pública Geral GNU </a> (GNU GPL), mas ocasionalmente nós usamos "
-"<a href=\"/licenses/license-list.html#SoftwareLicenses\">outras licenças de "
-"software livre</a>. Nós usamos somente licenças que são compatíveis com a "
-"GNU GPL para software GNU."
+"\">Licença Pública Geral GNU </a> (GNU GPL), especificando versão 3 ou "
+"qualquer outra versão posterior, mas ocasionalmente nós usamos <a href=\"/"
+"licenses/license-list.html#SoftwareLicenses\">outras licenças de software "
+"livre</a>. Nós usamos somente licenças que são compatíveis com a GNU GPL "
+"para software GNU."
 
 #. type: Content of: <p>
 msgid ""
@@ -947,8 +949,8 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2014, 2015, 2016 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2014, 2015, 2016 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2014, 2015, 2016, 2018 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2014, 2015, 2016, 2018 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -964,11 +966,17 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduzido por: Daniel Pimentel <a href=\"mailto:d4n1@d4n1.org\">&lt;"
-"d4n1@d4n1.org&gt;</a>"
+"Traduzido por:\n"
+"Daniel Pimentel <a href=\"mailto:d4n1@d4n1.org\">&lt;d4n1@d4n1.org&gt;</a>, "
+"2016;\n"
+"Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome."
+"org&gt;</a>, 2018"
 
 # type: Content of: <div><p>
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização: "
+
+#~ msgid "Copyright &copy; 2014, 2015, 2016 Free Software Foundation, Inc."
+#~ msgstr "Copyright &copy; 2014, 2015, 2016 Free Software Foundation, Inc."

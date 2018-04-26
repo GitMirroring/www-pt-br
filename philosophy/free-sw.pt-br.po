@@ -11,7 +11,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: free-sw.html\n"
-"POT-Creation-Date: 2018-04-01 07:56+0000\n"
+"POT-Creation-Date: 2018-04-23 18:26+0000\n"
 "PO-Revision-Date: 2018-04-02 13:41-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -138,9 +138,15 @@ msgid "The four essential freedoms"
 msgstr "As quatro liberdades essenciais"
 
 #. type: Content of: <p>
+# | A program is free software if the program's users have the four essential
+# | freedoms: {+<a href=\"#f1\">[1]</a>+}
+#, fuzzy
+#| msgid ""
+#| "A program is free software if the program's users have the four essential "
+#| "freedoms:"
 msgid ""
 "A program is free software if the program's users have the four essential "
-"freedoms:"
+"freedoms: <a href=\"#f1\">[1]</a>"
 msgstr ""
 "Um programa é software livre se os usuários possuem as quatro liberdades "
 "essenciais:"
@@ -1121,6 +1127,22 @@ msgstr ""
 "lista completa de mudanças da página pela <a href=\"http://web.cvs.savannah."
 "gnu.org/viewvc/www/philosophy/free-sw.html?root=www&amp;view=log\">interface "
 "cvsweb</a>."
+
+#. type: Content of: <h3>
+# | Footnote[-s-]
+#, fuzzy
+#| msgid "Footnotes"
+msgid "Footnote"
+msgstr "Notas de rodapé"
+
+#. type: Content of: <ol><li>
+msgid ""
+"The reason they are numbered 0, 1, 2 and 3 is historical. Around 1990 there "
+"were three freedoms, numbered 1, 2 and 3. Then we realized that the freedom "
+"to run the program needed to be mentioned explicitly.  It was clearly more "
+"basic than the other three, so it properly should precede them. Rather than "
+"renumber the others, we made it freedom&nbsp;0."
+msgstr ""
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
