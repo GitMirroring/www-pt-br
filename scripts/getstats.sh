@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 #    getstats.sh - get translation percentage of GNU web for each language 
-#    Copyright (C) 2016 Rafael Fontenelle
+#    Copyright (C) 2016, 2018 Rafael Fontenelle
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU General Public License as published by
@@ -21,58 +21,93 @@ die() {
     exit 1
 }
 
-while getopts 'd:l:' OPTION
-    do
-      case $OPTION in
-      d)    [ ! -d "$OPTARG" ] && die "\"$OPTARG\" não é um diretório"
-            [ ! -r "$OPTARG" ] && die "\"$OPTARG\" não é legível"
-            DIR="$OPTARG"
-            ;;
-      l)    IDIOMA="$OPTARG"
-            ;;
-      ?)    echo "Uso: $(basename $0) [-l IDIOMA] [-d DIR]"
-            echo "Obtém estatísticas de tradução para cada idioma do site do GNU"
-            echo ""
-            echo " -d DIR      especifica o diretório DIR de checkout local do repositório de"
-            echo "               páginas web do site do GNU; por padrão, usa o diretório atual"
-            echo " -l IDIOMA   idioma para o qual você deseja obter estatísticas; por padrão,"
-            echo "               retorna estatísticas de todos os idiomas reconhecidos pelo"
-            echo "               arquivo \$DIR/server/gnun/languages.txt"
-            echo ""
-            echo "Formato da saída: classificação, idioma e porcentagem de tradução."
-            echo ""
-            echo "Para informações sobre como fazer checkout do repositório de páginas web do"
-            echo "site do GNU, acesse o Manual do Tradutor Web GNU em:"
-            echo "  <https://www.gnu.org/software/trans-coord/manual/web-trans/>"
-            echo ""
-            exit 2
-            ;;
-      esac
+usage() {
+    prog=$(basename $0)
+    cat <<EOM
+Usage: $prog [Options] [DIR]
+Get statistics for languages in the GNU web pages translation project
+
+Options:
+ -l LANG, --lang LANG     language which you want statistics for;
+                          default returns statistics of all languages
+                          known by the file server/gnun/languages.txt
+                          within DIR
+ -h, --help, ?, usage     display this help message and exit
+
+DIR         specify the DIR directory for the local checkout of the
+            repository of the GNU web pages project; default: use the
+            current directory
+
+Output format: rank, language and percentage
+
+A few examples of use:
+ $ $prog
+ $ $prog -l pt-br
+ $ $prog -l pt-br ../www
+ $ $prog ../www
+ $ $prog ../www
+
+For more information on how to do checkout of the GNU web pages
+repository, check the GNU Web Translator in:
+  <https://www.gnu.org/software/trans-coord/manual/web-trans/>
+
+EOM
+}
+
+# Parse the arguments provided
+[ $# -gt 3 ] && die "Expected at most 3 arguments, but got $#"
+LANG=""; DIR=""
+while [ $# -ne 0 ]; do
+    if [[ $1 == '--help' || $1 == '-h' || $1 == '?' || $1 == 'usage' ]]; then
+        usage
+        exit 0
+    elif [[ $1 == '-l' || $1 == '--lang' ]]; then
+        [ -z $2 ] && die "Missing language code for the option $1"
+        LANG=$2
+        shift; shift
+    elif [[ $1 != "${1##-}" ]]; then
+        die "Invalid option -- \"$1\""
+    else
+        DIR=$1
+        shift
+    fi
 done
 
-
-
-  # Se DIR não estiver definido, usa o diretório atual (pwd)
-DIR=${DIR:=$(pwd)}
-
-[ ! -f "$DIR/server/gnun/languages.txt" ] && \
-    die "Diretório \"$DIR\" inválido. Veja --help para mais informações."
-
-if [ "$IDIOMA" == "" ]; then
-      # Comando extraído do email do colega Bruno Felix
-      # Vide: https://lists.gnu.org/archive/html/www-pt-br-general/2015-09/msg00003.html
-    for l in $(sed -e '/^#.*$/d;s/^\(^[a-z-]*[^[:space:]]\).*$/\1/' $DIR/server/gnun/languages.txt); do
-     echo $l $(($(find $DIR -name "*.$l.po" | wc -l) * 100 / $(find $DIR -name '*.pot' | wc -l) + 1))%; done \
-    | sort -grk2 | nl -s' ' -w2
-
-else
-      # há suporte ao idioma?
-    grep $IDIOMA $DIR/server/gnun/languages.txt > /dev/null
-    [ $? -eq 0 ] || die "Idioma \"$IDIOMA\" sem suporte no arquivo $DIR/server/gnun/languages.txt"
-
-    for l in $(sed -e '/^#.*$/d;s/^\(^[a-z-]*[^[:space:]]\).*$/\1/' $DIR/server/gnun/languages.txt); do
-     echo $l $(($(find $DIR -name "*.$l.po" | wc -l) * 100 / $(find $DIR -name '*.pot' | wc -l) + 1))%; done \
-    | sort -grk2 | nl -s' ' -w2 \
-    | grep $IDIOMA
+# Test DIR, look for www repository and set wwwdir variable
+if [ -z $DIR ]; then
+    DIR="$(pwd)"
+elif [ ! -d $DIR ]; then
+    die "\"$DIR\" is not a directory."
+fi
+if [ -f "$DIR/server/gnun/languages.txt" ]; then
+    wwwdir=$DIR
+elif [[ ! -f "$DIR/server/gnun/languages.txt" && -d $DIR/../www ]]; then
+    wwwdir=$DIR/../www
 fi
 
+cd $wwwdir  || die "Failed to change to directory $wwwdir"
+wwwdir=$(pwd)
+
+# Check whether language code is valid for GNU web pages
+if [ ! -z $LANG ]; then
+    grep $LANG server/gnun/languages.txt > /dev/null
+    [ $? -ne 0 ] && die "Unsupported language \"$LANG\" in the file $wwwdir/server/gnun/languages.txt"
+fi
+
+# Set target languages to be used in the 'for' statement below
+if [ -z $LANG ]; then
+    LANGS=$(sed -e '/^#.*$/d;s/^\(^[a-z-]*[^[:space:]]\).*$/\1/' server/gnun/languages.txt);
+else
+    LANGS=$LANG
+fi
+
+# Set a variable for asterisk as it cannot be passed directly in the command below
+ast='*'
+
+# Command extract from the email sent by Bruno Felix. See:
+#   https://lists.gnu.org/archive/html/www-pt-br-general/2015-09/msg00003.html
+for l in $LANGS; do
+    echo "$l  $(($(find ./ -name "$ast.$l.po" | wc -l) * 100 /
+                 $(find ./ -name '*.pot' | wc -l) + 1))%"
+done  \
+|  sort -grk2 | nl -s' ' -w2
