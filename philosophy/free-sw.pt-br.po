@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: free-sw.html\n"
 "POT-Creation-Date: 2018-04-23 18:26+0000\n"
-"PO-Revision-Date: 2018-04-02 13:41-0300\n"
+"PO-Revision-Date: 2018-04-24 11:44-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -138,18 +138,12 @@ msgid "The four essential freedoms"
 msgstr "As quatro liberdades essenciais"
 
 #. type: Content of: <p>
-# | A program is free software if the program's users have the four essential
-# | freedoms: {+<a href=\"#f1\">[1]</a>+}
-#, fuzzy
-#| msgid ""
-#| "A program is free software if the program's users have the four essential "
-#| "freedoms:"
 msgid ""
 "A program is free software if the program's users have the four essential "
 "freedoms: <a href=\"#f1\">[1]</a>"
 msgstr ""
 "Um programa é software livre se os usuários possuem as quatro liberdades "
-"essenciais:"
+"essenciais: <a href=\"#f1\">[1]</a>"
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -1129,11 +1123,8 @@ msgstr ""
 "cvsweb</a>."
 
 #. type: Content of: <h3>
-# | Footnote[-s-]
-#, fuzzy
-#| msgid "Footnotes"
 msgid "Footnote"
-msgstr "Notas de rodapé"
+msgstr "Nota de rodapé"
 
 #. type: Content of: <ol><li>
 msgid ""
@@ -1143,6 +1134,12 @@ msgid ""
 "basic than the other three, so it properly should precede them. Rather than "
 "renumber the others, we made it freedom&nbsp;0."
 msgstr ""
+"O motivo para elas estarem numeradas 0, 1, 2 e 3 é histórico. Por volta de "
+"1990, havia três liberdades, numeradas 1, 2 e 3. Então, nós descobrimos que "
+"a liberdade de executar o programa precisava ser mencionada explicitamente. "
+"Ela era claramente mais básica que as outras três, então era mais adequado "
+"ela preceder as outras. Em vez de renumerar as outras, nós fizemos dela a "
+"liberdade&nbsp;0."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
