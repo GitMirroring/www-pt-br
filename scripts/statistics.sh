@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-#    getstats.sh - get translation percentage of GNU web for each language 
+#    statistics.sh - get translation percentage of GNU web for each language 
 #    Copyright (C) 2016, 2018 Rafael Fontenelle
 #
 #    This program is free software: you can redistribute it and/or modify
