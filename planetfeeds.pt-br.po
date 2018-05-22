@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: planetfeeds.html\n"
-"POT-Creation-Date: 2018-04-19 05:30+0000\n"
+"POT-Creation-Date: 2018-05-21 05:31+0000\n"
 "PO-Revision-Date: 2018-04-19 05:44-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -17,52 +17,79 @@ msgstr ""
 "X-Generator: Virtaal 1.0.0-beta1\n"
 
 #. type: Content of: <p>
-msgid "Private Internet Access: VPNs, education, and software freedom"
-msgstr "Private Internet Access: VPNs, educação e liberdade de software"
+msgid ""
+"Richard Stallman - &quot;We must legislate to block collection of personal "
+"data&quot; (HOPE, New York, NY)"
+msgstr ""
 
 #.  TRANSLATORS: 
-#. http://www.fsf.org/blogs/community/private-internet-access-vpns-education-and-software-freedom 
+#. http://www.fsf.org/events/rms-20180722-newyork-hope 
 #. type: Content of: <p>
 msgid ""
-": Meet Private Internet Access Private Internet Access (PIA) was a generous "
-"supporter of LibrePlanet 2018 and the Free Software F..."
+": Richard Stallman will be speaking at The Eleventh HOPE (2018-07-22–24). "
+"His speech..."
 msgstr ""
-": Conheça a Private Internet Access Private Internet Access (PIA) foi um "
-"generoso financiador do LibrePlanet 2018 e da Free Software F..."
 
 #. type: Content of: <p>
-msgid ""
-"Richard Stallman and Joseph Potvin - &quot;Two lessons from the Phoenix "
-"payroll puzzle: The value of software freedom &amp; algorithm "
-"accessibility&quot; (Ottawa, Canada)"
+msgid "Richard Stallman estará en La Plata, Argentina"
 msgstr ""
-"Richard Stallman e Joseph Potvin - &quot;Duas lições sobre o quebra-cabeça "
-"da folha de pagamento da Phoenix: O valor da liberdade de software &amp; "
-"algoritmo de acessibilidade&quot; (Ottawa, Canadá)"
 
 #.  TRANSLATORS: 
-#. http://www.fsf.org/events/rms-20180430-ottawa 
-#. type: Content of: <p>
-msgid ": * What: A breakfast..."
-msgstr ": * O que: Um café da..."
-
+#. http://www.fsf.org/events/rms-20180531-laplata 
 #. type: Content of: <p>
 msgid ""
-"Friday Free Software Directory IRC meetup time: April 13th starting at 12:00 "
-"p.m. EDT/16:00 UTC"
+": Esa charla de Richard Stallman no será técnica y será abierta al público; "
+"todos están invitados a asistir. El título será determinado. Lugar: F..."
 msgstr ""
-"Friday Free Software Directory IRC – horário de encontro: 13 de Abril, "
-"iniciando às 13:00 BRT/16:00 UTC"
+
+#. type: Content of: <p>
+msgid "lightweight concurrency in lua"
+msgstr ""
 
 #.  TRANSLATORS: 
-#. http://www.fsf.org/blogs/directory/friday-free-software-directory-irc-meetup-time-april-13th-starting-at-12-00-p-m-edt-16-00-utc-1 
+#. http://wingolog.org/archives/2018/05/16/lightweight-concurrency-in-lua 
 #. type: Content of: <p>
 msgid ""
-": Help improve the Free Software Directory by adding new entries and "
-"updating existing ones. Eve..."
+": Hello, all! Today I&#39;d like to share some work I have done recently as "
+"part of the Snabb user-space networking toolkit. Snabb is mainly about high-"
+"performan..."
 msgstr ""
-": Ajude a melhorar o Diretório de Software Livre adicionando novas entradas "
-"e atualizando os exi..."
+
+#~ msgid "Private Internet Access: VPNs, education, and software freedom"
+#~ msgstr "Private Internet Access: VPNs, educação e liberdade de software"
+
+#~ msgid ""
+#~ ": Meet Private Internet Access Private Internet Access (PIA) was a "
+#~ "generous supporter of LibrePlanet 2018 and the Free Software F..."
+#~ msgstr ""
+#~ ": Conheça a Private Internet Access Private Internet Access (PIA) foi um "
+#~ "generoso financiador do LibrePlanet 2018 e da Free Software F..."
+
+#~ msgid ""
+#~ "Richard Stallman and Joseph Potvin - &quot;Two lessons from the Phoenix "
+#~ "payroll puzzle: The value of software freedom &amp; algorithm "
+#~ "accessibility&quot; (Ottawa, Canada)"
+#~ msgstr ""
+#~ "Richard Stallman e Joseph Potvin - &quot;Duas lições sobre o quebra-"
+#~ "cabeça da folha de pagamento da Phoenix: O valor da liberdade de software "
+#~ "&amp; algoritmo de acessibilidade&quot; (Ottawa, Canadá)"
+
+#~ msgid ": * What: A breakfast..."
+#~ msgstr ": * O que: Um café da..."
+
+#~ msgid ""
+#~ "Friday Free Software Directory IRC meetup time: April 13th starting at "
+#~ "12:00 p.m. EDT/16:00 UTC"
+#~ msgstr ""
+#~ "Friday Free Software Directory IRC – horário de encontro: 13 de Abril, "
+#~ "iniciando às 13:00 BRT/16:00 UTC"
+
+#~ msgid ""
+#~ ": Help improve the Free Software Directory by adding new entries and "
+#~ "updating existing ones. Eve..."
+#~ msgstr ""
+#~ ": Ajude a melhorar o Diretório de Software Livre adicionando novas "
+#~ "entradas e atualizando os exi..."
 
 #~ msgid ""
 #~ ": Richard Stallman will be speaking as part of this breakfast panel, "
