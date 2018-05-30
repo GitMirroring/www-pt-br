@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: planetfeeds.html\n"
-"POT-Creation-Date: 2018-05-21 05:31+0000\n"
+"POT-Creation-Date: 2018-05-28 05:31+0000\n"
 "PO-Revision-Date: 2018-04-19 05:44-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -17,43 +17,48 @@ msgstr ""
 "X-Generator: Virtaal 1.0.0-beta1\n"
 
 #. type: Content of: <p>
-msgid ""
-"Richard Stallman - &quot;We must legislate to block collection of personal "
-"data&quot; (HOPE, New York, NY)"
-msgstr ""
+msgid "Customize GuixSD: Use Stock SSH Agent Everywhere!"
+msgstr "Personalize o GuixSD: Use um agente SSH padrão em todos os lugares!"
 
 #.  TRANSLATORS: 
-#. http://www.fsf.org/events/rms-20180722-newyork-hope 
+#. https://gnu.org/software/guix/blog/2018/customize-guixsd-use-stock-ssh-agent-everywhere/ 
 #. type: Content of: <p>
 msgid ""
-": Richard Stallman will be speaking at The Eleventh HOPE (2018-07-22–24). "
-"His speech..."
+": I frequently use SSH. Since I don&#39;t like typing my password all the "
+"time, I use an SSH agent. Originally I used the GNOME Keyring as my..."
 msgstr ""
+": Eu frequentemente uso SSH. Já que eu não gosto de digitar minha senha toda "
+"vez, eu uso um agente SSH. Originalmente, eu uso o GNOME Keyrin..."
 
 #. type: Content of: <p>
-msgid "Richard Stallman estará en La Plata, Argentina"
-msgstr ""
+msgid "openSUSE donates more Raspberry Pis to the GNU Health project"
+msgstr "openSUSE doa mais Raspberry Pis para o projeto GNU Health"
 
 #.  TRANSLATORS: 
-#. http://www.fsf.org/events/rms-20180531-laplata 
+#. http://savannah.gnu.org/forum/forum.php?forum_id=9164 
 #. type: Content of: <p>
 msgid ""
-": Esa charla de Richard Stallman no será técnica y será abierta al público; "
-"todos están invitados a asistir. El título será determinado. Lugar: F..."
+": Dear community: Today, in the context of the openSUSE conference 2018, "
+"oSC18, openSUSE donated 10 Raspberry Pis to the GNU heal..."
 msgstr ""
+": Querida comunidade: Hoje, no contexto da conferência openSUSE 2018, oSC18, "
+"openSUSE doou 10 Raspberry Pis ao GNU health..."
 
 #. type: Content of: <p>
-msgid "lightweight concurrency in lua"
-msgstr ""
+msgid "Testing GNU FreeDink in your browser"
+msgstr "Testando GNU FreeDink em seu navegador"
 
 #.  TRANSLATORS: 
-#. http://wingolog.org/archives/2018/05/16/lightweight-concurrency-in-lua 
+#. https://blog.beuc.net/posts/Testing_GNU_FreeDink_in_your_browser/ 
 #. type: Content of: <p>
 msgid ""
-": Hello, all! Today I&#39;d like to share some work I have done recently as "
-"part of the Snabb user-space networking toolkit. Snabb is mainly about high-"
-"performan..."
+": Ever wanted to try this weird GNU FreeDink game, but never had the "
+"patience to install it? Today, you can play it with a single click This is a "
+"first ver..."
 msgstr ""
+": Alguma vez quis tentar esse estranho jogo GNU FreeDink, mas nunca teve a "
+"paciência de instalá-lo? Hoje você pode jogá-lo com um único clique. Essa é "
+"a prime..."
 
 #~ msgid "Private Internet Access: VPNs, education, and software freedom"
 #~ msgstr "Private Internet Access: VPNs, educação e liberdade de software"

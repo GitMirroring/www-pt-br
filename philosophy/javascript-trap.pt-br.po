@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: javascript-trap.html\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-05-05 21:26+0000\n"
-"PO-Revision-Date: 2018-03-31 00:59-0300\n"
+"PO-Revision-Date: 2018-05-22 07:31-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -43,18 +43,6 @@ msgstr ""
 "\">várias formas</a> de indicar a licença de programas JavaScript em um site."
 
 #. type: Content of: <p>
-# | In the free software community, the idea that {+<a
-# | href=\"/philosophy/free-software-even-more-important.html\"> any+} nonfree
-# | [-programs mistreat their users-] {+program mistreats its users</a>+} is
-# | familiar.  Some of us defend our freedom by rejecting all proprietary
-# | software on our computers.  Many others recognize nonfreeness as a strike
-# | against the program.
-#, fuzzy
-#| msgid ""
-#| "In the free software community, the idea that nonfree programs mistreat "
-#| "their users is familiar.  Some of us defend our freedom by rejecting all "
-#| "proprietary software on our computers.  Many others recognize nonfreeness "
-#| "as a strike against the program."
 msgid ""
 "In the free software community, the idea that <a href=\"/philosophy/free-"
 "software-even-more-important.html\"> any nonfree program mistreats its "
@@ -62,8 +50,9 @@ msgid ""
 "proprietary software on our computers.  Many others recognize nonfreeness as "
 "a strike against the program."
 msgstr ""
-"Na comunidade de software livre, a ideia de que os programas não livres "
-"maltratam seus usuários é familiar. Alguns de nós defendem nossa liberdade "
+"Na comunidade de software livre, a ideia de que <a href=\"/philosophy/free-"
+"software-even-more-important.html\"> qualquer programas não livre maltrata "
+"seus usuários</a> é familiar. Alguns de nós defendem nossa liberdade "
 "rejeitando todos os softwares proprietários em seus computadores. Muitos "
 "outros reconhecem a falta de liberdade como uma afronta ao programa."
 
@@ -97,24 +86,6 @@ msgstr ""
 "verdadeiros softwares, e em desconsideração da questão."
 
 #. type: Content of: <p>
-# | [-Many-]{+Some+} sites still use JavaScript that way, but [-some-]
-# | {+many+} use it for major programs that do large jobs.  For instance,
-# | Google Docs tries to download into your machine a JavaScript program which
-# | measures half a megabyte, in a compacted form that we could call
-# | Obfuscript because it has no comments and hardly any whitespace, and the
-# | method names are one letter long.  The source code of a program is the
-# | preferred form for modifying it; the compacted code is not source code,
-# | and the real source code of this program is not available to the user.
-#, fuzzy
-#| msgid ""
-#| "Many sites still use JavaScript that way, but some use it for major "
-#| "programs that do large jobs.  For instance, Google Docs tries to download "
-#| "into your machine a JavaScript program which measures half a megabyte, in "
-#| "a compacted form that we could call Obfuscript because it has no comments "
-#| "and hardly any whitespace, and the method names are one letter long.  The "
-#| "source code of a program is the preferred form for modifying it; the "
-#| "compacted code is not source code, and the real source code of this "
-#| "program is not available to the user."
 msgid ""
 "Some sites still use JavaScript that way, but many use it for major programs "
 "that do large jobs.  For instance, Google Docs tries to download into your "
@@ -125,7 +96,7 @@ msgid ""
 "source code, and the real source code of this program is not available to "
 "the user."
 msgstr ""
-"Muitos sites ainda usam JavaScript desta forma, mas alguns o usam para "
+"Alguns sites ainda usam JavaScript desta forma, mas muitos o usam para "
 "programas maiores que fazem trabalhos maiores. Por exemplo, Google Docs "
 "tenta baixar para sua máquina um programa JavaScript no tamanho de meio "
 "megabyte, em uma forma compacta que poderíamos chamar de “Obfuscript” porque "

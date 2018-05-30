@@ -1,0 +1,155 @@
+# Brazilian Portuguese translation of https://www.gnu.org/licenses/agpl-3.0.html
+# Copyright (C) 2018 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: agpl-3.0.html\n"
+"POT-Creation-Date: 2016-08-06 22:55+0000\n"
+"PO-Revision-Date: 2018-05-30 15:17-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid ""
+"GNU Affero General Public License - GNU Project - Free Software Foundation"
+msgstr ""
+"Licença Pública Geral Affero GNU - Projeto GNU - Free Software Foundation"
+
+#. type: Content of: <h2>
+msgid "GNU Affero General Public License"
+msgstr "Licença Pública Geral Affero GNU"
+
+#. type: Attribute 'alt' of: <img>
+msgid "[AGPLv3 Logo]"
+msgstr "[Logo da AGPLv3]"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"/licenses/why-affero-gpl.html\">Why the Affero GPL</a>"
+msgstr "<a href=\"/licenses/why-affero-gpl.html\">Por que a GPL Affero</a>"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"/licenses/gpl-faq.html\">Frequently Asked Questions</a>"
+msgstr "<a href=\"/licenses/gpl-faq.html\">Perguntas frequentes</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/licenses/gpl-howto.html\">How to use GNU licenses for your own "
+"software</a>"
+msgstr ""
+"<a href=\"/licenses/gpl-howto.html\">Como usar as licenças GNU para seu "
+"próprio software</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/licenses/translations.html\">Translations of the GNU AGPL</a>"
+msgstr "<a href=\"/licenses/translations.html\">Traduções da GNU AGPL</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"The GNU AGPL in other formats: <a href=\"/licenses/agpl-3.0.txt\">plain "
+"text</a>, <a href=\"/licenses/agpl-3.0.dbk\">Docbook</a>, <a href=\"/"
+"licenses/agpl-3.0.tex\">LaTeX</a>, <a href=\"/licenses/agpl-3.0-standalone."
+"html\">standalone HTML</a>, <a href=\"/licenses/agpl-3.0.texi\">Texinfo</a>, "
+"<a href=\"/licenses/agpl-3.0.md\">Markdown</a>, <a href=\"/licenses/agpl-3.0."
+"odt\">ODF</a>, <a href=\"/licenses/agpl-3.0.rtf\">RTF</a>"
+msgstr ""
+"A GNU AGPL em outros formatos: <a href=\"/licenses/agpl-3.0.txt\">texto "
+"simples</a>, <a href=\"/licenses/agpl-3.0.dbk\">Docbook</a>, <a href=\"/"
+"licenses/agpl-3.0.tex\">LaTeX</a>, <a href=\"/licenses/agpl-3.0-standalone."
+"html\">HTML autônomo</a>, <a href=\"/licenses/agpl-3.0.texi\">Texinfo</a>, "
+"<a href=\"/licenses/agpl-3.0.md\">Markdown</a>, <a href=\"/licenses/agpl-3.0."
+"odt\">ODF</a>, <a href=\"/licenses/agpl-3.0.rtf\">RTF</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/graphics/license-logos.html\">GNU AGPL logos</a> to use with your "
+"project"
+msgstr ""
+"<a href=\"/graphics/license-logos.html\">Logos da GNU AGPL</a> para usar com "
+"seu projeto"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/licenses/gpl-violation.html\">What to do if you see a possible "
+"GNU AGPL violation</a>"
+msgstr ""
+"<a href=\"/licenses/gpl-violation.html\">O que fazer se você vir uma "
+"possível violação da GNU AGPL</a>"
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+# type: Content of: <div><p>
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF.  Links quebrados e outras correções ou "
+"sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid "Copyright notice above."
+msgstr "Aviso de direitos autorais acima."
+
+#. type: Content of: <div><p>
+msgid ""
+"Everyone is permitted to copy and distribute verbatim copies of this license "
+"document, but changing it is not allowed."
+msgstr ""
+"Todos estão autorizados a copiar e distribuir cópias literais deste "
+"documento de licença, mas a alteração não é permitida."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2018."
+
+# type: Content of: <div><p>
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização: "

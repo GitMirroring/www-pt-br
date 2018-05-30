@@ -1,0 +1,197 @@
+# Brazilian Portuguese translation of https://www.gnu.org/licenses/exceptions.html
+# Copyright (C) 2018 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: exceptions.html\n"
+"POT-Creation-Date: 2017-09-04 10:56+0000\n"
+"PO-Revision-Date: 2018-05-30 15:56-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid "Exceptions to GNU Licenses - GNU Project - Free Software Foundation"
+msgstr "Exceções a licenças GNU - Projeto GNU - Free Software Foundation"
+
+#. type: Content of: <h2>
+msgid "Exceptions to GNU Licenses"
+msgstr "Exceções a licenças GNU"
+
+#. type: Content of: <dl><dt>
+msgid "Autoconf Configure Script Exception"
+msgstr "Exceção do Script Configure do Autoconf"
+
+#. type: Content of: <p>
+msgid ""
+"The purpose of this exception is to allow distribution of Autoconf's typical "
+"output under terms of the recipient's choice (including proprietary).  This "
+"is necessary because Autoconf includes some of its own code&mdash;which "
+"would otherwise be licensed under GPLv3&mdash;in its output."
+msgstr ""
+"O objetivo desta exceção é permitir a distribuição da saída típica do "
+"Autoconf em termos de escolha do destinatário (incluindo propriedade). Isso "
+"é necessário porque o Autoconf inclui alguns de seus próprios códigos "
+"&ndash; o que de outra forma seria licenciado sob o GPLv3 &ndash; na sua "
+"saída."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/licenses/autoconf-exception.html\">Autoconf Configure Script "
+"Exception</a>"
+msgstr ""
+"<a href=\"/licenses/autoconf-exception.html\">Exceção do Script Configure do "
+"Autoconf</a>"
+
+#. type: Content of: <dl><dt>
+msgid "GCC Runtime Library Exception"
+msgstr "Exceção da Biblioteca de Tempo de Execução do GCC"
+
+#. type: Content of: <p>
+msgid ""
+"The purpose of this exception is to allow developers to compile non-GPLed "
+"software with GCC, as long as they don't use proprietary plugins or other "
+"extensions to the compiler.  An additional permission is needed for this "
+"because GCC normally includes some GPLed code in the binaries it creates."
+msgstr ""
+"O objetivo desta exceção é permitir que os desenvolvedores compilem software "
+"não protegido sob a GPL com o GCC, desde que não utilizem plugins "
+"proprietários ou outras extensões para o compilador. É necessária uma "
+"permissão adicional para isso porque o GCC normalmente inclui algum código "
+"protegido sob a GPL nos binários que ele cria."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/licenses/gcc-exception.html\">GCC Runtime Library Exception</a>"
+msgstr ""
+"<a href=\"/licenses/gcc-exception.html\">Exceção da Biblioteca de Tempo de "
+"Execução do GCC</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/licenses/gcc-exception-faq.html\">Rationale document and "
+"Frequently Asked Questions</a>"
+msgstr ""
+"<a href=\"/licenses/gcc-exception-faq.html\">Documento de fundamentação e "
+"perguntas frequentes</a>"
+
+#. type: Content of: <h3>
+msgid "URLs"
+msgstr "URLs"
+
+#. type: Content of: <p>
+msgid ""
+"When linking to the exceptions of GNU licenses, it's usually best to link to "
+"the latest version; hence the standard URLs such as http://www.gnu.org/"
+"licenses/gcc-exception.html have no version number.  Occasionally, however, "
+"you may want to link to a specific version of a given license exception.  In "
+"those situations, you can use the following links:"
+msgstr ""
+"Ao vincular às exceções das licenças GNU, geralmente é melhor vincular à "
+"versão mais recente; portanto, os URLs padrão, como http://www.gnu.org/"
+"licenses/gcc-exception.html, não têm nenhum número de versão. "
+"Ocasionalmente, no entanto, você pode querer vincular a uma versão "
+"específica de uma exceção de licença específica. Nessas situações, você pode "
+"usar os seguintes links:"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"<a href=\"/licenses/autoconf-exception-3.0.html\">Autoconf Configure Script "
+"Exception v3.0</a>"
+msgstr ""
+"<a href=\"/licenses/autoconf-exception-3.0.html\">Exceção do Script "
+"Configure do Autoconf v3.0</a>"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"<a href=\"/licenses/gcc-exception-3.1.html\">GCC RLE v3.1</a>, <a href=\"/"
+"licenses/gcc-exception-3.0.html\">GCC RLE v3</a>"
+msgstr ""
+"<a href=\"/licenses/gcc-exception-3.1.html\">GCC RLE v3.1</a>, <a href=\"/"
+"licenses/gcc-exception-3.0.html\">GCC RLE v3</a>"
+
+#. type: Content of: <h3>
+msgid ""
+"<a href=\"/licenses/translations.html#Exceptions\">Unofficial Translations</"
+"a>"
+msgstr ""
+"<a href=\"/licenses/translations.html#Exceptions\">Traduções não oficial</a>"
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+# type: Content of: <div><p>
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF.  Links quebrados e outras correções ou "
+"sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2009, 2013, 2014, 2017 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2009, 2013, 2014, 2017 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2018."
+
+# type: Content of: <div><p>
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização: "

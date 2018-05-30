@@ -1,0 +1,178 @@
+# Brazilian Portuguese translation of http://www.gnu.org/help/help-hardware.html
+# Copyright (C) 2018 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: help-hardware.html\n"
+"POT-Creation-Date: 2014-04-05 00:01+0000\n"
+"PO-Revision-Date: 2018-05-30 13:18-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid ""
+"How you can help the GNU Project: Hardware - GNU Project - Free Software "
+"Foundation"
+msgstr ""
+"Como você pode ajudar o Projeto GNU: Hardware - Projeto GNU - Free Software "
+"Foundation"
+
+#. type: Content of: <h2>
+msgid "How you can help the GNU Project: Hardware"
+msgstr "Como você pode ajudar o Projeto GNU: Hardware"
+
+#. type: Content of: <p>
+msgid ""
+"The GNU Project would accept donations of the following hardware. Please "
+"send only known working hardware.  Please send offers to <a href=\"mailto:"
+"hardware-donations@gnu.org\"> &lt;hardware-donations@gnu.org&gt;</a>."
+msgstr ""
+"O Projeto GNU aceitaria doações do hardware a seguir. Por favor, nos envie "
+"apenas hardware que funciona. Envie ofertas para <a href=\"mailto:hardware-"
+"donations@gnu.org\">&lt;hardware-donations@gnu.org&gt;</a>."
+
+#. type: Content of: <ul><li>
+msgid "Modern rackmount server and workstation computers."
+msgstr ""
+"Servidores de montagem em rack e computadores de estação de trabalho "
+"modernos."
+
+#. type: Content of: <ul><li>
+msgid "Monitors that support 1600x1200 or better resolution (or LCD panels)."
+msgstr ""
+"Monitores com suporte a uma resolução de 1600x1200 ou melhor (ou painéis "
+"LCD)."
+
+#. type: Content of: <ul><li>
+msgid "Three-year-old or newer laptop computers."
+msgstr "Computadores laptops de três anos atrás ou mais novos."
+
+#. type: Content of: <ul><li>
+msgid "10/100 or gigabit managed ethernet switches."
+msgstr "Switches Ethernet gerenciáveis 10/100 ou gigabit."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Three-year-old or newer Postscript printers, and printers that work with <a "
+"href=\"/software/ghostscript/\">GNU Ghostscript</a>."
+msgstr ""
+"Impressoras PostScript de três anos atrás ou mais novas, e impressoras que "
+"funcionam com <a href=\"/software/ghostscript/\">GNU Ghostscript</a>."
+
+#. type: Content of: <ul><li>
+msgid "Uninterruptible power supplies with good batteries."
+msgstr "No-break com boas baterias."
+
+#. type: Content of: <ul><li>
+msgid "A T1 router and CSU/DSU."
+msgstr "Um roteador T1 e CSU/DSU."
+
+#. type: Content of: <p>
+msgid ""
+"Please send only hardware that works&mdash;we don't want to take people away "
+"from other work to fix up broken equipment."
+msgstr ""
+"Por favor, envie apenas hardware que funcione &ndash; nós não queremos tirar "
+"as pessoas de seus trabalhos para consertar equipamento quebrado."
+
+#. type: Content of: <p>
+msgid "Additionally, donations of the following services would be useful:"
+msgstr "Além disso, doações dos seguintes serviços também seriam úteis:"
+
+#. type: Content of: <ul><li>
+msgid ""
+"Additional internet connectivity for our Boston office (it must support the "
+"BGP4 protocol)."
+msgstr ""
+"Conectividade de internet adicional para nosso escritório em Boston (deve "
+"ter suporte ao protocolo BGP4)."
+
+#. type: Content of: <p>
+msgid "You can also help the GNU Project in <a href=\"/help/\">other ways</a>."
+msgstr ""
+"Você também pode ajudar ao Projeto GNU em <a href=\"/help/\">outras formas</"
+"a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+# type: Content of: <div><p>
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF.  Links quebrados e outras correções ou "
+"sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid ""
+"Copyright &copy; 2001, 2007, 2009, 2012, 2013, 2014 Free Software "
+"Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2001, 2007, 2009, 2012, 2013, 2014 Free Software "
+"Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+"NoDerivs 3.0 United States License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2018."
+
+# type: Content of: <div><p>
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização: "

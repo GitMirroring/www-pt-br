@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: footer-text.html\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-05-10 09:56+0000\n"
-"PO-Revision-Date: 2018-01-18 15:02-0200\n"
+"PO-Revision-Date: 2018-05-22 07:18-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -70,27 +70,6 @@ msgstr ""
 "computador. Nós defendemos os direitos dos usuários de software.”</strong>"
 
 #. type: Content of: <div><p>
-# | The <a href=\"//www.fsf.org\">Free Software Foundation</a> is the
-# | principal organizational sponsor of the GNU Operating System. 
-# | <strong>Support GNU and the FSF</strong> by <a
-# | href=\"//shop.fsf.org/\">buying manuals and gear</a>, <a
-# | href=\"https://my.fsf.org/associate/support_freedom?referrer=4052\">
-# | <strong>joining the FSF</strong></a> as an associate member, or [-making a
-# | <strong>donation</strong>, either <a href=\"//donate.fsf.org/\">directly
-# | to the FSF</a> or-] <a
-# | [-href=\"https://flattr.com/thing/313733/gnuproject-on-Flattr\">via
-# | Flattr</a>.-] {+href=\"//donate.fsf.org/\"><strong>making a
-# | donation</strong></a>.+}
-#, fuzzy
-#| msgid ""
-#| "The <a href=\"//www.fsf.org\">Free Software Foundation</a> is the "
-#| "principal organizational sponsor of the GNU Operating System.  "
-#| "<strong>Support GNU and the FSF</strong> by <a href=\"//shop.fsf.org/"
-#| "\">buying manuals and gear</a>, <a href=\"https://my.fsf.org/associate/"
-#| "support_freedom?referrer=4052\"> <strong>joining the FSF</strong></a> as "
-#| "an associate member, or making a <strong>donation</strong>, either <a "
-#| "href=\"//donate.fsf.org/\">directly to the FSF</a> or <a href=\"https://"
-#| "flattr.com/thing/313733/gnuproject-on-Flattr\">via Flattr</a>."
 msgid ""
 "The <a href=\"//www.fsf.org\">Free Software Foundation</a> is the principal "
 "organizational sponsor of the GNU Operating System.  <strong>Support GNU and "
@@ -103,10 +82,8 @@ msgstr ""
 "organização que patrocina o Sistema Operacional GNU. <strong>Apoie o GNU e a "
 "FSF</strong> <a href=\"//shop.fsf.org/\">comprando manuais e produtos</a>, "
 "<a href=\"https://my.fsf.org/associate/support_freedom?referrer=4052\"> "
-"<strong>afiliando-se a FSF</strong></a> como um membro associado ou fazendo "
-"uma <strong>doação</strong> <a href=\"//donate.fsf.org/\">diretamente à FSF</"
-"a> ou <a href=\"https://flattr.com/thing/313733/gnuproject-on-Flattr\">via "
-"Flattr</a>."
+"<strong>afiliando-se a FSF</strong></a> como um membro associado ou <a href="
+"\"//donate.fsf.org/\"><strong>fazendo uma doação</strong></a>."
 
 # type: Content of: <div><p>
 #~ msgid "<a href=\"/\">GNU&nbsp;home&nbsp;page</a>"

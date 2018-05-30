@@ -1,0 +1,203 @@
+# Brazilian Portuguese translation of http://www.gnu.org/help/linking-gnu.html
+# Copyright (C) 2018 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: linking-gnu.html\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-04-05 00:01+0000\n"
+"PO-Revision-Date: 2018-05-30 13:14-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid "Linking to the GNU Project - GNU Project - Free Software Foundation"
+msgstr ""
+"Fazendo link para o Projeto GNU - Projeto GNU - Free Software Foundation"
+
+#. type: Attribute 'content' of: <meta>
+msgid "no"
+msgstr "no"
+
+#. type: Attribute 'content' of: <meta>
+msgid "Free Software Foundation, Inc"
+msgstr "Free Software Foundation, Inc"
+
+#. type: Attribute 'content' of: <meta>
+msgid "WAI AA, XHTML, CSS, Semantic Markup, Tableless Design, Freedom"
+msgstr "WAI AA, XHTML, CSS, Semantic Markup, Tableless Design, Freedom"
+
+#. type: Attribute 'content' of: <meta>
+msgid "GNU Project"
+msgstr "Projeto GNU"
+
+#. type: Attribute 'content' of: <meta>
+msgid "Free Software Operating System GNU/Linux"
+msgstr "Sistema Operacional de Software Livre GNU/Linux"
+
+#. type: Attribute 'content' of: <meta>
+msgid "Free Software Foundation"
+msgstr "Free Software Foundation"
+
+#. type: Attribute 'content' of: <meta>
+msgid "Web Page"
+msgstr "Página web"
+
+#. type: Attribute 'content' of: <meta>
+msgid "text/html"
+msgstr "text/html"
+
+#. type: Attribute 'content' of: <meta>
+msgid "en"
+msgstr "pt-br"
+
+#. type: Content of: <h2>
+msgid "Linking to the GNU Project"
+msgstr "Fazendo link para o projeto GNU"
+
+#. type: Content of: <p>
+msgid ""
+"The GNU Project is skeptical of the idea that permission is required for "
+"making links to a web page.  We try to oppose such a requirement and we "
+"suggest that you do too.  <span class=\"highlight\">Anyone is welcome to "
+"make links to our pages</span>."
+msgstr ""
+"O Projeto GNU é cético quanto à ideia de que é necessária permissão para "
+"fazer links para uma página web. Nós tentamos opor-nos a tal exigência e "
+"sugerimos que você também. <span class=\"highlight\">Qualquer um é bem-vindo "
+"para fazer links para nossas páginas</span>."
+
+#. type: Content of: <p>
+msgid ""
+"To create a link to our home page, you can use the following XHTML code, "
+"replacing the graphics <tt>src</tt> with whatever art you choose:"
+msgstr ""
+"Para criar um link para nossa página inicial, você pode usar o seguinte "
+"código XHTML, substituindo os gráficos <tt>src </tt> com qualquer arte que "
+"você escolher:"
+
+#. type: Content of: <pre>
+#, no-wrap
+msgid ""
+"&lt;p&gt;&lt;a href=\"http://www.gnu.org/\" title=\n"
+"\"The GNU Project\"&gt;&lt;img alt=\"GNU\" src=\"gnu-head-sm.jpg\" width=\n"
+"\"129\" height=\"122\" /&gt;&lt;/a&gt;&lt;/p&gt;\n"
+msgstr ""
+"&lt;p&gt;&lt;a href=\"http://www.gnu.org/\" title=\n"
+"\"The GNU Project\"&gt;&lt;img alt=\"GNU\" src=\"gnu-head-sm.jpg\" width=\n"
+"\"129\" height=\"122\" /&gt;&lt;/a&gt;&lt;/p&gt;\n"
+
+#. type: Content of: <p>
+msgid ""
+"We suggest that you use the <a href=\"/graphics/agnuhead.html\">GNU head</a> "
+"art for links to our <a href=\"/\">home page</a> and the <a href=\"/graphics/"
+"philosophicalgnu.html\">philosophical gnu</a> for links to our <a href=\"/"
+"philosophy/\">philosophy page</a>.  Other art can be found in the <a href=\"/"
+"graphics/graphics.html\">GNU Art Gallery</a> (for example, <a href=\"/"
+"graphics/heckert_gnu.html\">a bold GNU head</a>).  There are some <a href=\"/"
+"graphics/gnubanner.html\"> banners</a> you can use.  You are free to use "
+"whatever art you want! :-)"
+msgstr ""
+"Nós sugerimos que você use a arte da <a href=\"/graphics/agnuhead.html"
+"\">cabeça de GNU</a> para links para nossa <a href=\"/\">página inicial</a> "
+"e o <a href=\"/graphics/philosophicalgnu.html\">gnu filosófico</a> para "
+"links para nossa <a href=\"/philosophy/\">página de filosofia</a>. Outras "
+"artes podem ser encontradas na <a href=\"/graphics/graphics.html\">Galeria "
+"de artes do GNU</a> (por exemplo, <a href=\"/graphics/heckert_gnu.html\">uma "
+"cabeça GNU em negrito</a>. Há alguns <a href=\"/graphics/gnubanner.html"
+"\">banners</a> que você pode usar. Você é livre para usar a arte que você "
+"quiser! :-)"
+
+#. type: Content of: <p>
+msgid ""
+"If you can create better versions of these images, more suitable for links, "
+"write to <a href=\"mailto:webmasters@gnu.org\"> &lt;webmasters@gnu.org&gt;</"
+"a>."
+msgstr ""
+"Se você pode criar versões melhores dessas imagens, mais adequadas para "
+"links, escrita para <a href=\"mailto:webmasters@gnu.org\"> &lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+# type: Content of: <div><p>
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF.  Links quebrados e outras correções ou "
+"sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid ""
+"Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, "
+"2006, 2007, 2009, 2013, 2014 Free Software Foundation, Inc."
+msgstr ""
+"Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, "
+"2006, 2007, 2009, 2013, 2014 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+"NoDerivs 3.0 United States License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2018."
+
+# type: Content of: <div><p>
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização: "

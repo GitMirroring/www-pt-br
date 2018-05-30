@@ -1,0 +1,333 @@
+# Brazilian Portuguese translation of https://www.gnu.org/proprietary/proprietary.html
+# Copyright (C) 2018 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: proprietary.html\n"
+"POT-Creation-Date: 2018-02-10 13:56+0000\n"
+"PO-Revision-Date: 2018-05-30 16:00-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid "Proprietary Software - GNU Project - Free Software Foundation"
+msgstr "Software proprietário - Projeto GNU - Free Software Foundation"
+
+#
+#
+#. div.toc h3 {
+#.    text-align: left;
+#.    font-size: 1.2em;
+#.    padding: 0 .83em;
+#.    margin: .5em 1.5% 1em;
+#. }
+#. div.toc li { list-style: none; margin-bottom: 1em; }
+#. div.toc { margin-top: 1em; }
+#. type: Content of: <style>
+#, no-wrap
+msgid ""
+"div.companies { float: right; margin-bottom: .5em; }\n"
+"div.malfunctions { max-width: 27em; }\n"
+msgstr ""
+"div.companies { float: right; margin-bottom: .5em; }\n"
+"div.malfunctions { max-width: 27em; }\n"
+
+#. type: Content of: <h2>
+msgid "Proprietary Software Is Often Malware"
+msgstr "Software proprietário frequentemente é malware"
+
+#. type: Content of: <p>
+msgid ""
+"Proprietary software, also called nonfree software, means software that "
+"doesn't <a href=\"/philosophy/free-sw.html\">respect users' freedom and "
+"community</a>.  A proprietary program puts its developer or owner <a href=\"/"
+"philosophy/free-software-even-more-important.html\"> in a position of power "
+"over its users.</a> This power is in itself an injustice."
+msgstr ""
+"Software proprietário, também chamado de software não livre, significa "
+"software que não <a href=\"/philosophy/free-sw.html\">respeita a comunidade "
+"e liberdade do usuário</a>. Um programa proprietário coloca seu "
+"desenvolvedor ou dono <a href=\"/philosophy/free-software-even-more-"
+"important.html\"> em uma posição de poder sobre seus usuários</a>. Esse "
+"poder é, por si só, uma injustiça."
+
+#. type: Content of: <p>
+msgid ""
+"The point of this page is that the initial injustice of proprietary software "
+"often leads to further injustices: malicious functionalities."
+msgstr ""
+"O ponto desta página é que a injustiça inicial do software proprietário "
+"muitas vezes leva a mais injustiças: funcionalidades maliciosas."
+
+#. type: Content of: <p>
+msgid ""
+"Power corrupts; the proprietary program's developer is tempted to design the "
+"program to mistreat its users.  (Software whose functioning mistreats the "
+"user is called <em>malware</em>.)  Of course, the developer usually does not "
+"do this out of malice, but rather to profit more at the users' expense.  "
+"That does not make it any less nasty or more legitimate."
+msgstr ""
+"O poder corrompe; o desenvolvedor do programa proprietário é tentado a "
+"projetar o programa para maltratar seus usuários. (Software cuja "
+"funcionalidade maltrata o usuário é chamado <em>malware</em>.) Claro, o "
+"desenvolvedor geralmente não faz isso por malícia, mas sim para lucrar mais "
+"a custo dos usuários. Isso não torna menos desagradável ou mais legítimo."
+
+#. type: Content of: <p>
+msgid ""
+"Yielding to that temptation has become ever more frequent; nowadays it is "
+"standard practice.  Modern proprietary software is typically a way to be had."
+msgstr ""
+"Se entregar a essa tentação tornou-se cada vez mais frequente; hoje em dia é "
+"uma prática padrão. O software proprietário moderno geralmente é uma maneira "
+"de ser mal."
+
+#. type: Content of: <p>
+msgid ""
+"As of April, 2017, the files in this directory list around 300 instances of "
+"malicious functionalities, but there are surely thousands more we don't know "
+"about."
+msgstr ""
+"Desde abril de 2017, os arquivos neste diretório listam cerca de 300 "
+"exemplos de funcionalidades maliciosas, mas com certeza há mais milhares das "
+"quais nós não temos conhecimento."
+
+#. type: Content of: <div><div><h3>
+msgid "Company or type of product"
+msgstr "Empresa ou tipo do produto"
+
+#. type: Content of: <div><div><ul><li>
+msgid "<a href=\"/proprietary/malware-apple.html\">Apple Malware</a>"
+msgstr "<a href=\"/proprietary/malware-apple.html\">Malwares da Apple</a>"
+
+#. type: Content of: <div><div><ul><li>
+msgid "<a href=\"/proprietary/malware-microsoft.html\">Microsoft Malware</a>"
+msgstr ""
+"<a href=\"/proprietary/malware-microsoft.html\">Malwares da Microsoft</a>"
+
+#. type: Content of: <div><div><ul><li>
+msgid "<a href=\"/proprietary/malware-google.html\">Google Malware</a>"
+msgstr "<a href=\"/proprietary/malware-google.html\">Malwares da Google</a>"
+
+#. type: Content of: <div><div><ul><li>
+msgid "<a href=\"/proprietary/malware-adobe.html\">Adobe Malware</a>"
+msgstr "<a href=\"/proprietary/malware-adobe.html\">Malwares da Adobe</a>"
+
+#. type: Content of: <div><div><ul><li>
+msgid "<a href=\"/proprietary/malware-amazon.html\">Amazon Malware</a>"
+msgstr "<a href=\"/proprietary/malware-amazon.html\">Malwares da Amazon</a>"
+
+#. type: Content of: <div><div><ul><li>
+msgid "<a href=\"/proprietary/malware-webpages.html\">Malware in webpages</a>"
+msgstr ""
+"<a href=\"/proprietary/malware-webpages.html\">Malwares em páginas web</a>"
+
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"<a href=\"/proprietary/malware-mobiles.html\">Malware in mobile devices</a>"
+msgstr ""
+"<a href=\"/proprietary/malware-mobiles.html\">Malwares em dispositivos "
+"móveis</a>"
+
+#. type: Content of: <div><div><ul><li>
+msgid "<a href=\"/proprietary/malware-games.html\">Malware in games</a>"
+msgstr "<a href=\"/proprietary/malware-games.html\">Malwares em jogos</a>"
+
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"<a href=\"/proprietary/malware-appliances.html\">Malware in appliances</a>"
+msgstr ""
+"<a href=\"/proprietary/malware-appliances.html\">Malwares em <i>appliances</"
+"i></a>"
+
+#. type: Content of: <div><div><ul><li>
+msgid "<a href=\"/proprietary/malware-cars.html\">Malware in cars</a>"
+msgstr "<a href=\"/proprietary/malware-cars.html\">Malwares em carros</a>"
+
+#. type: Content of: <div><div><h3>
+msgid "Type&nbsp;of&nbsp;malware"
+msgstr "Tipo&nbsp;de&nbsp;malware"
+
+#. type: Content of: <div><div><ul><li>
+msgid "<a href=\"/proprietary/proprietary-back-doors.html\">Back doors</a>"
+msgstr "<a href=\"/proprietary/proprietary-back-doors.html\">Back doors</a>"
+
+#. type: Content of: <div><div><ul><li>
+msgid "<a href=\"/proprietary/proprietary-censorship.html\">Censorship</a>"
+msgstr "<a href=\"/proprietary/proprietary-censorship.html\">Censura</a>"
+
+#. type: Content of: <div><div><ul><li>
+msgid "<a href=\"/proprietary/proprietary-coverups.html\">Coverups</a>"
+msgstr "<a href=\"/proprietary/proprietary-coverups.html\">Encobrimentos</a>"
+
+#. type: Content of: <div><div><ul><li>
+msgid "<a href=\"/proprietary/proprietary-deception.html\">Deception</a>"
+msgstr "<a href=\"/proprietary/proprietary-deception.html\">Engano</a>"
+
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"<a href=\"/proprietary/proprietary-incompatibility.html\">Incompatibility</a>"
+msgstr ""
+"<a href=\"/proprietary/proprietary-incompatibility.html\">Incompatibilidade</"
+"a>"
+
+#. type: Content of: <div><div><ul><li>
+msgid "<a href=\"/proprietary/proprietary-insecurity.html\">Insecurity</a>"
+msgstr "<a href=\"/proprietary/proprietary-insecurity.html\">Insegurança</a>"
+
+#. type: Content of: <div><div><ul><li>
+msgid "<a href=\"/proprietary/proprietary-interference.html\">Interference</a>"
+msgstr ""
+"<a href=\"/proprietary/proprietary-interference.html\">Interferência</a>"
+
+#. type: Content of: <div><div><ul><li>
+msgid "<a href=\"/proprietary/proprietary-sabotage.html\">Sabotage</a>"
+msgstr "<a href=\"/proprietary/proprietary-sabotage.html\">Sabotagem</a>"
+
+#. type: Content of: <div><div><ul><li>
+msgid "<a href=\"/proprietary/proprietary-surveillance.html\">Surveillance</a>"
+msgstr "<a href=\"/proprietary/proprietary-surveillance.html\">Vigilância</a>"
+
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"<a href=\"/proprietary/proprietary-subscriptions.html\">Subscriptions</a>"
+msgstr ""
+"<a href=\"/proprietary/proprietary-subscriptions.html\">Assinaturas</a>"
+
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"<a href=\"/proprietary/proprietary-tethers.html\">Tethers</a> to servers"
+msgstr ""
+"<a href=\"/proprietary/proprietary-tethers.html\">Dependência a um servidor</"
+"a>"
+
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"<a href=\"/proprietary/proprietary-drm.html\">Digital restrictions "
+"management</a> or &ldquo;DRM&rdquo; means functionalities designed to "
+"restrict what users can do with the data in their computers."
+msgstr ""
+"<a href=\"/proprietary/proprietary-drm.html\">Gestão digital de restrições</"
+"a> ou “DRM” significa funcionalidades projetadas para restringir o que "
+"usuários podem fazer com os dados em seus computadores."
+
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"<a href=\"/proprietary/proprietary-jails.html\">Jails</a>&mdash;systems that "
+"impose censorship on application programs."
+msgstr ""
+"<a href=\"/proprietary/proprietary-jails.html\">Prisões</a> &ndash; sistemas "
+"que impõem censura a programas."
+
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"<a href=\"/proprietary/proprietary-tyrants.html\">Tyrants</a>&mdash;systems "
+"that reject any operating system not &ldquo;authorized&rdquo; by the "
+"manufacturer."
+msgstr ""
+"<a href=\"/proprietary/proprietary-tyrants.html\">Tiranos</a> &ndash; "
+"sistemas que rejeitam qualquer sistema operacional não “autorizado” pelo "
+"fabricante."
+
+#. type: Content of: <div><div><ul><li>
+msgid "<a href=\"/proprietary/potential-malware.html\">Potential Malware</a>"
+msgstr ""
+"<a href=\"/proprietary/potential-malware.html\">Malwares em potencial</a>"
+
+#. type: Content of: <p>
+msgid ""
+"Users of proprietary software are defenseless against these forms of "
+"mistreatment.  The way to avoid them is by insisting on <a href=\"/"
+"philosophy/free-software-even-more-important.html\">free (freedom-"
+"respecting) software.</a> Since free software is controlled by its users, "
+"they have a pretty good defense against malicious software functionality."
+msgstr ""
+"Os usuários de software proprietário estão indefesos contra essas formas de "
+"maus tratos. A maneira de evitá-los é insistindo em <a href=\"/philosophy/"
+"free-software-even-more-important.html\">software livre (que respeite a "
+"liberdade)</a>. Uma vez que o software livre é controlado por seus usuários, "
+"eles têm uma boa defesa contra a funcionalidade de software maliciosa."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+# type: Content of: <div><p>
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF.  Links quebrados e outras correções ou "
+"sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid ""
+"Copyright &copy; 2013, 2014, 2015, 2016, 2017, 2018 Free Software "
+"Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2013, 2014, 2015, 2016, 2017, 2018 Free Software "
+"Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2018."
+
+# type: Content of: <div><p>
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização: "

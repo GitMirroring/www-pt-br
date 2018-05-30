@@ -1,0 +1,251 @@
+# Brazilian Portuguese translation of https://www.gnu.org/licenses/fdl-howto.html
+# Copyright (C) 2018 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: fdl-howto.html\n"
+"POT-Creation-Date: 2014-04-05 00:01+0000\n"
+"PO-Revision-Date: 2018-05-30 13:53-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid "Tips on Using the GNU FDL - GNU Project - Free Software Foundation"
+msgstr ""
+"Dicas sobre como usar a GNU FDL - Projeto GNU - Free Software Foundation"
+
+#. type: Content of: <h2>
+msgid "Tips on Using the GNU Free Documentation License"
+msgstr "Dicas sobre como usar a Licença de Documentação Livre GNU"
+
+#. type: Content of: <p>
+msgid ""
+"This is a brief explanation of how to place a document under the <a href=\"/"
+"licenses/fdl.html\">GNU Free Documentation License</a>.  For the GNU "
+"software licenses, such as the GNU GPL, we have a <a href=\"/licenses/gpl-"
+"howto.html\">separate page</a>."
+msgstr ""
+"Esta é uma breve explicação de como colocar um documento sob a <a href=\"/"
+"licenses/fdl.html\">Licença de Documentação Livre GNU</a>. Para as licenças "
+"de software GNU, como a GNU GPL, temos uma <a href=\"/licenses/gpl-howto.html"
+"\">página separada</a>."
+
+#. type: Content of: <dl><dt>
+msgid ""
+"<a href=\"/licenses/fdl-howto-opt.html\">How does one use the optional "
+"features of the FDL?</a>"
+msgstr ""
+"<a href=\"/licenses/fdl-howto-opt.html\">Como usar os recursos opcionais da "
+"FDL?</a>"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"We have a <a href=\"/licenses/fdl-howto-opt.html\">separate page</a> that "
+"discusses how to use the optional features of the FDL."
+msgstr ""
+"Nós temos uma <a href=\"/licenses/fdl-howto-opt.html\">página separada</a> "
+"que discute como usar os recursos opcionais da FDL."
+
+#. type: Content of: <dl><dt>
+msgid "Where must one put the license notification?"
+msgstr "Onde deve-se colocar a notificação da licença?"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"It is sufficient to put the full license notice in the &ldquo;main&rdquo; "
+"file of your document.  For example, with the <cite>Emacs Lisp Reference "
+"Manual</cite>, we have many files included by <code>elisp.texi</code>.  We "
+"keep the full notification in <code>elisp.texi</code>, and in the other "
+"files we simply write:"
+msgstr ""
+"Basta colocar o aviso de licença completo no arquivo “principal” do seu "
+"documento. Por exemplo, com o <cite>Manual de Referência para Lisp do Emacs</"
+"cite>, temos muitos arquivos incluídos por <code>elisp.texi</code>. Nós "
+"mantemos a notificação completa em <code>elisp.texi</code>, e nos outros "
+"arquivos, simplesmente escrevemos:"
+
+#. type: Content of: <dl><dd><pre>
+#, no-wrap
+msgid ""
+"@c -*-texinfo-*-\n"
+"@c This is part of the GNU Emacs Lisp Reference Manual.\n"
+"@c Copyright (C) 1990, 1991, 1992, 1993, 1994, 1999\n"
+"@c   Free Software Foundation, Inc.\n"
+"@c See the file elisp.texi for copying conditions.\n"
+msgstr ""
+"@c -*-texinfo-*-\n"
+"@c This is part of the GNU Emacs Lisp Reference Manual.\n"
+"@c Copyright (C) 1990, 1991, 1992, 1993, 1994, 1999\n"
+"@c   Free Software Foundation, Inc.\n"
+"@c See the file elisp.texi for copying conditions.\n"
+
+#. type: Content of: <dl><dt>
+msgid ""
+"What do I do with scripts that are needed to render my document properly?"
+msgstr ""
+"O que eu faço com os scripts que são necessários para processar meu "
+"documento corretamente?"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"We recommend you release these scripts under the GNU FDL as well.  Of "
+"course, if these scripts are generally useful for other tasks, it is a good "
+"idea to release them separately under the GNU GPL."
+msgstr ""
+"Recomendamos que esses scripts sejam lançados sob o GNU FDL também. Claro, "
+"se esses scripts geralmente são úteis para outras tarefas, é uma boa ideia "
+"lançá-los separadamente sob a GNU GPL."
+
+#. type: Content of: <dl><dt>
+msgid "Is it required for the document to have invariant sections?"
+msgstr "É necessário que o documento tenha seções invariantes?"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"No.  It is perfectly acceptable for a document to have no invariant sections."
+msgstr ""
+"Não. É perfeitamente aceitável que um documento não tenha seções invariantes."
+
+#. type: Content of: <dl><dt>
+msgid "Should I try to make sure the document has some invariant sections?"
+msgstr "Devo tentar garantir que o documento tenha algumas seções invariantes?"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"Not particularly.  If a section's contents ought to be invariant, make it "
+"invariant."
+msgstr ""
+"Não particularmente. Se o conteúdo de uma seção deve ser invariante, torne-a "
+"invariante."
+
+#. type: Content of: <dl><dt>
+msgid "Should I try to avoid invariant sections?"
+msgstr "Devo tentar evitar seções invariantes?"
+
+#. type: Content of: <dl><dt>
+msgid "When should a section be invariant?"
+msgstr "Quando uma seção deve ser invariante?"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"First of all, keep in mind that a section that treats technical material "
+"<em>cannot</em> be invariant.  Only a secondary section can be invariant, "
+"and a technical section is not a secondary section."
+msgstr ""
+"Antes de tudo, tenha em mente que uma seção que trata o material técnico "
+"<em>não pode</em> ser invariante. Apenas uma seção secundária pode ser "
+"invariante, e uma seção técnica não é uma seção secundária."
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"If the section is text that you're not allowed to modify, such as a copy of "
+"the GNU GPL, then it <em>must</em> be invariant.  You can't give permission "
+"to modify it if you don't have permission to modify it."
+msgstr ""
+"Se a seção for um texto que você não tenha permissão para modificar, como "
+"uma cópia da GNU GPL, então ela <em>deve</em> ser invariante. Você não pode "
+"dar permissão para modificá-la se você não tiver permissão para modificá-la."
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"(One consequence is that you <em>cannot use</em> preexisting text which "
+"covers technical material if you don't have permission to allow modification "
+"of that text.)"
+msgstr ""
+"(Uma consequência é que você <em>não pode usar</em> um texto preexistente "
+"que cobre material técnico se você não tiver permissão para permitir a "
+"modificação desse texto.)"
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"When a section discusses the philosophy of free software, it is a good idea "
+"to make that section invariant.  For instance, when we put the GNU Manifesto "
+"in a manual, or when we include a section explaining why free documentation "
+"is important, we make that section invariant."
+msgstr ""
+"Quando uma seção discute a filosofia do software livre, é uma boa ideia "
+"tornar essa seção invariante. Por exemplo, quando colocamos o Manifesto GNU "
+"em um manual, ou quando incluímos uma seção explicando por que a "
+"documentação livre é importante, fazemos essa seção invariante."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+# type: Content of: <div><p>
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF.  Links quebrados e outras correções ou "
+"sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid ""
+"Copyright &copy; 2000, 2001, 2008, 2009, 2014 Free Software Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2000, 2001, 2008, 2009, 2014 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+"NoDerivs 3.0 United States License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2018."
+
+# type: Content of: <div><p>
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização: "

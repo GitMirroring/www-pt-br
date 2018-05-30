@@ -1,0 +1,248 @@
+# Brazilian Portuguese translation of https://www.gnu.org/licenses/why-affero-gpl.html
+# Copyright (C) 2017 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: why-affero-gpl.html\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-05-10 22:25+0000\n"
+"PO-Revision-Date: 2018-05-30 13:08-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid "Why the GNU Affero GPL - GNU Project - Free Software Foundation"
+msgstr "Por que a GNU Affero GPL - Projeto GNU - Free Software Foundation"
+
+#. type: Content of: <h2>
+msgid "Why the Affero GPL"
+msgstr "Por que a Affero GPL"
+
+#. type: Content of: <p>
+msgid ""
+"The GNU Affero General Public License is a modified version of the ordinary "
+"GNU GPL version 3.  It has one added requirement: if you run a modified "
+"program on a server and let other users communicate with it there, your "
+"server must also allow them to download the source code corresponding to the "
+"modified version running there."
+msgstr ""
+"A Licença Pública Geral Affero GNU é uma versão modificada da GNU GPL versão "
+"3. Tem um requisito adicional: se você executar um programa modificado em um "
+"servidor e permitir que outros usuários se comuniquem com ele, seu servidor "
+"também deve permitir que eles baixem o código fonte correspondente à versão "
+"modificada executada nesse local."
+
+#. type: Content of: <p>
+msgid ""
+"The purpose of the GNU Affero GPL is to prevent a problem that affects "
+"developers of free programs that are often used on servers."
+msgstr ""
+"O objetivo da GNU Affero GPL é evitar um problema que afete os "
+"desenvolvedores de programas livres que são frequentemente usados em "
+"servidores."
+
+#. type: Content of: <p>
+msgid ""
+"Suppose you develop and release a free program under the ordinary GNU GPL.  "
+"If developer D modifies the program and releases it, the GPL requires him to "
+"distribute his version under the GPL too.  Thus, if you get a copy of his "
+"version, you are free to incorporate some or all of his changes into your "
+"own version."
+msgstr ""
+"Suponha que você desenvolva e lance um programa livre sob a GNU GPL comum. "
+"Se o desenvolvedor D modifica o programa e o lança, a GPL exige que ele "
+"distribua sua versão sob a GPL também. Assim, se você receber uma cópia da "
+"sua versão, você é livre para incorporar algumas ou todas as suas mudanças "
+"na sua própria versão."
+
+#. type: Content of: <p>
+msgid ""
+"But suppose the program is mainly useful on servers.  When D modifies the "
+"program, he might very likely run it on his own server and never release "
+"copies.  Then you would never get a copy of the source code of his version, "
+"so you would never have the chance to include his changes in your version.  "
+"You may not like that outcome."
+msgstr ""
+"Mas suponha que o programa seja principalmente útil em servidores. Quando D "
+"modifica o programa, ele provavelmente pode executá-lo em seu próprio "
+"servidor e nunca lançar cópias. Então você nunca receberá uma cópia do "
+"código fonte da sua versão, então você nunca terá a chance de incluir suas "
+"mudanças em sua versão. Você pode não gostar desse resultado."
+
+#. type: Content of: <p>
+msgid ""
+"Using the GNU Affero GPL avoids that outcome.  If D runs his version on a "
+"server that everyone can use, you too can use it.  Assuming he has followed "
+"the license requirement to let the server's users download the source code "
+"of his version, you can do so, and then you can incorporate his changes into "
+"your version.  (If he hasn't followed it, you have your lawyer complain to "
+"him.)"
+msgstr ""
+"O uso do GNU Affero GPL evita esse resultado. Se D executar sua versão em um "
+"servidor que todos possam usar, você também pode usá-lo. Supondo que ele "
+"tenha seguido o requisito da licença para permitir que os usuários do "
+"servidor baixem o código fonte da sua versão, você pode fazê-lo e, em "
+"seguida, você pode incorporar suas alterações em sua versão. (Se ele não "
+"seguiu, você tem seu advogado reclamando com ele.)"
+
+#. type: Content of: <p>
+msgid ""
+"Both the ordinary GNU GPL, version 3, and the GNU Affero GPL have text "
+"allowing you to link together modules under these two licenses in one "
+"program."
+msgstr ""
+"Tanto o GNU GPL comum, a versão 3, como a GNU Affero GPL têm texto que "
+"permite que você vincule os módulos sob essas duas licenças em um único "
+"programa."
+
+#. type: Content of: <p>
+msgid ""
+"The GNU Affero GPL does not address the problem of <a href=\"/philosophy/who-"
+"does-that-server-really-serve.html\"> Service as a Software Substitute "
+"(SaaSS)</a>."
+msgstr ""
+"A GNU Affero GPL não aborda o problema do <a href=\"/philosophy/who-does-"
+"that-server-really-serve.html\"> Serviço como um Substituto de Software "
+"(SaaSS)</a>."
+
+#. type: Content of: <p>
+msgid ""
+"SaaSS means that users use someone else's web server to do their own "
+"computing.  This requires them to send their data to the server, which does "
+"their computing for them and sends the results back to them.  SaaSS is an "
+"injustice because the users cannot control their computing when it's done "
+"that way."
+msgstr ""
+"SaaSS significa que os usuários usam o servidor web de outra pessoa para "
+"fazer sua própria computação. Isso exige que eles enviem seus dados para o "
+"servidor, o que faz sua computação para eles e envia os resultados de volta "
+"para eles. O SaaSS é uma injustiça porque os usuários não podem controlar "
+"sua computação quando é feito assim."
+
+#. type: Content of: <p>
+msgid ""
+"If some program on this server is released under the GNU Affero GPL, the "
+"server is required to offer the users the corresponding source of that "
+"program.  That is good, but having this source code does not give them "
+"control over the computing done on that server.  It also does not tell them "
+"what other software may be running on that server, examining or changing "
+"their data in other ways."
+msgstr ""
+"Se algum programa neste servidor for lançado no GNU Affero GPL, o servidor é "
+"obrigado a oferecer aos usuários o código fonte correspondente a esse "
+"programa. Isso é bom, mas ter esse código fonte não lhes dá controle sobre a "
+"computação feita nesse servidor. Também não diz para eles quais outros "
+"softwares podem estar sendo executados nesse servidor, examinando ou "
+"alterando seus dados de outras maneiras."
+
+#. type: Content of: <p>
+msgid ""
+"We don't see any sensible way to address the SaaSS problem with license "
+"conditions on particular programs.  Even to write a legal condition to "
+"distinguish between SaaSS use and non-SaaSS use would be a challenge, and if "
+"we had that, we don't see anything that the program's license might require "
+"in the SaaSS case that would correct the inherent wrong of SaaSS.  Thus, our "
+"solution to the problem of SaaSS is simple: refuse to use services that are "
+"SaaSS."
+msgstr ""
+"Não vemos nenhuma maneira sensata de resolver o problema do SaaSS com "
+"condições de licença em programas específicos. Mesmo escrever uma condição "
+"legal para distinguir entre o uso de SaaSS e o uso não SaaSS seria um "
+"desafio, e se tivéssemos isso, não vemos nada que a licença do programa "
+"possa exigir no caso SaaSS que corrija o erro inerente de SaaSS. Assim, "
+"nossa solução para o problema do SaaSS é simples: se recusar a usar serviços "
+"que são SaaSS."
+
+#. type: Content of: <p>
+msgid ""
+"If a program is meant specifically and only for SaaSS, you shouldn't write "
+"it.  But many programs are useful for a variety of kinds of services, "
+"including some that are SaaSS and some that are not.  It's useful to write "
+"and release these programs so people can set up non-SaaSS services with "
+"them, and good to release them under the AGPL."
+msgstr ""
+"Se um programa for especificado especificamente e somente para SaaSS, você "
+"não deve gravá-lo. Mas muitos programas são úteis para uma variedade de "
+"tipos de serviços, incluindo alguns que são SaaSS e alguns que não são. É "
+"útil escrever e lançar esses programas para que as pessoas possam configurar "
+"serviços não SaaSS com eles, e é bom lançá-los no âmbito da AGPL."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+# type: Content of: <div><p>
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF.  Links quebrados e outras correções ou "
+"sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2010, 2013, 2014, 2015 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2010, 2013, 2014, 2015 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+"NoDerivs 3.0 United States License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2018."
+
+# type: Content of: <div><p>
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização: "
