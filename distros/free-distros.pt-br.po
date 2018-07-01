@@ -11,8 +11,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: free-distros.html\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-14 13:56+0000\n"
-"PO-Revision-Date: 2018-04-16 14:41-0300\n"
+"POT-Creation-Date: 2018-06-22 21:26+0000\n"
+"PO-Revision-Date: 2018-06-23 14:33-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -56,6 +56,10 @@ msgstr "<a href=\"#howto-get\">Como obter distros GNU/Linux livres</a>"
 #. type: Content of: <div><ul><li>
 msgid "<a href=\"#NewDistro\">See something we missed?</a>"
 msgstr "<a href=\"#NewDistro\">Há algo que nós esquecemos?</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"#Historical\">Historical</a>"
+msgstr "<a href=\"#Historical\">Histórico</a>"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -192,29 +196,17 @@ msgid "Brief Description"
 msgstr "Descrição breve"
 
 #. type: Content of: <table><tr><td><a>
-msgid "<a href=\"http://www.blagblagblag.org/\">"
-msgstr "<a href=\"http://www.blagblagblag.org/\">"
-
-#. type: Attribute 'alt' of: <table><tr><td><a><img>
-msgid "BLAG Linux and GNU"
-msgstr "BLAG Linux e GNU"
-
-# type: Content of: <div><p>
-#. type: Content of: <table><tr><td>
-msgid "</a>"
-msgstr "</a>"
-
-#. type: Content of: <table><tr><td>
-msgid "BLAG Linux and GNU, a GNU/Linux distribution based on Fedora."
-msgstr "BLAG Linux e GNU, uma distribuição de GNU/Linux baseada no Fedora."
-
-#. type: Content of: <table><tr><td><a>
 msgid "<a href=\"https://dragora.org/\">"
 msgstr "<a href=\"https://dragora.org/\">"
 
 #. type: Attribute 'alt' of: <table><tr><td><a><img>
 msgid "Dragora GNU/Linux-Libre"
 msgstr "Dragora GNU/Linux-Libre"
+
+# type: Content of: <div><p>
+#. type: Content of: <table><tr><td>
+msgid "</a>"
+msgstr "</a>"
 
 #. type: Content of: <table><tr><td>
 msgid ""
@@ -500,6 +492,42 @@ msgstr ""
 "org&gt;</a> com uma introdução e um link para o site do projeto. Quando você "
 "fizer isso, vamos explicar mais sobre nosso processo de avaliação a você e o "
 "iniciaremos o mais rápido possível. Estamos ansioso para ouvir de você!"
+
+#. type: Content of: <h3>
+msgid "Historical"
+msgstr "Histórico"
+
+#. type: Content of: <p>
+msgid ""
+"The distributions that follow were previously listed above, but are no "
+"longer recommended."
+msgstr ""
+"As distribuições a seguir foram previamente listadas acima, mas não são mais "
+"recomendadas."
+
+#. type: Content of: <table><thead><tr><th>
+msgid "Retirement Info"
+msgstr "Circunstâncias de retirada"
+
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"http://www.blagblagblag.org/\">"
+msgstr "<a href=\"http://www.blagblagblag.org/\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "BLAG Linux and GNU"
+msgstr "BLAG Linux e GNU"
+
+#. type: Content of: <table><tr><td>
+msgid "BLAG Linux and GNU, a GNU/Linux distribution based on Fedora."
+msgstr "BLAG Linux e GNU, uma distribuição de GNU/Linux baseada no Fedora."
+
+#. type: Content of: <table><tr><td>
+msgid ""
+"<em>Removed June 2018</em>. Removed at the request of the maintainers, as "
+"they had stopped maintaining it."
+msgstr ""
+"<em>Removido em junho de 2018</em>. Removido a pedido dos mantenedores, pois "
+"eles pararam de dar manutenção a ela."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>

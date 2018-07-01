@@ -5,8 +5,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: planetfeeds.html\n"
-"POT-Creation-Date: 2018-06-18 05:29+0000\n"
-"PO-Revision-Date: 2018-06-18 08:07-0200\n"
+"POT-Creation-Date: 2018-06-28 05:29+0000\n"
+"PO-Revision-Date: 2018-06-28 20:58-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -17,50 +17,126 @@ msgstr ""
 "X-Generator: Virtaal 1.0.0-beta1\n"
 
 #. type: Content of: <p>
-msgid "Version 1.15"
-msgstr "Versão 1.15"
+msgid "Version 1.16"
+msgstr "Versão 1.16"
 
 #.  TRANSLATORS: 
-#. http://savannah.gnu.org/forum/forum.php?forum_id=9176 
+#. http://savannah.gnu.org/forum/forum.php?forum_id=9184 
 #. type: Content of: <p>
 msgid ""
-": GDBM version 1.15 is available for download. Important changes in this "
-"release: Extensive database consistency checking GDBM tries to detect "
-"inconsistencies in input database fi..."
+": Version 1.16 has been released. This version improves free space "
+"management and fixes a long-standing bug discovered recently due to "
+"introduction of strict database consistency..."
 msgstr ""
-": O GDBM versão 1.15 está disponível para download. Alterações importantes "
-"nesta versão: Verificação de consistência extensa do banco de dados O GDBM "
-"tenta detectar inconsistên..."
+": Versão 1.16 foi lançada. Esta versão melhora o gerenciamento de espaço "
+"livre e corrige um erro de longa data descoberto recentemente devido à "
+"introdução da estrita consistên..."
 
 #. type: Content of: <p>
-msgid "GNUMail + Pantime 1.3.0"
-msgstr "GNUMail + Pantime 1.3.0"
+msgid "European Union Public License v. 1.2 added to license list"
+msgstr "European Union Public License v. 1.2 adicionada à lista de licenças"
 
 #.  TRANSLATORS: 
-#. http://multixden.blogspot.com/2018/06/gnumail-pantime-130.html 
+#. http://www.fsf.org/blogs/licensing/european-union-public-license-v-1-2-added-to-license-list 
 #. type: Content of: <p>
 msgid ""
-": A new release for GNUmail (Mail User Agent for GNUstep and MacOS) and "
-"Pantomime (portable MIME Framework): 1.3.0!Panomime APIs were update to have "
-"safer types: mostly..."
+": We recently added the EUPL-1.2 to our list of Various Licenses and "
+"Comments About Them. This list helps users to understand whethe..."
 msgstr ""
-": Um novo lançamento para GNUmail (Agente de Usuário de Correio para GNUstep "
-"e MacOS) e Pantomime (MIME Framework portátil): 1.3.0! As APIs de Panomime "
-"foram a..."
+": Recentemente adicionamos a EUPL-1.2 à nossa lista de Várias Licenças e "
+"Comentários Sobre Eles. Esta lista ajuda os usuários a..."
 
 #. type: Content of: <p>
-msgid "OresmeKit initial release: plotting for GNUstep and Cocoa"
-msgstr "Lançamento inicial do OresmeKit: plotagem para GNUstep e Cocoa"
+msgid "Take action! Tell US Congress not to pass the CLASSICS Act"
+msgstr ""
+"Hora de agir! Diga ao Congresso dos EUA para não aprovar o CLASSICS Act"
 
 #.  TRANSLATORS: 
-#. http://multixden.blogspot.com/2018/06/oresmekit-initial-release-plotting-for.html 
+#. http://www.fsf.org/blogs/community/take-action-tell-us-congress-not-to-pass-the-classics-act 
 #. type: Content of: <p>
 msgid ""
-": Finally a public release of OresmeKit.Started many years ago, it has "
-"finally come the moment for a first public release, since I put..."
+": The 1990s have come back to haunt us as the US Congress attempts to extend "
+"the scope of copyright law again, just two decades after..."
 msgstr ""
-": Finalmente um lançamento público do OresmeKit. Iniciado há muitos anos, "
-"finalmente chegou o momento de um primeiro lançamento públi..."
+": Os anos 90 voltaram para nos assombrar enquanto o Congresso dos EUA tenta "
+"estender o escopo da lei de de direitos autorais novamente, a..."
+
+#~ msgid "About BLAG&#39;s removal from our list of endorsed distributions"
+#~ msgstr "Sobre remoção do BLAG de nossa lista de distribuições endossada"
+
+#~ msgid ""
+#~ ": We recently updated our list of free GNU/Linux distributions to add a "
+#~ "\"Historical\" section. BLAG Linux and GNU, based on Fedo..."
+#~ msgstr ""
+#~ ": Recentemente, atualizamos nossa lista de distribuições GNU/Linux livres "
+#~ "para adicionar uma seção \"Histórico\". BLAG Linux e..."
+
+#~ msgid "GNU Foliot version 0.9.8"
+#~ msgstr "GNU Foliot versão 0.9.8"
+
+#~ msgid ""
+#~ ": GNU Foliot version 0.9.8 is released (June 2018) This is a maintenance "
+#~ "release, which brings GNU Foliot up-to-date with Grip 0.2.0, upon which "
+#~ "it depends. In additio..."
+#~ msgstr ""
+#~ ": GNU Foliot versão 0.9.8 foi lançado (Junho de 2018) É um lançamento de "
+#~ "manutenção, que traz o GNU Foliot atualizado com Grip 0.2.0, do qual ele "
+#~ "depende. Além disso,..."
+
+#~ msgid "GNU Parallel 20180622 (&#39;Kim Trump&#39;) released"
+#~ msgstr "GNU Parallel 20180622 (&#39;Kim Trump&#39;) lançado"
+
+#~ msgid ""
+#~ ": GNU Parallel 20180622 (&#39;Kim Trump&#39;) has been released. It is "
+#~ "available for download at: http://ftpmirror.gnu.org/parallel/ Quote..."
+#~ msgstr ""
+#~ ": GNU Parallel 20180622 (&#39;Kim Trump&#39;) foi lançado. Está "
+#~ "disponível para download em: http://ftpmirror.gnu.org/parallel/ ..."
+
+#~ msgid ""
+#~ "Friday Free Software Directory IRC meetup time: June 22nd starting at "
+#~ "12:00 p.m. EDT/16:00 UTC"
+#~ msgstr ""
+#~ "Friday Free Software Directory IRC – horário de encontro: 22 de Junho, "
+#~ "iniciando às 13:00 BRT/16:00 UTC"
+
+#~ msgid ""
+#~ ": Help improve the Free Software Directory by adding new entries and "
+#~ "updating existing ones. Ever..."
+#~ msgstr ""
+#~ ": Ajude a melhorar o Diretório de Software Livre adicionando novas "
+#~ "entradas e atualizando os exis..."
+
+#~ msgid "GNUMail + Pantomime 1.3.0"
+#~ msgstr "GNUMail + Pantomime 1.3.0"
+
+#~ msgid ""
+#~ ": A new release for GNUmail (Mail User Agent for GNUstep and MacOS) and "
+#~ "Pantomime (portable MIME Framework): 1.3.0!Panomime APIs were update to "
+#~ "have safer types: most..."
+#~ msgstr ""
+#~ ": Um novo lançamento para GNUmail (Agente de Usuário de Correio para "
+#~ "GNUstep e MacOS) e Pantomime (MIME Framework portátil): 1.3.0! As APIs de "
+#~ "Panomime foram..."
+
+#~ msgid ""
+#~ ": GDBM version 1.15 is available for download. Important changes in this "
+#~ "release: Extensive database consistency checking GDBM tries to detect "
+#~ "inconsistencies in input database fi..."
+#~ msgstr ""
+#~ ": O GDBM versão 1.15 está disponível para download. Alterações "
+#~ "importantes nesta versão: Verificação de consistência extensa do banco de "
+#~ "dados O GDBM tenta detectar inconsistên..."
+
+#~ msgid "OresmeKit initial release: plotting for GNUstep and Cocoa"
+#~ msgstr "Lançamento inicial do OresmeKit: plotagem para GNUstep e Cocoa"
+
+#~ msgid ""
+#~ ": Finally a public release of OresmeKit.Started many years ago, it has "
+#~ "finally come the moment for a first public release, since I put..."
+#~ msgstr ""
+#~ ": Finalmente um lançamento público do OresmeKit. Iniciado há muitos anos, "
+#~ "finalmente chegou o momento de um primeiro lançamento públi..."
 
 #~ msgid "Take action on the International Day Against DRM this September 18th"
 #~ msgstr ""
@@ -72,20 +148,6 @@ msgstr ""
 #~ msgstr ""
 #~ ": Junte-se à equipe do Defective by Design e celebre o Dia Internacional "
 #~ "contra o DRM (IDAD) neste dia 18 de setembro! Defec..."
-
-#~ msgid ""
-#~ "Friday Free Software Directory IRC meetup time: June 15th starting at "
-#~ "12:00 p.m. EDT/16:00 UTC"
-#~ msgstr ""
-#~ "Friday Free Software Directory IRC – horário de encontro: 15 de Junho, "
-#~ "iniciando às 13:00 BRT/16:00 UTC"
-
-#~ msgid ""
-#~ ": Help improve the Free Software Directory by adding new entries and "
-#~ "updating existing ones. Ever..."
-#~ msgstr ""
-#~ ": Ajude a melhorar o Diretório de Software Livre adicionando novas "
-#~ "entradas e atualizando os exis..."
 
 #~ msgid "Introducing David Hedlund, intern with the FSF tech team"
 #~ msgstr "Apresentando David Hedlund, estagiário na equipe técnica da FSF"
@@ -240,16 +302,6 @@ msgstr ""
 #~ ": Schanzenbach M, Bramm G, SchĂźtte J. reclaimID: Identidades Seguras e "
 #~ "Autônomas Usando Sistem..."
 
-#~ msgid "GNU Parallel 20180522 (&#39;Great March of Return&#39;) released"
-#~ msgstr "GNU Parallel 20180522 (&#39;Great March of Return&#39;) lançado"
-
-#~ msgid ""
-#~ ": GNU Parallel 20180522 (&#39;Great March of Return&#39;) has been "
-#~ "released. It is available for download at: http://ftpmirror..."
-#~ msgstr ""
-#~ ": GNU Parallel 20180522 (&#39;Great March of Return&#39;) foi lançado. "
-#~ "Está disponível em: http://ftpmirror.gnu.org/par..."
-
 #~ msgid ""
 #~ "Richard Stallman - &quot;We must legislate to block collection of "
 #~ "personal data&quot; (HOPE, New York, NY)"
@@ -402,15 +454,3 @@ msgstr ""
 #~ msgstr ""
 #~ ": É sempre difícil saber como resumir o LibrePlanet – a conferência anual "
 #~ "da Free Software Foundation (FSF) é um final de semana inspirador, ..."
-
-#~ msgid "GNU Foliot version 0.9.7"
-#~ msgstr "GNU Foliot versão 0.9.7"
-
-#~ msgid ""
-#~ ": GNU Foliot version 0.9.7 is released! This is a maintenance release, "
-#~ "which brings GNU Foliot up-to-date with Guile-2.2, which introduced an "
-#~ "incompatible module - goo..."
-#~ msgstr ""
-#~ ": GNU Foliot versão 0.9.7 foi lançado! É um lançamento de manutenção, que "
-#~ "traz o GNU Foliot atualizado com Guile-2.2, que introduziu um módulo "
-#~ "incompatível – goo..."
