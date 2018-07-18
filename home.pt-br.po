@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: home.html\n"
-"POT-Creation-Date: 2018-04-29 11:56+0000\n"
-"PO-Revision-Date: 2018-05-01 21:09-0200\n"
+"POT-Creation-Date: 2018-07-14 10:27+0000\n"
+"PO-Revision-Date: 2018-07-14 08:31-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -59,14 +59,18 @@ msgstr "O que é GNU?"
 #. type: Content of: <div><div><p>
 msgid ""
 "GNU is an operating system that is <a href=\"/philosophy/free-sw.html\">free "
-"software</a>&mdash;that is, it respects users' freedom.  The development of "
-"GNU made it possible to use a computer without software that would trample "
-"your freedom."
+"software</a>&mdash;that is, it respects users' freedom.  The GNU operating "
+"system consists of GNU packages (programs specifically released by the GNU "
+"Project) as well as free software released by third parties.  The "
+"development of GNU made it possible to use a computer without software that "
+"would trample your freedom."
 msgstr ""
 "GNU é um sistema operacional que é <a href=\"/philosophy/free-sw.html"
 "\">software livre</a> &ndash; que é, o respeito a liberdade de seus "
-"usuários. O desenvolvimento do GNU tornou possível o uso de um computador "
-"sem um software que ameace sua liberdade."
+"usuários. O sistema operacional GNU consiste em pacotes GNU (programas "
+"especificamente lançados pelo Projeto GNU) bem como software livre lançado "
+"por terceiros. O desenvolvimento do GNU tornou possível o uso de um "
+"computador sem um software que ameace sua liberdade."
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -80,30 +84,102 @@ msgstr ""
 "totalmente software livre. <a href=\"#More-GNU\">Mais sobre GNU\n"
 "abaixo</a>."
 
-#. type: Content of: <div><div><div><p>
-msgid "<a href=\"/distros/free-distros.html\">Try GNU/Linux!</a>"
-msgstr "<a href=\"/distros/free-distros.html\">Teste o GNU/Linux!</a>"
+#. type: Content of: <div><div><p>
+msgid "<a href=\"/distros/free-distros.html\">Try GNU/Linux</a>"
+msgstr "<a href=\"/distros/free-distros.html\">Teste o GNU/Linux</a>"
 
-#. type: Content of: <div><div><div><p>
-msgid ""
-"<a href=\"https://directory.fsf.org/wiki/Free_Software_Directory:"
-"Free_software_replacements\"> Try parts of GNU</a>"
-msgstr ""
-"<a href=\"https://directory.fsf.org/wiki/Free_Software_Directory:"
-"Free_software_replacements\"> Tente partes do GNU</a>"
+#. type: Content of: <div><div><div><div><a>
+msgid "<a href=\"/distros/screenshots/trisquel8-mate.jpg\">"
+msgstr "<a href=\"/distros/screenshots/trisquel8-mate.jpg\">"
 
-#. type: Content of: <div><div><div><a>
-msgid "<a href=\"/distros/screenshot.html\">"
-msgstr "<a href=\"/distros/screenshot.html\">"
-
-#. type: Attribute 'alt' of: <div><div><div><a><img>
-msgid "Screenshot of GNU"
-msgstr "Captura de tela do GNU"
+#. type: Attribute 'alt' of: <div><div><div><table><tr><td><a><img>
+msgid "&nbsp;[Screenshot of Trisquel&nbsp;8 with MATE desktop]&nbsp;"
+msgstr "&nbsp;[Captura de tela de Trisquel&nbsp;8 com o MATE desktop]&nbsp;"
 
 # type: Content of: <div><p>
 #. type: Content of: <div><div><div><h3>
 msgid "</a>"
 msgstr "</a>"
+
+#. type: Content of: <div><div><div><p>
+msgid ""
+"<small><a href=\"https://trisquel.info\">Trisquel&nbsp;8</a> with <a href="
+"\"https://mate-desktop.org/\">MATE</a> desktop, Abrowser (web browser), and "
+"Inkscape (vector graphics editor)</small>"
+msgstr ""
+"<small><a href=\"https://trisquel.info\">Trisquel&nbsp;8</a> com <a href="
+"\"https://mate-desktop.org/\">MATE</a> desktop, Abrowser (navegador web) e "
+"Inkscape (editor de gráficos vetoriais)</small>"
+
+#. type: Content of: <div><div><div><div><a>
+msgid "<a href=\"/distros/screenshots/guixSD-gnome3.jpg\">"
+msgstr "<a href=\"/distros/screenshots/guixSD-gnome3.jpg\">"
+
+#. type: Attribute 'alt' of: <div><div><div><table><tr><td><a><img>
+msgid "&nbsp;[Screenshot of GuixSD&nbsp;0.15 with GNOME&nbsp;3 desktop]&nbsp;"
+msgstr ""
+"&nbsp;[Captura de tela do GuixSD&nbsp;0.15 com GNOME&nbsp;3 desktop]&nbsp;"
+
+#. type: Content of: <div><div><div><p>
+msgid ""
+"<small><a href=\"/software/guix/\">GuixSD&nbsp;0.15</a> with <a href="
+"\"https://www.gnome.org/\">GNOME&nbsp;3</a> desktop, Epiphany web browser, "
+"Totem video player, and GNOME terminal emulator</small>"
+msgstr ""
+"<small><a href=\"/software/guix/\">GuixSD&nbsp;0.15</a> com <a href="
+"\"https://www.gnome.org/\">GNOME&nbsp;3</a> desktop, navegador web Epiphany, "
+"reprodutor de vídeo Totem e emulador de terminal do GNOME</small>"
+
+#. type: Content of: <div><div><div><div><a>
+msgid "<a href=\"/distros/screenshots/pureos8-gnome3.jpg\">"
+msgstr "<a href=\"/distros/screenshots/pureos8-gnome3.jpg\">"
+
+#. type: Attribute 'alt' of: <div><div><div><table><tr><td><a><img>
+msgid "&nbsp;[Screenshot of PureOS&nbsp;8 with GNOME&nbsp;3 desktop]&nbsp;"
+msgstr ""
+"&nbsp;[Captura de tela do PureOS&nbsp;8 com GNOME&nbsp;3 desktop]&nbsp;"
+
+#. type: Content of: <div><div><div><p>
+msgid ""
+"<small><a href=\"https://www.pureos.net/\">PureOS&nbsp;8</a> with <a href="
+"\"https://www.gnome.org/\">GNOME&nbsp;3</a> desktop, PureBrowser (web "
+"browser), and Gimp (image editor)</small>"
+msgstr ""
+"<small><a href=\"https://www.pureos.net/\">PureOS&nbsp;8</a> com <a href="
+"\"https://www.gnome.org/\">GNOME&nbsp;3</a> desktop, PureBrowser (navegador "
+"web) e Gimp (editor de imagem)</small>"
+
+#. type: Content of: <div><div><div><table><tr><td><a>
+msgid "<a href=\"/home.html?distro=trisquel8#gnu-linux\">"
+msgstr "<a href=\"/home.html?distro=trisquel8#gnu-linux\">"
+
+#. type: Content of: <div><div><div><table><tr><td><a>
+msgid "<a href=\"/home.html?distro=guix#gnu-linux\">"
+msgstr "<a href=\"/home.html?distro=guix#gnu-linux\">"
+
+#. type: Content of: <div><div><div><table><tr><td><a>
+msgid "<a href=\"/home.html?distro=pureos8#gnu-linux\">"
+msgstr "<a href=\"/home.html?distro=pureos8#gnu-linux\">"
+
+#. type: Content of: <div><div><div><table><tr><td>
+msgid "<small>Trisquel&nbsp;8 &amp; MATE</small>"
+msgstr "<small>Trisquel&nbsp;8 &amp; MATE</small>"
+
+#. type: Content of: <div><div><div><table><tr><td>
+msgid "<small>GuixSD &amp; GNOME&nbsp;3</small>"
+msgstr "<small>GuixSD &amp; GNOME&nbsp;3</small>"
+
+#. type: Content of: <div><div><div><table><tr><td>
+msgid "<small>PureOS&nbsp;8 &amp; GNOME&nbsp;3</small>"
+msgstr "<small>PureOS&nbsp;8 &amp; GNOME&nbsp;3</small>"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"... or <a href=\"https://directory.fsf.org/wiki/Free_Software_Directory:"
+"Free_software_replacements\"> Try parts of GNU</a>"
+msgstr ""
+"... ou <a href=\"https://directory.fsf.org/wiki/Free_Software_Directory:"
+"Free_software_replacements\"> Tente partes do GNU</a>"
 
 #. type: Content of: <div><div><h2>
 msgid "What is the Free Software Movement?"
@@ -473,13 +549,11 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, "
-"2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018 "
-"<a href=\"http://www.fsf.org\">Free Software Foundation</a>, Inc."
+"Copyright &copy; 1996-2018 <a href=\"http://www.fsf.org\">Free Software "
+"Foundation</a>, Inc."
 msgstr ""
-"Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, "
-"2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018 "
-"<a href=\"http://www.fsf.org\">Free Software Foundation</a>, Inc."
+"Copyright &copy; 1996-2018 <a href=\"http://www.fsf.org\">Free Software "
+"Foundation</a>, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -506,6 +580,50 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização: "
+
+#~ msgid "<a href=\"/distros/screenshots/gnome3-medium.jpg\">"
+#~ msgstr "<a href=\"/distros/screenshots/gnome3-medium.jpg\">"
+
+#~ msgid "&nbsp;[Screenshot of GNOME&nbsp;3 desktop]&nbsp;"
+#~ msgstr "&nbsp;[Captura de tela do GNOME&nbsp;3 desktop]&nbsp;"
+
+#~ msgid "<a href=\"/home.html?distro=gnome3#gnu-linux\">"
+#~ msgstr "<a href=\"/home.html?distro=gnome3#gnu-linux\">"
+
+#~ msgid "<small>GNOME&nbsp;3</small>"
+#~ msgstr "<small>GNOME&nbsp;3</small>"
+
+#~ msgid ""
+#~ "&nbsp;[Screenshot of Trisquel&nbsp;7 with Gnome Classic desktop]&nbsp;"
+#~ msgstr ""
+#~ "&nbsp;[Captura de tela de Trisquel&nbsp;7 com o GNOME Classic desktop]"
+#~ "&nbsp;"
+
+#~ msgid "&nbsp;[Screenshot of guixSD with GNOME&nbsp;3 desktop]&nbsp;"
+#~ msgstr "&nbsp;[Captura de tela do guixSD com GNOME&nbsp;3 desktop]&nbsp;"
+
+#~ msgid "<a href=\"/distros/screenshot.html\">"
+#~ msgstr "<a href=\"/distros/screenshot.html\">"
+
+#~ msgid "<a href=\"/software/guix/\">"
+#~ msgstr "<a href=\"/software/guix/\">"
+
+#~ msgid "<a href=\"https://www.gnome.org/\">"
+#~ msgstr "<a href=\"https://www.gnome.org/\">"
+
+#~ msgid "Screenshot of GNU"
+#~ msgstr "Captura de tela do GNU"
+
+#~ msgid ""
+#~ "Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, "
+#~ "2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, "
+#~ "2017, 2018 <a href=\"http://www.fsf.org\">Free Software Foundation</a>, "
+#~ "Inc."
+#~ msgstr ""
+#~ "Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, "
+#~ "2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, "
+#~ "2017, 2018 <a href=\"http://www.fsf.org\">Free Software Foundation</a>, "
+#~ "Inc."
 
 #~ msgid "<a href=\"#parts-of-gnu\">Try parts of GNU</a>"
 #~ msgstr "<a href=\"#parts-of-gnu\">Teste partes do GNU</a>"

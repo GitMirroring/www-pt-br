@@ -5,8 +5,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: planetfeeds.html\n"
-"POT-Creation-Date: 2018-06-28 05:29+0000\n"
-"PO-Revision-Date: 2018-06-28 20:58-0200\n"
+"POT-Creation-Date: 2018-07-16 05:29+0000\n"
+"PO-Revision-Date: 2018-07-16 07:36-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -17,49 +17,192 @@ msgstr ""
 "X-Generator: Virtaal 1.0.0-beta1\n"
 
 #. type: Content of: <p>
-msgid "Version 1.16"
-msgstr "Versão 1.16"
+msgid "[From Arch] libutf8proc&gt;=2.1.1-3 update requires manual intervention"
+msgstr ""
+"[Do Arch] Atualização do libutf8proc&gt;=2.1.1-3 exige intervenção manual"
 
 #.  TRANSLATORS: 
-#. http://savannah.gnu.org/forum/forum.php?forum_id=9184 
+#. https://parabolagnulinux.org/news/libutf8proc211-3-update-requires-manual-intervention/ 
 #. type: Content of: <p>
 msgid ""
-": Version 1.16 has been released. This version improves free space "
-"management and fixes a long-standing bug discovered recently due to "
-"introduction of strict database consistency..."
+": The libutf8proc package prior to version 2.1.1-3 had an incorrect soname "
+"link. This has been fixed in 2.1.1-3, so the..."
 msgstr ""
-": Versão 1.16 foi lançada. Esta versão melhora o gerenciamento de espaço "
-"livre e corrige um erro de longa data descoberto recentemente devido à "
-"introdução da estrita consistên..."
+": O pacote libutf8proc antes da versão 2.1.1-3 tinha um vínculo de soname "
+"incorreto. Isso foi corrigido no 2.1.1-3, então o..."
 
 #. type: Content of: <p>
-msgid "European Union Public License v. 1.2 added to license list"
-msgstr "European Union Public License v. 1.2 adicionada à lista de licenças"
+msgid "Revealing unknown DWG classes"
+msgstr "Revelando classes DWG desconhecidos"
 
 #.  TRANSLATORS: 
-#. http://www.fsf.org/blogs/licensing/european-union-public-license-v-1-2-added-to-license-list 
+#. http://savannah.gnu.org/forum/forum.php?forum_id=9197 
 #. type: Content of: <p>
 msgid ""
-": We recently added the EUPL-1.2 to our list of Various Licenses and "
-"Comments About Them. This list helps users to understand whethe..."
+": I implemented three major buzzwords today in some trivial ways. * massive "
+"parallel processing * asynchronous processing * machine-learning: a self-"
+"improving pro..."
 msgstr ""
-": Recentemente adicionamos a EUPL-1.2 à nossa lista de Várias Licenças e "
-"Comentários Sobre Eles. Esta lista ajuda os usuários a..."
+": Eu implementei três grandes chavões de hoje em algumas formas triviais. * "
+"processamento massivo em paralelo * processamento assíncrono * aprendizado "
+"de máquina: um program..."
 
 #. type: Content of: <p>
-msgid "Take action! Tell US Congress not to pass the CLASSICS Act"
-msgstr ""
-"Hora de agir! Diga ao Congresso dos EUA para não aprovar o CLASSICS Act"
+msgid "Introducing Alyssa Rosenzweig, intern with the FSF tech team"
+msgstr "Apresentando Alyssa Rosenzweig, estagiário na equipe técnica da FSF"
 
 #.  TRANSLATORS: 
-#. http://www.fsf.org/blogs/community/take-action-tell-us-congress-not-to-pass-the-classics-act 
+#. http://www.fsf.org/blogs/sysadmin/introducing-alyssa-rosenzweig-intern-with-the-fsf-tech-team 
 #. type: Content of: <p>
 msgid ""
-": The 1990s have come back to haunt us as the US Congress attempts to extend "
-"the scope of copyright law again, just two decades after..."
+": Howdy there, fellow cyber denizens; &#39;tis I, Alyssa Rosenzweig, your "
+"friendly local biological life form! I&#39;m a certified..."
 msgstr ""
-": Os anos 90 voltaram para nos assombrar enquanto o Congresso dos EUA tenta "
-"estender o escopo da lei de de direitos autorais novamente, a..."
+": Olá, colegas habitantes cibernéticos; Sou eu, Alyssa Rosenzweig, sua forma "
+"de vida biológica local amigável! Eu sou certificada..."
+
+#~ msgid ""
+#~ "Richard Stallman - « Contrôle ton ordinateur pour ne pas être contrôlé ! "
+#~ "» (EduCode, Brussels, Belgium)"
+#~ msgstr ""
+#~ "Richard Stallman - Controle o seu computador para não ser controlado! "
+#~ "(EduCode, Bruxelas, Bélgica)"
+
+#~ msgid ""
+#~ ": Richard Stallman will be speaking at the EduCode 2018 (2018-08-27–29). "
+#~ "His speech will..."
+#~ msgstr ""
+#~ ": Richard Stallman falará na EduCode 2018 (2018-08-27–29). Sua fala vai..."
+
+#~ msgid "FSF Job Opportunity: Copyright and Licensing Associate"
+#~ msgstr ""
+#~ "Oportunidade de trabalho na FSF: Associado de direitos autorais e "
+#~ "licenciamento"
+
+#~ msgid ""
+#~ ": The Free Software Foundation (FSF), a Massachusetts 501(c)(3) charity "
+#~ "with a worldwide mission to protect computer user freedom, seeks..."
+#~ msgstr ""
+#~ ": A Free Software Foundation (FSF), uma instituição de caridade 501(c)(3) "
+#~ "de Massachusetts com uma missão mundial para proteger a liberdade dos "
+#~ "usuários de computadores, busca..."
+
+#~ msgid "Conference - &quot;SeaGL 2018&quot; (Seattle, WA)"
+#~ msgstr "Conferências - &quot;SeaGL 2018&quot; (Seattle, WA)"
+
+#~ msgid ""
+#~ ": The Seattle GNU/Linux Conference (November 9–10) is this year again "
+#~ "going to take place at Seattle Central College (Maps). From the website..."
+#~ msgstr ""
+#~ ": A Seattle GNU/Linux Conference (9 a 10 de novembro) será novamente este "
+#~ "ano no Seattle Central College (Mapas). Do site..."
+
+#~ msgid "GNU Guix and GuixSD 0.15.0 released"
+#~ msgstr "GNU Guix e GuixSD 0.15.0 lançado"
+
+#~ msgid ""
+#~ ": We are pleased to announce the new release of GNU Guix and GuixSD, "
+#~ "version 0.15.0! This release brings us close to what we wanted to have "
+#~ "for 1.0, so it’s..."
+#~ msgstr ""
+#~ ": Temos o prazer de anunciar o novo lançamento do GNU Guix e GuixSD, "
+#~ "versão 0.15.0! Este lançamento nos aproxima do que queremos ter para o "
+#~ "1.0, então é..."
+
+#~ msgid ""
+#~ "The European Parliament has rejected the copyright directive, for now"
+#~ msgstr ""
+#~ "O Parlamento Europeu rejeitou a diretiva dos direitos de autor, por ora"
+
+#~ msgid ""
+#~ ": The EU copyright directive in its present form has deep and wide "
+#~ "implications reaching far beyond copyright, and erodes..."
+#~ msgstr ""
+#~ ": A diretiva de direitos autorais da UE, na sua forma atual, tem "
+#~ "profundas e vastas implicações, indo muito além dos direitos de autor e..."
+
+#~ msgid "libredwg-0.5 released [alpha]"
+#~ msgstr "libredwg-0.5 lançado [alpha]"
+
+#~ msgid ""
+#~ ": See https://www.gnu.org/software/libredwg/ and http://git.savannah.gnu."
+#~ "org/cgit/libredwg.git/tree/NEWS?h=0.5 Here are the compressed sources: "
+#~ "http://ftp.gnu.org..."
+#~ msgstr ""
+#~ ": Veja https://www.gnu.org/software/libredwg/ e http://git.savannah.gnu."
+#~ "org/cgit/libredwg.git/tree/NEWS?h=0.5 Aqui estão os fontes comprimidos: "
+#~ "http://ftp.gnu.org..."
+
+#~ msgid "Take a stand before July 5th: Contact your MEP today"
+#~ msgstr ""
+#~ "Tome uma posição antes de 5 de julho: entre em contato com o seu MEP hoje"
+
+#~ msgid ""
+#~ ": We recently asked you to contact your Members of European Parliment "
+#~ "(MEPs) to express your opposition to the Copyright Directive, a propo..."
+#~ msgstr ""
+#~ ": Recentemente pedimos que você contatasse seus Membros do Parlamento "
+#~ "Europeu (MEPs) para expressar sua oposição à Diretiva de Direitos "
+#~ "Autorais, uma propo..."
+
+#~ msgid "May 2018: Photos from Brazil and Argentina"
+#~ msgstr "Maio de 2018: Fotos do Brasil e da Argentina"
+
+#~ msgid ""
+#~ ": Free Software Foundation president Richard Stallman (RMS) went on a 12-"
+#~ "city visit to Brazil and Argentina this past May and June. The trip took "
+#~ "him..."
+#~ msgstr ""
+#~ ": O presidente da Free Software Foundation, Richard Stallman (RMS), fez "
+#~ "uma visita de 12 cidades ao Brasil e à Argentina em maio e junho. A "
+#~ "viagem levou ele..."
+
+#~ msgid ""
+#~ ": We are delighted to announce GNU Guile 2.2.4, the fourth bug-fix "
+#~ "release in the new 2.2 stable release series. It fixes many bugs that had "
+#~ "accumulated over the last..."
+#~ msgstr ""
+#~ ": Estamos muito felizes em anunciar o GNU Guile 2.2.4, a quarta versão de "
+#~ "correção de bugs da nova série de lançamentos estáveis 2.2. Corrige "
+#~ "muitos bugs que se acumularam ao longo do último..."
+
+#, fuzzy
+#~| msgid "sed-4.5 released [stable]"
+#~ msgid "coreutils-8.30 released [stable]"
+#~ msgstr "sed-4.5 lançado [estável]"
+
+#~ msgid "Version 1.16"
+#~ msgstr "Versão 1.16"
+
+#~ msgid ""
+#~ ": Version 1.16 has been released. This version improves free space "
+#~ "management and fixes a long-standing bug discovered recently due to "
+#~ "introduction of strict database consistency..."
+#~ msgstr ""
+#~ ": Versão 1.16 foi lançada. Esta versão melhora o gerenciamento de espaço "
+#~ "livre e corrige um erro de longa data descoberto recentemente devido à "
+#~ "introdução da estrita consistên..."
+
+#~ msgid "European Union Public License v. 1.2 added to license list"
+#~ msgstr "European Union Public License v. 1.2 adicionada à lista de licenças"
+
+#~ msgid ""
+#~ ": We recently added the EUPL-1.2 to our list of Various Licenses and "
+#~ "Comments About Them. This list helps users to understand whethe..."
+#~ msgstr ""
+#~ ": Recentemente adicionamos a EUPL-1.2 à nossa lista de Várias Licenças e "
+#~ "Comentários Sobre Eles. Esta lista ajuda os usuários a..."
+
+#~ msgid "Take action! Tell US Congress not to pass the CLASSICS Act"
+#~ msgstr ""
+#~ "Hora de agir! Diga ao Congresso dos EUA para não aprovar o CLASSICS Act"
+
+#~ msgid ""
+#~ ": The 1990s have come back to haunt us as the US Congress attempts to "
+#~ "extend the scope of copyright law again, just two decades after..."
+#~ msgstr ""
+#~ ": Os anos 90 voltaram para nos assombrar enquanto o Congresso dos EUA "
+#~ "tenta estender o escopo da lei de de direitos autorais novamente, a..."
 
 #~ msgid "About BLAG&#39;s removal from our list of endorsed distributions"
 #~ msgstr "Sobre remoção do BLAG de nossa lista de distribuições endossada"
@@ -148,9 +291,6 @@ msgstr ""
 #~ msgstr ""
 #~ ": Junte-se à equipe do Defective by Design e celebre o Dia Internacional "
 #~ "contra o DRM (IDAD) neste dia 18 de setembro! Defec..."
-
-#~ msgid "Introducing David Hedlund, intern with the FSF tech team"
-#~ msgstr "Apresentando David Hedlund, estagiário na equipe técnica da FSF"
 
 #~ msgid ""
 #~ ": When I was 23 years young, I read the book Free as in Freedom, a "
@@ -309,13 +449,6 @@ msgstr ""
 #~ "Richard Stallman - &quot;Devemos legislar para impedir que se colete "
 #~ "dados pessoais&quot; (HOPE, Nova York, NY)"
 
-#~ msgid ""
-#~ ": Richard Stallman will be speaking at The Eleventh HOPE (2018-07-22–24). "
-#~ "His speech..."
-#~ msgstr ""
-#~ ": Richard Stallman falará na The Eleventh HOPE (2018-07-22–24). Sua "
-#~ "fala..."
-
 #~ msgid "Richard Stallman estará en La Plata, Argentina"
 #~ msgstr "Richard Stallman estará em La Plata, Argentina"
 
@@ -373,9 +506,6 @@ msgstr ""
 #~ ": Aqui na Free Software Foundation (FSF), nunca ficamos surpresos quando "
 #~ "outra violação de privacidade do Facebook..."
 
-#~ msgid "GNU Mcron 1.1.1 released"
-#~ msgstr "GNU Mcron 1.1.1 lançado"
-
 #~ msgid ""
 #~ ": We are pleased to announce the release of GNU Mcron 1.1.1, representing "
 #~ "48 commits, by 1 person over 3 weeks. About GNU Mcron is a complete "
@@ -432,9 +562,6 @@ msgstr ""
 #~ msgstr ""
 #~ ": Boston, Massachusetts, EUA -- Domingo, 1º de Abril, 2018 -- Hoje, a "
 #~ "Free Software Foundation (FSF) anuncia um ambicioso..."
-
-#~ msgid "sed-4.5 released [stable]"
-#~ msgstr "sed-4.5 lançado [estável]"
 
 #~ msgid ""
 #~ ": This is to announce sed-4.5, a stable release. There have been 110 "
