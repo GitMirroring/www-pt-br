@@ -1,15 +1,16 @@
-# Brazilian Portuguese translation of http://www.gnu.org/licenses/licenses.html
-# Copyright (C) 2001-2016 Free Software Foundation, Inc.
+# Brazilian Portuguese translation of https://www.gnu.org/licenses/licenses.html
+# Copyright (C) 2001-2018 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Fernado Lozano, 2001.
 # Yuri da Silva <yuri.silva.31.charles AT gmail.com>, 2014.
 # Daniel Pimentel <d4n1@d4n1.org>, 2016.
 # Rafael Fontenelle <rafaelff@gnome.org>, 2016, 2018.
+# Diego Viola <diego.viola@gmail.com>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: licenses.html\n"
 "POT-Creation-Date: 2018-04-19 02:56+0000\n"
-"PO-Revision-Date: 2018-04-19 06:46-0300\n"
+"PO-Revision-Date: 2018-07-18 08:24-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -33,14 +34,14 @@ msgstr "Conteúdo"
 
 #. type: Content of: <div><ul><li>
 msgid "<a href=\"#Evaluation\">Evaluating Licenses</a>"
-msgstr "<a href=\"#Evaluation\">Licenças Avaliadas</a>"
+msgstr "<a href=\"#Evaluation\">Licenças avaliadas</a>"
 
 #. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"#CommonResources\">Common Resources for our Software Licenses</a>"
 msgstr ""
-"<a href=\"#CommonResources\">Recursos comuns para nossas Licenças de "
-"Software</a>"
+"<a href=\"#CommonResources\">Recursos comuns para nossas licenças de "
+"software</a>"
 
 #. type: Content of: <div><ul><li>
 msgid "<a href=\"#GPL\">The GNU General Public License</a>"
@@ -48,7 +49,7 @@ msgstr "<a href=\"#GPL\">A Licença Pública Geral GNU</a>"
 
 #. type: Content of: <div><ul><li>
 msgid "<a href=\"#LGPL\">The GNU Lesser General Public License</a>"
-msgstr "<a href=\"#LGPL\">A Licença Pública Geral Lesser GNU</a>"
+msgstr "<a href=\"#LGPL\">A Licença Pública Geral Menor GNU</a>"
 
 #. type: Content of: <div><ul><li>
 msgid "<a href=\"#AGPL\">The GNU Affero General Public License</a>"
@@ -60,31 +61,31 @@ msgstr "<a href=\"#FDL\">A Licença de Documentação Livre GNU</a>"
 
 #. type: Content of: <div><ul><li>
 msgid "<a href=\"#Exceptions\">Exceptions to GNU Licenses</a>"
-msgstr "<a href=\"#Exceptions\">Exceções para as Licenças GNU</a>"
+msgstr "<a href=\"#Exceptions\">Exceções para as licenças GNU</a>"
 
 #. type: Content of: <div><ul><li>
 msgid "<a href=\"#LicenseURLs\">License URLs</a>"
-msgstr "<a href=\"#LicenseURLs\">URLs das Licenças</a>"
+msgstr "<a href=\"#LicenseURLs\">URLs das licenças</a>"
 
 #. type: Content of: <div><ul><li>
 msgid "<a href=\"#UnofficialTransl\">Unofficial Translations</a>"
-msgstr "<a href=\"#UnofficialTransl\">Traduções extra-oficiais</a>"
+msgstr "<a href=\"#UnofficialTransl\">Traduções não oficiais</a>"
 
 #. type: Content of: <div><ul><li>
 msgid "<a href=\"#VerbatimCopying\">Verbatim Copying and Distribution</a>"
-msgstr "<a href=\"#VerbatimCopying\">Distribuição e Cópia Verbatim</a>"
+msgstr "<a href=\"#VerbatimCopying\">Distribuição e cópia verbatim</a>"
 
 #. type: Content of: <div><ul><li>
 msgid "<a href=\"#FSLicenses\">List of Free Software Licenses</a>"
-msgstr "<a href=\"#FSLicenses\">Lista de Licenças de Software Livre</a>"
+msgstr "<a href=\"#FSLicenses\">Lista de licenças de software livre</a>"
 
 #. type: Content of: <div><ul><li>
 msgid "<a href=\"#WhatIsCopyleft\">What Is Copyleft?</a>"
-msgstr "<a href=\"#WhatIsCopyleft\">O que é Copyleft?</a>"
+msgstr "<a href=\"#WhatIsCopyleft\">O que é copyleft?</a>"
 
 #. type: Content of: <div><ul><li>
 msgid "<a href=\"#OtherWorks\">Licenses for Other Types of Works</a>"
-msgstr "<a href=\"#OtherWorks\">Licenças para Outros Tipos de Trabalhos</a>"
+msgstr "<a href=\"#OtherWorks\">Licenças para outros tipos de trabalhos</a>"
 
 #. type: Content of: <p>
 msgid ""
@@ -133,11 +134,11 @@ msgid ""
 "copyleft licenses</a>."
 msgstr ""
 "Se você iniciou um novo projeto e você não tem certeza qual licença usar, <a "
-"href=\"/licenses/license-recommendations.html\">&ldquo;Como escolher uma "
-"licença para seu prórprio trabalho&rdquo;</a> detalha nossas recomendações "
-"em um guia simples e fácil. Se você só quer uma lista de referência rápida, "
-"nós temos uma página chamada de <a href=\"/licenses/recommended-copylefts."
-"html\">licenças de copyleft recomendada</a>."
+"href=\"/licenses/license-recommendations.html\">“Como escolher uma licença "
+"para seu próprio trabalho”</a> detalha nossas recomendações em um guia "
+"simples e fácil. Se você só quer uma lista de referência rápida, nós temos "
+"uma página chamada de <a href=\"/licenses/recommended-copylefts.html"
+"\">licenças de copyleft recomendada</a>."
 
 #. type: Content of: <p>
 msgid ""
@@ -149,7 +150,7 @@ msgstr ""
 
 #. type: Content of: <h3>
 msgid "Evaluating Licenses"
-msgstr "Licenças Avaliadas"
+msgstr "Licenças avaliadas"
 
 #. type: Content of: <p>
 msgid ""
@@ -161,25 +162,25 @@ msgid ""
 "review it.  If the license has some unusual conditions, they may pose "
 "difficult philosophical problems, so we can't promise to decide quickly."
 msgstr ""
-"Se você venho através de uma licença não mencionada em nossa <a href=\"/"
-"licenses/license-list.html\">lista de licença</a>, você pode nos perguntar "
-"para que seja avaliada como uma licença livre. Por favor enviei uma cópia do "
-"email da licença (e a URL onde você encontrou isso) para <a href=\"mailto:"
+"Se você encontrar uma licença não mencionada em nossa <a href=\"/licenses/"
+"license-list.html\">lista de licença</a>, você pode nos solicitar que seja "
+"avaliada como uma licença livre. Por favor, envie uma cópia do e-mail da "
+"licença (e a URL onde você encontrou isso) para <a href=\"mailto:"
 "licensing@fsf.org\">licensing@fsf.org</a>. Nossos especialistas em licenças "
-"do quadro de funcionários de diretores irão rever isso. Se a licença tem "
-"alguma condição não usual, eles podem colocar dificuldades de problemas "
-"filosóficos, então nós não podemos prometer decidir rapidamente."
+"do quadro de funcionários e da diretoria irão avaliá-la. Se a licença tem "
+"condições incomuns, elas podem apresentar problemas filosóficos "
+"dificuldades, então nós não podemos prometer decidir rapidamente."
 
 #. type: Content of: <h3>
 msgid "Common Resources for our Software Licenses"
-msgstr "Recursos Comuns para nossas Licenças de Software"
+msgstr "Recursos comuns para nossas licenças de software"
 
 #. type: Content of: <p>
 msgid ""
 "We have a number of resources to help people understand and use our various "
 "licenses:"
 msgstr ""
-"Nós temos um número de recursos para ajudar pessoas a entender e usar nossas "
+"Nós temos alguns recursos para ajudar pessoas a entender e usar nossas "
 "várias licenças:"
 
 #. type: Content of: <ul><li>
@@ -187,7 +188,7 @@ msgid ""
 "<a href=\"/licenses/gpl-faq.html\">Frequently Asked Questions about the GNU "
 "licenses</a>"
 msgstr ""
-"<a href=\"/licenses/gpl-faq.html\">Questões Feitas Freqüentemente sobre as "
+"<a href=\"/licenses/gpl-faq.html\">Questões Feitas Frequentemente sobre as "
 "licenças GNU</a>"
 
 #. type: Content of: <ul><li>
@@ -212,7 +213,7 @@ msgid ""
 "Relicensing</a>"
 msgstr ""
 "<a href=\"/licenses/license-compatibility.html\">Compatibilidade de Licença "
-"e Relicensiamento</a>"
+"e Relicenciamento</a>"
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -250,8 +251,8 @@ msgid ""
 "<a href=\"http://www.fsf.org/licensing\">The FSF Licensing &amp; Compliance "
 "Lab</a>"
 msgstr ""
-"<a href=\"http://www.fsf.org/licensing\">O licenciamento da FSF &amp; "
-"Laboratório de Conformidade</a>"
+"<a href=\"http://www.fsf.org/licensing\">O laboratório de licenciamento "
+"&amp; conformidade da FSF</a>"
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -271,10 +272,10 @@ msgid ""
 "used by most GNU programs, and by more than half of all free software "
 "packages.  The latest version is version 3."
 msgstr ""
-"A Licença Pública Geral GNU é frequentemente chamada abreviadamente de GNU "
-"GPL; ela é utilizada pela maioria dos programas GNU, assim como mais da "
-"metade de todos os outros programas de software livre. A versão mais recente "
-"é a versão 3."
+"A Licença Pública Geral GNU <i>(GNU General Public License)</i> é "
+"frequentemente chamada abreviadamente de GNU GPL; ela é utilizada pela "
+"maioria dos programas GNU, assim como mais da metade de todos os outros "
+"programas de software livre. A versão mais recente é a versão 3."
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -293,8 +294,8 @@ msgstr ""
 "\">v4</a> ou <a href=\"/licenses/gpl.xml\">v5</a>, <a href=\"/licenses/gpl."
 "texi\">Texinfo</a>, <a href=\"/licenses/gpl.tex\">LaTeX</a>, <a href=\"/"
 "licenses/gpl.md\">Markdown</a>, e <a href=\"/licenses/gpl.rtf\">RTF</a>. "
-"Esses documentos não são formatados para ser publicado isoladamente, e são "
-"intendido para ser incluído em outro documento."
+"Esses documentos não são formatados para serem publicados isoladamente, e a "
+"intenção é que sejam incluídos em outro documento."
 
 #. type: Content of: <ul><li>
 msgid "<a href=\"/licenses/quick-guide-gplv3.html\">A Quick Guide to GPLv3</a>"
@@ -310,15 +311,16 @@ msgstr ""
 
 #. type: Content of: <h3>
 msgid "The GNU Lesser General Public License"
-msgstr "A Licença Pública Geral Lesser GNU"
+msgstr "A Licença Pública Geral Menor GNU"
 
 #. type: Content of: <p>
 msgid ""
 "The GNU Lesser General Public License is used by a few (not by any means "
 "all) GNU libraries.  The latest version is version 3."
 msgstr ""
-"A Licença Pública Geral Lesser GNU é utilizada em algumas (mas não todas) as "
-"bibliotecas GNU. A versão mais recente é a versão 3."
+"A Licença Pública Geral Menor GNU <i>(GNU Lesser General Public License)</i> "
+"é utilizada em algumas (mas não todas) as bibliotecas GNU. A versão mais "
+"recente é a versão 3."
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -330,13 +332,13 @@ msgid ""
 "These documents are not formatted for standalone publishing, and are "
 "intended to be included in another document."
 msgstr ""
-"O texto da Licença Pública Geral Lesser GNU está disponível nesses formatos: "
+"O texto da Licença Pública Geral Menor GNU está disponível nesses formatos: "
 "<a href=\"/licenses/lgpl.html\">HTML</a>, <a href=\"/licenses/lgpl.txt"
 "\">texto plano </a>, <a href=\"/licenses/lgpl.dbk\">Docbook</a>, <a href=\"/"
 "licenses/lgpl.texi\">Texinfo</a>, <a href=\"/licenses/lgpl.md\">Markdown</"
 "a>, <a href=\"/licenses/lgpl.odt\">ODF</a>, e <a href=\"/licenses/lgpl.rtf"
-"\">RTF</a>. Esses documentos não estão estão formatados para serem "
-"publicados sozinhos, e são pretendido ser incluído em outro documento."
+"\">RTF</a>. Esses documentos não são formatados para serem publicados "
+"isoladamente, e a intenção é que sejam incluídos em outro documento."
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -366,11 +368,12 @@ msgid ""
 "consider using the GNU AGPL for any software which will commonly be run over "
 "a network.  The latest version is version 3."
 msgstr ""
-"A Licença Pública Geral Affero GNU é baseada na GNU GPL, mas tem um termo "
-"adicional que permite os usuários que interagir com o software licenciado em "
-"uma rede receber o fonte daquele programa. Nós recomendamos que as pessoas "
-"considere usar a GNU AGPL para qualquer software que irá comumente ser "
-"executada em rede. A última versão é a 3."
+"A Licença Pública Geral Affero GNU <i>(GNU Affero General Public License)</"
+"i> é baseada na GNU GPL, mas tem um termo adicional que permite os usuários "
+"que interagir com o software licenciado em uma rede receber o fonte daquele "
+"programa. Nós recomendamos que as pessoas considere usar a GNU AGPL para "
+"qualquer software que irá comumente ser executada em rede. A última versão é "
+"a 3."
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -383,13 +386,13 @@ msgid ""
 "formatted for standalone publishing, and are intended to be included in "
 "another document."
 msgstr ""
-"O texto da Licença Pública Geral Affero GNU está disponível nesses formatos:"
+"O texto da Licença Pública Geral Affero GNU está disponível nesses formatos: "
 "<a href=\"/licenses/agpl.html\">HTML</a>, <a href=\"/licenses/agpl.txt"
 "\">texto plano</a>, <a href=\"/licenses/agpl.dbk\">Docbook</a>, <a href=\"/"
 "licenses/agpl.texi\">Texinfo</a>, <a href=\"/licenses/agpl.tex\">LaTeX</a>, "
 "<a href=\"/licenses/agpl.md\">Markdown</a>, <a href=\"/licenses/agpl.odt"
 "\">ODF</a>, e <a href=\"/licenses/agpl.rtf\">RTF</a>. Esses documentos não "
-"são formatados para serem publicados sozinhos, e estão intencionados a serem "
+"são formatados para serem publicados isoladamente, e a intenção é que sejam "
 "incluídos em outro documento."
 
 #. type: Content of: <ul><li>
@@ -407,10 +410,11 @@ msgid ""
 "freedom to copy and redistribute it, with or without modifications, either "
 "commercially or non-commercially.  The latest version is 1.3."
 msgstr ""
-"A  Licença de Documentação Livre GNU é uma forma de copyleft criada para uso "
-"em manuais, livros ou outros documentos para garantir que qualquer um tem a "
-"real liberdade de copiar e redistribui-los, com ou sem modificações, tanto "
-"comercial quanto não comercialmente. A versão mais recente é versão 1.3."
+"A Licença de Documentação Livre GNU <i>(GNU Free Documentation License)</i> "
+"é uma forma de copyleft criada para uso em manuais, livros ou outros "
+"documentos para garantir que qualquer um tem a real liberdade de copiar e "
+"redistribui-los, com ou sem modificações, tanto comercial quanto não "
+"comercialmente. A versão mais recente é versão 1.3."
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -423,15 +427,15 @@ msgid ""
 "licenses/fdl.rtf\">RTF</a>.  These documents are not formatted for "
 "standalone publishing, and are intended to be included in another document."
 msgstr ""
-"O texto da Licença da Documentação Livre GNU está disponível nesses "
+"O texto da Licença de Documentação Livre GNU está disponível nesses "
 "formatos: <a href=\"/licenses/fdl.html\">HTML</a>, <a href=\"/licenses/fdl."
 "txt\">texto plano</a>, Docbook <a href=\"/licenses/fdl.xml\">v4</a> ou <a "
 "href=\"/licenses/fdl-db5.xml\">v5</a>, <a href=\"/licenses/fdl.texi"
 "\">Texinfo</a>, <a href=\"/licenses/fdl.tex\">LaTeX</a>, <a href=\"/licenses/"
 "fdl.md\">Markdown</a>, <a href=\"/licenses/fdl.odt\">ODF</a>, e <a href=\"/"
-"licenses/fdl.rtf\">RTF</a>. Esses documentos não estão formatados para serem "
-"publicados sozinhos, e são intencionados a serem incluídos em outros "
-"documentos."
+"licenses/fdl.rtf\">RTF</a>. Esses documentos não são formatados para serem "
+"publicados isoladamente, e a intenção é que sejam incluídos em outro "
+"documento."
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -471,7 +475,7 @@ msgstr ""
 
 #. type: Content of: <h3>
 msgid "Exceptions to GNU Licenses"
-msgstr "Exceções para as Licenças GNU"
+msgstr "Exceções para as licenças GNU"
 
 #. type: Content of: <p>
 msgid ""
@@ -483,9 +487,9 @@ msgid ""
 msgstr ""
 "Alguns programas GNU tem permissões adicionais ou exceções especiais para "
 "termos específicos em uma licença principal. Desde que algum desses sejam "
-"comumente usado ou inspire muitas quesões deles próprios, nós temos iniciado "
-"uma coleção na nossa <a href=\"/licenses/exceptions.html\">página de "
-"exceções</a>."
+"comumente usado ou inspire muitas questões deles próprios, nós temos "
+"iniciado uma coleção na nossa <a href=\"/licenses/exceptions.html\">página "
+"de exceções</a>."
 
 #. type: Content of: <h3>
 msgid "License URLs"
@@ -503,7 +507,7 @@ msgstr ""
 "versão; consequentemente as URLs padrões como <tt>http://www.gnu.org/"
 "licenses/gpl.html</tt> não tem um número de versão. Ocasionalmente, contudo, "
 "você pode querer ligar para uma versão específica da licença dada. Nessas "
-"situações, você pode usar os seguintes links [<a href=\"#urlskip\">skip "
+"situações, você pode usar os seguintes links [<a href=\"#urlskip\">pular "
 "links</a>]:"
 
 #. type: Content of: <dl><dt>
@@ -522,7 +526,7 @@ msgstr ""
 
 #. type: Content of: <dl><dt>
 msgid "GNU Lesser General Public License (LGPL)"
-msgstr "Licença Pública Geral Lesser GNU (LGPL)"
+msgstr "Licença Pública Geral Menor GNU (LGPL)"
 
 #. type: Content of: <dl><dd>
 msgid ""
@@ -543,10 +547,10 @@ msgid ""
 "version 1</a> is not a GNU license, but it was designed to serve a purpose "
 "much like the GNU AGPL's.)"
 msgstr ""
-"<a href=\"http://www.gnu.org/licenses/agpl-3.0.html\">GNU AGPLv3</a> (The <a "
+"<a href=\"http://www.gnu.org/licenses/agpl-3.0.html\">GNU AGPLv3</a> (A <a "
 "href=\"http://www.affero.org/oagpl.html\">Licença Pública Geral Affero "
-"versão 1</a> não é uma licença GNU, mas ela é projetada para servir as "
-"razões como a GNU AGPL.)"
+"versão 1</a> não é uma licença GNU, mas ela foi projetada para servir para "
+"propósitos como os da GNU AGPL.)"
 
 #. type: Content of: <dl><dt>
 msgid "GNU Free Documentation License (FDL)"
@@ -571,9 +575,9 @@ msgid ""
 msgstr ""
 "<a name=\"urlskip\"></a>Ligações estável para os formatos alternativos das "
 "licenças estão disponíveis nas respectivas páginas. Nem toda versão de toda "
-"licença é disponível em todos os formatos. Se você precisa de uma daquela "
-"que está faltando, porfavor enviei um <a href=\"mailto:licensing@gnu.org"
-"\">email para nós</a>."
+"licença é disponível em todos os formatos. Se você precisa de uma que está "
+"faltando, por favor enviei um <a href=\"mailto:licensing@gnu.org\">e-mail "
+"para nós</a>."
 
 #. type: Content of: <p>
 msgid "See also the <a href=\"old-licenses/\">old licenses page</a>."
@@ -581,7 +585,7 @@ msgstr "Ver também a <a href=\"old-licenses/\">pagina de antigas licenças</a>.
 
 #. type: Content of: <h3>
 msgid "Unofficial Translations"
-msgstr "Traduções Extra-Oficiais"
+msgstr "Traduções não oficiais"
 
 #. type: Content of: <p>
 msgid ""
@@ -595,25 +599,25 @@ msgstr ""
 "verdadeiros termos de distribuição para os programas do GNU. Mas para ajudar "
 "as pessoas a entender melhor as licenças, nós damos permissão para publicar "
 "traduções em outros idiomas se as traduções seguirem as nossas regras para "
-"traduções extra-oficiais."
+"traduções não oficiais."
 
 #. type: Content of: <ul><li>
 msgid ""
 "<a href=\"/licenses/translations.html\">List of unofficial translations</a>"
 msgstr ""
-"<a href=\"/licenses/translations.html\">Lista de traduções extra-oficiais</a>"
+"<a href=\"/licenses/translations.html\">Lista de traduções não oficiais</a>"
 
 #. type: Content of: <ul><li>
 msgid ""
 "<a href=\"/licenses/translations.html#rules\">How to create an unofficial "
 "translation</a>"
 msgstr ""
-"<a href=\"/licenses/translations.html#rules\">Como criar uma tradução extra-"
+"<a href=\"/licenses/translations.html#rules\">Como criar uma tradução não "
 "oficial</a>"
 
 #. type: Content of: <h3>
 msgid "Verbatim Copying and Distribution"
-msgstr "Distribuição e Cópia Verbatim"
+msgstr "Distribuição e cópia verbatim"
 
 #. type: Content of: <p>
 msgid ""
@@ -622,26 +626,28 @@ msgid ""
 "NoDerivs 4.0 International License</a>.  It used to be (and for a few pages "
 "still is):"
 msgstr ""
-"Os termos padrão do copyright para as páginas web GNU agora é <a href="
-"\"http://creativecommons.org/licenses/by-nd/4.0/\">Creative Commons "
-"Attribution-NoDerivs 4.0 International License</a>. Usada para ser (e para "
-"poucas páginas que ainda está):"
+"Os termos padrão do copyright para as páginas web GNU agora é a <a href="
+"\"http://creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Licença "
+"Creative Commons Atribuição-SemDerivações 4.0 Internacional</a>. Costumava "
+"ser (e para poucas páginas que ainda está):\n"
+"<a id=\"TransNote1-rev\"></a>"
 
 #. type: Content of: <blockquote><p>
 msgid ""
 "Verbatim copying and distribution of this entire article are permitted "
 "worldwide, without royalty, in any medium, provided this notice is preserved."
 msgstr ""
-"Distribuição e cópia Verbatim desse artigo inteiro são permitído no mundo "
-"inteiro, sem royalty, em qualquer meio, provido essa nota é preservada."
+"Verbatim copying and distribution of this entire article are permitted "
+"worldwide, without royalty, in any medium, provided this notice is preserved."
+"<sup><a href=\"#TransNote1\">1</a></sup>"
 
 #. type: Content of: <p>
 msgid ""
 "Please note the following commentary about this &ldquo;verbatim "
 "license&rdquo; by Eben Moglen:"
 msgstr ""
-"Por favor notifique o seguinte comentário sobre essa &ldquo;licença "
-"verbatim&rdquo; por Eben Moglen:"
+"Por favor, observe o seguinte comentário sobre essa “licença verbatim” por "
+"Eben Moglen:"
 
 #. type: Content of: <blockquote><p>
 msgid ""
@@ -651,15 +657,15 @@ msgid ""
 "non-hyperlinked media (as notes or some other form of printed URL in non-"
 "HTML media) is required.&rdquo;"
 msgstr ""
-"&ldquo;Nossa intenção é usar a frase &lsquo;copiando verbatim em qualquer "
-"meio&rsquo; não requer retenção do título da página e rodapés ou outra "
-"característica de formatação. Retenção de weblinks em ambos meios "
-"hiperligado ou não (como nota ou algum outra forma de imprimir a URL em "
-"mídias não HTML) é requerido.&rdquo;"
+"“Nossa intenção ao usar a frase &lsquo;cópia verbatim em qualquer "
+"meio&rsquo; não é exigir retenção dos título e rodapés de páginas ou outra "
+"característica de formatação. Retenção de weblinks em ambos meios com ou sem "
+"hiperlink (como notas ou algum outra forma de URL impressa em mídias não "
+"HTML) é exigido.”"
 
 #. type: Content of: <h3>
 msgid "List of Free Software Licenses"
-msgstr "Lista de Licenças de Software Livre"
+msgstr "Lista de licenças de software livre"
 
 #. type: Content of: <ul><li><p>
 msgid ""
@@ -669,7 +675,7 @@ msgid ""
 "work for users in understanding the licenses; we may be able to help you "
 "find an existing Free Software license that meets your needs."
 msgstr ""
-"Se você está comtemplando escrever uma nova licença, por favor contate a FSF "
+"Se você está considerando escrever uma nova licença, por favor contate a FSF "
 "escrevendo para <a href=\"mailto:licensing@fsf.org\">&lt;licensing@fsf."
 "org&gt;</a>. A proliferação de diferente licenças de software livre "
 "significa aumentar o trabalho para os usuários entender as licenças; nós "
@@ -688,7 +694,7 @@ msgstr ""
 
 #. type: Content of: <h3>
 msgid "What Is Copyleft?"
-msgstr "O Que É Copyleft?"
+msgstr "O que é copyleft?"
 
 #. type: Content of: <p>
 msgid ""
@@ -698,7 +704,7 @@ msgid ""
 msgstr ""
 "<a href=\"/copyleft/copyleft.html\"><em>Copyleft</em></a> é um método legal "
 "de tornar um programa em software livre e exigir que todas as versões "
-"modificadas e extendidas do programa também sejam software livre."
+"modificadas e estendidas do programa também sejam software livre."
 
 #. type: Content of: <p>
 msgid ""
@@ -734,13 +740,13 @@ msgid ""
 "pass along the freedom to further copy and change it.  Copyleft guarantees "
 "that every user has freedom."
 msgstr ""
-"No <a href=\"/gnu/thegnuproject.html\">Projeto GNU</a>, nosso intento é dat "
+"No <a href=\"/gnu/thegnuproject.html\">Projeto GNU</a>, nossa intenção é dar "
 "a <em>todos</em> os usuários a liberdade de redistribuir e modificar o "
 "software GNU. Se intermediários pudessem retirar as liberdades, nós "
 "poderíamos ter muitos usuários, mas não teríamos liberdade. Por isso, em vez "
-"de colocar o GNU em domínio público, nós o tornamos “copyleft”. Copyleft dis "
+"de colocar o GNU em domínio público, nós o tornamos “copyleft”. Copyleft diz "
 "que qualquer um que redistribui o software, com ou sem modificações, tem que "
-"passar adiante as liberdades de fazer novas cópias e modifica-las. O "
+"passar adiante as liberdades de fazer novas cópias e modificá-las. O "
 "Copyleft garante que todos os usuários tenham liberdade."
 
 #. type: Content of: <p>
@@ -766,7 +772,7 @@ msgid ""
 msgstr ""
 "O Copyleft também ajuda os programadores que desejam contribuir com <a href="
 "\"/software/software.html#develop\">melhorias</a> para o <a href=\"/"
-"philosophy/free-sw.html\">software livre</a> a obterem permissão de faze-lo. "
+"philosophy/free-sw.html\">software livre</a> a obterem permissão de fazê-lo. "
 "Esses programadores frequentemente trabalham para empresas ou universidades "
 "que fariam qualquer coisa para ganhar mais dinheiro. Um programador pode "
 "desejar contribuir com modificações para a comunidade, mas seu empregador "
@@ -779,8 +785,8 @@ msgid ""
 "release it as free software rather than throw it away."
 msgstr ""
 "Quando nós explicamos ao empregador que é ilegal distribuir a versão "
-"melhorada exceto como software livre, o empregador geralmente decide libera-"
-"la como software livre em vez de descarta-la."
+"melhorada exceto como software livre, o empregador geralmente decide liberá-"
+"la como software livre em vez de descartá-la."
 
 #. type: Content of: <p>
 msgid ""
@@ -808,7 +814,7 @@ msgstr ""
 "as liberdades das pessoas; nós utilizamos o copyright para garantir essas "
 "liberdades. É por isso que nós invertemos o nome, mudando "
 "“copyright” (“direitos de cópia”, “cópia direita”) para "
-"“copyleft” (“deixamos copiar”, “cópia esquerda”)."
+"“copyleft” (“esquerda de cópia”, “cópia esquerda”)."
 
 #. type: Content of: <p>
 msgid ""
@@ -820,7 +826,7 @@ msgstr ""
 "O Copyleft é um conceito genérico; existem vários modos de preencher os "
 "detalhes. No Projeto GNU, os termos específicos de distribuição que nós "
 "utilizamos estão contidos na Licença Pública Geral GNU, na Licença Pública "
-"Geral Lesser GNU e na Licença de Documentação Livre GNU."
+"Geral Menor GNU e na Licença de Documentação Livre GNU."
 
 #. type: Content of: <p>
 msgid ""
@@ -839,11 +845,11 @@ msgid ""
 "is an integral whole, and partial copies are not permitted.  (Likewise for "
 "the LGPL, AGPL, and FDL.)"
 msgstr ""
-"A GPL do GNU foi desenhada de modo que ela seja facilmente aplicável ao seu "
+"A GNU GPL foi desenhada de modo que ela seja facilmente aplicável ao seu "
 "próprio programa se você é o detentor do copyright. Você não tem que "
 "modificar a GNU GPL para fazer isso, apenas adicione notas ao seu programa "
 "que se refiram adequadamente à GPL. Por favor note que você deve utilizar o "
-"texto completo da GPL, se você utiliza-la. Ele é um conjunto indivisível, e "
+"texto completo da GPL, se você utilizá-la. Ele é um conjunto indivisível, e "
 "cópias parciais não são permitidas. (O mesmo vale para a LGPL, AGPL e FDL)."
 
 #. type: Content of: <p>
@@ -858,13 +864,13 @@ msgstr ""
 "Utilizar os mesmos termos de distribuição para vários programas diferentes "
 "torna mais fácil copiar código entre eles. Já que eles tem os mesmos termos "
 "de distribuição, não há necessidade de verificar se os termos são "
-"compatíveis. A LGPL inclui um termos que deixa você alterar os termos de "
+"compatíveis. A LGPL inclui termos que deixa você alterar os termos de "
 "distribuição para a GPL original, de modo que você possa copiar código de um "
 "programa LGPL para um programa coberto pela GPL."
 
 #. type: Content of: <h3>
 msgid "Licenses for Other Types of Works"
-msgstr "Licenças para Outros Tipos de Trabalhos"
+msgstr "Licenças para outros tipos de trabalhos"
 
 #. type: Content of: <p>
 msgid ""
@@ -888,9 +894,9 @@ msgid ""
 "verbatim copying only&rdquo; license stated above."
 msgstr ""
 "Para ensaios de opinião e artigos científicos, nós recomendamos ou a <a href="
-"\"http://creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons "
-"Attribution-NoDerivs 3.0 United States License</a>, ou um simples licença "
-"&ldquo;verbatim literal somente&rdquo; iniciada acima."
+"\"http://creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">licença "
+"Creative Commons Atribuição-SemDerivações 3.0 Estados Unidos</a>, ou uma "
+"licença “cópia verbatim apenas” simples iniciada acima."
 
 #. type: Content of: <p>
 msgid ""
@@ -898,14 +904,27 @@ msgid ""
 "free, but if you want to make one free, we recommend the <a href=\"//"
 "directory.fsf.org/wiki/License:Free-Art-L-v1.3\">Free Art License</a>."
 msgstr ""
-"Nós não levamos a posição que artistas ou trabalhos de entreterimento deve "
+"Nós não levamos a posição que artistas ou trabalhos de entretenimento deve "
 "ser de graça, mas se você quer fazê-lo, nós recomendamos a <a href=\"//"
 "directory.fsf.org/wiki/License:Free-Art-L-v1.3\">Licença de Arte livre</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
-msgstr " "
+msgstr ""
+"<b>Nota do tradutor</b>:\n"
+"<ol>\n"
+"<li>\n"
+"<a id=\"TransNote1\" href=\"#TransNote1-rev\" class=\"nounderline\">&#8593;</"
+"a> \n"
+"Em português, os termos de direitos autorais das páginas web GNU seriam "
+"equivalente a:\n"
+"<blockquote><p>\n"
+"Distribuição e cópia verbatim desse artigo inteiro são permitido no mundo "
+"inteiro, sem royalty, em qualquer meio, provido essa nota é preservada.\n"
+"</p></blockquote>\n"
+"</li>\n"
+"</ol>"
 
 # type: Content of: <div><p>
 #. type: Content of: <div><div><p>

@@ -1,0 +1,308 @@
+# Brazilian Portuguese translation of https://www.gnu.org/server/source/source.html
+# Copyright (C) 2018 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: source.html\n"
+"POT-Creation-Date: 2017-09-20 10:56+0000\n"
+"PO-Revision-Date: 2018-07-26 05:04-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid "Web Server Utility Sources - GNU Project - Free Software Foundation"
+msgstr ""
+"Fontes de utilitários de servidor web - Projeto GNU - Free Software "
+"Foundation"
+
+#. type: Content of: <h2>
+msgid "Web Server Utility Sources"
+msgstr "Fontes de utilitários de servidor web"
+
+#. type: Content of: <p>
+msgid "(This page needs updating.  Please update it.)"
+msgstr "(Essa página precisa ser atualizada. Por favor, atualize-a.)"
+
+#. type: Content of: <p>
+msgid ""
+"To maintain the GNU project web server, we use a lot of different free "
+"software. Most of them are already available on the Internet, but we also "
+"have some software which has been developed by GNU volunteers and has never "
+"been released as GNU software, because they are somewhat specific to our "
+"needs.  Still, we feel that those programs should also be made available so "
+"that others can make use of them.  This page is a list of such programs."
+msgstr ""
+"Para manter o servidor web do projeto GNU, usamos muitos softwares livres "
+"diferentes. A maioria deles já está disponível na Internet, mas também temos "
+"alguns softwares que foram desenvolvidos por voluntários GNU e nunca foram "
+"lançados como software GNU, porque são específicos para nossas necessidades. "
+"Ainda assim, sentimos que esses programas também devem ser disponibilizados "
+"para que outros possam utilizá-los. Esta página é uma lista de tais "
+"programas."
+
+#. type: Content of: <h3>
+msgid "<a id=\"cvs\">CVS Tree</a>"
+msgstr "<a id=\"cvs\">Árvore CVS</a>"
+
+#. type: Content of: <p>
+msgid ""
+"We recommend storing the scripts in the usual www CVS tree. This allows "
+"easier sharing between GNU machines that maintain a full or partial image of "
+"the www.gnu.org web.  See the <a href=\"https://savannah.gnu.org/cvs/?"
+"group=www\">Savannah CVS page</a>, the &ldquo;Webpages repository&rdquo; "
+"information."
+msgstr ""
+"Recomendamos que você armazene os scripts na árvore CVS www usual. Isso "
+"facilita o compartilhamento entre máquinas GNU que mantêm uma imagem "
+"completa ou parcial da web www.gnu.org. Consulte a <a href=\"https://"
+"savannah.gnu.org/cvs/?group=www\">página CVS do Savannah</a>, a informação "
+"sobre “repositório de páginas web”."
+
+#. type: Content of: <h3>
+msgid "<a id=\"linc\">linc</a>"
+msgstr "<a id=\"linc\">linc</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/server/source/linc/?"
+"root=www\">Source code</a>"
+msgstr ""
+"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/server/source/linc/?"
+"root=www\">Código-fonte</a>"
+
+#. type: Content of: <ul><li>
+msgid "Author: <a href=\"mailto:wwj@gnu.org\">Wac&#322;aw Jacek</a>"
+msgstr "Autor: <a href=\"mailto:wwj@gnu.org\">Wac&#322;aw Jacek</a>"
+
+#. type: Content of: <p>
+msgid ""
+"LINC stands for &ldquo;LINC Is Not Checklink&rdquo;.  It scans our web site "
+"(or any site) and makes a report of <a href=\"linc/linc-report.html\">broken "
+"links on our web site</a>.  It runs weekly on fencepost from user gnun's "
+"cron."
+msgstr ""
+"LINC significa “LINC is Not Checklink”. Ele verifica nosso site (ou qualquer "
+"site) e faz um relatório de <a href=\"linc/linc-report.html\">links "
+"quebrados em nosso site</a>. Ele é executado semanalmente no servidor "
+"“fencepost” pelo cron do usuário gnun."
+
+#. type: Content of: <h3>
+msgid "<a id=\"planetrss\">planetrss.pl</a>"
+msgstr "<a id=\"planetrss\">planetrss.pl</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/server/source/"
+"planetrss/?root=www\">Source code</a>"
+msgstr ""
+"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/server/source/"
+"planetrss/?root=www\">Código-fonte</a>"
+
+#. type: Content of: <ul><li>
+msgid "Author: <a href=\"mailto:shailesh@gnu.org\">Shailesh Ghadge</a>"
+msgstr "Autor: <a href=\"mailto:shailesh@gnu.org\">Shailesh Ghadge</a>"
+
+#. type: Content of: <p>
+msgid ""
+"This Perl script fetches and saves N feeds from <a href=\"http://planet.gnu."
+"org.\">planet.gnu.org</a>, using the RSS feed http://planet.gnu.org/rss20."
+"xml, in html format.  It is then included in the homepage.  Each feed is "
+"truncated to M characters."
+msgstr ""
+"Este script Perl busca e salva N feeds do <a href=\"http://planet.gnu.org."
+"\">planet.gnu.org</a>, usando o feed RSS http://planet.gnu.org/rss20.xml, em "
+"formato html. Em seguida, é incluído na página inicial. Cada feed é truncado "
+"em M caracteres."
+
+#. type: Content of: <h3>
+msgid "<a id=\"sitemap-generator\">sitemap-generator</a>"
+msgstr "<a id=\"sitemap-generator\">sitemap-generator</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/server/source/sitemap-"
+"generator/?root=www\">Source code</a>"
+msgstr ""
+"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/server/source/sitemap-"
+"generator/?root=www\">Código-fonte</a>"
+
+#. type: Content of: <p>
+msgid ""
+"This program generates the <a href=\"/server/sitemap.html\">sitemap of our "
+"web site</a>, based on its directory structure on the file system.  It runs "
+"on fencepost in user gnun's cron."
+msgstr ""
+"Este programa gera o <a href=\"/server/sitemap.html\">sitemap do nosso site</"
+"a>, com base em sua estrutura de diretórios no sistema de arquivos. Ele é "
+"executado no servidor “fencepost” pelo cron do usuário gnun."
+
+#. type: Content of: <h3>
+msgid "<a id=\"symlinks\">symlinks</a>"
+msgstr "<a id=\"symlinks\">symlinks</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://savannah.gnu.org/cgi-bin/viewcvs/www/www/symlinks/\">Source "
+"code</a>"
+msgstr ""
+"<a href=\"http://savannah.gnu.org/cgi-bin/viewcvs/www/www/symlinks/\">Código-"
+"fonte</a>"
+
+#. type: Content of: <ul><li>
+msgid "Author: <a href=\"mailto:loic@gnu.org\">Loic Dachary</a>"
+msgstr "Autor: <a href=\"mailto:loic@gnu.org\">Loic Dachary</a>"
+
+#. type: Content of: <ul><li>
+msgid "Current version: 1.1"
+msgstr "Versão atual: 1.1"
+
+#. type: Content of: <p>
+msgid ""
+"The goal is to cope with the inability of CVS to deal with symbolic files. "
+"By adding special files (\".symlinks\") into the CVS tree that are "
+"interpreted as specifications to build symbolic links.  The \"symlinks\" "
+"script used to be run immediately after a \"cvs update\" to fix the symbolic "
+"links according to the specifications included in the \".symlinks\" files."
+msgstr ""
+"O objetivo é lidar com a incapacidade do CVS de lidar com arquivos "
+"simbólicos. Adicionando arquivos especiais (“.symlinks”) na árvore CVS que "
+"são interpretados como especificações para construir links simbólicos. O "
+"script “symlinks” costumava ser executado imediatamente após uma “cvs "
+"update” para corrigir os links simbólicos de acordo com as especificações "
+"incluídas nos arquivos “.symlinks”."
+
+#. type: Content of: <p>
+msgid ""
+"This script is no longer used on the live web site.  Instead, the <tt>."
+"symlinks</tt> files are transformed into RewriteRule directives.  More "
+"information about <tt>.symlinks</tt> files can be found in the <a href=\"/"
+"server/standards/README.webmastering.html#symlinks\">Symbolic Links</a> "
+"section of the GNU Webmaster Guidelines."
+msgstr ""
+"Este script não é mais usado no site atual. Em vez disso, os arquivos <tt>."
+"symlinks</tt> são transformados em diretivas RewriteRule. Mais informações "
+"sobre os arquivos <tt>.symlinks</tt> podem ser encontradas na seção <a href="
+"\"/server/standards/README.webmastering.html#symlinks\">Links simbólicos</a> "
+"das diretrizes para webmasters da GNU."
+
+#. type: Content of: <h3>
+msgid "<a id=\"update-license\">update-license.php</a>"
+msgstr "<a id=\"update-license\">update-license.php</a>"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"/server/source/update-license.php.txt\">Source code</a>"
+msgstr "<a href=\"/server/source/update-license.php.txt\">Código-fonte</a>"
+
+#. type: Content of: <ul><li>
+msgid "Author: <a href=\"mailto:jturner@gnu.org\">James Turner</a>"
+msgstr "Autor: <a href=\"mailto:jturner@gnu.org\">James Turner</a>"
+
+#. type: Content of: <p>
+msgid ""
+"This script can be ran from the webroot to traverse through English html "
+"files replacing the old \"Verbatim copying\" text with the new CC license."
+msgstr ""
+"Este script pode ser executado a partir do webroot para percorrer arquivos "
+"html em inglês substituindo o texto de “Cópia literal” antiga pela nova "
+"licença CC."
+
+#. type: Content of: <h3>
+msgid "<a id=\"update-recent-releases\">update-recent-releases</a>"
+msgstr "<a id=\"update-recent-releases\">update-recent-releases</a>"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"/server/source/update-recent-releases\">Source code</a>"
+msgstr "<a href=\"/server/source/update-recent-releases\">Código-fonte</a>"
+
+#. type: Content of: <p>
+msgid ""
+"This script generates the <a href=\"/software/recent-releases.html\">list of "
+"recent releases</a> (from the <a href=\"https://lists.gnu.org/mailman/"
+"listinfo/info-gnu\">info-gnu archives</a>).  It runs on fencepost in user "
+"gnun's cron."
+msgstr ""
+"Essa script gera a <a href=\"/software/recent-releases.html\">lista dos "
+"lançamentos recentes</a> (dos <a href=\"https://lists.gnu.org/mailman/"
+"listinfo/info-gnu\">arquivos do info-gnu</a>). Ele é executado no servidor "
+"“fencepost” pelo cron do usuário gnun."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+# type: Content of: <div><p>
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF.  Links quebrados e outras correções ou "
+"sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+# | Copyright &copy; 2014, 2015, [-2016,-] 2017 Free Software Foundation, Inc.
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2014, 2015, 2017 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2014, 2015, 2017 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2018."
+
+# type: Content of: <div><p>
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização: "

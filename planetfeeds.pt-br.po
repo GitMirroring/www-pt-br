@@ -5,8 +5,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: planetfeeds.html\n"
-"POT-Creation-Date: 2018-07-16 05:29+0000\n"
-"PO-Revision-Date: 2018-07-16 07:36-0200\n"
+"POT-Creation-Date: 2018-07-26 04:58+0000\n"
+"PO-Revision-Date: 2018-07-26 03:03-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -17,49 +17,135 @@ msgstr ""
 "X-Generator: Virtaal 1.0.0-beta1\n"
 
 #. type: Content of: <p>
-msgid "[From Arch] libutf8proc&gt;=2.1.1-3 update requires manual intervention"
+msgid "The Free Software Directory needs you! IRC meetups every Friday"
 msgstr ""
-"[Do Arch] Atualização do libutf8proc&gt;=2.1.1-3 exige intervenção manual"
+"O Diretório de Software Livre precisa de você! Reuniões no IRC toda sexta-"
+"feira"
 
 #.  TRANSLATORS: 
-#. https://parabolagnulinux.org/news/libutf8proc211-3-update-requires-manual-intervention/ 
+#. http://www.fsf.org/blogs/directory/the-free-software-directory-needs-you-irc-meetups-every-friday-1 
 #. type: Content of: <p>
 msgid ""
-": The libutf8proc package prior to version 2.1.1-3 had an incorrect soname "
-"link. This has been fixed in 2.1.1-3, so the..."
+": The Free Software Directory is an essential catalog of free software "
+"online, composed and maintained by countless volunteers d..."
 msgstr ""
-": O pacote libutf8proc antes da versão 2.1.1-3 tinha um vínculo de soname "
-"incorreto. Isso foi corrigido no 2.1.1-3, então o..."
+": O Diretório de Software Livre é um catálogo essencial de software livre "
+"online, composto e mantido por inúmeros voluntários d..."
 
 #. type: Content of: <p>
-msgid "Revealing unknown DWG classes"
-msgstr "Revelando classes DWG desconhecidos"
+msgid "Multi-dimensional transactions and rollbacks, oh my!"
+msgstr "Transações multidimensionais e reversões, ai meu!"
 
 #.  TRANSLATORS: 
-#. http://savannah.gnu.org/forum/forum.php?forum_id=9197 
+#. https://gnu.org/software/guix/blog/2018/multi-dimensional-transactions-and-rollbacks-oh-my/ 
 #. type: Content of: <p>
 msgid ""
-": I implemented three major buzzwords today in some trivial ways. * massive "
-"parallel processing * asynchronous processing * machine-learning: a self-"
-"improving pro..."
+": One of the highlights of version 0.15.0 was the overhaul of guix pull, the "
+"command that updates Guix and its package collection. In Debia..."
 msgstr ""
-": Eu implementei três grandes chavões de hoje em algumas formas triviais. * "
-"processamento massivo em paralelo * processamento assíncrono * aprendizado "
-"de máquina: um program..."
+": Um dos destaques da versão 0.15.0 foi a melhoria do guix pull, o comando "
+"que atualiza o Guix e sua coleção de pacotes. No Debian..."
 
 #. type: Content of: <p>
-msgid "Introducing Alyssa Rosenzweig, intern with the FSF tech team"
-msgstr "Apresentando Alyssa Rosenzweig, estagiário na equipe técnica da FSF"
+msgid ""
+"Molly de Blanc - Panel discussion: &quot;Diversity &amp; Inclusion: "
+"Innovating to create a consistent definition, data and metrics&quot;"
+msgstr ""
+"Molly de Blanc - Painel de discussão: “Diversidade &amp; Inclusão: Inovar "
+"para criar uma definição consistente, dados e métricas”"
 
 #.  TRANSLATORS: 
-#. http://www.fsf.org/blogs/sysadmin/introducing-alyssa-rosenzweig-intern-with-the-fsf-tech-team 
+#. http://www.fsf.org/events/molly-deblanc-20180830-vancouver-ossna 
 #. type: Content of: <p>
-msgid ""
-": Howdy there, fellow cyber denizens; &#39;tis I, Alyssa Rosenzweig, your "
-"friendly local biological life form! I&#39;m a certified..."
-msgstr ""
-": Olá, colegas habitantes cibernéticos; Sou eu, Alyssa Rosenzweig, sua forma "
-"de vida biológica local amigável! Eu sou certificada..."
+msgid ": Free Software Foundation campaigns manager Molly de B..."
+msgstr ": A gerente de campanhas da Free Software Foundation Molly de B..."
+
+#~ msgid "GNU Parallel 20180722 (&#39;Crimson Hexagon&#39;) released [alpha]"
+#~ msgstr "GNU Parallel 20180722 (&#39;Crimson Hexagon&#39;) lançado [alfa]"
+
+#~ msgid ""
+#~ ": GNU Parallel 20180722 (&#39;Crimson Hexagon&#39;) [alpha] has been "
+#~ "released. It is available for download at: http://ftpmir..."
+#~ msgstr ""
+#~ ": GNU Parallel 20180722 (&#39;Crimson Hexagon&#39;) [alfa] foi lançado. "
+#~ "Está disponível para download em: http://ftpmir..."
+
+#~ msgid ""
+#~ "David&#39;s Progress on The Free Software Directory, internship weeks 2-3"
+#~ msgstr ""
+#~ "Progresso do David no Diretório de Software Livre, estágio de 2-3 semanas"
+
+#~ msgid ""
+#~ ": <i>For context, see the previous blog post, Introducing David Hedlund, "
+#~ "intern with the FSF tech team.</i> I&#39;m wo..."
+#~ msgstr ""
+#~ ": <i>Para um contexto, veja a publicação de blogue anterior, apresentando "
+#~ "David Hedlund, estagiário na equipe técnica da FSF.</i> Eu..."
+
+#~ msgid ""
+#~ ": No meeting will be taking place this week due to travel, but meetings "
+#~ "will return to our regular schedule starting on Friday..."
+#~ msgstr ""
+#~ ": Nenhuma reunião será realizada nesta semana devido a viagens, mas as "
+#~ "reuniões retornarão à nossa programação regular a partir de sexta-feira..."
+
+#~ msgid "Graphos GNUstep and Tablet interface"
+#~ msgstr "Graphos GNUstep e e interface Tablet"
+
+#~ msgid ""
+#~ ": I have acquired a Thinkpad X41 Tablet and worked quite a bit on it "
+#~ "making it usable and then installing Linux and of course GNUstep on it. "
+#~ "The original b..."
+#~ msgstr ""
+#~ ": Adquiri um tablet Thinkpad X41 e trabalhei um pouco nele, tornando-o "
+#~ "utilizável e, em seguida, instalando o Linux e, claro, o GNUstep nele. A "
+#~ "bateria..."
+
+#~ msgid ""
+#~ "Molly de Blanc - &quot;What&#39;s the story with Munich?&quot; (Portland, "
+#~ "OR)"
+#~ msgstr "Molly de Blanc - “Qual a história com Munique?” (Portland, OR)"
+
+#~ msgid ""
+#~ ": Free Software Conservancy campaigns manager Molly de Blanc will be "
+#~ "speaking at OSCON (2018-07-18–19). Government..."
+#~ msgstr ""
+#~ ": A gerente de campanhas da Free Software Conservancy, Molly de Blanc, "
+#~ "falará na OSCON (18-19/07/2018). Adoção do..."
+
+#~ msgid ""
+#~ "[From Arch] libutf8proc&gt;=2.1.1-3 update requires manual intervention"
+#~ msgstr ""
+#~ "[Do Arch] Atualização do libutf8proc&gt;=2.1.1-3 exige intervenção manual"
+
+#~ msgid ""
+#~ ": The libutf8proc package prior to version 2.1.1-3 had an incorrect "
+#~ "soname link. This has been fixed in 2.1.1-3, so the..."
+#~ msgstr ""
+#~ ": O pacote libutf8proc antes da versão 2.1.1-3 tinha um vínculo de soname "
+#~ "incorreto. Isso foi corrigido no 2.1.1-3, então o..."
+
+#~ msgid "Revealing unknown DWG classes"
+#~ msgstr "Revelando classes DWG desconhecidos"
+
+#~ msgid ""
+#~ ": I implemented three major buzzwords today in some trivial ways. * "
+#~ "massive parallel processing * asynchronous processing * machine-learning: "
+#~ "a self-improving pro..."
+#~ msgstr ""
+#~ ": Eu implementei três grandes chavões de hoje em algumas formas triviais. "
+#~ "* processamento massivo em paralelo * processamento assíncrono * "
+#~ "aprendizado de máquina: um program..."
+
+#~ msgid "Introducing Alyssa Rosenzweig, intern with the FSF tech team"
+#~ msgstr "Apresentando Alyssa Rosenzweig, estagiário na equipe técnica da FSF"
+
+#~ msgid ""
+#~ ": Howdy there, fellow cyber denizens; &#39;tis I, Alyssa Rosenzweig, your "
+#~ "friendly local biological life form! I&#39;m a certified..."
+#~ msgstr ""
+#~ ": Olá, colegas habitantes cibernéticos; Sou eu, Alyssa Rosenzweig, sua "
+#~ "forma de vida biológica local amigável! Eu sou certificada..."
 
 #~ msgid ""
 #~ "Richard Stallman - « Contrôle ton ordinateur pour ne pas être contrôlé ! "
@@ -212,7 +298,7 @@ msgstr ""
 #~ "\"Historical\" section. BLAG Linux and GNU, based on Fedo..."
 #~ msgstr ""
 #~ ": Recentemente, atualizamos nossa lista de distribuições GNU/Linux livres "
-#~ "para adicionar uma seção \"Histórico\". BLAG Linux e..."
+#~ "para adicionar uma seção “Histórico”. BLAG Linux e..."
 
 #~ msgid "GNU Foliot version 0.9.8"
 #~ msgstr "GNU Foliot versão 0.9.8"
@@ -225,23 +311,6 @@ msgstr ""
 #~ ": GNU Foliot versão 0.9.8 foi lançado (Junho de 2018) É um lançamento de "
 #~ "manutenção, que traz o GNU Foliot atualizado com Grip 0.2.0, do qual ele "
 #~ "depende. Além disso,..."
-
-#~ msgid "GNU Parallel 20180622 (&#39;Kim Trump&#39;) released"
-#~ msgstr "GNU Parallel 20180622 (&#39;Kim Trump&#39;) lançado"
-
-#~ msgid ""
-#~ ": GNU Parallel 20180622 (&#39;Kim Trump&#39;) has been released. It is "
-#~ "available for download at: http://ftpmirror.gnu.org/parallel/ Quote..."
-#~ msgstr ""
-#~ ": GNU Parallel 20180622 (&#39;Kim Trump&#39;) foi lançado. Está "
-#~ "disponível para download em: http://ftpmirror.gnu.org/parallel/ ..."
-
-#~ msgid ""
-#~ "Friday Free Software Directory IRC meetup time: June 22nd starting at "
-#~ "12:00 p.m. EDT/16:00 UTC"
-#~ msgstr ""
-#~ "Friday Free Software Directory IRC – horário de encontro: 22 de Junho, "
-#~ "iniciando às 13:00 BRT/16:00 UTC"
 
 #~ msgid ""
 #~ ": Help improve the Free Software Directory by adding new entries and "
@@ -364,8 +433,8 @@ msgstr ""
 #~ "lessons from the Phoenix payroll puzzle,&quot; and from Montreal, at the "
 #~ "Adte&#39;s annual colloquium"
 #~ msgstr ""
-#~ "Abril e Maio 2018: Fotos de Ottawa, durante a discussão \"Duas lições do "
-#~ "quebra-cabeça do pagamento da Phoenix\", e de Motreal, no colóquio anual "
+#~ "Abril e Maio 2018: Fotos de Ottawa, durante a discussão “Duas lições do "
+#~ "quebra-cabeça do pagamento da Phoenix”, e de Motreal, no colóquio anual "
 #~ "do Adte"
 
 #~ msgid ": Free Software Fo..."
