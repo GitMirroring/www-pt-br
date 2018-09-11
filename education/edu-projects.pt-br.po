@@ -5,8 +5,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: edu-projects.html\n"
-"POT-Creation-Date: 2016-10-22 18:25+0000\n"
-"PO-Revision-Date: 2018-07-26 05:20-0300\n"
+"POT-Creation-Date: 2018-08-26 15:57+0000\n"
+"PO-Revision-Date: 2018-08-26 13:35-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -204,14 +204,14 @@ msgstr ""
 msgid ""
 "One important achievement of the OFSET group is <a href=\"http://www.drgeo.eu"
 "\">Dr. Geo</a>, a program widely used for teaching geometry. OFSET has also "
-"developed <a href=\"http://usb.freeduc.org/en/index.php\"> Freeduc-USB</a>, "
-"a bootable USB stick that contains useful applications for the classroom."
+"developed <a href=\"http://usb.freeduc.org\"> Freeduc-USB</a>, a bootable "
+"USB stick that contains useful applications for the classroom."
 msgstr ""
 "Uma conquista importante do grupo OFSET é o <a href=\"http://www.drgeo.eu"
 "\">Dr. Geo</a>, um programa amplamente usado para ensinar geometria. O OFSET "
-"também desenvolveu o <a href=\"http://usb.freeduc.org/en/index.php\">Freeduc-"
-"USB</a>, um dispositivo USB inicializável que contém aplicativos úteis para "
-"a sala de aula."
+"também desenvolveu o <a href=\"https://usb.freeduc.org/index-en.html"
+"\">Freeduc-USB</a>, um dispositivo USB inicializável que contém aplicativos "
+"úteis para a sala de aula."
 
 #. type: Content of: <dl><dt>
 msgid "<a href=\"http://www.sugarlabs.org/\">Sugar Labs</a>"
@@ -276,8 +276,8 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2011, 2016 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2011, 2016 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2011, 2016, 2018 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2011, 2016, 2018 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -301,3 +301,6 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização: "
+
+#~ msgid "Copyright &copy; 2011, 2016 Free Software Foundation, Inc."
+#~ msgstr "Copyright &copy; 2011, 2016 Free Software Foundation, Inc."

@@ -1,0 +1,775 @@
+# Brazilian Portuguese translation of http://www.gnu.org/press/press.html
+# Copyright (C) 2018 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018.
+# Cassiano Reinert Novais dos Santos <caco@posteo.net>, 2018 (proofread)
+msgid ""
+msgstr ""
+"Project-Id-Version: press.html\n"
+"POT-Creation-Date: 2014-04-05 00:03+0000\n"
+"PO-Revision-Date: 2018-09-05 16:53-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid "Press Information - GNU Project - Free Software Foundation"
+msgstr "Comunidade de imprensa - Projeto GNU - Free Software Foundation"
+
+#. type: Content of: <h2>
+msgid "FSF and GNU Press Information"
+msgstr "Informações de imprensa da FSF e do GNU"
+
+#. type: Content of: <p><a>
+msgid "<a href=\"/graphics/listen.html\">"
+msgstr "<a href=\"/graphics/listen.html\">"
+
+#. type: Attribute 'alt' of: <p><a><img>
+msgid "[image of a listening gnu]"
+msgstr "[imagem de um gnu ouvindo]"
+
+# type: Content of: <div><p>
+#. type: Content of: <p>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <p>
+msgid ""
+"This page is a location for press-related information about the Free "
+"Software Foundation and the GNU project. We keep archival copies of our "
+"press releases here, and other information of interest to those in the media."
+msgstr ""
+"Esta página é o local para informações relacionadas à imprensa sobre a Free "
+"Software Foundation e sobre o Projeto GNU. Nós mantemos arquivos de nossos "
+"comunicados de imprensa aqui, e outras informações de interesse para o "
+"pessoal da mídia."
+
+#. type: Content of: <h2>
+msgid "Press Mailing List"
+msgstr "Lista de mensagens da imprensa"
+
+#. type: Content of: <p>
+msgid ""
+"If you are interested in press-related information about the FSF and the GNU "
+"project, you can subscribe to <a href= \"http://mail.gnu.org/mailman/"
+"listinfo/info-press\"><code>info-press</code> mailing list by following this "
+"link</a> or sending an email message to <a href= \"mailto:info-press-"
+"request@gnu.org?subject=subscribe\">&lt;info-press-request@gnu.org&gt;</a> "
+"with the word &ldquo;subscribe&rdquo; in the message."
+msgstr ""
+"Se você está interessado em informações relacionadas à imprensa sobre a FSF "
+"e o Projeto GNU, você pode se inscrever na <a href=\"http://mail.gnu.org/"
+"mailman/listinfo/info-press\">lista de mensagens <code>info-press</code> "
+"seguindo este link</a> ou enviando uma mensagem para <a href=\"mailto:info-"
+"press-request@gnu.org?subject=subscribe\">&lt;info-press-request@gnu.org&gt;"
+"</a> contendo a palavra “subscribe” no corpo da mensagem."
+
+#. type: Content of: <p>
+msgid ""
+"<a href=\"http://mail.gnu.org/pipermail/info-press/\">Archives of the "
+"<code>info-press</code> list are available</a>."
+msgstr ""
+"<a href=\"http://mail.gnu.org/pipermail/info-press/\">Arquivos da Lista "
+"<code>info-press</code> estão disponíveis aqui</a>."
+
+#. type: Content of: <h2>
+msgid "Press Releases"
+msgstr "Comunicados de imprensa"
+
+#. type: Content of: <p>
+msgid "(In reverse chronological order)"
+msgstr "(Em ordem cronológica inversa)"
+
+#. type: Content of: <p>
+msgid ""
+"For statements related to the SCO v. IBM lawsuit, please see the special <a "
+"href=\"/philosophy/sco\">SCO section of our website</a>."
+msgstr ""
+"Para declarações relacionadas ao processo SCO contra IBM, consulte a <a href="
+"\"/philosophy/sco\">seção SCO especial do nosso site</a>."
+
+#. type: Content of: <dl><dt>
+msgid "14 January 2004"
+msgstr "14 de Janeiro de 2004"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"<a href=\"/press/2004-01-14-record-straight.html\">Setting the Record "
+"Straight: The Free Software Foundation, the General Public License and SCO "
+"versus IBM</a>. (<a href= \"/press/2004-01-14-record-straight.txt\">A plain "
+"text version is also available</a>.)"
+msgstr ""
+"<a href=\"/press/2004-01-14-record-straight.html\">Esclarecendo a situação: "
+"a Free Software Foundation, a Licença Pública Geral e SCO contra IBM </a>. "
+"(<a href=\"/press/2004-01-14-record-straight.txt\">Uma versão em texto "
+"simples também está disponível</a>.)"
+
+#. type: Content of: <dl><dt>
+msgid "2 January 2004"
+msgstr "2 de Janeiro de 2004"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"<a href=\"/press/2004-01-02-nyc-seminars.html\">FSF To Host Free Software "
+"Licensing Seminars and Discussions on SCO v. IBM in New York</a>. (<a href= "
+"\"/press/2004-01-02-nyc-seminars.txt\">A plain text version is also "
+"available</a>.)"
+msgstr ""
+"<a href=\"/press/2004-01-02-nyc-seminars.html\">A FSF hospedará seminários "
+"sobre licenciamento de software livre e discussões sobre SCO contra a IBM em "
+"Nova York</a>. (<a href=\"/press/2004-01-02-nyc-seminars.txt\">Uma versão em "
+"texto simples também está disponível</a>.)"
+
+#. type: Content of: <dl><dt>
+msgid "19 November 2003"
+msgstr "19 de Novembro de 2003"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"<a href=\"/press/2003-11-19-Microsoft-CA.html\">FSF Encourages Californians "
+"to Support Software Freedom with Microsoft Vouchers</a>. (<a href= \"/"
+"press/2003-11-19-Microsoft-CA.txt\">A plain text version is also available</"
+"a>.)"
+msgstr ""
+"<a href=\"/press/2003-11-19-Microsoft-CA.html\">A FSF incentiva os "
+"californianos a apoiar a liberdade do software com cupons da Microsoft</a>. "
+"(<a href=\"/press/2003-11-19-Microsoft-CA.txt\">Uma versão em texto simples "
+"também está disponível</a>.)"
+
+#. type: Content of: <dl><dt>
+msgid "27 March 2003"
+msgstr "27 de Março de 2003"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"<a href=\"/press/2003-03-27-patron.html\">FSF Announces Corporate Patronage "
+"Program</a>. (<a href= \"/press/2003-03-27-patron.txt\">A plain text version "
+"is also available</a>.)"
+msgstr ""
+"<a href=\"/press/2003-03-27-patron.html\">A FSF anuncia o Programa de "
+"Patrocínio Corporativo</a>. (<a href=\"/press/2003-03-27-patron.txt\">Uma "
+"versão em texto simples também está disponível</a>.)"
+
+#. type: Content of: <dl><dt>
+msgid "8 February 2003"
+msgstr "8 de Fevereiro de 2003"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"<a href=\"/press/2003-02-08-award.html\">Professor Lawrence Lessig Awarded "
+"the Free Software Foundation Award for the Advancement of Free Software</a>. "
+"(<a href= \"/press/2003-02-08-award.txt\">A plain text version is also "
+"available</a>.)"
+msgstr ""
+"<a href=\"/press/2003-02-08-award.html\">Professor Lawrence Lessig premiado "
+"com o Prêmio Free Software Foundation pelo Avanço do Software Livre</a>. (<a "
+"href=\"/press/2003-02-08-award.txt\">Uma versão em texto simples também está "
+"disponível</a>.)"
+
+#. type: Content of: <dl><dt>
+msgid "12 November 2002"
+msgstr "12 de Novembro de 2002"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"<a href=\"/press/2002-11-12-mysql.html\">Gift from MySQL AB Supports Free "
+"Software Foundation's General Public License Compliance Lab</a>. (<a href=\"/"
+"press/2002-11-12-mysql.txt\">A plain text version is also available</a>.)"
+msgstr ""
+"<a href=\"/press/2002-11-12-mysql.html\">Um presente da MySQL AB contribui "
+"para o Laboratório de Conformidade da Licença Pública Geral da Free Software "
+"Foundation</a>. (<a href=\"/press/2002-11-12-mysql.txt\">Uma versão em texto "
+"simples também está disponível</a>.)"
+
+#. type: Content of: <dl><dt>
+msgid "3 September 2002"
+msgstr "3 de Setembro de 2002"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"<a href=\"/press/2002-09-03-bayonne.html\">GNU Bayonne 1.0 Released; GNU "
+"Telephony Server gives software freedom to businesses, large enterprises and "
+"commercial telephone carriers</a>. (<a href=\"/press/2002-09-03-bayonne.txt"
+"\">A plain text version is also available</a>.)"
+msgstr ""
+"<a href=\"/press/2002-09-03-bayonne.html\">GNU Bayonne 1.0 lançado; O GNU "
+"Telephony Server oferece liberdade de software para negócios, grandes "
+"empresas e operadoras de telefonia comercial</a>. (<a href=\"/"
+"press/2002-09-03-bayonne.txt\">Uma versão em texto simples também está "
+"disponível</a>.)"
+
+#. type: Content of: <dl><dt>
+msgid "26 August 2002"
+msgstr "26 de Agosto de 2002"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"<a href=\"/press/2002-08-26-freenode.html\">GNU Project Will Use Freenode as "
+"Its Official IRC Network</a>. (<a href= \"/press/2002-08-26-freenode.txt\">A "
+"plain text version is also available</a>.)"
+msgstr ""
+"<a href=\"/press/2002-08-26-freenode.html\">O Projeto GNU usará o Freenode "
+"como sua rede oficial de IRC</a>. (<a href=\"/press/2002-08-26-freenode.txt"
+"\">Uma versão em texto simples também está disponível</a>.)"
+
+#. type: Content of: <dl><dt>
+msgid "1 August 2002"
+msgstr "1º de Agosto de 2002"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"<a href=\"/press/2002-08-01-sf-fundraiser.html\">Affero Hosts \"Full Tilt "
+"for Software Freedom\", a Benefit for Free Software Foundation on Wednesday, "
+"August, 14 2002 in San Francisco</a>.  (<a href=\"/press/2002-08-01-sf-"
+"fundraiser.txt\">A plain text version is also available</a>.)"
+msgstr ""
+"<a href=\"/press/2002-08-01-sf-fundraiser.html\">Affero realiza o “Full Tilt "
+"for Software Freedom”, uma benfeitoria da Free Software Foundation na quarta-"
+"feira, 14 de agosto de 2002, em São Francisco</a>. (<a href=\"/"
+"press/2002-08-01-sf-fundraiser.txt\">Uma versão em texto simples também está "
+"disponível</a>.)"
+
+#. type: Content of: <dl><dt>
+msgid "21 May 2002"
+msgstr "21 de Maio de 2002"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"<a href=\"/press/2002-05-21-eldred-brief.html\">Free Software Foundation "
+"Files Brief Amicus Curiae in Eldred v. Aschroft Supreme Court Case</a>. (<a "
+"href= \"/press/2002-05-21-eldred-brief.txt\">A plain text version is also "
+"available</a>.)"
+msgstr ""
+"<a href=\"/press/2002-05-21-eldred-brief.html\">A Free Software Foundation "
+"protocola um Amicus Curiae no caso da Suprema Corte de Eldred contra "
+"Aschroft</a>. (<a href=\"/press/2002-05-21-eldred-brief.txt\">Uma versão em "
+"texto simples também está disponível</a>.)"
+
+#. type: Content of: <dl><dt>
+msgid "11 April 2002"
+msgstr "11 de Abril de 2002"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"<a href=\"/press/2002-04-11-ms-patent.html\">Microsoft Attacks Free Software "
+"Developers with New License</a>.  (<a href=\"/press/2002-04-11-ms-patent.txt"
+"\">A plain text version is also available</a>.)"
+msgstr ""
+"<a href=\"/press/2002-04-11-ms-patent.html\">A Microsoft ataca "
+"desenvolvedores de software livre com nova licença</a>. (<a href=\"/"
+"press/2002-04-11-ms-patent.txt\">Uma versão em texto simples também está "
+"disponível</a>.)"
+
+#. type: Content of: <dl><dt>
+msgid "19 March 2002"
+msgstr "19 de Março de 2002"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"<a href=\"/press/2002-03-19-Affero.html\">Free Software Foundation Announces "
+"Support of the Affero General Public License, the First Copyleft License for "
+"Web Services</a>.  (<a href=\"/press/2002-03-19-Affero.txt\">A plain text "
+"version is also available</a>.)"
+msgstr ""
+"<a href=\"/press/2002-03-19-Affero.html\">A Free Software Foundation anuncia "
+"seu suporte à Licença Pública Geral Affero, a primeira licença protegida por "
+"copyleft para serviços web</a>. (<a href=\"/press/2002-03-19-Affero.txt"
+"\">Uma versão em texto simples também está disponível</a>.)"
+
+#. type: Content of: <dl><dt>
+msgid "18 March 2002"
+msgstr "18 de Março de 2002"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"<a href=\"/press/2002-03-18-digitalspeech.html\">Free Software Foundation "
+"Offers Resources to the Digital Speech Project</a>. (<a href=\"/"
+"press/2002-03-18-digitalspeech.txt\">A plain text version is also available</"
+"a>.)"
+msgstr ""
+"<a href=\"/press/2002-03-18-digitalspeech.html\">A Free Software Foundation "
+"oferece recursos para o Projeto de Fala Digital</a>. (<a href=\"/"
+"press/2002-03-18-digitalspeech.txt\">Uma versão em texto simples também está "
+"disponível</a>.)"
+
+#. type: Content of: <dl><dt>
+msgid "5 March 2002"
+msgstr "5 de Março de 2002"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"<a href=\"/press/2002-03-05-DCL-GNUE.html\">Double Choco Latte (DCL), a work "
+"order and help desk management system, announces its merger into GNU "
+"Enterprise (GNUe), a GNU Package</a>. (<a href=\"/press/2002-03-05-DCL-GNUE."
+"txt\">A plain text version is also available</a>.)"
+msgstr ""
+"<a href=\"/press/2002-03-05-DCL-GNUE.html\">Double Choco Latte (DCL), um "
+"sistema de acompanhamento de requisições e gerenciamento de <em>help desk</"
+"em>, anuncia a sua fusão ao GNU Enterprise (GNUe), um Pacote do GNU</a>. (<a "
+"href=\"/press/2002-03-05-DCL-GNUE.txt\">Uma versão em texto simples também "
+"está disponível</a>.)"
+
+#. type: Content of: <dl><dt>
+msgid "3 March 2002"
+msgstr "3 de Março de 2002"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"<a href=\"/press/2002-03-01-pi-MySQL.html\">Judge Saris defers GNU GPL "
+"Questions for Trial in MySQL vs. Progress Software</a>. (<a href=\"/"
+"press/2002-03-01-pi-MySQL.txt\">A plain text version is also available</a>.)"
+msgstr ""
+"<a href=\"/press/2002-03-01-pi-MySQL.html\">O Juiz Saris adia as questões "
+"relativas à GNU GPL no caso MySQL contra Progress Software</a>. (<a href=\"/"
+"press/2002-03-01-pi-MySQL.txt\">Uma versão de texto simples também está "
+"disponível</a>.)"
+
+#. type: Content of: <dl><dt>
+msgid "26 February 2002"
+msgstr "26 de Fevereiro de 2002"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"<a href=\"/press/2002-02-26-MySQL.html\">FSF Lawyer and Board Member Serves "
+"as Expert Witness in Lawsuit Related to GNU GPL</a>. (<a href=\"/"
+"press/2002-02-26-MySQL.txt\">A plain text version is also available</a>.)"
+msgstr ""
+"<a href=\"/press/2002-02-26-MySQL.html\">Advogado e Membro do Comitê Diretor "
+"da FSF serve como testemunho especialista em processo relacionado com a GNU "
+"GPL</a>. (<a href=\"/press/2002-02-26-MySQL.txt\">Uma versão de texto "
+"simples também está disponível</a>.)"
+
+#. type: Content of: <dl><dt>
+msgid "16 February 2002"
+msgstr "16 de Fevereiro de 2002"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"<a href=\"/press/2002-02-16-FSF-Award.html\">Guido van Rossum Awarded the "
+"Free Software Foundation Award for the Advancement of Free Software</a>. (<a "
+"href= \"/press/2002-02-16-FSF-Award.txt\">A plain text version is also "
+"available</a>.)"
+msgstr ""
+"<a href=\"/press/2002-02-16-FSF-Award.html\">Guido van Rossum premiado com o "
+"Prêmio Free Software Foundation pelo Avanço do Software Livre</a>. (<a href="
+"\"/press/2002-02-16-FSF-Award.txt\">Uma versão em texto simples também está "
+"disponível</a>.)"
+
+#. type: Content of: <dl><dt>
+msgid "29 January 2002"
+msgstr "29 de Janeiro de 2002"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"<a href=\"/press/2002-01-29-MS-DOJ.html\">FSF Files Statement on Microsoft "
+"Judgment under Tunney Act</a>. (<a href= \"/press/2002-01-29-MS-DOJ.txt\">A "
+"plain text version is also available</a>.)"
+msgstr ""
+"<a href=\"/press/2002-01-29-MS-DOJ.html\">A FSF registra uma Declaração "
+"sobre o Julgamento da Microsoft sob o Ato Tunney</a>. (<a href=\"/"
+"press/2002-01-29-MS-DOJ.txt\">Uma versão em texto simples também está "
+"disponível</a>.)"
+
+#. type: Content of: <dl><dt>
+msgid "3 December 2001"
+msgstr "3 de Dezembro de 2001"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"<a href=\"/press/2001-12-03-Takeda.html\">Stallman Receives Prestigious 2001 "
+"Takeda Award</a>. (<a href= \"/press/2001-12-03-Takeda.txt\">A plain text "
+"version is also available</a>.)"
+msgstr ""
+"<a href=\"/press/2001-12-03-Takeda.html\">Stallman recebe o prestigiado "
+"Prêmio Takeda de 2001</a>. (<a href=\"/press/2001-12-03-Takeda.txt\">Uma "
+"versão em texto simples também está disponível</a>.)"
+
+#. type: Content of: <dl><dt>
+msgid "22 October 2001"
+msgstr "22 de Outubro de 2001"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"<a href=\"/press/2001-10-22-Emacs.html\">FSF Announces Version 21 of the GNU "
+"Emacs Editing Environment</a>. (<a href= \"/press/2001-10-22-Emacs.txt\">A "
+"plain text version is also available</a>.)"
+msgstr ""
+"<a href=\"/press/2001-10-22-Emacs.html\">A FSF anuncia a versão 21 do "
+"ambiente de edição de textos GNU Emacs</a>. (<a href=\"/press/2001-10-22-"
+"Emacs.txt\">Uma versão em texto simples também está disponível</a>.)"
+
+#. type: Content of: <dl><dt>
+msgid "12 October 2001"
+msgstr "12 de Outubro de 2001"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"<a href=\"/press/2001-10-12-bayonne.html\">Free Software Foundation "
+"Announces 7th Major Release of GNU Bayonne</a>.  (<a href=\"/"
+"press/2001-10-12-bayonne.txt\">A plain text version is also available</a>.)"
+msgstr ""
+"<a href=\"/press/2001-10-12-bayonne.html\">A Free Software Foundation "
+"anuncia a 7ª versão maior do GNU Bayonne</a>. (<a href=\"/press/2001-10-12-"
+"bayonne.txt\">Uma versão em texto simples também está disponível</a>.)"
+
+#. type: Content of: <dl><dt>
+msgid "24 September 2001"
+msgstr "24 de Setembro de 2001"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"<a href=\"/press/2001-09-24-CPI.html\">Richard Stallman and Eben Moglen to "
+"Speak at GWU's Cyberspace Policy Institute's Free Software Conference</a>. "
+"(<a href= \"/press/2001-09-24-CPI.txt\">A plain text version is also "
+"available</a>.)"
+msgstr ""
+"<a href=\"/press/2001-09-24-CPI.html\">Richard Stallman e Eben Moglen serão "
+"palestrantes na Conferência de Software Livre do Cyberspace Policy Institute "
+"da GWU</a>. (<a href= \"/press/2001-09-24-CPI.txt\">Uma versão em texto "
+"simples também está disponível</a>.)"
+
+#. type: Content of: <dl><dt>
+msgid "18 September 2001"
+msgstr "18 de Setembro de 2001"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"<a href=\"/press/2001-09-18-RTLinux.html\">FSF and FSMLabs come to agreement "
+"on a GPL-compliant version of RTLinux Open Patent License</a>. (<a href=\"/"
+"press/2001-09-18-RTLinux.txt\">A plain text version is also available</a>.)"
+msgstr ""
+"<a href=\"/press/2001-09-18-RTLinux.html\">A FSF e o FSMLabs chegaram a um "
+"acordo sobre uma versão compatível com a GPL da Licença de Patente Aberta do "
+"RTLinux.</a>. (<a href=\"/press/2001-09-18-RTLinux.txt\">Uma versão em texto "
+"simples também está disponível</a>.)"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"<strong>Update</strong>: The Free Software Foundation and Finite State "
+"Machine Labs Inc. (FSMLabs) have announced the release of the <a href= "
+"\"http://www.fsmlabs.com/openpatentlicense.html\">Open RTLinux patent "
+"license Version 2</a> fully compliant with the Free Software Foundation's "
+"General Public License (GPL). The Open Patent License grants the right to "
+"use U.S. Patent No.  5,995,745 in GPL free software without payment of a "
+"royalty.  This license protects GPL use of the RTLinux process. For more "
+"information, please see the <a href= \"/press/2001-09-18-RTLinux.html"
+"\">updated press release</a>."
+msgstr ""
+"<strong>Atualização</strong>: A Free Software Foundation e a Finite State "
+"Machine Labs Inc. (FSMLabs) anunciaram o lançamento da <a href=\"http://www."
+"fsmlabs.com/openpatentlicense.html\"> Licença de Patente Aberta RTLinux "
+"Versão 2</a> totalmente compatível com a Licença Pública Geral (GPL) da Free "
+"Software Foundation. A Licença de Patente Aberta concede o direito de usar a "
+"Patente US 5.995.745 em software livre sob a GPL sem pagamento de royalties. "
+"Esta licença protege o uso da GPL do processo da RTLinux. Para mais "
+"informações, consulte o <a href=\"/press/2001-09-18-RTLinux.html"
+"\">comunicado de imprensa atualizado</a>."
+
+#. type: Content of: <dl><dt>
+msgid "20 July 2001"
+msgstr "20 de Julho de 2001"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"<a href=\"/press/2001-07-20-FSF-India.html\">Richard Stallman Inaugurates "
+"Free Software Foundation-India, First Affiliate in Asia of the Free Software "
+"Foundation</a>. (<a href= \"/press/2001-07-20-FSF-India.txt\">A plain text "
+"version</a>, <a href=\"/press/2001-07-20-FSF-India.pdf\">a PDF version</a>, "
+"and <a href=\"/press/2001-07-20-FSF-India.ps\">a Postscript version</a> are "
+"also available.)"
+msgstr ""
+"<a href=\"/press/2001-07-20-FSF-India.html\">Richard Stallman inaugura a "
+"Free Software Foundation-Índia, a primeira afiliada da FSF na Ásia</a> (<a "
+"href=\"/press/2001-07-20-FSF-India.txt\">Uma versão em texto simples</a>, <a "
+"href=\"/press/2001-07-20-FSF-India.pdf\">uma versão em PDF</a> e <a href=\"/"
+"press/2001-07-20-FSF-India.ps\">uma versão em PostScript</a> também estão "
+"disponíveis.)"
+
+#. type: Content of: <dl><dt>
+msgid "9 July 2001"
+msgstr "9 de Julho de 2001"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"<a href=\"/press/2001-07-09-DotGNU-Mono.html\">FSF Announces Support of Free "
+"Software Projects to Replace Components of Microsoft .NET</a>. (<a href= \"/"
+"press/2001-07-09-DotGNU-Mono.txt\">A plain text version is also available</"
+"a>.)"
+msgstr ""
+"<a href=\"/press/2001-07-09-DotGNU-Mono.html\">A FSF anuncia suporte a "
+"projetos de Software Livre para substituir componentes do .NET da Microsoft</"
+"a>. (<a href=\"/press/2001-07-09-DotGNU-Mono.txt\">Uma versão em texto "
+"simples também está disponível</a>.)"
+
+#. type: Content of: <dl><dt>
+msgid "28 June 2001"
+msgstr "28 de Junho de 2001"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"<a href=\"/press/2001-06-28-USENIX.html\">GNU Project and Kerberos "
+"Developers Receive Prestigious USENIX Achievement Awards</a>. (<a href=\"/"
+"press/2001-06-28-USENIX.txt\">A plain text version is also available</a>.)"
+msgstr ""
+"<a href=\"/press/2001-06-28-USENIX.html\">O Projeto GNU e os desenvolvedores "
+"do Kerberos receberam o prestigiado USENIX Achievement Awards</a>. (<a href="
+"\"/press/2001-06-28-USENIX.txt\">Uma versão em texto simples também está "
+"disponível</a>.)"
+
+#. type: Content of: <dl><dt>
+msgid "18 June 2001"
+msgstr "18 de Junho de 2001"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"<a href=\"/press/2001-06-18-GCC.html\">GNU Compiler Collection Version 3.0 "
+"Is Released; Includes Support for Java and IA-64</a>. (<a href=\"/"
+"press/2001-06-18-GCC.txt\">A plain text version</a>, <a href=\"/"
+"press/2001-06-18-GCC.pdf\">a PDF version</a>, and <a href=\"/"
+"press/2001-06-18-GCC.ps\">a Postscript version</a> are also available.)"
+msgstr ""
+"<a href=\"/press/2001-06-18-GCC.html\">Foi lançada a versão 3.0 do GNU "
+"Compiler Collection; Inclui suporte a Java e ao IA-64</a>. (<a href=\"/"
+"press/2001-06-18-GCC.txt\">Uma versão em texto simples</a>, <a href=\"/"
+"press/2001-06-18-GCC.pdf\">uma versão em PDF</a> e <a href=\"/"
+"press/2001-06-18-GCC.ps\">uma versão em PostScript</a> também estão "
+"disponíveis.)"
+
+#. type: Content of: <dl><dt>
+msgid "25 May 2001"
+msgstr "25 de Maio de 2001"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"<a href=\"/press/2001-05-25-NYU.html\">Richard Stallman Delivers Speech at "
+"NYU, Countering Mundie's Attack on Free Software</a>. (<a href=\"/"
+"press/2001-05-25-NYU.txt\">A plain text version is also available</a>.)"
+msgstr ""
+"<a href=\"/press/2001-05-25-NYU.html\">Richard Stallman apresenta uma "
+"palestra na <acronym title=\"Universidade de Nova York\">NYU</acronym>, "
+"respondendo aos ataques da Mundie sobre o Software Livre</a>. (<a href=\"/"
+"press/2001-05-25-NYU.txt\">Uma versão em texto simples também está "
+"disponível</a>.)"
+
+#. type: Content of: <dl><dt>
+msgid "4 May 2001"
+msgstr "4 de Maio de 2001"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"<a href=\"/press/2001-05-04-GPL.html\">The GNU General Public License "
+"Protects Software Freedoms</a>. (<a href= \"/press/2001-05-04-GPL.txt\">A "
+"plain text version</a>, <a href= \"/press/2001-05-04-GPL.pdf\">a PDF "
+"version</a>, and <a href= \"/press/2001-05-04-GPL.ps\">a Postscript version</"
+"a> are also available.)"
+msgstr ""
+"<a href=\"/press/2001-05-04-GPL.html\">A Licença Pública Geral GNU protege "
+"as liberdades de software</a>. (<a href=\"/press/2001-05-04-GPL.txt\">Uma "
+"versão em texto simples</a>, <a href=\"/press/2001-05-04-GPL.pdf\">uma "
+"versão em PDF</a> e <a href=\"/press/2001-05-04-GPL.ps\">uma versão em "
+"PostScript</a> também estão disponíveis.)"
+
+#. type: Content of: <dl><dt>
+msgid "2 May 2001"
+msgstr "2 de Maio 2001"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"<a href=\"/press/2001-05-02-Bayonne.txt\">Free Software Foundation Announces "
+"Milestone 6 of GNU Bayonne</a>."
+msgstr ""
+"<a href=\"/press/2001-05-02-Bayonne.txt\">A Free Software Foundation anuncia "
+"a versão 6 do GNU Bayonne</a>."
+
+#. type: Content of: <dl><dt>
+msgid "20 March 2001"
+msgstr "20 de Março de 2001"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"<a href=\"2001-03-20-Brazil.txt\">Richard M. Stallman Addresses Brazilian "
+"Congress on Free Software and the Ethics of Copyright and Patents</a>."
+msgstr ""
+"<a href=\"2001-03-20-Brazil.txt\">Richard M. Stallman fala ao Congresso "
+"Brasileiro sobre Software Livre e a Ética do Copyright e das Patentes</a>."
+
+#. type: Content of: <dl><dt>
+msgid "2 February 2001"
+msgstr "2 de Fevereiro de 2001"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"<a href=\"/award/2000/2000-pr.txt\">Brian Paul Is Awarded the Free Software "
+"Foundation Award For the Advancement of Free Software</a>."
+msgstr ""
+"<a href=\"/award/2000/2000-pr.txt\">Brian Paul é premiado com o Prêmio da "
+"Free Software Foundation pelo Avanço do Software Livre</a>."
+
+#. type: Content of: <dl><dt>
+msgid "15 December 1999"
+msgstr "15 de Dezembro de 1999"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"<a href=\"/award/1999/1999.html\">The Free Software Foundation (FSF) "
+"bestowed its second Free Software Foundation Award for the Advancement of "
+"Free Software on Miguel de Icaza</a>."
+msgstr ""
+"<a href=\"/award/1999/1999.html\">A Free Software Foundation (FSF) ofereceu "
+"o seu segundo Prêmio da Free Software Foundation, pelo Avanço do Software "
+"Livre, para Miguel de Icaza</a>."
+
+#. type: Content of: <h2>
+msgid "Additional Information"
+msgstr "Informações adicionais"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/people/speakers.html\">GNU and Free Software Speakers</a> are "
+"available for speaking engagements and press interviews."
+msgstr ""
+"<a href=\"/people/speakers.html\">Os palestrantes do GNU e do Software "
+"Livre</a> estão disponíveis para apresentar palestras e entrevistas com a "
+"imprensa."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/events.html\">Coming Events</a> related to the FSF and the GNU "
+"project."
+msgstr ""
+"<a href=\"/events.html\">Próximos eventos</a> relacionados à FSF e ao "
+"Projeto GNU."
+
+#. type: Content of: <h2>
+msgid "Background Information"
+msgstr "Informação de contexto"
+
+#. type: Content of: <p>
+msgid ""
+"On our <a href= \"/philosophy/philosophy.html\">philosophy page</a>, we have "
+"a number of texts that describe the political, ethical and practical "
+"viewpoints of the Free Software Foundation and the GNU project. If you are "
+"doing background reading for an article about the FSF or GNU, we suggesting "
+"in particular the following articles:"
+msgstr ""
+"Em nossa <a href=\"/philosophy/philosophy.html\">página de filosofia</a> nós "
+"temos vários textos que descrevem os pontos de vista políticos, éticos e "
+"práticos da Free Software Foundation e do Projeto GNU. Se você está "
+"procurando obter alguma informação mais aprofundada sobre a FSF ou sobre o "
+"GNU, sugerimos que você leia os seguintes artigos:"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"/philosophy/free-sw.html\">The Free Software Definition</a>"
+msgstr "<a href=\"/philosophy/free-sw.html\">A definição do software livre</a>"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"/gnu/thegnuproject.html\">A History of the GNU Project</a>"
+msgstr "<a href=\"/gnu/thegnuproject.html\">Uma história do Projeto GNU</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/philosophy/open-source-misses-the-point.html\">How Free Software "
+"Differs from Open Source</a>"
+msgstr ""
+"<a href=\"/philosophy/open-source-misses-the-point.html\">Como o Software "
+"Livre difere do Código aberto (Open Source)</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/gnu/linux-and-gnu.html\">The Relationship between GNU (the "
+"system) and Linux (the kernel)</a>"
+msgstr ""
+"<a href=\"/gnu/linux-and-gnu.html\">O relacionamento entre GNU (o sistema) e "
+"Linux (o kernel)</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/gnu/why-gnu-linux.html\">Why We call the system, \"GNU/Linux\"</a>"
+msgstr ""
+"<a href=\"/gnu/why-gnu-linux.html\">Por que nós chamamos o sistema de “GNU/"
+"Linux”</a>"
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+# type: Content of: <div><p>
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF.  Links quebrados e outras correções ou "
+"sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid ""
+"Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, "
+"2006, 2007, 2013, 2014 Free Software Foundation, Inc."
+msgstr ""
+"Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, "
+"2006, 2007, 2013, 2014 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+"NoDerivs 3.0 United States License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por:\n"
+"Fernando Lozano <a href=\"mailto:fernando@lozano.eti.br\">&lt;"
+"fernando@lozano.eti.br&gt;</a>; \n"
+"Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome."
+"org&gt;</a>, 2018."
+
+# type: Content of: <div><p>
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização: "

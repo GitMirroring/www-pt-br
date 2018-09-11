@@ -1,22 +1,23 @@
-# Brazilian Portuguese translation of http://www.gnu.org/graphics/license-logos.html
-# Copyright (C) 2012 Free Software Foundation, Inc.
+# Brazilian Portuguese translation of https://www.gnu.org/graphics/license-logos.html
+# Copyright (C) 2018 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnu.org article.
 # Rafael Beraldo <rberaldo@cabaladada.org>, 2012.
 # João António Arantes Golçalves <jaagoncalves@gmail.com>, 2012.
 # May 2014: trivial update (T. Godefroy).
-#
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: license-logos.html\n"
-"POT-Creation-Date: 2014-04-08 07:03+0000\n"
-"PO-Revision-Date: 2012-05-30 13:51-0300\n"
-"Last-Translator: Rafael Beraldo <rberaldo@cabaladada.org>\n"
+"POT-Creation-Date: 2018-08-24 15:25+0000\n"
+"PO-Revision-Date: 2018-08-26 13:36-0200\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
 
 #. type: Content of: <title>
 msgid "GNU License Logos - GNU Project - Free Software Foundation"
@@ -89,18 +90,70 @@ msgstr ""
 "SVG</a>, <a href=\"lgpl-agpl-v3-logos.svg\">LGPLv3 e AGPLv3 SVG</a>, <a href="
 "\"gfdl-logo.svg\">GFDL SVG</a>."
 
-#. type: Content of: <table><tr><th><a>
-msgid "<a href=\"gfdl-logo-small.png\">"
-msgstr "<a href=\"gfdl-logo-small.png\">"
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"gplv3-with-text-136x68.png\">"
+msgstr "<a href=\"gplv3-with-text-136x68.png\">"
 
-#. type: Attribute 'alt' of: <table><tr><th><a><img>
-msgid "[Large GFDL logo]"
-msgstr "[Logo grande da GFDL]"
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "[Large GPLv3 logo with &ldquo;Free as in Freedom&rdquo;]"
+msgstr ""
+"[Logo grande da GPLv3 com “Free as in Freedom”, que significa “Livre como em "
+"Liberdade” em inglês]"
 
 # type: Content of: <div><p>
 #. type: Content of: <p>
 msgid "</a>"
 msgstr "</a>"
+
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"lgplv3-with-text-154x68.png\">"
+msgstr "<a href=\"lgplv3-with-text-154x68.png\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "[Large LGPLv3 logo with &ldquo;Free as in Freedom&rdquo;]"
+msgstr ""
+"[Logo grande da LGPLv3 com “Free as in Freedom”, que significa “Livre como "
+"em Liberdade” em inglês]"
+
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"agplv3-with-text-162x68.png\">"
+msgstr "<a href=\"agplv3-with-text-162x68.png\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "[Large GNU AGPLv3 logo with &ldquo;Free as in Freedom&rdquo;]"
+msgstr ""
+"[Logo grande da GNU AGPLv3 com “Free as in Freedom”, que significa “Livre "
+"como em Liberdade” em inglês]"
+
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"gplv3-with-text-84x42.png\">"
+msgstr "<a href=\"gplv3-with-text-84x42.png\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "[Small GPLv3 logo with &ldquo;Free as in Freedom&rdquo;]"
+msgstr ""
+"[Logo pequeno da GPLv3 com “Free as in Freedom”, que significa “Livre como "
+"em Liberdade” em inglês]"
+
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"lgplv3-with-text-95x42.png\">"
+msgstr "<a href=\"lgplv3-with-text-95x42.png\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "[Small LGPLv3 logo with &ldquo;Free as in Freedom&rdquo;]"
+msgstr ""
+"[Logo pequeno da LGPLv3 com “Free as in Freedom”, que significa “Livre como "
+"em Liberdade” em inglês]"
+
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"agplv3-with-text-100x42.png\">"
+msgstr "<a href=\"agplv3-with-text-100x42.png\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "[Small GNU AGPLv3 logo with &ldquo;Free as in Freedom&rdquo;]"
+msgstr ""
+"[Logo pequeno da GNU AGPLv3 com “Free as in Freedom”, que significa “Livre "
+"como em Liberdade” em inglês]"
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"gplv3-127x51.png\">"
@@ -126,17 +179,21 @@ msgstr "<a href=\"agplv3-155x51.png\">"
 msgid "[Large GNU AGPLv3 logo]"
 msgstr "[Logo grande da GNU AGPLv3]"
 
-#. type: Content of: <table><tr><th><a>
-msgid "<a href=\"gfdl-logo-tiny.png\">"
-msgstr "<a href=\"gfdl-logo-tiny.png\">"
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"gfdl-logo-small.png\">"
+msgstr "<a href=\"gfdl-logo-small.png\">"
 
 #. type: Attribute 'alt' of: <table><tr><td><a><img>
-msgid "[Small GPLv3 logo]"
-msgstr "[Logo pequeno da GPLv3]"
+msgid "[Large GFDL logo]"
+msgstr "[Logo grande da GFDL]"
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"gplv3-88x31.png\">"
 msgstr "<a href=\"gplv3-88x31.png\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "[Small GPLv3 logo]"
+msgstr "[Logo pequeno da GPLv3]"
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"lgplv3-88x31.png\">"
@@ -153,6 +210,10 @@ msgstr "<a href=\"agplv3-88x31.png\">"
 #. type: Attribute 'alt' of: <table><tr><td><a><img>
 msgid "[Small GNU AGPLv3 logo]"
 msgstr "[Logo pequeno da GNU AGPLv3]"
+
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"gfdl-logo-tiny.png\">"
+msgstr "<a href=\"gfdl-logo-tiny.png\">"
 
 #. type: Content of: <p>
 msgid ""
@@ -226,19 +287,21 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2007, 2008, 2011, 2013, 2014 Free Software Foundation, Inc."
+"Copyright &copy; 2007, 2008, 2011, 2013, 2014, 2018 Free Software "
+"Foundation, Inc."
 msgstr ""
-"Copyright &copy; 2007, 2008, 2011, 2013, 2014 Free Software Foundation, Inc."
+"Copyright &copy; 2007, 2008, 2011, 2013, 2014, 2018 Free Software "
+"Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
-"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
@@ -246,10 +309,11 @@ msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "<b>Tradução</b>: Rafael Beraldo\n"
 "<a href=\"mailto:rberaldo@cabaladada.org\">&lt;rberaldo@cabaladada.org&gt;</"
-"a>, 2012 e João António Arantes Golçalves <a href=\"mailto:"
-"jaagoncalves@gmail.com\">&lt;jaagoncalves@gmail.com&gt;</a>, 2012.<p>Essa "
-"tradução foi parcialmente realizada durante o FLISOL 2012, em São Carlos, SP."
-"</p>"
+"a>, e João António Arantes Golçalves <a href=\"mailto:jaagoncalves@gmail.com"
+"\">&lt;jaagoncalves@gmail.com&gt;</a>, 2012 (A primeira tradução dessa "
+"página foi parcialmente realizada durante o FLISOL 2012, em São Carlos, SP). "
+"Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome."
+"org&gt;</a>, 2018."
 
 # type: Content of: <div><p>
 #.  timestamp start 

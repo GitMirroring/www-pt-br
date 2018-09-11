@@ -1,0 +1,288 @@
+# Brazilian Portuguese translation of https://www.gnu.org/software/reliability.html
+# Copyright (C) 2018 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018.
+# Cassiano Reinert Novais dos Santos <caco@posteo.net>, 2018 (proofread)
+msgid ""
+msgstr ""
+"Project-Id-Version: reliability.html\n"
+"POT-Creation-Date: 2014-04-05 00:03+0000\n"
+"PO-Revision-Date: 2018-09-05 17:06-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid ""
+"Free Software is More Reliable! - GNU Project - Free Software Foundation"
+msgstr ""
+"O Software Livre é mais confiável! - Projeto GNU - Free Software Foundation"
+
+#. type: Content of: <h2>
+msgid "Free Software is More Reliable!"
+msgstr "O software livre é mais confiável!"
+
+#. type: Content of: <p>
+msgid ""
+"Apologists for <a href=\"/philosophy/categories.html#ProprietarySoftware"
+"\">proprietary software</a> like to say, &ldquo;<a href=\"/philosophy/free-"
+"sw.html\">free software</a> is a nice dream, but we all know that only the "
+"proprietary system can produce reliable products.  A bunch of hackers just "
+"can't do this.&rdquo;"
+msgstr ""
+"Os defensores do <a href=\"/philosophy/categories.html#ProprietarySoftware"
+"\">software proprietário</a> gostam de dizer que “o <a href=\"/philosophy/"
+"free-sw.html\">software livre</a> é um bonito sonho, mas todos sabemos que "
+"apenas a indústria de software proprietário pode produzir produtos "
+"confiáveis. Um punhado de harckers simplesmente não consegue fazer isso.”"
+
+#. type: Content of: <p>
+msgid ""
+"Empirical evidence disagrees, however; scientific tests, described below, "
+"have found GNU software to be <em>more</em> reliable than comparable "
+"proprietary software."
+msgstr ""
+"Entretanto, evidências empíricas comprovam o contrário. Testes científicos, "
+"descritos abaixo, afirmam que o software GNU é mais confiável que "
+"correspondentes proprietários."
+
+#. type: Content of: <p>
+msgid ""
+"This should not be a surprise; there are good reasons for the high "
+"reliability of GNU software, good reasons to expect free software will often "
+"(though not always) have high reliability."
+msgstr ""
+"Isto não deveria ser uma surpresa. Existem boas razões para a alta "
+"confiabilidade do software GNU e boas razões para acreditar que o software "
+"livre frequentemente (apesar de nem sempre) terá maior confiabilidade."
+
+#. type: Content of: <h3>
+msgid "GNU Utilities Safer!"
+msgstr "Utilitários GNU mais seguros!"
+
+#. type: Content of: <p>
+msgid ""
+"Barton P. Miller and his colleagues tested the reliability of Unix utility "
+"programs in 1990 and 1995.  Each time, GNU's utilities came out considerably "
+"ahead. They tested seven commercial Unix systems as well as GNU.  By "
+"subjecting them to a random input stream, they could &ldquo;crash (with core "
+"dump) or hang (infinite loop) over 40% (in the worst case) of the basic "
+"utility programs&hellip;&rdquo;"
+msgstr ""
+"Barton P. Miller e seus colegas testaram a confiabilidade dos utilitários de "
+"sistemas Unix em 1990 e 1995. Nas duas ocasiões os utilitários GNU tiveram "
+"uma considerável vantagem. Eles testaram sete sistemas comerciais Unix e "
+"também o GNU. Através de testes em que os submetiam à entradas aleatórias de "
+"dados, puderam “derrubar (com gravação da imagem do núcleo ou <i>core dump</"
+"i>) ou travar (loops infinitos) até 40% (nos piores casos) os programas "
+"utilitários básicos…”"
+
+#. type: Content of: <p>
+msgid ""
+"These researchers found that the commercial Unix systems had a failure rate "
+"that ranged from 15% to 43%. In contrast, the failure rate for GNU was only "
+"7%."
+msgstr ""
+"Estes pesquisadores descobriram que os sistemas comerciais Unix tinham uma "
+"taxa de falha que variava entre 15% e 43%. Em contraste, a taxa de falha "
+"para os utilitários GNU foram de apenas 7%."
+
+#. type: Content of: <p>
+msgid ""
+"Miller also said that, &ldquo;the three commercial systems that we compared "
+"in both 1990 and 1995 noticeably improved in reliability, but still had "
+"significant rates of failure (the basic utilities from GNU/Linux still were "
+"noticeably better than those of the commercial systems).&rdquo;"
+msgstr ""
+"Miller também afirmou que “os três sistemas comerciais que nós comparamos "
+"tanto em 1990 quanto em 1995 visivelmente tornaram-se mais confiáveis, mas "
+"continuaram tendo taxas de falha significativas (os utilitários básicos do "
+"GNU/Linux continuaram sendo mais confiáveis que os equivalentes nos sistemas "
+"comerciais).”"
+
+#. type: Content of: <p>
+msgid ""
+"For details, see their paper: <a href=\"ftp://ftp.cs.wisc.edu/pub/paradyn/"
+"technical_papers/fuzz-revisited.ps\"> Fuzz Revisited: A Re-examination of "
+"the Reliability of Unix Utilities and Services (postscript 223k)</a> by "
+"Barton P. Miller <a href=\"mailto:bart@cs.wisc.edu\">&lt;bart@cs.wisc.edu&gt;"
+"</a>, David Koski, Cjin Pheow Lee, Vivekananda Maganty, Ravi Murthy, "
+"Ajitkumar Natarajan, and Jeff Steidl."
+msgstr ""
+"Para mais detalhes, veja o artigo original: <a href=\"ftp://ftp.cs.wisc.edu/"
+"pub/paradyn/technical_papers/fuzz-revisited.ps\"> Fuzz Revisited: A Re-"
+"examination of the Reliability of Unix Utilities and Services (postscript "
+"223k)</a> por Barton P. Miller <a href=\"mailto:bart@cs.wisc.edu\">&lt;"
+"bart@cs.wisc.edu&gt;</a>, David Koski, Cjin Pheow Lee, Vivekananda Maganty, "
+"Ravi Murthy, Ajitkumar Natarajan e Jeff Steidl."
+
+#. type: Content of: <h3>
+msgid "Why Free Software is More Reliable"
+msgstr "Por que software livre é mais confiável"
+
+#. type: Content of: <p>
+msgid ""
+"It is no fluke that the GNU utilities are so reliable. There are good "
+"reasons why free software tends to be of high quality."
+msgstr ""
+"Não é por acaso que os utilitários GNU são tão confiáveis. Existem boas "
+"razões pelas quais softwares livres tendem a ter uma maior qualidade."
+
+#. type: Content of: <p>
+msgid ""
+"One reason is that free software gets the whole community involved in "
+"working together to fix problems. Users not only report bugs, they even fix "
+"bugs and send in fixes. Users work together, conversing by email, to get to "
+"the bottom of a problem and make the software work trouble-free."
+msgstr ""
+"Uma razão é que o software livre envolve toda a comunidade para trabalhar em "
+"conjunto para resolver problemas. Os usuários não apenas relatam erros, como "
+"também corrigem os erros e enviam correções. Os usuários trabalham juntos, "
+"conversando por e-mail, para chegar ao fundo de um problema e fazer o "
+"software funcionar perfeitamente."
+
+#. type: Content of: <p>
+msgid ""
+"Another is that developers really care about reliability.  Free software "
+"packages do not always compete commercially, but they still compete for a "
+"good reputation, and a program which is unsatisfactory will not achieve the "
+"popularity that developers hope for.  What's more, an author who makes the "
+"source code available for all to see puts his reputation on the line, and "
+"had better make the software clean and clear, on pain of the community's "
+"disapproval."
+msgstr ""
+"Outra razão é que os desenvolvedores realmente se preocupam com a "
+"confiabilidade. Os pacotes de software livre nem sempre competem "
+"comercialmente, mas eles competem por uma boa reputação. Um programa "
+"insatisfatório não trará a popularidade que o desenvolvedor busca. Um autor "
+"que disponibiliza o código-fonte de seus programas para todos expõe "
+"enormemente sua reputação, então é melhor tornar o software limpo e claro, "
+"sob o risco de ter a desaprovação da comunidade."
+
+#. type: Content of: <h3>
+msgid "Cancer Clinic Relies on Free Software!"
+msgstr "Clínica para tratamento de câncer confia em software livre!"
+
+#. type: Content of: <p>
+msgid ""
+"The Roger Maris Cancer Center in Fargo, North Dakota (the same Fargo which "
+"was the scene of a movie and a flood) uses Linux-based GNU systems precisely "
+"because reliability is essential.  A network of GNU/Linux machines runs the "
+"information system, coordinates drug therapies, and performs many other "
+"functions.  This network needs to be available to the Center's staff at a "
+"moment's notice."
+msgstr ""
+"O Centro de Tratamento de Câncer Roger Maris em Fargo, Dakota do Norte (a "
+"mesma cidade que recentemente foi tema de filme e um alagamento) usa "
+"sistemas GNU/Linux exatamente porque a confiabilidade é essencial. A rede de "
+"máquinas GNU/Linux é responsável por todo o sistema de informações, "
+"coordenando terapia medicamentosa e realizando muitas outras funções. Essa "
+"rede precisa estar disponível sempre que a equipe do Centro precise das "
+"informações."
+
+#. type: Content of: <p>
+msgid ""
+"According to Dr. G.W. Wettstein <a href=\"mailto:greg@wind.rmcc.com\"> &lt;"
+"greg@wind.rmcc.com&gt;</a>:"
+msgstr ""
+"De acordo com o Dr. G.W. Wettstein <a href=\"mailto:greg@wind.rmcc.com\"> "
+"&lt;greg@wind.rmcc.com&gt;</a>:"
+
+#. type: Content of: <blockquote><p>
+msgid ""
+"The proper care of our cancer patients would not be what it is today without "
+"[GNU/]Linux &hellip; The tools that we have been able to deploy from free "
+"software channels have enabled us to write and develop innovative "
+"applications which &hellip; do not exist through commercial avenues."
+msgstr ""
+"A qualidade do tratamento que nossos pacientes de câncer têm hoje não seria "
+"a mesma sem o [GNU/]Linux &hellip; As ferramentas que nós desenvolvemos "
+"através de software livre nos permitiu escrever e desenvolver aplicativos "
+"inovadores que &hellip; não existiriam por meio de software proprietário."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+# type: Content of: <div><p>
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF.  Links quebrados e outras correções ou "
+"sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid ""
+"Copyright &copy; 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, "
+"2007, 2008, 2009, 2011, 2014 <a href=\"http://www.fsf.org\">Free Software "
+"Foundation</a>, Inc."
+msgstr ""
+"Copyright &copy; 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, "
+"2007, 2008, 2009, 2011, 2014 <a href=\"http://www.fsf.org\">Free Software "
+"Foundation</a>, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+"NoDerivs 3.0 United States License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por:\n"
+"Cláudio Machado <a href=\"mailto:claudio.machado@bol.com.br\"> &lt;claudio."
+"machado@bol.com.br&gt;</a>;\n"
+"Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\"> &lt;rafaelff@gnome."
+"org&gt;</a>, 2018."
+
+# type: Content of: <div><p>
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização: "

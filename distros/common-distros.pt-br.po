@@ -8,7 +8,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: common-distros.html\n"
-"POT-Creation-Date: 2018-02-12 14:56+0000\n"
+"POT-Creation-Date: 2018-08-31 08:55+0000\n"
 "PO-Revision-Date: 2018-03-26 11:49-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -136,6 +136,14 @@ msgstr ""
 "Linux. O Arch também não tem políticas sobre não distribuir software não "
 "livre pelos seus canais normais."
 
+#. type: Content of: <p>
+msgid ""
+"Instead of this nonfree distribution, use <a href=\"/distros/free-distros."
+"html#for-pc\">Parabola</a>, the free distro which is made from it."
+msgstr ""
+"Em vez dessa distribuição não livre, use <a href=\"/distros/free-distros."
+"html#for-pc\">Parabola</a>, a distro livre que é feita a partir desta."
+
 #. type: Content of: <h3>
 msgid "Canaima"
 msgstr "Canaima"
@@ -233,6 +241,16 @@ msgstr ""
 msgid "Debian's wiki includes pages about installing nonfree firmware."
 msgstr ""
 "O wiki do Debian inclui páginas sobre instalação de firmware não livre."
+
+#. type: Content of: <p>
+msgid ""
+"Instead of this nonfree distribution, use one of the free distros which are "
+"made from it: <a href=\"/distros/free-distros.html#for-pc\">gNewSense</a>, "
+"and <a href=\"/distros/free-distros.html#for-pc\">PureOS</a>."
+msgstr ""
+"Em vez dessa distribuição não livre, use uma das distros livres que são "
+"feitas a partir desta: <a href=\"/distros/free-distros.html#for-pc"
+"\">gNewSense</a> e <a href=\"/distros/free-distros.html#for-pc\">PureOS</a>."
 
 #. type: Content of: <h3>
 msgid "Fedora"
@@ -475,6 +493,18 @@ msgstr ""
 "termo é prejudicial, sem exceção, motivo pelo qual ao se fazer uma "
 "referência ao uso do termo por outra pessoa, você deve rejeitá-lo. Porém, "
 "não é uma questão substantiva sobre Ubuntu como uma distribuição GNU/Linux."
+
+#. type: Content of: <p>
+msgid ""
+"Instead of this nonfree distribution, use one of the free distros which are "
+"made from it: <a href=\"/distros/free-distros.html#for-pc\">Dyne:bolic</a>, "
+"<a href=\"/distros/free-distros.html#for-pc\">Trisquel</a>, and <a href=\"/"
+"distros/free-distros.html#for-pc\">Ututo S</a>."
+msgstr ""
+"Em vez dessa distribuição não livre, use uma das distros livres que são "
+"feitas a partir desta: <a href=\"/distros/free-distros.html#for-pc\">Dyne:"
+"bolic</a>, <a href=\"/distros/free-distros.html#for-pc\">Trisquel</a> e <a "
+"href=\"/distros/free-distros.html#for-pc\">Ututo S</a>."
 
 #. type: Content of: <h2>
 msgid "Some Other Distros"

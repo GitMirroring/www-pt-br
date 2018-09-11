@@ -1,12 +1,12 @@
 # Brazilian Portuguese translation of https://www.gnu.org/education/edu-cases-india-ambedkar.html
 # Copyright (C) 2017 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2017.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: edu-cases-india-ambedkar.html\n"
-"POT-Creation-Date: 2016-09-13 15:55+0000\n"
-"PO-Revision-Date: 2017-04-19 01:58-0300\n"
+"POT-Creation-Date: 2018-08-26 15:57+0000\n"
+"PO-Revision-Date: 2018-08-26 13:32-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -26,14 +26,14 @@ msgstr ""
 
 #. type: Content of: <p>
 msgid ""
-"<a href=\"education.html\">Education</a> &rarr; <a href=\"/education/edu-"
-"cases.html\">Case Studies</a> &rarr; <a href=\"/education/edu-cases-india."
-"html\">India</a> &rarr; Ambedkar Community Computing Center (AC3)"
+"<a href=\"/education/education.html\">Education</a> &rarr; <a href=\"/"
+"education/edu-cases.html\">Case Studies</a> &rarr; <a href=\"/education/edu-"
+"cases-india.html\">India</a> &rarr; Ambedkar Community Computing Center (AC3)"
 msgstr ""
-"<a href=\"education.html\">Educação</a> &rarr; <a href=\"/education/edu-"
-"cases.html\">Estudos de Casos</a> &rarr; <a href=\"/education/edu-cases-"
-"india.html\">Índia</a> &rarr; Centro de Computação Comunitária de Ambedkar "
-"(AC3)"
+"<a href=\"/education/education.html\">Educação</a> &rarr; <a href=\"/"
+"education/edu-cases.html\">Estudos de Casos</a> &rarr; <a href=\"/education/"
+"edu-cases-india.html\">Índia</a> &rarr; Centro de Computação Comunitária de "
+"Ambedkar (AC3)"
 
 #. type: Content of: <h2>
 msgid "Ambedkar Community Computing Center (AC3)"
@@ -67,17 +67,18 @@ msgstr "Sobre"
 
 #. type: Content of: <div><p>
 msgid ""
-"The <a href=\"http://slumdweller.wikispaces.com/Community+Computing+Center"
-"\"> Ambedkar Community Computing Center</a> is not a private or public "
-"educational institution, it is a computing education center run by youths "
-"from a local group called Ambedkar Sanga that works in the slums of the area."
+"The <a href=\"https://web.archive.org/web/20180216204910/http://slumdweller."
+"wikispaces.com/Community+Computing+Center\"> Ambedkar Community Computing "
+"Center</a> is not a private or public educational institution, it is a "
+"computing education center run by youths from a local group called Ambedkar "
+"Sanga that works in the slums of the area."
 msgstr ""
-"O <a href=\"http://slumdweller.wikispaces.com/Community+Computing+Center\"> "
-"Centro de Computação Comunitária de Ambedkar</a> (em inglês, <cite>Ambedkar "
-"Community Computing Center</cite>) não é uma instituição educacional privada "
-"ou pública; é um centro de computação educacional mantido por jovens de um "
-"grupo local chamado <cite>Ambedkar Sanga</cite> que trabalha nas favelas da "
-"área."
+"O <a href=\"https://web.archive.org/web/20180216204910/http://slumdweller."
+"wikispaces.com/Community+Computing+Center\"> Centro de Computação "
+"Comunitária de Ambedkar</a> (em inglês, <cite>Ambedkar Community Computing "
+"Center</cite>) não é uma instituição educacional privada ou pública; é um "
+"centro de computação educacional mantido por jovens de um grupo local "
+"chamado <cite>Ambedkar Sanga</cite> que trabalha nas favelas da área."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -240,8 +241,8 @@ msgid ""
 "Attribution-Share Alike 3.0 Unported License</a>."
 msgstr ""
 "A imagem nesta página está licenciada sob a CC-BY-SA, a licença <a rel="
-"\"license\" href=\"http://creativecommons.org/licenses/by-sa/3.0/\"> "
-"Creative Commons Atribuição-CompartilhaIgual 3.0 Não Adaptada</a>."
+"\"license\" href=\"http://creativecommons.org/licenses/by-sa/3.0/deed.pt_BR"
+"\"> Creative Commons Atribuição-CompartilhaIgual 3.0 Não Adaptada</a>."
 
 #. type: Content of: <p>
 msgid ""
@@ -301,8 +302,8 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2011, 2012, 2016 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2011, 2012, 2016 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2011, 2012, 2016, 2018 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2011, 2012, 2016, 2018 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -319,10 +320,14 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "<b>Traduzido por:</b> Rafael Fontenelle\n"
-"<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, 2017"
+"<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, 2017, "
+"2018"
 
 # type: Content of: <div><p>
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização: "
+
+#~ msgid "Copyright &copy; 2011, 2012, 2016 Free Software Foundation, Inc."
+#~ msgstr "Copyright &copy; 2011, 2012, 2016 Free Software Foundation, Inc."

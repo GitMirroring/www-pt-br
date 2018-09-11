@@ -1,0 +1,283 @@
+# Brazilian Portuguese translation of https://www.gnu.org/licenses/gpl-violation.html
+# Copyright (C) 2018 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018.
+# André N Batista <nandre@riseup.net>, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: gpl-violation.html\n"
+"POT-Creation-Date: 2018-01-01 05:57+0000\n"
+"PO-Revision-Date: 2018-09-05 17:35-0300\n"
+"Last-Translator: André N Batista <nandre@riseup.net>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid "Violations of the GNU Licenses - GNU Project - Free Software Foundation"
+msgstr "Violações das licenças GNU - Projeto GNU - Free Software Foundation"
+
+#. type: Content of: <h2>
+msgid "Violations of the GNU Licenses"
+msgstr "Violações das licenças GNU"
+
+#. type: Content of: <p>
+msgid ""
+"If you think you see a violation of the GNU <a href=\"/licenses/gpl.html"
+"\">GPL</a>, <a href=\"/licenses/lgpl.html\">LGPL</a>, <a href=\"/licenses/"
+"agpl.html\">AGPL</a>, or <a href=\"/licenses/fdl.html\">FDL</a>, the first "
+"thing you should do is double-check the facts:"
+msgstr ""
+"Se você acredita ter encontrado uma violação da GNU <a href=\"/licenses/gpl."
+"html\">GPL</a>, <a href=\"/licenses/lgpl.html\">LGPL</a>, <a href=\"/"
+"licenses/agpl.html\">AGPL</a> ou <a href=\"/licenses/fdl.html\">FDL</a>, a "
+"primeira coisa que deve fazer é conferir os fatos:"
+
+#. type: Content of: <ul><li>
+msgid "Does the distribution contain a copy of the License?"
+msgstr "A distribuição contém uma cópia da Licença?"
+
+#. type: Content of: <ul><li>
+msgid ""
+"Does it clearly state which software is covered by the License? Does it say "
+"anything misleading, perhaps giving the impression that something is covered "
+"by the License when in fact it is not?"
+msgstr ""
+"Ela indica claramente qual software está coberto pela Licença? Diz alguma "
+"coisa enganosa, talvez dando a impressão de que algo está coberto pela "
+"Licença quando na verdade não está?"
+
+#. type: Content of: <ul><li>
+msgid "Is source code included in the distribution?"
+msgstr "O código-fonte está incluído na distribuição?"
+
+#. type: Content of: <ul><li>
+msgid ""
+"Is a written offer for source code included with a distribution of just "
+"binaries?"
+msgstr ""
+"Uma oferta por escrito do código-fonte está incluída em uma distribuição de "
+"meros binários?"
+
+#. type: Content of: <ul><li>
+msgid ""
+"Is the available source code complete, or is it designed for linking in "
+"other non-free modules?"
+msgstr ""
+"O código-fonte disponível é completo ou foi projetado para vincular outros "
+"módulos não livres?"
+
+#. type: Content of: <p>
+msgid ""
+"If there seems to be a real violation, the next thing you need to do is "
+"record the details carefully:"
+msgstr ""
+"Se parece haver uma violação real, a próxima coisa que você precisa fazer é "
+"registrar os detalhes com cuidado:"
+
+#. type: Content of: <ul><li>
+msgid "the precise name of the product"
+msgstr "o nome preciso do produto"
+
+#. type: Content of: <ul><li>
+msgid "the name of the person or organization distributing it"
+msgstr "o nome da pessoa ou organização distribuindo-o"
+
+#. type: Content of: <ul><li>
+msgid ""
+"email addresses, postal addresses and phone numbers for how to contact the "
+"distributor(s)"
+msgstr ""
+"endereços de e-mail, endereços postais e números de telefone para entrar em "
+"contato com quem o distribui"
+
+#. type: Content of: <ul><li>
+msgid "the exact name of the package whose license is violated"
+msgstr "o nome exato do pacote cuja licença foi violada"
+
+#. type: Content of: <ul><li>
+msgid "how the license was violated:"
+msgstr "como a licença foi violada:"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "Is the copyright notice of the copyright holder included?"
+msgstr "O aviso de direitos autorais de quem os detém está incluído?"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "Is the source code completely missing?"
+msgstr "O código-fonte está completamente ausente?"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"Is there a written offer for source that's incomplete in some way? This "
+"could happen if it provides a contact address or network URL that's somehow "
+"incorrect."
+msgstr ""
+"Existe uma oferta por escrito para o código-fonte que está incompleta de "
+"alguma forma? Isso pode acontecer se o endereço de contato ou a URL de rede "
+"fornecidos estiverem incorretos."
+
+#. type: Content of: <ul><li><ul><li>
+msgid "Is there a copy of the license included in the distribution?"
+msgstr "Existe uma cópia da licença incluída na distribuição?"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"Is some of the source available, but not all? If so, what parts are missing?"
+msgstr ""
+"Parte do código-fonte está disponível, mas não tudo? Nesse caso, quais "
+"partes estão faltando?"
+
+#. type: Content of: <p>
+msgid ""
+"The more of these details that you have, the easier it is for the copyright "
+"holder to pursue the matter."
+msgstr ""
+"Quanto mais desses detalhes você tiver, mais fácil será para quem detiver os "
+"direitos autorais lidar com a questão."
+
+#. type: Content of: <p>
+msgid ""
+"Once you have collected the details, you should send a precise report to the "
+"copyright holder of the packages that are being misused.  The copyright "
+"holder is the one who is legally authorized to take action to enforce the "
+"license."
+msgstr ""
+"Depois que tiver coletado os detalhes, você deve enviar um relatório preciso "
+"a quem detém os direitos autorais dos pacotes que estão sendo mal "
+"utilizados. Somente quem os detém possui legitimidade jurídica para tomar as "
+"medidas para exigir o cumprimento da licença."
+
+#. type: Content of: <p>
+msgid ""
+"If the copyright holder <strong>is</strong> the Free Software Foundation, "
+"please send the report to <a href=\"mailto:license-violation@gnu.org\">&lt;"
+"license-violation@gnu.org&gt;</a>.  It's important that we be able to write "
+"back to you to get more information about the violation or product.  So, if "
+"you use an anonymous remailer, please provide a return path of some sort. If "
+"you'd like to encrypt your correspondence, just send a brief mail saying so, "
+"and we'll make appropriate arrangements. Because the FSF endorsed <a href="
+"\"https://www.fsf.org/licensing/enforcement-principles\">the Principles of "
+"Community-Oriented GPL Enforcement</a>, you can rest assured that your "
+"report will help to educate the violator rather than punish them for their "
+"mistake."
+msgstr ""
+"Se quem detém os direitos autorais <strong>for</strong> a Free Software "
+"Foundation, por favor, envie o relatório para <a href=\"mailto:license-"
+"violation@gnu.org\">&lt;license-violation@gnu.org&gt;</a>. É importante que "
+"possamos escrever de volta para você para obter mais informações sobre a "
+"violação ou o produto. Portanto, se você usar um <i>remailer</i> anônimo, "
+"forneça por favor um caminho de retorno de algum tipo. Se você quiser "
+"criptografar sua correspondência, basta enviar um breve e-mail dizendo isso "
+"e nós tomaremos as providências apropriadas. Como a FSF endossou os <a href="
+"\"https://www.fsf.org/licensing/enforcement-principles\">princípios de "
+"cumprimento da GPL orientada para a comunidade</a>, você pode ter certeza de "
+"que seu relatório ajudará a educar quem a infringe, em vez de buscar punição "
+"para quem errou."
+
+#. type: Content of: <p>
+msgid ""
+"Note that the GPL, and other copyleft licenses, are copyright licenses.  "
+"This means that only the copyright holders are empowered to act against "
+"violations.  The FSF acts on all GPL violations reported on FSF copyrighted "
+"code, and we offer assistance to any other copyright holder who wishes to do "
+"the same."
+msgstr ""
+"Note que a GPL e outras licenças copyleft são licenças de direitos autorais. "
+"Isso significa que apenas quem os detém tem poder para agir contra "
+"violações. A FSF toma medidas em todas as violações da GPL relatadas nas "
+"quais é detentora dos direitos sobre os códigos e oferecemos assistência a "
+"quem quer que detenha direitos autorais e deseje fazer o mesmo."
+
+#. type: Content of: <p>
+msgid ""
+"But, we cannot act on our own if we do not hold copyright.  Thus, be sure to "
+"find out who the copyright holders of the software are before reporting a "
+"violation."
+msgstr ""
+"Mas não podemos agir por conta própria se não detivermos os direitos "
+"autorais. Assim, certifique-se de descobrir quem detém os direitos autorais "
+"do software antes de relatar uma violação."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+# type: Content of: <div><p>
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF.  Links quebrados e outras correções ou "
+"sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid ""
+"Copyright &copy; 1999, 2001, 2007, 2008, 2013, 2014, 2017, 2018 Free "
+"Software Foundation, Inc."
+msgstr ""
+"Copyright &copy; 1999, 2001, 2007, 2008, 2013, 2014, 2017, 2018 Free "
+"Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2018;\n"
+"André N Batista <a href=\"mailto:nandre@riseup.net\">&lt;nandre@riseup."
+"net&gt;</a>, 2018."
+
+# type: Content of: <div><p>
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização: "

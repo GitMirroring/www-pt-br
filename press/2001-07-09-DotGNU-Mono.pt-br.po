@@ -1,0 +1,362 @@
+# Brazilian Portuguese translation of http://www.gnu.org/press/2001-07-09-DotGNU-Mono.html
+# Copyright (C) 2018 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Fernando Lozano <fernando@lozano.eti.br>, ?
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018.
+# Cassiano Reinert Novais dos Santos <caco@posteo.net>, 2018. (proofread)
+msgid ""
+msgstr ""
+"Project-Id-Version: 2001-07-09-DotGNU-Mono.html\n"
+"POT-Creation-Date: 2014-04-05 00:02+0000\n"
+"PO-Revision-Date: 2018-09-05 10:37-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid ""
+"FSF Supports Free Software Projects to Replace Components of .NET - GNU "
+"Project - Free Software Foundation"
+msgstr ""
+"A FSF apoia projetos de software livre que substituem componentes do .NET - "
+"Projeto GNU - Free Software Foundation"
+
+#. type: Attribute 'content' of: <meta>
+msgid ""
+"microsoft.net, .net, microsoft, GNU, FSF, Free Software Foundation, Linux, "
+"press, freedom, software, free, mono, dotgnu, DotGnu"
+msgstr ""
+"microsoft.net, .net, microsoft, GNU, FSF, Free Software Foundation, Linux, "
+"press, liberdade, software livre, mono, dotgnu, DotGnu"
+
+#. type: Attribute 'content' of: <meta>
+msgid ""
+"The Free Software Foundation announced on Monday 9 July 2001 two projects, "
+"GNU Mono and DotGNU, to replace the Micrsoft.NET system."
+msgstr ""
+"A Free Software Foundation anunciou na segunda-feira, 9 de julho de 2001, "
+"dois projetos, GNU Mono e DotGNU, para substituir o sistema Microsoft.NET."
+
+#. type: Content of: <h2>
+msgid ""
+"FSF Announces Support of Free Software Projects to Replace Components of "
+"Microsoft .NET"
+msgstr ""
+"A FSF anuncia o suporte a projetos de software livre que substituem "
+"componentes do .NET da Microsoft"
+
+#. type: Content of: <blockquote><p>
+msgid ""
+"<a href=\"/press/2001-07-09-DotGNU-Mono.txt\">A plain text version of this "
+"press release is available.</a>."
+msgstr ""
+"<a href=\"/press/2001-07-09-DotGNU-Mono.txt\">Uma versão texto simples deste "
+"comunicado de imprensa está disponível.</a>"
+
+#. type: Content of: <blockquote><p>
+msgid "<strong>FOR IMMEDIATE RELEASE</strong>"
+msgstr "<strong>PARA DIVULGAÇÃO IMEDIATA</strong>"
+
+#. type: Content of: <blockquote><p>
+msgid "Media Contact: Free Software Foundation"
+msgstr "Contato com a mídia: Free Software Foundation"
+
+#. type: Content of: <blockquote><p>
+msgid "Bradley M. Kuhn <a href=\"mailto:pr@gnu.org\">&lt;pr@gnu.org&gt;</a>"
+msgstr "Bradley M. Kuhn <a href=\"mailto:pr@gnu.org\">&lt;pr@gnu.org&gt;</a>"
+
+#. type: Content of: <blockquote><p>
+msgid "Phone: +1-617-542-5942"
+msgstr "Telefone: +1-617-542-5942"
+
+#. type: Content of: <p>
+msgid ""
+"<strong>Boston, Massachusetts, USA</strong> - <em>Monday, July 9, 2001</em> "
+"- The Free Software Foundation announced today the support of two Free "
+"Software projects, Mono and DotGNU, that will offer Free Software "
+"alternatives to components of Microsoft's .NET system.  The Mono and DotGNU "
+"projects will each offer different but complementary solutions."
+msgstr ""
+"<strong>Boston, Massachusetts, EUA</strong> - <em>Segunda-feira, 9 de Julho "
+"de 2001</em> - A Free Software Foundation anunciou hoje o suporte a dois "
+"projetos de Software Livre, Mono e DotGNU, que irão oferecer alternativas de "
+"Software Livre para componentes do sistema .NET da Microsoft. Os projetos "
+"Mono e DotGNU irão cada um oferecer soluções diferentes, porém "
+"complementares."
+
+#. type: Content of: <p>
+msgid ""
+"The Mono Project is a community initiative to develop a Free Software, GNU/"
+"Linux-based version of the Microsoft .NET development platform.  "
+"Incorporating key .NET compliant components, including a C# compiler, a "
+"Common Language Runtime just-in-time compiler, and a full suite of class "
+"libraries, the Mono Project will enable developers to create .NET "
+"applications and run them on Windows or any Mono-supported platform, "
+"including GNU/Linux and Unix. The Mono Project is led by Ximian, the Free "
+"Software company co-founded by Miguel de Icaza, who has led GNU's GNOME "
+"desktop environment to great success. The URL for the project is http://www."
+"go-mono.net."
+msgstr ""
+"O Projeto Mono é uma iniciativa da comunidade para desenvolver uma versão em "
+"Software Livre, baseada em GNU/Linux, da plataforma de desenvolvimento .NET "
+"da Microsoft. Ao incorporar componentes chave do .NET, incluindo um "
+"compilador C#, um compilador just-in-time para o Common Language Runtime, e "
+"uma suíte completa de bibliotecas de classe, o Projeto Mono irá permitir que "
+"os desenvolvedores criem aplicativos .NET e rodem-nos sobre o Windows ou "
+"qualquer plataforma suportada pelo Mono, incluindo GNU/Linux e Unix. O "
+"Projeto Mono é liderado pela Ximian, a empresa de Software Livre co-fundada "
+"por Miguel de Icaza, que levou o ambiente de desktop do GNU GNOME a um "
+"grande sucesso. A URL para o projeto é http://www.go-mono.net."
+
+#. type: Content of: <p>
+msgid ""
+"The DotGNU Project is a community initiative to develop Free Software "
+"enabling decentralized services and authentication. The DotGNU Project is "
+"led by David Sugar, who also maintains Bayonne, the GNU telephony system, "
+"and has recently been named the CTO of FreeDevelopers. DotGNU is centered at "
+"Savannah, the GNU developer collaboration site. The URL for Savannah is "
+"http://savannah.gnu.org."
+msgstr ""
+"O Projeto DotGNU é uma iniciativa da comunidade para desenvolver Software "
+"Livre viabilizando serviços e autenticação descentralizados. O Projeto "
+"DotGNU é liderado por David Sugar, que também mantém o Bayonne, o sistema de "
+"telefonia do GNU, e que foi recentemente nomeado o CTO da FreeDevelopers. O "
+"DotGNU é hospedado no Savannah, o site de desenvolvimento colaborativo do "
+"GNU. A URL para o Savannah é http://savannah.gnu.org."
+
+#. type: Content of: <p>
+msgid ""
+"Richard M. Stallman, founder of the GNU project and president of the Free "
+"Software Foundation, said: &ldquo;With Mono and DotGNU, we hope to provide "
+"good alternatives to components of .NET, ones that will respect your "
+"freedom, and your privacy.  You will be able to use the facilities of Mono "
+"and DotGNU either with, or without, the Internet, and using servers of your "
+"choice.&rdquo;"
+msgstr ""
+"Richard M. Stallman, fundador do Projeto GNU e presidente da Free Software "
+"Foundation, disse: “Com Mono e DotGNU, nós esperamos fornecer boas "
+"alternativas aos componentes do .NET, alternativas que irão respeitar sua "
+"liberdade e sua privacidade. Você poderá utilizar as facilidades do Mono e "
+"do DotGNU tanto com Internet quanto sem ela, e utilizando servidores da sua "
+"escolha.”"
+
+#. type: Content of: <p>
+msgid ""
+"&ldquo;We are taking the lead in providing an upgraded development platform "
+"that enables Unix and GNU/Linux developers to capitalize on the .NET "
+"framework. By having the Mono Project reuse the work from the GNU and GNOME "
+"project, we can greatly accelerate the development process,&rdquo; said "
+"Miguel de Icaza, co-founder and chief technical officer at Ximian."
+msgstr ""
+"“Nós estamos assumindo a liderança em fornecer uma plataforma de "
+"desenvolvimento atualizada que habilita desenvolvedores Unix e GNU/Linux a "
+"capitalizarem sobre o framework do .NET. Ao fazer com que o Projeto Mono "
+"reutilize o trabalho realizado nos projetos GNU e GNOME, poderemos acelerar "
+"grandemente o processo de desenvolvimento”, disse Miguel de Icaza, co-"
+"fundador e CTO da Ximian."
+
+#. type: Content of: <p>
+msgid ""
+"Stallman added: &ldquo;Mono will enable you to run your C# programs on the "
+"free GNU/Linux operating system using exclusively free software.  With Mono, "
+"you will be able to use C# if you wish, without surrendering your freedom to "
+"study, share, change, and generally control all the software that you use."
+"&rdquo;"
+msgstr ""
+"Stallman acrescenta: “Mono irá permitir que você rode seus programas C# no "
+"sistema operacional livre GNU/Linux utilizando exclusivamente software "
+"livre. Com Mono, você poderá utilizar C# se você assim o desejar, sem abrir "
+"mão da sua liberdade de estudar, compartilhar, modificar e de maneira geral "
+"controlar todo o software que você utiliza.”"
+
+#. type: Content of: <p>
+msgid ""
+"Sugar noted that DotGNU will avoid the centralization of services threatened "
+"by .NET, saying: &ldquo;We see no technological reason to have services "
+"hosted and deployed from a single service provider.  DotGNU will scale so "
+"that anyone can develop and deploy network services, whether they be an "
+"individual, large corporation, small business or government.  Distributed "
+"authentication can assure users' freedom and privacy, as well as the privacy "
+"and integrity for commercial and government organizations.&rdquo;"
+msgstr ""
+"Sugar observa que o DotGNU irá evitar a centralização de serviços ameaçada "
+"pelo .NET, dizendo: “Nós não vemos nenhuma razão tecnológica para ter "
+"serviços hospedados e implantados por um único provedor de serviços. O "
+"DotGNU irá escalar de modo que qualquer um possa desenvolver e implantar "
+"serviços de rede, seja ele um indivíduo, grande corporação, pequeno negócio "
+"ou governo. Autenticação distribuída pode assegurar a liberdade e a "
+"privacidade dos usuários, assim como a privacidade e integridade de "
+"organizações comerciais e governamentais.”"
+
+#. type: Content of: <p>
+msgid ""
+"These two GNU efforts will insure that both commercial and non-commercial "
+"users will have equal freedom to innovate with these new technologies."
+msgstr ""
+"Estes dois esforços do GNU irão assegurar que tanto usuários comerciais "
+"quanto não-comerciais terão a mesma liberdade de inovar com essas "
+"tecnologias."
+
+#. type: Content of: <h3>
+msgid "About GNU:"
+msgstr "Sobre o GNU:"
+
+#. type: Content of: <p>
+msgid ""
+"GNU is a Free Software Unix-like operating system.  Development of GNU began "
+"in 1984."
+msgstr ""
+"GNU é um sistema operacional semelhante ao Unix, mas Software Livre. O "
+"desenvolvimento do GNU foi iniciado em 1984."
+
+#. type: Content of: <p>
+msgid ""
+"GNU/Linux is the integrated combination of the GNU operating system with the "
+"kernel, Linux, written by Linus Torvalds in 1991.  The various versions of "
+"GNU/Linux have an estimated 20 million users."
+msgstr ""
+"GNU/Linux é a combinação integrada do sistema operacional GNU com o kernel, "
+"Linux, escrito por Linus Torvalds em 1991. As várias versões do GNU/Linux "
+"têm uma quantidade estimada de 20 milhões de usuários."
+
+#. type: Content of: <p>
+msgid ""
+"Some people call the GNU/Linux system &ldquo;Linux&rdquo;, but this misnomer "
+"leads to confusion (people cannot tell whether you mean the whole system or "
+"the kernel, one part), and spreads an inaccurate picture of how, when and "
+"where the system was developed.  Making a consistent distinction between GNU/"
+"Linux, the whole operating system, and Linux, the kernel, is the best way to "
+"clear up the confusion."
+msgstr ""
+"Algumas pessoas chamam o sistema GNU/Linux de “Linux”, mas este nome "
+"incorreto leva a confusão (as pessoas não sabem se você se refere ao sistema "
+"completo ou ao kernel, uma de suas partes), e propaga uma imagem imprecisa "
+"de como, quando e porque o sistema foi desenvolvido. Fazer uma distinção "
+"consistente entre GNU/Linux, o sistema operacional completo, e Linux, o "
+"kernel, é a melhor maneira de esclarecer a confusão."
+
+#. type: Content of: <h3>
+msgid "About Savannah:"
+msgstr "Sobre o Savannah:"
+
+#. type: Content of: <p>
+msgid ""
+"Savannah is a development collaboration site which is used for collaboration "
+"and cooperation among GNU developers.  It provides CVS servers, ToDo lists, "
+"and (with our other servers) mailing lists, and web site services.  It uses "
+"a version of the SourceForge software, adapted by GNU volunteers.  Savannah "
+"can be found at http://savannah.gnu.org/."
+msgstr ""
+"Savannah é um site de desenvolvimento colaborativo que é utilizado para "
+"colaboração e cooperação entre os desenvolvedores do GNU. Ele fornece "
+"servidores de CVS, listas de tarefas, e (junto com outros servidores) listas "
+"de e-mail e serviços de sites web. Ele utiliza uma versão do software do "
+"SourceForge, adaptada por voluntários do GNU. O Savannah pode ser encontrado "
+"em http://savannah.gnu.org/."
+
+#. type: Content of: <h3>
+msgid "About the Free Software Foundation:"
+msgstr "Sobre a Free Software Foundation:"
+
+#. type: Content of: <p>
+msgid ""
+"The Free Software Foundation, founded in 1985, is dedicated to promoting "
+"computer users' right to use, study, copy, modify, and redistribute computer "
+"programs.  The FSF promotes the development and use of free (as in freedom) "
+"software&mdash;particularly the GNU operating system and its GNU/Linux "
+"variants&mdash;and free documentation for free software.  The FSF also helps "
+"to spread awareness of the ethical and political issues of freedom in the "
+"use of software.  Their web site, located at http://www.gnu.org, is an "
+"important source of information about GNU/Linux. They are headquartered in "
+"Boston, MA, USA."
+msgstr ""
+"A Free Software Foundation, fundada em 1985, é dedicada a promover os "
+"direitos dos usuários de computadores de usar, estudar, copiar, modificar e "
+"redistribuir programas de computadores. A FSF promove o desenvolvimento e o "
+"uso de software livre &ndash; em particular o sistema operacional GNU e suas "
+"variantes GNU/Linux &ndash; e documentação livre para software livre. A FSF "
+"também auxilia na propagação do conhecimento das questões éticas e políticas "
+"da liberdade no uso de software. Seu site, localizado em http://www.gnu.org, "
+"é uma importante fonte de informações sobre o GNU/Linux. Sua sede fica em "
+"Boston, MA, USA."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+# type: Content of: <div><p>
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF.  Links quebrados e outras correções ou "
+"sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2001, 2013, 2014 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2001, 2013, 2014 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+"NoDerivs 3.0 United States License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por:\n"
+"Fernando Lozano <a href=\"mailto:fernando@lozano.eti.br\">&lt;"
+"fernando@lozano.eti.br&gt;</a>; \n"
+"Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome."
+"org&gt;</a>, 2018."
+
+# type: Content of: <div><p>
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização: "

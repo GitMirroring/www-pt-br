@@ -1,13 +1,13 @@
 # Brazilian Portuguese translation of http://www.gnu.org/server/standards/README.editors.html
 # Copyright (C) 2017 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2017.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017, 2018.
 # Adonay Felipe Nogueira, 2017 (proofread).
 msgid ""
 msgstr ""
 "Project-Id-Version: README.editors.html\n"
-"POT-Creation-Date: 2014-04-05 00:03+0000\n"
-"PO-Revision-Date: 2017-05-19 19:45-0300\n"
+"POT-Creation-Date: 2018-09-09 10:56+0000\n"
+"PO-Revision-Date: 2018-09-09 09:27-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -34,16 +34,16 @@ msgid ""
 "This is a general guide for everyone who wishes to write a web page for the "
 "GNU project web server, <code>www.gnu.org</code>. There are several other "
 "guides that are important, one of the most important ones is the <a href=\"/"
-"server/fsf-html-style-sheet.html\">FSF HTML Style Sheet</a>. A <a href=\"/"
-"server/standards/README.webmastering.html#readme\"> list of other guides</a> "
-"is also available."
+"server/standards/gnu-website-guidelines.html\">GNU Website Guidelines</a>. A "
+"<a href=\"/server/standards/gnu-website-guidelines.html#UsefulResources\"> "
+"list of other useful resources</a> is also available."
 msgstr ""
 "Esse é um guia geral para cada um que deseja escrever uma página web para "
 "servidor web do projeto GNU, <code>www.gnu.org</code>. Há vários outros "
-"guias que são importantes, um dos mais importantes é a <a href=\"/server/fsf-"
-"html-style-sheet.html\">Folha de Estilo HTML da FSF</a>. Uma <a href=\"/"
-"server/standards/README.webmastering.html#readme\"> lista de outros guias</"
-"a> também está disponível."
+"guias que são importantes, um dos mais importantes é as <a href=\"/server/"
+"standards/gnu-website-guidelines.html\">Diretrizes do site do GNU</a>. Uma "
+"<a href=\"/server/standards/gnu-website-guidelines.html#UsefulResources\"> "
+"lista de outros recursos úteis</a> também está disponível."
 
 #. type: Content of: <p>
 msgid ""
@@ -59,17 +59,14 @@ msgid ""
 "html\">http://www.gnu.org/boilerplate.html</a>.  A good start when writing a "
 "web page is to use that boilerplate and follow the instructions in it. "
 "Please delete the unneeded comments as you go.  It makes the HTML source "
-"file easier for future maintainers to work with.  You should also check for "
-"specialized versions of boilerplate.html in the current directory, and those "
-"above it."
+"file easier for future maintainers to work with."
 msgstr ""
 "O padrão que é usado para todas as nossas páginas está no <a href=\"/"
 "boilerplate.html\">http://www.gnu.org/boilerplate.html</a>. Um bom começo ao "
 "escrever uma página web é usar este padrão e seguir as instruções nele. Por "
 "favor, exclua os comentários desnecessários na medida em que for escrevendo. "
 "Isso torna o arquivo fonte HTML fácil para futuros mantenedores trabalharem "
-"nela. Você também deve verificar para versões especializadas de boilerplate."
-"html no diretório atual, e aqueles sobre ela."
+"nela."
 
 #. type: Content of: <p>
 msgid ""
@@ -170,18 +167,20 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-msgid "Copyright (C) 1999, 2011, 2012, 2014 Free Software Foundation, Inc."
-msgstr "Copyright (C) 1999, 2011, 2012, 2014 Free Software Foundation, Inc."
+msgid ""
+"Copyright (C) 1999, 2011, 2012, 2014, 2018 Free Software Foundation, Inc."
+msgstr ""
+"Copyright (C) 1999, 2011, 2012, 2014, 2018 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
-"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>

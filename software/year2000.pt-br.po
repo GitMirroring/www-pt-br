@@ -1,0 +1,179 @@
+# Brazilian Portuguese translation of http://www.gnu.org/software/year2000.html
+# Copyright (C) 2018 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Fernando Lozano <fsl@centroin.com.br>, 2001
+# GNUNified by Rafael Fontenelle <rafaelff@gnome.org>, 2018.
+# Cassiano Reinert Novais dos Santos <caco@posteo.net>, 2018 (proofread)
+msgid ""
+msgstr ""
+"Project-Id-Version: year2000.html\n"
+"POT-Creation-Date: 2014-04-05 00:03+0000\n"
+"PO-Revision-Date: 2018-01-23 17:08-0200\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid "Year 2000 - GNU Project - Free Software Foundation"
+msgstr "Ano 2000 - Projeto GNU - Free Software Foundation"
+
+#. type: Content of: <h2>
+msgid "GNU Software in the Year 2000"
+msgstr "Software GNU no ano 2000"
+
+#. type: Content of: <p>
+msgid ""
+"Koos Schut maintains a <a href=\"/software/year2000-list.html\">list of GNU "
+"Software packages with information about Year 2000 properties collected from "
+"volunteer users</a>.  That list is offered as a guide and should not be "
+"construed as the record of a formal testing program or as providing any "
+"guarantee of compliance or noncompliance."
+msgstr ""
+"Koos Schut mantém uma <a href=\"/software/year2000-list.html\">lista de "
+"pacotes de software GNU com informações à respeito do Ano 2000 levantadas "
+"com usuários voluntários</a>. Esta lista é oferecida como um guia e não deve "
+"ser considerada como um relatório de testes formais sobre os programas ou "
+"como fornecendo qualquer garantia de conformidade ou não conformidade."
+
+#. type: Content of: <p>
+msgid ""
+"The Free Software Foundation does not provide warranties for its software.  "
+"We can't afford to.  So we can't promise that GNU software has no Year 2000 "
+"bugs, any more than we could promise you the same thing about another sort "
+"of bug.  But we can tell you some reasons why such bugs are probably very "
+"few."
+msgstr ""
+"A Free Software Foundation não fornece garantias quanto ao seu software. Nós "
+"não podemos arcar com isso. Portanto, nós não podemos prometer que o "
+"software GNU não terá bugs do milênio, assim como não podemos prometer "
+"quanto a outros tipos de bugs. Mas nós podemos dizer as razões pelas quais "
+"esses bugs são provavelmente bem poucos."
+
+#. type: Content of: <p>
+msgid ""
+"The main reason is theoretical.  GNU systems, and Unix-like systems "
+"generally, represent a date/time as a 32-bit integer, counting seconds from "
+"the beginning of 1970.  This 32-bit count will overflow in 2038; but there "
+"will be no problem in that year, because by then all systems will have "
+"redefined <code>time_t</code> to be a 64-bit integer."
+msgstr ""
+"A principal razão é teórica. Sistemas GNU, assim como sistemas tipo Unix em "
+"geral, representam data e hora como um inteiro de 32 bits, contando segundos "
+"desde o início de 1970. Este contador de 32 bits irá estourar em 2038; mas "
+"não haverá problemas neste ano, porque então todos os sistemas terão "
+"redefinido o <code>time_t</code> como um inteiro de 64 bits."
+
+#. type: Content of: <p>
+msgid ""
+"We also have some practical evidence that such problems are not widespread.  "
+"Some users running a <a href=\"/gnu/linux-and-gnu.html\">Linux-based GNU "
+"system</a>, specifically Debian GNU/Linux, used their machines for a while "
+"with the clocks set forward to the year 2000.  They reported no special "
+"problems."
+msgstr ""
+"Nós também temos alguma evidência prática de que esses problemas não são "
+"abrangentes. Alguns usuários usando um <a href=\"/gnu/linux-and-gnu.html"
+"\">sistema GNU baseado no Linux</a>, especificamente o Debian GNU/Linux, "
+"usaram suas máquinas por um tempo com os relógios adiantados para o ano "
+"2000. Eles não informaram nenhum problema em especial."
+
+#. type: Content of: <p>
+msgid ""
+"You can check that you are using the latest release of any particular GNU "
+"program by checking one of our <a href=\"/prep/ftp.html\">FTP mirror sites</"
+"a>.  The <code>ls-lR</code> file in the root directory of one of our FTP "
+"servers could be useful to get a list of all available versions."
+msgstr ""
+"Você pode verificar se você está usando a última versão de algum programa "
+"GNU em particular verificando um dos nossos <a href=\"/prep/ftp.html\">sites "
+"espelho de FTP</a>. O arquivo <code>ls-lR</code> no diretório raiz de um dos "
+"nossos servidores de FTP pode ser útil para se obter uma lista de todas as "
+"versões disponíveis."
+
+#. type: Content of: <p>
+msgid ""
+"If you do encounter any problems with GNU software, even if they are not "
+"related to the year 2000, you should send a bug report to the developers of "
+"the program."
+msgstr ""
+"Se você encontrar qualquer problema com o software GNU, mesmo que ele não "
+"seja relacionado com o ano 2000, você deve enviar um relatório de bug para "
+"os desenvolvedores do programa."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+# type: Content of: <div><p>
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF.  Links quebrados e outras correções ou "
+"sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2000, 2011, 2013, 2014 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2000, 2011, 2013, 2014 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+"NoDerivs 3.0 United States License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Fernando Lozano <a href=\"mailto:fsl@centroin.com.br\">&lt;"
+"fsl@centroin.com.br&gt;</a>, 2001."
+
+# type: Content of: <div><p>
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização: "
