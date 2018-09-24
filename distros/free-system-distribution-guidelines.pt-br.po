@@ -3,12 +3,12 @@
 # This file is distributed under the same license as the original article.
 # Rafael Beraldo <rberaldo@cabaladada.org>, 2013.
 # Dec 2014: add missing links (T. Godefroy).
-# Rafael Fontenelle <rafaelff@gnome.org>, 2012, 2016, 2017, 2018.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2012, 2016-2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: free-system-distribution-guidelines.html\n"
-"POT-Creation-Date: 2018-01-01 05:56+0000\n"
-"PO-Revision-Date: 2018-01-18 09:05-0200\n"
+"POT-Creation-Date: 2018-09-12 16:56+0000\n"
+"PO-Revision-Date: 2018-09-12 15:40-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -631,14 +631,14 @@ msgid ""
 "We maintain a list of the <a href=\"/distros/free-distros.html\">free GNU "
 "system distributions</a> we know about.  If you know about a free "
 "distribution that isn't listed there, please ask its developers write to &lt;"
-"<a class=\"reference\" href=\"mailto:licensing@fsf.org\">licensing@fsf.org</"
-"a>&gt; with a description of their system and a link to their web page."
+"<a class=\"reference\" href=\"mailto:webmasters@gnu.org\">webmasters@gnu."
+"org</a>&gt; with a description of their system and a link to their web page."
 msgstr ""
 "Mantemos uma lista das <a href=\"/distros/free-distros.html\">distribuições "
 "livres do sistema GNU</a> que temos conhecimento. Se você conhece alguma "
 "distribuição livre que não está listada aqui, por favor peça para que o "
 "desenvolvedor escreva para &lt;<a class=\"reference\" href=\"mailto:"
-"licensing@fsf.org\">licensing@fsf.org</a>&gt; com uma descrição do seu "
+"webmasters@gnu.org\">webmasters@gnu.org</a>&gt; com uma descrição do seu "
 "sistema e com um link para sua página na web."
 
 #. type: Content of: <p>
@@ -729,7 +729,7 @@ msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "<b>Tradução</b>: Rafael Fontenelle\n"
 "<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, 2012, "
-"2016, 2017."
+"2016, 2017, 2018."
 
 # type: Content of: <div><p>
 #.  timestamp start 

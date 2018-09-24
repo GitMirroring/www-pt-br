@@ -4,12 +4,12 @@
 # Rafael Beraldo <rberaldo@cabaladada.org>, 2012.
 # Thiago Carreira <saycusca@gmail.com>, 2012.
 # Dec 2014; trivial update of a few strings (T. Godefroy).
-# Rafael Fontenelle <rafaelff@gnome.org>, 2012, 2016, 2017, 2018.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2012, 2016-2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: common-distros.html\n"
-"POT-Creation-Date: 2018-08-31 08:55+0000\n"
-"PO-Revision-Date: 2018-03-26 11:49-0300\n"
+"POT-Creation-Date: 2018-09-18 13:55+0000\n"
+"PO-Revision-Date: 2018-09-18 18:38-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -104,8 +104,7 @@ msgstr ""
 "Abaixo segue a lista de algumas distribuições populares GNU/Linux não livres "
 "e em ordem alfabética, com breves notas sobre como elas falham. Não visamos "
 "dar uma análise exaustiva; uma vez que sabemos de alguma razão para não "
-"apoiar uma certa distribuição, não seguimos adiante na busca por outras "
-"razões."
+"apoiar uma certa disto, não seguimos adiante na busca por outras razões."
 
 #. type: Content of: <p>
 msgid ""
@@ -515,8 +514,27 @@ msgid ""
 "Here we discuss some well-known or significant non-GNU/Linux system distros "
 "that do not qualify as free."
 msgstr ""
-"Aqui nós discutimos sobre algumas distribuições Não GNU/Linux muito "
-"conhecidas ou significativas que não se qualificam como livres."
+"Aqui nós discutimos sobre algumas distros Não GNU/Linux muito conhecidas ou "
+"significativas que não se qualificam como livres."
+
+#. type: Content of: <h3>
+msgid "Android"
+msgstr "Android"
+
+#. type: Content of: <p>
+msgid ""
+"<a href=\"/philosophy/android-and-users-freedom.html\">Android</a> as "
+"released by Google contains many nonfree parts as well as many free parts.  "
+"Most of the free parts are covered by a pushover license (not <a href=\"/"
+"licenses/copyleft.html\">copyleft</a>), so manufacturers that distribute "
+"Android in a product sometimes make those parts nonfree as well."
+msgstr ""
+"<a href=\"/philosophy/android-and-users-freedom.html\">Android</a> como "
+"lançado pela Google contém muitas partes não livres, assim como muitas "
+"partes livres. A maioria das partes livres estão cobertas por uma licença "
+"muito permissiva (não <a href=\"/licenses/copyleft.html\">copyleft</a>), de "
+"forma que fabricantes que distribuem Android em um produto, em alguns casos, "
+"também fazem uma versão não livre daquelas partes."
 
 #. type: Content of: <h3>
 msgid "BSD systems"
@@ -554,43 +572,12 @@ msgstr ""
 
 #. type: Content of: <p>
 msgid ""
-"No BSD distribution has policies against proprietary binary-only firmware "
-"that might be loaded even by free drivers."
+"None of those BSD distributions has policies against proprietary binary-only "
+"firmware that might be loaded even by free drivers."
 msgstr ""
-"Nenhuma distribuição de BSD tem políticas contra firmware proprietário "
-"disponível apenas na forma de binário que pode ser carregada até mesmo por "
-"drivers livres."
-
-#. type: Content of: <h3>
-msgid "Haiku"
-msgstr "Haiku"
-
-#. type: Content of: <p>
-msgid ""
-"Haiku includes some software that you're not allowed to modify.  It also "
-"includes nonfree firmware blobs."
-msgstr ""
-"O Haiku inclui alguns programas que você não pode modificar. Ele também "
-"inclui blobs de firmware não livres."
-
-#. type: Content of: <h3>
-msgid "Android"
-msgstr "Android"
-
-#. type: Content of: <p>
-msgid ""
-"<a href=\"/philosophy/android-and-users-freedom.html\">Android</a> as "
-"released by Google contains many nonfree parts as well as many free parts.  "
-"Most of the free parts are covered by a pushover license (not <a href=\"/"
-"licenses/copyleft.html\">copyleft</a>), so manufacturers that distribute "
-"Android in a product sometimes make those parts nonfree as well."
-msgstr ""
-"<a href=\"/philosophy/android-and-users-freedom.html\">Android</a> como "
-"lançado pela Google contém muitas partes não livres, assim como muitas "
-"partes livres. A maioria das partes livres estão cobertas por uma licença "
-"muito permissiva (não <a href=\"/licenses/copyleft.html\">copyleft</a>), de "
-"forma que fabricantes que distribuem Android em um produto, em alguns casos, "
-"também fazem uma versão não livre daquelas partes."
+"Nenhuma daquelas distribuições de BSD tem políticas contra firmware "
+"proprietário disponível apenas na forma de binário que pode ser carregada "
+"até mesmo por drivers livres."
 
 #. type: Content of: <h3>
 msgid "Chrome OS"
@@ -603,6 +590,30 @@ msgid ""
 msgstr ""
 "A parte central do Chrome OS é o navegador não livre Chrome. Ele também pode "
 "conter outros softwares não livres."
+
+#. type: Content of: <h3>
+msgid "/e/"
+msgstr "/e/"
+
+#. type: Content of: <p>
+msgid ""
+"/e/ (formerly eelo) is a modified version of Android, which contains nonfree "
+"libraries."
+msgstr ""
+"/e/ (anteriormente, eelo) é uma versão modificada do Android, que contém as "
+"bibliotecas não livre."
+
+#. type: Content of: <h3>
+msgid "Haiku"
+msgstr "Haiku"
+
+#. type: Content of: <p>
+msgid ""
+"Haiku includes some software that you're not allowed to modify.  It also "
+"includes nonfree firmware blobs."
+msgstr ""
+"O Haiku inclui alguns programas que você não pode modificar. Ele também "
+"inclui blobs de firmware não livres."
 
 #. type: Content of: <h3>
 msgid "LineageOS"
@@ -703,7 +714,7 @@ msgstr ""
 "a>, 2012;  \n"
 "Rafael Fontenelle\n"
 "<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, "
-"2016-2017"
+"2016-2018"
 
 # type: Content of: <div><p>
 #.  timestamp start 

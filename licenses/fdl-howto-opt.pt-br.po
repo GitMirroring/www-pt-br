@@ -1,0 +1,409 @@
+# Brazilian Portuguese translation of https://www.gnu.org/licenses/fdl-howto-opt.html
+# Copyright (C) 2018 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: fdl-howto-opt.html\n"
+"POT-Creation-Date: 2016-11-18 06:58+0000\n"
+"PO-Revision-Date: 2018-09-24 12:53-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid ""
+"How to Use the Optional Features of the GFDL - GNU Project - Free Software "
+"Foundation"
+msgstr ""
+"Como usar os recursos opcionais da GFDL - Projeto GNU - Free Software "
+"Foundation"
+
+#. type: Content of: <h2>
+msgid "How to Use the Optional Features of the GFDL"
+msgstr "Como usar os recursos opcionais da GFDL"
+
+#. type: Content of: <p>
+msgid "by <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
+msgstr "por <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
+
+#. type: Content of: <p>
+msgid ""
+"The <a href=\"/licenses/fdl.html\">GNU FDL</a> (GNU Free Documentation "
+"License)  includes two optional features, <a href="
+"\"#SEC1\"><strong>invariant sections</strong></a> and <a href="
+"\"#SEC2\"><strong>cover texts</strong></a>, which you can use if you wish.  "
+"The manual's license notice should say whether you are using these features."
+msgstr ""
+"A <a href=\"/licenses/fdl.html\">GNU FDL</a> (Licença de Documentação Livre "
+"GNU) inclui dois recursos opcionais, <a href=\"#SEC1\"><strong>seções "
+"invariantes</strong></a> e <a href=\"#SEC2\"><strong>textos de capa</"
+"strong></a>, que você pode usar se quiser. O aviso de licença do manual deve "
+"dizer se você está usando esses recursos."
+
+#. type: Content of: <p>
+msgid ""
+"The simplest case is that you do not use these features.  Then the license "
+"notice should say so, like this:"
+msgstr ""
+"O caso mais simples é você não usar esses recursos. Então, o aviso de "
+"licença deve dizer isso, dessa forma\n"
+"<sup><a id=\"TransNote1-rev\" href=\"#TransNote1\">1</a></sup>:"
+
+#. type: Content of: <pre>
+#, no-wrap
+msgid ""
+"      Permission is granted to copy, distribute and/or modify this\n"
+"      document under the terms of the GNU Free Documentation License,\n"
+"      Version 1.3 or any later version published by the Free Software\n"
+"      Foundation; with no Invariant Sections, no Front-Cover Texts, and\n"
+"      no Back-Cover Texts.  A copy of the license is included in the\n"
+"      section entitled \"GNU Free Documentation License\".\n"
+msgstr ""
+"      Permission is granted to copy, distribute and/or modify this\n"
+"      document under the terms of the GNU Free Documentation License,\n"
+"      Version 1.3 or any later version published by the Free Software\n"
+"      Foundation; with no Invariant Sections, no Front-Cover Texts, and\n"
+"      no Back-Cover Texts.  A copy of the license is included in the\n"
+"      section entitled “GNU Free Documentation License”.\n"
+
+#. type: Content of: <p>
+msgid ""
+"But if you want to use these features, here is an explanation of what they "
+"are intended for and how to use them."
+msgstr ""
+"Mas se você deseja usar esses recursos, aqui está uma explicação de para que "
+"eles servem e como usá-los."
+
+#. type: Content of: <h3>
+msgid "Invariant sections"
+msgstr "Sessões invariantes"
+
+#. type: Content of: <p>
+msgid ""
+"The idea of invariant sections is that they give you a way to express "
+"nontechnical personal opinions about the topic."
+msgstr ""
+"A ideia de seções invariantes é que elas deem a você uma forma de expressar "
+"opiniões pessoais, não técnicas, sobre o tópico."
+
+#. type: Content of: <p>
+msgid ""
+"The classical example of an invariant nontechnical section in a free manual "
+"is the <a href=\"/gnu/manifesto.html\">GNU Manifesto</a>, which is included "
+"in the GNU Emacs Manual.  The GNU Manifesto says nothing about how to edit "
+"with Emacs, but it explains the reason why I wrote GNU Emacs&mdash;to be an "
+"essential part of the GNU operating system, which would give computer users "
+"freedom to cooperate in a community.  Since the GNU Manifesto presents the "
+"principles of the GNU Project, rather than features of GNU Emacs, we decided "
+"that others should not remove or change it when redistributing the Emacs "
+"Manual, and we wrote that requirement into the license.  In effect, we made "
+"the GNU Manifesto into an invariant section, though without using that "
+"term.  To do this today using the GNU FDL, we would write the license notice "
+"like this:"
+msgstr ""
+"O exemplo clássico de uma seção invariante não técnica em um manual livre é "
+"o <a href=\"/gnu/manifesto.html\">Manifesto GNU</a>, que está incluído no "
+"Manual do GNU Emacs. O Manifesto GNU não diz nada sobre como editar com o "
+"Emacs, mas explica a razão pela qual eu escrevi o GNU Emacs &ndash; para ser "
+"uma parte essencial do sistema operacional GNU, que daria aos usuários de "
+"computador a liberdade de cooperar em uma comunidade. Como o Manifesto GNU "
+"apresenta os princípios do Projeto GNU, em vez de recursos do GNU Emacs, "
+"decidimos que outros não devem removê-lo ou mudá-lo ao redistribuir o Manual "
+"do Emacs, e escrevemos esse requisito na licença. Com efeito, transformamos "
+"o Manifesto GNU em uma seção invariante, embora sem usar esse termo. Para "
+"fazer isso hoje usando o GNU FDL, nós escreveríamos o aviso de licença desta "
+"forma\n"
+"<sup><a id=\"TransNote2-rev\" href=\"#TransNote2\">2</a></sup>:"
+
+#. type: Content of: <pre>
+#, no-wrap
+msgid ""
+"      Permission is granted to copy, distribute and/or modify this\n"
+"      document under the terms of the GNU Free Documentation License,\n"
+"      Version 1.3 or any later version published by the Free Software\n"
+"      Foundation; with the Invariant Sections being just \"GNU\n"
+"      Manifesto\", with no Front-Cover Texts, and with no Back-Cover\n"
+"      Texts.  A copy of the license is included in the section\n"
+"      entitled \"GNU Free Documentation License\".\n"
+msgstr ""
+"      Permission is granted to copy, distribute and/or modify this\n"
+"      document under the terms of the GNU Free Documentation License,\n"
+"      Version 1.3 or any later version published by the Free Software\n"
+"      Foundation; with the Invariant Sections being just “GNU\n"
+"      Manifesto”, with no Front-Cover Texts, and with no Back-Cover\n"
+"      Texts.  A copy of the license is included in the section\n"
+"      entitled “GNU Free Documentation License”.\n"
+
+#. type: Content of: <p>
+msgid ""
+"This says that the section &ldquo;GNU Manifesto&rdquo; is the only invariant "
+"section."
+msgstr "Isso diz que a seção “Manifesto GNU” é apenas a seção invariante."
+
+#. type: Content of: <p>
+msgid ""
+"The old Emacs Manual license did not allow others who modify and "
+"redistribute the manual to add new invariant sections.  But while "
+"formulating a more general version of the concept for the GNU FDL, I felt "
+"that it would be more morally consistent if those who modify a manual can "
+"write invariant sections, just as the first authors can.  The FDL permits "
+"this."
+msgstr ""
+"A licença do Manual Emacs antigo não permitia que outras pessoas "
+"modificassem e redistribuíssem o manual para adicionar novas seções "
+"invariantes. Mas enquanto formulamos uma versão mais geral do conceito para "
+"o GNU FDL, senti que seria mais moralmente consistente se aqueles que "
+"modificassem um manual pudessem escrever seções invariantes, assim como os "
+"primeiros autores podem. O FDL permite isso."
+
+#. type: Content of: <p>
+msgid ""
+"But that feature requires a safeguard to prevent it from being abused to "
+"endanger the free status of the manual.  Person B who modifies a manual that "
+"was written by person A should not be able to make any of person A's "
+"documentation invariant, for that would deny person C the permission to "
+"modify it further.  Likewise, if person B adds documentation for additional "
+"subtopics, this added documentation must not be invariant; the documentation "
+"itself must be modifiable by others.  The FDL's conditions on adding "
+"invariant sections provide this safeguard."
+msgstr ""
+"Mas esse recurso requer uma proteção para evitar que seja abusado para "
+"colocar em risco o status livre do manual. A pessoa B que modifica um manual "
+"que foi escrito pela pessoa A não deve ser capaz de tornar invariante "
+"qualquer documentação da pessoa A, pois isso negaria à pessoa C a permissão "
+"para modificá-la ainda mais. Da mesma forma, se a pessoa B adicionar "
+"documentação para subtópicos adicionais, essa documentação adicionada não "
+"deve ser invariante; a documentação em si deve ser modificável por outros. "
+"As condições da FDL em adicionar seções invariantes fornecem essa "
+"salvaguarda."
+
+#. type: Content of: <p>
+msgid ""
+"There is no need for a manual to have any invariant sections.  The simplest "
+"case is to have none at all.  You do not have to list the GNU FDL itself as "
+"an invariant section, because the FDL explicitly says that the FDL itself "
+"may not be changed.  The FDL also distinguishes certain section titles, "
+"&ldquo;History&rdquo; and &ldquo;Dedications&rdquo; and others.  You should "
+"not list these sections as invariant, because the FDL already gives the "
+"rules for these sections."
+msgstr ""
+"Não há necessidade de um manual para ter seções invariantes. O caso mais "
+"simples é não ter nenhum. Você não precisa listar a própria GNU FDL como uma "
+"seção invariante, porque o FDL explicitamente diz que o próprio FDL não pode "
+"ser alterado. O FDL também distingue certos títulos de seção, “Histórico” <i>"
+"(History)</i> e “Dedicatórias” <i>(Dedications)</i> e outros. Você não deve "
+"listar essas seções como invariantes, porque a FDL já fornece as regras para "
+"essas seções."
+
+#. type: Content of: <h3>
+msgid "Cover texts"
+msgstr "Textos de Capa"
+
+#. type: Content of: <p>
+msgid ""
+"A cover text is a short piece of text that you insist must be printed on the "
+"cover of the manual when the manual is published, even if someone else is "
+"publishing it.  You can specify a &ldquo;front-cover text&rdquo; which has "
+"to be printed on the front cover, and you can specify a &ldquo;back-cover "
+"text&rdquo; which has to be printed on the back cover.  You can specify one "
+"of each."
+msgstr ""
+"Um texto de capa é um pequeno texto que você insiste que deve ser impresso "
+"na capa do manual quando o manual for publicado, mesmo que alguém o esteja "
+"publicando. Você pode especificar um “texto de capa frontal” que deve ser "
+"impresso na capa da frente, e você pode especificar um “texto de contracapa” "
+"que deve ser impresso na contracapa. Você pode especificar um de cada."
+
+#. type: Content of: <p>
+msgid ""
+"Cover texts are a new feature, so I cannot cite past examples of their use, "
+"but the intended purpose is simple.  They are meant to give the original "
+"publisher of an edition a way to ask or encourage people to buy the copies "
+"they publish rather than those of some other reprinter.  For example, we "
+"could imagine specifying this as a back-cover text:"
+msgstr ""
+"Os textos de capa são um novo recurso, por isso não posso citar exemplos "
+"anteriores de seu uso, mas o objetivo pretendido é simples. Eles são "
+"destinados a dar ao editor original de uma edição uma maneira de perguntar "
+"ou encorajar as pessoas a comprarem as cópias que publicam, em vez das de "
+"outras reimpressões. Por exemplo, poderíamos imaginar especificando isso "
+"como um texto de contracapa\n"
+"<sup><a id=\"TransNote3-rev\" href=\"#TransNote3\">3</a></sup>:"
+
+#. type: Content of: <pre>
+#, no-wrap
+msgid ""
+"    Free Manuals Inc. paid Alyssa P. Hacker to write this manual\n"
+"    and asks for your support through buying the Free Manuals edition.\n"
+msgstr ""
+"    Free Manuals Inc. paid Alyssa P. Hacker to write this manual\n"
+"    and asks for your support through buying the Free Manuals edition.\n"
+
+#. type: Content of: <p>
+msgid ""
+"This might help Free Manuals Inc. succeed in the business of publishing free "
+"manuals&mdash;at least, that is the plan.  To specify this back-cover text, "
+"Free Manuals Inc. would write the license notice like this:"
+msgstr ""
+"Isso pode ajudar a Free Manuals Inc. ter sucesso no negócio de publicação de "
+"manuais livres &ndash; ao menos, esse é o plano. Para especificar esse texto "
+"de contracapa, Free Manuals Inc. escreveriam o aviso de licença como esse\n"
+"<sup><a id=\"TransNote4-rev\" href=\"#TransNote4\">4</a></sup>:"
+
+#. type: Content of: <pre>
+#, no-wrap
+msgid ""
+"      Permission is granted to copy, distribute and/or modify this\n"
+"      document under the terms of the GNU Free Documentation License,\n"
+"      Version 1.3 or any later version published by the Free Software\n"
+"      Foundation; with no Invariant Sections, no Front-Cover Texts, and\n"
+"      one Back-Cover Text: \"Free Manuals Inc. paid Alyssa P. Hacker to\n"
+"      write this manual and asks for your support through buying the\n"
+"      Free Manuals edition.\"  A copy of the license is included in the\n"
+"      section entitled \"GNU Free Documentation License\".\n"
+msgstr ""
+"      Permission is granted to copy, distribute and/or modify this\n"
+"      document under the terms of the GNU Free Documentation License,\n"
+"      Version 1.3 or any later version published by the Free Software\n"
+"      Foundation; with no Invariant Sections, no Front-Cover Texts, and\n"
+"      one Back-Cover Text: “Free Manuals Inc. paid Alyssa P. Hacker to\n"
+"      write this manual and asks for your support through buying the\n"
+"      Free Manuals edition.”  A copy of the license is included in the\n"
+"      section entitled “GNU Free Documentation License”.\n"
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr ""
+"<b>Notas do tradutor</b>:\n"
+"<ol>\n"
+"<li>\n"
+"<a id=\"TransNote1\" href=\"#TransNote1-rev\" class=\"nounderline\">&#8593;</"
+"a> \n"
+"Em português, o aviso de licença sem os recursos opcionais seria o "
+"equivalente a:\n"
+"<pre>\n"
+"      Permissão concedida para copiar, distribuir e/ou modificar este\n"
+"      documento sob os termos da Licença de Documentação Livre GNU,\n"
+"      Versão 1.3 ou qualquer versão mais recente publicada pela Free\n"
+"      Software Foundation; sem Seções Invariantes, Textos de Capa\n"
+"      Frontal, e sem Textos de Contracapa. Uma cópia da licença está\n"
+"      incluída na seção intitulada “GNU Free Documentation License”.\n"
+"</pre>\n"
+"</li>\n"
+"<li>\n"
+"<a id=\"TransNote2\" href=\"#TransNote2-rev\" class=\"nounderline\">&#8593;</"
+"a> \n"
+"Em português, o aviso de licença definindo uma seção invariante seria o "
+"equivalente a:<br/>\n"
+"<pre>\n"
+"      Permissão concedida para copiar, distribuir e/ou modificar este\n"
+"      documento sob os termos da Licença de Documentação Livre GNU,\n"
+"      Versão 1.3 ou qualquer versão mais recente publicada pela Free\n"
+"      Software Foundation; com as Seções Invariantes sendo apenas\n"
+"      “Manifesto GNU”, com nenhum Texto de Capa Frontal e com nenhum\n"
+"      Texto de Contracapa. Uma cópia da licença está incluída na seção\n"
+"      intitulada “GNU Free Documentation License”.\n"
+"</pre>\n"
+"</li>\n"
+"<li>\n"
+"<a id=\"TransNote3\" href=\"#TransNote3-rev\" class=\"nounderline\">&#8593;</"
+"a> \n"
+"Em português, o texto de contracapa seria o equivalente a:\n"
+"<pre>\n"
+"    Free Manuals Inc. pagou Alyssa P. Hacker para escrever esse manual\n"
+"    e pede por sua colaboração pela compra da edição da Free Manuals.\n"
+"</pre>\n"
+"</li>\n"
+"<li>\n"
+"<a id=\"TransNote4\" href=\"#TransNote4-rev\" class=\"nounderline\">&#8593;</"
+"a> \n"
+"Em português, o aviso de licença contendo texto de contracapa seria o "
+"equivalente a:<br/>\n"
+"<pre>\n"
+"      Permissão concedida para copiar, distribuir e/ou modificar este\n"
+"      documento sob os termos da Licença de Documentação Livre GNU,\n"
+"      Versão 1.3 ou qualquer versão mais recente publicada pela Free\n"
+"      Software Foundation; sem Seções Invariantes, Textos de Capa\n"
+"      Frontal e com um Texto de Contracapa: “Free Manuals Inc. pagou\n"
+"      Alyssa P. Hacker para escrever esse manual e pede por sua\n"
+"      colaboração pela compra da edição da Free Manuals.” Uma cópia\n"
+"      da licença está incluída na seção intitulada “GNU Free\n"
+"      Documentation License”.\n"
+"</pre>\n"
+"</li>\n"
+"</ol>"
+
+# type: Content of: <div><p>
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF.  Links quebrados e outras correções ou "
+"sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2000, 2008, 2014, 2016 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2000, 2008, 2014, 2016 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2018."
+
+# type: Content of: <div><p>
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização: "

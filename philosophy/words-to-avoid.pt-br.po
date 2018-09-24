@@ -9,8 +9,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: words-to-avoid.html\n"
-"POT-Creation-Date: 2018-06-05 15:56+0000\n"
-"PO-Revision-Date: 2018-06-05 21:54-0300\n"
+"POT-Creation-Date: 2018-09-16 15:55+0000\n"
+"PO-Revision-Date: 2018-09-17 11:00-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -118,6 +118,11 @@ msgstr "“<a href=\"#Content\">Conteúdo</a>” |"
 
 #.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
+msgid "&ldquo;<a href=\"#CopyrightOwner\">Copyright Owner</a>&rdquo; |"
+msgstr "“<a href=\"#CopyrightOwner\">Proprietário do direito autoral</a>” |"
+
+#.  GNUN-SORT-NEXT-ITEM 
+#. type: Content of: <p>
 msgid ""
 "&ldquo;<a href=\"#CreativeCommonsLicensed\">Creative Commons licensed</"
 "a>&rdquo; |"
@@ -197,6 +202,11 @@ msgstr "“<a href=\"#Hacker\">Hacker</a>” |"
 msgid ""
 "&ldquo;<a href=\"#IntellectualProperty\">Intellectual property</a>&rdquo; |"
 msgstr "“<a href=\"#IntellectualProperty\">Propriedade intelectual</a>” |"
+
+#.  GNUN-SORT-NEXT-ITEM 
+#. type: Content of: <p>
+msgid "&ldquo;<a href=\"#InternetofThings\">Internet of Things</a>&rdquo; |"
+msgstr "“<a href=\"#InternetofThings\">Internet das Coisas</a>” |"
 
 #.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
@@ -1058,6 +1068,39 @@ msgstr ""
 "revisão de web sites” (do inglês “web site revision system” ou WRS)."
 
 #. type: Content of: <h3>
+msgid "&ldquo;Copyright Owner&rdquo;"
+msgstr "“Proprietário do direito autoral”"
+
+#. type: Content of: <p>
+msgid ""
+"Copyright is an artificial privilege, handed out by the state to achieve a "
+"public interest and lasting a period of time &mdash; not a natural right "
+"like owning a house or a shirt.  Lawyers used to recognize this by referring "
+"to the recipient of that privilege as a &ldquo;copyright holder.&rdquo;"
+msgstr ""
+"O direito autoral é um privilégio artificial, concedido pelo estado para "
+"alcançar um interesse público e durar um período de tempo &ndash; não é um "
+"direito natural como possuir uma casa ou uma camisa. Os advogados costumavam "
+"reconhecer isso referindo-se ao destinatário desse privilégio como “detentor "
+"dos direitos autorais”."
+
+#. type: Content of: <p>
+msgid ""
+"A few decades ago, copyright holders began trying to reduce awareness of "
+"this point.  In addition to citing frequently the bogus concept of <a href="
+"\"#IntellectualProperty\">&ldquo;intellectual property,&rdquo;</a> they also "
+"started calling themselves &ldquo;copyright owners.&rdquo; Please join us in "
+"resisting by using the traditional term &ldquo;copyright holders&rdquo; "
+"instead."
+msgstr ""
+"Algumas décadas atrás, os detentores de direitos autorais começaram a tentar "
+"reduzir a conscientização sobre esse ponto. Além de citar frequentemente o "
+"conceito falso de <a href=\"#IntellectualProperty\">“propriedade "
+"intelectual”</a>, eles também começaram a se chamar de “proprietários de "
+"direitos autorais”. Por favor, junte-se a nós para resistir usando o termo "
+"tradicional “detentores de direitos autorais”."
+
+#. type: Content of: <h3>
 msgid "&ldquo;Creative Commons licensed&rdquo;"
 msgstr "“licenciado em Creative Commons”"
 
@@ -1561,6 +1604,47 @@ msgstr ""
 "A hipocrisia de chamar esses poderes de “direitos” está <a href=\"/"
 "philosophy/wipo-PublicAwarenessOfCopyright-2002.html\">começando a deixar a "
 "Organização Mundial da “Propriedade Intelectual” envergonhada</a>."
+
+#. type: Content of: <h3>
+msgid "&ldquo;Internet of Things&rdquo;"
+msgstr "“Internet das Coisas”"
+
+#. type: Content of: <p>
+msgid ""
+"When companies decided to make computerized appliances that would connect "
+"over the internet to the manufacturer's server, and therefore could easily "
+"snoop on their users, they realized that this would not sound very nice.  So "
+"they came up with a cute, appealing name: the &ldquo;Internet of Things."
+"&rdquo;"
+msgstr ""
+"Quando as empresas decidiram fabricar aparelhos computadorizados que se "
+"conectariam pela internet ao servidor do fabricante e, portanto, poderiam "
+"facilmente espionar seus usuários, eles perceberam que isso não soaria muito "
+"legal. Então, eles criaram um nome atraente e bonito: a “Internet das "
+"Coisas” ou, em inglês, “Internet of Things”."
+
+#. type: Content of: <p>
+msgid ""
+"Experience shows that these products often do <a href=\"http://www.locusmag."
+"com/Perspectives/2015/09/cory-doctorow-what-if-people-were-sensors-not-"
+"things-to-be-sensed/\"> spy on their users</a>.  They are also tailor-made "
+"for <a href=\"http://ieet.org/index.php/IEET/more/rinesi20150806\">giving "
+"people biased advice</a>.  In addition, the manufacturer can <a href=\"/"
+"proprietary/proprietary-sabotage.html\"> sabotage the product</a> by turning "
+"off the server it depends on."
+msgstr ""
+"A experiência mostra que esses produtos, de fato, costumam <a href=\"http://"
+"www.locusmag.com/Perspectives/2015/09/cory-doctorow-what-if-people-were-"
+"sensors-not-things-to-be-sensed/\">espionar seus usuários</a>. Eles também "
+"são feitos sob medida para <a href=\"http://ieet.org/index.php/IEET/more/"
+"rinesi20150806\">dar conselhos tendenciosos às pessoas</a>. Além disso, o "
+"fabricante pode <a href=\"/proprietary/proprietary-sabotage.html\">sabotar o "
+"produto</a> desativando o servidor do qual depende."
+
+#. type: Content of: <p>
+msgid "We call them the &ldquo;Internet of Stings.&rdquo;"
+msgstr ""
+"Nós chamamos de “Internet das Picadas” ou, em inglês, “Internet of Stings”."
 
 #. type: Content of: <h3>
 msgid "&ldquo;LAMP system&rdquo;"

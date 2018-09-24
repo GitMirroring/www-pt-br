@@ -5,8 +5,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: planetfeeds.html\n"
-"POT-Creation-Date: 2018-09-10 04:56+0000\n"
-"PO-Revision-Date: 2018-09-10 20:23-0200\n"
+"POT-Creation-Date: 2018-09-24 07:27+0000\n"
+"PO-Revision-Date: 2018-09-24 13:32-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -17,54 +17,101 @@ msgstr ""
 "X-Generator: Virtaal 1.0.0-beta1\n"
 
 #. type: Content of: <p>
-msgid "Guile-CV version 0.2.0"
-msgstr "Guile-CV versão 0.2.0"
+msgid "GNU Parallel 20180922 (&#39;Danske&#39;) released [stable]"
+msgstr "GNU Parallel 20180922 (&#39;Danske&#39;) lançado [estável]"
 
 #.  TRANSLATORS: 
-#. http://savannah.gnu.org/forum/forum.php?forum_id=9234 
+#. http://savannah.gnu.org/forum/forum.php?forum_id=9245 
 #. type: Content of: <p>
 msgid ""
-": Guile-CV version 0.2.0 is released! (September 2018) Changes since the "
-"previous version This is a &#39;milestone&#39; release, which introduces "
-"image texture measures..."
+": GNU Parallel 20180922 (&#39;Danske&#39;) [stable] has been released. It is "
+"available for download at: http://ftpmirror.gnu.org/para..."
 msgstr ""
-": Guile-CV versão 0.2.0 foi lançado! (Setembro de 2018) Mudanças desde a "
-"versão anterior Esse é um lançamento &#39;milestone&#39;, que introduz "
-"medidas de textura de imagem..."
+": GNU Parallel 20180922 (&#39;Danske&#39;) [estável] foi lançado. Está "
+"disponível para download em: http://ftpmirror.gnu.org/para..."
 
 #. type: Content of: <p>
-msgid "Recognize free software heroes in Cascadia at SeaGL"
-msgstr "Reorganizar heróis de software livre em Cascadia na SeaGL"
+msgid "Sonali&#39;s Internship work on the Free Software Directory, part 2"
+msgstr "Trabalho de estágio da Sonali no Diretório de Software Livre, parte 2"
 
 #.  TRANSLATORS: 
-#. http://www.fsf.org/blogs/community/recognize-free-software-heroes-in-cascadia-at-seagl 
+#. http://www.fsf.org/blogs/sysadmin/sonalis-internship-work-on-the-free-software-directory-part-2-1 
 #. type: Content of: <p>
 msgid ""
-": Presented in November 2018, at the Seattle GNU/Linux Conference (SeaGL), "
-"the Cascadia Community Builder Award honors the free software wor..."
+": For context, see the previous blog post, Sonali&#39;s Progress on the Free "
+"Software Directory, weeks 1-2 Also, by the time..."
 msgstr ""
-": Apresentada em Novembro de 2018, na Conferência GNU/Linux de Seattle "
-"(SeaGL), o Cascadia Community Builder Award honra trabalho do software "
-"livre..."
+": Para o contexto, veja a publicação de blog anterior, Progresso da Sonali "
+"no Diretório de Software Livre, semanas 1-2 Também..."
 
 #. type: Content of: <p>
-msgid "GNU indent 2.2.12"
-msgstr "GNU indent 2.2.12"
+msgid "David&#39;s internship work on the Free Software Directory, part 2"
+msgstr "Trabalho de estágio do David no Diretório de Software Livre, parte 2"
 
 #.  TRANSLATORS: 
-#. http://savannah.gnu.org/forum/forum.php?forum_id=9233 
+#. http://www.fsf.org/blogs/sysadmin/internship-work-on-the-free-software-directory-part-2 
 #. type: Content of: <p>
 msgid ""
-": GNU indent version 2.2.12 (signature) has just been releases, the first "
-"release GNU indent saw in eight years. Highlights include: * New options: * -"
-"pal / --pointer-align-l..."
+": For context, see the previous blog post, David&#39;s Progress on the Free "
+"Software Directory, weeks 2-3 Also, by the time t..."
 msgstr ""
-": GNU indent versão 2.2.12 (assinatura) acabou de ser lançado, o primeiro "
-"lançamento do GNU indent em oito anos. Destaques incluem: * Novas opções: * -"
-"pal / --pointer-align-l..."
+": Para o contexto, veja a publicação de blog anterior, Progresso do Davi no "
+"Diretório de Software Livre, semanas 2-3..."
 
-#~ msgid "LibreJS 7.16 released"
-#~ msgstr "LibreJS 7.16 lançado"
+#~ msgid "Boot problems with Linux-libre 4.18 on older CPUs"
+#~ msgstr ""
+#~ "Problemas de inicialização com Linux-libre 4.18 em CPUs mais antigas"
+
+#~ msgid ""
+#~ ": Due to a known bug in upstream Linux 4.18, users with older multi-core "
+#~ "x86 CPUs (Core 2 Duo and earlier?) may not correctly boot up with lin..."
+#~ msgstr ""
+#~ ": Devido a um bug conhecido no upstream do Linux 4.18, os usuários com "
+#~ "CPUs x86 multi-core mais antigas (Core 2 Duo e anteriores?) podem não "
+#~ "ini..."
+
+#~ msgid ""
+#~ "Richard Stallman - « Libertad de usuario, libertad del lector » (Burgos, "
+#~ "Spain)"
+#~ msgstr ""
+#~ "Richard Stallman - « Libertad de usuario, libertad del lector » (Burgos, "
+#~ "Espanha)"
+
+#~ msgid ""
+#~ ": Esa charla de Richard Stallman formará parte del III Foro de Cultura "
+#~ "(2019-11-09–11). La charla no será técnic..."
+#~ msgstr ""
+#~ ": Esa charla de Richard Stallman formará parte del III Foro de Cultura "
+#~ "(2019-11-09–11). La charla no será técnic..."
+
+#~ msgid ""
+#~ "International Day Against DRM takes action for a Day Without DRM on "
+#~ "September 18th"
+#~ msgstr ""
+#~ "Dia Internacional Contra o DRM entra em ação para o Dia Sem DRM em 18 de "
+#~ "setembro"
+
+#~ msgid ""
+#~ ": On Tuesday, September 18th, there will be two rallies in Boston – one "
+#~ "from 12:00pm - 2:00pm at the Boston P..."
+#~ msgstr ""
+#~ ": Na terça-feira, 18 de setembro, haverá dois comícios em Boston – um das "
+#~ "12:00 - 14:00 na Biblioteca Pública de Boston..."
+
+#~ msgid "IceCat 60.2.0 Pre-release"
+#~ msgstr "IceCat 60.2.0 pré-lançado"
+
+#~ msgid ""
+#~ ": GNUzilla is the GNU version of the Mozilla suite, and GNU IceCat is the "
+#~ "GNU version of the Firefox browser. Its main advantage is an ethical one: "
+#~ "it is entirely fre..."
+#~ msgstr ""
+#~ ": GNUzilla é a versão GNU da suíte Mozilla e o GNU IceCat é a versão GNU "
+#~ "do navegador Firefox. Sua principal vantagem é ética: é totalmente "
+#~ "livre..."
+
+#~ msgid "LibreJS 7.17 released"
+#~ msgstr "LibreJS 7.17 lançado"
 
 #~ msgid ""
 #~ ": GNU LibreJS aims to address the JavaScript problem described in Richard "
@@ -74,6 +121,77 @@ msgstr ""
 #~ ": O GNU LibreJS visa resolver o problema do JavaScript descrito no artigo "
 #~ "de Richard Stallman, A Armadilha do JavaScript*. LibreJS é um complemento "
 #~ "livre para o GNU IceCat e ou..."
+
+#~ msgid "New release of FisicaLab for Windows"
+#~ msgstr "Novo lançamento do FisicaLab para Windows"
+
+#~ msgid ""
+#~ ": Due to some problems reported by Windows users, I decide to release a "
+#~ "new Windows installer of FisicaLab with the alternative interface using "
+#~ "IUP. This v..."
+#~ msgstr ""
+#~ ": Devido a alguns problemas relatados pelos usuários do Windows, decidi "
+#~ "lançar um novo instalador do FisicaLab com a interface alternativa usando "
+#~ "o IUP..."
+
+#~ msgid "Thanks for fighting against the European copyright directive"
+#~ msgstr "Obrigado por lutar contra a diretiva de direitos autorais europeia"
+
+#~ msgid ""
+#~ ": As I am writing this, the European Parliament is debating the "
+#~ "disastrously liberticide copyright Directive. After out previous ma..."
+#~ msgstr ""
+#~ ": Como eu estou escrevendo isso, o Parlamento Europeu está debatendo a "
+#~ "Diretiva de Direitos Autorais desastrosamente liberticida. Depois de "
+#~ "uma..."
+
+#~ msgid "Boston supporters! Join us against DRM"
+#~ msgstr "Colaboradores de Boston! Juntem-se a nós contra a DRM"
+
+#~ msgid ""
+#~ ": International Day Against DRM (IDAD) is coming up on Tuesday, September "
+#~ "18th. This is our twelfth year gathering together to say in one voice "
+#~ "that we o..."
+#~ msgstr ""
+#~ ": Dia Internacional Contra o DRM (IDAD) está chegando na terça-feira, 18 "
+#~ "de setembro. Este é o nosso décimo segundo ano se reunindo para dizer em "
+#~ "uma voz que nós..."
+
+#~ msgid "Guile-CV version 0.2.0"
+#~ msgstr "Guile-CV versão 0.2.0"
+
+#~ msgid ""
+#~ ": Guile-CV version 0.2.0 is released! (September 2018) Changes since the "
+#~ "previous version This is a &#39;milestone&#39; release, which introduces "
+#~ "image texture measures..."
+#~ msgstr ""
+#~ ": Guile-CV versão 0.2.0 foi lançado! (Setembro de 2018) Mudanças desde a "
+#~ "versão anterior Esse é um lançamento &#39;milestone&#39;, que introduz "
+#~ "medidas de textura de imagem..."
+
+#~ msgid "Recognize free software heroes in Cascadia at SeaGL"
+#~ msgstr "Reorganizar heróis de software livre em Cascadia na SeaGL"
+
+#~ msgid ""
+#~ ": Presented in November 2018, at the Seattle GNU/Linux Conference "
+#~ "(SeaGL), the Cascadia Community Builder Award honors the free software "
+#~ "wor..."
+#~ msgstr ""
+#~ ": Apresentada em Novembro de 2018, na Conferência GNU/Linux de Seattle "
+#~ "(SeaGL), o Cascadia Community Builder Award honra trabalho do software "
+#~ "livre..."
+
+#~ msgid "GNU indent 2.2.12"
+#~ msgstr "GNU indent 2.2.12"
+
+#~ msgid ""
+#~ ": GNU indent version 2.2.12 (signature) has just been releases, the first "
+#~ "release GNU indent saw in eight years. Highlights include: * New options: "
+#~ "* -pal / --pointer-align-l..."
+#~ msgstr ""
+#~ ": GNU indent versão 2.2.12 (assinatura) acabou de ser lançado, o primeiro "
+#~ "lançamento do GNU indent em oito anos. Destaques incluem: * Novas opções: "
+#~ "* -pal / --pointer-align-l..."
 
 #~ msgid "Mark your calendars: LibrePlanet 2019 will take place March 23-24!"
 #~ msgstr ""
@@ -157,17 +275,6 @@ msgstr ""
 #~ ": O seminário da Free Software Foundation sobre a aplicação da GPL e a "
 #~ "ética jurídica será realizado na quinta-feira, 27 de setembro, na "
 #~ "Faculdade de Direito da UC Berkeley..."
-
-#~ msgid "GNU Parallel 20180822 (&#39;Genova&#39;) released"
-#~ msgstr "GNU Parallel 20180822 (&#39;Genova&#39;) lançado"
-
-#~ msgid ""
-#~ ": GNU Parallel 20180822 (&#39;Genova&#39;) has been released. It is "
-#~ "available for download at: http://ftpmirror.gnu.org/parallel/ Quote of "
-#~ "the..."
-#~ msgstr ""
-#~ ": GNU Parallel 20180822 (&#39;Genova&#39;) foi lançado. Está disponível "
-#~ "para download em: http://ftpmirror.gnu.org/parallel/ Citação do..."
 
 #~ msgid "unar being replaced by unarchiver"
 #~ msgstr "unar sendo substituído por unarchiver"
@@ -379,11 +486,6 @@ msgstr ""
 #~ msgstr ""
 #~ "Molly de Blanc - Painel de discussão: “Diversidade &amp; Inclusão: Inovar "
 #~ "para criar uma definição consistente, dados e métricas”"
-
-#~ msgid ""
-#~ "David&#39;s Progress on The Free Software Directory, internship weeks 2-3"
-#~ msgstr ""
-#~ "Progresso do David no Diretório de Software Livre, estágio de 2-3 semanas"
 
 #~ msgid ""
 #~ ": <i>For context, see the previous blog post, Introducing David Hedlund, "
@@ -640,10 +742,6 @@ msgstr ""
 #~ msgstr ""
 #~ ": Finalmente um lançamento público do OresmeKit. Iniciado há muitos anos, "
 #~ "finalmente chegou o momento de um primeiro lançamento públi..."
-
-#~ msgid "Take action on the International Day Against DRM this September 18th"
-#~ msgstr ""
-#~ "Entre em Ação no Dia Internacional Contra o DRM neste dia 18 de setembro"
 
 #~ msgid ""
 #~ ": Join the Defective by Design crew and celebrate International Day "

@@ -1,0 +1,333 @@
+# Brazilian Portuguese translation of https://www.gnu.org/philosophy/use-free-software.html
+# Copyright (C) 2018 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: use-free-software.html\n"
+"POT-Creation-Date: 2018-01-01 05:59+0000\n"
+"PO-Revision-Date: 2018-09-24 09:25-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid ""
+"The Free Software Community After 20 Years - GNU Project - Free Software "
+"Foundation"
+msgstr ""
+"A comunidade do Software Livre após 20 anos - Projeto GNU - Free Software "
+"Foundation"
+
+#. type: Content of: <h2>
+msgid "The Free Software Community After 20 Years:"
+msgstr "A comunidade do Software Livre após 20 anos:"
+
+#. type: Content of: <h2>
+msgid "With great but incomplete success, what now?"
+msgstr "Com grande sucesso, mas incompleto, e agora?"
+
+# type: Content of: <p>
+#. type: Content of: <p>
+msgid ""
+"by <a href=\"http://www.stallman.org/\"><strong>Richard Stallman</strong></a>"
+msgstr ""
+"por <a href=\"http://www.stallman.org/\"><strong>Richard Stallman</strong></"
+"a>"
+
+#. type: Content of: <p>
+msgid ""
+"It was 5 Jan 1984, twenty years ago today, that I quit my job at MIT to "
+"begin developing a free software operating system, <a href=\"/gnu/the-gnu-"
+"project.html\">GNU</a>.  While we have never released a complete GNU system "
+"suitable for production use, a variant of the GNU system is now used by tens "
+"of millions of people who mostly are not aware it is such.  Free software "
+"does not mean &ldquo;gratis&rdquo;; it means that users are free to run the "
+"program, study the source code, change it, and redistribute it either with "
+"or without changes, either gratis or for a fee."
+msgstr ""
+"Foi em 5 de janeiro de 1984, vinte anos atrás, que eu larguei meu emprego no "
+"MIT para começar a desenvolver um sistema operacional de software livre, o "
+"<a href=\"/gnu/the-gnu-project.html\">GNU</a>. Embora nunca tenhamos lançado "
+"um sistema GNU completo adequado para uso em produção, uma variante do "
+"sistema GNU é agora usada por dezenas de milhões de pessoas que na maioria "
+"das vezes não sabem que é assim. Software livre não significa "
+"“grátis”<sup><a id=\"TransNote1-rev\" href=\"#TransNote1\">1</a></sup>; "
+"significa que os usuários são livres para executar o programa, estudar o "
+"código-fonte, alterá-lo e redistribuí-lo com ou sem alterações, "
+"gratuitamente ou por uma taxa."
+
+#. type: Content of: <p>
+msgid ""
+"My hope was that a free operating system would open a path to escape forever "
+"from the system of subjugation which is proprietary software.  I had "
+"experienced the ugliness of the way of life that nonfree software imposes on "
+"its users, and I was determined to escape and give others a way to escape."
+msgstr ""
+"Minha esperança era que um sistema operacional livre abrisse um caminho para "
+"escapar para sempre do sistema de subjugação que é software proprietário. Eu "
+"tinha experimentado a feiura do modo de vida que o software não livre impõe "
+"aos seus usuários e eu estava determinado a escapar e dar aos outros uma "
+"maneira de escapar."
+
+#. type: Content of: <p>
+msgid ""
+"Non-free software carries with it an antisocial system that prohibits "
+"cooperation and community.  You are typically unable to see the source code; "
+"you cannot tell what nasty tricks, or what foolish bugs, it might contain.  "
+"If you don't like it, you are helpless to change it.  Worst of all, you are "
+"forbidden to share it with anyone else.  To prohibit sharing software is to "
+"cut the bonds of society."
+msgstr ""
+"O software não livre traz consigo um sistema antissocial que proíbe "
+"cooperação e comunidade. Você normalmente não consegue ver o código-fonte; "
+"você não pode dizer quais truques desagradáveis, ou quais erros tolos, ele "
+"pode conter. Se você não gosta, você é incapaz de mudar isso. Pior de tudo, "
+"você está proibido de compartilhá-lo com outras pessoas. Proibir o "
+"compartilhamento de software é cortar os laços da sociedade."
+
+#. type: Content of: <p>
+msgid ""
+"Today we have a large community of users who run GNU, Linux and other free "
+"software.  Thousands of people would like to extend this, and have adopted "
+"the goal of convincing more computer users to &ldquo;use free "
+"software&rdquo;.  But what does it mean to &ldquo;use free software&rdquo;? "
+"Does that mean escaping from proprietary software, or merely installing free "
+"programs alongside it? Are we aiming to lead people to freedom, or just "
+"introduce them to our code? In other words, are we working for freedom, or "
+"have we replaced that goal with the shallow goal of popularity?"
+msgstr ""
+"Hoje temos uma grande comunidade de usuários que executam GNU, Linux e "
+"outros softwares livres. Milhares de pessoas gostariam de estender isso e "
+"adotaram o objetivo de convencer mais usuários de computadores a “usar "
+"software livre”. Mas o que significa “usar software livre”? Isso significa "
+"escapar do software proprietário ou simplesmente instalar programas livres "
+"ao lado dele? Estamos com o objetivo de levar as pessoas à liberdade ou "
+"apenas apresentá-las ao nosso código? Em outras palavras, estamos "
+"trabalhando pela liberdade ou substituímos esse objetivo pelo objetivo "
+"superficial da popularidade?"
+
+#. type: Content of: <p>
+msgid ""
+"It's easy to get in the habit of overlooking this distinction, because in "
+"many common situations it makes no difference.  When you're trying to "
+"convince a person to try a free program, or to install the <a href=\"/gnu/"
+"linux-and-gnu.html\">GNU/Linux</a> operating system, either goal would lead "
+"to the same practical conduct.  However, in other situations the two goals "
+"inspire very different actions."
+msgstr ""
+"É fácil adquirir o hábito de ignorar essa distinção, porque em muitas "
+"situações comuns não faz diferença. Quando você está tentando convencer uma "
+"pessoa a experimentar um programa livre, ou para instalar o <a href=\"/gnu/"
+"linux-and-gnu.html\">sistema operacional GNU/Linux</a>, qualquer objetivo "
+"levaria para a mesma conduta prática. No entanto, em outras situações, os "
+"dois objetivos inspiram ações muito diferentes."
+
+#. type: Content of: <p>
+msgid ""
+"For instance, what should we say when the nonfree Invidious video driver, "
+"the nonfree Prophecy database, or the nonfree Indonesia language interpreter "
+"and libraries, is released in a version that runs on GNU/Linux? Should we "
+"thank the developers for this &ldquo;support&rdquo; for our system, or "
+"should we regard this nonfree program like any other&mdash;as an attractive "
+"nuisance, a temptation to accept bondage, a problem to be solved?"
+msgstr ""
+"Por exemplo, o que devemos dizer quando o driver de vídeo não livre da "
+"Invidious<sup><a id=\"TransNote2-rev\" href=\"#TransNote2\">2</a></sup>, o "
+"banco de dados não livre da Prophecy<sup><a id=\"TransNote3-rev\" href="
+"\"#TransNote3\">3</a></sup> ou o interpretador e bibliotecas não livres da "
+"linguagem Indonésia são lançados em uma versão que funciona no GNU/Linux? "
+"Devemos agradecer aos desenvolvedores por este “apoio” para o nosso sistema "
+"ou deveríamos considerar este programa não livre como qualquer outro &ndash; "
+"como um incômodo atrativo, uma tentação de aceitar a servidão, um problema a "
+"ser resolvido?"
+
+#. type: Content of: <p>
+msgid ""
+"If you take as your goal the increased popularity of certain free software, "
+"if you seek to convince more people to use some free programs some of the "
+"time, you might think those nonfree programs are helpful contributions to "
+"that goal.  It is hard to dispute the claim that their availability helps "
+"make GNU/Linux more popular.  If the widespread use of GNU or Linux is the "
+"ultimate goal of our community, we should logically applaud all applications "
+"that run on it, whether free or not."
+msgstr ""
+"Se você tomar como objetivo o aumento da popularidade de certos softwares "
+"livres, se você procurar convencer mais pessoas a usar alguns programas "
+"livres o tempo todo, você pode pensar que esses programas não livres são "
+"contribuições úteis para esse objetivo. É difícil contestar a alegação de "
+"que sua disponibilidade ajuda a tornar o GNU/Linux mais popular. Se o uso "
+"generalizado do GNU ou Linux é o objetivo final da nossa comunidade, devemos "
+"aplaudir logicamente todos os aplicativos que são executados, sejam livres "
+"ou não."
+
+#. type: Content of: <p>
+msgid ""
+"But if our goal is freedom, that changes everything.  Users cannot be free "
+"while using a nonfree program.  To free the citizens of cyberspace, we have "
+"to replace those nonfree programs, not accept them.  They are not "
+"contributions to our community, they are temptations to settle for "
+"continuing non-freedom."
+msgstr ""
+"Mas se o nosso objetivo é a liberdade, isso muda tudo. Os usuários não podem "
+"ser livres enquanto usarem de um programa não livre. Para libertar os "
+"cidadãos do ciberespaço, temos que substituir os programas não livres, não "
+"aceitá-los. Eles não são contribuições para a nossa comunidade, são "
+"tentações para se contentar com a contínua falta de liberdade."
+
+#. type: Content of: <p>
+msgid ""
+"There are two common motivations to develop a free program.  One is that "
+"there is no program to do the job.  Unfortunately, accepting the use of a "
+"nonfree program eliminates that motivation.  The other is the will to be "
+"free, which motivates people to write free replacements for nonfree "
+"programs.  In cases like these, that motive is the only one that can do the "
+"job.  Simply by using a new and unfinished free replacement, before it "
+"technically compares with the nonfree model, you can help encourage the free "
+"developers to persevere until it becomes superior."
+msgstr ""
+"Existem duas motivações comuns para desenvolver um programa livre. Uma é que "
+"não há programa para fazer o trabalho. Infelizmente, aceitar o uso de um "
+"programa não livre elimina essa motivação. A outra é a vontade de ser livre, "
+"o que motiva as pessoas a escreverem substitutos livres para programas não "
+"livres. Em casos como esses, esse motivo é o único que pode fazer o "
+"trabalho. Simplesmente usar uma substituição livre nova e inacabada, antes "
+"de se comparar tecnicamente ao modelo não livre, você pode ajudar a "
+"encorajar os desenvolvedores livres a perseverar até que se torne superior."
+
+#. type: Content of: <p>
+msgid ""
+"Those nonfree programs are not trivial.  Developing free replacements for "
+"them will be a big job; it may take years.  The work may need the help of "
+"future hackers, young people today, people yet to be inspired to join the "
+"work on free software.  What can we do today to help convince other people, "
+"in the future, to maintain the necessary determination and persistence to "
+"finish this work?"
+msgstr ""
+"Esses programas não livres não são triviais. Desenvolver substitutos livres "
+"para eles será um grande trabalho; isso pode levar anos. O trabalho pode "
+"precisar da ajuda de futuros hackers, jovens de hoje, pessoas ainda a serem "
+"inspiradas a participar do trabalho sobre software livre. O que podemos "
+"fazer hoje para ajudar a convencer outras pessoas, no futuro, a manter a "
+"determinação e a persistência necessárias para concluir este trabalho?"
+
+#. type: Content of: <p>
+msgid ""
+"The most effective way to strengthen our community for the future is to "
+"spread understanding of the value of freedom&mdash;to teach more people to "
+"recognize the moral unacceptability of nonfree software.  People who value "
+"freedom are, in the long term, its best and essential defense."
+msgstr ""
+"A maneira mais eficaz de fortalecer nossa comunidade para o futuro é "
+"disseminar a compreensão do valor da liberdade &ndash; ensinar mais pessoas "
+"a reconhecer a inaceitabilidade moral do software não livre. As pessoas que "
+"valorizam a liberdade são, a longo prazo, sua melhor e essencial defesa."
+
+#. type: Content of: <p>
+msgid "<strong>Originally published on Newsforge.</strong>"
+msgstr "<strong>Originalmente publicado na Newsforge.</strong>"
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr ""
+"<b>Nota do tradutor</b>:\n"
+"<ol>\n"
+"<li>\n"
+"<a id=\"TransNote1\" href=\"#TransNote1-rev\" class=\"nounderline\">&#8593;</"
+"a> \n"
+"A palavra inglesa “free” tem dois significados comuns, “livre” e "
+"“gratuito” (ou “grátis”), que podem causar confusão na interpretação do "
+"termo “free software”. Por software livre não significar a mesma coisa que "
+"software gratuito, é comum e necessária a desambiguação nas páginas do GNU "
+"em inglês. Em português, provavelmente não ocorre tal ambiguidade, mas a "
+"distinção permanece relevante.\n"
+"</li>\n"
+"<li>\n"
+"<a id=\"TransNote2\" href=\"#TransNote2-rev\" class=\"nounderline\">&#8593;</"
+"a> \n"
+"<cite>Invidious</cite> (do latim <cite>invidia</cite>, inveja) significa "
+"“que causa ressentimento ou raiva”. Aqui é um jogo de palavras com "
+"“nVidia”.\n"
+"</li>\n"
+"<li>\n"
+"<a id=\"TransNote3\" href=\"#TransNote3-rev\" class=\"nounderline\">&#8593;</"
+"a> \n"
+"<cite>Prophecy</cite> (em inglês, profecia) significa “predição do futuro”. "
+"Aqui é um jogo de palavras com “Oracle” (em português, oráculo), que "
+"significa “a divindade consultada ou o sacerdote encarregado da consulta à "
+"divindade e transmissão de suas respostas”.\n"
+"</li></ol>"
+
+# type: Content of: <div><p>
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF.  Links quebrados e outras correções ou "
+"sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2004, 2017, 2018 Richard Stallman"
+msgstr "Copyright &copy; 2004, 2017, 2018 Richard Stallman"
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2018."
+
+# type: Content of: <div><p>
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização: "
