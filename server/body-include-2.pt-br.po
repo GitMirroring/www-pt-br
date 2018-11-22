@@ -10,8 +10,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: body-include-2.html\n"
-"POT-Creation-Date: 2018-01-03 17:56+0000\n"
-"PO-Revision-Date: 2018-01-18 14:29-0200\n"
+"POT-Creation-Date: 2018-11-22 05:57+0000\n"
+"PO-Revision-Date: 2018-11-22 06:18-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -20,41 +20,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Virtaal 1.0.0-beta1\n"
-
-# type: Content of: <body><div><div><div><ul><li>
-#. type: Content of: <div><div><p>
-msgid ""
-"<a href=\"https://www.fsf.org/associate/support_freedom?"
-"referrer=4052\">JOIN&nbsp;THE&nbsp;FSF</a>"
-msgstr ""
-"<a href=\"https://www.fsf.org/associate/support_freedom?"
-"referrer=4052\">JUNTE-SE&nbsp;À&nbsp;FSF!</a>"
-
-#. type: Content of: <div><div><div><p>
-msgid "<a href=\"//www.fsf.org/fss\">Free Software Supporter</a>"
-msgstr "<a href=\"//www.fsf.org/fss\">Free Software Supporter</a>"
-
-#. type: Content of: <div><div><div><form><div>
-msgid ""
-"<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden\" "
-"name=\"group[25]\" value=\"1\" /> <input name=\"cancelURL\" type=\"hidden\" "
-"value=\"https://crm.fsf.org/civicrm/profile?reset=1&amp;gid=31\" /> <input "
-"name=\"_qf_default\" type=\"hidden\" value=\"Edit:cancel\" />"
-msgstr ""
-"<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden\" "
-"name=\"group[25]\" value=\"1\" /> <input name=\"cancelURL\" type=\"hidden\" "
-"value=\"https://crm.fsf.org/civicrm/profile?reset=1&amp;gid=31\" /> <input "
-"name=\"_qf_default\" type=\"hidden\" value=\"Edit:cancel\" />"
-
-#. type: Content of: <div><div><div><form><p>
-msgid ""
-"<input type=\"text\" id=\"frmEmail\" name=\"email-Primary\" size=\"18\" "
-"maxlength=\"80\" value=\"email address\" onfocus=\"this.value=''\"/> <input "
-"type=\"submit\" name=\"_qf_Edit_next\" value=\"Sign up\" />"
-msgstr ""
-"<input type=\"text\" id=\"frmEmail\" name=\"email-Primary\" size=\"18\" "
-"maxlength=\"80\" value=\"Endereço de e-mail\" onfocus=\"this.value=''\"/> "
-"<input type=\"submit\" name=\"_qf_Edit_next\" value=\"Inscreva-se\" />"
 
 #. type: Content of: <div><div><a>
 msgid "<a href=\"/\">"
@@ -71,9 +36,39 @@ msgstr "O Sistema Operacional <strong>GNU</strong></a>"
 
 #. type: Content of: <div><div><p>
 msgid ""
-"Sponsored by the <a href=\"#mission-statement\">Free Software Foundation</a>"
+"With your help, we'll launch free software to new frontiers! Fuel the "
+"mission by becoming one of <b>400</b> new Associate Members by <b>January "
+"1st</b> for <b>$10 per month</b> ($5 per month for students). <b><a href="
+"\"https://fsf.org/appeal?pk_campaign=fall18&amp;pk_kwd=banner\">Read more</"
+"a></b>."
 msgstr ""
-"Patrocinado pela <a href=\"#mission-statement\">Free Software Foundation</a>"
+"Com sua ajuda, lançaremos software livre para novas fronteiras! Abasteça a "
+"missão tornando-se um dos <b>400</b> novos membros associados até <b>1º de "
+"janeiro</b> por <b>US $10 por mês</b> (US $5 por mês para estudantes). <b><a "
+"href=\"https://fsf.org/appeal?pk_campaign=fall18&amp;pk_kwd=banner\">Leia "
+"mais</a></b>."
+
+#. type: Content of: <div><div><div><div><span>
+msgid "<span class=\"percentage\">"
+msgstr "<span class=\"percentage\">"
+
+#. #echo encoding="none"
+#.    var="joined" 
+#. type: Content of: <div><div><div><div>
+msgid "</span>"
+msgstr "</span>"
+
+#. type: Content of: <div><div><div><div>
+msgid "<span class=\"goal\">400</span>"
+msgstr "<span class=\"goal\">400</span>"
+
+#. type: Content of: <div><p>
+msgid ""
+"<a class=\"join\" href=\"https://my.fsf.org/join?pk_campaign=fall18&amp;"
+"pk_kwd=ban\"> Join</a>"
+msgstr ""
+"<a class=\"join\" href=\"https://my.fsf.org/join?pk_campaign=fall18&amp;"
+"pk_kwd=ban\"> Junte-se</a>"
 
 # type: Content of: <body><div><div><div><ul><li>
 #. type: Content of: <div><ul><li>
@@ -110,6 +105,46 @@ msgstr "<a href=\"/doc/doc.html\">DOCUMENTAÇÃO</a>"
 msgid "<a href=\"/help/help.html\">HELP&nbsp;GNU</a>"
 msgstr "<a href=\"/help/help.html\">AJUDE&nbsp;O&nbsp;GNU</a>"
 
+# type: Content of: <body><div><div><div><ul><li>
+#~ msgid ""
+#~ "<a href=\"https://www.fsf.org/associate/support_freedom?"
+#~ "referrer=4052\">JOIN&nbsp;THE&nbsp;FSF</a>"
+#~ msgstr ""
+#~ "<a href=\"https://www.fsf.org/associate/support_freedom?"
+#~ "referrer=4052\">JUNTE-SE&nbsp;À&nbsp;FSF!</a>"
+
+#~ msgid "<a href=\"//www.fsf.org/fss\">Free Software Supporter</a>"
+#~ msgstr "<a href=\"//www.fsf.org/fss\">Free Software Supporter</a>"
+
+#~ msgid ""
+#~ "<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden"
+#~ "\" name=\"group[25]\" value=\"1\" /> <input name=\"cancelURL\" type="
+#~ "\"hidden\" value=\"https://crm.fsf.org/civicrm/profile?reset=1&amp;"
+#~ "gid=31\" /> <input name=\"_qf_default\" type=\"hidden\" value=\"Edit:"
+#~ "cancel\" />"
+#~ msgstr ""
+#~ "<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden"
+#~ "\" name=\"group[25]\" value=\"1\" /> <input name=\"cancelURL\" type="
+#~ "\"hidden\" value=\"https://crm.fsf.org/civicrm/profile?reset=1&amp;"
+#~ "gid=31\" /> <input name=\"_qf_default\" type=\"hidden\" value=\"Edit:"
+#~ "cancel\" />"
+
+#~ msgid ""
+#~ "<input type=\"text\" id=\"frmEmail\" name=\"email-Primary\" size=\"18\" "
+#~ "maxlength=\"80\" value=\"email address\" onfocus=\"this.value=''\"/> "
+#~ "<input type=\"submit\" name=\"_qf_Edit_next\" value=\"Sign up\" />"
+#~ msgstr ""
+#~ "<input type=\"text\" id=\"frmEmail\" name=\"email-Primary\" size=\"18\" "
+#~ "maxlength=\"80\" value=\"Endereço de e-mail\" onfocus=\"this.value=''\"/> "
+#~ "<input type=\"submit\" name=\"_qf_Edit_next\" value=\"Inscreva-se\" />"
+
+#~ msgid ""
+#~ "Sponsored by the <a href=\"#mission-statement\">Free Software Foundation</"
+#~ "a>"
+#~ msgstr ""
+#~ "Patrocinado pela <a href=\"#mission-statement\">Free Software Foundation</"
+#~ "a>"
+
 #~ msgid ""
 #~ "Associate members power up the Free Software Foundation.  Help smash our "
 #~ "goal of <b>700</b> new members or donate by December 31st!"
@@ -127,15 +162,6 @@ msgstr "<a href=\"/help/help.html\">AJUDE&nbsp;O&nbsp;GNU</a>"
 #~ "pk_campaign=2017_Fundraiser_Banner&amp;pk_kwd=Donate\"> Doe</a> <a class="
 #~ "\"join\" href=\"http://my.fsf.org/join?"
 #~ "pk_campaign=2017_Fundraiser_Banner&amp;pk_kwd=Join\"> Junte-se</a>"
-
-#~ msgid "<span class=\"percentage\">"
-#~ msgstr "<span class=\"percentage\">"
-
-#~ msgid "</span>"
-#~ msgstr "</span>"
-
-#~ msgid "<span class=\"goal\">$450,000</span>"
-#~ msgstr "<span class=\"goal\">$450,000</span>"
 
 #~ msgid ""
 #~ "<span dir=\"ltr\">The&nbsp; <strong><a href=\"/ghm/upcoming.html\">9th "

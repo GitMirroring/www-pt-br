@@ -5,8 +5,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary.html\n"
-"POT-Creation-Date: 2018-09-18 07:25+0000\n"
-"PO-Revision-Date: 2018-09-18 18:37-0200\n"
+"POT-Creation-Date: 2018-11-13 15:56+0000\n"
+"PO-Revision-Date: 2018-11-13 17:40-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -20,28 +20,22 @@ msgstr ""
 msgid "Proprietary Software - GNU Project - Free Software Foundation"
 msgstr "Software proprietário - Projeto GNU - Free Software Foundation"
 
-#
-#
-#. div.toc h3 {
-#.    text-align: left;
-#.    font-size: 1.2em;
-#.    padding: 0 .83em;
-#.    margin: .5em 1.5% 1em;
-#. }
-#. div.toc li { list-style: none; margin-bottom: 1em; }
-#. div.toc { margin-top: 1em; }
 #. type: Content of: <style>
 #, no-wrap
-msgid ""
-"div.companies { float: right; margin-bottom: .5em; }\n"
-"div.malfunctions { max-width: 27em; }\n"
-msgstr ""
-"div.companies { float: right; margin-bottom: .5em; }\n"
-"div.malfunctions { max-width: 27em; }\n"
+msgid "#TOC { width: 40em; }\n"
+msgstr "#TOC { width: 40em; }\n"
 
 #. type: Content of: <h2>
 msgid "Proprietary Software Is Often Malware"
 msgstr "Software proprietário frequentemente é malware"
+
+#. type: Content of: <p>
+msgid "<a href=\"#TOC\">Table of contents</a>"
+msgstr "<a href=\"#TOC\">Conteúdo</a>"
+
+#. type: Content of: <p>
+msgid "<a href=\"#latest\">Latest additions</a>"
+msgstr "<a href=\"#latest\">Últimas adições</a>"
 
 #. type: Content of: <p>
 msgid ""
@@ -91,162 +85,195 @@ msgstr ""
 
 #. type: Content of: <p>
 msgid ""
-"As of September, 2018, the files in this directory list around 400 instances "
-"of malicious functionalities, but there are surely thousands more we don't "
-"know about."
+"As of October, 2018, the pages in this directory list around 350 instances "
+"of malicious functionalities (with more than 400 references to back them "
+"up), but there are surely thousands more we don't know about."
 msgstr ""
-"Desde setembro de 2018, os arquivos neste diretório listam cerca de 400 "
-"exemplos de funcionalidades maliciosas, mas com certeza há mais milhares das "
-"quais nós não temos conhecimento."
+"Desde Outubro de 2018, as páginas neste diretório listam quase 350 exemplos "
+"de funcionalidades maliciosas (com mais de 400 referências para confirmá-"
+"las), mas com certeza há mais milhares das quais nós não temos conhecimento."
 
-#. type: Content of: <div><div><h3>
-msgid "Company or type of product"
-msgstr "Empresa ou tipo do produto"
+#. type: Content of: <table><tr><th>
+msgid "Injustices or techniques"
+msgstr "Injustiças ou técnicas"
 
-#. type: Content of: <div><div><ul><li>
-msgid "<a href=\"/proprietary/malware-apple.html\">Apple Malware</a>"
-msgstr "<a href=\"/proprietary/malware-apple.html\">Malwares da Apple</a>"
+#. type: Content of: <table><tr><th>
+msgid "Products or companies"
+msgstr "Produtos ou empresas"
 
-#. type: Content of: <div><div><ul><li>
-msgid "<a href=\"/proprietary/malware-microsoft.html\">Microsoft Malware</a>"
-msgstr ""
-"<a href=\"/proprietary/malware-microsoft.html\">Malwares da Microsoft</a>"
-
-#. type: Content of: <div><div><ul><li>
-msgid "<a href=\"/proprietary/malware-google.html\">Google Malware</a>"
-msgstr "<a href=\"/proprietary/malware-google.html\">Malwares da Google</a>"
-
-#. type: Content of: <div><div><ul><li>
-msgid "<a href=\"/proprietary/malware-adobe.html\">Adobe Malware</a>"
-msgstr "<a href=\"/proprietary/malware-adobe.html\">Malwares da Adobe</a>"
-
-#. type: Content of: <div><div><ul><li>
-msgid "<a href=\"/proprietary/malware-amazon.html\">Amazon Malware</a>"
-msgstr "<a href=\"/proprietary/malware-amazon.html\">Malwares da Amazon</a>"
-
-#. type: Content of: <div><div><ul><li>
-msgid "<a href=\"/proprietary/malware-webpages.html\">Malware in webpages</a>"
-msgstr ""
-"<a href=\"/proprietary/malware-webpages.html\">Malwares em páginas web</a>"
-
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <table><tr><td><ul><li>
 msgid ""
-"<a href=\"/proprietary/malware-mobiles.html\">Malware in mobile devices</a>"
+"<a href=\"/proprietary/proprietary-back-doors.html\">Back doors</a>&nbsp;(<a "
+"href=\"#f1\">1</a>)"
 msgstr ""
-"<a href=\"/proprietary/malware-mobiles.html\">Malwares em dispositivos "
-"móveis</a>"
+"<a href=\"/proprietary/proprietary-back-doors.html\">Back doors</a>&nbsp;(<a "
+"href=\"#f1\">1</a>)"
 
-#. type: Content of: <div><div><ul><li>
-msgid "<a href=\"/proprietary/malware-games.html\">Malware in games</a>"
-msgstr "<a href=\"/proprietary/malware-games.html\">Malwares em jogos</a>"
-
-#. type: Content of: <div><div><ul><li>
-msgid ""
-"<a href=\"/proprietary/malware-appliances.html\">Malware in appliances</a>"
-msgstr ""
-"<a href=\"/proprietary/malware-appliances.html\">Malwares em <i>appliances</"
-"i></a>"
-
-#. type: Content of: <div><div><ul><li>
-msgid "<a href=\"/proprietary/malware-cars.html\">Malware in cars</a>"
-msgstr "<a href=\"/proprietary/malware-cars.html\">Malwares em carros</a>"
-
-#. type: Content of: <div><div><h3>
-msgid "Type&nbsp;of&nbsp;malware"
-msgstr "Tipo&nbsp;de&nbsp;malware"
-
-#. type: Content of: <div><div><ul><li>
-msgid "<a href=\"/proprietary/proprietary-back-doors.html\">Back doors</a>"
-msgstr "<a href=\"/proprietary/proprietary-back-doors.html\">Back doors</a>"
-
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/proprietary-censorship.html\">Censorship</a>"
 msgstr "<a href=\"/proprietary/proprietary-censorship.html\">Censura</a>"
 
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/proprietary-coverups.html\">Coverups</a>"
 msgstr "<a href=\"/proprietary/proprietary-coverups.html\">Encobrimentos</a>"
 
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/proprietary-deception.html\">Deception</a>"
 msgstr "<a href=\"/proprietary/proprietary-deception.html\">Engano</a>"
 
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <table><tr><td><ul><li>
+msgid ""
+"<a href=\"/proprietary/proprietary-drm.html\">DRM</a>&nbsp;(<a href="
+"\"#f2\">2</a>)"
+msgstr ""
+"<a href=\"/proprietary/proprietary-drm.html\">DRM</a>&nbsp;(<a href="
+"\"#f2\">2</a>)"
+
+#. type: Content of: <table><tr><td><ul><li>
 msgid ""
 "<a href=\"/proprietary/proprietary-incompatibility.html\">Incompatibility</a>"
 msgstr ""
 "<a href=\"/proprietary/proprietary-incompatibility.html\">Incompatibilidade</"
 "a>"
 
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/proprietary-insecurity.html\">Insecurity</a>"
 msgstr "<a href=\"/proprietary/proprietary-insecurity.html\">Insegurança</a>"
 
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/proprietary-interference.html\">Interference</a>"
 msgstr ""
 "<a href=\"/proprietary/proprietary-interference.html\">Interferência</a>"
 
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <table><tr><td><ul><li>
+msgid ""
+"<a href=\"/proprietary/proprietary-jails.html\">Jails</a>&nbsp;(<a href="
+"\"#f3\">3</a>)"
+msgstr ""
+"<a href=\"/proprietary/proprietary-jails.html\">Prisões</a>&nbsp;(<a href="
+"\"#f3\">3</a>)"
+
+#. type: Content of: <table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/proprietary-sabotage.html\">Sabotage</a>"
 msgstr "<a href=\"/proprietary/proprietary-sabotage.html\">Sabotagem</a>"
 
-#. type: Content of: <div><div><ul><li>
-msgid "<a href=\"/proprietary/proprietary-surveillance.html\">Surveillance</a>"
-msgstr "<a href=\"/proprietary/proprietary-surveillance.html\">Vigilância</a>"
-
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <table><tr><td><ul><li>
 msgid ""
 "<a href=\"/proprietary/proprietary-subscriptions.html\">Subscriptions</a>"
 msgstr ""
 "<a href=\"/proprietary/proprietary-subscriptions.html\">Assinaturas</a>"
 
-#. type: Content of: <div><div><ul><li>
-msgid ""
-"<a href=\"/proprietary/proprietary-tethers.html\">Tethers</a> to servers"
-msgstr ""
-"<a href=\"/proprietary/proprietary-tethers.html\">Dependência a um servidor</"
-"a>"
+#. type: Content of: <table><tr><td><ul><li>
+msgid "<a href=\"/proprietary/proprietary-surveillance.html\">Surveillance</a>"
+msgstr "<a href=\"/proprietary/proprietary-surveillance.html\">Vigilância</a>"
 
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <table><tr><td><ul><li>
 msgid ""
-"<a href=\"/proprietary/proprietary-drm.html\">Digital restrictions "
-"management</a> or &ldquo;DRM&rdquo; means functionalities designed to "
-"restrict what users can do with the data in their computers."
+"<a href=\"/proprietary/proprietary-tethers.html\">Tethers</a>&nbsp;(<a href="
+"\"#f4\">4</a>)"
 msgstr ""
-"<a href=\"/proprietary/proprietary-drm.html\">Gestão digital de restrições</"
-"a> ou “DRM” significa funcionalidades projetadas para restringir o que "
-"usuários podem fazer com os dados em seus computadores."
+"<a href=\"/proprietary/proprietary-tethers.html\">Tethers</a>&nbsp;(<a href="
+"\"#f4\">4</a>)"
 
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <table><tr><td><ul><li>
 msgid ""
-"<a href=\"/proprietary/proprietary-jails.html\">Jails</a>&mdash;systems that "
-"impose censorship on application programs."
+"<a href=\"/proprietary/proprietary-tyrants.html\">Tyrants</a>&nbsp;(<a href="
+"\"#f5\">5</a>)"
 msgstr ""
-"<a href=\"/proprietary/proprietary-jails.html\">Prisões</a> &ndash; sistemas "
-"que impõem censura a programas."
+"<a href=\"/proprietary/proprietary-tyrants.html\">Tiranos</a>&nbsp;(<a href="
+"\"#f5\">5</a>)"
 
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <table><tr><td><ul><li>
+msgid "<a href=\"/proprietary/potential-malware.html\">In the pipe</a>"
+msgstr "<a href=\"/proprietary/potential-malware.html\">No fluxo</a>"
+
+#. type: Content of: <table><tr><td><ul><li>
+msgid "<a href=\"/proprietary/malware-appliances.html\">Appliances</a>"
+msgstr "<a href=\"/proprietary/malware-appliances.html\">Appliances</a>"
+
+#. type: Content of: <table><tr><td><ul><li>
+msgid "<a href=\"/proprietary/malware-cars.html\">Cars</a>"
+msgstr "<a href=\"/proprietary/malware-cars.html\">Carros</a>"
+
+#. type: Content of: <table><tr><td><ul><li>
+msgid "<a href=\"/proprietary/malware-games.html\">Games</a>"
+msgstr "<a href=\"/proprietary/malware-games.html\">Jogos</a>"
+
+#. type: Content of: <table><tr><td><ul><li>
+msgid "<a href=\"/proprietary/malware-mobiles.html\">Mobiles</a>"
+msgstr "<a href=\"/proprietary/malware-mobiles.html\">Móveis</a>"
+
+#. type: Content of: <table><tr><td><ul><li>
+msgid "<a href=\"/proprietary/malware-webpages.html\">Webpages</a>"
+msgstr "<a href=\"/proprietary/malware-webpages.html\">Páginas web</a>"
+
+#. type: Content of: <table><tr><td><ul><li>
+msgid "<a href=\"/proprietary/malware-adobe.html\">Adobe</a>"
+msgstr "<a href=\"/proprietary/malware-adobe.html\">Adobe</a>"
+
+#. type: Content of: <table><tr><td><ul><li>
+msgid "<a href=\"/proprietary/malware-amazon.html\">Amazon</a>"
+msgstr "<a href=\"/proprietary/malware-amazon.html\">Amazon</a>"
+
+#. type: Content of: <table><tr><td><ul><li>
+msgid "<a href=\"/proprietary/malware-apple.html\">Apple</a>"
+msgstr "<a href=\"/proprietary/malware-apple.html\">Apple</a>"
+
+#. type: Content of: <table><tr><td><ul><li>
+msgid "<a href=\"/proprietary/malware-google.html\">Google</a>"
+msgstr "<a href=\"/proprietary/malware-google.html\">Google</a>"
+
+#. type: Content of: <table><tr><td><ul><li>
+msgid "<a href=\"/proprietary/malware-microsoft.html\">Microsoft</a>"
+msgstr "<a href=\"/proprietary/malware-microsoft.html\">Microsoft</a>"
+
+#. type: Content of: <table><tr><td><ol><li>
 msgid ""
-"<a href=\"/proprietary/proprietary-tyrants.html\">Tyrants</a>&mdash;systems "
-"that reject any operating system not &ldquo;authorized&rdquo; by the "
-"manufacturer."
+"<em>Back door:</em>&nbsp; any piece of software that is running on your "
+"computer, and listens for commands from someone else who can tell it to do "
+"things without asking your approval."
 msgstr ""
-"<a href=\"/proprietary/proprietary-tyrants.html\">Tiranos</a> &ndash; "
-"sistemas que rejeitam qualquer sistema operacional não “autorizado” pelo "
-"fabricante."
+"<em>Back door:</em>&nbsp; qualquer parte do software que está sendo "
+"executado no seu computador, e ouve comandos de alguém que pode dizer para "
+"fazer as coisas sem pedir sua aprovação."
 
-#. type: Content of: <div><div><ul><li>
-msgid "<a href=\"/proprietary/potential-malware.html\">Potential Malware</a>"
+#. type: Content of: <table><tr><td><ol><li>
+msgid ""
+"<em>Digital restrictions management, or &ldquo;DRM&rdquo;:</em>&nbsp; "
+"functionalities designed to restrict what users can do with the data in "
+"their computers."
 msgstr ""
-"<a href=\"/proprietary/potential-malware.html\">Malwares em potencial</a>"
+"<em>Gestão digital de restrições ou “DRM”:</em>&nbsp; funcionalidades "
+"projetadas para restringir o que usuários podem fazer com os dados em seus "
+"computadores."
+
+#. type: Content of: <table><tr><td><ol><li>
+msgid ""
+"<em>Jail:</em>&nbsp; system that imposes censorship on application programs."
+msgstr "<em>Prisões:</em>&nbsp; sistemas queimpõem cenura a programas."
+
+#. type: Content of: <table><tr><td><ol><li>
+msgid ""
+"<em>Tether:</em>&nbsp; functionality that requires permanent (or very "
+"frequent) connection to a server."
+msgstr ""
+"<em>Tether:</em>&nbsp; funcionalidade que requer conexão permanente (ou "
+"muito frequente) a um servidor."
+
+#. type: Content of: <table><tr><td><ol><li>
+msgid ""
+"<em>Tyrant:</em>&nbsp; system that rejects any operating system not &ldquo;"
+"authorized&rdquo; by the manufacturer."
+msgstr ""
+"<em>Tiranos</em>&nbsp; sistema que rejeita qualquer sistema operacional não "
+"“autorizado” pelo fabricante."
 
 #. type: Content of: <p>
 msgid ""
 "Users of proprietary software are defenseless against these forms of "
 "mistreatment.  The way to avoid them is by insisting on <a href=\"/"
 "philosophy/free-software-even-more-important.html\">free (freedom-"
-"respecting) software.</a> Since free software is controlled by its users, "
+"respecting) software</a>.  Since free software is controlled by its users, "
 "they have a pretty good defense against malicious software functionality."
 msgstr ""
 "Os usuários de software proprietário estão indefesos contra essas formas de "
@@ -254,6 +281,171 @@ msgstr ""
 "free-software-even-more-important.html\">software livre (que respeite a "
 "liberdade)</a>. Uma vez que o software livre é controlado por seus usuários, "
 "eles têm uma boa defesa contra a funcionalidade de software maliciosa."
+
+#. type: Content of: <h3>
+msgid "Latest additions"
+msgstr "Últimas adições"
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"Corel Paintshop Pro has a <a href=\"https://torrentfreak.com/corel-wrongly-"
+"accuses-licensed-user-of-piracy-disables-software-remotely-181110/\"> back "
+"door that can make it cease to function</a>."
+msgstr ""
+"O Corel Paintshop Pro tem uma <a href=\"https://torrentfreak.com/corel-"
+"wrongly-accuses-licensed-user-of-piracy-disables-software-remotely-181110/"
+"\"> back door que pode fazê-lo deixar de função</a>."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"The article is full of confusions, errors and biases that we have an "
+"obligation to expose, given that we are making a link to them."
+msgstr ""
+"O artigo está cheio de confusões, erros e preconceitos que temos a obrigação "
+"de expor, dado que estamos fazendo um link para eles."
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"Getting a patent does not &ldquo;enable&rdquo; a company to do any "
+"particular thing in its products. What it does enable the company to do is "
+"sue other companies if they do some particular thing in their products."
+msgstr ""
+"Obter uma patente não “permite” uma empresa fazer qualquer coisa em "
+"particular em seus produtos. O que ela permite que a empresa faça é "
+"processar outras empresas se elas fizerem alguma coisa em particular em seus "
+"produtos."
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"A company's policies about when to attack users through a back door are "
+"beside the point. Inserting the back door is wrong in the first place, and "
+"using the back door is always wrong too. No software developer should have "
+"that power over users."
+msgstr ""
+"As políticas de uma empresa sobre quando atacar usuários por meio de uma "
+"back door estão fora de questão. Inserir a back door está errado em primeiro "
+"lugar, e usar a back door também está errada. Nenhum desenvolvedor de "
+"software deve ter esse poder sobre os usuários."
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"&ldquo;<a href=\"/philosophy/words-to-avoid.html#Piracy\">Piracy</a>&rdquo; "
+"means attacking ships. Using that word to refer to sharing copies is a "
+"smear; please don't smear sharing."
+msgstr ""
+"“<a href=\"/philosophy/words-to-avoid.html#Piracy\">Pirataria</a>” significa "
+"atacar navios. Usar essa palavra para se referir ao compartilhamento de "
+"cópias é uma mancha; por favor, não manche o compartilhamento."
+
+#. type: Content of: <ul><li><ul><li><p>
+msgid ""
+"The idea of &ldquo;protecting our IP&rdquo; is total confusion. The term "
+"&ldquo;IP&rdquo; itself is a <a href=\"/philosophy/not-ipr.html\">bogus "
+"generalization about things that have nothing in common</a>."
+msgstr ""
+"A ideia de “proteger o nosso IP” é confusão total. O termo “IP” em si é uma "
+"<a href=\"/philosophy/not-ipr.html\">generalização falsa sobre coisas que "
+"não têm nada em comum</a>."
+
+#. type: Content of: <ul><li><ul><li><p>
+msgid ""
+"In addition, to speak of &ldquo;protecting&rdquo; that bogus generalization "
+"is a separate absurdity. It's like calling the cops because neighbors' kids "
+"are playing on your front yard, and saying that you're &ldquo;protecting the "
+"boundary line&rdquo;. The kids can't do harm to the boundary line, not even "
+"with a jackhammer, because it is an abstraction and can't be affected by "
+"physical action."
+msgstr ""
+"Além disso, falar de “proteger”. essa generalização falsa é um absurdo a "
+"parte. É como chamar a polícia porque as crianças dos vizinhos estão "
+"brincando no seu quintal da frente e dizendo que você está “protegendo a "
+"linha divisória”. As crianças não podem fazer mal à linha limítrofe, nem "
+"mesmo com uma britadeira, porque é uma abstração e não pode ser afetada pela "
+"ação física."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"Nearly all &ldquo;home security cameras&rdquo; <a href=\"https://www."
+"consumerreports.org/privacy/d-link-camera-poses-data-security-risk--consumer-"
+"reports-finds/\"> give the manufacturer an unencrypted copy of everything "
+"they see</a>. &ldquo;Home insecurity camera&rdquo; would be a better name!"
+msgstr ""
+"Quase todas as “câmeras de segurança residencial” <a href=\"https://www."
+"consumerreports.org/privacy/d-link-camera-poses-data-security-risk--consumer-"
+"reports-finds/\"> fornecem ao fabricante uma cópia não criptografada de tudo "
+"que elas veem</a>. “Câmeras de insegurança residencial” seria um nome melhor!"
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"When Consumer Reports tested them, it suggested that these manufacturers "
+"promise not to look at what's in the videos. That's not security for your "
+"home. Security means making sure they don't get to see through your camera."
+msgstr ""
+"Quando Consumer Reports testaram-nas, sugeriu que esses fabricantes "
+"prometessem não ver o conteúdo dos vídeos. Isso não é segurança para sua "
+"casa. Segurança significa garantir que eles não consigam ver através de sua "
+"câmera."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"Some Android apps <a href=\"https://www.androidauthority.com/apps-uninstall-"
+"trackers-917539/amp/\"> track the phones of users that have deleted them</a>."
+msgstr ""
+"Alguns aplicativos de Android <a href=\"https://www.androidauthority.com/"
+"apps-uninstall-trackers-917539/amp/\"> rastreiam os telefones de usuários "
+"que os excluíram</a>."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"Apple and Samsung deliberately <a href=\"https://www.theguardian.com/"
+"technology/2018/oct/24/apple-samsung-fined-for-slowing-down-phones\">degrade "
+"the performance of older phones to force users to buy their newer phones</a>."
+msgstr ""
+"Apple e Samsung deliberadamente <a href=\"https://www.theguardian.com/"
+"technology/2018/oct/24/apple-samsung-fined-for-slowing-down-phones"
+"\">degradam o desempenho de telefones antigos para forçar usuários a comprar "
+"seus novos telefones</a>."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"GM <a href=\"https://boingboing.net/2018/10/23/dont-touch-that-dial.html\"> "
+"tracked the choices of radio programs</a> in its &ldquo;connected&rdquo; "
+"cars, minute by minute."
+msgstr ""
+"A GM <a href=\"https://boingboing.net/2018/10/23/dont-touch-that-dial.html"
+"\"> rastreou as escolhas de programas de rádio</a> em seus carros "
+"“conectados”, minuto a minuto."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"GM did not get users' consent, but it could have got that easily by sneaking "
+"it into the contract that users sign for some digital service or other. A "
+"requirement for consent is effectively no protection."
+msgstr ""
+"A GM não obteve o consentimento dos usuários, mas poderia ter conseguido "
+"isso facilmente ao entrar no contrato que os usuários assinam para algum "
+"serviço digital ou outro. Um requisito para consentimento não é efetivamente "
+"nenhuma proteção."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"The cars can also collect lots of other data: listening to you, watching "
+"you, following your movements, tracking passengers' cell phones. <em>All</"
+"em> such data collection should be forbidden."
+msgstr ""
+"Os carros também podem coletar muitos outros dados: escutando você, "
+"observando você, seguindo seus movimentos, rastreando os celulares dos "
+"passageiros. <em>Todos</em> tais dados devem ser proibidos."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"But if you really want to be safe, we must make sure the car's hardware "
+"cannot collect any of that data, or that the software is free so we know it "
+"won't collect any of that data."
+msgstr ""
+"Mas se você realmente quiser estar seguro, devemos nos certificar de que o "
+"hardware do carro não pode coletar nenhum desses dados, ou que o software é "
+"livre, por isso sabemos que ele não coletará nenhum desses dados."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -331,3 +523,157 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização: "
+
+#~ msgid ""
+#~ "Printer manufacturers are very innovative&mdash;at blocking the use of "
+#~ "independent replacement ink cartridges. Their &ldquo;security "
+#~ "upgrades&rdquo; occasionally impose new forms of cartridge DRM. <a href="
+#~ "\"https://motherboard.vice.com/en_us/article/pa98ab/printer-makers-are-"
+#~ "crippling-cheap-ink-cartridges-via-bogus-security-updates\"> HP and Epson "
+#~ "have done this</a>."
+#~ msgstr ""
+#~ "Os fabricantes de impressoras são muito inovadores &ndash; bloqueando o "
+#~ "uso de cartuchos de tinta de substituição independentes. Suas "
+#~ "“atualizações de segurança” ocasionalmente impor novas formas de DRM de "
+#~ "cartucho. <a href=\"https://motherboard.vice.com/en_us/article/pa98ab/"
+#~ "printer-makers-are-crippling-cheap-ink-cartridges-via-bogus-security-"
+#~ "updates\"> A HP e a Epson fizeram isso</a>."
+
+#~ msgid ""
+#~ "A nonfree video game, available through the nonfree Steam client, <a href="
+#~ "\"https://www.extremetech.com/gaming/274552-great-now-games-are-hijacking-"
+#~ "systems-with-\"> included a &ldquo;miner&rdquo;</a>, i.e. an executable "
+#~ "that hijacks the CPU in users' computers to mine a cryptocurrency."
+#~ msgstr ""
+#~ "Um videogame não livre, disponível através do cliente não livre Steam, <a "
+#~ "href=\"https://www.extremetech.com/gaming/274552-great-now-games-are-"
+#~ "hijacking-systems-with-\"> incluiu um “minerador”</a>, ou seja, um "
+#~ "executável que sequestra a CPU nos computadores dos usuários para minerar "
+#~ "uma criptomoeda."
+
+#~ msgid ""
+#~ "A cracker used an exploit in outdated software to <a href=\"https://www."
+#~ "pcmag.com/news/360968/400-websites-secretly-served-cryptocurrency-miners-"
+#~ "to-visito\"> inject a &ldquo;miner&rdquo; in web pages</a> served to "
+#~ "visitors. This type of malware hijacks the computer's processor to mine a "
+#~ "cryptocurrency. (Note that the article refers to the infected software as "
+#~ "&ldquo;content management system&rdquo;. A better term would be &ldquo;<a "
+#~ "href=\"/philosophy/words-to-avoid.html#Content\">website revision system</"
+#~ "a>&rdquo;.)"
+#~ msgstr ""
+#~ "Um cracker usou um exploit em software desatualizado para <a href="
+#~ "\"https://www.pcmag.com/news/360968/400-websites-secretly-served-"
+#~ "cryptocurrency-miners-to-visito\"> injetar um “minerador” em páginas da "
+#~ "web</a> servidas aos visitantes. Esse tipo de malware sequestra o "
+#~ "processador do computador para minerar uma criptomoeda. (Observe que o "
+#~ "artigo se refere ao software infectado como “sistema de gerenciamento de "
+#~ "conteúdo”. Um termo melhor seria “<a href=\"/philosophy/words-to-avoid."
+#~ "html#Content\">sistema de revisão de web sites</a>”.)"
+
+#~ msgid ""
+#~ "Since the miner was a nonfree JavaScript program, visitors wouldn't have "
+#~ "been affected if they had used <a href=\"/software/librejs/index.html"
+#~ "\">LibreJS</a>. Some browser extensions that <a href=\"https://www.cnet."
+#~ "com/how-to/how-to-stop-sites-from-using-your-cpu-to-mine-coins/\"> "
+#~ "specifically block JavaScript miners</a> are also available."
+#~ msgstr ""
+#~ "Como o minerador era um programa JavaScript não livre, os visitantes não "
+#~ "seriam afetados se tivessem usado o <a href=\"/software/librejs/index.html"
+#~ "\">LibreJS</a>. Algumas extensões de navegador que <a href=\"https://www."
+#~ "cnet.com/how-to/how-to-stop-sites-from-using-your-cpu-to-mine-coins/\"> "
+#~ "bloqueiam especificamente os mineradores em JavaScript</a> também estão "
+#~ "disponíveis."
+
+#~ msgid ""
+#~ "Honeywell's &ldquo;smart&rdquo; thermostats communicate only through the "
+#~ "company's server. They have all the nasty characteristics of such "
+#~ "devices: <a href=\"https://www.businessinsider.com/honeywell-iot-"
+#~ "thermostats-server-outage-2018-9\"> surveillance, and danger of sabotage</"
+#~ "a> (of a specific user, or of all users at once), as well as the risk of "
+#~ "an outage (which is what just happened)."
+#~ msgstr ""
+#~ "Termostatos “inteligentes” da Honeywell se comunicam apenas através do "
+#~ "servidor da empresa. Eles têm todas as características desagradáveis de "
+#~ "tais dispositivos: <a href=\"https://www.businessinsider.com/honeywell-"
+#~ "iot-thermostats-server-outage-2018-9\">vigilância e perigo de sabotagem</"
+#~ "a> (de um usuário específico ou de todos os usuários ao mesmo tempo), bem "
+#~ "como o risco de uma indisponibilidade (que foi o que aconteceu)."
+
+#~ msgid ""
+#~ "In addition, setting the desired temperature requires running nonfree "
+#~ "software. With an old-fashioned thermostat, you can do it using controls "
+#~ "right on the thermostat."
+#~ msgstr ""
+#~ "Além disso, definir a temperatura desejada requer a execução de software "
+#~ "não livre. Com um termostato antiquado, você pode fazê-lo usando "
+#~ "controles diretamente no termostato."
+
+#~ msgid ""
+#~ "Researchers have discovered how to <a href=\"http://news.rub.de/english/"
+#~ "press-releases/2018-09-24-it-security-secret-messages-alexa-and-co\"> "
+#~ "hide voice commands in other audio</a>, so that people cannot hear them, "
+#~ "but Alexa and Siri can."
+#~ msgstr ""
+#~ "Pesquisadores descobriram como <a href=\"http://news.rub.de/english/press-"
+#~ "releases/2018-09-24-it-security-secret-messages-alexa-and-co\"> ocultar "
+#~ "comandos de voz em outro áudio</a>, para que as pessoas não possam ouvi-"
+#~ "las, mas Alexa e Siri podem."
+
+#~ msgid ""
+#~ "Android has a <a href=\"https://www.theverge.com/platform/"
+#~ "amp/2018/9/14/17861150/google-battery-saver-android-9-pie-remote-settings-"
+#~ "change\"> back door for remotely changing &ldquo;user&rdquo; settings</a>."
+#~ msgstr ""
+#~ "Android tem um <a href=\"https://www.theverge.com/platform/"
+#~ "amp/2018/9/14/17861150/google-battery-saver-android-9-pie-remote-settings-"
+#~ "change\"> back door para alterar remotamente as configurações do "
+#~ "“usuário”</a>."
+
+#~ msgid ""
+#~ "The article suggests it might be a universal back door, but this isn't "
+#~ "clear."
+#~ msgstr ""
+#~ "O artigo sugere que pode ser uma porta traseira universal, mas isso não "
+#~ "está claro."
+
+#~ msgid ""
+#~ "One version of Windows 10 <a href=\"https://www.ghacks.net/2018/09/12/"
+#~ "microsoft-intercepting-firefox-chrome-installation-on-windows-10/\"> "
+#~ "harangues users if they try to install Firefox (or Chrome)</a>."
+#~ msgstr ""
+#~ "Uma versão do Windows 10 <a href=\"https://www.ghacks.net/2018/09/12/"
+#~ "microsoft-intercepting-firefox-chrome-installation-on-windows-10/\"> "
+#~ "incomoda os usuários se eles tentarem instalar o Firefox (ou Chrome)</a>."
+
+#~ msgid ""
+#~ "Learn how <a href=\"https://www.huffingtonpost.com/joseph-farrell/the-"
+#~ "fascinating-psycholog_b_6076502.html\"> gratis-to-play-and-not-win-much "
+#~ "games manipulate their useds psychologically</a>."
+#~ msgstr ""
+#~ "Saiba como <a href=\"https://www.huffingtonpost.com/joseph-farrell/the-"
+#~ "fascinating-psycholog_b_6076502.html\"> jogos grátis-para-jogar-e-não-"
+#~ "ganhar-muito manipulam seus usados psicologicamente</a>."
+
+#~ msgid ""
+#~ "These manipulative behaviors are malicious functionalities, and they are "
+#~ "possible because the game is proprietary. If it were free, people could "
+#~ "publish a non-manipulative version and play that instead."
+#~ msgstr ""
+#~ "Esses comportamentos manipulativos são funcionalidades maliciosas e são "
+#~ "possíveis porque o jogo é proprietário. Se fosse livre, as pessoas "
+#~ "poderiam publicar uma versão não manipulativa e jogá-la."
+
+#
+#
+#~ msgid ""
+#~ "div.companies { float: right; margin-bottom: .5em; }\n"
+#~ "div.malfunctions { max-width: 27em; }\n"
+#~ msgstr ""
+#~ "div.companies { float: right; margin-bottom: .5em; }\n"
+#~ "div.malfunctions { max-width: 27em; }\n"
+
+#~ msgid "Company or type of product"
+#~ msgstr "Empresa ou tipo do produto"
+
+#~ msgid "Type&nbsp;of&nbsp;malware"
+#~ msgstr "Tipo&nbsp;de&nbsp;malware"
