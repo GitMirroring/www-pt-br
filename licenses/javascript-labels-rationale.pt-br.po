@@ -1,0 +1,311 @@
+# Brazilian Portuguese translation of http://www.gnu.org/licenses/javascript-labels-rationale.html
+# Copyright (C) 2018 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018.
+# Cassiano Reinert Novais dos Santos <caco@posteo.net>, 2018. (proofread)
+msgid ""
+msgstr ""
+"Project-Id-Version: javascript-labels-rationale.html\n"
+"POT-Creation-Date: 2014-04-05 00:01+0000\n"
+"PO-Revision-Date: 2018-12-12 23:44-0200\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid ""
+"JavaScript License Web Labels: Background and rationale - GNU Project - Free "
+"Software Foundation"
+msgstr ""
+"Rótulos web de licença de JavaScript: plano de fundo e raciocínio - Projeto "
+"GNU - Free Software Foundation"
+
+#. type: Content of: <h2>
+msgid "JavaScript License Web Labels: Background and rationale"
+msgstr "Rótulos web de licença de JavaScript: plano de fundo e raciocínio"
+
+#. type: Content of: <h3>
+msgid "Introduction"
+msgstr "Introdução"
+
+#. type: Content of: <p>
+msgid ""
+"Users browsing the Web nowadays typically run huge amounts of proprietary "
+"software on their computers, often unknowingly.  Free software is succeeding "
+"on the desktop partly because of the copyleft protection guaranteeing users "
+"be told up front when a particular program is free for them to use, study, "
+"share, and modify.  On the Web, browsers download and run JavaScript without "
+"ever informing users of the program's license or their freedoms &mdash; or "
+"how other programs deny users' freedoms."
+msgstr ""
+"Os usuários que navegam na Web hoje em dia normalmente usam grandes "
+"quantidades de software proprietário em seus computadores, geralmente sem "
+"saber. O software livre está tendo sucesso como programas que rodam "
+"diretamente nas máquinas do usuário, em parte devido à proteção do copyleft, "
+"que garante que os usuários sejam avisados com antecedência quando um "
+"determinado programa é livre para eles usarem, estudarem, compartilharem e "
+"modificarem. Na Web, os navegadores baixam e executam JavaScript sem nunca "
+"informar os usuários sobre a licença do programa ou sobre suas liberdades "
+"&ndash; ou como outros programas negam as liberdades dos usuários."
+
+#. type: Content of: <p>
+msgid ""
+"To address this problem, we developed the <a href=\"/software/librejs\"> "
+"LibreJS program </a> which recognizes nontrivial JavaScript code and checks "
+"its license.  Its functioning depends on specifying licenses in a way that a "
+"program which lacks human intelligence can reliably recognize.  In addition, "
+"all GNU software licenses require distributors to state the license with the "
+"software, so recipients know their rights, and to say where to find the "
+"source code."
+msgstr ""
+"Para resolver esse problema, desenvolvemos o <a href=\"/software/librejs"
+"\">programa LibreJS</a>, que reconhece código JavaScript não trivial e "
+"verifica sua licença. Seu funcionamento depende da especificação de licenças "
+"de forma que um programa que não possui inteligência humana possa reconhecer "
+"de forma confiável. Além disso, todas as licenças de software GNU exigem que "
+"os distribuidores declarem a licença com o software, para que os "
+"destinatários conheçam seus direitos e digam onde encontrar o código-fonte."
+
+#. type: Content of: <p>
+msgid ""
+"The simple way to specify the license is with a <a href=\"/philosophy/"
+"javascript-trap.html\"> stylized comment in the JavaScript code</a>.  "
+"However, that can be inconvenient for minified library files, so we have "
+"developed another way to state their licenses: <a href=\"/licenses/"
+"javascript-labels.html\"> JavaScript web labels</a>."
+msgstr ""
+"A maneira mais simples de especificar a licença é com um <a href=\"/"
+"philosophy/javascript-trap.html\">comentário estilizado no código "
+"JavaScript</a>. No entanto, isso pode ser inconveniente para arquivos de "
+"biblioteca minificados, por isso desenvolvemos outra forma de declarar suas "
+"licenças: <a href=\"/licenses/javascript-labels.html\">rótulos web de "
+"JavaScript</a>."
+
+#. type: Content of: <h3>
+msgid "Rationale"
+msgstr "Raciocínio"
+
+#. type: Content of: <p>
+msgid ""
+"Conditions in free software licenses to include a copy of the license terms "
+"and access to source code are almost always easy to follow when software is "
+"distributed through the Web or other Internet channels.  However, "
+"distributing JavaScript embedded in Web sites is complicated by a couple of "
+"unique factors: visitors usually receive the software without expressly "
+"requesting it, and webmasters can only serve a single file of JavaScript "
+"code (so they can't, for example, send an archive file that includes other "
+"resources required by the license)."
+msgstr ""
+"As condições das licenças de software livre para incluir uma cópia dos "
+"termos da licença e acesso ao código-fonte são quase sempre fáceis de seguir "
+"quando o software é distribuído pela Web ou por outros canais da Internet. "
+"No entanto, a distribuição de JavaScript incorporado em sites da Web é "
+"complicada por alguns fatores exclusivos: os visitantes geralmente recebem o "
+"software sem solicitá-lo expressamente, e os webmasters podem servir apenas "
+"um único arquivo de código JavaScript (por exemplo, não podem enviar um "
+"pacote de arquivos que inclui outros recursos requeridos pela licença)."
+
+#. type: Content of: <p>
+msgid ""
+"These issues combined leave webmasters with few obvious ways to provide "
+"additional material required by free software licenses.  The simplest "
+"solution would be to serve only JavaScript in source code form, with a full "
+"copy of the license in its comments.  That can be acceptable on smaller "
+"sites, but when JavaScript begins to represent a lot of repeat traffic, "
+"webmasters are understandably reluctant to serve so much data.  Our method "
+"gives them a clear place to serve additional license resources&mdash;and "
+"visitors a clear place to look for it&mdash;by addressing both of these "
+"points.  First, it makes the software distribution visible by offering "
+"&ldquo;JavaScript license information&rdquo; through a link.  The linked "
+"page gives webmasters a space where they can publish those resources that's "
+"appropriately prominent but not confusing to visitors."
+msgstr ""
+"Essas questões combinadas deixam os webmasters com poucas maneiras óbvias de "
+"fornecer material adicional exigido pelas licenças de software livre. A "
+"solução mais simples seria servir apenas JavaScript na forma de código-"
+"fonte, com uma cópia completa da licença em seus comentários. Isso pode ser "
+"aceitável em sites menores, mas quando o JavaScript começa a representar "
+"muito tráfego repetido, os webmasters ficam compreensivelmente relutantes em "
+"fornecer tantos dados. Nosso método dá a eles um lugar claro para fornecer "
+"recursos de licença adicionais &ndash; e os visitantes um local claro para "
+"procurá-lo &ndash; abordando estes dois pontos. Primeiro, torna a "
+"distribuição de software visível ao oferecer “informações de licença do "
+"JavaScript” através de um link. A página vinculada fornece aos webmasters um "
+"espaço onde eles podem publicar os recursos que são adequadamente "
+"proeminentes, mas não confusos para os visitantes."
+
+#. type: Content of: <h3>
+msgid "Machine readability"
+msgstr "Legibilidade por máquina"
+
+#. type: Content of: <p>
+msgid ""
+"In order to make it easier for people to reject nonfree JavaScript in their "
+"browsers, our method is specific enough for a plug-in or other software to "
+"find the site's table of JavaScript license information, confirm that all of "
+"the JavaScript is under a known free license, download the source code, and "
+"confirm that it corresponds to the optimized JavaScript that's being served "
+"from the site.  This way, visitors can quickly and conveniently check "
+"whether or not the JavaScript is free, and decide accordingly whether or not "
+"they want to run it.  <a href=\"/software/librejs/\">LibreJS</a> is a plug-"
+"in for Mozilla-based browsers that helps users avoid running nonfree "
+"JavaScript, and it will implement these checks to enhance its capabilities."
+msgstr ""
+"A fim de tornar mais fácil para as pessoas rejeitarem o JavaScript não livre "
+"em seus navegadores, nosso método é específico o suficiente para que um plug-"
+"in ou outro software encontre a tabela de informações de licença JavaScript "
+"do site, confirme que todo o JavaScript está em uma licença, faça o download "
+"do código-fonte e confirme se ele corresponde ao JavaScript otimizado que "
+"está sendo exibido no site. Dessa forma, os visitantes podem verificar de "
+"forma rápida e conveniente se o JavaScript é livre e decidir se desejam ou "
+"não executá-lo. O <a href=\"/software/librejs/\">LibreJS</a> é um plug-in "
+"para navegadores baseados no Mozilla que ajuda os usuários a evitar a "
+"execução de JavaScript não livre, e implementará essas verificações para "
+"aprimorar seus recursos."
+
+#. type: Content of: <p>
+msgid ""
+"We considered using another format like RDF as the basis for our system, in "
+"order to simplify this job for programmers by giving them more detailed "
+"information in an easily parsed format.  However, our goal was to make this "
+"information accessible to human readers first, and machines second.  Using "
+"well-structured HTML provided the best match with those priorities."
+msgstr ""
+"Nós consideramos o uso de outro formato como o RDF como base para o nosso "
+"sistema, a fim de simplificar este trabalho para os programadores, dando-"
+"lhes informações mais detalhadas em um formato facilmente analisado. No "
+"entanto, nosso objetivo era tornar essa informação acessível aos leitores "
+"humanos em primeiro lugar, e às máquinas em segundo lugar. Usar HTML bem "
+"estruturado forneceu a melhor correspondência com essas prioridades."
+
+#. type: Content of: <h3>
+msgid "Next steps"
+msgstr "Próximas etapas"
+
+#. type: Content of: <p>
+msgid ""
+"We are not saying that webmasters that host free software JavaScript must "
+"follow this specific method to comply with the licenses.  Every free "
+"software license clearly lays out its own conditions, and any webmaster who "
+"wants to use a different method that meets those conditions is welcome to do "
+"so.  However, this method has the benefit of making full license information "
+"readily accessible to visitors&mdash;an issue that's been a struggle to "
+"address to date&mdash;without compromising webmasters' ability to serve "
+"JavaScript the way they feel is best."
+msgstr ""
+"Não estamos dizendo que os webmasters que hospedam o software livre "
+"JavaScript devem seguir esse método específico para cumprir as licenças. "
+"Toda licença de software livre estabelece claramente suas próprias "
+"condições, e qualquer webmaster que queira usar um método diferente que "
+"atenda a essas condições é bem-vindo a fazê-lo. No entanto, esse método tem "
+"a vantagem de tornar as informações completas sobre licenças prontamente "
+"acessíveis aos visitantes &ndash; um problema que tem sido difícil de "
+"resolver até o momento &ndash; sem comprometer a capacidade dos webmasters "
+"de veicular o JavaScript da maneira que consideram melhor."
+
+#. type: Content of: <p>
+msgid ""
+"We are very interested to hear feedback and suggestions about other ways we "
+"might accomplish the same goals, while making the system more useful for "
+"webmasters, site visitors, or developers working on license-checking "
+"software.  If we get enough suggestions to publish a new method that's "
+"noticeably improved over this one, we'll do so.  (That's why this method "
+"uses such a verbose identifier for the license information table: to allow "
+"software to distinguish this method from others we might craft in the "
+"future.)  If this is an issue that you're interested in, please <a href="
+"\"https://lists.gnu.org/mailman/listinfo/bug-librejs\">subscribe to the "
+"LibreJS mailing list</a>, and write there with your comments and "
+"suggestions.  We look forward to hearing from you."
+msgstr ""
+"Estamos muito interessados em ouvir comentários e sugestões sobre outras "
+"formas de atingir os mesmos objetivos e, ao mesmo tempo, tornar o sistema "
+"mais útil para webmasters, visitantes do site ou desenvolvedores que "
+"trabalham com software de verificação de licenças. Se obtivermos sugestões "
+"suficientes para publicar um novo método que seja visivelmente melhor em "
+"relação a este, faremos isso. (É por isso que esse método usa um "
+"identificador tão detalhado para a tabela de informações de licença: para "
+"permitir que o software diferencie esse método de outros que possamos criar "
+"no futuro.) Se esse for um problema de seu interesse, <a href=\"https://"
+"lists.gnu.org/mailman/listinfo/bug-librejs\">inscreva-se na lista de "
+"discussão do LibreJS</a> e escreva com seus comentários e sugestões. Estamos "
+"ansiosos para ouvir você."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+# type: Content of: <div><p>
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF.  Links quebrados e outras correções ou "
+"sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2014 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2014 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+"NoDerivs 3.0 United States License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2018.<br/>\n"
+"Revisado por: Cassiano Reinert Novais dos Santos <a href=\"mailto:"
+"caco@posteo.net\">&lt;caco@posto.net&gt;</a>, 2018."
+
+# type: Content of: <div><p>
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização: "

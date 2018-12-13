@@ -1,0 +1,185 @@
+# Brazilian Portuguese translation of http://www.gnu.org/licenses/hessla.html
+# Copyright (C) 2018 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: hessla.html\n"
+"POT-Creation-Date: 2014-04-05 00:01+0000\n"
+"PO-Revision-Date: 2018-12-12 23:43-0200\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid "The HESSLA's Problems - GNU Project - Free Software Foundation"
+msgstr "Os problemas do HESSLA - Projeto GNU - Free Software Foundation"
+
+#. type: Content of: <h2>
+msgid "The HESSLA's Problems"
+msgstr "Os problemas do HESSLA"
+
+#. type: Content of: <p>
+msgid ""
+"The <a href=\"http://www.hacktivismo.com/about/hessla.php\">Hacktivismo "
+"Enhanced-Source Software License Agreement</a> (HESSLA) is a software source "
+"license that tries to put restrictions of ethical conduct on use and "
+"modification of the software.  Because it restricts what jobs people can use "
+"the software for, and restricts in substantive ways what jobs modified "
+"versions of the program can do, it is not a free software license.  The "
+"ironic result is that the community of people most likely to feel sympathy "
+"for the goals of the HESSLA cannot contribute to HESSLA-covered software "
+"without violating its principles."
+msgstr ""
+"O <a href=\"http://www.hacktivismo.com/about/hessla.php\">Hacktivismo "
+"Enhanced-Source Software License Agreement</a> (HESSLA) é uma licença de "
+"fonte de software que tenta colocar restrições de conduta ética no uso e "
+"modificação do software. Como restringe os trabalhos para os quais as "
+"pessoas podem usar o software e restringe de maneira substantiva as tarefas "
+"que versões modificadas do programa podem fazer, não é uma licença de "
+"software livre. O resultado irônico é que a comunidade de pessoas com maior "
+"probabilidade de sentir simpatia pelos objetivos da HESSLA não pode "
+"contribuir com o software coberto pela HESSLA sem violar seus princípios."
+
+#. type: Content of: <p>
+msgid ""
+"The restrictions in the HESSLA prohibit specific activities that are "
+"inexcusable: violations of human rights, and introduction of features that "
+"spy on the user.  People might ask why we do not declare an exception for "
+"these particular restrictions&mdash;why do we stick to the general policy of "
+"rejecting all restrictions on use and on the functionality of modified "
+"versions?"
+msgstr ""
+"As restrições no HESSLA proíbem atividades específicas que são "
+"indesculpáveis: violações de direitos humanos e introdução de recursos que "
+"espionam o usuário. As pessoas podem perguntar por que não declaramos uma "
+"exceção para essas restrições em particular &ndash; por que nos ater à "
+"política geral de rejeitar todas as restrições de uso e funcionalidade das "
+"versões modificadas?"
+
+#. type: Content of: <p>
+msgid ""
+"If we were ever going to make an exception to our principles of free "
+"software, here would be the place to do it.  But it would be a mistake to do "
+"so: <a href=\"/philosophy/programs-must-not-limit-freedom-to-run.html\"> it "
+"would do harm to free software movement and would achieve nothing.</a> "
+"Trying to stop those particular activities with a software license is either "
+"unnecessary or ineffective."
+msgstr ""
+"Se alguma vez formos fazer uma exceção aos nossos princípios de software "
+"livre, aqui seria o lugar para fazê-lo. Mas seria um erro fazê-lo: <a href="
+"\"/philosophy/programs-dust-not-limit-freedom-to-run.html\"> isso "
+"prejudicaria o movimento software livre e não conseguiria nada</a>. Tentar "
+"interromper essas atividades específicas com uma licença de software é "
+"desnecessário ou ineficaz."
+
+#. type: Content of: <p>
+msgid ""
+"In regard to modified versions, the HESSLA's restrictions are unnecessary.  "
+"The GNU GPL is, in general, sufficient protection against privacy-violating "
+"features, because it ensures that someone can get the source code, find the "
+"spyware feature, and publish an improved version of the software which does "
+"not have the feature.  Users can then switch to that version if they don't "
+"want their personal information to be reported."
+msgstr ""
+"Em relação às versões modificadas, as restrições do HESSLA são "
+"desnecessárias. A GNU GPL é, em geral, proteção suficiente contra os "
+"recursos que violam a privacidade, porque garante que alguém possa obter o "
+"código-fonte, encontrar o recurso de spyware e publicar uma versão "
+"aprimorada do software que não possui o recurso. Os usuários podem alternar "
+"para essa versão se não quiserem que suas informações pessoais sejam "
+"informadas."
+
+#. type: Content of: <p>
+msgid ""
+"As for restricting the use of the software by governments that violate human "
+"rights, this is likely to be ineffective.  There are many other programs "
+"they can use.  Also, at least under US law, a copyright-based source license "
+"can't restrict use of the program; such a restriction is not enforcible "
+"anyway.  Meanwhile, they can simply decide they are exempt from the "
+"restrictions."
+msgstr ""
+"Quanto a restringir o uso do software por governos que violam os direitos "
+"humanos, é provável que isso seja ineficaz. Existem muitos outros programas "
+"que eles podem usar. Além disso, pelo menos sob a lei dos EUA, uma licença "
+"de fonte baseada em direitos autorais não pode restringir o uso do programa; "
+"tal restrição não é executável de qualquer maneira. Enquanto isso, eles "
+"podem simplesmente decidir que estão isentos das restrições."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+# type: Content of: <div><p>
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF.  Links quebrados e outras correções ou "
+"sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2002, 2008, 2014 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2002, 2008, 2014 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+"NoDerivs 3.0 United States License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2018."
+
+# type: Content of: <div><p>
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização: "

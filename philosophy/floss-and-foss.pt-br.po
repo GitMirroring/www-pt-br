@@ -1,0 +1,217 @@
+# Brazilian Portuguese translation of https://www.gnu.org/philosophy/floss-and-foss.html
+# Copyright (C) 2018 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018.
+# Cassiano Reinert Novais dos Santos <caco@posteo.net>
+msgid ""
+msgstr ""
+"Project-Id-Version: floss-and-foss.html\n"
+"POT-Creation-Date: 2016-07-13 14:55+0000\n"
+"PO-Revision-Date: 2018-12-12 23:44-0200\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid "FLOSS and FOSS - GNU Project - Free Software Foundation"
+msgstr "FLOSS e FOSS - Projeto GNU - Free Software Foundation"
+
+#. type: Content of: <h2>
+msgid "FLOSS and FOSS"
+msgstr "FLOSS e FOSS"
+
+#. type: Content of: <p>
+msgid "by <strong>Richard Stallman</strong>"
+msgstr "por <strong>Richard Stallman</strong>"
+
+#. type: Content of: <p>
+msgid ""
+"The two political camps in the free software community are the free software "
+"movement and open source.  The free software movement is a campaign for <a "
+"href=\"/philosophy/free-software-even-more-important.html\"> computer users' "
+"freedom</a>; we say that a nonfree program is an injustice to its users.  "
+"The open source camp declines to see the issue as a matter of justice to the "
+"users, and bases its arguments on <a href=\"/philosophy/open-source-misses-"
+"the-point.html\"> practical benefits only</a>."
+msgstr ""
+"Os dois campos políticos da comunidade de software livre são o movimento do "
+"software livre e o do código aberto. O movimento do software livre é uma "
+"campanha para a liberdade dos <a href=\"/philosophy/free-software-even-more-"
+"important.html\"> usuários de computadores</a>; dizemos que um programa não "
+"livre é uma injustiça para seus usuários. O grupo do código aberto se recusa "
+"a ver a questão como uma questão de justiça para os usuários, e baseia seus "
+"argumentos em <a href=\"/philosophy/open-source-misses-the-point.html\"> "
+"benefícios práticos apenas</a>."
+
+#. type: Content of: <p>
+msgid ""
+"To emphasize that &ldquo;free software&rdquo; refers to freedom and not to "
+"price, we sometimes write or say &ldquo;free (libre)  software,&rdquo; "
+"adding the French or Spanish word that means free in the sense of freedom.  "
+"In some contexts, it works to use just &ldquo;libre software.&rdquo;"
+msgstr ""
+"Para enfatizar que “free software” refere-se à liberdade e não ao preço\n"
+"<sup><a id=\"TransNote1-rev\" href=\"#TransNote1\">1</a></sup>,\n"
+"às vezes escrevemos ou dizemos “free (libre) software”, adicionando a "
+"palavra francesa ou espanhola que significa livre no sentido de liberdade. "
+"Em alguns contextos, funciona usar apenas “libre software”."
+
+#. type: Content of: <p>
+msgid ""
+"A researcher studying practices and methods used by developers in the free "
+"software community decided that these questions were independent of the "
+"developers' political views, so he used the term &ldquo;FLOSS,&rdquo; "
+"meaning &ldquo;Free/Libre and Open Source Software,&rdquo; to explicitly "
+"avoid a preference between the two political camps.  If you wish to be "
+"neutral, this is a good way to do it, since this makes the names of the two "
+"camps equally prominent."
+msgstr ""
+"Um pesquisador estudando práticas e métodos usados por desenvolvedores na "
+"comunidade de software livre decidiu que essas questões eram independentes "
+"das visões políticas dos desenvolvedores, então ele usou o termo “FLOSS”, a "
+"abreviação de “Free/Libre and Open Source Software”, para evitar "
+"explicitamente uma preferência entre os dois campos políticos. Se você "
+"deseja ser neutro, esta é uma boa maneira de fazê-lo, pois isso torna os "
+"nomes dos dois campos igualmente importantes."
+
+#. type: Content of: <p>
+msgid ""
+"Others use the term &ldquo;FOSS,&rdquo; which stands for &ldquo;Free and "
+"Open Source Software.&rdquo; This is meant to mean the same thing as &ldquo;"
+"FLOSS,&rdquo; but it is less clear, since it fails to explain that &ldquo;"
+"free&rdquo; refers to <em>freedom</em>.  It also makes &ldquo;free "
+"software&rdquo; less visible than &ldquo;open source,&rdquo; since it "
+"presents &ldquo;open source&rdquo; prominently but splits &ldquo;free "
+"software&rdquo; apart."
+msgstr ""
+"Outros usam o termo “FOSS”, que significa “Free and Open Source Software”. "
+"Isso tem a intenção de ser a mesma coisa que “FLOSS”, mas é menos claro, já "
+"que falha em explicar que “free” se refere a <em>liberdade</em>.  Também "
+"torna “free software” menos visível que “open source”, já que ele apresenta "
+"“open source” de forma proeminente, mas separa as palavras “free software”."
+
+#. type: Content of: <p>
+msgid ""
+"&ldquo;Free and Open Source Software&rdquo; is misleading in another way: it "
+"suggests that &ldquo;free and open source&rdquo; names a single point of "
+"view, rather than mentioning two different ones.  This conceptualization of "
+"the field is an obstacle to understanding the fact that free software and "
+"open source are different political positions that disagree fundamentally."
+msgstr ""
+"“Free and Open Source Software” é enganoso de outra maneira: sugere que "
+"“free and open source” nomeia um único ponto de vista, em vez de mencionar "
+"dois diferentes. Essa conceituação do campo é um obstáculo para a "
+"compreensão do fato de que o software livre e o código aberto são posições "
+"políticas diferentes que discordam fundamentalmente."
+
+#. type: Content of: <p>
+msgid ""
+"Thus, if you want to be neutral between free software and open source, and "
+"clear about them, the way to achieve that is to say &ldquo;FLOSS,&rdquo; not "
+"&ldquo;FOSS.&rdquo;"
+msgstr ""
+"Assim, se você quiser ser neutro entre software livre e código aberto, e "
+"claro sobre eles, a maneira de conseguir isso é dizer “FLOSS”, não “FOSS”."
+
+#. type: Content of: <p>
+msgid ""
+"We in the free software movement don't use either of these terms, because we "
+"don't want to be neutral on the political question.  We stand for freedom, "
+"and we show it every time&mdash;by saying &ldquo;free&rdquo; and &ldquo;"
+"libre&rdquo;&mdash; or &ldquo;free (libre)&rdquo;."
+msgstr ""
+"Nós, no movimento do software livre, não usamos nenhum desses termos, porque "
+"não queremos ser neutros quanto à questão política. Defendemos a liberdade e "
+"mostramos isso toda vez &ndash; dizendo “free” e “libre” ou “free (libre)”."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr ""
+"<b>Nota do tradutor</b>:\n"
+"<ol>\n"
+"<li>\n"
+"<a id=\"TransNote1\" href=\"#TransNote1-rev\" class=\"nounderline\">&#8593;</"
+"a> \n"
+"A palavra inglesa “free” é ambígua, podendo significar tanto gratuidade/não "
+"ter preço (<i>“free beer”</i>, cerveja grátis) ou livre como em liberdade "
+"(<i>“free speech”</i>, liberdade de expressão). Para mais informações sobre "
+"isso, é recomendado a leitura da <a href=\"/philosophy/free-sw.html"
+"\">definição de software livre</a>.\n"
+"</li>\n"
+"</ol>"
+
+# type: Content of: <div><p>
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF.  Links quebrados e outras correções ou "
+"sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2013, 2015, 2016 Richard Stallman"
+msgstr "Copyright &copy; 2013, 2015, 2016 Richard Stallman"
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2018.<br/>\n"
+"Revisado por: Cassiano Reinert Novais dos Santos <a href=\"mailto:"
+"caco@posteo.net\">&lt;caco@posteo.net&gt;</a>, 2018."
+
+# type: Content of: <div><p>
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização: "

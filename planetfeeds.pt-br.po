@@ -5,8 +5,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: planetfeeds.html\n"
-"POT-Creation-Date: 2018-11-22 05:58+0000\n"
-"PO-Revision-Date: 2018-11-22 06:16-0200\n"
+"POT-Creation-Date: 2018-12-10 05:57+0000\n"
+"PO-Revision-Date: 2018-12-10 09:31-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -17,54 +17,189 @@ msgstr ""
 "X-Generator: Virtaal 1.0.0-beta1\n"
 
 #. type: Content of: <p>
-msgid "Give the gift of freedom this year!"
-msgstr "Dê um presente de liberdade neste ano!"
+msgid "Unifont 11.0.03 Released"
+msgstr "Unifont 11.0.03 lançado"
 
 #.  TRANSLATORS: 
-#. http://www.fsf.org/blogs/community/give-the-gift-of-freedom-this-year 
+#. http://savannah.gnu.org/forum/forum.php?forum_id=9323 
 #. type: Content of: <p>
 msgid ""
-": As the end-of-the-year gift-giving season approaches, we have a dilemma: "
-"how do we give the people in our lives the gifts they want without "
-"subjecting the..."
+": 8 December 2018 Unifont 11.0.03 is now available. Significant changes in "
+"this version include the Nushu script contributed by David Corbett, and the "
+"Kana Supplement..."
 msgstr ""
-": À medida que a temporada de entrega de presentes de final de ano se "
-"aproxima, temos um dilema: como damos às pessoas em nossas vidas os "
-"presentes que..."
-
-#. type: Content of: <p>
-msgid "Bison 3.2.2 released [stable]"
-msgstr "Bison 3.2.2 lançado [estável]"
-
-#.  TRANSLATORS: 
-#. http://savannah.gnu.org/forum/forum.php?forum_id=9297 
-#. type: Content of: <p>
-msgid ""
-": Bison 3.2.2 is a bug fix releases of Bison 3.2. Bison 3.2 brought massive "
-"improvements to the deterministic C++ skeleton, lalr1.cc. When variants are "
-"enabled an..."
-msgstr ""
-": Bison 3.2.2 é uma versão de correção de erros do Bison 3.2, o qual trouxe "
-"melhorias massivas ao esqueleto determinístico do C++, lalr1.cc. Quando as "
-"variantes..."
+": 8 de dezembro de 2018 O Unifont 11.0.03 já está disponível. Alterações "
+"significativas nesta versão incluem o script Nushu, contribuído por David "
+"Corbett, e o Kana Supplement..."
 
 #. type: Content of: <p>
 msgid ""
-"Richard Stallman - « Libertad del usuario, libertad del lector "
-"» (Valladolid, Spain)"
+"FSF adds Hyperbola GNU/Linux-libre to list of endorsed GNU/Linux "
+"distributions"
 msgstr ""
-"Richard Stallman - « Libertad del usuario, libertad del lector "
-"» (Valladolid, Espanha)"
+"A FSF adiciona o Hyperbola GNU/Linux-libre à lista de distribuições "
+"aprovadas do GNU/Linux"
 
 #.  TRANSLATORS: 
-#. http://www.fsf.org/events/rms-20181204-valladolid 
+#. http://www.fsf.org/news/fsf-adds-hyperbola-gnu-linux-libre-to-list-of-endorsed-gnu-linux-distributions 
 #. type: Content of: <p>
 msgid ""
-": Esta charla de Richard Stallman no será técnica y será abierta al público; "
-"todos están invitados a asisti..."
+": The FSF&#39;s list showcases GNU/Linux operating system distributions "
+"whose developers have made a commitment t..."
 msgstr ""
-": Essa palestra de Richard Stallman não será técnica e estará aberta ao "
-"público; todos estão convidados a participar..."
+": A lista da FSF mostra as distribuições do sistema operacional GNU/Linux "
+"cujos desenvolvedores fizeram um compromisso..."
+
+#. type: Content of: <p>
+msgid "GNU Guix and GuixSD 0.16.0 released"
+msgstr "GNU Guix e GuixSD 0.16.0 lançado"
+
+#.  TRANSLATORS: 
+#. https://gnu.org/software/guix/blog/2018/gnu-guix-and-guixsd-0.16.0-released/ 
+#. type: Content of: <p>
+msgid ""
+": We are pleased to announce the new release of GNU Guix and GuixSD, version "
+"0.16.0! This release is (hopefully!) the last one before 1.0—we have been "
+"closi..."
+msgstr ""
+": Temos o prazer de anunciar o novo lançamento do GNU Guix e GuixSD, versão "
+"0.16.0! Este lançamento é (esperamos!) o último antes de 1.0—nós temos "
+"finalizado..."
+
+#~ msgid "libredwg-0.7 released"
+#~ msgstr "libredwg-0.7 lançado"
+
+#~ msgid ""
+#~ ": See https://www.gnu.org/software/libredwg/ and http://git.savannah.gnu."
+#~ "org/cgit/libredwg.git/tree/NEWS new API: * add dwg_get_OBJECT(dwg) API "
+#~ "for all objects in a DWG..."
+#~ msgstr ""
+#~ ": Veja https://www.gnu.org/software/libredwg/ e http://git.savannah.gnu."
+#~ "org/cgit/libredwg.git/tree/NEWS nova API: * adiciona API dwg_get_OBJECT"
+#~ "(dwg) para todos os objetos em um DWG..."
+
+#~ msgid "Support software freedom: Shop the GNU Press"
+#~ msgstr "Apoio a liberdade de software: Compre na GNU Press"
+
+#~ msgid ""
+#~ ": This autumn is a great time to visit the GNU Press Shop, the online "
+#~ "store that promotes software freedom with every T-shirt, every button, "
+#~ "and ev..."
+#~ msgstr ""
+#~ ": Este outono é um ótimo momento para visitar a GNU Press Shop, a loja "
+#~ "online que promove a liberdade do software com todas as camisetas, todos "
+#~ "os botões..."
+
+#~ msgid "Introducing Hrishikesh Barman, intern with the FSF tech team"
+#~ msgstr "Apresentando Hrishikesh Barman, estagiário na equipe técnica da FSF"
+
+#~ msgid ""
+#~ ": Hello everyone! My name is Hrishikesh Barman, and I am a third-year "
+#~ "computer science undergraduate student. Growing up, I had an..."
+#~ msgstr ""
+#~ ": Olá a todos! Meu nome é Hrishikesh Barman e sou estudante de graduação "
+#~ "em ciência da computação do terceiro ano. Crescendo, eu tive um..."
+
+#~ msgid "New Android SDK/NDK Rebuilds"
+#~ msgstr "Novas recompilações do SDK/NDK do Android"
+
+#~ msgid ""
+#~ ": As described in a previous post, Google is still click-wrapping all "
+#~ "Android developer binaries with a non-free EULA. I recompiled SDK 9.0.0, "
+#~ "NDK r18b and SDK Too..."
+#~ msgstr ""
+#~ ": Conforme descrito em uma postagem anterior, o Google ainda agrupa todos "
+#~ "os binários de desenvolvimento do Android com um EULA não livre. Eu "
+#~ "recompilei o SDK..."
+
+#~ msgid ""
+#~ ": Noteworthy Changes in this release: * Add new option `--retry-on-host-"
+#~ "error` to treat local errors as transient and hence Wget will retry to "
+#~ "download the file after a..."
+#~ msgstr ""
+#~ ": Alterações notáveis nesta versão: * Adição de nova opção `--retry-on-"
+#~ "host-error` para tratar erros locais como transitórios e, portanto, Wget "
+#~ "vai tentar baixar o arquivo..."
+
+#~ msgid "Help the FSF tech team build the future of free software"
+#~ msgstr ""
+#~ "Ajude a equipe técnica da FSF a construir o futuro do software livre"
+
+#~ msgid ""
+#~ ": The Free Software Foundation (FSF) tech team works every day to "
+#~ "maintain and improve the infrastructure that supports hundreds of fre..."
+#~ msgstr ""
+#~ ": A equipe técnica da Free Software Foundation (FSF) trabalha todos os "
+#~ "dias para manter e melhorar a infraestrutura que suporta centenas de..."
+
+#~ msgid "DejaGnu 1.6.2 released"
+#~ msgstr "DejaGnu 1.6.2 lançado"
+
+#~ msgid ""
+#~ ": DejaGnu 1.6.2 was released on 28 November 2018. A maintenance release."
+#~ msgstr ""
+#~ ": DejaGnu 1.6.2 foi lançado em 28 de Novembro de 2018. Um lançamento de "
+#~ "manutenção."
+
+#~ msgid "GNU Spotlight with Mike Gerwitz: 18 new GNU releases!"
+#~ msgstr "Holofote GNU com Mike Gerwitz: 18 novos lançamentos GNU!"
+
+#~ msgid ""
+#~ ": * bison-3.2.2 * emms-5.1 * gnuhealth-3.4.0 * guile-cv-0.2.1 * "
+#~ "icecat-60.3.0 * indent-2.2.11 * libextractor-1.8 * libmicrohttpd-0.9.60 "
+#~ "*..."
+#~ msgstr ""
+#~ ": * bison-3.2.2 * emms-5.1 * gnuhealth-3.4.0 * guile-cv-0.2.1 * "
+#~ "icecat-60.3.0 * indent-2.2.11 * libextractor-1.8 * libmicrohttpd-0.9.60 "
+#~ "*..."
+
+#~ msgid "GNU Parallel 20181122 (&#39;Kilogram&#39;) released"
+#~ msgstr "GNU Parallel 20181122 (&#39;Kilogram&#39;) lançado"
+
+#~ msgid ""
+#~ ": GNU Parallel 20181122 (&#39;Kilogram&#39;) has been released. It is "
+#~ "available for download at: http://ftpmirror.gnu.org/parallel/ Quote of..."
+#~ msgstr ""
+#~ ": GNU Parallel 20181122 (&#39;Kilogram&#39;) foi lançado. Está disponível "
+#~ "para download em: http://ftpmirror.gnu.org/parallel/ Citação de..."
+
+#~ msgid "Give the gift of freedom this year!"
+#~ msgstr "Dê um presente de liberdade neste ano!"
+
+#~ msgid ""
+#~ ": As the end-of-the-year gift-giving season approaches, we have a "
+#~ "dilemma: how do we give the people in our lives the gifts they want "
+#~ "without subjecting the..."
+#~ msgstr ""
+#~ ": À medida que a temporada de entrega de presentes de final de ano se "
+#~ "aproxima, temos um dilema: como damos às pessoas em nossas vidas os "
+#~ "presentes que..."
+
+#~ msgid "Bison 3.2.2 released [stable]"
+#~ msgstr "Bison 3.2.2 lançado [estável]"
+
+#~ msgid ""
+#~ ": Bison 3.2.2 is a bug fix releases of Bison 3.2. Bison 3.2 brought "
+#~ "massive improvements to the deterministic C++ skeleton, lalr1.cc. When "
+#~ "variants are enabled an..."
+#~ msgstr ""
+#~ ": Bison 3.2.2 é uma versão de correção de erros do Bison 3.2, o qual "
+#~ "trouxe melhorias massivas ao esqueleto determinístico do C++, lalr1.cc. "
+#~ "Quando as variantes..."
+
+#~ msgid ""
+#~ "Richard Stallman - « Libertad del usuario, libertad del lector "
+#~ "» (Valladolid, Spain)"
+#~ msgstr ""
+#~ "Richard Stallman - « Libertad del usuario, libertad del lector "
+#~ "» (Valladolid, Espanha)"
+
+#~ msgid ""
+#~ ": Esta charla de Richard Stallman no será técnica y será abierta al "
+#~ "público; todos están invitados a asisti..."
+#~ msgstr ""
+#~ ": Essa palestra de Richard Stallman não será técnica e estará aberta ao "
+#~ "público; todos estão convidados a participar..."
 
 #~ msgid ""
 #~ ": We would have been happy not to have to announce the release of Bison "
@@ -118,9 +253,6 @@ msgstr ""
 #~ msgstr ""
 #~ ": Richard Stallman hablará sobre las metas y la filosofía del movimiento "
 #~ "del Software Libre, y el estado y la historia de..."
-
-#~ msgid "libredwg-0.6.2 released"
-#~ msgstr "libredwg-0.6.2 lançado"
 
 #~ msgid ""
 #~ ": Important bugfixes: * Fixed several out_dxf segfaults (#39) * Enhanced "
@@ -199,9 +331,6 @@ msgstr ""
 #~ "espelhos). Esta é uma versão intermediária que restaura a compatibilidade "
 #~ "com bancos de dados criados pelo gdbm 1.8 (a..."
 
-#~ msgid "GNU Spotlight with Mike Gerwitz: 15 new GNU releases!"
-#~ msgstr "Holofote GNU com Mike Gerwitz: 15 novos lançamentos GNU!"
-
 #~ msgid ""
 #~ ": * dico-2.7 * gama-2.01 * gdb-8.2 * gnu-pw-mgr-2.4.2 * guile-cv-0.2.0 * "
 #~ "gvpe-3.1 * help2man-1.47.8 * indent-2.2.12 * librejs-7.17.0 * mes..."
@@ -220,16 +349,6 @@ msgstr ""
 #~ msgstr ""
 #~ ": Você enviou uma palestra para o LibrePlanet 2019? A Chamada para "
 #~ "Sessões (CfS) foi prorrogada até sexta-feira, 9 de novembro..."
-
-#~ msgid "GNU Parallel 20181022 (&#39;Khashoggi&#39;) released"
-#~ msgstr "GNU Parallel 20181022 (&#39;Khashoggi&#39;) lançado"
-
-#~ msgid ""
-#~ ": GNU Parallel 20181022 (&#39;Khashoggi&#39;) has been released. It is "
-#~ "available for download at: http://ftpmirror.gnu.org/parallel/ Quote..."
-#~ msgstr ""
-#~ ": GNU Parallel 20181022 (&#39;Khashoggi&#39;) foi lançado. Está "
-#~ "disponível para download em: http://ftpmirror.gnu.org/parallel/ ..."
 
 #~ msgid ""
 #~ "Richard Stallman - « Soberania tecnológica, privacidad y democracia "
@@ -468,9 +587,6 @@ msgstr ""
 #~ ": GNUzilla é a versão GNU da suíte Mozilla e o GNU IceCat é a versão GNU "
 #~ "do navegador Firefox. Sua principal vantagem é ética: é totalmente "
 #~ "livre..."
-
-#~ msgid "LibreJS 7.17 released"
-#~ msgstr "LibreJS 7.17 lançado"
 
 #~ msgid ""
 #~ ": GNU LibreJS aims to address the JavaScript problem described in Richard "
@@ -853,9 +969,6 @@ msgstr ""
 #~ "* processamento massivo em paralelo * processamento assíncrono * "
 #~ "aprendizado de máquina: um program..."
 
-#~ msgid "Introducing Alyssa Rosenzweig, intern with the FSF tech team"
-#~ msgstr "Apresentando Alyssa Rosenzweig, estagiário na equipe técnica da FSF"
-
 #~ msgid ""
 #~ ": Howdy there, fellow cyber denizens; &#39;tis I, Alyssa Rosenzweig, your "
 #~ "friendly local biological life form! I&#39;m a certified..."
@@ -886,18 +999,6 @@ msgstr ""
 #~ ": A Seattle GNU/Linux Conference (9 a 10 de novembro) será novamente este "
 #~ "ano no Seattle Central College (Mapas). Do site..."
 
-#~ msgid "GNU Guix and GuixSD 0.15.0 released"
-#~ msgstr "GNU Guix e GuixSD 0.15.0 lançado"
-
-#~ msgid ""
-#~ ": We are pleased to announce the new release of GNU Guix and GuixSD, "
-#~ "version 0.15.0! This release brings us close to what we wanted to have "
-#~ "for 1.0, so it’s..."
-#~ msgstr ""
-#~ ": Temos o prazer de anunciar o novo lançamento do GNU Guix e GuixSD, "
-#~ "versão 0.15.0! Este lançamento nos aproxima do que queremos ter para o "
-#~ "1.0, então é..."
-
 #~ msgid ""
 #~ "The European Parliament has rejected the copyright directive, for now"
 #~ msgstr ""
@@ -909,15 +1010,6 @@ msgstr ""
 #~ msgstr ""
 #~ ": A diretiva de direitos autorais da UE, na sua forma atual, tem "
 #~ "profundas e vastas implicações, indo muito além dos direitos de autor e..."
-
-#~ msgid ""
-#~ ": See https://www.gnu.org/software/libredwg/ and http://git.savannah.gnu."
-#~ "org/cgit/libredwg.git/tree/NEWS?h=0.5 Here are the compressed sources: "
-#~ "http://ftp.gnu.org..."
-#~ msgstr ""
-#~ ": Veja https://www.gnu.org/software/libredwg/ e http://git.savannah.gnu."
-#~ "org/cgit/libredwg.git/tree/NEWS?h=0.5 Aqui estão os fontes comprimidos: "
-#~ "http://ftp.gnu.org..."
 
 #~ msgid "Take a stand before July 5th: Contact your MEP today"
 #~ msgstr ""

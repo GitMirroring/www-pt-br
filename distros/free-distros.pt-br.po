@@ -11,8 +11,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: free-distros.html\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-11-19 22:26+0000\n"
-"PO-Revision-Date: 2018-11-22 06:10-0200\n"
+"POT-Creation-Date: 2018-12-06 20:57+0000\n"
+"PO-Revision-Date: 2018-12-06 22:20-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -31,7 +31,7 @@ msgstr ""
 
 #. type: Content of: <h2>
 msgid "Free GNU/Linux distributions"
-msgstr "Distribuições Livres de GNU/Linux"
+msgstr "Distribuições GNU/Linux livres"
 
 #. type: Content of: <div><h3>
 msgid "Table of Contents"
@@ -253,8 +253,8 @@ msgstr ""
 "FSF."
 
 #. type: Content of: <table><tr><td><a>
-msgid "<a href=\"http://www.gnu.org/software/guix/\">"
-msgstr "<a href=\"http://www.gnu.org/software/guix/\">"
+msgid "<a href=\"https://www.gnu.org/software/guix/\">"
+msgstr "<a href=\"https://www.gnu.org/software/guix/\">"
 
 #. type: Attribute 'alt' of: <table><tr><td><a><img>
 msgid "guix"
@@ -269,6 +269,22 @@ msgstr ""
 "Guix System Distribution é uma distro GNU/Linux avançada construída sobre o "
 "GNU Guix (pronunciado “geeks”), um gerenciador de pacotes puramente "
 "funcional para o sistema GNU."
+
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"https://www.hyperbola.info/?gnu-free-stros-page\">"
+msgstr "<a href=\"https://www.hyperbola.info/?gnu-free-stros-page\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "Hyperbola"
+msgstr "Hyperbola"
+
+#. type: Content of: <table><tr><td>
+msgid ""
+"Hyperbola GNU/Linux-libre, a long-term support simplicity-focused "
+"distribution based on Arch GNU/Linux."
+msgstr ""
+"Hyperbola GNU/Linux-libre, uma distribuição com foco na simplicidade e "
+"suporte de longo prazo baseada no Arch GNU/Linux."
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"https://musixdistro.wordpress.com/\">"

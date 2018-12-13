@@ -1,0 +1,236 @@
+# Brazilian Portuguese translation of http://www.gnu.org/licenses/lgpl-java.html
+# Copyright (C) 2018 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: lgpl-java.html\n"
+"POT-Creation-Date: 2014-04-05 00:01+0000\n"
+"PO-Revision-Date: 2018-12-12 23:44-0200\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid "The LGPL and Java - GNU Project - Free Software Foundation"
+msgstr "A LGPL e o Java - Projeto GNU - Free Software Foundation"
+
+#. type: Content of: <h2>
+msgid "The LGPL and Java"
+msgstr "A LGPL e o Java"
+
+#. type: Content of: <p>
+msgid "by <a href=\"mailto:licensing@fsf.org\">David Turner</a>"
+msgstr "por <a href=\"mailto:licensing@fsf.org\">David Turner</a>"
+
+#. type: Content of: <div><blockquote><p>
+msgid ""
+"This article was written in November 2004, when <a href=\"/licenses/old-"
+"licenses/lgpl-2.1.html\">LGPLv2.1</a> was the most current version of the "
+"license.  Since then, <a href=\"/licenses/lgpl-3.0.html\">LGPLv3</a> has "
+"been published.  The main points of this article remain true about LGPLv3, "
+"but some of the details, such as section numbers, have changed."
+msgstr ""
+"Este artigo foi escrito em novembro de 2004, quando a <a href=\"/licenses/"
+"old-licenses/lgpl-2.1.html\">LGPLv2.1</a> era a versão mais atual da "
+"licença. Desde então, a <a href=\"/licenses/lgpl-3.0.html\">LGPLv3</a> foi "
+"publicada. Os principais pontos deste artigo permanecem verdadeiros sobre a "
+"LGPLv3, mas alguns dos detalhes, como números de seção, mudaram."
+
+#. type: Content of: <p>
+msgid ""
+"It has always been the FSF's position that dynamically linking applications "
+"to libraries creates a single work derived from both the library code and "
+"the application code.  The GPL requires that all derivative works be "
+"licensed as a whole under the terms of the GPL, an effect which can be "
+"described as &ldquo;hereditary.&rdquo; So, if an application links to a "
+"library licensed under the GPL, the application too must be licensed under "
+"the GPL.  By contrast, libraries licensed under the GNU Lesser General "
+"Public License (LGPL) may be linked to proprietary applications."
+msgstr ""
+"Sempre foi a posição da FSF que vincular dinamicamente aplicativos a "
+"bibliotecas cria um único trabalho derivado do código da biblioteca e do "
+"código do aplicativo. A GPL exige que todas as obras derivadas sejam "
+"licenciadas como um todo sob os termos da GPL, um efeito que pode ser "
+"descrito como “hereditário”. Portanto, se um aplicativo vincula-se a uma "
+"biblioteca licenciada sob a GPL, o aplicativo também deve ser licenciado sob "
+"a GPL. Por outro lado, as bibliotecas licenciadas sob a Licença Pública "
+"Geral Menor GNU (LGPL) podem estar vinculadas a aplicativos proprietários."
+
+#. type: Content of: <p>
+msgid ""
+"In July of 2003, Slashdot published a story claiming that I had claimed that "
+"the LGPL did not function as intended in the case of Java.  This story was "
+"based on a misunderstanding of a response to a question sent to "
+"licensing@gnu.org, and many attempts to clarify the issue in the Slashdot "
+"story did not get across.  I have received numerous questions about the "
+"story since, via both licensing@gnu.org and personal email."
+msgstr ""
+"Em julho de 2003, o Slashdot publicou uma reportagem alegando que eu havia "
+"alegado que a LGPL não funcionava como pretendido no caso de Java. Esta "
+"história foi baseada em um mal-entendido de uma resposta a uma pergunta "
+"enviada para licensing@gnu.org, e muitas tentativas de esclarecer a questão "
+"na história do Slashdot não foram transmitidas. Eu recebi inúmeras perguntas "
+"sobre a história desde, através de licensing@gnu.org e e-mail pessoal."
+
+#. type: Content of: <p>
+msgid ""
+"FSF's position has remained constant throughout: the LGPL works as intended "
+"with all known programming languages, including Java.  Applications which "
+"link to LGPL libraries need not be released under the LGPL.  Applications "
+"need only follow the requirements in section 6 of the LGPL: allow new "
+"versions of the library to be linked with the application; and allow reverse "
+"engineering to debug this."
+msgstr ""
+"A posição da FSF permaneceu constante durante todo o tempo: a LGPL funciona "
+"como pretendido com todas as linguagens de programação conhecidas, incluindo "
+"Java. Aplicativos que possuem vínculos com bibliotecas LGPL não precisam ser "
+"lançados sob a LGPL. Os aplicativos precisam seguir apenas os requisitos da "
+"seção 6 da LGPL: permitir que novas versões da biblioteca sejam vinculadas "
+"ao aplicativo; e permitir engenharia reversa para depurar isso."
+
+#. type: Content of: <p>
+msgid ""
+"The typical arrangement for Java is that each library an application uses is "
+"distributed as a separate JAR (Java Archive) file.  Applications use Java's "
+"&ldquo;import&rdquo; functionality to access classes from these libraries.  "
+"When the application is compiled, function signatures are checked against "
+"the library, creating a link.  The application is then generally a "
+"derivative work of the library.  So, the copyright holder for the library "
+"must authorize distribution of the work.  The LGPL permits this distribution."
+msgstr ""
+"O arranjo típico para Java é que cada biblioteca utilizada por um aplicativo "
+"é distribuída como um arquivo JAR (Java Archive) separado. Aplicativos usam "
+"a funcionalidade “import” do Java para acessar classes dessas bibliotecas. "
+"Quando o aplicativo é compilado, as assinaturas de função são verificadas na "
+"biblioteca, criando um vínculo. O aplicativo é então geralmente um trabalho "
+"derivado da biblioteca. Portanto, o detentor dos direitos autorais da "
+"biblioteca deve autorizar a distribuição do trabalho. A LGPL permite essa "
+"distribuição."
+
+#. type: Content of: <p>
+msgid ""
+"If you distribute a Java application that imports LGPL libraries, it's easy "
+"to comply with the LGPL.  Your application's license needs to allow users to "
+"modify the library, and reverse engineer your code to debug these "
+"modifications.  This doesn't mean you need to provide source code or any "
+"details about the internals of your application. Of course, some changes the "
+"users may make to the library may break the interface, rendering the library "
+"unable to work with your application.  You don't need to worry about "
+"that&mdash;people who modify the library are responsible for making it work."
+msgstr ""
+"Se você distribuir um aplicativo Java que importe bibliotecas LGPL, será "
+"fácil cumprir a LGPL. A licença do seu aplicativo precisa permitir que os "
+"usuários modifiquem a biblioteca e faça engenharia reversa do código para "
+"depurar essas modificações. Isso não significa que você precise fornecer o "
+"código-fonte ou quaisquer detalhes sobre os componentes internos do seu "
+"aplicativo. Naturalmente, algumas alterações que os usuários podem fazer na "
+"biblioteca podem quebrar a interface, tornando a biblioteca incapaz de "
+"trabalhar com seu aplicativo. Você não precisa se preocupar com isso &ndash; "
+"as pessoas que modificam a biblioteca são responsáveis por fazê-la funcionar."
+
+#. type: Content of: <p>
+msgid ""
+"When you distribute the library with your application (or on its own), you "
+"need to include source code for the library.  But if your application "
+"instead requires users to obtain the library on their own, you don't need to "
+"provide source code for the library."
+msgstr ""
+"Quando você distribui a biblioteca com seu aplicativo (ou por conta "
+"própria), é necessário incluir o código-fonte para a biblioteca. Mas, se seu "
+"aplicativo exigir que os usuários obtenham a biblioteca por conta própria, "
+"você não precisará fornecer o código-fonte para a biblioteca."
+
+#. type: Content of: <p>
+msgid ""
+"The only difference between Java and C from the LGPL's perspective is that "
+"Java is an object-oriented language, supporting inheritance.  The LGPL "
+"contains no special provisions for inheritance, because none are needed.  "
+"Inheritance creates derivative works in the same way as traditional linking, "
+"and the LGPL permits this type of derivative work in the same way as it "
+"permits ordinary function calls."
+msgstr ""
+"A única diferença entre Java e C da perspectiva da LGPL é que Java é uma "
+"linguagem orientada a objetos, com suporte a herança. A LGPL não contém "
+"provisões especiais para herança, porque nenhuma é necessária. A herança "
+"cria trabalhos derivados da mesma forma que a vinculação tradicional, e a "
+"LGPL permite esse tipo de trabalho derivado da mesma forma que permite "
+"chamadas de função comuns."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+# type: Content of: <div><p>
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF.  Links quebrados e outras correções ou "
+"sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2004, 2013, 2014 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2004, 2013, 2014 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+"NoDerivs 3.0 United States License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2018."
+
+# type: Content of: <div><p>
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização: "

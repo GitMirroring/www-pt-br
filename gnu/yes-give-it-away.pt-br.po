@@ -1,0 +1,224 @@
+# Brazilian Portuguese translation of https://www.gnu.org/gnu/yes-give-it-away.html
+# Copyright (C) 2018 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018.
+# André N Batista <nandre@riseup.net>, 2018. (proofread)
+msgid ""
+msgstr ""
+"Project-Id-Version: yes-give-it-away.html\n"
+"POT-Creation-Date: 2016-11-18 06:57+0000\n"
+"PO-Revision-Date: 2018-12-12 23:43-0200\n"
+"Last-Translator: André N Batista <nandre@riseup.net>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid "Yes, Give It Away - GNU Project - Free Software Foundation"
+msgstr "Sim, Doe - Projeto GNU - Free Software Foundation"
+
+#. type: Content of: <h2>
+msgid "Yes, Give It Away"
+msgstr "Sim, Doe"
+
+#. type: Content of: <p>
+msgid ""
+"<strong>by <a href=\"http://www.stallman.org/\">Richard Stallman</a></strong>"
+msgstr ""
+"<strong>por <a href=\"http://www.stallman.org/\">Richard Stallman</a></"
+"strong>"
+
+#. type: Content of: <blockquote><p>
+msgid ""
+"Richard Stallman wrote this text, which was found in a file dated May 1983, "
+"though it is not clear whether it was written then or earlier.  In May 1983 "
+"he was privately considering plans to develop a free operating system, but "
+"he may not yet have decided to make it a Unix-like system rather than "
+"something like the MIT Lisp Machine."
+msgstr ""
+"Richard Stallman escreveu este texto, que foi encontrado em um arquivo "
+"datado de maio de 1983, embora não esteja claro se ele foi escrito na época "
+"ou antes. Em maio de 1983, ele estava pensando em planos para desenvolver um "
+"sistema operacional livre, mas ele pode ainda não ter decidido torná-lo um "
+"sistema semelhante ao Unix, em vez de algo como a Máquina Lisp <i>(Lisp "
+"Machine)</i> do <acronym title=\"Massachusetts Institute of Technology"
+"\">MIT</acronym>."
+
+#. type: Content of: <blockquote><p>
+msgid ""
+"He had not yet conceptually distinguished the two meanings of &ldquo;free;"
+"&rdquo; this message is formulated in terms of gratis copies, but take for "
+"granted that this means users also have freedom."
+msgstr ""
+"Ele ainda não havia distinguido conceitualmente os dois significados de "
+"<i>“free”</i>; essa mensagem é formulada em termos de cópias gratuitas, mas "
+"é assumido que isso significa que os usuários também têm liberdade.<sup><a "
+"id=\"TransNote1-rev\" href=\"#TransNote1\">1</a></sup>"
+
+#. type: Content of: <p>
+msgid ""
+"One of the important reasons for giving software away free is to enable the "
+"users to change it.  This allows them to make better use of it, and also "
+"encourages and enables them to contribute to the effort.  Furthermore, they "
+"develop self-reliance, confidence, and a sense of responsibility."
+msgstr ""
+"Uma das razões importantes para fornecer software gratuitamente é permitir "
+"que usuários o modifiquem. Isso permite que façam um melhor uso dele, além "
+"de encorajá-los e permitir que contribuam para o esforço. Mais ainda, eles "
+"desenvolvem autossuficiência, confiança e senso de responsabilidade."
+
+#. type: Content of: <p>
+msgid ""
+"I've often heard that Americans will think something is worthless if it's "
+"free.  It might be true, but it's not rational.  People have a right to be "
+"neurotic but we should not encourage this.  In the mean time, giving "
+"software away is not &ldquo;treating it as worthless&rdquo; just because "
+"some masochists might conclude it was worthless."
+msgstr ""
+"Eu sempre ouvi dizer que os americanos pensarão que algo é sem valor se for "
+"gratuito. Pode ser verdade, mas isso não é racional. As pessoas têm o "
+"direito de serem neuróticas, mas não devemos encorajá-las. Enquanto isso, "
+"doar software não é “tratá-lo como sem valor” só porque alguns masoquistas "
+"poderíam concluir que não teria valor."
+
+#. type: Content of: <p>
+msgid ""
+"Users would not change software if it were worthless; rather, because it is "
+"worth more to them as changed than before.  Some central maintenance is also "
+"useful, but there are other ways to provide for this aside from hassling the "
+"users."
+msgstr ""
+"Usuários não mudariam software se não tivesse valor; o contrário, porque "
+"lhes vale mais modificado que antes. Alguma manutenção central também é "
+"útil, mas existem outras maneiras de fornecer isso além de incomodar "
+"usuários."
+
+#. type: Content of: <p>
+msgid ""
+"I have a lot of experience with sharing software and having the users change "
+"it.  I find that"
+msgstr ""
+"Eu tenho muita experiência em compartilhar software e fazer com que usuários "
+"o modifiquem. Eu acho que"
+
+#. type: Content of: <ol><li>
+msgid "there is little tendency to believe EMACS is worthless"
+msgstr "há uma pequena tendência a acreditar que o EMACS não tem valor"
+
+#. type: Content of: <ol><li>
+msgid "users change EMACS a lot"
+msgstr "usuários mudam muito o EMACS"
+
+#. type: Content of: <ol><li>
+msgid "users' changes contribute to EMACS development"
+msgstr "mudanças dos usuários contribuem para o desenvolvimento do EMACS"
+
+#. type: Content of: <ol><li>
+msgid "centralized maintenance of EMACS continues"
+msgstr "manutenção centralizada do EMACS continua"
+
+#. type: Content of: <p>
+msgid ""
+"I approached users in a non-manipulative cooperative spirit, and they "
+"reacted enthusiastically and cooperatively.  When told that restrictions are "
+"being imposed to trick their neuroses or because they are assumed in advance "
+"to be incompetent, they feel justifiable resentment.  They also tend to "
+"become incompetent and neurotic as a result."
+msgstr ""
+"Eu abordei usuários em um espírito cooperativo não-manipulativo e eles "
+"reagiram com entusiasmo e cooperação. Quando informados de que restrições "
+"estão sendo impostas para enganar suas neuroses ou porque se assume, com "
+"antecedência, serem incompetentes, elas sentem um ressentimento "
+"justificável. Eles também tendem a se tornar incompetentes e neuróticos como "
+"resultado."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr ""
+"<b>Nota do tradutor</b>:\n"
+"<ol>\n"
+"<li>\n"
+"<a id=\"TransNote1\" href=\"#TransNote1-rev\" class=\"nounderline\">&#8593;</"
+"a> \n"
+"A palavra inglesa “free” é ambígua, podendo significar tanto gratuidade/não "
+"ter preço (<i>“free beer”</i>, cerveja grátis) ou livre como em liberdade "
+"(<i>“free speech”</i>, liberdade de expressão). Para mais informações sobre "
+"isso, é recomendado a leitura da <a href=\"/philosophy/free-sw.html"
+"\">definição de software livre</a>.\n"
+"</li>\n"
+"</ol>"
+
+# type: Content of: <div><p>
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF.  Links quebrados e outras correções ou "
+"sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2015, 2016 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2015, 2016 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2018.<br/>\n"
+"Revisado por: André N Batista <a href=\"mailto:nandre@riseup.net\">&lt;"
+"nandre@riseup.net&gt;</a>, 2018."
+
+# type: Content of: <div><p>
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização: "

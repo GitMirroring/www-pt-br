@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: other-free-books.html\n"
-"POT-Creation-Date: 2018-01-01 05:56+0000\n"
-"PO-Revision-Date: 2018-01-18 13:12-0200\n"
+"POT-Creation-Date: 2018-12-01 18:26+0000\n"
+"PO-Revision-Date: 2018-12-01 21:04-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -455,8 +455,8 @@ msgid "0-9541617-1-8"
 msgstr "0-9541617-1-8"
 
 #. type: Content of: <table><tr><td>
-msgid "<a href=\"http://www.diveintopython.net/\">Dive Into Python</a>"
-msgstr "<a href=\"http://www.diveintopython.net/\">Dive Into Python</a>"
+msgid "<a href=\"https://www.diveinto.org/python3/\">Dive Into Python 3</a>"
+msgstr "<a href=\"https://www.diveinto.org/python3/\">Dive Into Python 3</a>"
 
 #. type: Content of: <table><tr><td>
 msgid "Mark Pilgrim"
@@ -467,8 +467,8 @@ msgid "aPress"
 msgstr "aPress"
 
 #. type: Content of: <table><tr><td>
-msgid "1-59059-356-1"
-msgstr "1-59059-356-1"
+msgid "978-1430224150"
+msgstr "978-1430224150"
 
 #. type: Content of: <table><tr><td>
 msgid ""
@@ -634,14 +634,6 @@ msgstr "1932111816"
 
 #. type: Content of: <table><tr><td>
 msgid ""
-"<a href=\"http://www.gnu.org/licenses/gpl.html\">GNU General Public License</"
-"a>"
-msgstr ""
-"<a href=\"http://www.gnu.org/licenses/gpl.html\">Licença Pública Geral GNU</"
-"a>"
-
-#. type: Content of: <table><tr><td>
-msgid ""
 "<a href=\"http://producingoss.com/\">Producing Open Source Software: How to "
 "Run a Successful Free Software Project</a>"
 msgstr ""
@@ -707,14 +699,6 @@ msgstr "Robert Mecklenburg"
 #. type: Content of: <table><tr><td>
 msgid "0-596-00610-1"
 msgstr "0-596-00610-1"
-
-#. type: Content of: <table><tr><td>
-msgid ""
-"<a href=\"http://www.gnu.org/licenses/fdl.html\">GNU Free Documentation "
-"License</a>"
-msgstr ""
-"<a href=\"http://www.gnu.org/licenses/fdl.html\">Licença de Documentação "
-"Livre GNU</a>"
 
 #. type: Content of: <table><tr><td>
 msgid ""
@@ -829,6 +813,31 @@ msgstr "Traficantes de Sue&ntilde;os"
 #. type: Content of: <table><tr><td>
 msgid "978-84-933555-1-7"
 msgstr "978-84-933555-1-7"
+
+# "Referencia" está em espanhol, não inserir acento -- Rafael
+#. type: Content of: <table><tr><td>
+msgid ""
+"<a href=\"http://libremanuals.net/bash.html\">Manual de Referencia de Bash</"
+"a>"
+msgstr ""
+"<a href=\"http://libremanuals.net/bash.html\">Manual de Referencia de Bash</"
+"a>"
+
+#. type: Content of: <table><tr><td>
+msgid "Brian Fox &amp; Chet Ramney"
+msgstr "Brian Fox &amp; Chet Ramney"
+
+#. type: Content of: <table><tr><td>
+msgid ""
+"(translation by Jorge Maldonado Ventura, revised by David Arroyo Men&eacute;"
+"ndez)"
+msgstr ""
+"(tradução por Jorge Maldonado Ventura, revisado por David Arroyo Men&eacute;"
+"ndez)"
+
+#. type: Content of: <table><tr><td>
+msgid "978-84-09-01157-5"
+msgstr "978-84-09-01157-5"
 
 #. type: Content of: <dl><dt>
 msgid ""
@@ -951,6 +960,23 @@ msgstr ""
 msgid "Updated:"
 msgstr "Última atualização: "
 
+#~ msgid "1-59059-356-1"
+#~ msgstr "1-59059-356-1"
+
+#~ msgid ""
+#~ "<a href=\"http://www.gnu.org/licenses/gpl.html\">GNU General Public "
+#~ "License</a>"
+#~ msgstr ""
+#~ "<a href=\"http://www.gnu.org/licenses/gpl.html\">Licença Pública Geral "
+#~ "GNU</a>"
+
+#~ msgid ""
+#~ "<a href=\"http://www.gnu.org/licenses/fdl.html\">GNU Free Documentation "
+#~ "License</a>"
+#~ msgstr ""
+#~ "<a href=\"http://www.gnu.org/licenses/fdl.html\">Licença de Documentação "
+#~ "Livre GNU</a>"
+
 #~ msgid ""
 #~ "<a href=\"http://www.libremanuals.net/\">Una introducci&oacute;n a la "
 #~ "programaci&oacute;n en Emacs Lisp</a>"
@@ -963,13 +989,6 @@ msgstr "Última atualização: "
 
 #~ msgid "978-84-608-5935-2"
 #~ msgstr "978-84-608-5935-2"
-
-#~ msgid ""
-#~ "<a href=\"http://www.libremanuals.net/una-introduccion-gcc\">Una "
-#~ "Introducci&oacute;n a GCC</a>"
-#~ msgstr ""
-#~ "<a href=\"http://www.libremanuals.net/una-introduccion-gcc\">Una "
-#~ "Introducci&oacute;n a GCC</a>"
 
 #~ msgid ""
 #~ "Brian Gough (translated by David Arroyo Men&eacute;ndez and Luis Palomo "

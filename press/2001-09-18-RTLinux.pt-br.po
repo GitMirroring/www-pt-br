@@ -1,0 +1,278 @@
+# Brazilian Portuguese translation of http://www.gnu.org/press/2001-09-18-RTLinux.html
+# Copyright (C) 2018 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: 2001-09-18-RTLinux.html\n"
+"POT-Creation-Date: 2014-04-05 00:02+0000\n"
+"PO-Revision-Date: 2018-12-12 23:44-0200\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Attribute 'content' of: <meta>
+msgid ""
+"GNU, FSF, Free Software Foundation, Linux, press, GPL, general, public, "
+"license, freedom, software, free, patent, Yodaiken, RTLinux, FSMLabs, "
+"finite, state, machine, labs, violation, license"
+msgstr ""
+"GNU, FSF, Free Software Foundation, Linux, imprensa, GPL, licença, pública, "
+"geral, liberdade, software, livre, patente, Yodaiken, RTLinux, FSMLabs, "
+"finite, state, machine, labs, violação, licença"
+
+#. type: Attribute 'content' of: <meta>
+msgid ""
+"The Free Software Foundation and Finite State Machine Labs (FSMLAbs) have "
+"come to an agreement on a fully GPL-compliant version of FSMLabs RTLinux "
+"Open Patent License."
+msgstr ""
+"A Free Software Foundation e Finite State Machine Labs (FSMLAbs) chegaram a "
+"um acordo sobre uma versão totalmente compatível com GPL da Licença de "
+"Patente Aberta RTLinux do FSMLabs."
+
+#. type: Content of: <title>
+msgid ""
+"Status of Violation of the GNU GPL by RTLinux - GNU Project - Free Software "
+"Foundation"
+msgstr ""
+"Status da violação da GNU GPL por RTLinux - Projeto GNU - Free Software "
+"Foundation"
+
+#. type: Content of: <h2>
+msgid ""
+"FSF and FSMLabs come to agreement on a GPL-compliant version of RTLinux Open "
+"Patent License"
+msgstr ""
+"A FSF e o FSMLabs chegaram a um acordo sobre uma versão compatível com a GPL "
+"da Licença de Patente Aberta do RTLinux"
+
+#. type: Content of: <blockquote><p>
+msgid ""
+"<a href=\"/press/2001-09-18-RTLinux.txt\">A plain text version of this press "
+"release is available</a>."
+msgstr ""
+"<a href=\"/press/2001-09-18-RTLinux.txt\">Uma versão texto simples deste "
+"comunicado de imprensa está disponível</a>."
+
+#. type: Content of: <blockquote><p>
+msgid "<strong>FOR IMMEDIATE RELEASE</strong>"
+msgstr "<strong>PARA DIVULGAÇÃO IMEDIATA</strong>"
+
+#. type: Content of: <blockquote><p>
+msgid "Media Contact: Free Software Foundation"
+msgstr "Contato com a mídia: Free Software Foundation"
+
+#. type: Content of: <blockquote><p>
+msgid "Bradley M. Kuhn <a href=\"mailto:pr@gnu.org\">&lt;pr@gnu.org&gt;</a>"
+msgstr "Bradley M. Kuhn <a href=\"mailto:pr@gnu.org\">&lt;pr@gnu.org&gt;</a>"
+
+#. type: Content of: <blockquote><p>
+msgid "Phone: +1-617-542-5942"
+msgstr "Telefone: +1-617-542-5942"
+
+#. type: Content of: <p>
+msgid ""
+"<strong>Update</strong> - <em>Friday, October 12, 2001</em> - The Free "
+"Software Foundation and Finite State Machine Labs Inc.  (FSMLabs) have "
+"announced the release of the <a href=\"http://www.fsmlabs.com/"
+"openpatentlicense.html\">Open RTLinux patent license Version 2</a> fully "
+"compliant with the Free Software Foundation's General Public License (GPL).  "
+"The Open Patent License grants the right to use U.S. Patent No. 5,995,745 in "
+"GPL free software without payment of a royalty.  This license protects GPL "
+"use of the RTLinux process."
+msgstr ""
+"<strong>Atualização</strong> - <em>Sexta-feira, 12 de outubro de 2001</em> - "
+"A Free Software Foundation e o Finite State Machine Labs Inc. (FSMLabs) "
+"anunciaram o lançamento da <a href=\"http://www.fsmlabs.com/"
+"openpatentlicense.html\">licença de patente Open RTLinux Versão 2</a> "
+"totalmente compatível com a Licença Pública Geral da Free Software "
+"Foundation (GPL). A Licença de Patente Aberta concede o direito de usar a "
+"patente americana nº 5.995.745 em software livre sob GPL sem pagamento de "
+"qualquer taxa. Essa licença protege o uso da GPL do processo da RTLinux."
+
+#. type: Content of: <p>
+msgid ""
+"FSMLabs and FSF expect the release of this license to accelerate the rate of "
+"the free software revolution in the fields of embedded and realtime "
+"computing.  These areas have been isolated from the mainstream of progress "
+"in software development by proprietary software based on secrets and "
+"incompatibilities designed to lock customers into proprietary technology.  "
+"The availability of superior free software has already lead to many "
+"innovative projects from large corporations thousands of individuals and "
+"small companies all over the world.  FSF thanks FSMLabs for its continuing "
+"contributions to the free software community."
+msgstr ""
+"FSMLabs e FSF esperam que o lançamento desta licença acelere a taxa de "
+"revolução do software livre nos campos de computação embarcada e em tempo "
+"real. Essas áreas foram isoladas da linha central de progresso no "
+"desenvolvimento de software por software proprietário baseado em segredos e "
+"incompatibilidades projetados para bloquear os clientes em tecnologia "
+"proprietária. A disponibilidade de software livre superior já levou muitos "
+"projetos inovadores de grandes corporações, milhares de indivíduos e "
+"pequenas empresas em todo o mundo. A FSF agradece a FSMLabs por suas "
+"contínuas contribuições para a comunidade de software livre."
+
+#. type: Content of: <p>
+msgid ""
+"<strong>Boston, Massachusetts, USA</strong> - <i> Tuesday, September 18, "
+"2001</i> - The Free Software Foundation and Finite State Machine Labs "
+"(FSMLabs) have come to an agreement on a fully GPL-compliant version of "
+"FSMLabs RTLinux Open Patent License.  FSF and FSMLabs are working to "
+"finalize the license language; FSMLabs will be publishing on its website the "
+"text of that license, with a statement by FSF confirming its GPL-compliant "
+"status, in the very near future."
+msgstr ""
+"<strong>Boston, Massachusetts, EUA</strong> - <i>Terça-feira, 18 de setembro "
+"de 2001</i> - A Free Software Foundation e o Finite State Machine Labs "
+"(FSMLAbs) chegaram a um acordo quanto a uma versão totalmente compatível e "
+"obediente à GPL da Licença de Patente Aberta do RTLinux. A FSF e o FSMLabs "
+"estão trabalhando para finalizar o texto da licença. O FSMLabs irá publicar "
+"em seu site o texto desta licença, com uma declaração da FSF confirmando que "
+"ela está em conformidade com a GPL, em um futuro próximo."
+
+#. type: Content of: <p>
+msgid ""
+"The FSF has already withdrawn its press statement (issued Friday, 14 "
+"September 2001) concerning RTLinux license terms.  Our differences turned "
+"out to be mostly a result of unfortunate miscommunications and we urge "
+"everyone to put this dispute behind them.  FSF and FSMLabs expect to "
+"continue their cooperation to secure availability of FSMLabs patented "
+"technology for use in GNU/Linux systems."
+msgstr ""
+"A FSF já retirou a sua declaração (de 14 de setembro de 2001) sobre os "
+"termos de licenciamento do RTLinux. Nossas diferenças se mostraram como "
+"sendo em sua maioria resultado de infelizes mal-entendidos e nós pedimos a "
+"todos que esqueçam esta disputa. A FSF e o FSMLabs esperam continuar a sua "
+"cooperação para garantir a disponibilidade da tecnologia patenteada do "
+"FSMLabs para uso em sistemas GNU/Linux."
+
+#. type: Content of: <p>
+msgid ""
+"The FSF thanks FSMLabs for its contribution of this patent license to the "
+"free software community, and for its longstanding support and publication of "
+"free software under the GPL."
+msgstr ""
+"A FSF agradece ao FSMLabs pela contribuição de sua licença de patentes para "
+"a comunidade do software livre, e por seu constante suporte e publicação de "
+"software livre sob a GPL."
+
+#. type: Content of: <h3>
+msgid "About GNU/Linux:"
+msgstr "Sobre o GNU/Linux:"
+
+#. type: Content of: <p>
+msgid ""
+"GNU is a Free Software Unix-like operating system.  GNU/Linux is the "
+"integrated combination of the GNU operating system with the kernel, Linux."
+msgstr ""
+"O GNU é um sistema operacional semelhante ao Unix Software Livre. O GNU/"
+"Linux é a combinação integrada do sistema operacional GNU com o kernel, o "
+"Linux."
+
+#. type: Content of: <p>
+msgid ""
+"Calling the GNU/Linux system just \"Linux\" leads to confusion.  Making "
+"consistent distinctions between GNU/Linux, the operating system, and Linux, "
+"the kernel, clears up the confusion."
+msgstr ""
+"Chamar o sistema GNU/Linux apenas “Linux” leva a confusão. Fazer distinções "
+"consistentes entre o GNU/Linux, o sistema operacional e o Linux, o kernel, "
+"elimina a confusão."
+
+#. type: Content of: <h3>
+msgid "About the Free Software Foundation:"
+msgstr "Sobre a Free Software Foundation:"
+
+#. type: Content of: <p>
+msgid ""
+"The Free Software Foundation, founded in 1985, is dedicated to promoting "
+"computer users' right to use, study, copy, modify, and redistribute computer "
+"programs.  The FSF promotes the development and use of free (as in freedom) "
+"software and free documentation for free software.  Their web site is "
+"located at http://www.gnu.org/.  They are head quartered in Boston, MA."
+msgstr ""
+"A Free Software Foundation, fundada em 1985, dedica-se a promover o direito "
+"dos usuários de computadores de usar, estudar, copiar, modificar e "
+"redistribuir programas de computador. A FSF promove o desenvolvimento e uso "
+"de software livre (como em liberdade) e documentação livre para software "
+"livre. Seu site está localizado em http://www.gnu.org/. Sua sede é em "
+"Boston, MA."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+# type: Content of: <div><p>
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF.  Links quebrados e outras correções ou "
+"sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2001, 2013, 2014 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2001, 2013, 2014 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+"NoDerivs 3.0 United States License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2018."
+
+# type: Content of: <div><p>
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização: "
