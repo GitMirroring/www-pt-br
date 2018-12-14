@@ -2,12 +2,13 @@
 # Copyright (C) 2018 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Rafael Fontenelle <rafaelff@gnome.org>, 2018.
+# André N Batista <nandre@riseup.net>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: byte-interview.html\n"
 "POT-Creation-Date: 2014-04-04 23:59+0000\n"
-"PO-Revision-Date: 2018-12-12 10:31-0200\n"
-"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"PO-Revision-Date: 2018-12-13 07:23-0200\n"
+"Last-Translator: André N Batista <nandre@riseup.net>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -964,15 +965,15 @@ msgstr ""
 msgid ""
 "<strong>Stallman</strong>: Right now the tape contains GNU EMACS (one "
 "version fits all computers); Bison, a program that replaces <acronym title="
-"\"Yet Another Compiler Compiler\">YACC</acronym>; <acronym>MIT</acronym> Scheme, "
+"\"Yet Another Compiler Compiler\">YACC</acronym>; <abbr>MIT</abbr> Scheme, "
 "which is Professor Sussman's super-simplified dialect of LISP; and Hack, a "
 "dungeon-exploring game similar to Rogue."
 msgstr ""
 "<strong>Stallman</strong>: Neste momento a fita contém o GNU EMACS (uma "
 "versão serve para todos os computadores); Bison, um programa que substitui "
-"<abbr title=\"Yet Another Compiler Compiler\">YACC</abbr>; <abbr>MIT</"
-"abbr> Scheme, que é o dialeto super simplificado do LISP do professor "
-"Sussman; e Hack, um jogo de exploração de masmorras semelhante ao Rogue."
+"<abbr title=\"Yet Another Compiler Compiler\">YACC</abbr>; <abbr>MIT</abbr> "
+"Scheme, que é o dialeto super simplificado do LISP do professor Sussman; e "
+"Hack, um jogo de exploração de masmorras semelhante ao Rogue."
 
 #. type: Content of: <p>
 msgid ""

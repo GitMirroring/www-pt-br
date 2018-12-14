@@ -5,8 +5,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: planetfeeds.html\n"
-"POT-Creation-Date: 2018-12-10 05:57+0000\n"
-"PO-Revision-Date: 2018-12-10 09:31-0200\n"
+"POT-Creation-Date: 2018-12-13 05:57+0000\n"
+"PO-Revision-Date: 2018-12-13 11:16-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -17,54 +17,88 @@ msgstr ""
 "X-Generator: Virtaal 1.0.0-beta1\n"
 
 #. type: Content of: <p>
-msgid "Unifont 11.0.03 Released"
-msgstr "Unifont 11.0.03 lançado"
+msgid "FSF Licensing and Compliance Lab: 2018 and the future"
+msgstr "Laboratório de Licenciamento e Conformidade da FSF: 2018 e o futuro"
 
 #.  TRANSLATORS: 
-#. http://savannah.gnu.org/forum/forum.php?forum_id=9323 
+#. http://www.fsf.org/blogs/licensing/fsf-licensing-compliance-lab-2018-and-the-future 
 #. type: Content of: <p>
 msgid ""
-": 8 December 2018 Unifont 11.0.03 is now available. Significant changes in "
-"this version include the Nushu script contributed by David Corbett, and the "
-"Kana Supplement..."
+": We are currently running a fundraising drive to launch free software to "
+"new frontiers. Would you consider supporting the work of the Fre..."
 msgstr ""
-": 8 de dezembro de 2018 O Unifont 11.0.03 já está disponível. Alterações "
-"significativas nesta versão incluem o script Nushu, contribuído por David "
-"Corbett, e o Kana Supplement..."
+": Estamos atualmente executando uma campanha de arrecadação de fundos para "
+"lançar software livre para novas fronteiras. Você consideraria apoiar..."
 
 #. type: Content of: <p>
-msgid ""
-"FSF adds Hyperbola GNU/Linux-libre to list of endorsed GNU/Linux "
-"distributions"
-msgstr ""
-"A FSF adiciona o Hyperbola GNU/Linux-libre à lista de distribuições "
-"aprovadas do GNU/Linux"
+msgid "Bootstrapping Rust"
+msgstr "Fazendo bootstrap do Rust"
 
 #.  TRANSLATORS: 
-#. http://www.fsf.org/news/fsf-adds-hyperbola-gnu-linux-libre-to-list-of-endorsed-gnu-linux-distributions 
+#. https://gnu.org/software/guix/blog/2018/bootstrapping-rust/ 
 #. type: Content of: <p>
 msgid ""
-": The FSF&#39;s list showcases GNU/Linux operating system distributions "
-"whose developers have made a commitment t..."
+": Slowly, systems programming languages are getting better in the sense of "
+"giving more guarantees and automating what can be automated without "
+"downsides.Rust is one of the m..."
 msgstr ""
-": A lista da FSF mostra as distribuições do sistema operacional GNU/Linux "
-"cujos desenvolvedores fizeram um compromisso..."
+": Lentamente, linguagens de programação de sistemas estão ficando melhores "
+"no sentido de dar mais garantias e automatizar o que pode ser automatizado "
+"sem desvantagens. Rust é um..."
 
 #. type: Content of: <p>
-msgid "GNU Guix and GuixSD 0.16.0 released"
-msgstr "GNU Guix e GuixSD 0.16.0 lançado"
+msgid "Back from SeaGL 2018"
+msgstr "De volta da SeaGL 2018"
 
 #.  TRANSLATORS: 
-#. https://gnu.org/software/guix/blog/2018/gnu-guix-and-guixsd-0.16.0-released/ 
+#. https://gnu.org/software/guix/blog/2018/back-from-seagl-2018/ 
 #. type: Content of: <p>
 msgid ""
-": We are pleased to announce the new release of GNU Guix and GuixSD, version "
-"0.16.0! This release is (hopefully!) the last one before 1.0—we have been "
-"closi..."
+": SeaGL 2018 has concluded. Thank you to everyone in the local Seattle "
+"community who came to participate!As previously announced, Chris Marusich "
+"gave a talk introducing GN..."
 msgstr ""
-": Temos o prazer de anunciar o novo lançamento do GNU Guix e GuixSD, versão "
-"0.16.0! Este lançamento é (esperamos!) o último antes de 1.0—nós temos "
-"finalizado..."
+": A SeaGL 2018 terminou. Obrigado a todos da comunidade local de Seattle que "
+"vieram participar! Como anunciado anteriormente, Chris Marusich deu uma "
+"palestra apresentando o GNU..."
+
+#~ msgid "Unifont 11.0.03 Released"
+#~ msgstr "Unifont 11.0.03 lançado"
+
+#~ msgid ""
+#~ ": 8 December 2018 Unifont 11.0.03 is now available. Significant changes "
+#~ "in this version include the Nushu script contributed by David Corbett, "
+#~ "and the Kana Supplement..."
+#~ msgstr ""
+#~ ": 8 de dezembro de 2018 O Unifont 11.0.03 já está disponível. Alterações "
+#~ "significativas nesta versão incluem o script Nushu, contribuído por David "
+#~ "Corbett, e o Kana Supplement..."
+
+#~ msgid ""
+#~ "FSF adds Hyperbola GNU/Linux-libre to list of endorsed GNU/Linux "
+#~ "distributions"
+#~ msgstr ""
+#~ "A FSF adiciona o Hyperbola GNU/Linux-libre à lista de distribuições "
+#~ "aprovadas do GNU/Linux"
+
+#~ msgid ""
+#~ ": The FSF&#39;s list showcases GNU/Linux operating system distributions "
+#~ "whose developers have made a commitment t..."
+#~ msgstr ""
+#~ ": A lista da FSF mostra as distribuições do sistema operacional GNU/Linux "
+#~ "cujos desenvolvedores fizeram um compromisso..."
+
+#~ msgid "GNU Guix and GuixSD 0.16.0 released"
+#~ msgstr "GNU Guix e GuixSD 0.16.0 lançado"
+
+#~ msgid ""
+#~ ": We are pleased to announce the new release of GNU Guix and GuixSD, "
+#~ "version 0.16.0! This release is (hopefully!) the last one before 1.0—we "
+#~ "have been closi..."
+#~ msgstr ""
+#~ ": Temos o prazer de anunciar o novo lançamento do GNU Guix e GuixSD, "
+#~ "versão 0.16.0! Este lançamento é (esperamos!) o último antes de 1.0—nós "
+#~ "temos finalizado..."
 
 #~ msgid "libredwg-0.7 released"
 #~ msgstr "libredwg-0.7 lançado"
