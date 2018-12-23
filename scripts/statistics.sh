@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-#    statistics.sh - get translation percentage of GNU web for each language 
+#    statistics.sh - get statistics of GNU web translation
 #    Copyright (C) 2016, 2018 Rafael Fontenelle
 #
 #    This program is free software: you can redistribute it and/or modify
@@ -28,34 +28,59 @@ Usage: $prog [Options] [DIR]
 Get statistics for languages in the GNU web pages translation project
 
 Options:
- -l LANG, --lang LANG     language which you want statistics for;
-                          default returns statistics of all languages
-                          known by the file server/gnun/languages.txt
-                          within DIR
- -h, --help, ?, usage     display this help message and exit
+   -l LANG, --lang LANG     output statistics for only language code LANG;
+                            if not specified, list stats for all languages
+   -h, --help, ?, usage     display this help message and exit
+   -d                       ignored; kept for backward compatibility
 
-DIR         specify the DIR directory for the local checkout of the
-            repository of the GNU web pages project; default: use the
-            current directory
+   DIR                      specify the DIR directory for a local checkout
+                            of the repository of the GNU web pages project;
+                            defaults to the current working directory
 
-Output format: rank, language and percentage
+Output format:
+    <rank> <lang-code> <percentage>
 
-A few examples of use:
+A few examples of usage:
  $ $prog
  $ $prog -l pt-br
- $ $prog -l pt-br ../www
- $ $prog ../www
+ $ $prog -l pt-br my/path/to/www
  $ $prog ../www
 
-For more information on how to do checkout of the GNU web pages
-repository, check the GNU Web Translator in:
+This script will list the languages supported by the GNU Web translation
+system (which are stored in the file server/gnun/languages.txt), ranking
+them by the percentage of translated .po files.
+
+All supported languages are listed by default. If a supported lang code is
+specified, the list will be grepped to output only the statistics for this
+language.
+
+These percentages are obtained by using the number of translated .po files
+multiplied by a hundred, divided by the number of .pot (po template) files.
+This math command was sent by Bruno Felix in 2015 to the www-pt-br-general
+mail list, as can be seen in:
+https://lists.gnu.org/archive/html/www-pt-br-general/2015-09/msg00003.html
+
+For more information on how to do checkout of the GNU web pages repository,
+check the GNU Web Translators Manual in:
   <https://www.gnu.org/software/trans-coord/manual/web-trans/>
+
+Report bugs to <www-pt-br-general@gnu.org>.
 
 EOM
 }
 
+getstats() {
+     # Asterisk variable required for the command below
+    ast='*'
+
+    for l in $LANGS; do
+        echo "$l  $(($(find ./ -name "$ast.$l.po" | wc -l) * 100 /
+                     $(find ./ -name '*.pot' | wc -l) + 1))%"
+    done  \
+    |  sort -grk2 | nl -s' ' -w2
+}
+
 # Parse the arguments provided
-[ $# -gt 3 ] && die "Expected at most 3 arguments, but got $#"
 LANG=""; DIR=""
 while [ $# -ne 0 ]; do
     if [[ $1 == '--help' || $1 == '-h' || $1 == '?' || $1 == 'usage' ]]; then
@@ -65,6 +90,8 @@ while [ $# -ne 0 ]; do
         [ -z $2 ] && die "Missing language code for the option $1"
         LANG=$2
         shift; shift
+    elif [[ $1 == '-d' ]]; then
+        shift
     elif [[ $1 != "${1##-}" ]]; then
         die "Invalid option -- \"$1\""
     else
@@ -94,20 +121,12 @@ if [ ! -z $LANG ]; then
     [ $? -ne 0 ] && die "Unsupported language \"$LANG\" in the file $wwwdir/server/gnun/languages.txt"
 fi
 
-# Set target languages to be used in the 'for' statement below
+# Set target language(s) to be used in the 'for' statement below
+LANGS=$(sed -e '/^#.*$/d;s/^\(^[a-z-]*[^[:space:]]\).*$/\1/' server/gnun/languages.txt);
+
+# Get and output statistics for all languages or for the specified one, if any
 if [ -z $LANG ]; then
-    LANGS=$(sed -e '/^#.*$/d;s/^\(^[a-z-]*[^[:space:]]\).*$/\1/' server/gnun/languages.txt);
+    getstats
 else
-    LANGS=$LANG
+    getstats | grep $LANG
 fi
-
-# Set a variable for asterisk as it cannot be passed directly in the command below
-ast='*'
-
-# Command extract from the email sent by Bruno Felix. See:
-#   https://lists.gnu.org/archive/html/www-pt-br-general/2015-09/msg00003.html
-for l in $LANGS; do
-    echo "$l  $(($(find ./ -name "$ast.$l.po" | wc -l) * 100 /
-                 $(find ./ -name '*.pot' | wc -l) + 1))%"
-done  \
-|  sort -grk2 | nl -s' ' -w2
