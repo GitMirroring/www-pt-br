@@ -1,5 +1,5 @@
 # Brazilian Portuguese translation of http://www.gnu.org/philosophy/drdobbs-letter.html
-# Copyright (C) 2001 Free Software Foundation, Inc.
+# Copyright (C) 2018 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Fernando Lozano, 2001.
 # Jan 2014: GNUNify; licensa > licença (T. Godefroy).
@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: drdobbs-letter.html\n"
-"POT-Creation-Date: 2015-01-05 09:10+0100\n"
+"POT-Creation-Date: 2014-04-05 00:02+0000\n"
 "PO-Revision-Date: 2015-01-20 21:20+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -48,7 +48,7 @@ msgid ""
 "<em>free software</em>&mdash;free as in freedom.  (See the GNU Manifesto, "
 "Dr. Dobb's Journal, Sept. 1985.)"
 msgstr ""
-"Se o Comitê de Atividades Anti-Americanas da Casa Branca (HUAC, <cite>House "
+"Se o Comitê de Atividades Antiamericanas da Casa Branca (HUAC, <cite>House "
 "Un-American Activities Committee</cite>) me perguntasse, “Você é atualmente "
 "ou foi algum dia um membro do movimento pelo software aberto”, eu poderia "
 "orgulhsamente e em alto tom responder não. Eu estive deste 1984 em campanha "
@@ -67,7 +67,7 @@ msgid ""
 "the free software movement."
 msgstr ""
 "Software livre significa, em resumo, que você é livre para estudar o que ele "
-"faz, livre para modifica-lo, livre para redistribui-lo e livre para publicar "
+"faz, livre para modificá-lo, livre para redistribui-lo e livre para publicar "
 "uma versões melhoradas. (Veja <a href=\"/philosophy/free-sw.html\">http://"
 "www.gnu.org/philosophy/free-sw.html</a> para mais detalhes.) Você merece "
 "estas liberdades; todos as merecem. Eu escrevi a Licença Pública Geral GNU "
@@ -118,12 +118,12 @@ msgid ""
 "didn't really do much of it.&rdquo;"
 msgstr ""
 "Tim O'Reilly, em contraste, é um pilar do movimento pelo software aberto, "
-"pelo memos é o que ele diz. Entretanto, se você observar as ações em vez das "
-"palavras, a maioria dos manuais publicados por O'Reilly Associates não se "
-"qualificam como código aberto, quanto mais livre. Os poucos títulos livres "
-"são excessões. Ele poderia facilmente se desculpar ao <abbr title=\"House Un-"
-"American Activities Committee\">HUAC</abbr> — “Sim, eu falei sobre software "
-"aberto, mas eu na verdade não fiz muito na prática”."
+"pelo memorandos é o que ele diz. Entretanto, se você observar as ações em "
+"vez das palavras, a maioria dos manuais publicados por O'Reilly Associates "
+"não se qualificam como código aberto, quanto mais livre. Os poucos títulos "
+"livres são exceções. Ele poderia facilmente se desculpar ao <abbr title="
+"\"House Un-American Activities Committee\">HUAC</abbr> — “Sim, eu falei "
+"sobre software aberto, mas eu na verdade não fiz muito na prática”."
 
 #. type: Content of: <p>
 msgid ""
@@ -137,8 +137,8 @@ msgstr ""
 "tornar verdadeiros membros do movimento pelo software livre, ou pelo menos "
 "do movimento pelo software aberto. [No final de 2001, O'Reilly Associates "
 "publicou um par de novos livros livres. Nós somos gratos por esta "
-"contribuição para a comunidade do software livre, e nós torçemos para que "
-"hajam mais.]"
+"contribuição para a comunidade do software livre, e nós torcemos para mais "
+"do mesmo.]"
 
 #. type: Content of: <p>
 msgid ""
@@ -167,7 +167,6 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr " "
 
-# type: Content of: <div><p>
 #. type: Content of: <div><div><p>
 msgid ""
 "Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
@@ -182,7 +181,6 @@ msgstr ""
 "sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
 "webmasters@gnu.org&gt;</a>."
 
-#
 #.  TRANSLATORS: Ignore the original text in this paragraph,
 #.         replace it with the translation of these two:
 #.         We work hard and do our best to provide accurate, good quality
@@ -229,7 +227,6 @@ msgstr ""
 "Traduzido por: Fernando Lozano <a href=\"mailto:fernando@lozano.eti.br\">&lt;"
 "fernando@lozano.eti.br&gt;</a>"
 
-# type: Content of: <div><p>
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"

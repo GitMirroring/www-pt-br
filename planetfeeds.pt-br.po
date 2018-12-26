@@ -5,8 +5,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: planetfeeds.html\n"
-"POT-Creation-Date: 2018-12-13 05:57+0000\n"
-"PO-Revision-Date: 2018-12-13 11:16-0200\n"
+"POT-Creation-Date: 2018-12-24 05:57+0000\n"
+"PO-Revision-Date: 2018-12-24 07:37-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -17,50 +17,109 @@ msgstr ""
 "X-Generator: Virtaal 1.0.0-beta1\n"
 
 #. type: Content of: <p>
-msgid "FSF Licensing and Compliance Lab: 2018 and the future"
-msgstr "Laboratório de Licenciamento e Conformidade da FSF: 2018 e o futuro"
+msgid "GNU Parallel 20181222 (&#39;Jacob Sparre&#39;) released"
+msgstr "GNU Parallel 20181222 (&#39;Jacob Sparre&#39;) lançado"
 
 #.  TRANSLATORS: 
-#. http://www.fsf.org/blogs/licensing/fsf-licensing-compliance-lab-2018-and-the-future 
+#. http://savannah.gnu.org/forum/forum.php?forum_id=9336 
 #. type: Content of: <p>
 msgid ""
-": We are currently running a fundraising drive to launch free software to "
-"new frontiers. Would you consider supporting the work of the Fre..."
+": GNU Parallel 20181222 (&#39;Jacob Sparre&#39;) has been released. It is "
+"available for download at: http://ftpmirror.gnu.org/parallel/..."
 msgstr ""
-": Estamos atualmente executando uma campanha de arrecadação de fundos para "
-"lançar software livre para novas fronteiras. Você consideraria apoiar..."
+": GNU Parallel 20181222 (&#39;Jacob Sparre&#39;) foi lançado. Está "
+"disponível para download em: http://ftpmirror.gnu.org/parallel/..."
 
 #. type: Content of: <p>
-msgid "Bootstrapping Rust"
-msgstr "Fazendo bootstrap do Rust"
+msgid ""
+"Richard Stallman - &quot;Free software: Your freedom in computing&quot; "
+"(Toronto, Canada)"
+msgstr ""
+"Richard Stallman - “Software livre: Sua liberdade na computação” (Toronto, "
+"Canadá)"
 
 #.  TRANSLATORS: 
-#. https://gnu.org/software/guix/blog/2018/bootstrapping-rust/ 
+#. http://www.fsf.org/events/rms-20190207-toronto 
 #. type: Content of: <p>
 msgid ""
-": Slowly, systems programming languages are getting better in the sense of "
-"giving more guarantees and automating what can be automated without "
-"downsides.Rust is one of the m..."
+": Richard Stallman will speak about the goals and philosophy of the Free "
+"Software Movement, and the st..."
 msgstr ""
-": Lentamente, linguagens de programação de sistemas estão ficando melhores "
-"no sentido de dar mais garantias e automatizar o que pode ser automatizado "
-"sem desvantagens. Rust é um..."
+": Richard Stallman falará sobre os objetivos e filosofia do Movimento "
+"Software Livre, e o..."
 
 #. type: Content of: <p>
-msgid "Back from SeaGL 2018"
-msgstr "De volta da SeaGL 2018"
+msgid "Richard Stallman to speak in Bengaluru, India"
+msgstr "Richard Stallman falará em Bangalore, Índia"
 
 #.  TRANSLATORS: 
-#. https://gnu.org/software/guix/blog/2018/back-from-seagl-2018/ 
+#. http://www.fsf.org/events/rms-20190118-bengaluru 
 #. type: Content of: <p>
 msgid ""
-": SeaGL 2018 has concluded. Thank you to everyone in the local Seattle "
-"community who came to participate!As previously announced, Chris Marusich "
-"gave a talk introducing GN..."
+": This speech by Richard Stallman will be nontechnical, admission is gratis, "
+"and the public is encouraged to attend. Speech topic to be determined..."
 msgstr ""
-": A SeaGL 2018 terminou. Obrigado a todos da comunidade local de Seattle que "
-"vieram participar! Como anunciado anteriormente, Chris Marusich deu uma "
-"palestra apresentando o GNU..."
+": Este discurso de Richard Stallman não será técnico, a admissão é gratuita "
+"e o público é encorajado a aparecer. Tópico do discurso a ser det..."
+
+#~ msgid "IP Address Changes"
+#~ msgstr "Mudanças no endereço IP"
+
+#~ msgid ""
+#~ ": The Savannah systems along with GNU and FSF systems are changing IP "
+#~ "addresses. We expect to make this change with a minimum of Savannah "
+#~ "services downtime. However in the e..."
+#~ msgstr ""
+#~ ": Os sistemas Savannah, juntamente com os sistemas GNU e FSF, estão "
+#~ "mudando os endereços IP. Esperamos fazer essa alteração com um mínimo de "
+#~ "tempo de inatividade dos serviços da Savannah. No entanto..."
+
+#~ msgid "Support GNU Guix!"
+#~ msgstr "Apoie o GNU Guix!"
+
+#~ msgid ""
+#~ ": A little over six years ago, the GNU Guix project was announced. Since "
+#~ "that first email, the project and the community gathering around Guix "
+#~ "have grown steadily.  Around 265..."
+#~ msgstr ""
+#~ ": Há pouco mais de seis anos, o projeto GNU Guix foi anunciado. Desde o "
+#~ "primeiro e-mail, o projeto e a comunidade em torno de Guix cresceram de "
+#~ "forma constante. Cerca de 265..."
+
+#~ msgid "FSF Licensing and Compliance Lab: 2018 and the future"
+#~ msgstr "Laboratório de Licenciamento e Conformidade da FSF: 2018 e o futuro"
+
+#~ msgid ""
+#~ ": We are currently running a fundraising drive to launch free software to "
+#~ "new frontiers. Would you consider supporting the work of the Fre..."
+#~ msgstr ""
+#~ ": Estamos atualmente executando uma campanha de arrecadação de fundos "
+#~ "para lançar software livre para novas fronteiras. Você consideraria "
+#~ "apoiar..."
+
+#~ msgid "Bootstrapping Rust"
+#~ msgstr "Fazendo bootstrap do Rust"
+
+#~ msgid ""
+#~ ": Slowly, systems programming languages are getting better in the sense "
+#~ "of giving more guarantees and automating what can be automated without "
+#~ "downsides.Rust is one of the m..."
+#~ msgstr ""
+#~ ": Lentamente, linguagens de programação de sistemas estão ficando "
+#~ "melhores no sentido de dar mais garantias e automatizar o que pode ser "
+#~ "automatizado sem desvantagens. Rust é um..."
+
+#~ msgid "Back from SeaGL 2018"
+#~ msgstr "De volta da SeaGL 2018"
+
+#~ msgid ""
+#~ ": SeaGL 2018 has concluded. Thank you to everyone in the local Seattle "
+#~ "community who came to participate!As previously announced, Chris Marusich "
+#~ "gave a talk introducing GN..."
+#~ msgstr ""
+#~ ": A SeaGL 2018 terminou. Obrigado a todos da comunidade local de Seattle "
+#~ "que vieram participar! Como anunciado anteriormente, Chris Marusich deu "
+#~ "uma palestra apresentando o GNU..."
 
 #~ msgid "Unifont 11.0.03 Released"
 #~ msgstr "Unifont 11.0.03 lançado"
@@ -186,16 +245,6 @@ msgstr ""
 #~ ": * bison-3.2.2 * emms-5.1 * gnuhealth-3.4.0 * guile-cv-0.2.1 * "
 #~ "icecat-60.3.0 * indent-2.2.11 * libextractor-1.8 * libmicrohttpd-0.9.60 "
 #~ "*..."
-
-#~ msgid "GNU Parallel 20181122 (&#39;Kilogram&#39;) released"
-#~ msgstr "GNU Parallel 20181122 (&#39;Kilogram&#39;) lançado"
-
-#~ msgid ""
-#~ ": GNU Parallel 20181122 (&#39;Kilogram&#39;) has been released. It is "
-#~ "available for download at: http://ftpmirror.gnu.org/parallel/ Quote of..."
-#~ msgstr ""
-#~ ": GNU Parallel 20181122 (&#39;Kilogram&#39;) foi lançado. Está disponível "
-#~ "para download em: http://ftpmirror.gnu.org/parallel/ Citação de..."
 
 #~ msgid "Give the gift of freedom this year!"
 #~ msgstr "Dê um presente de liberdade neste ano!"
@@ -479,20 +528,6 @@ msgstr ""
 #~ ": A Free Software Foundation (FSF), uma instituição de caridade em "
 #~ "Massachusetts 501(c)(3) com uma missão mundial para proteger a liberdade "
 #~ "do usuário de computa..."
-
-#~ msgid ""
-#~ "Richard Stallman - &quot;Can we defend freedom and privacy from computing?"
-#~ "&quot; (Chicago, IL)"
-#~ msgstr ""
-#~ "Richard Stallman - “Podemos defender liberdade e privacidade da "
-#~ "computação?” (Chicago, IL)"
-
-#~ msgid ""
-#~ ": This speech by Richard Stallman will be nontechnical, admission is "
-#~ "gratis, and the public is en..."
-#~ msgstr ""
-#~ ": Este discurso de Richard Stallman não será técnico, a admissão é "
-#~ "gratuita e o público é..."
 
 #~ msgid "Join GNU Guix through Outreachy"
 #~ msgstr "Junte-se ao GNU Guix pelo Outreachy"
@@ -795,13 +830,6 @@ msgstr ""
 #~ "pontos) * Faca (Bezier Path..."
 
 #~ msgid ""
-#~ ": Richard Stallman will speak about the goals and philosophy of the Free "
-#~ "Software..."
-#~ msgstr ""
-#~ ": Richard Stallman falará sobre os objetivos e filosofia da Free Software "
-#~ "Foundat..."
-
-#~ msgid ""
 #~ "netctl 1.18-1 and systemd 239.0-2.parabola7 may require manual "
 #~ "intervention"
 #~ msgstr ""
@@ -891,9 +919,6 @@ msgstr ""
 #~ msgstr ""
 #~ ": Faz dez anos desde que a Apple abriu a App Store. Isso criou uma "
 #~ "indústria totalmente nova através da qual terceiros..."
-
-#~ msgid "Richard Stallman estará en Santiago de Chile"
-#~ msgstr "Richard Stallman estará em Santiago do Chile"
 
 #~ msgid ""
 #~ "Molly de Blanc, John Sullivan - &quot;The Free Software Foundation, "

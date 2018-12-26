@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: common-distros.html\n"
-"POT-Creation-Date: 2018-12-01 18:26+0000\n"
-"PO-Revision-Date: 2018-12-01 21:04-0200\n"
+"POT-Creation-Date: 2018-12-18 20:26+0000\n"
+"PO-Revision-Date: 2018-12-18 20:24-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -125,23 +125,22 @@ msgstr "Arch GNU/Linux"
 
 #. type: Content of: <p>
 msgid ""
-"Arch has the two usual problems: there's no clear policy about what software "
-"can be included, and nonfree blobs are shipped with their kernel, Linux.  "
-"Arch also has no policy about not distributing nonfree software through "
-"their normal channels."
+"Arch has no policy against distributing nonfree software through their "
+"normal channels, and nonfree blobs are shipped with their kernel, Linux."
 msgstr ""
-"O Arch tem dois problemas: não existe uma política clara sobre que tipo de "
-"software pode ser incluído e blobs não livres são incluídos no seu kernel, o "
-"Linux. O Arch também não tem políticas sobre não distribuir software não "
-"livre pelos seus canais normais."
+"O Arch não tem nenhuma política contra a distribuição de software não livre "
+"através de seus canais normais, e os blobs não livres são fornecidos com o "
+"kernel, o Linux."
 
 #. type: Content of: <p>
 msgid ""
 "Instead of this nonfree distribution, use <a href=\"/distros/free-distros."
-"html#for-pc\">Parabola</a>, the free distro which is made from it."
+"html#for-pc\">Parabola</a> or <a href=\"https://www.hyperbola.info/?gnu-free-"
+"stros-page\">Hyperbola</a>, free distros which are made from it."
 msgstr ""
 "Em vez dessa distribuição não livre, use <a href=\"/distros/free-distros."
-"html#for-pc\">Parabola</a>, a distro livre que é feita a partir desta."
+"html#for-pc\">Parabola</a> ou <a href=\"https://www.hyperbola.info/?gnu-free-"
+"stros-page\">Hyperbola</a>, distros livres que são feita a partir desta."
 
 #. type: Content of: <h3>
 msgid "Canaima"
@@ -647,7 +646,6 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr " "
 
-# type: Content of: <div><p>
 #. type: Content of: <div><div><p>
 msgid ""
 "Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
@@ -662,7 +660,6 @@ msgstr ""
 "sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
 "webmasters@gnu.org&gt;</a>."
 
-#
 #.  TRANSLATORS: Ignore the original text in this paragraph,
 #.         replace it with the translation of these two:
 #.         We work hard and do our best to provide accurate, good quality
@@ -715,11 +712,21 @@ msgstr ""
 "<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, "
 "2016-2018"
 
-# type: Content of: <div><p>
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização: "
+
+#~ msgid ""
+#~ "Arch has the two usual problems: there's no clear policy about what "
+#~ "software can be included, and nonfree blobs are shipped with their "
+#~ "kernel, Linux.  Arch also has no policy about not distributing nonfree "
+#~ "software through their normal channels."
+#~ msgstr ""
+#~ "O Arch tem dois problemas: não existe uma política clara sobre que tipo "
+#~ "de software pode ser incluído e blobs não livres são incluídos no seu "
+#~ "kernel, o Linux. O Arch também não tem políticas sobre não distribuir "
+#~ "software não livre pelos seus canais normais."
 
 #~ msgid "CyanogenMod"
 #~ msgstr "CyanogenMod"

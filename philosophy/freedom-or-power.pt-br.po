@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: freedom-or-power.html\n"
-"POT-Creation-Date: 2015-01-05 13:00+0100\n"
+"POT-Creation-Date: 2014-03-31 06:29+0000\n"
 "PO-Revision-Date: 2015-01-20 21:20+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -28,7 +28,6 @@ msgstr ""
 "GNU, FSF, Fundação para o Software Livre, Linux, geral, pública, licença, "
 "gpl, licença pública geral, liberdade, software, poder, direitos"
 
-# TODO This string needs to be reviewed.
 #. type: Attribute 'content' of: <meta>
 msgid ""
 "In this essay, Freedom or Power?, Bradley M. Kuhn and Richard M. Stallman "
@@ -36,7 +35,7 @@ msgid ""
 "called freedom to choose any license you want for software you write."
 msgstr ""
 "Neste ensaio, “Liberdade ou Poder?”, Bradley M. Kuhn e Richard M. Stallman "
-"analisam as razões por que o movimento do software livre não defende a tão-"
+"analisam as razões pelas quais o movimento software livre não defende a tão "
 "falada “liberdade de escolher qualquer licença que você deseje para o "
 "software que você escreve”."
 
@@ -74,7 +73,7 @@ msgstr ""
 "No movimento do software livre, nós lutamos por liberdade para os usuários "
 "de software. Nós formulamos nossas visões ao examinar quais liberdades são "
 "necessárias para um bom modo de vida, e para permitir a programas úteis "
-"fomentar uma comunidade de boa-vontade, cooperação e colaboração. <a href=\"/"
+"fomentar uma comunidade de boa vontade, cooperação e colaboração. <a href=\"/"
 "philosophy/free-sw.html\">Nossos critérios para software livre</a> "
 "especificam as liberdades que o usuário de um programa necessita de modo que "
 "ele possa cooperar em uma comunidade. "
@@ -101,7 +100,7 @@ msgid ""
 "to choose any license you want for software you write.&rdquo; We reject this "
 "because it is really a form of power, not a freedom."
 msgstr ""
-"Entretanto, uma tão-falada liberdade que nós não defendemos é a “liberdade "
+"Entretanto, uma tão falada liberdade que nós não defendemos é a “liberdade "
 "de escolher qualquer licença que você deseje para o software que você "
 "escreve”. Nós rejeitamos isto porque é na verdade uma forma de poder, não de "
 "liberdade."
@@ -119,9 +118,6 @@ msgstr ""
 "confundirmos poder com liberdade, nós falharemos em sustentar a verdadeira "
 "liberdade."
 
-# TODO These changes need to be reviewed:
-#   Software proprietário... > Tornar um programa proprietário...
-#   que o desenvolvedor execise... > que o desenvolvedor exercer...
 #. type: Content of: <p>
 msgid ""
 "Making a program proprietary is an exercise of power.  Copyright law today "
@@ -145,7 +141,7 @@ msgstr ""
 "software está fazendo, não podem verificar se existem back doors, não podem "
 "monitorar possíveis vírus e vermes, não podem descobrir se informações "
 "pessoais estão sendo enviadas para alguém (ou parar os envios, se elas os "
-"descobriem). Se ele parar de funcionar, elas não podem consertar; elas tem "
+"descobrirem). Se ele parar de funcionar, elas não podem consertar; elas tem "
 "que esperar que o desenvolvedor exercer o seu poder de fazer o conserto. Se "
 "ele simplesmente não é o que os usuários necessitavam, eles tem que se "
 "contentar com isso. Elas não podem se ajudar uns aos outros a aperfeiçoar o "
@@ -164,7 +160,7 @@ msgstr ""
 "Os desenvolvedores de software proprietário são em geral empresas. Nós no "
 "movimento do software livre não somos contra as empresas, mas nós já vimos o "
 "que acontece quando uma empresa de software tem a “liberdade” de impor "
-"regras arbritárias sobre os usuários do software. A Microsoft é um exemplo "
+"regras arbitrárias sobre os usuários do software. A Microsoft é um exemplo "
 "notório de como negar as liberdades aos usuários pode causar danos diretos, "
 "mas ela não é o único exemplo. Mesmo quando não há monopólio, o software "
 "proprietário prejudica a sociedade. A escolha de mestres não é liberdade."
@@ -268,7 +264,6 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr " "
 
-# type: Content of: <div><p>
 #. type: Content of: <div><div><p>
 msgid ""
 "Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
@@ -283,7 +278,6 @@ msgstr ""
 "sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
 "webmasters@gnu.org&gt;</a>."
 
-#
 #.  TRANSLATORS: Ignore the original text in this paragraph,
 #.         replace it with the translation of these two:
 #.         We work hard and do our best to provide accurate, good quality
@@ -328,7 +322,6 @@ msgstr ""
 "Traduzido por: Fernando Lozano <a href=\"mailto:fernando@lozano.eti.br\">&lt;"
 "fernando@lozano.eti.br&gt;</a>"
 
-# type: Content of: <div><p>
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"

@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: home.html\n"
-"POT-Creation-Date: 2018-10-14 09:26+0000\n"
-"PO-Revision-Date: 2018-10-14 20:20-0200\n"
+"POT-Creation-Date: 2018-12-20 11:56+0000\n"
+"PO-Revision-Date: 2018-12-21 07:12-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -96,7 +96,6 @@ msgstr "<a href=\"/distros/screenshots/trisquel8-mate.jpg\">"
 msgid "&nbsp;[Screenshot of Trisquel&nbsp;8 with MATE desktop]&nbsp;"
 msgstr "&nbsp;[Captura de tela de Trisquel&nbsp;8 com o MATE desktop]&nbsp;"
 
-# type: Content of: <div><p>
 #. type: Content of: <div><div><div><h3>
 msgid "</a>"
 msgstr "</a>"
@@ -418,28 +417,45 @@ msgstr ""
 msgid "<a href=\"/server/takeaction.html\">More action items</a>"
 msgstr "<a href=\"/server/takeaction.html\">Mais itens de ação</a>"
 
-#. type: Content of: <div><div><div><ul><li>
+#. type: Content of: <div><div><div><p>
 msgid ""
 "<strong>Can you contribute to any of these <a href=\"//www.fsf.org/campaigns/"
-"priority-projects/\">High Priority Areas</a>?</strong> Free phone operating "
-"system; decentralization, federation, and self-hosting; free drivers, "
-"firmware, and hardware designs; real-time voice and video chat; encourage "
-"contribution by people underrepresented in the community, and more."
+"priority-projects/\">High Priority Areas</a>?</strong>"
 msgstr ""
-"<strong>Você pode contribuir com algum dessas <a href=\"//www.fsf.org/"
-"campaigns/priority-projects/\">Áreas de Alta Prioridade</a>?</strong> "
-"Sistema operacional livre para telefones; descentralização, federação, e "
-"auto-hospedagem; drivers livres, firmware e design de hardware; chat de voz "
-"e vídeo em tempo-real; encoraje a contribuição de pessoas sub-representadas "
-"na comunidade, e mais."
+"<strong>Você pode contribuir para alguma dessas <a href=\"//www.fsf.org/"
+"campaigns/priority-projects/\">Áreas de Alta Prioridade</a>?</strong>"
 
 #. type: Content of: <div><div><div><ul><li>
+msgid "Free phone operating system,"
+msgstr "Sistema operacional de telefonia livre,"
+
+#. type: Content of: <div><div><div><ul><li>
+msgid "decentralization, federation and self-hosting,"
+msgstr "decentralização, federação e auto-hospedagem,"
+
+#. type: Content of: <div><div><div><ul><li>
+msgid "free drivers, firmware and hardware designs,"
+msgstr "design de hardware, firmware e drivers livres."
+
+#. type: Content of: <div><div><div><ul><li>
+msgid "real-time voice and video chat,"
+msgstr "bate-papo em vídeo e voz em tempo real,"
+
+#. type: Content of: <div><div><div><ul><li>
+msgid "encourage contribution by people underrepresented in the community,"
+msgstr "incentivar a contribuição por pessoas sub-representadas na comunidade,"
+
+#. type: Content of: <div><div><div><ul><li>
+msgid "and more."
+msgstr "e mais."
+
+#. type: Content of: <div><div><div><p>
 msgid ""
-"<strong>Can you take over an <a href=\"/server/takeaction.html#unmaint"
-"\">unmaintained GNU package</a>?</strong>"
+"<strong>Can you help <a href=\"/server/takeaction.html#unmaint\">maintain a "
+"GNU package</a>?</strong>"
 msgstr ""
-"<strong>Você pode assumir um <a href=\"/server/takeaction.html#unmaint"
-"\">pacote não mantido pelo GNU</a>?</strong>"
+"<strong>Você pode ajudar a <a href=\"/server/takeaction.html#unmaint"
+"\">manter um pacote GNU</a>?</strong>"
 
 #. type: Content of: <div><div><div><ul><li>
 msgid ""
@@ -454,12 +470,12 @@ msgstr ""
 "\">quickthreads</a>"
 
 #. type: Content of: <div><div><div><ul><li>
-msgid ""
-", are all <a href=\"/server/takeaction.html#unmaint\">looking for "
-"maintainers</a>.  Also, these packages are looking for co-maintainers:"
-msgstr ""
-", estão todos <a href=\"/server/takeaction.html#unmaint\">procurando por "
-"mantenedores</a>. Também, estes pacotes estão procurando por co-mantenedores:"
+msgid ", are all looking for maintainers."
+msgstr ", estão todos procurando por mantenedores."
+
+#. type: Content of: <div><div><div><ul><li>
+msgid "Also, these packages are looking for co-maintainers:"
+msgstr "Também, esses pacotes estão procurando por comantenedores:"
 
 #. type: Content of: <div><div><div><ul><li>
 msgid ""
@@ -476,8 +492,12 @@ msgstr ""
 "\">xboard</a>"
 
 #. type: Content of: <div><div><div><ul><li>
-msgid ".  See the package web pages for more information."
-msgstr ". Veja a página de pacotes para mais informação."
+msgid "."
+msgstr "."
+
+#. type: Content of: <div><div><div><p>
+msgid "See the package web pages for more information."
+msgstr "Veja a página de pacotes para mais informação."
 
 #. type: Content of: <div><div><div><p>
 msgid ""
@@ -514,7 +534,6 @@ msgstr ""
 "<a href=\"http://www.fsfe.org\">Europa</a>, <a href=\"http://www.fsfla.org/"
 "\">América Latina</a> e <a href=\"http://gnu.org.in/\">Índia</a>."
 
-# type: Content of: <div><p>
 #. type: Content of: <div><div><p>
 msgid ""
 "Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
@@ -529,7 +548,6 @@ msgstr ""
 "sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
 "webmasters@gnu.org&gt;</a>."
 
-#
 #.  TRANSLATORS: Ignore the original text in this paragraph,
 #.         replace it with the translation of these two:
 #.         We work hard and do our best to provide accurate, good quality
@@ -583,11 +601,33 @@ msgstr ""
 "Revisado por: Daniel Pimentel <a href=\"mailto:d4n1@d4n1.org\">&lt;d4n1@d4n1."
 "org&gt;</a>, 2017."
 
-# type: Content of: <div><p>
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização: "
+
+#~ msgid ""
+#~ "<strong>Can you contribute to any of these <a href=\"//www.fsf.org/"
+#~ "campaigns/priority-projects/\">High Priority Areas</a>?</strong> Free "
+#~ "phone operating system; decentralization, federation, and self-hosting; "
+#~ "free drivers, firmware, and hardware designs; real-time voice and video "
+#~ "chat; encourage contribution by people underrepresented in the community, "
+#~ "and more."
+#~ msgstr ""
+#~ "<strong>Você pode contribuir com algum dessas <a href=\"//www.fsf.org/"
+#~ "campaigns/priority-projects/\">Áreas de Alta Prioridade</a>?</strong> "
+#~ "Sistema operacional livre para telefones; descentralização, federação, e "
+#~ "auto-hospedagem; drivers livres, firmware e design de hardware; chat de "
+#~ "voz e vídeo em tempo-real; encoraje a contribuição de pessoas sub-"
+#~ "representadas na comunidade, e mais."
+
+#~ msgid ""
+#~ ", are all <a href=\"/server/takeaction.html#unmaint\">looking for "
+#~ "maintainers</a>.  Also, these packages are looking for co-maintainers:"
+#~ msgstr ""
+#~ ", estão todos <a href=\"/server/takeaction.html#unmaint\">procurando por "
+#~ "mantenedores</a>. Também, estes pacotes estão procurando por co-"
+#~ "mantenedores:"
 
 #~ msgid "<a href=\"/software/halifax/\">halifax</a>"
 #~ msgstr "<a href=\"/software/halifax/\">halifax</a>"
