@@ -1,14 +1,14 @@
 # Brazilian Portuguese translation of https://www.gnu.org/home.html
-# Copyright (C) 2018 Free Software Foundation, Inc.
+# Copyright (C) 2019 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # André Phellip Ferreira <werewolf@cyberdude.com>, 2017.
 # Daniel Pimentel <d4n1@d4n1.org>, 2017. (proofread)
-# Rafael Fontenelle <rafaelff@gnome.org>, 2018.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: home.html\n"
-"POT-Creation-Date: 2018-12-20 11:56+0000\n"
-"PO-Revision-Date: 2018-12-21 07:12-0200\n"
+"POT-Creation-Date: 2019-02-16 17:57+0000\n"
+"PO-Revision-Date: 2019-02-16 16:47-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -534,6 +534,10 @@ msgstr ""
 "<a href=\"http://www.fsfe.org\">Europa</a>, <a href=\"http://www.fsfla.org/"
 "\">América Latina</a> e <a href=\"http://gnu.org.in/\">Índia</a>."
 
+#. type: Content of: <p>
+msgid "Feel free to join them!"
+msgstr "Sinta-se à vontade para se juntar a elas!"
+
 #. type: Content of: <div><div><p>
 msgid ""
 "Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
@@ -575,10 +579,10 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 1996-2018 <a href=\"http://www.fsf.org\">Free Software "
+"Copyright &copy; 1996-2019 <a href=\"http://www.fsf.org\">Free Software "
 "Foundation</a>, Inc."
 msgstr ""
-"Copyright &copy; 1996-2018 <a href=\"http://www.fsf.org\">Free Software "
+"Copyright &copy; 1996-2019 <a href=\"http://www.fsf.org\">Free Software "
 "Foundation</a>, Inc."
 
 #. type: Content of: <div><p>

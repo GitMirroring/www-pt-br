@@ -1,13 +1,13 @@
 # Brazilian Portuguese translation of https://www.gnu.org/thankgnus/thankgnus.html
 # Copyright (C) 2018 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2018.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018, 2019.
 # Cassiano Reinert Novais dos Santos <caco@posteo.net>, 2018 (proofread)
 msgid ""
 msgstr ""
 "Project-Id-Version: thankgnus.html\n"
-"POT-Creation-Date: 2018-01-30 21:26+0000\n"
-"PO-Revision-Date: 2018-09-05 17:30-0300\n"
+"POT-Creation-Date: 2019-01-04 10:56+0000\n"
+"PO-Revision-Date: 2019-01-04 11:17-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -36,6 +36,11 @@ msgstr ""
 #. type: Content of: <h3>
 msgid "Yearly lists of contributors:"
 msgstr "Listas anuais de colaboradores:"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"/thankgnus/2019supporters.html\">List of 2019 Supporters</a>"
+msgstr ""
+"<a href=\"/thankgnus/2019supporters.html\">Lista de colaboradores de 2019</a>"
 
 #. type: Content of: <ul><li>
 msgid "<a href=\"/thankgnus/2018supporters.html\">List of 2018 Supporters</a>"
@@ -236,8 +241,10 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2015, 2016, 2017, 2018 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2015, 2016, 2017, 2018 Free Software Foundation, Inc."
+msgid ""
+"Copyright &copy; 2015, 2016, 2017, 2018, 2019 Free Software Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2015, 2016, 2017, 2018, 2019 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -254,7 +261,7 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
-"rafaelff@gnome.org&gt;</a>, 2018."
+"rafaelff@gnome.org&gt;</a>, 2018, 2019."
 
 #.  timestamp start 
 #. type: Content of: <div><p>

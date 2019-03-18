@@ -1,12 +1,12 @@
 # Brazilian Portuguese translation of https://www.gnu.org/software/recent-releases-include.html
-# Copyright (C) 2018 Free Software Foundation, Inc.
+# Copyright (C) 2019 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2018.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018-2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: recent-releases-include.html\n"
-"POT-Creation-Date: 2018-12-24 08:27+0000\n"
-"PO-Revision-Date: 2018-12-24 07:38-0200\n"
+"POT-Creation-Date: 2019-03-14 01:57+0000\n"
+"PO-Revision-Date: 2019-03-14 10:24-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -17,333 +17,676 @@ msgstr ""
 "X-Generator: Virtaal 1.0.0-beta1\n"
 
 #. type: Content of: <ul><li>
-msgid "<strong>December 24, 2018</strong>"
-msgstr "<strong>24 de Dezembro de 2018</strong>"
+msgid "<strong>March 13, 2019</strong>"
+msgstr "<strong>13 de março de 2019</strong>"
 
 #. type: Content of: <ul><li><ul><li>
 msgid ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00016.html"
-"\">GNU Linux-libre 4.20-gnu: Four.Two-Oh! Ho! Ho!</a>, <i>Alexandre Oliva</"
-"i>, <tt>02:51</tt>"
+"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-03/msg00004.html"
+"\">LibreJS 7.19 released</a>, <i>Ruben Rodriguez</i>, <tt>21:39</tt>"
 msgstr ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00016.html"
-"\">GNU Linux-libre 4.20-gnu: Four.Two-Oh! Ho! Ho!</a>, <i>Alexandre Oliva</"
-"i>, <tt>02:51</tt>"
+"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-03/msg00004.html"
+"\">LibreJS 7.19 lançado</a>, <i>Ruben Rodriguez</i>, <tt>21:39</tt>"
 
 #. type: Content of: <ul><li>
-msgid "<strong>December 23, 2018</strong>"
-msgstr "<strong>23 de Dezembro de 2018</strong>"
+msgid "<strong>March 10, 2019</strong>"
+msgstr "<strong>10 de março de 2019</strong>"
 
 #. type: Content of: <ul><li><ul><li>
 msgid ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00015.html"
-"\">GNU troff version 1.22.4</a>, <i>Bertrand Garrigues</i>, <tt>11:32</tt>"
+"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-03/msg00003.html"
+"\">coreutils-8.31 released [stable]</a>, <i>Pádraig Brady</i>, <tt>21:21</tt>"
 msgstr ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00015.html"
-"\">GNU troff versão 1.22.4</a>, <i>Bertrand Garrigues</i>, <tt>11:32</tt>"
-
-#. type: Content of: <ul><li><ul><li>
-msgid ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00014.html"
-"\">GNU Datamash 1.4 released</a>, <i>Assaf Gordon</i>, <tt>09:26</tt>"
-msgstr ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00014.html"
-"\">GNU Datamash 1.4 lançado</a>, <i>Assaf Gordon</i>, <tt>09:26</tt>"
-
-#. type: Content of: <ul><li><ul><li>
-msgid ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00013.html"
-"\">GDB 8.2.1 released!</a>, <i>Joel Brobecker</i>, <tt>09:26</tt>"
-msgstr ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00013.html"
-"\">GDB 8.2.1 lançado!</a>, <i>Joel Brobecker</i>, <tt>09:26</tt>"
+"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-03/msg00003.html"
+"\">coreutils-8.31 lançado [estável]</a>, <i>Pádraig Brady</i>, <tt>21:21</tt>"
 
 #. type: Content of: <ul><li>
-msgid "<strong>December 21, 2018</strong>"
-msgstr "<strong>21 de Dezembro de 2018</strong>"
+msgid "<strong>March 06, 2019</strong>"
+msgstr "<strong>06 de março de 2019</strong>"
 
 #. type: Content of: <ul><li><ul><li>
 msgid ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00012.html"
-"\">sed-4.7 released [stable]</a>, <i>Jim Meyering</i>, <tt>08:42</tt>"
+"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-03/msg00002.html"
+"\">Unifont 12.0.01 Released</a>, <i>Paul Hardy</i>, <tt>08:39</tt>"
 msgstr ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00012.html"
-"\">sed-4.7 lançado [estável]</a>, <i>Jim Meyering</i>, <tt>08:42</tt>"
-
-#. type: Content of: <ul><li><ul><li>
-msgid ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00011.html"
-"\">grep-3.3 released [stable]</a>, <i>Jim Meyering</i>, <tt>08:42</tt>"
-msgstr ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00011.html"
-"\">grep-3.3 lançado [estável]</a>, <i>Jim Meyering</i>, <tt>08:42</tt>"
+"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-03/msg00002.html"
+"\">Unifont 12.0.01 lançado</a>, <i>Paul Hardy</i>, <tt>08:39</tt>"
 
 #. type: Content of: <ul><li>
-msgid "<strong>December 20, 2018</strong>"
-msgstr "<strong>20 de Dezembro de 2018</strong>"
+msgid "<strong>March 04, 2019</strong>"
+msgstr "<strong>04 de março de 2019</strong>"
 
 #. type: Content of: <ul><li><ul><li>
 msgid ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00010.html"
-"\">gnun-0.12 released [stable]</a>, <i>Pavel Kharitonov</i>, <tt>17:47</tt>"
+"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-03/msg00001.html"
+"\">GNU Linux-libre 5.0-gnu</a>, <i>Alexandre Oliva</i>, <tt>09:09</tt>"
 msgstr ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00010.html"
-"\">gnun-0.12 lançado [estável]</a>, <i>Pavel Kharitonov</i>, <tt>17:47</tt>"
-
-#. type: Content of: <ul><li><ul><li>
-msgid ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00009.html"
-"\">grep-3.2 released [stable]</a>, <i>Jim Meyering</i>, <tt>11:49</tt>"
-msgstr ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00009.html"
-"\">grep-3.2 lançado [estável]</a>, <i>Jim Meyering</i>, <tt>11:49</tt>"
-
-#. type: Content of: <ul><li><ul><li>
-msgid ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00008.html"
-"\">sed-4.6 released [stable]</a>, <i>Jim Meyering</i>, <tt>08:30</tt>"
-msgstr ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00008.html"
-"\">sed-4.6 lançado [estável]</a>, <i>Jim Meyering</i>, <tt>08:30</tt>"
+"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-03/msg00001.html"
+"\">GNU Linux-libre 5.0-gnu</a>, <i>Alexandre Oliva</i>, <tt>09:09</tt>"
 
 #. type: Content of: <ul><li>
-msgid "<strong>December 16, 2018</strong>"
-msgstr "<strong>16 de Dezembro de 2018</strong>"
+msgid "<strong>March 01, 2019</strong>"
+msgstr "<strong>01 de março de 2019</strong>"
 
 #. type: Content of: <ul><li><ul><li>
 msgid ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00007.html"
-"\">GNU Mes 0.19 released</a>, <i>Jan Nieuwenhuizen</i>, <tt>16:13</tt>"
+"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-03/msg00000.html"
+"\">GNU Octave 5.1.0 Released</a>, <i>John W. Eaton</i>, <tt>20:55</tt>"
 msgstr ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00007.html"
-"\">GNU Mes 0.19 lançado</a>, <i>Jan Nieuwenhuizen</i>, <tt>16:13</tt>"
+"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-03/msg00000.html"
+"\">GNU Octave 5.1.0 lançado</a>, <i>John W. Eaton</i>, <tt>20:55</tt>"
 
 #. type: Content of: <ul><li>
-msgid "<strong>December 14, 2018</strong>"
-msgstr "<strong>14 de Dezembro de 2018</strong>"
+msgid "<strong>February 28, 2019</strong>"
+msgstr "<strong>28 de fevereiro de 2019</strong>"
 
 #. type: Content of: <ul><li><ul><li>
 msgid ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00006.html"
-"\">GnuPG 2.2.12 released</a>, <i>Werner Koch</i>, <tt>10:05</tt>"
+"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-02/msg00013.html\">"
+"[ANN] GNU Dr. Geo Release 19.03</a>, <i>Hilaire Fernandes</i>, <tt>10:04</tt>"
 msgstr ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00006.html"
-"\">GnuPG 2.2.12 lançado</a>, <i>Werner Koch</i>, <tt>10:05</tt>"
+"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-02/msg00013.html\">"
+"[Anúncio] GNU Dr. Geo 19.03 lançado</a>, <i>Hilaire Fernandes</i>, "
+"<tt>10:04</tt>"
 
 #. type: Content of: <ul><li>
-msgid "<strong>December 09, 2018</strong>"
-msgstr "<strong>09 de Dezembro de 2018</strong>"
+msgid "<strong>February 27, 2019</strong>"
+msgstr "<strong>27 de fevereiro de 2019</strong>"
 
 #. type: Content of: <ul><li><ul><li>
 msgid ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00005.html"
-"\">GNU mtools 4.0.23 released</a>, <i>Alain Knaff</i>, <tt>21:19</tt>"
+"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-02/msg00012.html"
+"\">GNU ddrescue 1.24 released</a>, <i>Antonio Diaz Diaz</i>, <tt>14:03</tt>"
 msgstr ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00005.html"
-"\">GNU mtools 4.0.23 lançado</a>, <i>Alain Knaff</i>, <tt>21:19</tt>"
-
-#. type: Content of: <ul><li><ul><li>
-msgid ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00004.html"
-"\">Unifont 11.0.03 Released</a>, <i>Paul Hardy</i>, <tt>16:20</tt>"
-msgstr ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00004.html"
-"\">Unifont 11.0.03 lançado</a>, <i>Paul Hardy</i>, <tt>16:20</tt>"
+"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-02/msg00012.html"
+"\">GNU ddrescue 1.24 lançado</a>, <i>Antonio Diaz Diaz</i>, <tt>14:03</tt>"
 
 #. type: Content of: <ul><li>
-msgid "<strong>December 06, 2018</strong>"
-msgstr "<strong>06 de Dezembro de 2018</strong>"
+msgid "<strong>February 26, 2019</strong>"
+msgstr "<strong>26 de fevereiro de 2019</strong>"
 
 #. type: Content of: <ul><li><ul><li>
 msgid ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00003.html"
-"\">GNU Guix &amp; GuixSD 0.16.0 released</a>, <i>Ludovic Courtès</i>, "
-"<tt>12:56</tt>"
+"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-02/msg00011.html"
+"\">dico-2.8 released [stable]</a>, <i>Sergey Poznyakoff</i>, <tt>15:48</tt>"
 msgstr ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00003.html"
-"\">GNU Guix &amp; GuixSD 0.16.0 lançados</a>, <i>Ludovic Courtès</i>, "
-"<tt>12:56</tt>"
-
-#. type: Content of: <ul><li><ul><li>
-msgid ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00002.html"
-"\">GCC 7.4 Released</a>, <i>Richard Biener</i>, <tt>12:03</tt>"
-msgstr ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00002.html"
-"\">GCC 7.4 lançado</a>, <i>Richard Biener</i>, <tt>12:03</tt>"
+"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-02/msg00011.html"
+"\">dico-2.8 lançado [estável]</a>, <i>Sergey Poznyakoff</i>, <tt>15:48</tt>"
 
 #. type: Content of: <ul><li>
-msgid "<strong>December 04, 2018</strong>"
-msgstr "<strong>04 de Dezembro de 2018</strong>"
+msgid "<strong>February 23, 2019</strong>"
+msgstr "<strong>23 de fevereiro de 2019</strong>"
 
 #. type: Content of: <ul><li><ul><li>
 msgid ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00001.html"
-"\">ANNOUNCE: Nettle-3.4.1</a>, <i>Niels Möller</i>, <tt>18:33</tt>"
+"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-02/msg00010.html"
+"\">tar-1.32 released [stable]</a>, <i>Sergey Poznyakoff</i>, <tt>08:29</tt>"
 msgstr ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00001.html"
-"\">ANÚNCIO: Nettle-3.4.1</a>, <i>Niels Möller</i>, <tt>18:33</tt>"
+"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-02/msg00010.html"
+"\">tar-1.32 lançado [estável]</a>, <i>Sergey Poznyakoff</i>, <tt>08:29</tt>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-02/msg00009.html"
+"\">mailutils-3.6 released [stable]</a>, <i>Sergey Poznyakoff</i>, <tt>08:29</"
+"tt>"
+msgstr ""
+"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-02/msg00009.html"
+"\">mailutils-3.6 lançado [estável]</a>, <i>Sergey Poznyakoff</i>, <tt>08:29</"
+"tt>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-02/msg00008.html"
+"\">cflow-1.6 released [stable]</a>, <i>Sergey Poznyakoff</i>, <tt>08:29</tt>"
+msgstr ""
+"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-02/msg00008.html"
+"\">cflow-1.6 lançado [estável]</a>, <i>Sergey Poznyakoff</i>, <tt>08:29</tt>"
 
 #. type: Content of: <ul><li>
-msgid "<strong>December 02, 2018</strong>"
-msgstr "<strong>02 de Dezembro de 2018</strong>"
+msgid "<strong>February 22, 2019</strong>"
+msgstr "<strong>22 de fevereiro de 2019</strong>"
 
 #. type: Content of: <ul><li><ul><li>
 msgid ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00000.html"
-"\">GNU mtools 4.0.22 released</a>, <i>Alain Knaff</i>, <tt>14:04</tt>"
+"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-02/msg00007.html"
+"\">GCC 8.3 Released</a>, <i>Jakub Jelinek</i>, <tt>16:16</tt>"
 msgstr ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00000.html"
-"\">GNU mtools 4.0.22 lançado</a>, <i>Alain Knaff</i>, <tt>14:04</tt>"
+"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-02/msg00007.html"
+"\">GCC 8.3 lançado</a>, <i>Jakub Jelinek</i>, <tt>16:16</tt>"
 
 #. type: Content of: <ul><li>
-msgid "<strong>November 29, 2018</strong>"
-msgstr "<strong>29 de Novembro de 2018</strong>"
+msgid "<strong>February 20, 2019</strong>"
+msgstr "<strong>20 de fevereiro de 2019</strong>"
 
 #. type: Content of: <ul><li><ul><li>
 msgid ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-11/msg00011.html"
-"\">wget-1.20 released [stable]</a>, <i>Darshit Shah</i>, <tt>18:47</tt>"
+"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-02/msg00006.html"
+"\">GNU MCSim version 6.1.0 release</a>, <i>fredomatic</i>, <tt>09:05</tt>"
 msgstr ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-11/msg00011.html"
-"\">wget-1.20 lançado [estável]</a>, <i>Darshit Shah</i>, <tt>18:47</tt>"
+"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-02/msg00006.html"
+"\">GNU MCSim versão 6.1.0 lançado</a>, <i>fredomatic</i>, <tt>09:05</tt>"
 
 #. type: Content of: <ul><li>
-msgid "<strong>November 24, 2018</strong>"
-msgstr "<strong>24 de Novembro de 2018</strong>"
+msgid "<strong>February 16, 2019</strong>"
+msgstr "<strong>16 de fevereiro de 2019</strong>"
 
 #. type: Content of: <ul><li><ul><li>
 msgid ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-11/msg00010.html"
-"\">GNU mtools 4.0.21 released</a>, <i>Alain Knaff</i>, <tt>09:11</tt>"
+"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-02/msg00005.html"
+"\">New FreeDink game engine release</a>, <i>Sylvain Beucler</i>, <tt>21:06</"
+"tt>"
 msgstr ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-11/msg00010.html"
-"\">GNU mtools 4.0.21 lançado</a>, <i>Alain Knaff</i>, <tt>09:11</tt>"
+"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-02/msg00005.html"
+"\">Novo lançamento do mecanismo de jogo FreeDink</a>, <i>Sylvain Beucler</"
+"i>, <tt>21:06</tt>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-02/msg00004.html"
+"\">Texinfo 6.6 released</a>, <i>Gavin Smith</i>, <tt>17:20</tt>"
+msgstr ""
+"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-02/msg00004.html"
+"\">Texinfo 6.6 lançado</a>, <i>Gavin Smith</i>, <tt>17:20</tt>"
 
 #. type: Content of: <ul><li>
-msgid "<strong>November 19, 2018</strong>"
-msgstr "<strong>19 de Novembro de 2018</strong>"
+msgid "<strong>February 12, 2019</strong>"
+msgstr "<strong>12 de fevereiro de 2019</strong>"
 
 #. type: Content of: <ul><li><ul><li>
 msgid ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-11/msg00009.html"
-"\">GNU OrgaDoc 1.0 Released</a>, <i>Adam Bilbrough</i>, <tt>18:16</tt>"
+"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-02/msg00003.html"
+"\">GnuPG 2.2.13 released</a>, <i>Werner Koch</i>, <tt>13:10</tt>"
 msgstr ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-11/msg00009.html"
-"\">GNU OrgaDoc 1.0 lançado</a>, <i>Adam Bilbrough</i>, <tt>18:16</tt>"
+"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-02/msg00003.html"
+"\">GnuPG 2.2.13 lançado</a>, <i>Werner Koch</i>, <tt>13:10</tt>"
 
 #. type: Content of: <ul><li>
-msgid "<strong>November 11, 2018</strong>"
-msgstr "<strong>11 de Novembro de 2018</strong>"
+msgid "<strong>February 08, 2019</strong>"
+msgstr "<strong>08 de fevereiro de 2019</strong>"
 
 #. type: Content of: <ul><li><ul><li>
 msgid ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-11/msg00008.html\">"
-"[ANNOUNCE] nano-3.2 is released</a>, <i>Benno Schulenberg</i>, <tt>12:03</tt>"
+"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-02/msg00002.html"
+"\">GNU libidn2 2.1.1 released</a>, <i>Tim Rühsen</i>, <tt>16:48</tt>"
 msgstr ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-11/msg00008.html\">"
-"[ANÚNCIO] nano-3.2 foi lançado</a>, <i>Benno Schulenberg</i>, <tt>12:03</tt>"
-
-#. type: Content of: <ul><li><ul><li>
-msgid ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-11/msg00007.html"
-"\">GNU mtools 4.0.20 released</a>, <i>Alain Knaff</i>, <tt>12:03</tt>"
-msgstr ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-11/msg00007.html"
-"\">GNU mtools 4.0.20 lançado</a>, <i>Alain Knaff</i>, <tt>12:03</tt>"
+"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-02/msg00002.html"
+"\">GNU libidn2 2.1.1 lançado</a>, <i>Tim Rühsen</i>, <tt>16:48</tt>"
 
 #. type: Content of: <ul><li>
-msgid "<strong>November 09, 2018</strong>"
-msgstr "<strong>09 de Novembro de 2018</strong>"
+msgid "<strong>February 04, 2019</strong>"
+msgstr "<strong>04 de fevereiro de 2019</strong>"
 
 #. type: Content of: <ul><li><ul><li>
 msgid ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-11/msg00006.html"
-"\">IceCat 60.3.0 Release</a>, <i>Ruben Rodriguez</i>, <tt>16:32</tt>"
+"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-02/msg00001.html"
+"\">GNU gama 2.03 released</a>, <i>Ales Cepek</i>, <tt>10:32</tt>"
 msgstr ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-11/msg00006.html"
-"\">IceCat 60.3.0 lançado</a>, <i>Ruben Rodriguez</i>, <tt>16:32</tt>"
-
-#. type: Content of: <ul><li><ul><li>
-msgid ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-11/msg00005.html"
-"\">3.2.1.0... 🚀 bison is released [stable]</a>, <i>Akim Demaille</i>, "
-"<tt>08:49</tt>"
-msgstr ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-11/msg00005.html"
-"\">3.2.1.0... 🚀 bison foi lançado [estável]</a>, <i>Akim Demaille</i>, "
-"<tt>08:49</tt>"
+"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-02/msg00001.html"
+"\">GNU gama 2.03 lançado</a>, <i>Ales Cepek</i>, <tt>10:32</tt>"
 
 #. type: Content of: <ul><li>
-msgid "<strong>November 06, 2018</strong>"
-msgstr "<strong>06 de Novembro de 2018</strong>"
+msgid "<strong>February 02, 2019</strong>"
+msgstr "<strong>02 de fevereiro de 2019</strong>"
 
 #. type: Content of: <ul><li><ul><li>
 msgid ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-11/msg00004.html"
-"\">pspp-1.2.0 released [stable]</a>, <i>Ben Pfaff</i>, <tt>09:50</tt>"
+"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-02/msg00000.html"
+"\">GNU Binutils 2.32 is now available</a>, <i>Nick Clifton</i>, <tt>16:26</"
+"tt>"
 msgstr ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-11/msg00004.html"
-"\">pspp-1.2.0 lançado [estável]</a>, <i>Ben Pfaff</i>, <tt>09:50</tt>"
+"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-02/msg00000.html"
+"\">GNU Binutils 2.32 está agora disponível</a>, <i>Nick Clifton</i>, "
+"<tt>16:26</tt>"
 
-#. type: Content of: <ul><li><ul><li>
-msgid ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-11/msg00003.html"
-"\">GnuPG 2.2.11 released</a>, <i>Werner Koch</i>, <tt>09:04</tt>"
-msgstr ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-11/msg00003.html"
-"\">GnuPG 2.2.11 lançado</a>, <i>Werner Koch</i>, <tt>09:04</tt>"
-
-#. type: Content of: <ul><li>
-msgid "<strong>November 05, 2018</strong>"
-msgstr "<strong>05 de Novembro de 2018</strong>"
-
-#. type: Content of: <ul><li><ul><li>
-msgid ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-11/msg00002.html"
-"\">GNU Guile-CV 0.2.1 release</a>, <i>David Pirotte</i>, <tt>21:08</tt>"
-msgstr ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-11/msg00002.html"
-"\">GNU Guile-CV 0.2.1 lançado</a>, <i>David Pirotte</i>, <tt>21:08</tt>"
-
-#. type: Content of: <ul><li>
-msgid "<strong>November 02, 2018</strong>"
-msgstr "<strong>02 de Novembro de 2018</strong>"
-
-#. type: Content of: <ul><li><ul><li>
-msgid ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-11/msg00001.html"
-"\">LibreJS 7.18 released</a>, <i>Ruben Rodriguez</i>, <tt>12:00</tt>"
-msgstr ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-11/msg00001.html"
-"\">LibreJS 7.18 lançado</a>, <i>Ruben Rodriguez</i>, <tt>12:00</tt>"
-
-#. type: Content of: <ul><li>
-msgid "<strong>November 01, 2018</strong>"
-msgstr "<strong>01 de Novembro de 2018</strong>"
-
-#. type: Content of: <ul><li><ul><li>
-msgid ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-11/msg00000.html"
-"\">Emms 5.1 released</a>, <i>Yoni Rabkin</i>, <tt>15:48</tt>"
-msgstr ""
-"<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-11/msg00000.html"
-"\">Emms 5.1 lançado</a>, <i>Yoni Rabkin</i>, <tt>15:48</tt>"
-
-#~ msgid "<strong>October 29, 2018</strong>"
-#~ msgstr "<strong>29 de Outubro de 2018</strong>"
-
-#~ msgid "<strong>October 27, 2018</strong>"
-#~ msgstr "<strong>27 de Outubro de 2018</strong>"
+#~ msgid "<strong>January 31, 2019</strong>"
+#~ msgstr "<strong>31 de janeiro de 2019</strong>"
 
 #~ msgid ""
-#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-10/msg00007.html"
-#~ "\">mailutils-3.5 released [stable]</a>, <i>Sergey Poznyakoff</i>, "
-#~ "<tt>08:14</tt>"
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-01/msg00019.html"
+#~ "\">Announce: GNU MPFR 4.0.2 is released</a>, <i>Vincent Lefevre</i>, "
+#~ "<tt>18:32</tt>"
 #~ msgstr ""
-#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-10/msg00007.html"
-#~ "\">mailutils-3.5 lançado [estável]</a>, <i>Sergey Poznyakoff</i>, "
-#~ "<tt>08:14</tt>"
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-01/msg00019.html"
+#~ "\">Anúncio: GNU MPFR 4.0.2 foi lançado</a>, <i>Vincent Lefevre</i>, "
+#~ "<tt>18:32</tt>"
+
+#~ msgid ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-01/msg00018.html"
+#~ "\">The GNU C Library version 2.29 is now available</a>, <i>Siddhesh "
+#~ "Poyarekar</i>, <tt>16:29</tt>"
+#~ msgstr ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-01/msg00018.html"
+#~ "\">A GNU C Library versão 2.29 está agora disponível</a>, <i>Siddhesh "
+#~ "Poyarekar</i>, <tt>16:29</tt>"
+
+#~ msgid "<strong>January 27, 2019</strong>"
+#~ msgstr "<strong>27 de janeiro de 2019</strong>"
+
+#~ msgid ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-01/msg00017.html"
+#~ "\">Bison 3.3.1 released [stable]</a>, <i>Akim Demaille</i>, <tt>11:57</tt>"
+#~ msgstr ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-01/msg00017.html"
+#~ "\">Bison 3.3.1 lançado [estável]</a>, <i>Akim Demaille</i>, <tt>11:57</tt>"
+
+#~ msgid "<strong>January 26, 2019</strong>"
+#~ msgstr "<strong>26 de janeiro de 2019</strong>"
+
+#~ msgid ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-01/msg00016.html"
+#~ "\">Bison 3.3 released [stable]</a>, <i>Akim Demaille</i>, <tt>09:58</tt>"
+#~ msgstr ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-01/msg00016.html"
+#~ "\">Bison 3.3 lançado [estável]</a>, <i>Akim Demaille</i>, <tt>09:58</tt>"
+
+#~ msgid "<strong>January 24, 2019</strong>"
+#~ msgstr "<strong>24 de janeiro de 2019</strong>"
+
+#~ msgid ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-01/msg00015.html"
+#~ "\">FreeIPMI 1.6.3 Released</a>, <i>Albert Chu</i>, <tt>21:17</tt>"
+#~ msgstr ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-01/msg00015.html"
+#~ "\">FreeIPMI 1.6.3 lançado</a>, <i>Albert Chu</i>, <tt>21:17</tt>"
+
+#~ msgid "<strong>January 20, 2019</strong>"
+#~ msgstr "<strong>20 de janeiro de 2019</strong>"
+
+#~ msgid ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-01/msg00014.html"
+#~ "\">New FreeDink game data release</a>, <i>beuc</i>, <tt>12:42</tt>"
+#~ msgstr ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-01/msg00014.html"
+#~ "\">Novo lançamento de dados do jogo FreeDink</a>, <i>beuc</i>, <tt>12:42</"
+#~ "tt>"
+
+#~ msgid "<strong>January 13, 2019</strong>"
+#~ msgstr "<strong>13 de janeiro de 2019</strong>"
+
+#~ msgid ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-01/msg00013.html"
+#~ "\">GNU Ocrad 0.27 released</a>, <i>Antonio Diaz Diaz</i>, <tt>16:56</tt>"
+#~ msgstr ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-01/msg00013.html"
+#~ "\">GNU Ocrad 0.27 lançado</a>, <i>Antonio Diaz Diaz</i>, <tt>16:56</tt>"
+
+#~ msgid "<strong>January 08, 2019</strong>"
+#~ msgstr "<strong>08 de janeiro de 2019</strong>"
+
+#~ msgid ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-01/msg00012.html"
+#~ "\">GNU MDK 1.2.10 released</a>, <i>Jose A. Ortega Ruiz</i>, <tt>16:10</tt>"
+#~ msgstr ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-01/msg00012.html"
+#~ "\">GNU MDK 1.2.10 lançado</a>, <i>Jose A. Ortega Ruiz</i>, <tt>16:10</tt>"
+
+#~ msgid "<strong>January 07, 2019</strong>"
+#~ msgstr "<strong>07 de janeiro de 2019</strong>"
+
+#~ msgid ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-01/msg00011.html"
+#~ "\">Readline-8.0 release available</a>, <i>Chet Ramey</i>, <tt>17:15</tt>"
+#~ msgstr ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-01/msg00011.html"
+#~ "\">Lançamento do Readline-8.0 disponível</a>, <i>Chet Ramey</i>, "
+#~ "<tt>17:15</tt>"
+
+#~ msgid ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-01/msg00010.html"
+#~ "\">Bash-5.0 release available</a>, <i>Chet Ramey</i>, <tt>17:15</tt>"
+#~ msgstr ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-01/msg00010.html"
+#~ "\">Lançamento do Bash-5.0 disponível</a>, <i>Chet Ramey</i>, <tt>17:15</"
+#~ "tt>"
+
+#~ msgid ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-01/msg00009.html"
+#~ "\">ANN: GNUstep GUI 0.27.0</a>, <i>Ivan Vucica</i>, <tt>16:51</tt>"
+#~ msgstr ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-01/msg00009.html"
+#~ "\">Anúncio: GNUstep GUI 0.27.0</a>, <i>Ivan Vucica</i>, <tt>16:51</tt>"
+
+#~ msgid ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-01/msg00008.html"
+#~ "\">ANN: GNUstep GUI Backend 0.27.0</a>, <i>Ivan Vucica</i>, <tt>16:51</tt>"
+#~ msgstr ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-01/msg00008.html"
+#~ "\">Anúncio: GNUstep GUI Backend 0.27.0</a>, <i>Ivan Vucica</i>, "
+#~ "<tt>16:51</tt>"
+
+#~ msgid ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-01/msg00007.html"
+#~ "\">ANN: GNUstep Base 1.26.0</a>, <i>Ivan Vucica</i>, <tt>16:51</tt>"
+#~ msgstr ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-01/msg00007.html"
+#~ "\">Anúncio: GNUstep Base 1.26.0</a>, <i>Ivan Vucica</i>, <tt>16:51</tt>"
+
+#~ msgid ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-01/msg00006.html"
+#~ "\">autoconf-archive-2019.01.06 released [stable]</a>, <i>Peter Simons</"
+#~ "i>, <tt>10:51</tt>"
+#~ msgstr ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-01/msg00006.html"
+#~ "\">autoconf-archive-2019.01.06 lançado [estável]</a>, <i>Peter Simons</"
+#~ "i>, <tt>10:51</tt>"
+
+#~ msgid "<strong>January 04, 2019</strong>"
+#~ msgstr "<strong>04 de janeiro de 2019</strong>"
+
+#~ msgid ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-01/msg00005.html"
+#~ "\">GNU libidn2 2.1.0 released</a>, <i>Tim Rühsen</i>, <tt>17:51</tt>"
+#~ msgstr ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-01/msg00005.html"
+#~ "\">GNU libidn2 2.1.0 lançado</a>, <i>Tim Rühsen</i>, <tt>17:51</tt>"
+
+#~ msgid "<strong>January 03, 2019</strong>"
+#~ msgstr "<strong>03 de janeiro de 2019</strong>"
+
+#~ msgid ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-01/msg00004.html"
+#~ "\">GNU moe 1.10 released</a>, <i>Antonio Diaz Diaz</i>, <tt>17:42</tt>"
+#~ msgstr ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-01/msg00004.html"
+#~ "\">GNU moe 1.10 lançado</a>, <i>Antonio Diaz Diaz</i>, <tt>17:42</tt>"
+
+#~ msgid ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-01/msg00003.html"
+#~ "\">GNU ed 1.15 released</a>, <i>Antonio Diaz Diaz</i>, <tt>16:41</tt>"
+#~ msgstr ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-01/msg00003.html"
+#~ "\">GNU ed 1.15 lançado</a>, <i>Antonio Diaz Diaz</i>, <tt>16:41</tt>"
+
+#~ msgid ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-01/msg00002.html"
+#~ "\">recutils 1.8 released</a>, <i>Jose E. Marchesi</i>, <tt>10:10</tt>"
+#~ msgstr ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-01/msg00002.html"
+#~ "\">recutils 1.8 lançado</a>, <i>Jose E. Marchesi</i>, <tt>10:10</tt>"
+
+#~ msgid "<strong>January 02, 2019</strong>"
+#~ msgstr "<strong>02 de janeiro de 2019</strong>"
+
+#~ msgid ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-01/msg00001.html"
+#~ "\">tar-1.31 released [stable]</a>, <i>Sergey Poznyakoff</i>, <tt>17:02</"
+#~ "tt>"
+#~ msgstr ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-01/msg00001.html"
+#~ "\">tar-1.31 lançado [estável]</a>, <i>Sergey Poznyakoff</i>, <tt>17:02</"
+#~ "tt>"
+
+#~ msgid "<strong>January 01, 2019</strong>"
+#~ msgstr "<strong>01 de janeiro de 2018</strong>"
+
+#~ msgid ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-01/msg00000.html"
+#~ "\">diffutils-3.7 released [stable]</a>, <i>Jim Meyering</i>, <tt>10:04</"
+#~ "tt>"
+#~ msgstr ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2019-01/msg00000.html"
+#~ "\">diffutils-3.7 lançado [estável]</a>, <i>Jim Meyering</i>, <tt>10:04</"
+#~ "tt>"
+
+#~ msgid "<strong>December 30, 2018</strong>"
+#~ msgstr "<strong>30 de dezembro de 2018</strong>"
+
+#~ msgid ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00020.html"
+#~ "\">[ANN] GNU Artanis-0.3.1 released!</a>, <i>Nala Ginrut</i>, <tt>17:30</"
+#~ "tt>"
+#~ msgstr ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00020.html"
+#~ "\">[ANN] GNU Artanis-0.3.1 lançado!</a>, <i>Nala Ginrut</i>, <tt>17:30</"
+#~ "tt>"
+
+#~ msgid ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00019.html"
+#~ "\">gzip-1.10 released [stable]</a>, <i>Jim Meyering</i>, <tt>08:40</tt>"
+#~ msgstr ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00019.html"
+#~ "\">gzip-1.10 lançado [estável]</a>, <i>Jim Meyering</i>, <tt>08:40</tt>"
+
+#~ msgid "<strong>December 28, 2018</strong>"
+#~ msgstr "<strong>28 de dezembro de 2018</strong>"
+
+#~ msgid ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00018.html"
+#~ "\">Gnuastro 0.8 released</a>, <i>Mohammad Akhlaghi</i>, <tt>12:59</tt>"
+#~ msgstr ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00018.html"
+#~ "\">Gnuastro 0.8 lançado</a>, <i>Mohammad Akhlaghi</i>, <tt>12:59</tt>"
+
+#~ msgid ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00017.html"
+#~ "\">wget-1.20.1 released [stable]</a>, <i>Tim Rühsen</i>, <tt>12:59</tt>"
+#~ msgstr ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00017.html"
+#~ "\">wget-1.20.1 lançado [estável]</a>, <i>Tim Rühsen</i>, <tt>12:59</tt>"
+
+#~ msgid "<strong>December 24, 2018</strong>"
+#~ msgstr "<strong>24 de dezembro de 2018</strong>"
+
+#~ msgid "<strong>December 23, 2018</strong>"
+#~ msgstr "<strong>23 de dezembro de 2018</strong>"
+
+#~ msgid ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00015.html"
+#~ "\">GNU troff version 1.22.4</a>, <i>Bertrand Garrigues</i>, <tt>11:32</tt>"
+#~ msgstr ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00015.html"
+#~ "\">GNU troff versão 1.22.4</a>, <i>Bertrand Garrigues</i>, <tt>11:32</tt>"
+
+#~ msgid ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00014.html"
+#~ "\">GNU Datamash 1.4 released</a>, <i>Assaf Gordon</i>, <tt>09:26</tt>"
+#~ msgstr ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00014.html"
+#~ "\">GNU Datamash 1.4 lançado</a>, <i>Assaf Gordon</i>, <tt>09:26</tt>"
+
+#~ msgid ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00013.html"
+#~ "\">GDB 8.2.1 released!</a>, <i>Joel Brobecker</i>, <tt>09:26</tt>"
+#~ msgstr ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00013.html"
+#~ "\">GDB 8.2.1 lançado!</a>, <i>Joel Brobecker</i>, <tt>09:26</tt>"
+
+#~ msgid "<strong>December 21, 2018</strong>"
+#~ msgstr "<strong>21 de dezembro de 2018</strong>"
+
+#~ msgid ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00012.html"
+#~ "\">sed-4.7 released [stable]</a>, <i>Jim Meyering</i>, <tt>08:42</tt>"
+#~ msgstr ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00012.html"
+#~ "\">sed-4.7 lançado [estável]</a>, <i>Jim Meyering</i>, <tt>08:42</tt>"
+
+#~ msgid ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00011.html"
+#~ "\">grep-3.3 released [stable]</a>, <i>Jim Meyering</i>, <tt>08:42</tt>"
+#~ msgstr ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00011.html"
+#~ "\">grep-3.3 lançado [estável]</a>, <i>Jim Meyering</i>, <tt>08:42</tt>"
+
+#~ msgid "<strong>December 20, 2018</strong>"
+#~ msgstr "<strong>20 de dezembro de 2018</strong>"
+
+#~ msgid ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00010.html"
+#~ "\">gnun-0.12 released [stable]</a>, <i>Pavel Kharitonov</i>, <tt>17:47</"
+#~ "tt>"
+#~ msgstr ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00010.html"
+#~ "\">gnun-0.12 lançado [estável]</a>, <i>Pavel Kharitonov</i>, <tt>17:47</"
+#~ "tt>"
+
+#~ msgid ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00009.html"
+#~ "\">grep-3.2 released [stable]</a>, <i>Jim Meyering</i>, <tt>11:49</tt>"
+#~ msgstr ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00009.html"
+#~ "\">grep-3.2 lançado [estável]</a>, <i>Jim Meyering</i>, <tt>11:49</tt>"
+
+#~ msgid ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00008.html"
+#~ "\">sed-4.6 released [stable]</a>, <i>Jim Meyering</i>, <tt>08:30</tt>"
+#~ msgstr ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00008.html"
+#~ "\">sed-4.6 lançado [estável]</a>, <i>Jim Meyering</i>, <tt>08:30</tt>"
+
+#~ msgid "<strong>December 16, 2018</strong>"
+#~ msgstr "<strong>16 de dezembro de 2018</strong>"
+
+#~ msgid ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00007.html"
+#~ "\">GNU Mes 0.19 released</a>, <i>Jan Nieuwenhuizen</i>, <tt>16:13</tt>"
+#~ msgstr ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00007.html"
+#~ "\">GNU Mes 0.19 lançado</a>, <i>Jan Nieuwenhuizen</i>, <tt>16:13</tt>"
+
+#~ msgid "<strong>December 14, 2018</strong>"
+#~ msgstr "<strong>14 de dezembro de 2018</strong>"
+
+#~ msgid "<strong>December 09, 2018</strong>"
+#~ msgstr "<strong>09 de dezembro de 2018</strong>"
+
+#~ msgid ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00005.html"
+#~ "\">GNU mtools 4.0.23 released</a>, <i>Alain Knaff</i>, <tt>21:19</tt>"
+#~ msgstr ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00005.html"
+#~ "\">GNU mtools 4.0.23 lançado</a>, <i>Alain Knaff</i>, <tt>21:19</tt>"
+
+#~ msgid "<strong>December 06, 2018</strong>"
+#~ msgstr "<strong>06 de dezembro de 2018</strong>"
+
+#~ msgid ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00003.html"
+#~ "\">GNU Guix &amp; GuixSD 0.16.0 released</a>, <i>Ludovic Courtès</i>, "
+#~ "<tt>12:56</tt>"
+#~ msgstr ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00003.html"
+#~ "\">GNU Guix &amp; GuixSD 0.16.0 lançados</a>, <i>Ludovic Courtès</i>, "
+#~ "<tt>12:56</tt>"
+
+#~ msgid "<strong>December 04, 2018</strong>"
+#~ msgstr "<strong>04 de dezembro de 2018</strong>"
+
+#~ msgid ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00001.html"
+#~ "\">ANNOUNCE: Nettle-3.4.1</a>, <i>Niels Möller</i>, <tt>18:33</tt>"
+#~ msgstr ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00001.html"
+#~ "\">ANÚNCIO: Nettle-3.4.1</a>, <i>Niels Möller</i>, <tt>18:33</tt>"
+
+#~ msgid "<strong>December 02, 2018</strong>"
+#~ msgstr "<strong>02 de dezembro de 2018</strong>"
+
+#~ msgid ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00000.html"
+#~ "\">GNU mtools 4.0.22 released</a>, <i>Alain Knaff</i>, <tt>14:04</tt>"
+#~ msgstr ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-12/msg00000.html"
+#~ "\">GNU mtools 4.0.22 lançado</a>, <i>Alain Knaff</i>, <tt>14:04</tt>"
+
+#~ msgid "<strong>November 29, 2018</strong>"
+#~ msgstr "<strong>29 de novembro de 2018</strong>"
+
+#~ msgid "<strong>November 24, 2018</strong>"
+#~ msgstr "<strong>24 de novembro de 2018</strong>"
+
+#~ msgid ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-11/msg00010.html"
+#~ "\">GNU mtools 4.0.21 released</a>, <i>Alain Knaff</i>, <tt>09:11</tt>"
+#~ msgstr ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-11/msg00010.html"
+#~ "\">GNU mtools 4.0.21 lançado</a>, <i>Alain Knaff</i>, <tt>09:11</tt>"
+
+#~ msgid "<strong>November 19, 2018</strong>"
+#~ msgstr "<strong>19 de novembro de 2018</strong>"
+
+#~ msgid ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-11/msg00009.html"
+#~ "\">GNU OrgaDoc 1.0 Released</a>, <i>Adam Bilbrough</i>, <tt>18:16</tt>"
+#~ msgstr ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-11/msg00009.html"
+#~ "\">GNU OrgaDoc 1.0 lançado</a>, <i>Adam Bilbrough</i>, <tt>18:16</tt>"
+
+#~ msgid "<strong>November 11, 2018</strong>"
+#~ msgstr "<strong>11 de novembro de 2018</strong>"
+
+#~ msgid ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-11/msg00008.html"
+#~ "\">[ANNOUNCE] nano-3.2 is released</a>, <i>Benno Schulenberg</i>, "
+#~ "<tt>12:03</tt>"
+#~ msgstr ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-11/msg00008.html"
+#~ "\">[ANÚNCIO] nano-3.2 foi lançado</a>, <i>Benno Schulenberg</i>, "
+#~ "<tt>12:03</tt>"
+
+#~ msgid ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-11/msg00007.html"
+#~ "\">GNU mtools 4.0.20 released</a>, <i>Alain Knaff</i>, <tt>12:03</tt>"
+#~ msgstr ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-11/msg00007.html"
+#~ "\">GNU mtools 4.0.20 lançado</a>, <i>Alain Knaff</i>, <tt>12:03</tt>"
+
+#~ msgid "<strong>November 09, 2018</strong>"
+#~ msgstr "<strong>09 de novembro de 2018</strong>"
+
+#~ msgid ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-11/msg00006.html"
+#~ "\">IceCat 60.3.0 Release</a>, <i>Ruben Rodriguez</i>, <tt>16:32</tt>"
+#~ msgstr ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-11/msg00006.html"
+#~ "\">IceCat 60.3.0 lançado</a>, <i>Ruben Rodriguez</i>, <tt>16:32</tt>"
+
+#~ msgid "<strong>November 06, 2018</strong>"
+#~ msgstr "<strong>06 de novembro de 2018</strong>"
+
+#~ msgid ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-11/msg00003.html"
+#~ "\">GnuPG 2.2.11 released</a>, <i>Werner Koch</i>, <tt>09:04</tt>"
+#~ msgstr ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-11/msg00003.html"
+#~ "\">GnuPG 2.2.11 lançado</a>, <i>Werner Koch</i>, <tt>09:04</tt>"
+
+#~ msgid "<strong>November 05, 2018</strong>"
+#~ msgstr "<strong>05 de novembro de 2018</strong>"
+
+#~ msgid ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-11/msg00002.html"
+#~ "\">GNU Guile-CV 0.2.1 release</a>, <i>David Pirotte</i>, <tt>21:08</tt>"
+#~ msgstr ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-11/msg00002.html"
+#~ "\">GNU Guile-CV 0.2.1 lançado</a>, <i>David Pirotte</i>, <tt>21:08</tt>"
+
+#~ msgid "<strong>November 02, 2018</strong>"
+#~ msgstr "<strong>02 de novembro de 2018</strong>"
+
+#~ msgid ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-11/msg00001.html"
+#~ "\">LibreJS 7.18 released</a>, <i>Ruben Rodriguez</i>, <tt>12:00</tt>"
+#~ msgstr ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-11/msg00001.html"
+#~ "\">LibreJS 7.18 lançado</a>, <i>Ruben Rodriguez</i>, <tt>12:00</tt>"
+
+#~ msgid "<strong>November 01, 2018</strong>"
+#~ msgstr "<strong>01 de novembro de 2018</strong>"
+
+#~ msgid ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-11/msg00000.html"
+#~ "\">Emms 5.1 released</a>, <i>Yoni Rabkin</i>, <tt>15:48</tt>"
+#~ msgstr ""
+#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-11/msg00000.html"
+#~ "\">Emms 5.1 lançado</a>, <i>Yoni Rabkin</i>, <tt>15:48</tt>"
+
+#~ msgid "<strong>October 29, 2018</strong>"
+#~ msgstr "<strong>29 de outubro de 2018</strong>"
+
+#~ msgid "<strong>October 27, 2018</strong>"
+#~ msgstr "<strong>27 de outubro de 2018</strong>"
 
 #~ msgid ""
 #~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-10/msg00006.html"
@@ -362,7 +705,7 @@ msgstr ""
 #~ "\">GVPE 3.1 foi lançado</a>, <i>Marc Lehmann</i>, <tt>08:14</tt>"
 
 #~ msgid "<strong>October 26, 2018</strong>"
-#~ msgstr "<strong>26 de Outubro de 2018</strong>"
+#~ msgstr "<strong>26 de outubro de 2018</strong>"
 
 #~ msgid ""
 #~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-10/msg00004.html"
@@ -372,10 +715,10 @@ msgstr ""
 #~ "\">Libgcrypt 1.8.4 lançado</a>, <i>Werner Koch</i>, <tt>16:22</tt>"
 
 #~ msgid "<strong>October 24, 2018</strong>"
-#~ msgstr "<strong>24 de Outubro de 2018</strong>"
+#~ msgstr "<strong>24 de outubro de 2018</strong>"
 
 #~ msgid "<strong>October 22, 2018</strong>"
-#~ msgstr "<strong>22 de Outubro de 2018</strong>"
+#~ msgstr "<strong>22 de outubro de 2018</strong>"
 
 #~ msgid ""
 #~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-10/msg00001.html"
@@ -387,10 +730,10 @@ msgstr ""
 #~ "Stallman</i>, <tt>09:44</tt>"
 
 #~ msgid "<strong>October 07, 2018</strong>"
-#~ msgstr "<strong>07 de Outubro de 2018</strong>"
+#~ msgstr "<strong>07 de outubro de 2018</strong>"
 
 #~ msgid "<strong>September 29, 2018</strong>"
-#~ msgstr "<strong>29 de Setembro de 2018</strong>"
+#~ msgstr "<strong>29 de setembro de 2018</strong>"
 
 #~ msgid ""
 #~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-09/msg00011.html"
@@ -399,53 +742,23 @@ msgstr ""
 #~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-09/msg00011.html"
 #~ "\">Dragora 3.0-alpha2 lançado</a>, <i>Matias Fonzo</i>, <tt>21:48</tt>"
 
-#~ msgid ""
-#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-09/msg00009.html"
-#~ "\">ANN: StepSync 1.0</a>, <i>Riccardo Mottola</i>, <tt>08:19</tt>"
-#~ msgstr ""
-#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-09/msg00009.html"
-#~ "\">Anúncio: StepSync 1.0</a>, <i>Riccardo Mottola</i>, <tt>08:19</tt>"
-
 #~ msgid "<strong>September 25, 2018</strong>"
-#~ msgstr "<strong>25 de Setembro de 2018</strong>"
-
-#~ msgid ""
-#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-09/msg00008.html"
-#~ "\">dico-2.7 released [stable]</a>, <i>Sergey Poznyakoff</i>, <tt>12:57</"
-#~ "tt>"
-#~ msgstr ""
-#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-09/msg00008.html"
-#~ "\">dico-2.7 lançado [estável]</a>, <i>Sergey Poznyakoff</i>, <tt>12:57</"
-#~ "tt>"
+#~ msgstr "<strong>25 de setembro de 2018</strong>"
 
 #~ msgid "<strong>September 18, 2018</strong>"
-#~ msgstr "<strong>18 de Setembro de 2018</strong>"
+#~ msgstr "<strong>18 de setembro de 2018</strong>"
 
 #~ msgid "<strong>September 16, 2018</strong>"
-#~ msgstr "<strong>16 de Setembro de 2018</strong>"
-
-#~ msgid ""
-#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-09/msg00006.html"
-#~ "\">GNU xorriso 1.5.0 released</a>, <i>Thomas Schmitt</i>, <tt>16:52</tt>"
-#~ msgstr ""
-#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-09/msg00006.html"
-#~ "\">GNU xorriso 1.5.0 lançado</a>, <i>Thomas Schmitt</i>, <tt>16:52</tt>"
+#~ msgstr "<strong>16 de setembro de 2018</strong>"
 
 #~ msgid "<strong>September 13, 2018</strong>"
-#~ msgstr "<strong>13 de Setembro de 2018</strong>"
-
-#~ msgid ""
-#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-09/msg00005.html"
-#~ "\">LibreJS 7.17 released</a>, <i>Ruben Rodriguez</i>, <tt>18:54</tt>"
-#~ msgstr ""
-#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-09/msg00005.html"
-#~ "\">LibreJS 7.17 lançado</a>, <i>Ruben Rodriguez</i>, <tt>18:54</tt>"
+#~ msgstr "<strong>13 de setembro de 2018</strong>"
 
 #~ msgid "<strong>September 10, 2018</strong>"
-#~ msgstr "<strong>10 de Setembro de 2018</strong>"
+#~ msgstr "<strong>10 de setembro de 2018</strong>"
 
 #~ msgid "<strong>September 09, 2018</strong>"
-#~ msgstr "<strong>09 de Setembro de 2018</strong>"
+#~ msgstr "<strong>09 de setembro de 2018</strong>"
 
 #~ msgid ""
 #~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-09/msg00003.html"
@@ -457,7 +770,7 @@ msgstr ""
 #~ "<tt>08:46</tt>"
 
 #~ msgid "<strong>September 05, 2018</strong>"
-#~ msgstr "<strong>05 de Setembro de 2018</strong>"
+#~ msgstr "<strong>05 de setembro de 2018</strong>"
 
 #~ msgid ""
 #~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-09/msg00002.html"
@@ -476,10 +789,10 @@ msgstr ""
 #~ "<tt>13:51</tt>"
 
 #~ msgid "<strong>August 30, 2018</strong>"
-#~ msgstr "<strong>30 de Agosto de 2018</strong>"
+#~ msgstr "<strong>30 de agosto de 2018</strong>"
 
 #~ msgid "<strong>August 29, 2018</strong>"
-#~ msgstr "<strong>29 de Agosto de 2018</strong>"
+#~ msgstr "<strong>29 de agosto de 2018</strong>"
 
 #~ msgid ""
 #~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-08/msg00009.html"
@@ -491,75 +804,43 @@ msgstr ""
 #~ "i>, <tt>09:14</tt>"
 
 #~ msgid "<strong>August 28, 2018</strong>"
-#~ msgstr "<strong>28 de Agosto de 2018</strong>"
+#~ msgstr "<strong>28 de agosto de 2018</strong>"
 
 #~ msgid "<strong>August 27, 2018</strong>"
-#~ msgstr "<strong>27 de Agosto de 2018</strong>"
+#~ msgstr "<strong>27 de agosto de 2018</strong>"
 
 #~ msgid "<strong>August 26, 2018</strong>"
-#~ msgstr "<strong>26 de Agosto de 2018</strong>"
+#~ msgstr "<strong>26 de agosto de 2018</strong>"
 
 #~ msgid "<strong>August 21, 2018</strong>"
-#~ msgstr "<strong>21 de Agosto de 2018</strong>"
+#~ msgstr "<strong>21 de agosto de 2018</strong>"
 
 #~ msgid "<strong>August 15, 2018</strong>"
-#~ msgstr "<strong>15 de Agosto de 2018</strong>"
-
-#~ msgid ""
-#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-08/msg00004.html"
-#~ "\">GNU Octave 4.4.1 Released</a>, <i>John W. Eaton</i>, <tt>16:46</tt>"
-#~ msgstr ""
-#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-08/msg00004.html"
-#~ "\">GNU Octave 4.4.1 lançado</a>, <i>John W. Eaton</i>, <tt>16:46</tt>"
+#~ msgstr "<strong>15 de agosto de 2018</strong>"
 
 #~ msgid "<strong>August 12, 2018</strong>"
-#~ msgstr "<strong>12 de Agosto de 2018</strong>"
+#~ msgstr "<strong>12 de agosto de 2018</strong>"
 
 #~ msgid "<strong>August 08, 2018</strong>"
-#~ msgstr "<strong>08 de Agosto de 2018</strong>"
-
-#~ msgid ""
-#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-08/msg00002.html"
-#~ "\">Gnuastro 0.7 released</a>, <i>Mohammad Akhlaghi</i>, <tt>16:34</tt>"
-#~ msgstr ""
-#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-08/msg00002.html"
-#~ "\">Gnuastro 0.7 lançado</a>, <i>Mohammad Akhlaghi</i>, <tt>16:34</tt>"
+#~ msgstr "<strong>08 de agosto de 2018</strong>"
 
 #~ msgid "<strong>August 07, 2018</strong>"
-#~ msgstr "<strong>07 de Agosto de 2018</strong>"
+#~ msgstr "<strong>07 de agosto de 2018</strong>"
 
 #~ msgid "<strong>August 01, 2018</strong>"
-#~ msgstr "<strong>01 de Agosto de 2018</strong>"
-
-#~ msgid ""
-#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-08/msg00000.html"
-#~ "\">The GNU C Library version 2.28 is now available</a>, <i>Carlos "
-#~ "O'Donell</i>, <tt>08:34</tt>"
-#~ msgstr ""
-#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-08/msg00000.html"
-#~ "\">GNU C Library versão 2.28 está agora disponível</a>, <i>Carlos "
-#~ "O'Donell</i>, <tt>08:34</tt>"
+#~ msgstr "<strong>01 de agosto de 2018</strong>"
 
 #~ msgid "<strong>July 31, 2018</strong>"
-#~ msgstr "<strong>31 de Julho de 2018</strong>"
+#~ msgstr "<strong>31 de julho de 2018</strong>"
 
 #~ msgid "<strong>July 30, 2018</strong>"
-#~ msgstr "<strong>30 de Julho de 2018</strong>"
-
-#~ msgid ""
-#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-07/msg00009.html"
-#~ "\">gdbm-1.17 released [stable]</a>, <i>Sergey Poznyakoff</i>, <tt>17:54</"
-#~ "tt>"
-#~ msgstr ""
-#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-07/msg00009.html"
-#~ "\">gdbm-1.17 lançado [estável]</a>, <i>Sergey Poznyakoff</i>, <tt>17:54</"
-#~ "tt>"
+#~ msgstr "<strong>30 de julho de 2018</strong>"
 
 #~ msgid "<strong>July 26, 2018</strong>"
-#~ msgstr "<strong>26 de Julho de 2018</strong>"
+#~ msgstr "<strong>26 de julho de 2018</strong>"
 
 #~ msgid "<strong>July 19, 2018</strong>"
-#~ msgstr "<strong>19 de Julho de 2018</strong>"
+#~ msgstr "<strong>19 de julho de 2018</strong>"
 
 #~ msgid ""
 #~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-07/msg00007.html"
@@ -571,40 +852,22 @@ msgstr ""
 #~ "i>, <tt>18:16</tt>"
 
 #~ msgid "<strong>July 18, 2018</strong>"
-#~ msgstr "<strong>18 de Julho de 2018</strong>"
+#~ msgstr "<strong>18 de julho de 2018</strong>"
 
 #~ msgid "<strong>July 14, 2018</strong>"
-#~ msgstr "<strong>14 de Julho de 2018</strong>"
-
-#~ msgid ""
-#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-07/msg00005.html"
-#~ "\">FSF Binutils release 2.31 is now available</a>, <i>Nick Clifton</i>, "
-#~ "<tt>16:30</tt>"
-#~ msgstr ""
-#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-07/msg00005.html"
-#~ "\">FSF Binutils versão 2.31 está agora disponível</a>, <i>Nick Clifton</"
-#~ "i>, <tt>16:30</tt>"
+#~ msgstr "<strong>14 de julho de 2018</strong>"
 
 #~ msgid "<strong>July 13, 2018</strong>"
-#~ msgstr "<strong>13 de Julho de 2018</strong>"
+#~ msgstr "<strong>13 de julho de 2018</strong>"
 
 #~ msgid "<strong>July 12, 2018</strong>"
-#~ msgstr "<strong>12 de Julho de 2018</strong>"
+#~ msgstr "<strong>12 de julho de 2018</strong>"
 
 #~ msgid "<strong>July 06, 2018</strong>"
-#~ msgstr "<strong>06 de Julho de 2018</strong>"
+#~ msgstr "<strong>06 de julho de 2018</strong>"
 
 #~ msgid "<strong>July 02, 2018</strong>"
-#~ msgstr "<strong>02 de Julho de 2018</strong>"
-
-#~ msgid ""
-#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-07/msg00001.html"
-#~ "\">coreutils-8.30 released [stable]</a>, <i>Pádraig Brady</i>, <tt>10:57</"
-#~ "tt>"
-#~ msgstr ""
-#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-07/msg00001.html"
-#~ "\">coreutils-8.30 lançado [estável]</a>, <i>Pádraig Brady</i>, <tt>10:57</"
-#~ "tt>"
+#~ msgstr "<strong>02 de julho de 2018</strong>"
 
 #~ msgid ""
 #~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-07/msg00000.html"
@@ -614,7 +877,7 @@ msgstr ""
 #~ "\">GNU Guile 2.2.4 lançado</a>, <i>Ludovic Courtès</i>, <tt>10:57</tt>"
 
 #~ msgid "<strong>June 30, 2018</strong>"
-#~ msgstr "<strong>30 de Junho de 2018</strong>"
+#~ msgstr "<strong>30 de junho de 2018</strong>"
 
 #~ msgid ""
 #~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-06/msg00014.html"
@@ -626,7 +889,7 @@ msgstr ""
 #~ "<tt>18:24</tt>"
 
 #~ msgid "<strong>June 27, 2018</strong>"
-#~ msgstr "<strong>27 de Junho de 2018</strong>"
+#~ msgstr "<strong>27 de junho de 2018</strong>"
 
 #~ msgid ""
 #~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-06/msg00013.html"
@@ -638,27 +901,13 @@ msgstr ""
 #~ "tt>"
 
 #~ msgid "<strong>June 22, 2018</strong>"
-#~ msgstr "<strong>22 de Junho de 2018</strong>"
-
-#~ msgid ""
-#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-06/msg00012.html"
-#~ "\">Dr. Geo release 18.06</a>, <i>Hilaire Fernandes</i>, <tt>18:12</tt>"
-#~ msgstr ""
-#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-06/msg00012.html"
-#~ "\">Dr. Geo versão 18.06</a>, <i>Hilaire Fernandes</i>, <tt>18:12</tt>"
+#~ msgstr "<strong>22 de junho de 2018</strong>"
 
 #~ msgid "<strong>June 21, 2018</strong>"
-#~ msgstr "<strong>21 de Junho de 2018</strong>"
-
-#~ msgid ""
-#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-06/msg00011.html"
-#~ "\">New FreeDink web release</a>, <i>beuc</i>, <tt>11:51</tt>"
-#~ msgstr ""
-#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-06/msg00011.html"
-#~ "\">novo lançamento web do FreeDink</a>, <i>beuc</i>, <tt>11:51</tt>"
+#~ msgstr "<strong>21 de junho de 2018</strong>"
 
 #~ msgid "<strong>June 18, 2018</strong>"
-#~ msgstr "<strong>18 de Junho de 2018</strong>"
+#~ msgstr "<strong>18 de junho de 2018</strong>"
 
 #~ msgid ""
 #~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-06/msg00009.html"
@@ -670,7 +919,7 @@ msgstr ""
 #~ "<tt>08:25</tt>"
 
 #~ msgid "<strong>June 16, 2018</strong>"
-#~ msgstr "<strong>16 de Junho de 2018</strong>"
+#~ msgstr "<strong>16 de junho de 2018</strong>"
 
 #~ msgid ""
 #~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-06/msg00008.html"
@@ -682,7 +931,7 @@ msgstr ""
 #~ "tt>"
 
 #~ msgid "<strong>June 14, 2018</strong>"
-#~ msgstr "<strong>14 de Junho de 2018</strong>"
+#~ msgstr "<strong>14 de junho de 2018</strong>"
 
 #~ msgid ""
 #~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-06/msg00007.html"
@@ -694,7 +943,7 @@ msgstr ""
 #~ "<tt>16:58</tt>"
 
 #~ msgid "<strong>June 13, 2018</strong>"
-#~ msgstr "<strong>13 de Junho de 2018</strong>"
+#~ msgstr "<strong>13 de junho de 2018</strong>"
 
 #~ msgid ""
 #~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-06/msg00006.html"
@@ -706,7 +955,7 @@ msgstr ""
 #~ "Koch</i>, <tt>14:27</tt>"
 
 #~ msgid "<strong>June 08, 2018</strong>"
-#~ msgstr "<strong>08 de Junho de 2018</strong>"
+#~ msgstr "<strong>08 de junho de 2018</strong>"
 
 #~ msgid ""
 #~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-06/msg00005.html"
@@ -718,7 +967,7 @@ msgstr ""
 #~ "<i>Werner Koch</i>, <tt>12:33</tt>"
 
 #~ msgid "<strong>June 06, 2018</strong>"
-#~ msgstr "<strong>06 de Junho de 2018</strong>"
+#~ msgstr "<strong>06 de junho de 2018</strong>"
 
 #~ msgid ""
 #~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-06/msg00004.html"
@@ -730,38 +979,22 @@ msgstr ""
 #~ "<tt>16:16</tt>"
 
 #~ msgid "<strong>June 04, 2018</strong>"
-#~ msgstr "<strong>04 de Junho de 2018</strong>"
+#~ msgstr "<strong>04 de junho de 2018</strong>"
 
 #~ msgid "<strong>June 02, 2018</strong>"
-#~ msgstr "<strong>02 de Junho de 2018</strong>"
+#~ msgstr "<strong>02 de junho de 2018</strong>"
 
 #~ msgid "<strong>May 28, 2018</strong>"
-#~ msgstr "<strong>28 de Maio de 2018</strong>"
+#~ msgstr "<strong>28 de maio de 2018</strong>"
 
 #~ msgid "<strong>May 19, 2018</strong>"
-#~ msgstr "<strong>19 de Maio de 2018</strong>"
-
-#~ msgid ""
-#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-05/msg00012.html"
-#~ "\">GNU Gama 2.00 --- reporting a new release</a>, <i>Ales Cepek</i>, "
-#~ "<tt>19:24</tt>"
-#~ msgstr ""
-#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-05/msg00012.html"
-#~ "\">GNU Gama 2.00 --- relatando um novo lançamento</a>, <i>Ales Cepek</i>, "
-#~ "<tt>19:24</tt>"
+#~ msgstr "<strong>19 de maio de 2018</strong>"
 
 #~ msgid "<strong>May 18, 2018</strong>"
-#~ msgstr "<strong>18 de Maio de 2018</strong>"
-
-#~ msgid ""
-#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-05/msg00011.html"
-#~ "\">Libidn2 2.0.5 released</a>, <i>Tim Rühsen</i>, <tt>08:59</tt>"
-#~ msgstr ""
-#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-05/msg00011.html"
-#~ "\">Libidn2 2.0.5 lançado</a>, <i>Tim Rühsen</i>, <tt>08:59</tt>"
+#~ msgstr "<strong>18 de maio de 2018</strong>"
 
 #~ msgid "<strong>May 15, 2018</strong>"
-#~ msgstr "<strong>15 de Maio de 2018</strong>"
+#~ msgstr "<strong>15 de maio de 2018</strong>"
 
 #~ msgid ""
 #~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-05/msg00010.html"
@@ -773,44 +1006,25 @@ msgstr ""
 #~ "<tt>09:22</tt>"
 
 #~ msgid "<strong>May 11, 2018</strong>"
-#~ msgstr "<strong>11 de Maio de 2018</strong>"
+#~ msgstr "<strong>11 de maio de 2018</strong>"
 
 #~ msgid "<strong>May 07, 2018</strong>"
-#~ msgstr "<strong>07 de Maio de 2018</strong>"
-
-#~ msgid ""
-#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-05/msg00008.html"
-#~ "\">[ANN] GNU Artanis-0.2.5 stable released!</a>, <i>Nala Ginrut</i>, "
-#~ "<tt>16:39</tt>"
-#~ msgstr ""
-#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-05/msg00008.html"
-#~ "\">[ANN] GNU Artanis-0.2.5 estável lançado!</a>, <i>Nala Ginrut</i>, "
-#~ "<tt>16:39</tt>"
+#~ msgstr "<strong>07 de maio de 2018</strong>"
 
 #~ msgid "<strong>May 06, 2018</strong>"
-#~ msgstr "<strong>06 de Maio de 2018</strong>"
+#~ msgstr "<strong>06 de maio de 2018</strong>"
 
 #~ msgid "<strong>May 05, 2018</strong>"
-#~ msgstr "<strong>05 de Maio de 2018</strong>"
+#~ msgstr "<strong>05 de maio de 2018</strong>"
 
 #~ msgid "<strong>May 03, 2018</strong>"
-#~ msgstr "<strong>03 de Maio de 2018</strong>"
-
-#~ msgid ""
-#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-05/msg00005.html"
-#~ "\">FreeIPMI 1.6.2 Released</a>, <i>Albert Chu</i>, <tt>21:41</tt>"
-#~ msgstr ""
-#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-05/msg00005.html"
-#~ "\">FreeIPMI 1.6.2 lançado</a>, <i>Albert Chu</i>, <tt>21:41</tt>"
+#~ msgstr "<strong>03 de maio de 2018</strong>"
 
 #~ msgid "<strong>May 02, 2018</strong>"
-#~ msgstr "<strong>02 de Maio de 2018</strong>"
-
-#~ msgid "<strong>May 01, 2018</strong>"
-#~ msgstr "<strong>01 de Maio de 2018</strong>"
+#~ msgstr "<strong>02 de maio de 2018</strong>"
 
 #~ msgid "<strong>April 27, 2018</strong>"
-#~ msgstr "<strong>27 de Abril de 2018</strong>"
+#~ msgstr "<strong>27 de abril de 2018</strong>"
 
 #~ msgid ""
 #~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-04/msg00007.html"
@@ -822,7 +1036,7 @@ msgstr ""
 #~ "<tt>09:35</tt>"
 
 #~ msgid "<strong>April 16, 2018</strong>"
-#~ msgstr "<strong>16 de Abril de 2018</strong>"
+#~ msgstr "<strong>16 de abril de 2018</strong>"
 
 #~ msgid ""
 #~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-04/msg00006.html"
@@ -835,13 +1049,13 @@ msgstr ""
 #~ "tt>"
 
 #~ msgid "<strong>April 10, 2018</strong>"
-#~ msgstr "<strong>10 de Abril de 2018</strong>"
+#~ msgstr "<strong>10 de abril de 2018</strong>"
 
 #~ msgid "<strong>April 08, 2018</strong>"
-#~ msgstr "<strong>08 de Abril de 2018</strong>"
+#~ msgstr "<strong>08 de abril de 2018</strong>"
 
 #~ msgid "<strong>April 04, 2018</strong>"
-#~ msgstr "<strong>04 de Abril de 2018</strong>"
+#~ msgstr "<strong>04 de abril de 2018</strong>"
 
 #~ msgid ""
 #~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-04/msg00003.html"
@@ -852,7 +1066,7 @@ msgstr ""
 #~ "\">[GNUnet] gnURL 7.59.0 lançado</a>, <i>Nils Gillmann</i>, <tt>16:27</tt>"
 
 #~ msgid "<strong>April 02, 2018</strong>"
-#~ msgstr "<strong>02 de Abril de 2018</strong>"
+#~ msgstr "<strong>02 de abril de 2018</strong>"
 
 #~ msgid ""
 #~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-04/msg00001.html"
@@ -877,23 +1091,11 @@ msgstr ""
 #~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-03/msg00010.html"
 #~ "\">artanis-0.2.4 lançado [estável]</a>, <i>Nala Ginrut</i>, <tt>16:09</tt>"
 
-#~ msgid "<strong>March 16, 2018</strong>"
-#~ msgstr "<strong>16 de Março de 2018</strong>"
-
-#~ msgid ""
-#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-03/msg00007.html"
-#~ "\">autoconf-archive-2018.03.13 released [stable]</a>, <i>Peter Simons</"
-#~ "i>, <tt>13:52</tt>"
-#~ msgstr ""
-#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-03/msg00007.html"
-#~ "\">autoconf-archive-2018.03.13 lançado [estável]</a>, <i>Peter Simons</"
-#~ "i>, <tt>13:52</tt>"
-
 #~ msgid "<strong>March 14, 2018</strong>"
-#~ msgstr "<strong>14 de Março de 2018</strong>"
+#~ msgstr "<strong>14 de março de 2018</strong>"
 
 #~ msgid "<strong>March 12, 2018</strong>"
-#~ msgstr "<strong>12 de Março de 2018</strong>"
+#~ msgstr "<strong>12 de março de 2018</strong>"
 
 #~ msgid ""
 #~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-03/msg00003.html"
@@ -910,10 +1112,10 @@ msgstr ""
 #~ "\">[omitido]</a>"
 
 #~ msgid "<strong>February 28, 2018</strong>"
-#~ msgstr "<strong>28 de Fevereiro de 2018</strong>"
+#~ msgstr "<strong>28 de fevereiro de 2018</strong>"
 
 #~ msgid "<strong>February 27, 2018</strong>"
-#~ msgstr "<strong>27 de Fevereiro de 2018</strong>"
+#~ msgstr "<strong>27 de fevereiro de 2018</strong>"
 
 #~ msgid ""
 #~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-02/msg00009.html"
@@ -925,7 +1127,7 @@ msgstr ""
 #~ "Sellier</i>, <tt>22:34</tt>"
 
 #~ msgid "<strong>February 25, 2018</strong>"
-#~ msgstr "<strong>25 de Fevereiro de 2018</strong>"
+#~ msgstr "<strong>25 de fevereiro de 2018</strong>"
 
 #~ msgid ""
 #~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-02/msg00008.html"
@@ -935,24 +1137,13 @@ msgstr ""
 #~ "\">GNU Automake 1.16 lançado</a>, <i>Mathieu Lirzin</i>, <tt>23:21</tt>"
 
 #~ msgid "<strong>February 24, 2018</strong>"
-#~ msgstr "<strong>24 de Fevereiro de 2018</strong>"
-
-#~ msgid "<strong>February 22, 2018</strong>"
-#~ msgstr "<strong>22 de Fevereiro de 2018</strong>"
+#~ msgstr "<strong>24 de fevereiro de 2018</strong>"
 
 #~ msgid "<strong>February 19, 2018</strong>"
-#~ msgstr "<strong>19 de Fevereiro de 2018</strong>"
-
-#~ msgid ""
-#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-02/msg00004.html"
-#~ "\">GNU ddrescue 1.23 released</a>, <i>Antonio Diaz Diaz</i>, <tt>08:22</"
-#~ "tt>"
-#~ msgstr ""
-#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-02/msg00004.html"
-#~ "\">GNU ddrescue 1.23 lançado</a>, <i>Antonio Diaz Diaz</i>, <tt>08:22</tt>"
+#~ msgstr "<strong>19 de fevereiro de 2018</strong>"
 
 #~ msgid "<strong>February 16, 2018</strong>"
-#~ msgstr "<strong>16 de Fevereiro de 2018</strong>"
+#~ msgstr "<strong>16 de fevereiro de 2018</strong>"
 
 #~ msgid ""
 #~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-02/msg00003.html"
@@ -964,16 +1155,7 @@ msgstr ""
 #~ "<tt>08:38</tt>"
 
 #~ msgid "<strong>February 07, 2018</strong>"
-#~ msgstr "<strong>07 de Fevereiro de 2018</strong>"
-
-#~ msgid ""
-#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-02/msg00002.html"
-#~ "\">Announce: GNU MPFR 4.0.1 is released</a>, <i>Vincent Lefevre</i>, "
-#~ "<tt>13:50</tt>"
-#~ msgstr ""
-#~ "<a href=\"http://lists.gnu.org/archive/html/info-gnu/2018-02/msg00002.html"
-#~ "\">Anúncio: GNU MPFR 4.0.1 foi lançado</a>, <i>Vincent Lefevre</i>, "
-#~ "<tt>13:50</tt>"
+#~ msgstr "<strong>07 de fevereiro de 2018</strong>"
 
 #~ msgid "<strong>February 03, 2018</strong>"
-#~ msgstr "<strong>03 de Fevereiro de 2018</strong>"
+#~ msgstr "<strong>03 de fevereiro de 2018</strong>"

@@ -1,16 +1,16 @@
 # Brazilian Portuguese translation of https://www.gnu.org/philosophy/categories.html
-# Copyright (C) 2018 Free Software Foundation, Inc.
+# Copyright (C) 2019 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Nelson Ferraz <nferraz@insite.com.br>, 2002.
 # Dec 2014: GNUNify; protegado com copyleft > distribuído sob copyleft,
 # protegido por copyright > sujeito a copyright, etc. (T. Godefroy).
-# Rafael Fontenelle <rafaelff@gnome.org>, 2017, 2018.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017-2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: categories.html\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-01 05:58+0000\n"
-"PO-Revision-Date: 2018-01-18 09:26-0200\n"
+"POT-Creation-Date: 2019-02-21 01:56+0000\n"
+"PO-Revision-Date: 2019-02-21 21:27-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -177,16 +177,19 @@ msgid ""
 "more or less the same category as free software. It is not exactly the same "
 "class of software: they accept some licenses that we consider too "
 "restrictive, and there are free software licenses they have not accepted. "
-"However, the differences in extension of the category are small: nearly all "
-"free software is open source, and nearly all open source software is free."
+"However, the differences in extension of the category are small: we know of "
+"only a few cases of source code that is open source but not free.  In "
+"principle it could happen that some free programs are rejected as open "
+"source, but we don't know if that has ever happened."
 msgstr ""
 "O termo software de “código aberto” é usado por algumas pessoas para dizer "
 "mais ou menos a mesma coisa que software livre. Isso não é exatamente a "
 "mesma classe de software: eles aceitam algumas licenças que nós consideramos "
 "restritivas demais, e há licenças de software livre que eles não aceitaram. "
-"Porém, as diferenças na extensão da categoria são pequenas: quase todo "
-"software livre é código aberto, e quase todo software de código aberto é "
-"livre."
+"Porém, as diferenças na extensão da categoria são pequenas: sabemos de "
+"apenas alguns casos em que código-fonte que é código aberto não é livre. Em "
+"princípio, pode acontecer de alguns programas livres serem rejeitados como "
+"código aberto, mas não sabemos se isso já aconteceu."
 
 #. type: Content of: <p>
 msgid ""
@@ -868,10 +871,10 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid ""
 "Copyright &copy; 1996, 1997, 1998, 2001, 2006, 2007, 2009, 2010, 2014, 2015, "
-"2016, 2017, 2018 Free Software Foundation, Inc."
+"2016, 2017, 2018, 2019 Free Software Foundation, Inc."
 msgstr ""
 "Copyright &copy; 1996, 1997, 1998, 2001, 2006, 2007, 2009, 2010, 2014, 2015, "
-"2016, 2017, 2018 Free Software Foundation, Inc."
+"2016, 2017, 2018, 2019 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -892,7 +895,8 @@ msgstr ""
 "<a href=\"mailto:nferraz@insite.com.br\">&lt;nferraz@insite.com.br&gt;</a>, "
 "2002;\n"
 "Rafael Fontenelle\n"
-"<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, 2017"
+"<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, "
+"2017-2019"
 
 #.  timestamp start 
 #. type: Content of: <div><p>

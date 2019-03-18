@@ -1,12 +1,12 @@
 # Brazilian Portuguese translation of https://www.gnu.org/graphics/dog.html
-# Copyright (C) 2016 Free Software Foundation, Inc.
+# Copyright (C) 2019 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2016, 2017.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2016, 2017, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: dog.html\n"
-"POT-Creation-Date: 2016-08-25 08:55+0000\n"
-"PO-Revision-Date: 2017-03-12 15:50-0200\n"
+"POT-Creation-Date: 2019-02-07 15:56+0000\n"
+"PO-Revision-Date: 2019-02-08 16:51-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -24,11 +24,23 @@ msgstr "Imagem de Cachorro - Projeto GNU - Free Software Foundation"
 msgid "Dog Cartoon"
 msgstr "Imagem de Cachorro"
 
-#. type: Attribute 'alt' of: <div><img>
-msgid "[Dog, wondering at pop-up ads]"
-msgstr "[Cachorro, em dúvida sobre umas propagandas]"
-
 #. type: Content of: <p>
+msgid "by Richard Stallman and Antonomakia"
+msgstr "por Richard Stallman e Antonomakia"
+
+#. type: Content of: <div><div><a>
+msgid "<a href=\"/graphics/dog.small.jpg\">"
+msgstr "<a href=\"/graphics/dog.small.jpg\">"
+
+#. type: Attribute 'alt' of: <div><div><a><img>
+msgid "&nbsp;[Dog, wondering at pop-up ads]&nbsp;"
+msgstr "&nbsp;[Cachorro, em dúvida sobre umas propagandas]&nbsp;"
+
+#. type: Content of: <div><div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><p>
 msgid ""
 "A cute beagle is sitting by his computer, which shows pop-up ads for a yummy "
 "bone, a dog toy, and a comfortable-looking doggy bed. These ads partially "
@@ -45,27 +57,27 @@ msgstr ""
 "apenas na imagem grande). O cachorro está se perguntando <em>“Como eles "
 "descobriram que eu sou um cachorro”</em>"
 
-#. type: Content of: <p>
-msgid "This picture is available in the following formats:"
-msgstr "Essa imagem está disponível nos seguintes formatos:"
-
-#. type: Content of: <ul><li>
-msgid "small jpg <a href=\"/graphics/dog.small.jpg\">58kB</a>"
-msgstr "jpg pequeno <a href=\"/graphics/dog.small.jpg\">58kB</a>"
-
-#. type: Content of: <ul><li>
-msgid "large jpg <a href=\"https://stallman.org/images/dog.jpg\">6.5MB</a>"
-msgstr "jpg grande <a href=\"https://stallman.org/images/dog.jpg\">6,5MB</a>"
-
-#. type: Content of: <p>
+#. type: Content of: <div><ul><li>
 msgid ""
-"It is released under the <a rel=\"license\" href=\"http://creativecommons."
-"org/licenses/by-nd/4.0/\">Creative Commons Attribution-NoDerivs 4.0 "
-"International License</a>."
+"JPEG&nbsp; <a href=\"/graphics/dog.small.jpg\">58kB</a> (600x464),&nbsp; <a "
+"href=\"https://stallman.org/images/dog.jpg\">6.5MB</a>&nbsp;(3300x2550)"
 msgstr ""
-"Ela foi lançada sob uma licença <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Atribuição-"
-"SemDerivações 4.0 Internacional</a>."
+"JPEG&nbsp; <a href=\"/graphics/dog.small.jpg\">58kB</a> (600x464),&nbsp; <a "
+"href=\"https://stallman.org/images/dog.jpg\">6.5MB</a>&nbsp;(3300x2550)"
+
+#. type: Content of: <div><div><p>
+msgid "Copyright &copy; 2014 Richard Stallman and Antonomakia"
+msgstr "Copyright &copy; 2014 Richard Stallman and Antonomakia"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"This image is available under the <a rel=\"license\" href=\"https://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Essa imagem está disponível sob a licença <a rel=\"license\" href=\"https://"
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -112,27 +124,56 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2014, 2016 Richard Stallman and Antonomakia"
-msgstr "Copyright &copy; 2014, 2016 Richard Stallman e Antonomakia"
+msgid ""
+"<em>Page text:</em>&nbsp; Copyright &copy; 2019 Free Software Foundation, "
+"Inc."
+msgstr ""
+"<em>Texto da página:</em>&nbsp; Copyright &copy; 2019 Free Software "
+"Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
-"This image is available for use under the terms of the <a rel=\"license\" "
-"href=\"http://creativecommons.org/licenses/by-nd/4.0/\">Creative Commons "
-"Attribution-NoDerivs 4.0 International License</a>."
+"Available under the <a rel=\"license\" href=\"https://creativecommons.org/"
+"licenses/by-nd/4.0/\">Creative Commons Attribution-NoDerivatives 4.0 "
+"International License</a>."
 msgstr ""
-"Essa imagem está disponível sob os termos da licença <a rel=\"license\" href="
-"\"http://creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative "
-"Commons Atribuição-SemDerivações 4.0 Internacional</a>."
+"Disponível sob a licença <a rel=\"license\" href=\"https://creativecommons."
+"org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons Atribuição-"
+"SemDerivações 4.0 Internacional</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "<b>Tradução:</b> Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
-"rafaelff@gnome.org&gt;</a>"
+"rafaelff@gnome.org&gt;</a>, 2016, 2017, 2019"
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização: "
+
+#~ msgid "This picture is available in the following formats:"
+#~ msgstr "Essa imagem está disponível nos seguintes formatos:"
+
+#~ msgid "large jpg <a href=\"https://stallman.org/images/dog.jpg\">6.5MB</a>"
+#~ msgstr ""
+#~ "jpg grande <a href=\"https://stallman.org/images/dog.jpg\">6,5MB</a>"
+
+#~ msgid ""
+#~ "It is released under the <a rel=\"license\" href=\"http://creativecommons."
+#~ "org/licenses/by-nd/4.0/\">Creative Commons Attribution-NoDerivs 4.0 "
+#~ "International License</a>."
+#~ msgstr ""
+#~ "Ela foi lançada sob uma licença <a rel=\"license\" href=\"http://"
+#~ "creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Atribuição-"
+#~ "SemDerivações 4.0 Internacional</a>."
+
+#~ msgid ""
+#~ "This image is available for use under the terms of the <a rel=\"license\" "
+#~ "href=\"http://creativecommons.org/licenses/by-nd/4.0/\">Creative Commons "
+#~ "Attribution-NoDerivs 4.0 International License</a>."
+#~ msgstr ""
+#~ "Essa imagem está disponível sob os termos da licença <a rel=\"license\" "
+#~ "href=\"http://creativecommons.org/licenses/by-nd/4.0/deed.pt_BR"
+#~ "\">Creative Commons Atribuição-SemDerivações 4.0 Internacional</a>."

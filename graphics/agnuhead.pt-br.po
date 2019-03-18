@@ -1,12 +1,12 @@
 # Brazilian Portuguese translation of https://www.gnu.org/graphics/agnuhead.html
-# Copyright (C) 2018 Free Software Foundation, Inc.
+# Copyright (C) 2019 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2017, 2018.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017-2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: agnuhead.html\n"
-"POT-Creation-Date: 2018-01-01 05:57+0000\n"
-"PO-Revision-Date: 2018-01-18 13:32-0200\n"
+"POT-Creation-Date: 2019-03-09 16:26+0000\n"
+"PO-Revision-Date: 2019-03-12 09:32-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -17,38 +17,43 @@ msgstr ""
 "X-Generator: Virtaal 1.0.0-beta1\n"
 
 #. type: Content of: <title>
-msgid "A GNU Head - GNU Project - Free Software Foundation"
-msgstr "A Cabeça de um GNU - Projeto GNU - Free Software Foundation"
+msgid "A GNU Head by Etienne Suvasa - GNU Project - Free Software Foundation"
+msgstr ""
+"Uma Cabeça de GNU por Etienne Suvasa - Projeto GNU - Free Software Foundation"
 
 #. type: Content of: <h2>
 msgid "A GNU Head"
-msgstr "A cabeça de um GNU"
-
-#. type: Content of: <p><a>
-msgid "<a href=\"/graphics/gnu-head-sm.jpg\">"
-msgstr "<a href=\"/graphics/gnu-head-sm.jpg\">"
-
-#. type: Attribute 'alt' of: <p><a><img>
-msgid "[Image of the head of a GNU]"
-msgstr "[Imagem de uma cabeça de um GNU]"
+msgstr "Uma Cabeça de GNU"
 
 #. type: Content of: <p>
+msgid "by Etienne Suvasa"
+msgstr "por Etienne Suvasa"
+
+#. type: Content of: <div><p>
+msgid ""
+"You may prefer to use the <a href=\"/graphics/heckert_gnu.html\">Bold GNU "
+"Head</a>, which is the version now used by the Free Software Foundation on "
+"any new GNU-emblem items and stickers."
+msgstr ""
+"Você pode preferir usar a <a href=\"/graphics/heckert_gnu.html\">Cabeça "
+"Estilizada de GNU</a>, a qual é a versão agora usada pela Free Software "
+"Foundation em quaisquer itens de emblemas e adesivos do GNU."
+
+#. type: Content of: <div><div><a>
+msgid "<a href=\"/graphics/gerwinski-gnu-head.png\">"
+msgstr "<a href=\"/graphics/gerwinski-gnu-head.png\">"
+
+#. type: Attribute 'alt' of: <div><div><a><img>
+msgid "&nbsp;[Image of the head of a GNU]&nbsp;"
+msgstr "&nbsp;[Imagem de uma cabeça de GNU]&nbsp;"
+
+#. type: Content of: <div><div>
 msgid "</a>"
 msgstr "</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"You may prefer to use <a href=\"/graphics/heckert_gnu.html\">a bold GNU "
-"Head</a>, which is the version now used by the Free Software Foundation on "
-"any new GNU-emblem items, and stickers."
-msgstr ""
-"Você pode preferir usar <a href=\"/graphics/heckert_gnu.html\">a cabeça "
-"estilizada de um GNU</a>, a qual é a versão agora usada pela Free Software "
-"Foundation em quaisquer itens de emblemas e adesivos do GNU."
-
-#. type: Content of: <p>
-msgid ""
-"A handsome GNU Head with typical beard and smart-looking curled horns.  He "
+"A handsome GNU head with typical beard and smart-looking curled horns.  He "
 "or she appears to be smiling contentedly with its works as of yet, but it "
 "still gazes off into the distance."
 msgstr ""
@@ -56,166 +61,148 @@ msgstr ""
 "ondulados. Ele ou ela parece estar sorrindo contente com seu trabalho como "
 "está, mas permanece observando a distância."
 
-#. type: Content of: <p>
-msgid "This image is available in the following formats:"
-msgstr "Essa imagem está disponível nos seguintes formatos:"
-
-#. type: Content of: <ul><li>
+#. type: Content of: <div><p>
 msgid ""
-"JPEG <a href=\"/graphics/gnu-head-sm.jpg\">7kB</a>, <a href=\"/graphics/gnu-"
-"head.jpg\">21kB</a>"
+"This image was the default art for pages on this website, including <a href="
+"\"/\">GNU's home page</a>. It was also used on the front of the 1997 <a href="
+"\"https://shop.fsf.org/collection/gnu-gear#Tshirts\">GNU t-shirt</a>, and "
+"the spine of many <a href=\"https://shop.fsf.org/collection/books-docs\">GNU "
+"manuals</a>."
 msgstr ""
-"JPEG <a href=\"/graphics/gnu-head-sm.jpg\">7kB</a>, <a href=\"/graphics/gnu-"
-"head.jpg\">21kB</a>"
+"Esta imagem era a arte padrão para páginas neste site, incluindo a <a href="
+"\"/\">página inicial do GNU</a>. Ela também era usada na frente da <a href="
+"\"https://shop.fsf.org/collection/gnu-gear#Tshirts\">camisa GNU</a> de 1997 "
+"e no cabeçalho de muitos <a href=\"https://shop.fsf.org/collection/books-docs"
+"\">manuais do GNU</a>."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><dl><dt>
+msgid "Original image"
+msgstr "Imagem original"
+
+#. type: Content of: <div><dl><dd><p>
 msgid ""
-"PNG <a href=\"/graphics/gnu-head-sm.png\">2kB</a>, <a href=\"/graphics/gnu-"
-"head.png\">6kB</a>, <a href=\"/graphics/gerwinski-gnu-head.png\">566kB</a>"
+"It was drawn by Etienne Suvasa, who has also done several covers for FSF "
+"publications."
 msgstr ""
-"PNG <a href=\"/graphics/gnu-head-sm.png\">2kB</a>, <a href=\"/graphics/gnu-"
-"head.png\">6kB</a>, <a href=\"/graphics/gerwinski-gnu-head.png\">566kB</a>"
+"Ela foi desenhada por Etienne Suvasa, que também fez várias capas para as "
+"publicações da FSF."
 
-#. type: Content of: <ul><li>
-msgid "PDF <a href=\"/graphics/gnu-head.pdf\">41kB</a>"
-msgstr "PDF <a href=\"/graphics/gnu-head.pdf\">41kB</a>"
-
-#. type: Content of: <ul><li>
-msgid "ASCII (txt) <a href=\"gnu-head.txt\">5kB</a>"
-msgstr "ASCII (txt) <a href=\"gnu-head.txt\">5kB</a>"
-
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dd><ul><li>
 msgid ""
-"This Head of a GNU was the default art for pages on this web site including "
-"<a href=\"/home.html\">GNU's home page</a>."
+"PNG&nbsp; <a href=\"/graphics/gnu-head-sm.png\">2kB</a> (129x122),&nbsp; <a "
+"href=\"/graphics/gnu-head.png\">5kB</a> (276x261)"
 msgstr ""
-"Esta cabeça de um GNU é a arte padrão para páginas neste site incluindo a <a "
-"href=\"/home.html\">página inicial do GNU</a>."
+"PNG&nbsp; <a href=\"/graphics/gnu-head-sm.png\">2kB</a> (129x122),&nbsp; <a "
+"href=\"/graphics/gnu-head.png\">5kB</a> (276x261)"
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dd><ul><li>
 msgid ""
-"It was also used on the front of the 1997 <a href=\"https://shop.fsf.org/"
-"collection/gnu-gear#Tshirts\">GNU T-shirt</a>. It is also on the spine of "
-"many <a href=\"https://shop.fsf.org/collection/books-docs\">GNU Manuals</a>."
+"JPEG&nbsp; <a href=\"/graphics/gnu-head-sm.jpg\">5kB</a> (129x122),&nbsp; <a "
+"href=\"/graphics/gnu-head.jpg\">18kB</a> (276x261)"
 msgstr ""
-"Ela também era usada na frente da <a href=\"https://shop.fsf.org/collection/"
-"gnu-gear#Tshirts\">camisa GNU</a> de 1997. Ela também está no cabeçalho de "
-"muitos <a href=\"https://shop.fsf.org/collection/books-docs\">Manuais GNU</"
-"a>."
+"JPEG&nbsp; <a href=\"/graphics/gnu-head-sm.jpg\">5kB</a> (129x122),&nbsp; <a "
+"href=\"/graphics/gnu-head.jpg\">18kB</a> (276x261)"
 
-#. type: Content of: <h3>
-msgid "Licensing"
-msgstr "Licenciamento"
+#. type: Content of: <div><dl><dt>
+msgid "Redrawn version"
+msgstr "Versão redesenhada"
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dd><p>
+msgid "The original image was enlarged and redrawn by Peter Gerwinski."
+msgstr "A imagem original foi aumentada e redesenhada por Peter Gerwinski."
+
+#. type: Content of: <div><dl><dd><ul><li>
 msgid ""
-"This image is available for use under either the <a href=\"/licenses/fdl.html"
-"\">GFDL 1.3</a>, <a href=\"http://directory.fsf.org/wiki/License:"
-"FAL1.3\">the Free Art License</a>, or under <a href=\"http://directory.fsf."
-"org/wiki/License:CC_ASA2.0\"> CC-BY-SA 2.0</a>.  It is, however, also a "
-"trademark for the GNU Project.  <strong>If you want to use the GNU head to "
-"link to a website run by the Free Software Foundation or the GNU project, "
-"feel free, or if you're using it in contexts talking about GNU in a "
-"supportive and accurate way, you can also do this without permission. For "
-"any other requests, please ask <a href=\"mailto:licensing@fsf.org"
-"\">licensing@fsf.org</a> for permission first.</strong>"
+"PNG&nbsp; <a href=\"/graphics/gerwinski-gnu-head.png\">292kB</a> (1200x1200)"
 msgstr ""
-"Essa imagem também está disponível para uso sob a <a href=\"/licenses/fdl."
-"html\">GFDL 1.3</a>, <a href=\"http://directory.fsf.org/wiki/License:"
-"FAL1.3\">a Licença de Arte Livre</a> ou sob <a href=\"http://directory.fsf."
-"org/wiki/License:CC_ASA2.0\"> CC-BY-SA 2.0</a>. Ela também é, porém, uma "
-"marca registrada do Projeto GNU. <strong>Se você deseja usar a cabeça de GNU "
-"para vincular a um site mantido pela Free Software Foundation ou pelo "
-"projeto GNU, sinta-se à vontade; ou se você está usando-a em contextos de "
-"conversa sobre GNU em uma forma precisa e de apoio, você também pode fazer "
-"isso sem precisar solicitar permissão. Para qualquer outras requisições, por "
-"favor, peça <a href=\"mailto:licensing@fsf.org\">licensing@fsf.org</a> para "
-"permissão primeiro.</strong>"
+"PNG&nbsp; <a href=\"/graphics/gerwinski-gnu-head.png\">292kB</a> (1200x1200)"
 
-#. type: Content of: <h3>
-msgid "Attribution"
-msgstr "Atribuição"
-
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dd><ul><li>
 msgid ""
-"This graphic was drawn by Etienne Suvasa, who has also done several covers "
-"for FSF publications."
+"JPEG on <a href=\"https://commons.wikimedia.org/wiki/File:Gerwinski-gnu-head."
+"jpg\"> Wikimedia Commons</a>"
 msgstr ""
-"Este gráfico foi desenhado por Etienne Suvasa, que também fez várias capas "
-"para as publicações da FSF."
+"JPEG no <a href=\"https://commons.wikimedia.org/wiki/File:Gerwinski-gnu-head."
+"jpg\"> Wikimedia Commons</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dd><ul><li>
 msgid ""
-"We also would like to thank Peter Gerwinski for the 1200x1200 PNG version of "
-"this image, and Arlo Barnes for the PDF version."
+"SVG&nbsp; <a href=\"/graphics/official%20gnu.svg\">135kB</a>, vectorized by "
+"Victor Siame"
 msgstr ""
-"Nós também gostaríamos de agradecer Peter Gerwinski pela versão PNG "
-"1200x1200 desta imagem, e Arlo Barnes pela versão PDF."
+"SVG&nbsp; <a href=\"/graphics/official%20gnu.svg\">135kB</a>, vetorizada por "
+"Victor Siame"
 
-#. type: Content of: <h3>
-msgid "Variations"
-msgstr "Variações"
-
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dd><ul><li>
 msgid ""
-"Dustin Jorge made a nice wallpaper inspired by this GNU head. He spent some "
-"time researching copyright for a paper he had to do for a class. In the "
-"meantime he made this desktop. It is available in the following formats:"
+"SVG&nbsp; <a href=\"/graphics/gnuhead_plain.svg\">185kB</a>, vectorized by "
+"Ville Solarius and Ruud Steltenpool"
 msgstr ""
-"Dustin Jorge fez um bom papel de parede inspirado nesta cabeça GNU. Ele "
-"passou algum tempo pesquisando copyrights para um artigo que ele tinha que "
-"fazer para uma aula. Enquanto isso, ele fez esse desktop. Está disponível "
-"nos seguintes formatos:"
+"SVG&nbsp; <a href=\"/graphics/gnuhead_plain.svg\">185kB</a>, vetorizada por "
+"Ville Solarius e Ruud Steltenpool"
 
-#. type: Content of: <ul><li>
-msgid "PNG <a href=\"/graphics/gnublue.png\">503kB</a>"
-msgstr "PNG <a href=\"/graphics/gnublue.png\">503kB</a>"
-
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dd><ul><li>
 msgid ""
-"Ville Solarius has come up with the following variations of the GNU Head in "
-"the SVG format:"
+"PDF&nbsp; <a href=\"/graphics/gnu-head.pdf\">73kB</a>, made by Arlo Barnes"
 msgstr ""
-"Ville Solarius apresentou as seguintes variações da Cabeça de GNU no formato "
-"SVG:"
+"PDF&nbsp; <a href=\"/graphics/gnu-head.pdf\">73kB</a>, feita por Arlo Barnes"
 
-#. type: Content of: <ul><li>
-msgid "Plain <a href=\"/graphics/gnuhead_plain.svg\">99.2k</a>"
-msgstr "Simples <a href=\"/graphics/gnuhead_plain.svg\">99.2k</a>"
-
-#. type: Content of: <ul><li>
-msgid "Inkscape <a href=\"/graphics/gnuhead_inkscape.svg\">99.2k</a>"
-msgstr "Inkscape <a href=\"/graphics/gnuhead_inkscape.svg\">99.2k</a>"
-
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dd><ul><li>
 msgid ""
-"<a href=\"mailto:ripley@salug.it\">Ripley</a> added the slogan \"Your "
-"Passion. Our Potential.\" to the <a href=\"/graphics/gnupassion.svg.gz\">GNU "
-"head</a>."
+"XCF and vectorized EPS on <a href=\"http://www.gerwinski.de/~anja/gnuart/a-"
+"gnu-head/index.html\">Anja Gerwinski's website</a>"
 msgstr ""
-"<a href=\"mailto:ripley@salug.it\">Ripley</a> adicionou o slogan “Sua "
-"paixão. Nosso potencial.” à <a href=\"/graphics/gnupassion.svg.gz\">cabeça "
-"de GNU</a>."
+"XCF e EPS vetorizado on <a href=\"http://www.gerwinski.de/~anja/gnuart/a-gnu-"
+"head/index.html\">Anja Gerwinski's website</a>"
 
-#. type: Content of: <p>
-msgid ""
-"A set of colorful GNU heads by <a href=\"mailto:"
-"johnmwooten@youspeakmylanguage.com\">John M. Wooten</a>:"
-msgstr ""
-"Uma coleção de cabeças do GNU coloridas por <a href=\"mailto:"
-"johnmwooten@youspeakmylanguage.com\">John M. Wooten</a>:"
+#. type: Content of: <div><dl><dt>
+msgid "ASCII version"
+msgstr "Versão ASCII"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><dl><dd><p>
+msgid "It was made by SpAwN for ASCII-only terminals."
+msgstr "Foi feita por SpAwN para terminais somente ASCII."
+
+#. type: Content of: <div><dl><dd><ul><li>
+msgid "TXT&nbsp; <a href=\"/graphics/gnu-head.txt\">5kB</a>"
+msgstr "TXT&nbsp; <a href=\"/graphics/gnu-head.txt\">5kB</a>"
+
+#. type: Content of: <div><div><p>
+msgid "Copyright &copy; 1996 Etienne Suvasa"
+msgstr "Copyright &copy; 1996 Etienne Suvasa"
+
+#. type: Content of: <div><div><p>
 msgid ""
-"<a href=\"/graphics/gnuwooblk.png\">Black</a> | <a href=\"/graphics/"
-"gnuwoogrn.png\">Green</a> | <a href=\"/graphics/gnuwoored.png\">Red</a> | <a "
-"href=\"/graphics/gnuwoowht.png\">White</a> | <a href=\"/graphics/gnuwooylw."
-"png\">Yellow</a>"
+"These images are available under the <a rel=\"license\" href=\"/licenses/"
+"fdl-1.3.html\">GNU Free Documentation License</a> v1.3, or the <a rel="
+"\"license\" href=\"https://directory.fsf.org/wiki/License:FAL1.3\">Free Art "
+"License</a>, or the <a rel=\"license\" href=\"https://directory.fsf.org/wiki/"
+"License:CC_ASA2.0\">Creative Commons Attribution-ShareAlike 2.0 License</a>."
 msgstr ""
-"<a href=\"/graphics/gnuwooblk.png\">Preto</a> | <a href=\"/graphics/"
-"gnuwoogrn.png\">Verde</a> | <a href=\"/graphics/gnuwoored.png\">Vermelho</a> "
-"| <a href=\"/graphics/gnuwoowht.png\">Branco</a> | <a href=\"/graphics/"
-"gnuwooylw.png\">Amarelo</a>"
+"Essas imagens estão disponíveis sob a <a rel=\"license\" href=\"/licenses/"
+"fdl-1.3.html\">Licença de Documentação Livre GNU</a> v1.3, ou a <a rel="
+"\"license\" href=\"https://directory.fsf.org/wiki/License:FAL1.3\">Licença "
+"de Arte Livre</a>, ou a <a rel=\"license\" href=\"https://directory.fsf.org/"
+"wiki/License:CC_ASA2.0\">Licença Creative Commons Atribuição-"
+"CompartilhaIgual 2.0</a>."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"The GNU head is, however, also a trademark for the GNU Project.  <strong>If "
+"you want to use the GNU head to link to a website run by the Free Software "
+"Foundation or the GNU project, feel free, or if you're using it in contexts "
+"talking about GNU in a supportive and accurate way, you can also do this "
+"without permission.  For any other requests, please ask &lt;<a href=\"mailto:"
+"licensing@fsf.org\">licensing@fsf.org</a>&gt; for permission first.</strong>"
+msgstr ""
+"A cabeça de GNU também é, porém, uma marca registrada do Projeto GNU. "
+"<strong>Se você deseja usar a cabeça de GNU para vincular a um site mantido "
+"pela Free Software Foundation ou pelo projeto GNU, sinta-se à vontade; ou se "
+"você está usando-a em contextos de conversa sobre GNU em uma forma precisa e "
+"de apoio, você também pode fazer isso sem precisar solicitar permissão. Para "
+"qualquer outras requisições, por favor, peça &lt;<a href=\"mailto:"
+"licensing@fsf.org\">licensing@fsf.org</a>&gt; para permissão primeiro.</"
+"strong>"
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -263,30 +250,130 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2007, 2013, 2014, 2015, 2017, 2018 Free Software "
-"Foundation, Inc."
+"<em>Page text:</em>&nbsp; Copyright &copy; 2019 Free Software Foundation, "
+"Inc."
 msgstr ""
-"Copyright &copy; 2007, 2013, 2014, 2015, 2017, 2018 Free Software "
+"<em>Texto da página:</em>&nbsp; Copyright &copy; 2019 Free Software "
 "Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
-"This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
-"NoDerivatives 4.0 International License</a>."
+"Available under the <a rel=\"license\" href=\"https://creativecommons.org/"
+"licenses/by-nd/4.0/\">Creative Commons Attribution-NoDerivatives 4.0 "
+"International License</a>."
 msgstr ""
-"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
-"Atribuição-SemDerivações 4.0 Internacional</a>."
+"Disponível sob uma licença <a rel=\"license\" href=\"https://creativecommons."
+"org/licenses/by-nd/4.0/\">Creative Commons Atribuição-SemDerivações 4.0 "
+"Internacional</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Rafael Fontenelle\n"
-"<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, 2017"
+"Traduzido por: Rafael Fontenelle\n"
+"<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, "
+"2017-2019."
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização: "
+
+#~ msgid "This image is available in the following formats:"
+#~ msgstr "Essa imagem está disponível nos seguintes formatos:"
+
+#~ msgid ""
+#~ "PNG <a href=\"/graphics/gnu-head-sm.png\">2kB</a>, <a href=\"/graphics/"
+#~ "gnu-head.png\">6kB</a>, <a href=\"/graphics/gerwinski-gnu-head.png"
+#~ "\">566kB</a>"
+#~ msgstr ""
+#~ "PNG <a href=\"/graphics/gnu-head-sm.png\">2kB</a>, <a href=\"/graphics/"
+#~ "gnu-head.png\">6kB</a>, <a href=\"/graphics/gerwinski-gnu-head.png"
+#~ "\">566kB</a>"
+
+#~ msgid "ASCII (txt) <a href=\"gnu-head.txt\">5kB</a>"
+#~ msgstr "ASCII (txt) <a href=\"gnu-head.txt\">5kB</a>"
+
+#~ msgid ""
+#~ "This Head of a GNU was the default art for pages on this web site "
+#~ "including <a href=\"/home.html\">GNU's home page</a>."
+#~ msgstr ""
+#~ "Esta cabeça de um GNU é a arte padrão para páginas neste site incluindo a "
+#~ "<a href=\"/home.html\">página inicial do GNU</a>."
+
+#~ msgid "Licensing"
+#~ msgstr "Licenciamento"
+
+#~ msgid "Attribution"
+#~ msgstr "Atribuição"
+
+#~ msgid ""
+#~ "We also would like to thank Peter Gerwinski for the 1200x1200 PNG version "
+#~ "of this image, and Arlo Barnes for the PDF version."
+#~ msgstr ""
+#~ "Nós também gostaríamos de agradecer Peter Gerwinski pela versão PNG "
+#~ "1200x1200 desta imagem, e Arlo Barnes pela versão PDF."
+
+#~ msgid "Variations"
+#~ msgstr "Variações"
+
+#~ msgid ""
+#~ "Dustin Jorge made a nice wallpaper inspired by this GNU head. He spent "
+#~ "some time researching copyright for a paper he had to do for a class. In "
+#~ "the meantime he made this desktop. It is available in the following "
+#~ "formats:"
+#~ msgstr ""
+#~ "Dustin Jorge fez um bom papel de parede inspirado nesta cabeça GNU. Ele "
+#~ "passou algum tempo pesquisando copyrights para um artigo que ele tinha "
+#~ "que fazer para uma aula. Enquanto isso, ele fez esse desktop. Está "
+#~ "disponível nos seguintes formatos:"
+
+#~ msgid "PNG <a href=\"/graphics/gnublue.png\">503kB</a>"
+#~ msgstr "PNG <a href=\"/graphics/gnublue.png\">503kB</a>"
+
+#~ msgid ""
+#~ "Ville Solarius has come up with the following variations of the GNU Head "
+#~ "in the SVG format:"
+#~ msgstr ""
+#~ "Ville Solarius apresentou as seguintes variações da Cabeça de GNU no "
+#~ "formato SVG:"
+
+#~ msgid "Plain <a href=\"/graphics/gnuhead_plain.svg\">99.2k</a>"
+#~ msgstr "Simples <a href=\"/graphics/gnuhead_plain.svg\">99.2k</a>"
+
+#~ msgid "Inkscape <a href=\"/graphics/gnuhead_inkscape.svg\">99.2k</a>"
+#~ msgstr "Inkscape <a href=\"/graphics/gnuhead_inkscape.svg\">99.2k</a>"
+
+#~ msgid ""
+#~ "<a href=\"mailto:ripley@salug.it\">Ripley</a> added the slogan \"Your "
+#~ "Passion. Our Potential.\" to the <a href=\"/graphics/gnupassion.svg.gz"
+#~ "\">GNU head</a>."
+#~ msgstr ""
+#~ "<a href=\"mailto:ripley@salug.it\">Ripley</a> adicionou o slogan “Sua "
+#~ "paixão. Nosso potencial.” à <a href=\"/graphics/gnupassion.svg.gz"
+#~ "\">cabeça de GNU</a>."
+
+#~ msgid ""
+#~ "A set of colorful GNU heads by <a href=\"mailto:"
+#~ "johnmwooten@youspeakmylanguage.com\">John M. Wooten</a>:"
+#~ msgstr ""
+#~ "Uma coleção de cabeças do GNU coloridas por <a href=\"mailto:"
+#~ "johnmwooten@youspeakmylanguage.com\">John M. Wooten</a>:"
+
+#~ msgid ""
+#~ "<a href=\"/graphics/gnuwooblk.png\">Black</a> | <a href=\"/graphics/"
+#~ "gnuwoogrn.png\">Green</a> | <a href=\"/graphics/gnuwoored.png\">Red</a> | "
+#~ "<a href=\"/graphics/gnuwoowht.png\">White</a> | <a href=\"/graphics/"
+#~ "gnuwooylw.png\">Yellow</a>"
+#~ msgstr ""
+#~ "<a href=\"/graphics/gnuwooblk.png\">Preto</a> | <a href=\"/graphics/"
+#~ "gnuwoogrn.png\">Verde</a> | <a href=\"/graphics/gnuwoored.png\">Vermelho</"
+#~ "a> | <a href=\"/graphics/gnuwoowht.png\">Branco</a> | <a href=\"/graphics/"
+#~ "gnuwooylw.png\">Amarelo</a>"
+
+#~ msgid ""
+#~ "Copyright &copy; 2007, 2013, 2014, 2015, 2017, 2018 Free Software "
+#~ "Foundation, Inc."
+#~ msgstr ""
+#~ "Copyright &copy; 2007, 2013, 2014, 2015, 2017, 2018 Free Software "
+#~ "Foundation, Inc."

@@ -1,15 +1,15 @@
 # Brazilian Portuguese translation of http://www.gnu.org/philosophy/surveillance-vs-democracy.html
-# Copyright (C) 2018 Free Software Foundation, Inc.
+# Copyright (C) 2019 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2016-2018.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2016-2019.
 # Paulo Francisco Slomp <slomp@ufrgs.br>, 2016. (proofread)
 # Daniel Pimentel <d4n1@d4n1.org>, 2017. (proofread)
 # André Phellip Ferreira <werewolf@cyberdude.com>, 2017. (proofread)
 msgid ""
 msgstr ""
 "Project-Id-Version: surveillance-vs-democracy.html\n"
-"POT-Creation-Date: 2018-11-19 22:26+0000\n"
-"PO-Revision-Date: 2018-11-22 06:08-0200\n"
+"POT-Creation-Date: 2019-02-21 01:56+0000\n"
+"PO-Revision-Date: 2019-02-21 21:18-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -795,8 +795,10 @@ msgstr "Remédio para Vigilância em Viagens"
 #. type: Content of: <div><div><p>
 msgid ""
 "We must convert digital toll collection to anonymous payment (using digital "
-"cash, for instance).  License-plate recognition systems recognize all "
-"license plates, and the <a href=\"http://news.bbc.co.uk/2/hi/programmes/"
+"cash, for instance).  License-plate recognition systems <a href=\"https://"
+"www.eff.org/deeplinks/2018/11/eff-and-muckrock-release-records-and-data-200-"
+"law-enforcement-agencies-automated\"> recognize all cars' license plates</"
+"a>, and the <a href=\"http://news.bbc.co.uk/2/hi/programmes/"
 "whos_watching_you/8064333.stm\">data can be kept indefinitely</a>; they "
 "should be required by law to notice and record only those license numbers "
 "that are on a list of cars sought by court orders.  A less secure "
@@ -806,8 +808,10 @@ msgid ""
 msgstr ""
 "Nós devemos converter pagamento eletrônico de pedágios para pagamento "
 "anônimo (usando dinheiro digital, por exemplo). Sistemas de reconhecimento "
-"de placas reconhece a placa dos veículos e os <a href=\"http://news.bbc.co."
-"uk/2/hi/programmes/whos_watching_you/8064333.stm\">dados podem ser mantidos "
+"de placas <a href=\"https://www.eff.org/deeplinks/2018/11/eff-and-muckrock-"
+"release-records-and-data-200-law-enforcement-agencies-automated\"> "
+"reconhecem todas as placas</a> e os <a href=\"http://news.bbc.co.uk/2/hi/"
+"programmes/whos_watching_you/8064333.stm\">dados podem ser mantidos "
 "indefinidamente</a>; deveria haver obrigação legal de avisar e armazenar "
 "apenas os números das licenças que estão em uma lista de carros conforme "
 "ordens judiciais. Um alternativa menos segura seria armazenar registro de "
@@ -1172,13 +1176,13 @@ msgstr ""
 "A explicação do espaço em branco em “PAT RIOT” foi dada por Richard Stallman "
 "em sua entrevista em 12 de novembro de 2012 a Hacker Public Radio (Ver <a "
 "href=\"/philosophy/speeches-and-interview.html\">Discursos e Entrevistas</"
-"a>). Exatamente aos 1h 13' 40\", ele deixou registrado o motivo pelo qual "
-"não se pode chamar tal ato de “Ato Patriótico” (USA Patriot): o título "
-"completo do Ato em questão é <i>Uniting and Strengthening America by "
-"Providing Appropriate Tools Required to Intercept and Obstruct Terrorism "
-"Act</i> (em português, ato de união e fortalecimento fornecendo ferramentas "
-"necessárias e apropriadas para interceptar e obstruir terrorismo), abreviada "
-"sob o acrônimo “USAPATRIOT Act”; por se tratar de um acrônimo, temos todo o "
+"a>). Exatamente aos 1h 13' 40“, ele deixou registrado o motivo pelo qual não "
+"se pode chamar tal ato de “Ato Patriótico” (USA Patriot): o título completo "
+"do Ato em questão é <i>Uniting and Strengthening America by Providing "
+"Appropriate Tools Required to Intercept and Obstruct Terrorism Act</i> (em "
+"português, ato de união e fortalecimento fornecendo ferramentas necessárias "
+"e apropriadas para interceptar e obstruir terrorismo), abreviada sob o "
+"acrônimo “USAPATRIOT Act”; por se tratar de um acrônimo, temos todo o "
 "direito de dividir entre P.A.T. e R.I.O.T., o que muda a pronúncia e evita a "
 "referência a patriotismo. Acrescentando que, <i>riot</i> significa “revolta” "
 "e <i>Pat riot</i> faz referência ao grito da torcida da equipe de futebol "
@@ -1224,8 +1228,8 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2015, 2016, 2017, 2018 Richard Stallman"
-msgstr "Copyright &copy; 2015, 2016, 2017, 2018 Richard Stallman"
+msgid "Copyright &copy; 2015, 2016, 2017, 2018, 2019 Richard Stallman"
+msgstr "Copyright &copy; 2015, 2016, 2017, 2018, 2019 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""

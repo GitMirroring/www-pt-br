@@ -1,20 +1,21 @@
 # Brazilian Portuguese translation of http://www.gnu.org/help/help-hardware.html
 # Copyright (C) 2018 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2018.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018-2019.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: help-hardware.html\n"
-"POT-Creation-Date: 2014-04-05 00:01+0000\n"
-"PO-Revision-Date: 2018-05-30 13:18-0300\n"
+"POT-Creation-Date: 2019-01-25 10:26+0000\n"
+"PO-Revision-Date: 2019-01-29 10:00-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 1.0.0-beta1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 3.31.0\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -39,40 +40,65 @@ msgstr ""
 "donations@gnu.org\">&lt;hardware-donations@gnu.org&gt;</a>."
 
 #. type: Content of: <ul><li>
-msgid "Modern rackmount server and workstation computers."
+msgid ""
+"Computers (and other devices) listed in <a href=\"https://ryf.fsf.org\">ryf."
+"fsf.org</a>."
 msgstr ""
-"Servidores de montagem em rack e computadores de estação de trabalho "
-"modernos."
-
-#. type: Content of: <ul><li>
-msgid "Monitors that support 1600x1200 or better resolution (or LCD panels)."
-msgstr ""
-"Monitores com suporte a uma resolução de 1600x1200 ou melhor (ou painéis "
-"LCD)."
-
-#. type: Content of: <ul><li>
-msgid "Three-year-old or newer laptop computers."
-msgstr "Computadores laptops de três anos atrás ou mais novos."
-
-#. type: Content of: <ul><li>
-msgid "10/100 or gigabit managed ethernet switches."
-msgstr "Switches Ethernet gerenciáveis 10/100 ou gigabit."
+"Computadores (e outros dispositivos) listados em <a href=\"https://ryf.fsf."
+"org\">ryf.fsf.org</a>."
 
 #. type: Content of: <ul><li>
 msgid ""
-"Three-year-old or newer Postscript printers, and printers that work with <a "
-"href=\"/software/ghostscript/\">GNU Ghostscript</a>."
+"Modern rackmount server chassis for Extended-ATX motherboards (without "
+"motherboard, unless RYF certified, see above)."
 msgstr ""
-"Impressoras PostScript de três anos atrás ou mais novas, e impressoras que "
-"funcionam com <a href=\"/software/ghostscript/\">GNU Ghostscript</a>."
+"Chassi moderno de servidor para montagem em rack para placas-mãe Extended-"
+"ATX (sem a placa-mãe, a menos que seja certificada pela RYF, veja acima)."
+
+#. type: Content of: <ul><li>
+msgid "Monitors that support 1600x1200 or better resolution."
+msgstr "Monitores com suporte a uma resolução de 1600x1200 ou melhor."
+
+#. type: Content of: <ul><li>
+msgid "Gigabit or 10gbps unmanaged ethernet switches."
+msgstr "Switches Ethernet não gerenciáveis gigabit e 10gbps."
+
+#. type: Content of: <ul><li>
+msgid ""
+"PostScript printers that are fully-free-software-compatible, and printers "
+"that work with GNU Ghostscript."
+msgstr ""
+"Impressoras PostScript que possuem completa compatibilidade com software "
+"livre e impressoras que funcionam com GNU Ghostscript."
 
 #. type: Content of: <ul><li>
 msgid "Uninterruptible power supplies with good batteries."
 msgstr "No-break com boas baterias."
 
 #. type: Content of: <ul><li>
-msgid "A T1 router and CSU/DSU."
-msgstr "Um roteador T1 e CSU/DSU."
+msgid "New large (4TB or bigger) hard drives, or new SSD drives."
+msgstr ""
+"Disco rígidos novos de alta capacidade (4TB ou maior) ou novas unidades SSD."
+
+#. type: Content of: <ul><li>
+msgid "Asterisk-compatible, analog telephony cards."
+msgstr "Placas de telefonia analógica compatível com Asterisk."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Analog A/V equipment such as microphones, mixers, cables, stands, etc. "
+"Lighting and photographic equipment."
+msgstr ""
+"Equipamento de A/V analógico como microfones, mixers, cabos, etc. "
+"Equipamento de iluminação e fotografia."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Devices listed as fully-free-software-compatible on <a href=\"https://h-node."
+"org\">h-node.org</a>."
+msgstr ""
+"Dispositivos listados como tendo completa compatibilidade com software livre "
+"no <a href=\"https://h-node.org\">h-node.org</a>."
 
 #. type: Content of: <p>
 msgid ""
@@ -146,30 +172,48 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2001, 2007, 2009, 2012, 2013, 2014 Free Software "
+"Copyright &copy; 2001, 2007, 2009, 2012, 2013, 2014, 2019 Free Software "
 "Foundation, Inc."
 msgstr ""
-"Copyright &copy; 2001, 2007, 2009, 2012, 2013, 2014 Free Software "
+"Copyright &copy; 2001, 2007, 2009, 2012, 2013, 2014, 2019 Free Software "
 "Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
-"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
-"rafaelff@gnome.org&gt;</a>, 2018."
+"rafaelff@gnome.org&gt;</a>, 2018, 2019."
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização: "
+
+#~ msgid "Modern rackmount server and workstation computers."
+#~ msgstr ""
+#~ "Servidores de montagem em rack e computadores de estação de trabalho "
+#~ "modernos."
+
+#~ msgid "Three-year-old or newer laptop computers."
+#~ msgstr "Computadores laptops de três anos atrás ou mais novos."
+
+#~ msgid ""
+#~ "Three-year-old or newer Postscript printers, and printers that work with "
+#~ "<a href=\"/software/ghostscript/\">GNU Ghostscript</a>."
+#~ msgstr ""
+#~ "Impressoras PostScript de três anos atrás ou mais novas, e impressoras "
+#~ "que funcionam com <a href=\"/software/ghostscript/\">GNU Ghostscript</a>."
+
+#~ msgid "A T1 router and CSU/DSU."
+#~ msgstr "Um roteador T1 e CSU/DSU."

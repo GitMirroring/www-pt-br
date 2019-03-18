@@ -1,15 +1,15 @@
 # Brazilian Portuguese translation of https://www.gnu.org/graphics/license-logos.html
-# Copyright (C) 2018 Free Software Foundation, Inc.
+# Copyright (C) 2019 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnu.org article.
 # Rafael Beraldo <rberaldo@cabaladada.org>, 2012.
 # João António Arantes Golçalves <jaagoncalves@gmail.com>, 2012.
 # May 2014: trivial update (T. Godefroy).
-# Rafael Fontenelle <rafaelff@gnome.org>, 2018.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: license-logos.html\n"
-"POT-Creation-Date: 2018-08-24 15:25+0000\n"
-"PO-Revision-Date: 2018-08-26 13:36-0200\n"
+"POT-Creation-Date: 2019-03-09 16:26+0000\n"
+"PO-Revision-Date: 2019-03-12 10:23-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -26,45 +26,31 @@ msgstr "Logos das Licenças GNU - Projeto GNU - Free Software Foundation"
 #. type: Content of: <style>
 #, no-wrap
 msgid ""
-"table#license-logos {\n"
-"  border: none;\n"
-"  text-align: center;\n"
-"  margin: 0 auto;\n"
-"  width: 90%;\n"
-"  clear: both;\n"
+"table#license-logos td {\n"
+"   text-align: center;\n"
+"   vertical-align: middle;\n"
 "}\n"
-"\n"
-"table#license-logos td, table#license-logos th {\n"
-"  text-align: center;\n"
-"  vertical-align: middle;\n"
-"}\n"
-"\n"
-"table#license-logos th {\n"
-"  font-weight: bold;\n"
+"table#license-logos img {\n"
+"   margin-bottom: .5em;\n"
 "}\n"
 msgstr ""
-"table#license-logos {\n"
-"  border: none;\n"
-"  text-align: center;\n"
-"  margin: 0 auto;\n"
-"  width: 90%;\n"
-"  clear: both;\n"
+"table#license-logos td {\n"
+"   text-align: center;\n"
+"   vertical-align: middle;\n"
 "}\n"
-"\n"
-"table#license-logos td, table#license-logos th {\n"
-"  text-align: center;\n"
-"  vertical-align: middle;\n"
-"}\n"
-"\n"
-"table#license-logos th {\n"
-"  font-weight: bold;\n"
+"table#license-logos img {\n"
+"   margin-bottom: .5em;\n"
 "}\n"
 
 #. type: Content of: <h2>
 msgid "GNU License Logos"
 msgstr "Logos das Licenças GNU"
 
-#. type: Content of: <p>
+#. type: Content of: <div><h3>
+msgid "Official logos"
+msgstr "Logos oficiais"
+
+#. type: Content of: <div><p>
 msgid ""
 "If you are releasing work under the <a href=\"/licenses/fdl.html\">GFDL</a>, "
 "or version 3 of the GNU <a href=\"/licenses/gpl.html\">GPL</a>, <a href=\"/"
@@ -76,167 +62,295 @@ msgstr ""
 "Se você está publicando trabalhos sob a <a href=\"/licenses/fdl.html\">GFDL</"
 "a>, ou a versão 3 da GNU <a href=\"/licenses/gpl.html\">GPL</a>, <a href=\"/"
 "licenses/lgpl.html\">LGPL</a>, ou <a href=\"/licenses/agpl.html\">AGPL</a>, "
-"sinta-se a vontade para usar essas imagens no seu site ou na sua aplicação "
+"sinta-se à vontade para usar essas imagens no seu site ou em seu aplicativo "
 "para divulgar a licença. Esses logos são imediatamente reconhecíveis e "
 "assegurarão a seus usuários que sua liberdade está sendo protegida."
 
-#. type: Content of: <p>
-msgid ""
-"Here are some vector versions: <a href=\"gpl-v3-logo.svg\">GPLv3 SVG</a>, <a "
-"href=\"lgpl-agpl-v3-logos.svg\">LGPLv3 and AGPLv3 SVG</a>, <a href=\"gfdl-"
-"logo.svg\">GFDL SVG</a>."
+#. type: Content of: <div><table><tr><td>
+msgid "GFDL logo"
+msgstr "Logo da GFDL"
+
+#. type: Content of: <div><table><tr><td>
+msgid "by Martin Owens"
+msgstr "por Martin Owens"
+
+#. type: Content of: <div><table><tr><td>
+msgid "GPL, LGPL and AGPL logos"
+msgstr "Logos das licenças GPL, LGPL e AGPL"
+
+#. type: Content of: <div><table><tr><td>
+msgid "PNG&nbsp; <a href=\"/graphics/gfdl-logo-large.png\">38kB</a> (1000x342)"
 msgstr ""
-"Aqui estão algumas versões em vetores: <a href=\"gpl-v3-logo.svg\">GPLv3 "
-"SVG</a>, <a href=\"lgpl-agpl-v3-logos.svg\">LGPLv3 e AGPLv3 SVG</a>, <a href="
-"\"gfdl-logo.svg\">GFDL SVG</a>."
+"PNG&nbsp; <a href=\"/graphics/gfdl-logo-large.png\">38kB</a> (1000x342)"
 
-#. type: Content of: <table><tr><td><a>
-msgid "<a href=\"gplv3-with-text-136x68.png\">"
-msgstr "<a href=\"gplv3-with-text-136x68.png\">"
+#. type: Content of: <div><table><tr><td><a>
+msgid "<a href=\"/graphics/gplv3-with-text-136x68.png\">"
+msgstr "<a href=\"/graphics/gplv3-with-text-136x68.png\">"
 
-#. type: Attribute 'alt' of: <table><tr><td><a><img>
-msgid "[Large GPLv3 logo with &ldquo;Free as in Freedom&rdquo;]"
+#. type: Attribute 'alt' of: <div><table><tr><td><a><img>
+msgid "&nbsp;[Large GPLv3 logo with &ldquo;Free as in Freedom&rdquo;]&nbsp;"
 msgstr ""
-"[Logo grande da GPLv3 com “Free as in Freedom”, que significa “Livre como em "
-"Liberdade” em inglês]"
+"&nbsp;[Logo grande da GPLv3 com “Free as in Freedom”, que significa “Livre "
+"como em Liberdade” em inglês]&nbsp;"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div>
 msgid "</a>"
 msgstr "</a>"
 
-#. type: Content of: <table><tr><td><a>
-msgid "<a href=\"lgplv3-with-text-154x68.png\">"
-msgstr "<a href=\"lgplv3-with-text-154x68.png\">"
+#. type: Content of: <div><table><tr><td>
+msgid "PNG&nbsp; 6.6kB (136x68)"
+msgstr "PNG&nbsp; 6.6kB (136x68)"
 
-#. type: Attribute 'alt' of: <table><tr><td><a><img>
-msgid "[Large LGPLv3 logo with &ldquo;Free as in Freedom&rdquo;]"
+#. type: Content of: <div><table><tr><td><a>
+msgid "<a href=\"/graphics/lgplv3-with-text-154x68.png\">"
+msgstr "<a href=\"/graphics/lgplv3-with-text-154x68.png\">"
+
+#. type: Attribute 'alt' of: <div><table><tr><td><a><img>
+msgid "&nbsp;[Large LGPLv3 logo with &ldquo;Free as in Freedom&rdquo;]&nbsp;"
 msgstr ""
-"[Logo grande da LGPLv3 com “Free as in Freedom”, que significa “Livre como "
-"em Liberdade” em inglês]"
+"&nbsp;[Logo grande da LGPLv3 com “Free as in Freedom”, que significa “Livre "
+"como em Liberdade” em inglês]&nbsp;"
 
-#. type: Content of: <table><tr><td><a>
-msgid "<a href=\"agplv3-with-text-162x68.png\">"
-msgstr "<a href=\"agplv3-with-text-162x68.png\">"
+#. type: Content of: <div><table><tr><td>
+msgid "PNG&nbsp; 7.3kB (154x68)"
+msgstr "PNG&nbsp; 7.3kB (154x68)"
 
-#. type: Attribute 'alt' of: <table><tr><td><a><img>
-msgid "[Large GNU AGPLv3 logo with &ldquo;Free as in Freedom&rdquo;]"
+#. type: Content of: <div><table><tr><td><a>
+msgid "<a href=\"/graphics/agplv3-with-text-162x68.png\">"
+msgstr "<a href=\"/graphics/agplv3-with-text-162x68.png\">"
+
+#. type: Attribute 'alt' of: <div><table><tr><td><a><img>
+msgid ""
+"&nbsp;[Large GNU AGPLv3 logo with &ldquo;Free as in Freedom&rdquo;]&nbsp;"
 msgstr ""
-"[Logo grande da GNU AGPLv3 com “Free as in Freedom”, que significa “Livre "
-"como em Liberdade” em inglês]"
+"&nbsp;[Logo grande da GNU AGPLv3 com “Free as in Freedom”, que significa "
+"“Livre como em Liberdade” em inglês]&nbsp;"
 
-#. type: Content of: <table><tr><td><a>
-msgid "<a href=\"gplv3-with-text-84x42.png\">"
-msgstr "<a href=\"gplv3-with-text-84x42.png\">"
+#. type: Content of: <div><table><tr><td>
+msgid "PNG&nbsp; 8.5kB (162x68)"
+msgstr "PNG&nbsp; 8.5kB (162x68)"
 
-#. type: Attribute 'alt' of: <table><tr><td><a><img>
-msgid "[Small GPLv3 logo with &ldquo;Free as in Freedom&rdquo;]"
+#. type: Content of: <div><table><tr><td>
+msgid "PNG&nbsp; <a href=\"/graphics/gfdl-logo-med.png\">15kB</a> (400x137)"
+msgstr "PNG&nbsp; <a href=\"/graphics/gfdl-logo-med.png\">15kB</a> (400x137)"
+
+#. type: Content of: <div><table><tr><td><a>
+msgid "<a href=\"/graphics/gplv3-with-text-84x42.png\">"
+msgstr "<a href=\"/graphics/gplv3-with-text-84x42.png\">"
+
+#. type: Attribute 'alt' of: <div><table><tr><td><a><img>
+msgid "&nbsp;[Small GPLv3 logo with &ldquo;Free as in Freedom&rdquo;]&nbsp;"
 msgstr ""
-"[Logo pequeno da GPLv3 com “Free as in Freedom”, que significa “Livre como "
-"em Liberdade” em inglês]"
+"&nbsp;[Logo pequeno da GPLv3 com “Free as in Freedom”, que significa “Livre "
+"como em Liberdade” em inglês]&nbsp;"
 
-#. type: Content of: <table><tr><td><a>
-msgid "<a href=\"lgplv3-with-text-95x42.png\">"
-msgstr "<a href=\"lgplv3-with-text-95x42.png\">"
+#. type: Content of: <div><table><tr><td>
+msgid "PNG&nbsp; 3.3kB (84x42)"
+msgstr "PNG&nbsp; 3.3kB (84x42)"
 
-#. type: Attribute 'alt' of: <table><tr><td><a><img>
-msgid "[Small LGPLv3 logo with &ldquo;Free as in Freedom&rdquo;]"
+#. type: Content of: <div><table><tr><td><a>
+msgid "<a href=\"/graphics/lgplv3-with-text-95x42.png\">"
+msgstr "<a href=\"/graphics/lgplv3-with-text-95x42.png\">"
+
+#. type: Attribute 'alt' of: <div><table><tr><td><a><img>
+msgid "&nbsp;[Small LGPLv3 logo with &ldquo;Free as in Freedom&rdquo;]&nbsp;"
 msgstr ""
-"[Logo pequeno da LGPLv3 com “Free as in Freedom”, que significa “Livre como "
-"em Liberdade” em inglês]"
+"&nbsp;[Logo pequeno da LGPLv3 com “Free as in Freedom”, que significa “Livre "
+"como em Liberdade” em inglês]&nbsp;"
 
-#. type: Content of: <table><tr><td><a>
-msgid "<a href=\"agplv3-with-text-100x42.png\">"
-msgstr "<a href=\"agplv3-with-text-100x42.png\">"
+#. type: Content of: <div><table><tr><td>
+msgid "PNG&nbsp; 3.7kB (95x42)"
+msgstr "PNG&nbsp; 3.7kB (95x42)"
 
-#. type: Attribute 'alt' of: <table><tr><td><a><img>
-msgid "[Small GNU AGPLv3 logo with &ldquo;Free as in Freedom&rdquo;]"
+#. type: Content of: <div><table><tr><td><a>
+msgid "<a href=\"/graphics/agplv3-with-text-100x42.png\">"
+msgstr "<a href=\"/graphics/agplv3-with-text-100x42.png\">"
+
+#. type: Attribute 'alt' of: <div><table><tr><td><a><img>
+msgid ""
+"&nbsp;[Small GNU AGPLv3 logo with &ldquo;Free as in Freedom&rdquo;]&nbsp;"
 msgstr ""
-"[Logo pequeno da GNU AGPLv3 com “Free as in Freedom”, que significa “Livre "
-"como em Liberdade” em inglês]"
+"&nbsp;[Logo pequeno da GNU AGPLv3 com “Free as in Freedom”, que significa "
+"“Livre como em Liberdade” em inglês]&nbsp;"
 
-#. type: Content of: <table><tr><td><a>
-msgid "<a href=\"gplv3-127x51.png\">"
-msgstr "<a href=\"gplv3-127x51.png\">"
+#. type: Content of: <div><table><tr><td>
+msgid "PNG&nbsp; 4.0kB (100x42)"
+msgstr "PNG&nbsp; 4.0kB (100x42)"
 
-#. type: Attribute 'alt' of: <table><tr><td><a><img>
-msgid "[Large GPLv3 logo]"
-msgstr "[Logo grande da GPLv3]"
+#. type: Content of: <div><table><tr><td><a>
+msgid "<a href=\"/graphics/gfdl-logo-small.png\">"
+msgstr "<a href=\"/graphics/gfdl-logo-small.png\">"
 
-#. type: Content of: <table><tr><td><a>
-msgid "<a href=\"lgplv3-147x51.png\">"
-msgstr "<a href=\"lgplv3-147x51.png\">"
+#. type: Attribute 'alt' of: <div><table><tr><td><a><img>
+msgid "&nbsp;[Large GFDL logo]&nbsp;"
+msgstr "&nbsp;[Logo grande da GFDL]&nbsp;"
 
-#. type: Attribute 'alt' of: <table><tr><td><a><img>
-msgid "[Large LGPLv3 logo]"
-msgstr "[Logo grande da LGPLv3]"
+#. type: Content of: <div><table><tr><td>
+msgid "PNG&nbsp; 4.7kB (129x44)"
+msgstr "PNG&nbsp; 4.7kB (129x44)"
 
-#. type: Content of: <table><tr><td><a>
-msgid "<a href=\"agplv3-155x51.png\">"
-msgstr "<a href=\"agplv3-155x51.png\">"
+#. type: Content of: <div><table><tr><td><a>
+msgid "<a href=\"/graphics/gplv3-127x51.png\">"
+msgstr "<a href=\"/graphics/gplv3-127x51.png\">"
 
-#. type: Attribute 'alt' of: <table><tr><td><a><img>
-msgid "[Large GNU AGPLv3 logo]"
-msgstr "[Logo grande da GNU AGPLv3]"
+#. type: Attribute 'alt' of: <div><table><tr><td><a><img>
+msgid "&nbsp;[Large GPLv3 logo]&nbsp;"
+msgstr "&nbsp;[Logo grande da GPLv3]&nbsp;"
 
-#. type: Content of: <table><tr><td><a>
-msgid "<a href=\"gfdl-logo-small.png\">"
-msgstr "<a href=\"gfdl-logo-small.png\">"
+#. type: Content of: <div><table><tr><td>
+msgid "PNG&nbsp; 3.5kB (127x51)"
+msgstr "PNG&nbsp; 3.5kB (127x51)"
 
-#. type: Attribute 'alt' of: <table><tr><td><a><img>
-msgid "[Large GFDL logo]"
-msgstr "[Logo grande da GFDL]"
+#. type: Content of: <div><table><tr><td><a>
+msgid "<a href=\"/graphics/lgplv3-147x51.png\">"
+msgstr "<a href=\"/graphics/lgplv3-147x51.png\">"
 
-#. type: Content of: <table><tr><td><a>
-msgid "<a href=\"gplv3-88x31.png\">"
-msgstr "<a href=\"gplv3-88x31.png\">"
+#. type: Attribute 'alt' of: <div><table><tr><td><a><img>
+msgid "&nbsp;[Large LGPLv3 logo]&nbsp;"
+msgstr "&nbsp;[Logo grande da LGPLv3]&nbsp;"
 
-#. type: Attribute 'alt' of: <table><tr><td><a><img>
-msgid "[Small GPLv3 logo]"
-msgstr "[Logo pequeno da GPLv3]"
+#. type: Content of: <div><table><tr><td>
+msgid "PNG&nbsp; 3.3kB (147x51)"
+msgstr "PNG&nbsp; 3.3kB (147x51)"
 
-#. type: Content of: <table><tr><td><a>
+#. type: Content of: <div><table><tr><td><a>
+msgid "<a href=\"/graphics/agplv3-155x51.png\">"
+msgstr "<a href=\"/graphics/agplv3-155x51.png\">"
+
+#. type: Attribute 'alt' of: <div><table><tr><td><a><img>
+msgid "&nbsp;[Large GNU AGPLv3 logo]&nbsp;"
+msgstr "&nbsp;[Logo grande da GNU AGPLv3]&nbsp;"
+
+#. type: Content of: <div><table><tr><td>
+msgid "PNG&nbsp; 3.6kB (155x51)"
+msgstr "PNG&nbsp; 3.6kB (155x51)"
+
+#. type: Content of: <div><table><tr><td><a>
+msgid "<a href=\"/graphics/gfdl-logo-tiny.png\">"
+msgstr "<a href=\"/graphics/gfdl-logo-tiny.png\">"
+
+#. type: Attribute 'alt' of: <div><table><tr><td><a><img>
+msgid "&nbsp;[Small GPLv3 logo]&nbsp;"
+msgstr "&nbsp;[Logo pequeno da GPLv3]&nbsp;"
+
+#. type: Content of: <div><table><tr><td>
+msgid "PNG&nbsp; 2.5kB (66x23)"
+msgstr "PNG&nbsp; 2.5kB (66x23)"
+
+#. type: Content of: <div><table><tr><td><a>
+msgid "<a href=\"/graphics/gplv3-88x31.png\">"
+msgstr "<a href=\"/graphics/gplv3-88x31.png\">"
+
+#. type: Content of: <div><table><tr><td>
+msgid "PNG&nbsp; 2.7kB (88x31)"
+msgstr "PNG&nbsp; 2.7kB (88x31)"
+
+#. type: Content of: <div><table><tr><td><a>
 msgid "<a href=\"lgplv3-88x31.png\">"
 msgstr "<a href=\"lgplv3-88x31.png\">"
 
-#. type: Attribute 'alt' of: <table><tr><td><a><img>
-msgid "[Small LGPLv3 logo]"
-msgstr "[Logo pequeno da LGPLv3]"
+#. type: Attribute 'alt' of: <div><table><tr><td><a><img>
+msgid "&nbsp;[Small LGPLv3 logo]&nbsp;"
+msgstr "&nbsp;[Logo pequeno da LGPLv3]&nbsp;"
 
-#. type: Content of: <table><tr><td><a>
-msgid "<a href=\"agplv3-88x31.png\">"
-msgstr "<a href=\"agplv3-88x31.png\">"
+#. type: Content of: <div><table><tr><td>
+msgid "PNG&nbsp; 2.0kB (88x31)"
+msgstr "PNG&nbsp; 2.0kB (88x31)"
 
-#. type: Attribute 'alt' of: <table><tr><td><a><img>
-msgid "[Small GNU AGPLv3 logo]"
-msgstr "[Logo pequeno da GNU AGPLv3]"
+#. type: Content of: <div><table><tr><td><a>
+msgid "<a href=\"/graphics/agplv3-88x31.png\">"
+msgstr "<a href=\"/graphics/agplv3-88x31.png\">"
 
-#. type: Content of: <table><tr><td><a>
-msgid "<a href=\"gfdl-logo-tiny.png\">"
-msgstr "<a href=\"gfdl-logo-tiny.png\">"
+#. type: Attribute 'alt' of: <div><table><tr><td><a><img>
+msgid "&nbsp;[Small GNU AGPLv3 logo]&nbsp;"
+msgstr "&nbsp;[Logo pequeno da GNU AGPLv3]&nbsp;"
 
-#. type: Content of: <p>
-msgid ""
-"GFDL logo in other sizes: <a href=\"gfdl-logo-med.png\">Bigger</a>, <a href="
-"\"gfdl-logo-large.png\">Even bigger</a>"
-msgstr ""
-"Logo da GFDL em outros tamanhos: <a href=\"gfdl-logo-med.png\">Maior</a>, <a "
-"href=\"gfdl-logo-large.png\">Ainda maior</a>"
+#. type: Content of: <div><table><tr><td>
+msgid "PNG&nbsp; 1.9kB (88x31)"
+msgstr "PNG&nbsp; 1.9kB (88x31)"
 
-#. type: Content of: <h3>
-msgid "Alternative logos by Christian Cadena"
-msgstr "Logos alternativos por Christian Cadena"
+#. type: Content of: <div><table><tr><td>
+msgid "SVG&nbsp; <a href=\"/graphics/gfdl-logo.svg\">5.4kB</a>"
+msgstr "SVG&nbsp; <a href=\"/graphics/gfdl-logo.svg\">5.4kB</a>"
 
-#. type: Content of: <p><a>
+#. type: Content of: <div><table><tr><td>
+msgid "SVG&nbsp; <a href=\"/graphics/gpl-v3-logo.svg\">83kB</a>"
+msgstr "SVG&nbsp; <a href=\"/graphics/gpl-v3-logo.svg\">83kB</a>"
+
+#. type: Content of: <div><table><tr><td>
+msgid "SVG&nbsp; <a href=\"/graphics/lgpl-agpl-v3-logos.svg\">290kB</a>"
+msgstr "SVG&nbsp; <a href=\"/graphics/lgpl-agpl-v3-logos.svg\">290kB</a>"
+
+#. type: Content of: <div><h3>
+msgid "Alternative logos <span>by Christian Cadena</span>"
+msgstr "Logos alternativos <span>por Christian Cadena</span>"
+
+#. type: Content of: <div><div><a>
 msgid "<a href=\"license-logos-by-christian-candena-cc-by.svg\">"
 msgstr "<a href=\"license-logos-by-christian-candena-cc-by.svg\">"
 
-#. type: Content of: <p>
+#. type: Attribute 'alt' of: <div><div><a><img>
+msgid "&nbsp;[Alternative GNU license logos]&nbsp;"
+msgstr "&nbsp;[Logos alternativos de licença GNU]&nbsp;"
+
+#. type: Content of: <div><ul><li>
 msgid ""
-"Christian's logos are available under the <a href=\"http://creativecommons."
-"org/licenses/by/3.0/\">CC-BY 3.0</a> license."
+"PNG&nbsp; <a href=\"license-logos-by-christian-candena-cc-by.png\">8kB</a> "
+"(500x54)"
 msgstr ""
-"Os logos de Christian estão disponíveis sob a licença <a href=\"http://"
-"creativecommons.org/licenses/by/3.0/deed.pt_BR\">CC-BY 3.0</a>."
+"PNG&nbsp; <a href=\"license-logos-by-christian-candena-cc-by.png\">8kB</a> "
+"(500x54)"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"SVG&nbsp; <a href=\"license-logos-by-christian-candena-cc-by.svg\">420kB</a>"
+msgstr ""
+"SVG&nbsp; <a href=\"license-logos-by-christian-candena-cc-by.svg\">420kB</a>"
+
+#. type: Content of: <div><div><h3>
+msgid "Copyright and license"
+msgstr "Direitos autorais e licença"
+
+#. type: Content of: <div><div><dl><dt>
+msgid "Official GPL, AGPL and LGPL logos"
+msgstr "Logos oficiais das licenças GPL, AGPL e LGPL"
+
+#. type: Content of: <div><div><dl><dd>
+msgid "These images are in the public domain."
+msgstr "Essas imagens estão em domínio público."
+
+#. type: Content of: <div><div><dl><dt>
+msgid "Official GFDL logo"
+msgstr "Logo oficial da GFDL"
+
+#. type: Content of: <div><div><dl><dd>
+msgid "Copyright &copy; 2007, 2008, 2011, 2018 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2007, 2008, 2011, 2018 Free Software Foundation, Inc."
+
+#. type: Content of: <div><div><dl><dd>
+msgid ""
+"Available under the <a rel=\"license\" href=\"/licenses/fdl-1.3.html\">GNU "
+"Free Documentation License v1.3</a>."
+msgstr ""
+"Disponível sob a <a rel=\"license\" href=\"/licenses/fdl-1.3.html\">Licença "
+"de Documentação Livre GNU v1.3</a>."
+
+#. type: Content of: <div><div><dl><dt>
+msgid "Alternative logos"
+msgstr "Logos alternativos"
+
+#. type: Content of: <div><div><dl><dd>
+msgid "Copyright &copy; 2012 Christian Cadena"
+msgstr "Copyright &copy; 2012 Christian Cadena"
+
+#. type: Content of: <div><div><dl><dd>
+msgid ""
+"Available under the <a rel=\"license\" href=\"https://creativecommons.org/"
+"licenses/by/3.0/\">Creative Commons Attribution 3.0 Unported License</a>."
+msgstr ""
+"Disponível sob a licença <a rel=\"license\" href=\"https://creativecommons."
+"org/licenses/by-nd/3.0/deed.pt_BR\">Creative Commons Atribuição 3.0 Não "
+"Adaptada</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -284,35 +398,104 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2007, 2008, 2011, 2013, 2014, 2018 Free Software "
-"Foundation, Inc."
+"<em>Page text:</em>&nbsp; Copyright &copy; 2019 Free Software Foundation, "
+"Inc."
 msgstr ""
-"Copyright &copy; 2007, 2008, 2011, 2013, 2014, 2018 Free Software "
+"<em>Texto da página:</em>&nbsp; Copyright &copy; 2019 Free Software "
 "Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
-"This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
-"NoDerivatives 4.0 International License</a>."
+"Available under the <a rel=\"license\" href=\"https://creativecommons.org/"
+"licenses/by-nd/4.0/\">Creative Commons Attribution-NoDerivatives 4.0 "
+"International License</a>."
 msgstr ""
-"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
-"Atribuição-SemDerivações 4.0 Internacional</a>."
+"Disponível sob a licença <a rel=\"license\" href=\"https://creativecommons."
+"org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons Atribuição-"
+"SemDerivações 4.0 Internacional</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"<b>Tradução</b>: Rafael Beraldo\n"
+"Traduzido por: Rafael Beraldo\n"
 "<a href=\"mailto:rberaldo@cabaladada.org\">&lt;rberaldo@cabaladada.org&gt;</"
-"a>, e João António Arantes Golçalves <a href=\"mailto:jaagoncalves@gmail.com"
+"a> e João António Arantes Golçalves <a href=\"mailto:jaagoncalves@gmail.com"
 "\">&lt;jaagoncalves@gmail.com&gt;</a>, 2012 (A primeira tradução dessa "
 "página foi parcialmente realizada durante o FLISOL 2012, em São Carlos, SP). "
-"Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome."
-"org&gt;</a>, 2018."
+"Atualizada por Rafael Fontenelle\n"
+"<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, 2018, "
+"2019."
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização: "
+
+#~ msgid ""
+#~ "table#license-logos {\n"
+#~ "  border: none;\n"
+#~ "  text-align: center;\n"
+#~ "  margin: 0 auto;\n"
+#~ "  width: 90%;\n"
+#~ "  clear: both;\n"
+#~ "}\n"
+#~ "\n"
+#~ "table#license-logos td, table#license-logos th {\n"
+#~ "  text-align: center;\n"
+#~ "  vertical-align: middle;\n"
+#~ "}\n"
+#~ "\n"
+#~ "table#license-logos th {\n"
+#~ "  font-weight: bold;\n"
+#~ "}\n"
+#~ msgstr ""
+#~ "table#license-logos {\n"
+#~ "  border: none;\n"
+#~ "  text-align: center;\n"
+#~ "  margin: 0 auto;\n"
+#~ "  width: 90%;\n"
+#~ "  clear: both;\n"
+#~ "}\n"
+#~ "\n"
+#~ "table#license-logos td, table#license-logos th {\n"
+#~ "  text-align: center;\n"
+#~ "  vertical-align: middle;\n"
+#~ "}\n"
+#~ "\n"
+#~ "table#license-logos th {\n"
+#~ "  font-weight: bold;\n"
+#~ "}\n"
+
+#~ msgid ""
+#~ "Here are some vector versions: <a href=\"gpl-v3-logo.svg\">GPLv3 SVG</a>, "
+#~ "<a href=\"lgpl-agpl-v3-logos.svg\">LGPLv3 and AGPLv3 SVG</a>, <a href="
+#~ "\"gfdl-logo.svg\">GFDL SVG</a>."
+#~ msgstr ""
+#~ "Aqui estão algumas versões em vetores: <a href=\"gpl-v3-logo.svg\">GPLv3 "
+#~ "SVG</a>, <a href=\"lgpl-agpl-v3-logos.svg\">LGPLv3 e AGPLv3 SVG</a>, <a "
+#~ "href=\"gfdl-logo.svg\">GFDL SVG</a>."
+
+#~ msgid "<a href=\"gplv3-88x31.png\">"
+#~ msgstr "<a href=\"gplv3-88x31.png\">"
+
+#~ msgid ""
+#~ "GFDL logo in other sizes: <a href=\"gfdl-logo-med.png\">Bigger</a>, <a "
+#~ "href=\"gfdl-logo-large.png\">Even bigger</a>"
+#~ msgstr ""
+#~ "Logo da GFDL em outros tamanhos: <a href=\"gfdl-logo-med.png\">Maior</a>, "
+#~ "<a href=\"gfdl-logo-large.png\">Ainda maior</a>"
+
+#~ msgid ""
+#~ "Christian's logos are available under the <a href=\"http://"
+#~ "creativecommons.org/licenses/by/3.0/\">CC-BY 3.0</a> license."
+#~ msgstr ""
+#~ "Os logos de Christian estão disponíveis sob a licença <a href=\"http://"
+#~ "creativecommons.org/licenses/by/3.0/deed.pt_BR\">CC-BY 3.0</a>."
+
+#~ msgid ""
+#~ "Copyright &copy; 2007, 2008, 2011, 2013, 2014, 2018, 2019 Free Software "
+#~ "Foundation, Inc."
+#~ msgstr ""
+#~ "Copyright &copy; 2007, 2008, 2011, 2013, 2014, 2018, 2019 Free Software "
+#~ "Foundation, Inc."

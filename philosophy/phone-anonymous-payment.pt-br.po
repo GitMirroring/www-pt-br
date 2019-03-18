@@ -1,0 +1,145 @@
+# Brazilian Portuguese translation of https://www.gnu.org/philosophy/phone-anonymous-payment.html
+# Copyright (C) 2019 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2019.
+# Cassiano Reinert Novais dos Santos <caco@posteo.net>, 2019
+msgid ""
+msgstr ""
+"Project-Id-Version: phone-anonymous-payment.html\n"
+"POT-Creation-Date: 2019-01-28 07:56+0000\n"
+"PO-Revision-Date: 2019-02-02 10:12-0200\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid "Anonymous Payment by Phone - GNU Project - Free Software Foundation"
+msgstr ""
+"Pagamento anônimo por telefone - Projeto GNU - Free Software Foundation"
+
+#. type: Content of: <h2>
+msgid "Anonymous Payment by Phone"
+msgstr "Pagamento anônimo por telefone"
+
+#. type: Content of: <p>
+msgid "by Richard Stallman"
+msgstr "por Richard Stallman"
+
+#. type: Content of: <p>
+msgid ""
+"Here is an idea for an anonymous payment system that would be useful for "
+"some applications."
+msgstr ""
+"Aqui está uma ideia para um sistema de pagamento anônimo que seria útil para "
+"alguns aplicativos."
+
+#. type: Content of: <ul><li>
+msgid ""
+"The seller sets up a phone number that charges N dollars per minute to any "
+"caller."
+msgstr ""
+"O vendedor configura um número de telefone que cobra N dólares por minuto "
+"para qualquer chamador."
+
+#. type: Content of: <ul><li>
+msgid ""
+"The customer chooses a code, calls that number (which requires paying N "
+"dollars), and enters the code. A voice-generation system speaks the code "
+"back so the customer can confirm it."
+msgstr ""
+"O cliente escolhe um código, chama esse número (que exige pagar N dólares) e "
+"insere o código. Um sistema de geração de voz fala o código de volta para "
+"que o cliente possa confirmá-lo."
+
+#. type: Content of: <ul><li>
+msgid ""
+"That code represents a payment of N dollars. The customer enters it in a web "
+"site, or a kiosk, and it constitutes payment for whatever."
+msgstr ""
+"Esse código representa um pagamento de N dólares. O cliente entra em um site "
+"ou quiosque e constitui um pagamento por qualquer coisa."
+
+#. type: Content of: <p>
+msgid ""
+"It should be possible to do this using a phone card on a payphone or anyone "
+"else's telephone."
+msgstr ""
+"Deveria ser possível fazer isso usando um cartão telefônico em um telefone "
+"público ou no telefone de outra pessoa."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF.  Links quebrados e outras correções ou "
+"sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2018, 2019 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2018, 2019 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2019.<br/>\n"
+"Revisado por: Cassiano Reinert Novais dos Santos <a href=\"mailto:"
+"caco@posteo.net\">&lt;caco@posteo.net&gt;</a>, 2019."
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização: "

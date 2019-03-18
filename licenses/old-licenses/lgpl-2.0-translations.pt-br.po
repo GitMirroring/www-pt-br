@@ -1,12 +1,12 @@
 # Brazilian Portuguese translation of https://www.gnu.org/licenses/old-licenses/lgpl-2.0-translations.html
-# Copyright (C) 2018 Free Software Foundation, Inc.
+# Copyright (C) 2019 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2018.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: lgpl-2.0-translations.html\n"
-"POT-Creation-Date: 2018-02-13 18:26+0000\n"
-"PO-Revision-Date: 2018-05-30 14:24-0300\n"
+"POT-Creation-Date: 2019-01-09 09:56+0000\n"
+"PO-Revision-Date: 2019-01-09 11:44-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -218,15 +218,15 @@ msgstr ""
 msgid ""
 "<code>[pt-br]</code> Brazilian Portuguese translation of the LGPL (<a href="
 "\"http://licencas.softwarelivre.org/lgpl-2.0.pt-br.html\">HTML</a>, <a href="
-"\"http://licencas.softwarelivre.org/lgpl-2.0.pt-br.md\">Markdown</a> <a href="
-"\"http://licencas.softwarelivre.org/lgpl-2.0.pt-br.pdf\">PDF</a>, <a href="
-"\"http://licencas.softwarelivre.org/lgpl-2.0.pt-br.odt\">ODT</a>)"
+"\"http://licencas.softwarelivre.org/lgpl-2.0.pt-br.md\">Markdown</a>, <a "
+"href=\"http://licencas.softwarelivre.org/lgpl-2.0.pt-br.pdf\">PDF</a>, <a "
+"href=\"http://licencas.softwarelivre.org/lgpl-2.0.pt-br.odt\">ODT</a>)"
 msgstr ""
 "<code>[pt-br]</code> tradução para português brasileiro da LGPL (<a href="
 "\"http://licencas.softwarelivre.org/lgpl-2.0.pt-br.html\">HTML</a>, <a href="
-"\"http://licencas.softwarelivre.org/lgpl-2.0.pt-br.md\">Markdown</a> <a href="
-"\"http://licencas.softwarelivre.org/lgpl-2.0.pt-br.pdf\">PDF</a>, <a href="
-"\"http://licencas.softwarelivre.org/lgpl-2.0.pt-br.odt\">ODT</a>)"
+"\"http://licencas.softwarelivre.org/lgpl-2.0.pt-br.md\">Markdown</a>, <a "
+"href=\"http://licencas.softwarelivre.org/lgpl-2.0.pt-br.pdf\">PDF</a>, <a "
+"href=\"http://licencas.softwarelivre.org/lgpl-2.0.pt-br.odt\">ODT</a>)"
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -273,8 +273,8 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2018 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2018 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2018, 2019 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2018, 2019 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -291,9 +291,13 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Rafael Fontenelle\n"
-"<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, 2018."
+"<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, 2018, "
+"2019."
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização: "
+
+#~ msgid "Copyright &copy; 2018 Free Software Foundation, Inc."
+#~ msgstr "Copyright &copy; 2018 Free Software Foundation, Inc."

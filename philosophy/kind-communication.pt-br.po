@@ -1,13 +1,13 @@
 # Brazilian Portuguese translation of https://www.gnu.org/philosophy/kind-communication.html
-# Copyright (C) 2018 Free Software Foundation, Inc.
+# Copyright (C) 2019 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2018.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018, 2019.
 # André N Batista <nandre@riseup.net>, 2018. (proofread)
 msgid ""
 msgstr ""
 "Project-Id-Version: kind-communication.html\n"
-"POT-Creation-Date: 2018-12-13 09:26+0000\n"
-"PO-Revision-Date: 2018-12-13 11:22-0200\n"
+"POT-Creation-Date: 2019-02-20 19:58+0000\n"
+"PO-Revision-Date: 2019-02-20 19:38-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -35,14 +35,14 @@ msgstr "por <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
 #. type: Content of: <p>
 msgid ""
 "The GNU Project encourages contributions from anyone who wishes to advance "
-"the development of the GNU system, regardless of gender, race, religion, "
-"cultural background, and any other demographic characteristics, as well as "
-"personal political views."
+"the development of the GNU system, regardless of gender, race, ethnic group, "
+"physical appearance, religion, cultural background, and any other "
+"demographic characteristics, as well as personal political views."
 msgstr ""
 "O Projeto GNU incentiva contribuições de quem quer que deseje promover o "
-"desenvolvimento do sistema GNU, independentemente de gênero, raça, religião, "
-"formação cultural e quaisquer outras características demográficas, bem como "
-"visões políticas pessoais."
+"desenvolvimento do sistema GNU, independentemente de gênero, raça, grupo "
+"étnico, aparência física, religião, formação cultural e quaisquer outras "
+"características demográficas, bem como visões políticas pessoais."
 
 #. type: Content of: <p>
 msgid ""
@@ -366,8 +366,8 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2018 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2018 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2018, 2019 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2018, 2019 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -384,7 +384,7 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
-"rafaelff@gnome.org&gt;</a>, 2018.<br/>\n"
+"rafaelff@gnome.org&gt;</a>, 2018, 2019.<br/>\n"
 "Revisado por: André N Batista <a href=\"mailto:nandre@riseup.net\">&lt;"
 "nandre@riseup.net&gt;</a>, 2018."
 
@@ -392,3 +392,6 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização: "
+
+#~ msgid "Copyright &copy; 2018 Free Software Foundation, Inc."
+#~ msgstr "Copyright &copy; 2018 Free Software Foundation, Inc."

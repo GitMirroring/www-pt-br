@@ -1,0 +1,142 @@
+# Brazilian Portuguese translation of https://www.gnu.org/manual/manual.html
+# Copyright (C) 2018 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: manual.html\n"
+"POT-Creation-Date: 2018-09-10 08:26+0000\n"
+"PO-Revision-Date: 2019-02-02 09:57-0200\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid "GNU Manuals Online - GNU Project - Free Software Foundation"
+msgstr "Manuais GNU online - Projeto GNU - Free Software Foundation"
+
+#. type: Content of: <h2>
+msgid "GNU Manuals Online"
+msgstr "Manuais GNU online"
+
+#. type: Content of: <p>
+msgid ""
+"This table lists <a href=\"/software/software.html\">official GNU packages</"
+"a> with links to their primary documentation, where available.  When a "
+"package has several associated manuals, they are all listed.  If a package "
+"has no specific manual online, the link just goes to the package's home page "
+"(which is also linked to explicitly)."
+msgstr ""
+"Esta tabela lista <a href=\"/software/software.html\">pacotes GNU oficiais</"
+"a> com links para a documentação principal, quando disponível. Quando um "
+"pacote tem vários manuais associados, todos eles são listados. Se um pacote "
+"não tiver um manual online específico, o link vai para a página inicial do "
+"pacote (que também está vinculada explicitamente)."
+
+#. type: Content of: <p>
+msgid ""
+"Many packages could be listed in any of several categories, but for the "
+"table here just one has to be chosen, usually following the <a href="
+"\"https://directory.fsf.org/\">Free Software Directory</a>."
+msgstr ""
+"Muitos pacotes podem ser listados em qualquer uma das várias categorias, mas "
+"para a tabela aqui apenas um deve ser escolhido, geralmente seguindo o <a "
+"href=\"https://directory.fsf.org/\">Diretório de Software Livre</a> ."
+
+#. type: Content of: <p>
+msgid ""
+"Bug reports: for any discussion about specific manuals, please contact the "
+"package maintainers.  For discussion about this page in particular (for "
+"example, if you are a GNU maintainer and want to correct or discuss your "
+"entry), contact <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Relatórios de erros: para qualquer discussão sobre manuais específicos, "
+"entre em contato com os mantenedores do pacote. Para discussões sobre esta "
+"página em particular (por exemplo, se você é um mantenedor do GNU e deseja "
+"corrigir ou discutir sua entrada), entre em contato com <a href=\"mailto:"
+"webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>."
+
+#. type: Content of: <p>
+msgid "<a href=\"/doc/doc.html\">More GNU Project documentation</a>."
+msgstr "<a href=\"/doc/doc.html\">Mais documentação do Projeto GNU</a>."
+
+#. type: Content of: <p>
+msgid "See <a href=\"#topinfo\">info about this list at top</a>."
+msgstr "Veja <a href=\"#topinfo\">informações sobre essa lista no topo</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF.  Links quebrados e outras correções ou "
+"sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2014, 2018 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2014, 2018 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2018.Revisado por: Cassiano Reinert Novais dos "
+"Santos <a href=\"mailto:caco@posteo.net\">&lt;caco@posteo.net&gt;</a>, 2018."
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização: "
