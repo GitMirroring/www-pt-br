@@ -1,0 +1,204 @@
+# Brazilian Portuguese translation of http://www.gnu.org/server/server.html
+# Copyright (C) 2019 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: server.html\n"
+"POT-Creation-Date: 2015-01-29 23:55+0000\n"
+"PO-Revision-Date: 2019-04-26 15:17-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid "About GNU Servers - GNU Project - Free Software Foundation"
+msgstr "Sobre os servidores do GNU - Projeto GNU - Free Software Foundation"
+
+#. type: Content of: <h2>
+msgid "About GNU Servers"
+msgstr "Sobre os servidores do GNU"
+
+#. type: Content of: <p>
+msgid ""
+"We have <a href=\"/server/irc-rules.html\">rules for official GNU and FSF "
+"IRC channels</a>."
+msgstr ""
+"Temos <a href=\"/server/irc-rules.html\">regras para os canais IRC oficiais "
+"do GNU e da FSF</a>."
+
+#. type: Content of: <p>
+msgid ""
+"We have <a href=\"/server/mirror.html\">information and advice for those "
+"wishing to mirror ftp.gnu.org</a>.  (We no longer suggest mirroring www.gnu."
+"org.)"
+msgstr ""
+"Temos <a href=\"/server/mirror.html\">informações e conselhos para aqueles "
+"que desejam espelhar o ftp.gnu.org</a>. (Não mais sugerimos o espelhamento "
+"do www.gnu.org.)"
+
+#. type: Content of: <p>
+msgid ""
+"For designing and authoring our web pages, we follow certain <a href=\"/"
+"server/fsf-html-style-sheet.html\">style guidelines</a>.  If you would like "
+"to help, we have a list of <a href=\"/server/tasks.html\">tasks</a> that "
+"need to be done on this web site.  All our pages are <a href=\"http://www."
+"anybrowser.org/campaign/\">Best Viewed with Any Browser</a>."
+msgstr ""
+"Para projetar e criar nossas páginas da web, seguimos algumas <a href=\"/"
+"server/fsf-html-style-sheet.html\">diretrizes de estilo</a>. Se você quiser "
+"ajudar, temos uma lista de <a href=\"/server/tasks.html\">tarefas</a> que "
+"precisam ser feitas neste site. Todas as nossas páginas são <a href=\"http://"
+"www.anybrowser.org/campaign/\">melhor visualizadas em qualquer navegador</a>."
+
+#. type: Content of: <p>
+msgid ""
+"Just as we do not install proprietary software, we have a policy of not "
+"making links to pages that promote proprietary programs.  We cannot make "
+"proprietary software disappear by not talking about it; information about "
+"proprietary software is widely available, and people who want it will get it "
+"somehow.  But we prefer not to be participants in the process of advertising "
+"proprietary software."
+msgstr ""
+"Assim como não instalamos software proprietário, temos uma política de não "
+"criar links para páginas que promovem programas proprietários. Não podemos "
+"fazer com que software proprietário desapareça por não falar sobre isso; "
+"informações sobre software proprietário estão amplamente disponíveis, e as "
+"pessoas que o querem, de alguma forma, conseguem. Mas preferimos não ser "
+"participantes no processo de publicidade de software proprietário."
+
+#. type: Content of: <p>
+msgid ""
+"We also confine all links to text that is commercial in its tone to a few of "
+"our pages, where the topic makes such links appropriate.  This is so we can "
+"avoid appearing to share the widespread assumption that money and business "
+"are the highest value in life."
+msgstr ""
+"Também limitamos todos os links a textos que são comerciais em seu tom para "
+"algumas de nossas páginas, em que o tópico torna esses links apropriados. É "
+"assim que podemos evitar que pareça que compartilharmos da suposição "
+"generalizada de que dinheiro e negócios são o valor mais alto da vida."
+
+#. type: Content of: <p>
+msgid ""
+"Only <a href=\"/philosophy/free-sw.html\">free software</a> is used on this "
+"computer.  The web server is the <a href=\"http://www.apache.org/\">Apache "
+"web server</a>, which is distributed under the Apache license (a free "
+"software license).  To support this server, we also use other free software "
+"developed by GNU volunteers and we maintain a <a href=\"/server/source/"
+"source.html\">list of such software</a>."
+msgstr ""
+"Apenas <a href=\"/philosophy/free-sw.html\">software livre</a> é usado neste "
+"computador. O servidor web é o <a href=\"http://www.apache.org/\">servidor "
+"web Apache</a>, que é distribuído sob a licença Apache (uma licença de "
+"software livre). Para dar suporte a este servidor, também usamos outros "
+"softwares livres desenvolvidos por voluntários GNU e mantemos uma <a href=\"/"
+"server/source/source.html\">lista de tais softwares</a>."
+
+#. type: Content of: <p>
+msgid ""
+"We currently host through TowardEX and the Markley Group, who have "
+"graciously donated the bandwidth and colocation space for this system."
+msgstr ""
+"Atualmente, hospedamos através da TowardEX e do Markley Group, que "
+"gentilmente doaram o espaço de colocação e banda larga para esse sistema."
+
+#. type: Content of: <p>
+msgid ""
+"The operating system is Trisquel GNU/Linux, which is one example of a <a "
+"href=\"/gnu/linux-and-gnu.html\">GNU/Linux</a> system. Trisquel GNU/Linux is "
+"listed on <a href=\"/distros/free-distros.html\">our list of free GNU/Linux-"
+"distributions</a>."
+msgstr ""
+"O sistema operacional é o Trisquel GNU/Linux, que é um exemplo de um sistema "
+"<a href=\"/gnu/linux-and-gnu.html\">GNU/Linux</a>. O Trisquel GNU/Linux está "
+"listado em <a href=\"/distros/free-distros.html\">nossa lista de "
+"distribuições GNU/Linux livres</a>."
+
+#. type: Content of: <p>
+msgid "&nbsp;"
+msgstr "&nbsp;"
+
+#. type: Content of: <p>
+msgid ""
+"<a href=\"http://contemporary-home-computing.org/RUE/\">This article points "
+"out an insight</a> that helps explain why we want the sort of site we want."
+msgstr ""
+"<a href=\"http://contemporary-home-computing.org/RUE/\">Este artigo aponta "
+"um discernimento</a> que ajuda a explicar por que queremos o tipo de site "
+"que queremos."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2014, 2015 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2014, 2015 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+"NoDerivs 3.0 United States License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2019."
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização:"

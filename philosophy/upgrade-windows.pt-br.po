@@ -1,0 +1,181 @@
+# Brazilian Portuguese translation of https://www.gnu.org/philosophy/upgrade-windows.html
+# Copyright (C) 2019 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: upgrade-windows.html\n"
+"POT-Creation-Date: 2019-01-29 00:26+0000\n"
+"PO-Revision-Date: 2019-04-28 10:27-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 3.31.0\n"
+
+#. type: Content of: <title>
+msgid ""
+"What Is the Right Way to Upgrade an Installation of Windows? - GNU Project - "
+"Free Software Foundation"
+msgstr ""
+"Qual é a forma correta de atualizar uma instalação do Windows? - GNU Project "
+"- Free Software Foundation"
+
+#. type: Content of: <h2>
+msgid "What Is the Right Way to Upgrade an Installation of Windows?"
+msgstr "Qual é a forma correta de atualizar uma instalação do Windows?"
+
+#. type: Content of: <p>
+msgid "by Richard Stallman"
+msgstr "por Richard Stallman"
+
+#. type: Content of: <p>
+msgid ""
+"It is commonplace in the computing field to urge users to &ldquo;"
+"upgrade&rdquo; to newer versions of Windows (and other nonfree programs) so "
+"as to get fixes for &ldquo;security.&rdquo; This conclusion follows from the "
+"assumption that these programs are honest software, designed to treat the "
+"user right. We do not expect that to be the case, and we know it is not the "
+"case for Windows. Therefore, we make a different recommendation."
+msgstr ""
+"É comum no campo da computação incitar os usuários a “atualizar” para "
+"versões mais recentes do Windows (e outros programas não livres) para obter "
+"correções de “segurança”. Esta conclusão se baseia na suposição de que esses "
+"programas são softwares honestos, projetados para tratar o adequadamente do "
+"usuário. Nós não esperamos que seja o caso, e sabemos que não é o caso do "
+"Windows. Portanto, fazemos uma recomendação diferente."
+
+#. type: Content of: <p>
+msgid ""
+"In fact, newer versions of Windows have exploits before they are released. "
+"They are designed with various kinds of malicious functionalities; see "
+"&ldquo;<a href=\"/proprietary/malware-microsoft.html\">Microsoft's Software "
+"is Malware</a>.&rdquo;"
+msgstr ""
+"Na verdade, versões mais recentes do Windows têm <em>exploits</em> antes de "
+"serem lançadas. Eles são projetados com vários tipos de funcionalidades "
+"maliciosas; veja “<a href=\"/proprietary/malware-microsoft.html\">O Software "
+"da Microsoft é Malware</a>”."
+
+#. type: Content of: <p>
+msgid ""
+"Newer Windows versions contain added malicious functionalities; they give "
+"Microsoft more power over the users. That is a reason not to switch to a "
+"newer version. For some users, switching to a newer version may require "
+"rewarding Microsoft with money and even buying a new computer. We hardly "
+"want to encourage that!"
+msgstr ""
+"Versões mais recentes do Windows contêm funcionalidades maliciosas "
+"adicionais; eles dão à Microsoft mais poder sobre os usuários. Essa é uma "
+"razão para não mudar para uma versão mais recente. Para alguns usuários, a "
+"mudança para uma versão mais nova pode exigir uma recompensa para a "
+"Microsoft em dinheiro e até mesmo a compra de um novo computador. Nós "
+"dificilmente queremos encorajar isso!"
+
+#. type: Content of: <p>
+msgid ""
+"Therefore we decline to support Microsoft by urging users to move to newer "
+"versions; we do not treat the unintentional flaws of Windows as more "
+"important than the intentional ones."
+msgstr ""
+"Portanto, recusamos oferecer suporte à Microsoft, solicitando aos usuários "
+"que migrem para versões mais recentes; nós não tratamos as falhas não "
+"intencionais do Windows como mais importantes que as intencionais."
+
+#. type: Content of: <p>
+msgid ""
+"Our advice to those using any version of Windows is to <a href=\"https://"
+"upgradefromwindows.org\">upgrade to GNU/Linux</a>."
+msgstr ""
+"Nosso conselho para aqueles que usam qualquer versão do Windows é para <a "
+"href=\"https://upgradefromwindows.org\">atualizar para o GNU/Linux</a>."
+
+#. type: Content of: <p>
+msgid ""
+"Supporting GNU packages on any version of Windows (or any non-GNU-like "
+"systems) is not part of the GNU Project's core mission. Our slogan is, "
+"&ldquo;It runs best on GNU/Linux.&rdquo; We cooperate with the users who "
+"wish to maintain that support, because we may as well cooperate when it is "
+"not difficult. We have no responsibility to continue doing so, but as long "
+"as it is feasible and not holding us back, we have no reason to stop."
+msgstr ""
+"O suporte a pacotes GNU em qualquer versão do Windows (ou em sistemas que "
+"não sejam do tipo GNU) não faz parte da missão central do Projeto GNU. Nosso "
+"slogan é “Funciona melhor no GNU/Linux”. Nós cooperamos com os usuários que "
+"desejam manter esse suporte, porque também podemos cooperar quando não for "
+"difícil. Não temos responsabilidade de continuar fazendo isso, mas enquanto "
+"for viável e não nos atrasar, não temos motivos para parar."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2019 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2019 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2019."
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização:"

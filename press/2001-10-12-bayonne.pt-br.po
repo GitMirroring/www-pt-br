@@ -1,0 +1,329 @@
+# Brazilian Portuguese translation of http://www.gnu.org/press/2001-10-12-bayonne.html
+# Copyright (C) 2019 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Fernando Lozano <fernando@lozano.eti.br>, ?
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018.
+# Cassiano Reinert Novais dos Santos <caco@posteo.net>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: 2001-10-12-bayonne.html\n"
+"POT-Creation-Date: 2014-04-05 00:02+0000\n"
+"PO-Revision-Date: 2019-04-26 13:20-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid ""
+"Free Software Foundation Announces 7th Major Release of GNU Bayonne - GNU "
+"Project - Free Software Foundation"
+msgstr ""
+"A Free Software Foundation anuncia a 7ª versão maior do GNU Bayonne - GNU "
+"Project - Free Software Foundation"
+
+#. type: Attribute 'content' of: <meta>
+msgid ""
+"GNU, FSF, Free Software Foundation, Linux, press, GPL, general, public, "
+"license, freedom, software, free, bayonne, GNU bayonne"
+msgstr ""
+"GNU, FSF, Free Software Foundation, Linux, imprensa, GPL, licença, pública, "
+"geral, liberdade, software, livre, bayonne, GNU bayonne"
+
+#. type: Attribute 'content' of: <meta>
+msgid "Announcement of the release of 7th major relase of GNU Bayonne"
+msgstr "Anúncio da 7ª versão maior do GNU Bayonne"
+
+#. type: Content of: <h2>
+msgid "Free Software Foundation Announces 7th Major Release of GNU Bayonne"
+msgstr "A Free Software Foundation anuncia a 7ª versão maior do GNU Bayonne"
+
+#. type: Content of: <blockquote><p>
+msgid ""
+"<a href=\"/press/2001-10-12-bayonne.txt\">A plain text version of this press "
+"release is available</a>."
+msgstr ""
+"<a href=\"/press/2001-10-12-bayonne.txt\">Uma versão em texto simples deste "
+"comunicado de imprensa está disponível.</a>."
+
+#. type: Content of: <blockquote><p>
+msgid "<strong>FOR IMMEDIATE RELEASE</strong>"
+msgstr "<strong>PARA DIVULGAÇÃO IMEDIATA</strong>"
+
+#. type: Content of: <blockquote><p>
+msgid "Media Contact: Free Software Foundation"
+msgstr "Contato com a mídia: Free Software Foundation"
+
+#. type: Content of: <blockquote><p>
+msgid "Bradley M. Kuhn <a href=\"mailto:pr@fsf.org\">&lt;pr@gnu.org&gt;</a>"
+msgstr "Bradley M. Kuhn <a href=\"mailto:pr@fsf.org\">&lt;pr@gnu.org&gt;</a>"
+
+#. type: Content of: <blockquote><p>
+msgid "Phone: +1-617-542-5942"
+msgstr "Telefone: +1-617-542-5942"
+
+#. type: Content of: <p>
+msgid ""
+"<strong>Boston, MA, USA</strong> - <i>Friday, October 12, 2001</i> - Today "
+"Dave Sugar, a GNU package maintainer, announced the 7th major release of GNU "
+"Bayonne for developing free software based telephony application services "
+"today."
+msgstr ""
+"<strong>Boston, MA, EUA</strong> - <i>Sexta-feira, 12 de Outubro de 2001</i> "
+"- Hoje Dave Sugar, um mantenedor de pacotes GNU, anunciou a 7ª versão maior "
+"do GNU Bayonne para o desenvolvimento de aplicativos de serviços de "
+"telefonia baseados em software livre."
+
+#. type: Content of: <p>
+msgid ""
+"This new version provides improved support for building digital telephony "
+"services and applications under free software by adding support for CAPI "
+"based BRI cards.  An important contributor in this effort has been Kai "
+"Germaschewski, who is better known for his work related to ISDN4Linux and "
+"CAPI4Linux."
+msgstr ""
+"Esta nova versão fornece suporte aperfeiçoado para a construção de serviços "
+"de telefonia digital sob  <em>software</em> livre, ao adicionar suporte a "
+"placas BRI baseadas em CAPI. Um importante contribuidor neste esforço foi "
+"Kai Germaschewski, que é mais conhecido pelo seu trabalho relacionado com o "
+"ISDN4Linux e o CAPI4Linux."
+
+#. type: Content of: <p>
+msgid ""
+"GNU Bayonne also supports Voicetronix hardware, which offers low cost multi-"
+"post analog DSP telephony cards.  Voicetronix was the first telephony card "
+"vendor to release their drivers and api under the GPL, supporting the GNU "
+"Bayonne project from the start."
+msgstr ""
+"O GNU Bayonne também possui suporte a <em>hardware</em> da Voicetronix, o "
+"que oferece placas de telefonia DSP analógicas <em>multi-post</em> de baixo "
+"custo. Voicetronix foi o primeiro fornecedor de placas de telefonia a "
+"liberar os seus <em>drivers</em> e API sob a GPL, apoiando o projeto GNU "
+"Bayonne deste o início."
+
+#. type: Content of: <p>
+msgid ""
+"We also continue to support the Quicknet telephony cards and the Linux "
+"kernel standard \"/dev/phone\" interface, as well as analog and some digital "
+"telephony cards from Intel.  Work on various other telephony cards and "
+"support for next generation IP based telephony networks are also in progress."
+msgstr ""
+"Nós também continuamos a dar suporte às placas de telefonia da Quicknet e a "
+"interface padrão “/dev/phone” para o kernel Linux, assim como algumas placas "
+"de telefonia analógica e digital da Intel. Também estamos progredindo nos "
+"trabalhos com várias placas de outros fabricantes e no suporte à redes de "
+"telefonia baseada no IPng."
+
+#. type: Content of: <p>
+msgid ""
+"Using a commodity PC platform running GNU/Linux and multi-line telephony "
+"hardware available from numerous vendors, GNU Bayonne has already been used "
+"to create and deploy commercial voice applications that interface with the "
+"public telephone network.  Such applications can include basic services like "
+"Voice Mail, as well as web integrated voice commerce (v-commerce) and "
+"customer relations management.  GNU Bayonne offers scalability to support "
+"deployment of carrier grade enhanced services under free operating systems."
+msgstr ""
+"Utilizando uma plataforma PC barata rodando GNU/Linux e <em>hardware</em> de "
+"telefonia para múltiplas linhas disponível de numerosos fornecedores, o GNU "
+"Bayonne já foi utilizado para criar e implantar aplicativos comerciais de "
+"voz que interfaceiam com a rede pública de telefonia. Tais aplicativos podem "
+"incluir serviços básicos como correio de voz, assim como comércio de voz "
+"(<em>v-commerce</em>) integrado com a web e Gestão de Relacionamento com o "
+"Cliente (<abbr title=\"Custommer Relationship Management\">CRM</abbr>). O "
+"GNU Bayonne oferece escalabilidade para dar suporte à implantação de "
+"serviços de nível de operadora sob sistemas operacionais livres."
+
+#. type: Content of: <p>
+msgid ""
+"GNU Bayonne and all related non-hardware specific software needed for "
+"building and running it may be found at the GNU ftp site (<a href=\"http://"
+"www.gnu.org/gnu\">http://www.gnu.org/gnu</a>).  Individual drivers and "
+"telephony hardware related libraries are provided directly from the "
+"respective vendors.  All information about GNU Bayonne may be found at <a "
+"href=\"http://www.gnu.org/software/bayonne\">http://www.gnu.org/software/"
+"bayonne</a>."
+msgstr ""
+"O GNU Bayonne, e todo o <em>software</em> que não seja para um <em>hardware</"
+"em> específico necessário para a sua compilação e execução, pode ser "
+"encontrado no <em>site</em> de ftp do GNU (<a href=\"http://www.gnu.org/gnu"
+"\">http://www.gnu.org/gnu</a>). <em>Drivers</em> individuais e bibliotecas "
+"para <em>hardware</em> de telefonia são fornecidos diretamente pelos "
+"respectivos fornecedores. Toda a informação sobre o GNU Bayonne pode ser "
+"encontrada em <a href=\"http://www.gnu.org/software/bayonne\">http://www.gnu."
+"org/software/bayonne</a>."
+
+#. type: Content of: <p>
+msgid ""
+"GNU Bayonne is a standard package in the GNU project and is also part of the "
+"broader GNU and free Telephony effort that is directed under GNUCOMM (<a "
+"href=\"/software/gnucomm/\">http://www.gnu.org/software/gnucomm/</a>).  GNU "
+"Bayonne is also used as a part of GNU Enterprise (<a href=\"http://www.gnue."
+"org\">http://www.gnue.org</a>).  In addition to supporting GNU/Linux, we are "
+"looking to make GNU Bayonne available under FreeBSD and GNU/HURD."
+msgstr ""
+"O GNU Bayonne é um pacote padrão do projeto GNU e também é parte do esforço "
+"mais amplo do GNU e da telefonia livre, que é coordenado sob o projeto "
+"GNUCOMM (<a href=\"/software/gnucomm/\">http://www.gnu.org/software/gnucomm/"
+"</a>). O GNU Bayonne também é utilizado como parte do GNU Enterprise (<a "
+"href=\"http://www.gnue.org\">http://www.gnue.org</a>). Além de apoiar o GNU/"
+"Linux, nós temos planos de tornar o GNU Bayonne disponível no FreeBSD e no "
+"GNU/HURD."
+
+#. type: Content of: <h3>
+msgid "About the Free Software Foundation:"
+msgstr "Sobre a Free Software Foundation:"
+
+#. type: Content of: <p>
+msgid ""
+"The Free Software Foundation, founded in 1985, is dedicated to promoting "
+"computer users' right to use, study, copy, modify, and redistribute computer "
+"programs.  The FSF promotes the development and use of free (as in freedom) "
+"software&mdash;particularly the GNU operating system (used widely today in "
+"its GNU/Linux variant)&mdash;and free documentation.  The FSF also helps to "
+"spread awareness of the ethical and political issues of freedom in the use "
+"of software.  Their web site, located at <a href=\"http://www.gnu.org"
+"\">http://www.gnu.org</a>, is an important source of information about GNU/"
+"Linux.  They are headquartered in Boston, MA, USA"
+msgstr ""
+"A Free Software Foundation, fundada em 1985, é dedicada a promover os "
+"direitos dos usuários de computadores de usar, estudar, copiar, modificar e "
+"redistribuir programas de computadores. A FSF promove o desenvolvimento e o "
+"uso de software livre &mdash; em particular o sistema operacional GNU e suas "
+"variantes GNU/Linux &ndash; e documentação livre. A FSF também auxilia na "
+"propagação da consciência das questões éticas e políticas da liberdade no "
+"uso de software. Seu <em>site</em>, localizado em <a href=\"http://www.gnu."
+"org\">http://www.gnu.org</a>, é uma importante fonte de informações sobre o "
+"GNU/Linux. Sua sede fica em Boston, MA, EUA."
+
+#. type: Content of: <h3>
+msgid "About GNUCOMM, the GNU Telephony Project:"
+msgstr "Sobre o GNUCOMM, o Projeto de Telefonia do GNU:"
+
+#. type: Content of: <p>
+msgid ""
+"GNUCOMM, a subsystem of GNU, provides free software solutions to common "
+"telecommunications problems.  GNUCOMM will free users of voicemail, PBX, and "
+"call-center applications from reliance on the proprietary software that "
+"currently dominates such telephony equipment.  The system aims to be "
+"scalable and configurable enough to allow end-users to develop their own "
+"telecommunications systems with little or no special knowledge of GNUCOMM's "
+"internals.  GNUCOMM will support both VoIP and PSTN interfaces, as well as "
+"interfaces to existing phone systems.  GNUCOMM will scale from individual "
+"user installations to carrier-class sites.  The website of GNUCOMM is "
+"located at <a href=\"http://www.gnu.org/software/gnucomm/gnucomm.html"
+"\">http://www.gnu.org/software/gnucomm/gnucomm.html</a>."
+msgstr ""
+"O GNUCOMM, um subsistema do GNU, fornece soluções de software livre para "
+"problemas comuns em telecomunicações. O GNUCOMM vai libertar usuários de "
+"aplicativos de correio de voz, PBX e call-center da dependência de software "
+"proprietário que hoje dominam os equipamentos de telefonia. O sistema busca "
+"ser escalável e configurável o suficiente para permitir que usuários finais "
+"desenvolvam seus próprios sistemas de telecomunicações com pouco ou nenhum "
+"conhecimento específico do funcionamento interno do GNUCOMM. O GNUCOMM terá "
+"suporte tanto a interfaces VoIP quanto a PSTN, assim como interfaces para os "
+"sistemas de telefonia existentes. O GNUCOMM vai escalar deste as instalações "
+"individuais de usuários até <em>sites</em> da classe de operadoras. O "
+"<em>site</em> do GNUCOMM está em <a href=\"http://www.gnu.org/software/"
+"gnucomm/gnucomm.html\">http://www.gnu.org/software/gnucomm/gnucomm.html</a>."
+
+#. type: Content of: <h3>
+msgid "About GNU Enterprise:"
+msgstr "Sobre o GNU Enterprise:"
+
+#. type: Content of: <p>
+msgid ""
+"GNUe aims to provide a suite of tools and applications for solving the "
+"specific needs of the enterprise.  GNUe will handle the needs of any size "
+"business, including applications for human resources, accounting, customer "
+"relationship management, project management, supply chain and e-commerce.  "
+"GNUe is a free software project developed by volunteer software developers "
+"worldwide.  The website of GNU Enterprise is <a href=\"http://www.gnu.org/"
+"projects/gnue/\">http://www.gnu.org/projects/gnue/</a>."
+msgstr ""
+"O GNUe busca fornecer um conjunto de ferramentas e aplicativos para resolver "
+"os problemas específicos da empresa. O GNUe vai atender às necessidades de "
+"empresas de qualquer tamanho, incluindo aplicativos para recursos humanos, "
+"contabilidade, CRM, gerenciamento de projetos, cadeia de fornecedores e "
+"comércio eletrônico. GNUe é um projeto de software livre desenvolvido por "
+"voluntários em todo o mundo. O site do GNU Enterprise é <a href=\"http://www."
+"gnu.org/projects/gnue/\">http://www.gnu.org/projects/gnue/</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid "Copyright (C) 2001, 2013, 2014 Free Software Foundation, Inc."
+msgstr "Copyright (C) 2001, 2013, 2014 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+"NoDerivs 3.0 United States License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por:\n"
+"Fernando Lozano <a href=\"mailto:fernando@lozano.eti.br\">&lt;"
+"fernando@lozano.eti.br&gt;</a>; \n"
+"Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome."
+"org&gt;</a>, 2018.Revisado por:\n"
+"Cassiano Reinert Novais dos Santos <a href=\"mailto:caco@posteo.net\">&lt;"
+"caco@posteo.net&gt;</a>, 2019."
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização:"

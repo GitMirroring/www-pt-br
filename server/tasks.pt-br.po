@@ -1,0 +1,269 @@
+# Brazilian Portuguese translation of http://www.gnu.org/server/tasks.html
+# Copyright (C) 2019 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: tasks.html\n"
+"POT-Creation-Date: 2014-04-05 00:03+0000\n"
+"PO-Revision-Date: 2019-04-26 15:05-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid "Tasks to do for www.gnu.org - GNU Project - Free Software Foundation"
+msgstr ""
+"Tarefas para fazer no www.gnu.org - Projeto GNU - Free Software Foundation"
+
+#. type: Content of: <h2>
+msgid "Tasks to do for www.gnu.org"
+msgstr "Tarefas para fazer no www.gnu.org"
+
+#. type: Content of: <p>
+msgid ""
+"Here are many possible tasks for improving the GNU web pages.  If you would "
+"like to help with one of them, please e-mail <a href=\"mailto:webmasters@gnu."
+"org\">&lt;webmasters@gnu.org&gt;</a> BEFORE you do any work on them."
+msgstr ""
+"Aqui estão muitas tarefas possíveis para melhorar as páginas web do GNU. Se "
+"você tiver interesse de ajudar com uma delas, envie um e-mail para <a href="
+"\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a> ANTES de fazer "
+"qualquer trabalho neles."
+
+#. type: Content of: <h3>
+msgid "Accessibility"
+msgstr "Acessibilidade"
+
+#. type: Content of: <p>
+msgid ""
+"Investigate how www.gnu.org could provide better accessibility to all "
+"regardless of disability."
+msgstr ""
+"Investigue como o site www.gnu.org poderia oferecer melhor acessibilidade a "
+"todos, independentemente da deficiência."
+
+#. type: Content of: <ul><li>
+msgid ""
+"A good place to start is the <a href=\"http://www.w3.org/WAI/\">Web "
+"Accessibility Initiative (WAI)</a>."
+msgstr ""
+"Um bom lugar para começar é a <a href=\"http://www.w3.org/WAI/\"> Iniciativa "
+"de Acessibilidade na Web (WAI) </a>."
+
+#. type: Content of: <ul><li>
+msgid "Other resources on and off the web could also be checked."
+msgstr "Outros recursos dentro e fora da web também podem ser verificados."
+
+#. type: Content of: <ul><li>
+msgid ""
+"People at or near MIT could check with MIT's <a href=\"http://web.mit.edu/"
+"atic/www/\">Adaptive Technology for Information and Computing</a> in person."
+msgstr ""
+"As pessoas no MIT ou perto dele podiam verificar com a <a href=\"http://web."
+"mit.edu/atic/www/\">Tecnologia Adaptativa para Informação e Computação</a> "
+"do MIT pessoalmente."
+
+#. type: Content of: <ul><li>
+msgid ""
+"People who have access to similar centers at other schools, organizations, "
+"and companies could check with them."
+msgstr ""
+"As pessoas que têm acesso a centros semelhantes em outras escolas, "
+"organizações e empresas podem verificar com elas."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Disabled users of the web could also be interviewed, and perhaps even added "
+"to the webmasters team for this task and others."
+msgstr ""
+"Usuários com deficiências da web também podem ser entrevistados e talvez até "
+"adicionados à equipe de webmasters para essa tarefa e outros."
+
+#. type: Content of: <h3>
+msgid "Format Conversions"
+msgstr "Conversões de formato"
+
+#. type: Content of: <ul><li>
+msgid ""
+"We are looking for people to volunteer to convert documentation from various "
+"formats to the <a href=\"/software/texinfo/texinfo.html\">Texinfo</a> "
+"format. This is something we need occasionally. We would like to have a list "
+"of people we could ask on these occasions. If you want to volunteer, please "
+"send mail to <a href=\"mailto:gvc@gnu.org\">&lt;gvc@gnu.org&gt;</a>."
+msgstr ""
+"Estamos procurando pessoas que se ofereçam para converter a documentação de "
+"vários formatos para o formato <a href=\"/software/texinfo/texinfo.html"
+"\">Texinfo</a>. Isso é algo que precisamos ocasionalmente. Gostaríamos de "
+"ter uma lista de pessoas que poderíamos pedir nessas ocasiões. Se você "
+"quiser ser voluntário, envie um e-mail para <a href=\"mailto:gvc@gnu.org"
+"\">&lt;gvc@gnu.org&gt;</a>."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Rewrite the various philosophy pages in <a href=\"/software/texinfo/texinfo."
+"html\">Texinfo</a> and convert to HTML using texi2html.  They could then be "
+"easily included in:"
+msgstr ""
+"Reescreva as várias páginas de filosofia em <a href=\"/software/texinfo/"
+"texinfo.html\">Texinfo</a> e converta-as para HTML usando texi2html. Elas "
+"poderiam ser facilmente incluídas em:"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"the <a href=\"http://ftp.gnu.org/gnu/GNUinfo\">/gnu/GNUinfo</a> subdirectory "
+"of <a href=\"http://ftp.gnu.org/\">ftp.gnu.org</a>"
+msgstr ""
+"o subdiretório <a href=\"http://ftp.gnu.org/gnu/GNUinfo\">/gnu/GNUinfo</a> "
+"de <a href=\"http://ftp.gnu.org/\">ftp.gnu.org</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "the etc/ subdirectory of the GNU Emacs distribution"
+msgstr "o subdiretório etc/ da distribuição do GNU Emacs"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "in the GNU system's Info tree"
+msgstr "na árvore Info do sistema GNU"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "other useful locations."
+msgstr "outros locais úteis."
+
+#. type: Content of: <h3>
+msgid "Writing Web Pages"
+msgstr "Escrevendo páginas web"
+
+#. type: Content of: <ul><li>
+msgid ""
+"Write web pages for GNU programs that lacks web pages on our server or whose "
+"web pages are obsolete using our <a href=\"/software/boilerplate_software."
+"html\">software boilerplate</a> as a template. Also read our <a href=\"/"
+"server/standards/README.software.html\">software page standards</a>."
+msgstr ""
+"Escreva páginas web para programas GNU que não tenham páginas web em nosso "
+"servidor ou cujas páginas web estejam obsoletas usando nosso <a href=\"/"
+"software/boilerplate_software.html\"><em>boilerplate</em> de software</a> "
+"como um modelo. Leia também os nossos <a href=\"/server/standards/README."
+"software.html\">padrões para página de software</a>."
+
+#. type: Content of: <h3>
+msgid "Broken Links"
+msgstr "Links quebrados"
+
+#. type: Content of: <ul><li>
+msgid ""
+"Help is needed <a href=\"/server/standards/README.webmastering.html#deadlink"
+"\">repairing broken links</a>.  There are numerous <a href=\"/server/"
+"standards/README.webmastering.html#symlinks\">symlinks</a>, so please do not "
+"break these in your repair efforts.  Time and care is needed to track down "
+"broken links, and in most cases find suitable replacements.  Please ensure "
+"that our <a href=\"/server/standards/README.webmastering.html#addlink"
+"\">linking</a> <a href=\"/server/standards/README.webmastering."
+"html#pollinking\">policy</a> is followed in finding replacements."
+msgstr ""
+"Ajuda é necessária para <a href=\"/server/standards/README.webmastering."
+"html#deadlink\">corrigir links quebrados</a>. Existem vários <a href=\"/"
+"server/standards/README.webmastering.html#symlinks\">links simbólicos</a>, "
+"portanto, não os quebre-o em seus esforços de reparo. Tempo e cuidado são "
+"necessários para rastrear links quebrados e, na maioria dos casos, encontrar "
+"substitutos adequados. Certifique-se de que nossa <a href=\"/server/"
+"standards/README.webmastering.html#pollinking\">política</a> de <a href=\"/"
+"server/standards/README.webmastering.html#addlink\">links</a> é seguida ao "
+"procurar por substitutos."
+
+#. type: Content of: <h3>
+msgid "Localization"
+msgstr "Localização"
+
+#. type: Content of: <p>
+msgid ""
+"Help <a href=\"/server/standards/README.translations.html\">translate GNU "
+"web pages</a> from English into other languages.  You can either join an "
+"existing translation team, or form a new one.  Check the <a href=\"/server/"
+"standards/README.translations.html#TranslationsUnderway\">existing "
+"translation teams</a>."
+msgstr ""
+"Ajude a <a href=\"/server/standards/README.translations.html\">traduzir "
+"páginas web do GNU</a> do inglês para outros idiomas. Você pode participar "
+"de uma equipe de tradução existente ou criar uma nova. Verifique as <a href="
+"\"/server/standards/README.translations.html#TranslationsUnderway\">equipes "
+"de tradução existentes</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid ""
+"Copyright &copy; 1996, 1997, 1998, 2001, 2004, 2005, 2006, 2007, 2008, 2013, "
+"2014 Free Software Foundation, Inc."
+msgstr ""
+"Copyright &copy; 1996, 1997, 1998, 2001, 2004, 2005, 2006, 2007, 2008, 2013, "
+"2014 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+"NoDerivs 3.0 United States License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:Rafael Fontenelle\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2019."
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização:"

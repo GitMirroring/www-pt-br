@@ -1,0 +1,675 @@
+# Brazilian Portuguese translation of https://www.gnu.org/server/mirror.html
+# Copyright (C) 2019 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: mirror.html\n"
+"POT-Creation-Date: 2019-04-09 17:56+0000\n"
+"PO-Revision-Date: 2019-04-26 15:26-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid "Using and Running Mirrors - GNU Project - Free Software Foundation"
+msgstr "Usando e mantendo espelhos - Projeto GNU - Free Software Foundation"
+
+#. type: Content of: <h2>
+msgid "Using and running mirrors"
+msgstr "Usando e mantendo espelhos"
+
+#. type: Content of: <h3>
+msgid "Downloading from mirrors"
+msgstr "Baixando de espelhos"
+
+#. type: Content of: <p>
+msgid ""
+"First, for users/downloaders: the address <a href=\"http://ftpmirror.gnu.org/"
+"\">http://ftpmirror.gnu.org/</a> multiplexes between the mirrors, trying to "
+"choose one that is nearby and up to date.  E.g., <a href=\"http://ftpmirror."
+"gnu.org/emacs/\">http://ftpmirror.gnu.org/emacs/</a> goes to a mirror's "
+"directory of <a href=\"/software/emacs/\">GNU Emacs</a>.  We recommend using "
+"this generic ftpmirror.gnu.org address wherever possible in links, "
+"documentation, etc., to reduce load on the main GNU server."
+msgstr ""
+"Primeiro, para quem usa/baixa deles: o endereço <a href=\"http://ftpmirror."
+"gnu.org/\">http://ftpmirror.gnu.org/</a> multiplexa entre os espelhos "
+"(“mirrors”), tentando escolher um que está por perto e atualizado. Por "
+"exemplo, <a href=\"http://ftpmirror.gnu.org/emacs/\">http://ftpmirror.gnu."
+"org/emacs/</a> vai para o diretório de um espelho do <a href=\"/software/"
+"emacs/\">GNU Emacs</a>. Recomendamos o uso deste endereço genérico ftpmirror."
+"gnu.org sempre que possível em links, documentação, etc., para reduzir a "
+"carga no servidor GNU principal."
+
+#. type: Content of: <h3>
+msgid "Mirroring the GNU FTP server"
+msgstr "Espelhando o servidor FTP do GNU"
+
+#. type: Content of: <p>
+msgid ""
+"Mirroring the GNU FTP server requires approximately 63GB disk space (as of "
+"February&nbsp;2017).  You can rsync directly from ftp.gnu.org:"
+msgstr ""
+"Espelhar o servidor FTP da GNU requer aproximadamente 63 GB de espaço em "
+"disco (em fevereiro de 2017). Você pode fazer um rsync diretamente do ftp."
+"gnu.org:"
+
+#. type: Content of: <pre>
+#, no-wrap
+msgid "rsync -rltpHS --delete-excluded rsync://ftp.gnu.org/gnu/ /your/dir/\n"
+msgstr "rsync -rltpHS --delete-excluded rsync://ftp.gnu.org/gnu/ /seu/dir/\n"
+
+#. type: Content of: <p>
+msgid ""
+"However, please consider mirroring from another site, again to reduce load "
+"on the GNU server.  These sites provide access to all the material on ftp."
+"gnu.org.  They update from us nightly (at least), and you may access them "
+"via rsync with the same options as above:"
+msgstr ""
+"No entanto, considere espelhar a partir de outro site, para, novamente, "
+"reduzir a carga no servidor GNU. Esses sites fornecem acesso a todo o "
+"material em ftp.gnu.org. Eles atualizam de nós todas as noites (pelo menos) "
+"e você pode acessá-los via rsync com as mesmas opções acima:"
+
+#. type: Content of: <dl><dt>
+msgid "Africa"
+msgstr "África"
+
+#. type: Content of: <dl><dd>
+msgid "<tt>rsync://mirror.ufs.ac.za/gnu</tt> (South Africa)"
+msgstr "<tt>rsync://mirror.ufs.ac.za/gnu</tt> (África do Sul)"
+
+#. type: Content of: <dl><dt>
+msgid "North America"
+msgstr "América do Norte"
+
+#. type: Content of: <dl><dd>
+msgid "<tt>rsync://gnu.mirror.iweb.com/gnu</tt> (Canada)"
+msgstr "<tt>rsync://gnu.mirror.iweb.com/gnu</tt> (Canadá)"
+
+#. type: Content of: <dl><dd>
+msgid "<tt>rsync://mirror.sergal.org/gnu</tt> (Canada)"
+msgstr "<tt>rsync://mirror.sergal.org/gnu</tt> (Canadá)"
+
+#. type: Content of: <dl><dd>
+msgid "<tt>rsync://mirror.its.dal.ca/gnu</tt> (Canada)"
+msgstr "<tt>rsync://mirror.its.dal.ca/gnu</tt> (Canadá)"
+
+#. type: Content of: <dl><dd>
+msgid "<tt>rsync://mirror.csclub.uwaterloo.ca/gnu/</tt> (Canada)"
+msgstr "<tt>rsync://mirror.csclub.uwaterloo.ca/gnu/</tt> (Canadá)"
+
+#. type: Content of: <dl><dd>
+msgid "<tt>rsync://gnu.freemirror.org/gnu</tt> (Canada)"
+msgstr "<tt>rsync://gnu.freemirror.org/gnu</tt> (Canadá)"
+
+#. type: Content of: <dl><dd>
+msgid "<tt>rsync://mirror.keystealth.org/gnu/</tt> (California, USA)"
+msgstr "<tt>rsync://mirror.keystealth.org/gnu/</tt> (Califórnia, EUA)"
+
+#. type: Content of: <dl><dd>
+msgid "<tt>rsync://mirrors.ocf.berkeley.edu/gnu/</tt> (California, USA)"
+msgstr "<tt>rsync://mirrors.ocf.berkeley.edu/gnu/</tt> (Califórnia, EUA)"
+
+#. type: Content of: <dl><dd>
+msgid "<tt>rsync://mirrors.syringanetworks.net/gnu/</tt> (Idaho, USA)"
+msgstr "<tt>rsync://mirrors.syringanetworks.net/gnu/</tt> (Idaho, EUA)"
+
+#. type: Content of: <dl><dd>
+msgid "<tt>rsync://mirror.team-cymru.com/gnu/</tt> (Illinois, USA)"
+msgstr "<tt>rsync://mirror.team-cymru.com/gnu/</tt> (Ilinóis, EUA)"
+
+#. type: Content of: <dl><dd>
+msgid "<tt>rsync://mirror.leifrogers.com/gnu/gnu/</tt> (Indiana, USA)"
+msgstr "<tt>rsync://mirror.leifrogers.com/gnu/gnu/</tt> (Indiana, EUA)"
+
+#. type: Content of: <dl><dd>
+msgid "<tt>rsync://mirrors.tripadvisor.com/gnu/</tt> (Massachusetts, USA)"
+msgstr "<tt>rsync://mirrors.tripadvisor.com/gnu/</tt> (Massachusetts, EUA)"
+
+#. type: Content of: <dl><dd>
+msgid "<tt>rsync://mirror.clarkson.edu/gnu/</tt> (New York, USA)"
+msgstr "<tt>rsync://mirror.clarkson.edu/gnu/</tt> (Nova Iorque, EUA)"
+
+#. type: Content of: <dl><dt>
+msgid "South America"
+msgstr "América do Sul"
+
+#. type: Content of: <dl><dd>
+msgid "<tt>rsync://gnu.c3sl.ufpr.br/gnu/ftp/</tt> (Brazil)"
+msgstr "<tt>rsync://gnu.c3sl.ufpr.br/gnu/ftp/</tt> (Brasil)"
+
+#. type: Content of: <dl><dd>
+msgid "<tt>rsync://mirror.cedia.org.ec/gnu</tt> (Ecuador)"
+msgstr "<tt>rsync://mirror.cedia.org.ec/gnu</tt> (Equador)"
+
+#. type: Content of: <dl><dd>
+msgid "<tt>rsync://espejito.fder.edu.uy/gnu</tt> (Uruguay)"
+msgstr "<tt>rsync://espejito.fder.edu.uy/gnu</tt> (Uruguai)"
+
+#. type: Content of: <dl><dt>
+msgid "Asia"
+msgstr "Ásia"
+
+#. type: Content of: <dl><dd>
+msgid "<tt>rsync://mirrors.ustc.edu.cn/gnu/</tt> (China)"
+msgstr "<tt>rsync://mirrors.ustc.edu.cn/gnu/</tt> (China)"
+
+#. type: Content of: <dl><dd>
+msgid "<tt>rsync://mirrors.tuna.tsinghua.edu.cn/gnu/</tt> (China)"
+msgstr "<tt>rsync://mirrors.tuna.tsinghua.edu.cn/gnu/</tt> (China)"
+
+#. type: Content of: <dl><dd>
+msgid "<tt>rsync://mirror-hk.koddos.net/gnu/</tt> (Hong Kong)"
+msgstr "<tt>rsync://mirror-hk.koddos.net/gnu/</tt> (Hong Kong)"
+
+#. type: Content of: <dl><dd>
+msgid "<tt>rsync://ftp.jaist.ac.jp/pub/GNU/</tt> (Japan)"
+msgstr "<tt>rsync://ftp.jaist.ac.jp/pub/GNU/</tt> (Japão)"
+
+#. type: Content of: <dl><dd>
+msgid "<tt>rsync://mirror.jre655.com/GNU</tt> (Japan)"
+msgstr "<tt>rsync://mirror.jre655.com/GNU</tt> (Japão)"
+
+#. type: Content of: <dl><dd>
+msgid "<tt>rsync://ftp.kaist.ac.kr/gnu/</tt> (Korea)"
+msgstr "<tt>rsync://ftp.kaist.ac.kr/gnu/</tt> (Coreia)"
+
+#. type: Content of: <dl><dd>
+msgid "<tt>rsync://ftp.yzu.edu.tw/pub/gnu/</tt> (Taiwan)"
+msgstr "<tt>rsync://ftp.yzu.edu.tw/pub/gnu/</tt> (Taiwan)"
+
+#. type: Content of: <dl><dt>
+msgid "Europe"
+msgstr "Europa"
+
+#. type: Content of: <dl><dd>
+msgid "<tt>rsync://mirror.kumi.systems/gnu/</tt> (Austria)"
+msgstr "<tt>rsync://mirror.kumi.systems/gnu/</tt> (Áustria)"
+
+#. type: Content of: <dl><dd>
+msgid "<tt>rsync://ftp.funet.fi/ftp/pub/gnu/prep/</tt> (Finland)"
+msgstr "<tt>rsync://ftp.funet.fi/ftp/pub/gnu/prep/</tt> (Finlândia)"
+
+#. type: Content of: <dl><dd>
+msgid "<tt>rsync://rsync.cyberbits.eu/gnu/</tt> (France)"
+msgstr "<tt>rsync://rsync.cyberbits.eu/gnu/</tt> (França)"
+
+#. type: Content of: <dl><dd>
+msgid "<tt>rsync://rsync://ftp.fau.de/gnu</tt> (Germany)"
+msgstr "<tt>rsync://rsync://ftp.fau.de/gnu</tt> (Alemanha)"
+
+#. type: Content of: <dl><dd>
+msgid "<tt>rsync://mirror.netcologne.de/gnu</tt> (Germany)"
+msgstr "<tt>rsync://mirror.netcologne.de/gnu</tt> (Alemanha)"
+
+#. type: Content of: <dl><dd>
+msgid "<tt>rsync://quantum-mirror.hu/gnu/</tt> (Hungary)"
+msgstr "<tt>rsync://quantum-mirror.hu/gnu/</tt> (Hungria)"
+
+#. type: Content of: <dl><dd>
+msgid "<tt>rsync://mirrors.mivocloud.com/gnu/</tt> (Moldova)"
+msgstr "<tt>rsync://mirrors.mivocloud.com/gnu/</tt> (Moldávia)"
+
+#. type: Content of: <dl><dd>
+msgid "<tt>rsync://ftp.snt.utwente.nl/gnu/</tt> (Netherlands)"
+msgstr "<tt>rsync://ftp.snt.utwente.nl/gnu/</tt> (Países Baixos)"
+
+#. type: Content of: <dl><dd>
+msgid "<tt>rsync://mirror.koddos.net/gnu</tt> (Netherlands)"
+msgstr "<tt>rsync://mirror.koddos.net/gnu</tt> (Países Baixos)"
+
+#. type: Content of: <dl><dd>
+msgid "<tt>rsync://gnuftp.uib.no/gnuftp/</tt> (Norway)"
+msgstr "<tt>rsync://gnuftp.uib.no/gnuftp/</tt> (Noruega)"
+
+#. type: Content of: <dl><dd>
+msgid "<tt>rsync://mirrors.up.pt/pub/gnu/</tt> (Portugal)"
+msgstr "<tt>rsync://mirrors.up.pt/pub/gnu/</tt> (Portugal)"
+
+#. type: Content of: <dl><dd>
+msgid "<tt>rsync://mirrors.nav.ro/gnu</tt> (Romania)"
+msgstr "<tt>rsync://mirrors.nav.ro/gnu</tt> (Romênia)"
+
+#. type: Content of: <dl><dd>
+msgid "<tt>rsync://mirror.sbb.rs/gnu/</tt> (Serbia)"
+msgstr "<tt>rsync://mirror.sbb.rs/gnu/</tt> (Sérvia)"
+
+#. type: Content of: <dl><dd>
+msgid "<tt>rsync://ftp.acc.umu.se/mirror/gnu.org/gnu/</tt> (Sweden)"
+msgstr "<tt>rsync://ftp.acc.umu.se/mirror/gnu.org/gnu/</tt> (Suécia)"
+
+#. type: Content of: <dl><dd>
+msgid "<tt>rsync://rsync.mirrorservice.org/ftp.gnu.org/gnu/</tt> (UK)"
+msgstr ""
+"<tt>rsync://rsync.mirrorservice.org/ftp.gnu.org/gnu/</tt> (Reino Unido)"
+
+#. type: Content of: <dl><dd>
+msgid "<tt>rsync://ftp-gnu-org.ip-connect.vn.ua/ftp.gnu.org/</tt> (Ukraine)"
+msgstr "<tt>rsync://ftp-gnu-org.ip-connect.vn.ua/ftp.gnu.org/</tt> (Ucrânia)"
+
+#. type: Content of: <h3>
+msgid "Making your mirror public"
+msgstr "Tornando seu espelho público"
+
+#. type: Content of: <p>
+msgid ""
+"You can keep your mirror private, but we will be very grateful if you "
+"support free software by making it public. However, your mirror needs to "
+"meet the following guidelines to be accepted on our <a href=\"/prep/ftp.html"
+"\">public mirror list</a>:"
+msgstr ""
+"Você pode manter seu espelho privado, mas ficaremos muito gratos se você "
+"apoiasse o software livre tornando-o público. No entanto, seu espelho "
+"precisa seguir as diretrizes a seguir para serem aceitos em nossa <a href=\"/"
+"prep/ftp.html\">lista de espelhos públicos</a>:"
+
+#. type: Content of: <ul><li>
+msgid "Text (if any) should be as short as possible, and strictly explanatory."
+msgstr ""
+"O texto (se houver) deve ser o mais curto possível e estritamente "
+"explicativo."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Images, including logos, should be avoided by courtesy to people who use "
+"devices with small screens, except if the images are on the site being "
+"mirrored."
+msgstr ""
+"Imagens, incluindo logotipos, devem ser evitadas por cortesia a pessoas que "
+"usam dispositivos com telas pequenas, exceto se as imagens estiverem no site "
+"sendo espelhadas."
+
+#. type: Content of: <ul><li>
+msgid ""
+"The header and footer shouldn't have links, except possibly for bug-"
+"reporting. Extra links are annoying for users, and in some cases are "
+"considered spam."
+msgstr ""
+"O cabeçalho e o rodapé não devem ter links, exceto possivelmente para "
+"relatórios de erros. Links extras são irritantes para os usuários e, em "
+"alguns casos, são considerados spam."
+
+#. type: Content of: <p>
+msgid ""
+"To add your mirror to the public mirror list, we require (and recommend) a "
+"daily update frequency.  <em>After</em> establishing your mirror, please "
+"contact <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a> "
+"so we can review it.  Please provide the following:"
+msgstr ""
+"Para adicionar o seu espelho à lista de espelhos públicos, exigimos (e "
+"recomendamos) uma frequência de atualização diária. <em>Depois</em> de "
+"estabelecer seu espelho, entre em contato com <a href=\"mailto:"
+"webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a> para que possamos "
+"analisá-lo. Por favor, forneça o seguinte:"
+
+#. type: Content of: <ul><li>
+msgid "URL of the mirror (https/http/ftp/rsync as appropriate),"
+msgstr "URL do espelho (https/http/ftp/rsync, conforme apropriado),"
+
+#. type: Content of: <ul><li>
+msgid "country where the mirror is located,"
+msgstr "país onde o espelho está localizado,"
+
+#. type: Content of: <ul><li>
+msgid "update frequency (once daily is recommended),"
+msgstr "frequência de atualização (uma vez por dia é recomendado),"
+
+#. type: Content of: <ul><li>
+msgid ""
+"preferred contact information for any mirror-related issues (we will keep "
+"all contact information confidential), and"
+msgstr ""
+"informações de contato preferenciais para quaisquer problemas relacionados a "
+"espelhos (manteremos todas as informações de contato confidenciais) e"
+
+#. type: Content of: <ul><li>
+msgid "whether your site can also be a source for other mirrors."
+msgstr "se o seu site também pode ser uma fonte para outros espelhos."
+
+#. type: Content of: <h3>
+msgid "Web setup for mirrors"
+msgstr "Configuração web para espelhos"
+
+#. type: Content of: <p>
+msgid ""
+"It is very useful to make your mirror available to users via HTTP or HTTPS, "
+"so please support this if you can. We highly encourage new mirrors to "
+"support HTTPS as the most secure option."
+msgstr ""
+"É muito útil disponibilizar seu espelho para os usuários via HTTP ou HTTPS, "
+"então, por favor, apoiem essa ideia, se puderem. Recomendamos fortemente que "
+"novos espelhos tenham suporte a HTTPS como a opção mais segura."
+
+#. type: Content of: <p>
+msgid ""
+"Set up your web server configuration to avoid sending the Content-Encoding "
+"header because it causes problems with some gateways."
+msgstr ""
+"Defina a configuração do servidor web para evitar o envio do cabeçalho "
+"Content-Encoding, pois isso causa problemas em alguns gateways."
+
+#. type: Content of: <p>
+msgid ""
+"With Apache, we highly recommend the following setting, so that users can "
+"see full filenames in generated listings instead of having them be truncated:"
+msgstr ""
+"Com o Apache, recomendamos a configuração a seguir, para que os usuários "
+"possam ver nomes de arquivos completos nas listagens geradas, em vez de "
+"serem truncados:"
+
+#. type: Content of: <pre>
+#, no-wrap
+msgid "IndexOptions NameWidth=*\n"
+msgstr "IndexOptions NameWidth=*\n"
+
+#. type: Content of: <p>
+msgid ""
+"If you set up an HTTPS mirror, please make sure its SSL certificate carries "
+"a valid signature from a certification authority; it's difficult for us to "
+"track mirrors with self-signed certificates. If you don't already have a "
+"valid signature, Let's Encrypt is a good place to get it."
+msgstr ""
+"Se você configurar um espelho HTTPS, certifique-se que o certificado SSL "
+"possua uma assinatura válida de uma autoridade certificadora; é difícil para "
+"nós rastrear espelhos com certificados autoassinados. Se você ainda não tem "
+"uma assinatura válida, o Let's Encrypt é um bom lugar para obtê-lo."
+
+#. type: Content of: <h3>
+msgid "Mirroring the GNU Alpha release server"
+msgstr "Espelhando o servidor de lançamentos GNU Alpha"
+
+#. type: Content of: <p>
+msgid ""
+"ftp.gnu.org and other sites also offer alpha.gnu.org (around 10GB) for your "
+"mirroring pleasure:"
+msgstr ""
+"ftp.gnu.org e outros sites também oferecem alpha.gnu.org (cerca de 10GB) "
+"para o seu prazer de espelhamento:"
+
+#. type: Content of: <dl><dd>
+msgid "<tt>rsync://ftp.gnu.org/alpha/</tt> (USA - primary site)"
+msgstr "<tt>rsync://ftp.gnu.org/alpha/</tt> (EUA - site principal)"
+
+#. type: Content of: <dl><dd>
+msgid "<tt>rsync://gnualpha.freemirror.org/gnualpha</tt> (Canada)"
+msgstr "<tt>rsync://gnualpha.freemirror.org/gnualpha</tt> (Canadá)"
+
+#. type: Content of: <dl><dd>
+msgid "<tt>rsync://gnu.c3sl.ufpr.br/gnu/alpha/</tt> (Brazil)"
+msgstr "<tt>rsync://gnu.c3sl.ufpr.br/gnu/alpha/</tt> (Brasil)"
+
+#. type: Content of: <dl><dd>
+msgid "<tt>rsync://mirror.cedia.org.ec/gnualpha</tt> (Ecuador)"
+msgstr "<tt>rsync://mirror.cedia.org.ec/gnualpha</tt> (Equador)"
+
+#. type: Content of: <dl><dd>
+msgid "<tt>rsync://mirror.kumi.systems/gnualpha/</tt> (Austria)"
+msgstr "<tt>rsync://mirror.kumi.systems/gnualpha/</tt> (Áustria)"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"<tt>rsync://ftp.funet.fi/ftp/pub/mirrors/alpha.gnu.org/gnu/</tt> (Finland)"
+msgstr ""
+"<tt>rsync://ftp.funet.fi/ftp/pub/mirrors/alpha.gnu.org/gnu/</tt> (Finlândia)"
+
+#. type: Content of: <dl><dd>
+msgid "<tt>rsync://rsync.cyberbits.eu/gnu/alpha/</tt> (France)"
+msgstr "<tt>rsync://rsync.cyberbits.eu/gnu/alpha/</tt> (França)"
+
+#. type: Content of: <dl><dd>
+msgid "<tt>rsync://quantum-mirror.hu/gnualpha/</tt> (Hungary)"
+msgstr "<tt>rsync://quantum-mirror.hu/gnualpha/</tt> (Hungria)"
+
+#. type: Content of: <dl><dd>
+msgid "<tt>rsync://gnualpha.uib.no/gnualpha</tt> (Norway)"
+msgstr "<tt>rsync://gnualpha.uib.no/gnualpha</tt> (Noruega)"
+
+#. type: Content of: <dl><dd>
+msgid "<tt>rsync://mirrors.up.pt/pub/gnu-alpha/</tt> (Portugal)"
+msgstr "<tt>rsync://mirrors.up.pt/pub/gnu-alpha/</tt> (Portugal)"
+
+#. type: Content of: <dl><dd>
+msgid "<tt>rsync://ftp.acc.umu.se/mirror/gnu.org/alpha/</tt> (Sweden)"
+msgstr "<tt>rsync://ftp.acc.umu.se/mirror/gnu.org/alpha/</tt> (Suécia)"
+
+#. type: Content of: <dl><dd>
+msgid "<tt>rsync://rsync.mirrorservice.org/alpha.gnu.org/gnu/</tt> (UK)"
+msgstr ""
+"<tt>rsync://rsync.mirrorservice.org/alpha.gnu.org/gnu/</tt> (Reino Unido)"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"<tt>rsync://alpha-gnu-org.ip-connect.vn.ua/alpha.gnu.org/</tt> (Ukraine)"
+msgstr ""
+"<tt>rsync://alpha-gnu-org.ip-connect.vn.ua/alpha.gnu.org/</tt> (Ucrânia)"
+
+#. type: Content of: <p>
+msgid "Nightly updates are sufficient for GNU FTP and Alpha material."
+msgstr ""
+"Atualizações noturnas são suficientes para o material do GNU FTP e Alpha."
+
+#. type: Content of: <h3>
+msgid "Mirroring nongnu releases from Savannah"
+msgstr "Espelhando lançamentos nongnu do Savannah"
+
+#. type: Content of: <p>
+msgid ""
+"We also greatly appreciate additional mirrors of the <em>nongnu</em> "
+"projects hosted at <a href=\"http://savannah.nongnu.org/\">savannah.nongnu."
+"org</a>.  The total is currently around 51GB.  To do this, we recommend you "
+"retrieve and update the files using rsync, with the same options as above "
+"for ftp.gnu.org, namely:"
+msgstr ""
+"Também apreciamos muito os espelhos adicionais dos projetos <em>nongnu</em> "
+"hospedados em <a href=\"http://savannah.nongnu.org/\">savannah.nongnu.org</"
+"a>. O total está atualmente em torno de 51 GB. Para fazer isso, recomendamos "
+"que você obtenha e atualize os arquivos usando o rsync, com as mesmas opções "
+"acima para ftp.gnu.org, a saber:"
+
+#. type: Content of: <pre>
+#, no-wrap
+msgid "rsync -rltpHS --delete-excluded rsync://dl.sv.gnu.org/releases/ /your/dir\n"
+msgstr "rsync -rltpHS --delete-excluded rsync://dl.sv.gnu.org/releases/ /seu/dir\n"
+
+#. type: Content of: <p>
+msgid ""
+"These options ensure that it is an exact mirror.  (There will probably be "
+"some permission errors; just ignore them.  They are due to choices or "
+"mistakes by individual project maintainers.)"
+msgstr ""
+"Essas opções garantem que seja um espelho exato. (Provavelmente haverá "
+"alguns erros de permissão; simplesmente ignore-os. Eles são devidos a "
+"escolhas ou erros de mantenedores individuais do projeto.)"
+
+#. type: Content of: <p>
+msgid ""
+"It is fine to update savannah/nongnu once a day as well; twice a day if you "
+"like.  More than that is not worth the bandwidth, the contents are not that "
+"dynamic."
+msgstr ""
+"É suficiente atualizar savannah/nongnu uma vez por dia também; duas vezes "
+"por dia, se quiser. Mais do que isso não vale o gasto de largura de banda, "
+"pois o conteúdo não é tão dinâmico."
+
+#. type: Content of: <p>
+msgid ""
+"If you can help with this, please <a href=\"mailto:webmasters@gnu.org"
+"\">email us</a> with the url to your mirror so we can add you to the <a href="
+"\"http://dl.sv.gnu.org/releases/00_MIRRORS.html\">list</a>.  Thanks!"
+msgstr ""
+"Se você puder ajudar com isso, <a href=\"mailto:webmasters@gnu.org\">envie-"
+"nos um e-mail</a> com a URL para o seu espelho, para que possamos adicioná-"
+"lo à <a href=\"http://dl.sv.gnu.org/releases/00_MIRRORS.html\">lista</a>. "
+"Obrigado!"
+
+#. type: Content of: <h3>
+msgid "(Not) Mirroring the GNU web server"
+msgstr "(Não) Espelhando o servidor web do GNU"
+
+#. type: Content of: <p>
+msgid ""
+"We no longer recommend creating web mirrors, because it has turned out that "
+"(a)&nbsp;few people can make use of them, and (b)&nbsp;many mirrors either "
+"became out of date or went offline relatively frequently.  We don't want "
+"outdated information about the GNU project to be disseminated."
+msgstr ""
+"Não mais recomendamos a criação de espelhos do site do GNU, pois descobriu-"
+"se que (a) poucas pessoas podem fazer uso deles e (b) muitos espelhos "
+"ficavam desatualizados ou off-line com certa frequência. Não queremos que "
+"informações desatualizadas sobre o projeto GNU sejam divulgadas."
+
+#. type: Content of: <p>
+msgid ""
+"Nonetheless, if you wish to mirror www.gnu.org for your own purposes, that "
+"is ok with us.  We recommend using <tt>mod_proxy</tt>.  Here is an "
+"<i>unsupported</i> recipe of Apache directives for your <tt>&lt;"
+"VirtualHost&gt;</tt>:"
+msgstr ""
+"No entanto, se você quiser espelhar o www.gnu.org para seus próprios "
+"propósitos, não há problema. Recomendamos usar o <tt>mod_proxy</tt>. Aqui "
+"está uma receita <i>sem suporte</i> das diretivas do Apache para o seu "
+"<tt>&lt;VirtualHost&gt;</tt>:"
+
+# TRADUTOR, cuidado que as aspas aqui NÃO PODEM ser aspas duplas curvadas
+#. type: Content of: <pre>
+#, no-wrap
+msgid ""
+"ServerName gnumirror.example.org\n"
+"CacheRoot \"/var/cache/mod_proxy\"\n"
+"CacheDefaultExpire 86400 # for Apache 2.0+, value is in seconds\n"
+"ProxyPass / http://www.gnu.org/\n"
+"CacheEnable disk /\n"
+msgstr ""
+"ServerName gnumirror.example.org\n"
+"CacheRoot \"/var/cache/mod_proxy\"\n"
+"CacheDefaultExpire 86400 # para Apache 2.0+, valor é em segundos\n"
+"ProxyPass / http://www.gnu.org/\n"
+"CacheEnable disk /\n"
+
+#. type: Content of: <p>
+msgid "(Thanks to Juri Hoerner for providing this Apache information.)"
+msgstr "(Obrigado a Juri Hoerner por fornecer essa informação sobre o Apache.)"
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid ""
+"Copyright &copy; 2014, 2015, 2016, 2017, 2018, 2019 Free Software "
+"Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2014, 2015, 2016, 2017, 2018, 2019 Free Software "
+"Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2019."
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização:"
+
+#~ msgid ""
+#~ "Set up your web server configuration to avoid sending <tt>.gz.sig</tt> "
+#~ "files (signatures of compressed files, of which there are many on our "
+#~ "servers) as gzip-encoded.  For Apache, this means:"
+#~ msgstr ""
+#~ "Prepare a configuração do seu servidor web para evitar o envio de "
+#~ "arquivos <tt>.gz.sig</tt> (assinaturas de arquivos compactados, dos quais "
+#~ "existem muitos em nossos servidores) como codificados em gzip. Para o "
+#~ "Apache, isso significa:"
+
+#~ msgid ""
+#~ "AddType application/pgp-signature .sig\n"
+#~ "# make sure .sig files are _not_ sent with \"Content-Encoding: gzip\".\n"
+#~ "&lt;Files *.gz.sig&gt;\n"
+#~ "  RemoveEncoding .gz\n"
+#~ "&lt;/Files&gt;\n"
+#~ "&lt;Files *.tgz.sig&gt;\n"
+#~ "  RemoveEncoding .tgz\n"
+#~ "&lt;/Files&gt;\n"
+#~ msgstr ""
+#~ "AddType application/pgp-signature .sig\n"
+#~ "# evita arquivos .sig _não_ sejam enviados com “Content-Encoding: gzip”.\n"
+#~ "&lt;Files *.gz.sig&gt;\n"
+#~ "  RemoveEncoding .gz\n"
+#~ "&lt;/Files&gt;\n"
+#~ "&lt;Files *.tgz.sig&gt;\n"
+#~ "  RemoveEncoding .tgz\n"
+#~ "&lt;/Files&gt;\n"
+
+#~ msgid ""
+#~ "Variation: if your AddEncoding lines do not have a leading dot for the "
+#~ "extension, for instance like this:"
+#~ msgstr ""
+#~ "Variação: se suas linhas AddEncoding não tiverem um ponto inicial para a "
+#~ "extensão, por exemplo, assim:"
+
+#~ msgid "AddEncoding x-gzip gz tgz\n"
+#~ msgstr "AddEncoding x-gzip gz tgz\n"
+
+#~ msgid "then the RemoveEncoding lines should also not have a leading dot."
+#~ msgstr ""
+#~ "então as linhas RemoveEncoding também não devem ter um ponto inicial."

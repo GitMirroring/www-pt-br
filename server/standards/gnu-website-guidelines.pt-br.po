@@ -1,0 +1,2084 @@
+# Brazilian Portuguese translation of https://www.gnu.org/server/standards/gnu-website-guidelines.html
+# Copyright (C) 2019 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: gnu-website-guidelines.html\n"
+"POT-Creation-Date: 2018-12-15 10:26+0000\n"
+"PO-Revision-Date: 2019-04-26 15:29-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid "Website Guidelines - GNU Project - Free Software Foundation"
+msgstr "Diretrizes do Site - Projeto GNU - Free Software Foundation"
+
+#. type: Content of: <h2>
+msgid "GNU Website Guidelines"
+msgstr "Diretrizes do Site GNU"
+
+#. type: Content of: <p>
+msgid ""
+"Our goal is to get information to people. Keeping the site design simple "
+"helps accomplish that."
+msgstr ""
+"Nosso objetivo é levar informações às pessoas. Manter o design do site "
+"simples ajuda a cumprir isso."
+
+#. type: Content of: <p>
+msgid ""
+"Please be considerate of all who access our web pages, and accommodate them, "
+"including those who use text-only browsers or old browsers, as well as those "
+"with slow connections.  We wish to prevent HTML design that looks great "
+"under one version of one browser, and ugly under many others.  Of course, "
+"please don't install any of the proprietary software browsers available if "
+"you don't already use them anyway."
+msgstr ""
+"Por favor, seja atencioso com todas as pessoas que acessam nossas páginas da "
+"web e acomode-as, incluindo aquelas que usam navegadores somente de texto ou "
+"navegadores antigos, bem como aquelas com conexões lentas. Desejamos evitar "
+"que o design HTML tenha uma ótima aparência em uma versão de um navegador e "
+"que seja feio em muitos outros. Claro, por favor, não instale nenhum dos "
+"navegadores de software proprietários disponíveis se você já não os usa."
+
+#. type: Content of: <div><h3>
+msgid "Table of Contents"
+msgstr "Conteúdo"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"#GeneralGuidelines\">General Guidelines</a>"
+msgstr "<a href=\"#GeneralGuidelines\">Diretrizes gerais</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"#CopyrightGuidelines\">Copyright Guidelines</a>"
+msgstr "<a href=\"#CopyrightGuidelines\">Diretrizes de direitos autorais</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"#orthography\">Spelling and Punctuation</a>"
+msgstr "<a href=\"#orthography\">Escrita e pontuação</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"#filenames\">Filenames</a>"
+msgstr "<a href=\"#filenames\">Nomes de arquivos</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"#urls\">URLs</a>"
+msgstr "<a href=\"#urls\">URLs</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"#HTMLGuidelines\">HTML Guidelines</a>"
+msgstr "<a href=\"#HTMLGuidelines\">Diretrizes de HTML</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"#tables\">Tables and menus</a>"
+msgstr "<a href=\"#tables\">Tabelas e menus</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"#templating\">Using our page template</a>"
+msgstr "<a href=\"#templating\">Usando nosso modelo de página</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"#styling\">Page Styling</a>"
+msgstr "<a href=\"#styling\">Estilo de página</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"#UseofGraphics\">Use of Graphics</a>"
+msgstr "<a href=\"#UseofGraphics\">Uso de imagens</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"#pollinking\">Appendix 1 - Linking Policies</a>"
+msgstr "<a href=\"#pollinking\">Apêndice 1 - Políticas de links</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"#repo\">Appendix 2 - Working with Web CVS Repositories</a>"
+msgstr ""
+"<a href=\"#repo\">Apêndice 2 - Trabalhando com repositórios CVS Web</a>"
+
+#. type: Content of: <div><ul><li><ul><li>
+msgid "<a href=\"#cvs\">Basic CVS commands</a>"
+msgstr "<a href=\"#cvs\">Comandos básicos de CVS</a>"
+
+#. type: Content of: <div><ul><li><ul><li>
+msgid "<a href=\"#symlinks\">Symbolic links</a>"
+msgstr "<a href=\"#symlinks\">Links simbólicos</a>"
+
+#. type: Content of: <div><ul><li><ul><li>
+msgid "<a href=\"#htaccess\">.htaccess and redirections</a>"
+msgstr "<a href=\"#htaccess\">.htaccess e redirecionamentos</a>"
+
+#. type: Content of: <div><ul><li><ul><li>
+msgid "<a href=\"#scripts\">Scripts</a>"
+msgstr "<a href=\"#scripts\">Scripts</a>"
+
+#. type: Content of: <div><ul><li><ul><li>
+msgid "<a href=\"#sysadmins\">System administrators</a>"
+msgstr "<a href=\"#sysadmins\">Administradores de sistema</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"#UsefulResources\">Useful Resources</a>"
+msgstr "<a href=\"#UsefulResources\">Recursos úteis</a>"
+
+#. type: Content of: <h3>
+msgid "General Guidelines"
+msgstr "Diretrizes gerais"
+
+#. type: Content of: <ul><li>
+msgid ""
+"The GNU web server has only <a href=\"/philosophy/free-sw.html\">free "
+"software</a> available.  We prefer that only free software be used to "
+"prepare pages for the GNU web server."
+msgstr ""
+"O servidor web GNU tem apenas <a href=\"/philosophy/free-sw.html\">software "
+"livre</a> disponível. Nós preferimos que apenas software livre seja usado "
+"para preparar páginas para o servidor web GNU."
+
+#. type: Content of: <ul><li>
+msgid ""
+"The GNU website lists and links <strong>only</strong> to free software.  The "
+"software's source code and executables have to be freely redistributable and "
+"modifiable to and by all people and organizations.  If in doubt, ask <a href="
+"\"mailto:gnu@gnu.org\">&lt;gnu@gnu.org&gt;</a>."
+msgstr ""
+"O site do GNU lista e vincula <strong>somente</strong> a software livre. O "
+"código-fonte e os executáveis do software precisam ser livremente "
+"redistribuídos e modificáveis para e por todas as pessoas e organizações. Em "
+"caso de dúvida, pergunte <a href=\"mailto:gnu@gnu.org\">&lt;gnu@gnu.org&gt;</"
+"a>."
+
+#. type: Content of: <ul><li>
+msgid ""
+"The GNU website gives priority to software covered by either the GNU General "
+"Public License or GNU Lesser General Public License."
+msgstr ""
+"O site GNU dá prioridade ao software coberto pela Licença Pública Geral GNU "
+"ou pela Licença Pública Geral Menor GNU."
+
+#. type: Content of: <ul><li>
+msgid ""
+"The GNU website is more interested in substance than style.  The use of "
+"graphics should be minimized so pages load fast over slow links."
+msgstr ""
+"O site do GNU está mais interessado em conteúdo do que em estilo. O uso de "
+"gráficos deve ser minimizado para que as páginas carreguem rapidamente em "
+"links lentos."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Offer a document in as many formats as the GNU Project has it.  For an "
+"example, see <a href=\"/licenses/fdl.html\">The GNU Free Documentation "
+"License</a>. This lets users get the document in the format most useful to "
+"them."
+msgstr ""
+"Ofereça um documento em tantos formatos quanto o Projeto GNU. Por exemplo, "
+"veja <a href=\"/licenses/fdl.html\"> a Licença de Documentação Livre GNU</"
+"a>. Isso permite que usuários obtenham o documento no formato mais útil para "
+"eles."
+
+#. type: Content of: <ul><li>
+msgid ""
+"In addition to <a href=\"#CopyrightGuidelines\">copyright and license "
+"notices</a>, all pages should have contact info for both the FSF (or "
+"responsible party) and the address for bug reports (webmasters for general "
+"pages, but project-specific addresses otherwise) at the bottom of each "
+"page.  The reason to note this at the bottom is so the user always finds "
+"this information at the same place on each page."
+msgstr ""
+"Além dos <a href=\"#CopyrightGuidelines\">avisos de direitos autorais e de "
+"licença</a>, todas as páginas devem ter informações de contato para a FSF "
+"(ou responsável) e o endereço para relatórios de erros (webmasters para "
+"páginas gerais, mas projetos endereços específicos de outra forma) na parte "
+"inferior de cada página. O motivo para anotar isso na parte inferior é para "
+"que o usuário sempre encontre essas informações no mesmo lugar em cada "
+"página."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Before you take any graphics or text from another website, please ask for "
+"permission to use it.  It's polite to do so.  It is also essential for us to "
+"avoid copyright infringement."
+msgstr ""
+"Antes de pegar qualquer gráfico ou texto de outro site, peça permissão para "
+"usá-lo. É educado fazê-lo. Também é essencial que evitemos a violação de "
+"direitos autorais."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Before adding a link, check that it follows our <a href=\"#pollinking"
+"\">linking criteria</a>."
+msgstr ""
+"Antes de adicionar um link, verifique se ele segue nossos <a href="
+"\"#pollinking\">critérios de links</a>."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Do not list an address of an individual, including the maintainer of a GNU "
+"package, unless explicitly asked to have it listed.  Most GNU maintainers do "
+"not want a lot of extra mail and prefer to get bug reports, etc. from the "
+"GNU bug report <a href=\"/prep/mailinglists.html\">mailing lists</a>."
+msgstr ""
+"Não liste um endereço de alguém específico, incluindo o do mantenedor de um "
+"pacote GNU, a menos que seja explicitamente solicitado que seja listado. A "
+"maioria dos mantenedores do GNU não quer muitos e-mails extras e prefere "
+"receber relatórios de errors, etc., das <a href=\"/prep/mailinglists.html"
+"\">listas de discussão</a> de relatório de erros do GNU."
+
+#. type: Content of: <ul><li>
+msgid ""
+"On pages with dated entries (e.g., /philosophy/latest-articles.html), the "
+"newer entries should be first (i.e., reverse chronological order)."
+msgstr ""
+"Em páginas com entradas datadas (por exemplo, /philosophy/latest-articles."
+"html), as entradas mais recentes devem ser as primeiras (ou seja, ordem "
+"cronológica inversa)."
+
+#. type: Content of: <ul><li>
+msgid "Pages should not load CSS from servers other than those run by the FSF."
+msgstr ""
+"As páginas não devem carregar CSS de servidores que não sejam aqueles "
+"executados pela FSF."
+
+#. type: Content of: <h3>
+msgid "Copyright Guidelines"
+msgstr "Diretrizes de direitos autorais"
+
+#. type: Content of: <ul><li>
+msgid ""
+"Every page should have a copyright notice.  See the <a href=\"//web.cvs."
+"savannah.gnu.org/viewvc/*checkout*/www/server/standards/boilerplate.html?"
+"root=www&amp;content-type=text%2Fplain\"> boilerplate</a>, referred below."
+msgstr ""
+"Cada página deve ter um aviso de direitos autorais. Veja o <a href=\"//web."
+"cvs.savannah.gnu.org/viewvc/*checkout*/www/server/standards/boilerplate.html?"
+"root=www&amp;content-type=text%2Fplain\">boilerplate</a>, referido abaixo."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Every page should have a notice giving everyone permission to distribute "
+"it.  If you cannot get such a permission from the author, please discuss the "
+"issue with the webmasters before posting it.  This applies to CSS as well as "
+"to HTML."
+msgstr ""
+"Cada página deve ter um aviso dando permissão a todos para distribuí-la. Se "
+"você não puder obter essa permissão do autor, discuta o problema com os "
+"webmasters antes de publicá-la. Isso se aplica ao CSS e ao HTML."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Normally you shouldn't post a page that isn't copyright FSF unless we have "
+"permission to modify the version we publish.  If you cannot get such a "
+"permission from the author, please discuss the issue with the FSF before "
+"posting it.  This applies to CSS as well as to HTML."
+msgstr ""
+"Normalmente você não deve publicar uma página que não seja de direito "
+"autoral da FSF, a menos que tenhamos permissão para modificar a versão que "
+"publicamos. Se você não puder obter tal permissão do autor, por favor, "
+"discuta o assunto com a FSF antes de publicá-la. Isso se aplica ao CSS e ao "
+"HTML."
+
+#. type: Content of: <ul><li>
+msgid ""
+"If ultimately we decide to post a new page we don't have permission to "
+"modify, put the text &ldquo;Posted in 20XX without FSF permission to "
+"modify&rdquo; inside an HTML comment, just after the copyright notice."
+msgstr ""
+"Se, em última análise, decidirmos publicar uma nova página que não temos "
+"permissão para modificar, coloque o texto <em>“Posted in 20XX without FSF "
+"permission to modify”</em> dentro de um comentário HTML, logo após o aviso "
+"de direitos autorais."
+
+#. type: Content of: <ul><li>
+msgid ""
+"The user of our pages should always find the copyright information at the "
+"same place on each page.  If the page is copyrighted by some other person or "
+"entity, use per or its copyright notice instead of the FSF copyright "
+"notice.  Use the rest of the FSF's normal footer material, except when there "
+"is a specific reason to change something in it."
+msgstr ""
+"O usuário de nossas páginas deve sempre encontrar as informações de direitos "
+"autorais no mesmo lugar em cada página. Se a página for protegida por "
+"direitos autorais por outra pessoa ou entidade, use seu aviso de direitos "
+"autorais em vez do aviso de direitos autorais da FSF. Use o resto do "
+"material de rodapé normal da FSF, exceto quando houver uma razão específica "
+"para alterar algo nele."
+
+#. type: Content of: <ul><li>
+msgid ""
+"All pages that explain how to do something, such as how to use certain "
+"programs, are documentation.  This includes all the pages in <code>/software/"
+"</code> that describe specific programs.  By our principles, <a href=\"/"
+"philosophy/free-doc.html\"> documentation must be free</a>.  So these pages "
+"must carry a <a href=\"/licenses/license-recommendations.html\">free "
+"license</a>.  If such a page doesn't have a free license, please report the "
+"problem to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</"
+"a>."
+msgstr ""
+"Todas as páginas que explicam como fazer algo, como usar determinados "
+"programas, são documentação. Isso inclui todas as páginas em <code>/software/"
+"</code> que descrevem programas específicos. Pelos nossos princípios, a <a "
+"href=\"/philosophy/free-doc.html\"> documentação deve ser livre</a>. "
+"Portanto, essas páginas devem ter uma <a href=\"/licenses/license-"
+"recommendations.html\"> licença livre</a>. Se essa página não tiver uma "
+"licença livre, relate o problema para <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a>."
+
+#. type: Content of: <ul><li>
+msgid ""
+"For other pages, use the same license as some other page that serves a "
+"similar kind of purpose."
+msgstr ""
+"Para outras páginas, use a mesma licença que outra página que serve a um "
+"propósito semelhante."
+
+#. type: Content of: <h3>
+msgid "Spelling and Punctuation"
+msgstr "Escrita e pontuação"
+
+#. type: Content of: <ul><li>
+msgid ""
+"English pages should follow the standard American spelling, hyphenation and "
+"punctuation conventions."
+msgstr ""
+"As páginas em inglês devem seguir as convenções padrão norte-americano de "
+"ortografia, hifenização e pontuação."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Since these conventions are not always very specific, especially as regards "
+"hyphenation and quotes, gnu.org adds its own rules for the sake of "
+"consistency:"
+msgstr ""
+"Como essas convenções nem sempre são muito específicas, especialmente no que "
+"diz respeito a hifenização e citações, o gnu.org acrescenta suas próprias "
+"regras para manter a consistência:"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"&ldquo;Nonfree&rdquo; is preferred over &ldquo;non-free;&rdquo; likewise, "
+"&ldquo;noncommercial&rdquo; over &ldquo;non-commercial&rdquo;."
+msgstr ""
+"“<em>Nonfree</em>” é preferido a “<em>non-free</em>”; da mesma forma, "
+"“<em>noncommercial</em>” a “<em>non-commercial</em>”."
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"In ordinary text, HTML entities &ldquo;&amp;ldquo;...&amp;rdquo;&rdquo; and "
+"&ldquo;&amp;lsquo;...&amp;rsquo;&rdquo; are preferred over straight quotes "
+"(\"...\" and '...'). This doesn't apply to script-generated documents."
+msgstr ""
+"Em um texto comum, as entidades HTML “&amp;ldquo;...&amp;rdquo;” e “&amp;"
+"lsquo;...&amp;rsquo;” são preferidas a aspas retas (\"...\" e '...'). Isso "
+"não se aplica a documentos gerados por script."
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"Where they exist, the double spaces after sentence breaks should be "
+"preserved. They enable Emacs sentence commands to do the right thing."
+msgstr ""
+"Onde eles existem, os espaços duplos após as quebras de sentença devem ser "
+"preservados. Eles permitem que os comandos de sentença do Emacs façam a "
+"coisa certa."
+
+#. type: Content of: outside any tag (error?)
+msgid "<a id=\"FilenameAndURLGuidelines\"></a>"
+msgstr "<a id=\"FilenameAndURLGuidelines\"></a>"
+
+#. type: Content of: <h3>
+msgid "Filenames"
+msgstr "Nomes de arquivos"
+
+#. type: Content of: <ul><li>
+msgid ""
+"To make simultaneous edition of many files easier, try and give each HTML "
+"file a unique name; the filename <code>index.html</code> should only be used "
+"as a symbolic link, as explained next."
+msgstr ""
+"Para facilitar a edição simultânea de vários arquivos, tente dar um nome "
+"exclusivo a cada arquivo HTML; o nome do arquivo <code>index.html</code> "
+"deve ser usado apenas como um link simbólico, como explicado a seguir."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Each directory in the web server tree should have a symbolic link named "
+"<code>index.html</code> to the top-level HTML file for that directory.  Use "
+"the <a href=\"#symlinks\"><code>.symlinks</code></a> file to handle this."
+msgstr ""
+"Cada diretório na árvore do servidor da web deve ter um link simbólico "
+"chamado <code>index.html</code> para o arquivo HTML de nível superior desse "
+"diretório. Use o arquivo <a href=\"#symlinks\"><code>.symlinks</code> </a> "
+"para lidar com isso."
+
+#. type: Content of: <ul><li>
+msgid ""
+"If you translate your web page in different languages, please name the "
+"English file <code>ARTICLE.html</code>, and its translations <code>ARTICLE."
+"LANG.html</code>.  LANG should contain the two-letter language code from <a "
+"href=\"https://www.loc.gov/standards/iso639-2/php/code_list.php\">ISO 639</"
+"a>, and optionally an hyphen followed the two-letter country code given in "
+"ISO 3166.  For example, the German translation of <code>not-ipr.html</code> "
+"should be named <code>not-ipr.de.html</code>; the Brazilian Portuguese "
+"translation should be named <code>not-ipr.pt-br.html</code>."
+msgstr ""
+"Se você traduzir sua página web em diferentes idiomas, por favor, nomeie o "
+"arquivo em inglês <code>ARTIGO.html</code> e suas traduções <code>ARTIGO."
+"LANG.html</code>. A parte LANG deve conter o código de idioma de duas letras "
+"de <a href=\"https://www.loc.gov/standards/iso639-2/php/code_list.php\">ISO "
+"639</a> e, opcionalmente, um hífen seguido o código de país de duas letras "
+"dado na ISO 3166. Por exemplo, a tradução em alemão de <code>not-ipr.html</"
+"code> deve ser nomeada <code>not-ipr.de.html</code>; a tradução em português "
+"brasileiro deve ser nomeada <code>não-ipr.pt-br.html</code>."
+
+#. type: Content of: <h3>
+msgid "URLs"
+msgstr "URLs"
+
+#. type: Content of: <ul><li>
+msgid ""
+"Hand-written URLs that refer to other files on www.gnu.org should be "
+"absolute, starting from the root page.  That is, paths should start with "
+"<code>/</code> (e.g., <code>/gnu/about-gnu.html</code>; <em>not</em> "
+"<code>http://www.gnu.org/gnu/about-gnu.html</code>, and <em>not</em> "
+"<code>about-gnu.html</code>).  This makes it easier to copy and paste links "
+"from other pages.  Besides, links like <code>http://www.gnu.org/</code> will "
+"be wrong when the visitor uses HTTPS."
+msgstr ""
+"URLs escritas à mão que se referem a outros arquivos em www.gnu.org devem "
+"ser absolutas, a partir da página raiz. Ou seja, os caminhos devem começar "
+"com <code>/</code> (por exemplo, <code>/gnu/about-gnu.html</code>; <em>não</"
+"em> <code>http://www.gnu.org/gnu/about-gnu.html</code> e <em>não</em> "
+"<code>about-gnu.html</code>). Isso facilita copiar e colar links de outras "
+"páginas. Além disso, links como <code>http://www.gnu.org/</code> estarão "
+"errados quando o visitante usar HTTPS."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Collections of files produced automatically from Texinfo source contain "
+"links with relative file names.  They always refer to another file in the "
+"same directory.  These relative links are to be tolerated."
+msgstr ""
+"Coleções de arquivos produzidos automaticamente a partir da fonte Texinfo "
+"contêm links com nomes de arquivos relativos. Eles sempre se referem a outro "
+"arquivo no mesmo diretório. Esses links relativos devem ser tolerados."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Don't use just a directory name in a URL; always include the specific "
+"filename.  E.g., use <code>/gnu/gnu.html</code>, not just <code>/gnu/</"
+"code>.  Never use <code>index.html</code> in a URL.  Both of these are "
+"kindnesses to the user, as browsers change the highlighting on a link after "
+"it has been visited.  If links to a given file use several different URLs, "
+"the URLs that haven't been explicitly referenced will not be highlighted as "
+"visited.  So the user goes to pages he/she has already seen, which is "
+"irritating.  Also, this eases maintenance of the site as things get moved "
+"around."
+msgstr ""
+"Não use apenas um nome de diretório em um URL; sempre inclua o nome do "
+"arquivo específico. Por exemplo, use <code>/gnu/gnu.html</code>, não apenas "
+"<code>/gnu/</code>. Nunca use <code>index.html</code> em uma URL. Ambas são "
+"gentilezas para o usuário, pois os navegadores alteram o realce em um link "
+"após ele ter sido visitado. Se os links para um determinado arquivo usarem "
+"várias URLs diferentes, as URLs que não foram explicitamente mencionadas não "
+"serão destacadas como visitadas. Assim, o usuário acessa as páginas que ele "
+"já viu, o que é irritante. Além disso, isso facilita a manutenção do site à "
+"medida que as coisas são movidas."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Be sure to omit the filename entirely when linking to an anchor in the same "
+"file."
+msgstr ""
+"Certifique-se de omitir completamente o nome do arquivo ao vincular a uma "
+"âncora no mesmo arquivo."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Consider others linking to your page when removing an anchor or <code>id</"
+"code> attribute."
+msgstr ""
+"Considere outros links para sua página ao remover um atributo de âncora ou "
+"<code>id</code>."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Cite FTP locations of source code with the full URL of the directory they "
+"are in:"
+msgstr ""
+"Cite os locais de FTP do código-fonte com o URL completo do diretório em que "
+"eles estão:"
+
+# TRADUTOR, cuidado que as aspas aqui NÃO PODEM ser aspas duplas curvadas
+#. type: Content of: <ul><li><p>
+msgid ""
+"<code> &lt;a href=\"https://ftp.gnu.org/gnu/foo\"&gt;https://ftp.gnu.org/gnu/"
+"foo&lt;/a&gt; </code>"
+msgstr ""
+"<code> &lt;a href=\"https://ftp.gnu.org/gnu/foo\"&gt;https://ftp.gnu.org/gnu/"
+"foo&lt;/a&gt; </code>"
+
+#. type: Content of: <ul><li>
+msgid "which browsers display this way:"
+msgstr "o que navegadores exibem dessa maneira:"
+
+# TRADUTOR, cuidado que as aspas aqui NÃO PODEM ser aspas duplas curvadas
+#. type: Content of: <ul><li>
+msgid "<a href=\"https://ftp.gnu.org/gnu/\">https://ftp.gnu.org/gnu/foo</a>"
+msgstr "<a href=\"https://ftp.gnu.org/gnu/\">https://ftp.gnu.org/gnu/foo</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"We encourage FTP sites to use a directory for each package, and only put one "
+"package's files in each directory, so that the users can see what versions "
+"of that package and related information can be downloaded (e.g., a "
+"<code>README</code> file, information of what versions are available, "
+"documentations, fonts, etc.).  Also, it means that the FTP location URLs do "
+"not need to be changed, on this and other sites, as new versions are "
+"released into that directory."
+msgstr ""
+"Encorajamos os sites FTP a usarem um diretório para cada pacote e apenas "
+"colocarem os arquivos de um pacote em cada diretório, de forma que usuários "
+"possam ver quais versões do pacote e informações relacionadas podem ser "
+"baixadas (por exemplo, um arquivo <code>README</code>, informações de quais "
+"versões estão disponíveis, documentações, fontes, etc.). Além disso, "
+"significa que as URLs de localização de FTP não precisam ser alteradas, "
+"neste e em outros sites, à medida que novas versões são lançadas nesse "
+"diretório."
+
+#. type: Content of: <ul><li>
+msgid "Cite people with e-mail addresses this way:"
+msgstr "Cite pessoas com endereços de e-mail assim:"
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"<code> &lt;a href=\"https://www.stallman.org/\"&gt;Richard Stallman&lt;/"
+"a&gt; &lt;a href=\"mailto:rms@gnu.org\"&gt;&amp;lt;rms@gnu.org&amp;gt;&lt;/"
+"a&gt; </code>"
+msgstr ""
+"<code> &lt;a href=\"https://www.stallman.org/\"&gt;Richard Stallman&lt;/"
+"a&gt; &lt;a href=\"mailto:rms@gnu.org\"&gt;&amp;lt;rms@gnu.org&amp;gt;&lt;/"
+"a&gt; </code>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"https://www.stallman.org/\">Richard Stallman</a> <a href=\"mailto:"
+"rms@gnu.org\">&lt;rms@gnu.org&gt;</a>"
+msgstr ""
+"<a href=\"https://www.stallman.org/\">Richard Stallman</a> <a href=\"mailto:"
+"rms@gnu.org\">&lt;rms@gnu.org&gt;</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"It is less confusing to the user, because it's clear what is a <code>http(s):"
+"</code> link to another web page and what is a <code>mailto:</code> anchor "
+"that will bring up a mail form to fill out and send, if this is supported by "
+"the client.  Also, if users save a copy of the page, they will have a copy "
+"of the e-mail address they can use without going back to their web browser.  "
+"If the person doesn't have a web page, leave the name unanchored."
+msgstr ""
+"Assim é menos confuso para quem lê, porque está claro o que é um link "
+"<code>http(s):</code> para outra página web e o que é uma âncora "
+"<code>mailto:</code> que abrirá um formulário de correio para preencher e "
+"enviar, se isso for suportado pelo cliente. Além disso, se os usuários "
+"salvarem uma cópia da página, eles terão uma cópia do endereço de e-mail que "
+"podem usar sem voltar ao navegador web. Se a pessoa não tiver uma página "
+"web, deixe o nome sem a âncora."
+
+#. type: Content of: <h3>
+msgid "HTML Guidelines"
+msgstr "Diretrizes de HTML"
+
+#. type: Content of: <ul><li>
+msgid ""
+"HTML on the GNU web server should be strictly compliant with <a href="
+"\"https://www.w3.org/standards/\">W3C standards</a>."
+msgstr ""
+"HTML no servidor web GNU deve ser estritamente compatível com os <a href="
+"\"https://www.w3.org/standards/\">padrões do W3C</a>."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Please follow the above mentioned web standards strictly.  Don't neglect <a "
+"href=\"https://www.w3.org/TR/html401/struct/global.html#h-7.1\">required "
+"elements</a> such as &lt;html&gt; &lt;head&gt; &lt;title&gt; &lt;body&gt;, "
+"etc. when using (X)HTML, and always include the appropriate DTD or Schema "
+"reference.  This appeases overly pedantic browsers."
+msgstr ""
+"Por favor, siga os padrões da web mencionados acima estritamente. Não "
+"negligencie os <a href=\"https://www.w3.org/TR/html401/struct/global."
+"html#h-7.1\">elementos necessários</a> como &lt;html&gt; &lt;head&gt; &lt;"
+"title&gt; &lt;body&gt;, etc. ao usar o (X)HTML e sempre inclua a referência "
+"de DTD ou Schema apropriada. Isso apazígua navegadores excessivamente "
+"pedantes."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Do not add comments at the top of a document.  Web browsers expect the "
+"doctype, XML declaration, or Schema to be at the top.  Comments will confuse "
+"them, and often cause them to incorrectly interpret your markup."
+msgstr ""
+"Não adicione comentários na parte superior de um documento. Os navegadores "
+"da Web esperam que o doctype, a declaração XML ou o Schema estejam no topo. "
+"Comentários os confundirão e, com frequência, farão com que eles interpretem "
+"incorretamente sua marcação."
+
+#. type: Content of: <ul><li>
+msgid "The &lt;head&gt; element should contain this line:"
+msgstr "O elemento &lt;head&gt; deve conter esta linha:"
+
+# TRADUTOR, cuidado que as aspas aqui NÃO PODEM ser aspas duplas curvadas
+#. type: Content of: <ul><li><p>
+msgid ""
+"<code>&lt;link rev=\"made\" href=\"mailto:webmasters@gnu.org\"&gt;</code>"
+msgstr ""
+"<code>&lt;link rev=\"made\" href=\"mailto:webmasters@gnu.org\"&gt;</code>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"Some browsers use this information to allow users to easily report problems "
+"they find on a page."
+msgstr ""
+"Alguns navegadores usam essas informações para permitir que as pessoas "
+"relatem facilmente problemas encontrados em uma página."
+
+#. type: Content of: <ul><li>
+msgid ""
+"The first header tag, &lt;h[n]&gt;, should have its text duplicated at the "
+"start of the &lt;title&gt; tag.  The &lt;title&gt; tag is used by many "
+"browsers in menus like the history and bookmarks lists, as a link to that "
+"page.  Repeating the main heading in the &lt;title&gt; ensures that, when "
+"users click on an item in these menus, they get a page with the expected "
+"heading.  Please properly use your headers in numerical order: 1, 2, etc.  "
+"These are not used for looks, but for the organization of the document."
+msgstr ""
+"A primeira tag de cabeçalho, &lt;h[n]&gt;, deve ter seu texto duplicado no "
+"início da tag &lt;title&gt;. A tag &lt;title&gt; é usada por muitos "
+"navegadores em menus como o histórico e as listas de favoritos, como um link "
+"para essa página. Repetir o cabeçalho principal na tag &lt;title&gt; garante "
+"que, quando os usuários clicam em um item nesses menus, eles recebam uma "
+"página com o cabeçalho esperado. Por favor, use corretamente seus cabeçalhos "
+"em ordem numérica: 1, 2, etc. Estes não são usados para aparência, mas para "
+"a organização do documento."
+
+#. type: Content of: <ul><li>
+msgid ""
+"The &lt;title&gt; tag should include the phrases &ldquo;GNU Project&rdquo; "
+"and &ldquo;Free Software Foundation&rdquo; so the pages will be found when "
+"web search engines are used.  The default is to add this at the end: <code> "
+"- GNU Project - Free Software Foundation</code>."
+msgstr ""
+"A tag &lt;title&gt; deve incluir as frases “GNU Project” e “Free Software "
+"Foundation” Assim, as páginas serão encontradas quando os mecanismos de "
+"pesquisa da web forem usados. O padrão é adicionar isso no final: <code> - "
+"GNU Project - Free Software Foundation</code>."
+
+#. type: Content of: <ul><li>
+msgid "Acronyms/abbreviations:"
+msgstr "Acrônimos/abreviações:"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"Never use <code>&lt;acronym&gt;</code>: HTML5 obsoletes it in favor of "
+"<code>&lt;abbr&gt;</code>."
+msgstr ""
+"Nunca use <code>&lt;acronym&gt;</code>: HTML5 o tornou obsoleto em favor do "
+"<code>&lt;abbr&gt;</code>."
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"Don't use <code>&lt;abbr&gt;</code> unless for a really compelling reason.  "
+"Browsers render it in an ugly way."
+msgstr ""
+"Não use <code>&lt;abbr&gt;</code> a menos que seja por um motivo realmente "
+"convincente. Os navegadores o processam de maneira feia."
+
+# TRADUTOR, cuidado que as aspas aqui NÃO PODEM ser aspas duplas curvadas
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"When an abbreviation may be unfamiliar to a reader, give its expansion the "
+"first time it is used in a document, like this: <code>&lt;abbr title="
+"\"Expanded Abbreviation\"&gt;EA&lt;/abbr&gt;</code> or <code>EA (Expanded "
+"Abbreviation)</code>."
+msgstr ""
+"Quando uma abreviação pode não ser familiar para um leitor, forneça sua "
+"expansão na primeira vez em que for usada em um documento, como: <code>&lt;"
+"abbr title=\"Abreviação Expandida\"&gt;AE&lt;/abbr&gt;</code> ou <code>AE"
+"(Abreviação Expandida)</code>."
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"Further occurrences, in any case, should be written without any markup: just "
+"<code>EA</code>."
+msgstr ""
+"Outras ocorrências, em qualquer caso, devem ser escritas sem qualquer "
+"marcação: apenas <code>AE</code>."
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"For common-enough initialisms, such as GNU, FSF, BSD, RAM, HTML, DVD, and so "
+"on and so on, no markup is needed at all.  Use your judgment."
+msgstr ""
+"Para inicialismos comuns, como GNU, FSF, BSD, RAM, HTML, DVD e assim por "
+"diante, nenhuma marcação é necessária. Use seu julgamento."
+
+#. type: Content of: <h3>
+msgid "Tables and menus"
+msgstr "Tabelas e menus"
+
+#. type: Content of: <ul><li>
+msgid ""
+"Please use tables to organize data, not the presentation of the web page."
+msgstr ""
+"Por favor, use tabelas para organizar dados, não a apresentação da página "
+"web."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Screen reader software used by most blind people reads the text from left to "
+"right, ignoring any tables that you make. If you use tables, you should make "
+"sure that reading a whole page left to right doesn't confuse such software.  "
+"Please follow the <a href=\"https://www.w3c.org/wai\">W3C web accessibility "
+"guidelines</a> to ensure that tables are properly marked for accessibility."
+msgstr ""
+"Softwares de leitura de tela usados pela maioria das pessoas com deficiência "
+"visuais lê o texto da esquerda para a direita, ignorando qualquer tabela que "
+"você faça. Se você usa tabelas, você deve se certificar que ler uma página "
+"inteira da esquerda para a direita não confunda tal software. Siga as <a "
+"href=\"https://www.w3c.org/wai\">diretrizes de acessibilidade na web do W3C</"
+"a> para garantir que as tabelas sejam marcadas adequadamente para fins de "
+"acessibilidade."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Some people like to organize links as a menu to the left or right of the "
+"main text when using graphical browsers.  That does not work very well with "
+"text browsers since they will make the menu appear either on top of the page "
+"or at the bottom.  If you have a menu that is more than 30 lines long, then "
+"it's very probable that a user viewing the page will never bother to read "
+"the text because it will be too far down.  You should make an effort to keep "
+"such menus under 20 lines long so that the beginning of the article is "
+"visible on the first page when viewing it with a text browser.  A menu bar "
+"of one or two horizontal lines might accomplish your purpose as well.  "
+"Providing a &ldquo;skip link&rdquo; to the main text is another option."
+msgstr ""
+"Algumas pessoas gostam de organizar links como um menu à esquerda ou à "
+"direita do texto principal ao usar navegadores gráficos. Isso não funciona "
+"muito bem com os navegadores de texto, pois eles farão com que o menu "
+"apareça no topo da página ou na parte inferior. Se você tiver um menu com "
+"mais de 30 linhas, é muito provável que um usuário que esteja visualizando a "
+"página nunca se importe em ler o texto, pois ele estará muito baixo. Você "
+"deve fazer um esforço para manter esses menus com menos de 20 linhas, para "
+"que o início do artigo seja visível na primeira página ao visualizá-lo com "
+"um navegador de texto. Uma barra de menu de uma ou duas linhas horizontais "
+"também pode realizar seu propósito. Fornecer um “skip link” para o texto "
+"principal é outra opção."
+
+#. type: Content of: <h3>
+msgid "Using our page template"
+msgstr "Usando nosso modelo de página"
+
+#. type: Content of: <ul><li>
+msgid ""
+"To help people follow the above guidelines, a page template (or &ldquo;"
+"boilerplate&rdquo;) is provided for both the main part of the GNU website, "
+"and the software projects.  Its use is mandatory for new pages in www.gnu."
+"org, and highly recommended for software pages.  Please don't start out with "
+"an existing page to create a new one; use the <a href=\"//web.cvs.savannah."
+"gnu.org/viewvc/*checkout*/www/server/standards/boilerplate.html?root=www&amp;"
+"content-type=text%2Fplain\"> original source</a> of the boilerplate instead, "
+"and follow the instructions in it."
+msgstr ""
+"Para ajudar as pessoas a seguir as diretrizes acima, um modelo de página (ou "
+"<em>“boilerplate”</em>) é fornecido tanto para a parte principal do website "
+"GNU quanto para os projetos de software. Seu uso é obrigatório para novas "
+"páginas em www.gnu.org e altamente recomendado para páginas de software. Por "
+"favor, não comece com uma página existente para criar uma nova; use a <a "
+"href=\"//web.cvs.savannah.gnu.org/viewvc/*checkout*/www/server/standards/"
+"boilerplate.html?root=www&amp;content-type=text%2Fplain\"> fonte original</"
+"a> do <em>boilerplate</em> e siga as instruções nele contidas."
+
+#. type: Content of: <ul><li>
+msgid ""
+"The templated pages must follow the <a href=\"https://www.w3.org/TR/xhtml1/"
+"\">XHTML-1.0 guidelines</a>."
+msgstr ""
+"As páginas modeladas devem seguir as <a href=\"https://www.w3.org/TR/xhtml1/"
+"\">diretrizes do XHTML-1.0</a>."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Our server-side includes declare UTF-8 as the character encoding, so using "
+"any other encoding is problematic."
+msgstr ""
+"Nosso lado do servidor inclui declarar UTF-8 como a codificação de "
+"caracteres, portanto, usar qualquer outra codificação é problemático."
+
+#. type: Content of: <h3>
+msgid "Styling"
+msgstr "Estilo"
+
+#. type: Content of: <h4>
+msgid "Styling of templated pages"
+msgstr "Estilo de páginas modeladas"
+
+#. type: Content of: <ul><li>
+msgid ""
+"Generic styling for desktops and smartphones is provided by two CSS: <code>/"
+"reset.css</code> (from the <a href=\"//web.archive.org/web/20070930230754/"
+"http://developer.yahoo.com:80/yui/\"> YUI library, version&nbsp;2</a>), "
+"which normalizes the default rendering of all HTML elements by the various "
+"browsers, and <code>/layout.css</code>, which contains gnu.org-specific "
+"formatting.  A few responsive elements are defined in <code>/layout.css</"
+"code>.  They cover most of our use cases."
+msgstr ""
+"O estilo genérico para desktops e smartphones é fornecido por dois CSS: "
+"<code>/reset.css</code> (da <a href=\"//web.archive.org/web/20070930230754/"
+"http://developer.yahoo.com:80/yui/\">biblioteca YUI, versão&nbsp;2</a>), que "
+"normaliza a renderização padrão de todos os elementos HTML pelos vários "
+"navegadores e <code>/layout.css</code>, que contém formatação específica do "
+"gnu.org. Alguns elementos responsivos são definidos em <code>/layout.css</"
+"code>. Eles cobrem a maioria dos nossos casos de uso."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Mobile devices with very limited resources use <code>/mini.css</code>.  This "
+"stylesheet is just the YUI (version&nbsp;2) reset and base stylesheets, as "
+"these devices typically have minimal need for various fonts and no need for "
+"fancy layouts."
+msgstr ""
+"Dispositivos móveis com recursos muito limitados usam <code>/mini.css</"
+"code>. Esta folha de estilo é apenas as folhas de estilo reset e base da YUI "
+"(versão&nbsp;2), pois esses dispositivos normalmente têm uma necessidade "
+"mínima de várias fontes e não precisam de layouts sofisticados."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Printers use <code>/print.css</code>.  Note that the header, navigation bars "
+"and footer (except copyright and license) are unprintable."
+msgstr ""
+"Impressoras usam <code>/print.css</code>. Observe que o cabeçalho, barras de "
+"navegação e rodapé (exceto direitos autorais e licença) não são imprimíveis."
+
+#. type: Content of: <ul><li>
+msgid ""
+"If some special styling is needed for a specific page, it should be added to "
+"the page itself in a &lt;style&gt; element, between the SSI directives that "
+"include <code>header.html</code> and <code>banner.html</code>. If the style "
+"applies to a single element, it should normally be added as an attribute."
+msgstr ""
+"Se algum estilo especial for necessário para uma página específica, ele deve "
+"ser adicionado à própria página em um elemento &lt;style&gt;, entre as "
+"diretivas SSI que incluem <code>header.html</code> e <code>banner.html</"
+"code>. Se o estilo se aplicar a um único elemento, normalmente ele deve ser "
+"adicionado como um atributo."
+
+#. type: Content of: <ul><li>
+msgid ""
+"If you specify any color attribute in the HTML, you should specify all of "
+"them that are allowed for that tag.  This is because some browsers allow "
+"users to specify defaults for the color attributes, and the user's choices "
+"could conflict with your choices, as your choices override the user's "
+"choices.  In the worse case, the foreground and background could end up the "
+"same.  Please use a stylesheet for this, and not HTML 3.2 (HTML 4 "
+"Transitional) deprecated markup."
+msgstr ""
+"Se você especificar qualquer atributo de cor no HTML, deverá especificar "
+"todos os que são permitidos para essa tag. Isso ocorre porque alguns "
+"navegadores permitem que os usuários especifiquem padrões para os atributos "
+"de cores, e as escolhas do usuário podem entrar em conflito com suas "
+"escolhas, já que suas escolhas substituem as escolhas do usuário. No pior "
+"dos casos, o primeiro plano e o fundo podem terminar do mesmo jeito. Por "
+"favor, use uma folha de estilo para isso, e não marcação obsoleta do HTML "
+"3.2 (HTML 4 Transitional)."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<em>Note about grids:</em>&nbsp; Very few pages currently use them.  In the "
+"event you'd like to create one that does, good starting points may be found "
+"in <a href=\"//yuilibrary.com/yui/docs/cssgrids/\">YUI version&nbsp;3</a>, "
+"and <a href=\"//purecss.io/grids/\">Pure Grids</a>. The components provided "
+"by these libraries are licensed under the modified (3-clause) BSD license."
+msgstr ""
+"<em>Observação sobre as grades:</em>&nbsp; Muito poucas páginas atualmente "
+"as usam. No caso de você querer criar uma que a faça, bons pontos de partida "
+"podem ser encontrados em <a href=\"//yuilibrary.com/yui/docs/cssgrids/"
+"\">versão YUI&nbsp;3</a>, e <a href=\"//purecss.io/grids/\">Pure Grids</a>. "
+"Os componentes fornecidos por essas bibliotecas são licenciados sob a "
+"licença BSD modificada (de 3 cláusulas)."
+
+#. type: Content of: <h4>
+msgid "Other stylesheets"
+msgstr "Outras folhas de estilos"
+
+#. type: Content of: <ul><li>
+msgid ""
+"Historical pages (unmaintained translations for the most part) refer to "
+"<code>/gnu.css</code>, which in turn loads <code>/mini.css</code>, as these "
+"pages are usually very basic, plain pages with little or no formatting."
+msgstr ""
+"Páginas históricas (traduções sem manutenção em sua maior parte) referem-se "
+"a <code>/gnu.css</code>, que por sua vez carrega o <code>/mini.css</code>, "
+"já que essas páginas são geralmente muito básicas, simples páginas com pouca "
+"ou nenhuma formatação."
+
+#. type: Content of: <ul><li>
+msgid "Some software manuals use a dedicated CSS, <code>/style.css</code>."
+msgstr ""
+"Alguns manuais de software usam um CSS dedicado, <code>/style.css</code>."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Translators maintain stylesheets (<code>/style.LANG.css</code>) that modify "
+"layout.css according to their own needs.  The RTL languages (Arabic, "
+"Persian, and Hebrew) use <code>/style.rtl.css</code>."
+msgstr ""
+"Tradutores mantêm folhas de estilos (<code>/style.LANG.css</code>) que "
+"modificam layout.css de acordo com suas próprias necessidades. Os idiomas "
+"RTL (árabe, persa e hebraico) usam <code>/style.rtl.css</code>."
+
+#. type: Content of: <h3>
+msgid "Use of Graphics"
+msgstr "Uso de imagens"
+
+#. type: Content of: <ul><li>
+msgid ""
+"The use of graphics should be minimized, so pages load fast over slow links, "
+"especially animations."
+msgstr ""
+"O uso de gráficos deve ser minimizado, de forma que as páginas sejam "
+"carredadas rapidamente em conexões lentas, especialmente animações."
+
+#. type: Content of: <ul><li>
+msgid ""
+"We do not use background images on our pages, as they make text "
+"significantly harder to read."
+msgstr ""
+"Nós não usamos imagens de fundo em nossas páginas, pois elas tornam o texto "
+"significativamente mais difícil de ler."
+
+#. type: Content of: <ul><li>
+msgid ""
+"In the past, GIFs have had patent problems.  However, now that the IBM and "
+"Unisys patents (and other patents worldwide that are relevant to LZW "
+"compression) have expired, GIFs that are based on the 87a or 89a standard "
+"are acceptable.  Please be wary of proprietary applications that may include "
+"non-standard patented technologies (we'd prefer you use free software "
+"applications when authoring for our websites).  In general, PNG or JPEG "
+"format are still safe, and are probably better from a technical standpoint.  "
+"For details regarding the old GIF problem, see <a href=\"/philosophy/gif.html"
+"\">https://www.gnu.org/philosophy/gif.html</a>.  Other formats are also "
+"allowed, though JPEG is the one most widely recognized by web browsers "
+"(avoid JPEG 2000, and be careful with PNG alpha channels; the former is not "
+"widely supported, and the latter are not fully supported by some older "
+"browsers)."
+msgstr ""
+"No passado, os GIFs tiveram problemas de patentes. No entanto, agora que as "
+"patentes da IBM e da Unisys (e outras patentes em todo o mundo que são "
+"relevantes para a compactação LZW) expiraram, os GIFs baseados no padrão 87a "
+"ou 89a são aceitáveis. Por favor, tenha cuidado com os aplicativos "
+"proprietários que podem incluir tecnologias patenteadas não padrão "
+"(preferimos que você use aplicativos de software livre ao criar nossos "
+"sites). Em geral, os formatos PNG ou JPEG ainda são seguros e provavelmente "
+"são melhores do ponto de vista técnico. Para obter detalhes sobre o antigo "
+"problema de GIF, consulte <a href=\"/philosophy/gif.html\">https://www.gnu."
+"org/philosophy/gif.html</a>. Outros formatos também são permitidos, embora o "
+"JPEG seja o mais amplamente reconhecido pelos navegadores da Web (evite JPEG "
+"2000 e tenha cuidado com os canais alfa do PNG; o primeiro não é amplamente "
+"suportado e os últimos não são totalmente suportados por alguns navegadores "
+"mais antigos)."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Before you take an image from another website, please ask for permission to "
+"use it."
+msgstr "Antes de usar uma imagem de outro site, peça permissão para usá-la."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Always have a textual alternative for in-line images, for people who have "
+"text-only access to the web.  For instance:"
+msgstr ""
+"Tenha sempre uma alternativa textual para imagens em linha, para pessoas que "
+"têm acesso somente por texto à web. Por exemplo:"
+
+# TRADUTOR, cuidado que as aspas aqui NÃO PODEM ser aspas duplas curvadas
+#. type: Content of: <ul><li><p>
+msgid ""
+"<code>&lt;img src=\"/graphics/*.jpg\" alt=\"&amp;nbsp;[DESCRIPTIVE TEXT]&amp;"
+"nbsp;\"&gt;</code>"
+msgstr ""
+"<code>&lt;img src=\"/graphics/*.jpg\" alt=\"&amp;nbsp;[TEXTO DESCRITIVO]&amp;"
+"nbsp;\"&gt;</code>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"We add the non-breaking spaces (&amp;nbsp;) and square brackets to separate "
+"the DESCRIPTIVE TEXT from adjacent text, and help the user realize that this "
+"is a stand-in for an image.  The point of using non-breaking spaces rather "
+"than normal ones is to make sure they find their way to the translatable "
+"strings that are extracted by the PO4A/Gettext tools."
+msgstr ""
+"Adicionamos os espaços não separáveis (&amp;nbsp;) e colchetes para separar "
+"o TEXTO DESCRITIVO do texto adjacente e ajudamos o usuário a perceber que "
+"este é um substituto para uma imagem. O ponto de usar espaços sem quebra em "
+"vez dos normais é garantir que eles encontrem o caminho para as mensagens "
+"traduzíveis que são extraídas pelas ferramentas PO4A/Gettext."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Make sure the image doesn't look too big or too small when displayed at its "
+"original size, using the browser's default font size."
+msgstr ""
+"Verifique se a imagem não parece muito grande ou muito pequena quando "
+"exibida no tamanho original, usando o tamanho de fonte padrão do navegador."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Adjust image width or height in a style attribute, using scalable units such "
+"as <code>em</code> or <code>%</code>; for instance:"
+msgstr ""
+"Ajuste a largura ou a altura da imagem em um atributo style, usando unidades "
+"escaláveis como <code>em</code> ou <code>%</code>; por exemplo:"
+
+# TRADUTOR, cuidado que as aspas aqui NÃO PODEM ser aspas duplas curvadas
+#. type: Content of: <ul><li><p>
+msgid ""
+"<code>&lt;img src=\"/graphics/*.jpg\" alt=\"&amp;nbsp;[DESCRIPTIVE TEXT]&amp;"
+"nbsp;\" style=\"width: 10em\" /&gt;</code>"
+msgstr ""
+"<code>&lt;img src=\"/graphics/*.jpg\" alt=\"&amp;nbsp;[TEXTO DESCRITIVO]&amp;"
+"nbsp;\" style=\"width: 10em\" /&gt;</code>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"This way, the page will look the same if the reader increases or decreases "
+"font size."
+msgstr ""
+"Dessa forma, a página terá a mesma aparência se o leitor aumentar ou "
+"diminuir o tamanho da fonte."
+
+#. type: Content of: <ul><li>
+msgid ""
+"If you are adding a small floating image to a page that uses <code>layout."
+"css</code> (the stylesheet for <a href=\"/server/standards/README."
+"webmastering.html#templating\">templated pages</a>), you may want to use the "
+"<code>imgright</code> or <code>imgleft</code> class (defined in the IMAGES "
+"section of the stylesheet).  This will ensure that the floating direction is "
+"reversed if the page is translated into an RTL language."
+msgstr ""
+"Se você estiver adicionando uma pequena imagem flutuante a uma página que "
+"usa <code>layout.css</code> (a folha de estilo para <a href=\"/server/"
+"standards/README.webmastering.html#templating\">páginas modeladas</a>), você "
+"pode querer usar a classe <code>imgright</code> ou <code>imgleft</code> "
+"(definida na seção IMAGES da folha de estilo). Isso garantirá que a direção "
+"flutuante seja invertida se a página for traduzida para um idioma RTL."
+
+#. type: Content of: <ul><li>
+msgid ""
+"If the image you are adding is 12em wide or more, and the page is templated, "
+"you may find it convenient to use one of the responsive <code>pict</code> "
+"classes that are defined in the IMAGES section of <code>layout.css</code> "
+"(you can adjust the width in a style attribute if none of the predefined "
+"ones fits your needs); for instance:"
+msgstr ""
+"Se a imagem que você está adicionando tiver 12 ou mais de largura e a página "
+"tiver um modelo, talvez seja conveniente usar uma das classes <code>pict</"
+"code> responsivas definidas na seção IMAGES do layout <code>.css</code> "
+"(você pode ajustar a largura em um atributo de estilo se nenhum dos pré-"
+"definidos atender às suas necessidades); por exemplo:"
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"<code>&lt;div class=\"pict wide\" style=\"width: 25em\"&gt;&lt;img src=\"/"
+"graphics/*.jpg\" alt=\"&amp;nbsp;[DESCRIPTIVE TEXT]&amp;nbsp;\" /&gt;&lt;/"
+"div&gt;</code>"
+msgstr ""
+"<code>&lt;div class=\"pict wide\" style=\"width: 25em\"&gt;&lt;img src=\"/"
+"graphics/*.jpg\" alt=\"&amp;nbsp;[TEXTO DESCRITIVO]&amp;nbsp;\" /&gt;&lt;/"
+"div&gt;</code>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"Note that the <code>div</code> container is necessary because some browsers "
+"(e.g., NetSurf) don't know how to apply <code>max-width</code> to images."
+msgstr ""
+"Observe que o contêiner <code>div</code> é necessário porque alguns "
+"navegadores (por exemplo, NetSurf) não sabem como aplicar <code>max-width</"
+"code> às imagens."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"Link all images that are displayed throughout the website to the relevant "
+"page, usually in <code>/graphics/</code>.  This can be done with code "
+"similar to this, which corresponds to the image on the left:"
+msgstr ""
+"Faça um link para todas as imagens exibidas em todo o site à página "
+"relevante, geralmente em <code>/graphics/</code>. Isso pode ser feito com "
+"código semelhante a este, que corresponde à imagem à esquerda:"
+
+#. type: Content of: <ul><li><p><a>
+msgid "<a href=\"/graphics/agnuhead.html\">"
+msgstr "<a href=\"/graphics/agnuhead.html\">"
+
+#. type: Attribute 'alt' of: <ul><li><p><a><img>
+msgid "&nbsp;[Image of the Head of a GNU]&nbsp;"
+msgstr "&nbsp;[Image of the Head of a GNU]&nbsp;"
+
+#. type: Content of: <ul><li><p>
+msgid "</a>"
+msgstr "</a>"
+
+# TRADUTOR, cuidado que as aspas aqui NÃO PODEM ser aspas duplas curvadas
+#. type: Content of: <ul><li><pre>
+#, no-wrap
+msgid ""
+"&lt;p class=\"imgleft\"&gt;\n"
+"&lt;a href=\"/graphics/agnuhead.html\"&gt;\n"
+"&lt;img src=\"/graphics/gnu-head-sm.jpg\"\n"
+"     alt=\"&nbsp;[Image of the Head of a GNU]&nbsp;\"\n"
+"     style=\"width: 8em\" /&gt;\n"
+"&lt;/a&gt;&lt;/p&gt;\n"
+msgstr ""
+"&lt;p class=\"imgleft\"&gt;\n"
+"&lt;a href=\"/graphics/agnuhead.html\"&gt;\n"
+"&lt;img src=\"/graphics/gnu-head-sm.jpg\"\n"
+"     alt=\"&nbsp;[Image of the Head of a GNU]&nbsp;\"\n"
+"     style=\"width: 8em\" /&gt;\n"
+"&lt;/a&gt;&lt;/p&gt;\n"
+
+#. type: Content of: <ul><li>
+msgid ""
+"This will allow users to quickly go to pages related to the pictures they "
+"are interested in."
+msgstr ""
+"Isso permitirá que os usuários acessem rapidamente as páginas relacionadas "
+"às fotos nas quais estão interessados."
+
+#. type: Content of: <h3>
+msgid "Appendix 1 - Linking Policies"
+msgstr "Apêndice 1 - Políticas de links"
+
+#. type: Content of: <p>
+msgid ""
+"One of the most complex aspects of maintaining web pages is following the "
+"linking guidelines; however, it's also a very crucial aspect of the job."
+msgstr ""
+"Um dos aspectos mais complexos da manutenção de páginas web é seguir as "
+"diretrizes de links; no entanto, também é um aspecto crucial do trabalho."
+
+#. type: Content of: <p>
+msgid ""
+"We strive to ensure that all pages we promote&mdash;all pages which are "
+"given links on our site&mdash;are friendly to the free software movement.  "
+"Some pages will obviously not meet such standards; if the site flames the "
+"Free Software Foundation, or has no apparent relation to free software and "
+"surrounding issues, the link shouldn't be made.  Beyond that, however, there "
+"are criteria used in determining whether or not it is appropriate to provide "
+"a link to a page from ours.  They are listed below, in order of descending "
+"general importance."
+msgstr ""
+"Nós nos esforçamos para garantir que todas as páginas que promovemos &ndash; "
+"todas as páginas que recebem links em nosso site &ndash; sejam amigáveis ao "
+"movimento software livre. Algumas páginas obviamente não atenderão a esses "
+"padrões; se o site critica a Free Software Foundation, ou não tem relação "
+"aparente com o software livre e questões relacionadas, não deve-se "
+"acrescentar um link para ele. Além disso, no entanto, existem critérios "
+"usados para determinar se é ou não apropriado fornecer um link para uma "
+"página da nossa. Eles estão listados abaixo, em ordem decrescente de "
+"importância geral."
+
+#. type: Content of: <dl><dt>
+msgid "What's the context of the link?"
+msgstr "Qual é o contexto do link?"
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"The link's purpose on our site will play a role in determining how strongly "
+"it should be judged against the other criteria.  Pages hosting GNU projects "
+"will be held to the highest standards.  Pages about other free software and "
+"given high promotion&mdash;for example, included in a newsfeed on the main "
+"page&mdash;are a close second.  Links on the philosophy page may be given "
+"more leeway in talking about proprietary software; GNU/Linux user group "
+"pages should call the system GNU/Linux almost always but are hardly checked "
+"on other criteria.  Always keep this in mind when deciding how to weigh each "
+"aspect of these policies."
+msgstr ""
+"O propósito do link em nosso site terá um papel na determinação de quão "
+"fortemente ele deve ser julgado em relação aos outros critérios. Páginas "
+"hospedando projetos GNU serão julgadas com os mais altos padrões. Páginas "
+"sobre outros softwares livres e grandes promoções &ndash; por exemplo, "
+"incluídas em um feed de notícias na página principal &ndash; estão em "
+"segundo lugar. Os links na página de filosofia podem ter mais margem de "
+"manobra ao falar sobre software proprietário; As páginas do grupo de "
+"usuários GNU/Linux devem chamar o sistema quase sempre de GNU/Linux, mas "
+"dificilmente são verificadas em outros critérios. Tenha sempre isso em mente "
+"ao decidir como pesar cada aspecto dessas políticas."
+
+#. type: Content of: <dl><dt>
+msgid "Does the page promote proprietary software?"
+msgstr "A página promove software proprietário?"
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"The big point made by the free software movement is that proprietary "
+"software presents an ethical dilemma: you cannot agree to such nonfree terms "
+"and treat those around you as you would like to be treated.  When "
+"proprietary software is promoted, people get the impression that it is okay "
+"to use it, while we are trying to convince them otherwise.  As such, we "
+"avoid offering such free advertising, either directly on our site or "
+"indirectly through links."
+msgstr ""
+"A grande questão levantada pelo movimento software livre é que o software "
+"proprietário apresenta um dilema ético: você não pode concordar com termos "
+"não-livres e tratar os que estão à sua volta como gostaria de ser tratado. "
+"Quando softwares proprietários são promovidos, as pessoas ficam com a "
+"impressão de que não há problema em usá-los, enquanto tentamos convencê-las "
+"do contrário. Como tal, evitamos oferecer publicidade gratuita, seja "
+"diretamente em nosso site ou indiretamente por meio de links."
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"What's tricky about this criteria is the &ldquo;promotion&rdquo; point: "
+"there's a difference between mentioning proprietary software and making a "
+"sales pitch for it.  Indeed, the GNU Project website mentions proprietary "
+"software throughout, but never gives people the impression that its use does "
+"not present ethical problems."
+msgstr ""
+"O que é complicado nesse critério é o ponto de “promoção”: há uma diferença "
+"entre mencionar software proprietário e fazer um discurso de vendas para "
+"ele. De fato, o site do Projeto GNU faz menção a software proprietário por "
+"toda parte, mas nunca dá às pessoas a impressão de que seu uso não apresenta "
+"problemas éticos."
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"There are two things to keep in mind when determining whether a reference to "
+"proprietary software promotes it, or simply mentions it.  First, how much "
+"information does it offer about the software? Second, how much information "
+"is the reader likely to actually gain from this page?"
+msgstr ""
+"Há duas coisas a ter em mente ao determinar se uma referência a um software "
+"proprietário o promove ou simplesmente o menciona. Em primeiro lugar, quanta "
+"informação é oferecida sobre o software? Segundo, quanta informação é "
+"provável que o leitor realmente ganhe com essa página?"
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"Different pages provide different amounts of information about proprietary "
+"software; the more it provides, the more of a problem it poses for us.  For "
+"example, some pages may link to the primary site for a proprietary software "
+"program.  Others may describe its functionality in detail.  Even the product "
+"name given matters; there's a difference between &ldquo;Windows&rdquo; and "
+"&ldquo;Microsoft Windows XP Home Edition.&rdquo;"
+msgstr ""
+"Páginas diferentes fornecem diferentes quantidades de informações sobre "
+"software proprietário; quanto mais elas fornecem, mais problema elas "
+"representam para nós. Por exemplo, algumas páginas podem ser vinculadas ao "
+"site principal de um programa de software proprietário. Outros podem "
+"descrever sua funcionalidade em detalhes. Até mesmo o nome do produto é "
+"dado; há uma diferença entre “Windows” e “Microsoft Windows XP Home Edition”."
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"If the page requires <a href=\"/philosophy/javascript-trap.html\">nonfree, "
+"nontrivial JavaScript</a> and has serious failures with JavaScript disabled, "
+"the link shouldn't be made.  Similarly, if the page has embedded Flash that "
+"plays an important role, so that a person would be missing something "
+"important if the videos do not play, the link should not be made."
+msgstr ""
+"Se a página exigir <a href=\"/philosophy/javascript-trap.html\">JavaScript "
+"não livre e não trivial</a> e houver falhas graves com o JavaScript "
+"desativado, o link não deverá ser criado. Da mesma forma, se a página "
+"incorporar o Flash que desempenha um papel importante, de modo que uma "
+"pessoa perderia algo importante se os vídeos não forem reproduzidos, o link "
+"não deverá ser criado."
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"The subject of the reference will also play a role in determining how "
+"problematic a reference is.  If the software is already very popular, it's "
+"unlikely that a basic mention of it will be news to the reader.  Some "
+"examples of proprietary software which are common enough to be considered "
+"&ldquo;well-known&rdquo; are major operating systems (Windows, Mac OS, Sun "
+"OS, HP-UX) and primary common applications such as Office, Internet "
+"Explorer, Photoshop, Acrobat Reader, and Flash."
+msgstr ""
+"O assunto da referência também terá um papel na determinação de quão "
+"problemática é uma referência. Se o software já é muito popular, é "
+"improvável que uma menção básica seja novidade para o leitor. Alguns "
+"exemplos de software proprietário que são comuns o suficiente para serem "
+"considerados “conhecidos” são os principais sistemas operacionais (Windows, "
+"Mac OS, SO Sun, HP-UX) e aplicativos comuns principais, como Office, "
+"Internet Explorer, Photoshop, Acrobat Reader e Flash."
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"GNU software project pages feel the full force of this policy.  Proprietary "
+"software should only be mentioned when the GNU software provides support for "
+"it, or to compare it against the features of well-known proprietary "
+"software.  For example, the following text&mdash;and not much else&mdash;"
+"would be acceptable:"
+msgstr ""
+"As páginas de projeto dos softwares GNU sentem a força total desta política. "
+"O software proprietário deve ser mencionado apenas quando o software GNU "
+"fornece suporte a ele ou para compará-lo com os recursos de software "
+"proprietário bem conhecido. Por exemplo, o texto a seguir &ndash; e não "
+"muito mais &ndash; seria aceitável:"
+
+#. type: Content of: <dl><dd><blockquote><p>
+msgid ""
+"w3 is a web browser for GNU Emacs, similar to Internet Explorer.  It can run "
+"on all platforms GNU Emacs runs on, including GNU/Linux, proprietary Unix "
+"systems, and Windows."
+msgstr ""
+"<a id=\"TransNote1-rev\"></a>\n"
+"w3 is a web browser for GNU Emacs, similar to Internet Explorer.  It can run "
+"on all platforms GNU Emacs runs on, including GNU/Linux, proprietary Unix "
+"systems, and Windows.\n"
+"<sup><a href=\"#TransNote1\">1</a></sup>"
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"Links which appear in other areas, such as the testimonials or philosophy "
+"pages, as well as links to user groups may discuss such software in greater "
+"detail, but links and other methods of encouragement to &ldquo;learn "
+"more&rdquo; should still be avoided."
+msgstr ""
+"Links que aparecem em outras áreas, como os depoimentos ou páginas de "
+"filosofia, bem como links para grupos de usuários podem discutir esse "
+"software em maior detalhe, mas links e outros métodos de incentivo para "
+"“aprender mais”. ainda devem ser evitados."
+
+#. type: Content of: <dl><dt>
+msgid "How does the page compare free software to open source?"
+msgstr "Como a página compara software livre ao código aberto?"
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"Almost all pages which have links on our site should, at the very least, "
+"treat free software and open source equally.  Failure to do so&mdash;whether "
+"it be by omitting free software or by implying that open source is "
+"superior&mdash;is usually unacceptable.  GNU software project pages should "
+"have little mention of open source.  The GNOME page used to provide a good "
+"example of a tactful way to do it:"
+msgstr ""
+"Quase todas as páginas que possuem links em nosso site devem, no mínimo, "
+"tratar software livre e código aberto igualmente. Não fazer isso &ndash; "
+"seja omitindo o software livre ou sugerindo que o código aberto é superior "
+"&ndash; geralmente é inaceitável. As páginas de projeto dos softwares GNU "
+"devem ter pouca menção a código aberto. A página do GNOME é usada para "
+"fornecer um bom exemplo de uma maneira diplomática de fazer isso:"
+
+#. type: Content of: <dl><dd><blockquote><p>
+msgid ""
+"GNOME is part of the GNU Project, and is free software (sometimes referred "
+"to as open source software)."
+msgstr ""
+"<a id=\"TransNote2-rev\"></a>\n"
+"GNOME is part of the GNU Project, and is free software (sometimes referred "
+"to as open source software).\n"
+"<sup><a href=\"#TransNote2\">2</a></sup>"
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"Any exceptions to this rule should be apparent from the context.  For "
+"instance, user groups pages may talk in greater detail about open source; we "
+"state on the user groups page, &ldquo;As with our links page, the FSF is not "
+"responsible for the contents of other websites, or how up-to-date their "
+"information is.&rdquo;"
+msgstr ""
+"<a id=\"TransNote3-rev\"></a>\n"
+"Qualquer exceção a esta regra deve ser aparente no contexto. Por exemplo, as "
+"páginas dos grupos de usuários podem falar mais detalhadamente sobre código "
+"aberto; nós declaramos na página de grupos de usuários, <em>“As with our "
+"links page, the FSF is not responsible for the contents of other websites, "
+"or how up-to-date their information is.”</em>\n"
+"<sup><a href=\"#TransNote3\">3</a></sup>"
+
+#. type: Content of: <dl><dt>
+msgid "How does the page treat the GNU Project?"
+msgstr "Como a página trata o Projeto GNU?"
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"Pages which we link to should treat the GNU Project well.  The primary thing "
+"to look out for in this regard is whether the page calls the system GNU/"
+"Linux or just &ldquo;Linux.&rdquo; GNU software project and user group pages "
+"should almost never, if ever, fail to do this.  Again, exceptions for other "
+"pages should be apparent from context."
+msgstr ""
+"As páginas para as quais acrescentamos link devem tratar bem o Projeto GNU. "
+"O principal aspecto a ser observado a esse respeito é se a página chama o "
+"sistema GNU/Linux ou apenas “Linux”. As páginas do projeto de software GNU e "
+"do grupo de usuários quase nunca, ou nunca, deixarão de fazer isso. "
+"Novamente, as exceções para outras páginas devem ser aparentes no contexto."
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"That said, certain parts of a page should not be considered against these "
+"criteria.  For example, suppose we were to make a link to a page on a free "
+"software news site.  Any advertisements or reader comments attached to the "
+"article would not be considered when determining whether it met or linking "
+"guidelines, since they're understood to be the opinion of their individual "
+"authors.  Similarly, on user group pages, the contents of forums and wiki "
+"pages should not hold weight in these regards."
+msgstr ""
+"Isto posto, certas partes de uma página não devem ser consideradas contra "
+"esses critérios. Por exemplo, suponha que fôssemos fazer um link para uma "
+"página em um site de notícias de software livre. Quaisquer anúncios ou "
+"comentários de leitores anexados ao artigo não serão considerados ao "
+"determinar se ele atendeu ou vinculou as diretrizes, uma vez que elas são "
+"entendidas como a opinião de seus autores individuais. Da mesma forma, em "
+"páginas de grupos de usuários, o conteúdo de fóruns e páginas wiki não deve "
+"ter peso nesses aspectos."
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"Finally, some sites are understood to always have exception with most of "
+"these guidelines.  These sites are usually about issues which are important, "
+"but somewhat peripheral, to the free software movement.  Several times we "
+"have linked to the Electronic Frontier Foundation's site, even though they "
+"encourage the use of Flash and talked exclusively about open source "
+"software.  It's generally understood that since these pages are not "
+"primarily about free software, the policies do not hold full force for them."
+msgstr ""
+"Por fim, alguns sites são sempre considerados exceção com a maioria dessas "
+"diretrizes. Esses sites são geralmente sobre questões que são importantes, "
+"mas um tanto periféricas, para o movimento do software livre. Várias vezes "
+"acrescentamos link para o site da Electronic Frontier Foundation, embora "
+"eles incentivem o uso do Flash e falem exclusivamente sobre software livre. "
+"É geralmente entendido que, uma vez que estas páginas não são primariamente "
+"sobre software livre, as políticas não possuem força total para elas."
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"As a final explanation (coming from RMS): Even for making links from www.gnu."
+"org, we do not <em>require</em> that people call the system GNU/Linux or use "
+"the term &ldquo;free software&rdquo; rather than &ldquo;open source.&rdquo; "
+"We do, however, require that they not promote any nonfree software."
+msgstr ""
+"Como uma explicação final (vinda do RMS): Mesmo para fazer links a partir do "
+"www.gnu.org, nós não <em>exigimos</em> que as pessoas chamem o sistema GNU/"
+"Linux ou usem o termo “software livre” em vez de “open source”. No entanto, "
+"exigimos que eles não promovam nenhum software não-livre."
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"If all this seems complicated, that's because, unfortunately, it is.  Don't "
+"worry; a knack for it comes with time and experience.  You may mis-evaluate "
+"a few pages as you're learning to get a feel for what's acceptable and what "
+"isn't; please don't hesitate to get a second opinion from a more experienced "
+"webmaster, or someone in charge like the Chief Webmaster or RMS.  New "
+"exceptions will always come up; keep an open mind to that possibility and be "
+"ready to handle them properly."
+msgstr ""
+"Se tudo isso parece complicado, é porque, infelizmente, é. Não se preocupe; "
+"um talento para isso vem com o tempo e a experiência. Você pode avaliar "
+"erroneamente algumas páginas enquanto aprende a ter uma ideia do que é "
+"aceitável e do que não é; Por favor, não hesite em receber uma segunda "
+"opinião de um webmaster mais experiente, ou alguém como o Chief Webmaster ou "
+"o RMS. Novas exceções sempre surgirão; mantenha uma mente aberta para essa "
+"possibilidade e esteja preparado para lidar com eles adequadamente."
+
+#. type: Content of: <h3>
+msgid "Appendix 2 - Working with Web CVS Repositories"
+msgstr "Apêndice 2 - Trabalhando com repositórios CVS Web"
+
+#. type: Content of: <h4>
+msgid "Basic CVS commands"
+msgstr "Comandos básicos de CVS"
+
+#. type: Content of: <ul><li>
+msgid ""
+"Before the initial checkout, set the environment variable <code>CVS_RSH=ssh</"
+"code>."
+msgstr ""
+"Antes do checkout inicial, defina a variável de ambiente <code>CVS_RSH=ssh</"
+"code>."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"If you have write access to www, check out the main www repository with your "
+"Savannah login:"
+msgstr ""
+"Se você tem acesso de escrita a www, confira o principal repositório www com "
+"seu login em Savannah:"
+
+#. type: Content of: <ul><li><pre>
+#, no-wrap
+msgid "cvs -z3 -d:ext:&lt;username&gt;@cvs.savannah.gnu.org:/web/www co www\n"
+msgstr "cvs -z3 -d:ext:&lt;nome-de-usuário&gt;@cvs.savannah.gnu.org:/web/www co www\n"
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"You will get a working directory, <code>www</code>, with the same structure "
+"as our main website."
+msgstr ""
+"Você receberá um diretório de trabalho, <code>www</code>, com a mesma "
+"estrutura do nosso site principal."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"If you don't have write access to www, you can still make an anonymous "
+"checkout of www:"
+msgstr ""
+"Se você não tiver acesso de escrita a www, ainda poderá fazer um checkout "
+"anônimo de www:"
+
+#. type: Content of: <ul><li><pre>
+#, no-wrap
+msgid "cvs -z3 -d:pserver:anonymous@cvs.savannah.gnu.org:/web/www co www\n"
+msgstr "cvs -z3 -d:pserver:anonymous@cvs.savannah.gnu.org:/web/www co www\n"
+
+#. type: Content of: <ul><li><p>
+msgid "Check out the web repository of the fooproject:"
+msgstr "Faça o checkout do repositório da web do projetofoo:"
+
+#. type: Content of: <ul><li><pre>
+#, no-wrap
+msgid "cvs -z3 -d:ext:&lt;username&gt;@cvs.savannah.gnu.org:/web/fooproject co fooproject\n"
+msgstr "cvs -z3 -d:ext:&lt;nome-de-usuário&gt;@cvs.savannah.gnu.org:/web/projetofoo co projetofoo\n"
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"You will get a working directory, <code>fooproject</code>, with the same "
+"structure as the <code>www/software/fooproject</code> subdirectory.  Note, "
+"however, that the fooproject and www repositories are independent.  The "
+"working directories can be anywhere in your filesystem."
+msgstr ""
+"Você obterá um diretório de trabalho, <code>projetofoo</code>, com a mesma "
+"estrutura que o subdiretório <code>www/software/fooproject</code>. Note, no "
+"entanto, que os repositórios projetofoo e www são independentes. Os "
+"diretórios de trabalho podem estar em qualquer lugar no seu sistema de "
+"arquivos."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"<em>Webmasters, please read <a href=\"/server/standards/README.webmastering."
+"html#gnupackages\">Web pages for official GNU software</a> before committing "
+"anything to the web repository of a software project.</em>"
+msgstr ""
+"<em>Webmasters, por favor leiam as <a href=\"/server/standards/README."
+"webmastering.html#gnupackages\">Páginas web para software GNU oficial</a> "
+"antes de enviar qualquer coisa para o repositório web de um projeto de "
+"software.</em>"
+
+#. type: Content of: <ul><li><p>
+msgid "Add a file or directory:"
+msgstr "Adicione um arquivo ou diretório:"
+
+#. type: Content of: <ul><li><pre>
+#, no-wrap
+msgid "cvs add foo\n"
+msgstr "cvs add foo\n"
+
+#. type: Content of: <ul><li><p>
+msgid "Update before you edit a file:"
+msgstr "Atualize antes de editar um arquivo:"
+
+#. type: Content of: <ul><li><pre>
+#, no-wrap
+msgid "cvs update -P foo\n"
+msgstr "cvs update -P foo\n"
+
+#. type: Content of: <ul><li><p>
+msgid "Check the changes you are going to commit:"
+msgstr "Verifique as alterações que você vai enviar:"
+
+#. type: Content of: <ul><li><pre>
+#, no-wrap
+msgid "cvs diff -U2 foo\n"
+msgstr "cvs diff -U2 foo\n"
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"Perform the commit (no need for <code>cvs add</code> if the file is already "
+"in the repository):"
+msgstr ""
+"Execute o commit (sem necessidade de <code>cvs add</code> se o arquivo já "
+"estiver no repositório):"
+
+#. type: Content of: <ul><li><pre>
+#, no-wrap
+msgid "cvs commit foo\n"
+msgstr "cvs commit foo\n"
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"This will open a text editor where you should enter a log message.  The "
+"commit will occur upon saving the message."
+msgstr ""
+"Isso abrirá um editor de texto no qual você deverá inserir uma mensagem de "
+"log. A confirmação ocorrerá ao salvar a mensagem."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"Without being excessively verbose, log messages should describe as clearly "
+"as possible the nature of the commit, including any related ticket numbers "
+"from RT to allow future historians to understand why your changes were made."
+msgstr ""
+"Sem serem excessivamente detalhados, as mensagens de log devem descrever com "
+"a maior clareza possível a natureza do commit, incluindo quaisquer números "
+"de tickets relacionados do RT, para permitir que futuros historiadores "
+"entendam por que suas alterações foram feitas."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"Whenever possible, changes to multiple files that share the same log message "
+"should be bundled in one commit.  Do not bundle multiple unrelated changes "
+"in one commit."
+msgstr ""
+"Sempre que possível, as alterações em vários arquivos que compartilham a "
+"mesma mensagem de log devem ser agrupadas em uma confirmação. Não agrupe "
+"várias alterações não relacionadas em um commit."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"The changes (except to <a href=\"#symlinks\">.symlinks files</a>) should be "
+"visible on www.gnu.org within minutes."
+msgstr ""
+"As alterações (exceto para <a href=\"#symlinks\">arquivos .symlinks</a>) "
+"devem estar visíveis em www.gnu.org em poucos minutos."
+
+#. type: Content of: <p>
+msgid ""
+"For further details on CVS, such as reverting to a previous version, or "
+"looking at the <code>diff</code> output of a particular change, see the <a "
+"href=\"/software/trans-coord/manual/cvs/\">CVS documentation</a>."
+msgstr ""
+"Para mais detalhes sobre o CVS, como reverter para uma versão anterior, ou "
+"olhar para a saída <code>diff</code> de uma mudança particular, veja a <a "
+"href=\"/software/trans-coord/manual/cvs/\">Documentação do CVS</a>."
+
+#. type: Content of: <h4>
+msgid "Symbolic links"
+msgstr "Links simbólicos"
+
+#. type: Content of: <p>
+msgid ""
+"Since CVS is not able to handle symbolic links directly, a separate "
+"mechanism has been implemented to allow webmasters to maintain symbolic "
+"links, as follows.  (Actual symbolic links are no longer created on www.gnu."
+"org; mod_rewrite rules are used instead.  But we'll keep this discussion "
+"talking about symlinks since it is easier to understand that way.)"
+msgstr ""
+"Como o CVS não é capaz de manipular links simbólicos diretamente, um "
+"mecanismo separado foi implementado para permitir que os webmasters "
+"mantenham links simbólicos, como segue. (Os links simbólicos reais não são "
+"mais criados no www.gnu.org; em vez disso, são usadas as regras do "
+"mod_rewrite. Mas manteremos essa discussão falando sobre links simbólicos, "
+"já que é mais fácil entender isso.)"
+
+#. type: Content of: <p>
+msgid ""
+"Being a symlink means that relative links from the linked page may break "
+"when the symlink jumps to a different directory."
+msgstr ""
+"Ser um link simbólico significa que os links relativos da página vinculada "
+"podem ser interrompidos quando o link simbólico pula para um diretório "
+"diferente."
+
+#. type: Content of: <p>
+msgid ""
+"Special files, named <code>.symlinks</code>, when committed to the CVS tree, "
+"are interpreted as specifications to build symbolic links.  Each symbolic "
+"link specification from the .symlinks file is honored, i.e., the symbolic "
+"link is created if it does not exist yet.  If a symbolic link is found in "
+"the directory and is not listed in the .symlinks file, it is removed."
+msgstr ""
+"Arquivos especiais, chamados <code>.symlinks</code>, ao fazer commit para a "
+"árvore CVS, são interpretados como especificações para construir links "
+"simbólicos. Cada especificação de link simbólico do arquivo .symlinks é "
+"honrada, ou seja, o link simbólico é criado se ainda não existir. Se um link "
+"simbólico for encontrado no diretório e não estiver listado no arquivo ."
+"symlinks, ele será removido."
+
+#. type: Content of: <p>
+msgid ""
+"The .symlinks files obey the <code>ln -s</code> format, as described below:"
+msgstr ""
+"Os arquivos .symlinks obedecem ao formato <code>ln -s</code>, conforme "
+"descrito abaixo:"
+
+#. type: Content of: <ul><li>
+msgid "Lines starting with a sharp sign (&ldquo;#&rdquo;) are ignored."
+msgstr "Linhas que começam com um sinal de cerquilha (“#”) são ignoradas."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Lines that do not contain two strings separated by white space are silently "
+"ignored."
+msgstr ""
+"Linhas que não contêm duas strings separadas por espaço em branco são "
+"silenciosamente ignoradas."
+
+#. type: Content of: <p>
+msgid "Here is an example of a .symlinks file:"
+msgstr "Aqui está um exemplo de um arquivo .symlinks:"
+
+#. type: Content of: <pre>
+#, no-wrap
+msgid ""
+"# Make a link named l.html to a target t.html.\n"
+"# Strictly equivalent to ln -s t.html l.html:\n"
+"t.html l.html\n"
+msgstr ""
+"# Cria um link chamado l.html para um alvo t.html.\n"
+"# É estritamente equivalente a ln -s t.html l.html:\n"
+"t.html l.html\n"
+
+#. type: Content of: <p>
+msgid ""
+"On each line the first file name must be a relative path name to an existing "
+"file.  The second file name may not contain any slash; it is the name of the "
+"symbolic link to be created in the present directory.  For instance, if a "
+"page named <code>DIR.html</code> exists in the <code>/DIR</code> directory, "
+"and <code>index.html</code> does not exist, <code>/DIR/.symlinks</code> "
+"should contain a line like this:"
+msgstr ""
+"Em cada linha, o primeiro nome de arquivo deve ser um nome de caminho "
+"relativo para um arquivo existente. O segundo nome de arquivo não pode "
+"conter nenhuma barra; é o nome do link simbólico a ser criado no diretório "
+"atual. Por exemplo, se uma página chamada <code>DIR.html</code> existir no "
+"diretório <code>/DIR</code>, e <code>index.html</code> não existir, <code>/"
+"DIR/.symlinks</code> deve conter uma linha como esta:"
+
+#. type: Content of: <pre>
+#, no-wrap
+msgid "DIR.html index.html\n"
+msgstr "DIR.html index.html\n"
+
+#. type: Content of: <p>
+msgid ""
+"The <code>ln -s</code> analogy accounts for only part of the story.  The "
+"current method actually takes advantage of the flexibility of URL "
+"rewriting.  Thus a single HTML entry in the .symlinks file defines links to "
+"all possible translations that follow our <a href=\"#NamingTranslations"
+"\">naming conventions</a>.  This makes it impossible to use symlinks to "
+"redirect to and from HTML files whose names look like translations, that is, "
+"<code>page.<var>LL</var>.html</code> or <code>page.<var>LL-CC</var>.html</"
+"code>, where LL and CC are two-letter codes.  When you need such "
+"redirections, use the <a href=\"#htaccess\">htaccess mechanism</a>."
+msgstr ""
+"A analogia de <code>ln -s</code> representa apenas parte da história. O "
+"método atual realmente aproveita a flexibilidade da regravação de URL. "
+"Assim, uma única entrada HTML no arquivo .symlinks define links para todas "
+"as possíveis traduções que seguem nossas <a href=\"#NamingTranslations"
+"\">convenções de nomenclatura</a>. Isso torna impossível usar links "
+"simbólicos para redirecionar para e de arquivos HTML cujos nomes se parecem "
+"com traduções, ou seja, <code>página.<var>LL</var>.html</code> ou "
+"<code>página.<var>LL-CC</var>.html</code>, onde LL e CC são códigos de duas "
+"letras. Quando você precisar desses redirecionamentos, use o <a href="
+"\"#htaccess\">mecanismo htaccess</a>."
+
+#. type: Content of: <p>
+msgid ""
+"These days, the .symlinks handling happens on www.gnu.org via a cron job "
+"that runs twice an hour.  Webmasters do not have access to it."
+msgstr ""
+"Hoje em dia, o tratamento de .symlinks acontece em www.gnu.org por meio de "
+"uma tarefa de cron que é executada duas vezes por hora. Os webmasters não "
+"têm acesso a ele."
+
+#. type: Content of: <h4>
+msgid ".htaccess and redirections"
+msgstr ".htaccess e redirecionamentos"
+
+#. type: Content of: <p>
+msgid ""
+"To browsers, the symbolic links in the previous section are "
+"indistinguishable from the actual file.  You may want an actual redirection "
+"in some cases.  You can do this either in the top-level control file <code>."
+"htaccess</code>, or by using something like this as the file to be "
+"redirected:"
+msgstr ""
+"Para os navegadores, os links simbólicos na seção anterior são "
+"indistinguíveis do arquivo real. Você pode querer um redirecionamento real "
+"em alguns casos. Você pode fazer isso no arquivo de controle de nível "
+"superior <code>.htaccess</code>, ou usando algo parecido com isto como o "
+"arquivo a ser redirecionado:"
+
+# TRADUTOR, cuidado que as aspas aqui NÃO PODEM ser aspas duplas curvadas
+#. type: Content of: <p>
+msgid ""
+"<code> &lt;meta http-equiv=\"refresh\" content=\"0; url=http://www.gnu.org/"
+"target\"&gt; </code>"
+msgstr ""
+"<code> &lt;meta http-equiv=\"refresh\" content=\"0; url=http://www.gnu.org/"
+"alvo\"&gt; </code>"
+
+#. type: Content of: <h4>
+msgid "Scripts"
+msgstr "Scripts"
+
+#. type: Content of: <p>
+msgid ""
+"A <a href=\"/server/source/source.html\">description of scripts and "
+"software</a> used on www.gnu.org is available.  Please read it before "
+"writing any scripts, and also update it as needed if you have write access "
+"to www."
+msgstr ""
+"Uma <a href=\"/server/source/source.html\">descrição de scripts e software</"
+"a> usados no www.gnu.org está disponível. Por favor, leia-a antes de "
+"escrever qualquer script, e também atualize-a conforme necessário, se você "
+"tiver acesso de escrita a www."
+
+#. type: Content of: <h4>
+msgid "System administrators"
+msgstr "Administradores de sistema"
+
+#. type: Content of: <p>
+msgid ""
+"The system administrators for GNU change from time to time.  Please email "
+"the sysadmin list &lt;sysadmin@gnu.org&gt; rather than an individual, unless "
+"you have a specific reason to do so."
+msgstr ""
+"Os administradores de sistema do GNU mudam de tempos em tempos. Por favor, "
+"envie um e-mail para a lista de sysadmin &lt;sysadmin@gnu.org&gt; em vez de "
+"uma pessoa específica, a menos que você tenha uma razão específica para isso."
+
+#. type: Content of: <h3>
+msgid "Useful Resources"
+msgstr "Recursos úteis"
+
+#. type: Content of: <ul><li>
+msgid "Outside gnu.org:"
+msgstr "Fora do gnu.org:"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"We follow the guidelines of the <a href=\"https://www.anybrowser.org/"
+"campaign/\">Best Viewed with Any Browser</a> campaign."
+msgstr ""
+"Seguimos as diretrizes da campanha <a href=\"https://www.anybrowser.org/"
+"campaign/\">Best Viewed with Any Browser</a>."
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"Basic info on the web and its technical specifications can be found at <a "
+"href=\"https://www.w3.org/\">The World Wide Web Consortium</a>."
+msgstr ""
+"Informações básicas sobre a web e suas especificações técnicas podem ser "
+"encontradas no <a href=\"https://www.w3.org/\">The World Wide Web "
+"Consortium</a>."
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"Use of the <a href=\"https://www.cs.tcd.ie/15445/UG.HTML\">ISO</a> standard "
+"for the <a href=\"https://www.w3.org/MarkUp/\">Hypertext Markup Language "
+"(HTML)</a> allows for consistent backwards compatibility among web user "
+"agents."
+msgstr ""
+"O uso do padrão <a href=\"https://www.cs.tcd.ie/15445/UG.HTML\">ISO</a> para "
+"o <a href=\"https://www.w3.org/MarkUp/\">Hypertext Markup Language (HTML)</"
+"a> permite uma compatibilidade consistente com versões anteriores entre user-"
+"agents web."
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"The GNU web server follows the w3.org <a href=\"https://www.w3.org/Provider/"
+"Style/Overview.html\">Style Guide</a>."
+msgstr ""
+"O servidor web GNU segue o <a href=\"https://www.w3.org/Provider/Style/"
+"Overview.html\">Style Guide</a> do w3.org."
+
+#. type: Content of: <ul><li>
+msgid "On gnu.org:"
+msgstr "No gnu.org:"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "<a href=\"#content\">The GNU Website Guidelines</a>;"
+msgstr "<a href=\"#content\">Diretrizes do Site GNU</a>;"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"Guidelines for <a href=\"/server/standards/README.editors.html\">Web Page "
+"Creation</a> at www.gnu.org;"
+msgstr ""
+"Diretrizes para <a href=\"/server/standards/README.editors.html\">Diretrizes "
+"para Escrever Páginas Web</a> no www.gnu.org;"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a href=\"/software/texinfo/manual/texinfo/html_node/Tips.html\"> Appendix B "
+"Tips and Hints</a>, and other style tips in the <a href=\"/software/texinfo/"
+"manual/texinfo/\">Texinfo Manual</a>;"
+msgstr ""
+"<a href=\"/software/texinfo/manual/texinfo/html_node/Tips.html\"> Appendix B "
+"Tips and Hints</a> e outras dicas de estilo no <a href=\"/software/texinfo/"
+"manual/texinfo/\">Manual do Texinfo</a>;"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a href=\"/accessibility/accessibility.html\">GNU Accessibility Statement</"
+"a>;"
+msgstr ""
+"<a href=\"/accessibility/accessibility.html\">Declaração de Acessibilidade "
+"do GNU</a>;"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a href=\"/server/standards/README.webmastering.html\">GNU Webmastering "
+"Guidelines;</a>"
+msgstr ""
+"<a href=\"/server/standards/README.webmastering.html\">Diretrizes de "
+"Webmaster GNU;</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"Guide to <a href=\"/server/standards/README.translations.html\">translating</"
+"a> GNU web pages into other languages;"
+msgstr ""
+"Guia para <a href=\"/server/standards/README.translations.html\">traduzir</"
+"a> páginas web do GNU para outros idiomas;"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a href=\"/software/trans-coord/manual/gnun/html_node/Webmaster-Tips.html\"> "
+"Tips for webmasters</a> to make translators' job easier;"
+msgstr ""
+"<a href=\"/software/trans-coord/manual/gnun/html_node/Webmaster-Tips.html\"> "
+"Dicas para webmasters</a> para facilitar o trabalho dos tradutores;"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a href=\"//savannah.gnu.org/maintenance/FrontPage/\">Documentation for "
+"Savannah</a>, the SourceForge clone dedicated to the GNU Project;"
+msgstr ""
+"<a href=\"//savannah.gnu.org/maintenance/FrontPage/\">Documentação do "
+"Savannah</a>, o clone do SourceForge dedicado para o Projeto GNU;"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a href=\"//cvs.savannah.gnu.org/viewvc/gnumaint/README?root=womb&amp;"
+"view=markup\"> README</a> for the <code>/gnumaint</code> directory in the "
+"<code>womb</code> Savannah group (those files are used by <a href=\"/prep/"
+"maintain/\">GNU maintainer administrators</a> to update the <code>/*/"
+"allgnupkgs.html</code> files in www);"
+msgstr ""
+"<a href=\"//cvs.savannah.gnu.org/viewvc/gnumaint/README?root=womb&amp;"
+"view=markup\"> README</a> para o diretório <code>/gnumaint</code> no grupo "
+"Savannah <code>womb</code> (aqueles arquivos são usados por <a href=\"/prep/"
+"maintain/\">administradores mantenedores do GNU</a> para atualizar os "
+"arquivos <code>/*/allgnupkgs.html</code> no www);"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"Here is the <a href=\"/server/tasks.html\">help</a> we need with our <a href="
+"\"/server/server.html\">web server</a>."
+msgstr ""
+"Aqui está a <a href=\"/server/tasks.html\">ajuda</a> que nós precisamos com "
+"nosso <a href=\"/server/server.html\">servidor web</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr ""
+"<b>Notas do tradutor</b>:\n"
+"<ol>\n"
+"<li>\n"
+"<a id=\"TransNote1\" href=\"#TransNote1-rev\" class=\"nounderline\">&#8593;</"
+"a> \n"
+"\n"
+"Em português, o exemplo de texto usando o w3 seria equivalente a:\n"
+"<blockquote><p>\n"
+"O w3 é um navegador da web para o GNU Emacs, semelhante ao Internet "
+"Explorer. Ele pode rodar em todas as plataformas em que o GNU Emacs roda, "
+"incluindo GNU/Linux, sistemas Unix proprietários e Windows.\n"
+"</p></blockquote>\n"
+"</li>\n"
+"<li>\n"
+"<a id=\"TransNote2\" href=\"#TransNote2-rev\" class=\"nounderline\">&#8593;</"
+"a> \n"
+"\n"
+"Em português, o exemplo de texto usando o GNOME seria equivalente a:\n"
+"<blockquote><p>\n"
+"O GNOME faz parte do Projeto GNU e é um software livre (às vezes chamado de "
+"software de código aberto).\n"
+"</p></blockquote>\n"
+"</li>\n"
+"<li>\n"
+"<a id=\"TransNote3\" href=\"#TransNote3-rev\" class=\"nounderline\">&#8593;</"
+"a> \n"
+"\n"
+"Em português, a declaração na páginas de grupos de usuários seria "
+"equivalente a:\n"
+"<blockquote><p>\n"
+"Assim como na nossa página de links, a FSF não é responsável pelo conteúdo "
+"de outros sites, nem pela atualização de suas informações.\n"
+"</p></blockquote>\n"
+"</li>\n"
+"</ol>"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid ""
+"Copyright &copy; 2010, 2013, 2014, 2015, 2016, 2017, 2018 Free Software "
+"Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2010, 2013, 2014, 2015, 2016, 2017, 2018 Free Software "
+"Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2019."
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização:"

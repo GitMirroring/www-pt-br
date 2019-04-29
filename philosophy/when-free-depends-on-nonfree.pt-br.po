@@ -1,0 +1,325 @@
+# Brazilian Portuguese translation of https://www.gnu.org/philosophy/when-free-depends-on-nonfree.html
+# Copyright (C) 2019 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: when-free-depends-on-nonfree.html\n"
+"POT-Creation-Date: 2018-01-01 05:59+0000\n"
+"PO-Revision-Date: 2019-04-27 16:17-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid ""
+"When Free Software Depends on Nonfree - GNU Project - Free Software "
+"Foundation"
+msgstr ""
+"Quando software livre depende de não livre - Projeto GNU - Free Software "
+"Foundation"
+
+#. type: Content of: <h2>
+msgid "When Free Software Depends on Nonfree"
+msgstr "Quando software livre depende de não livre"
+
+#. type: Content of: <p>
+msgid "by <strong>Richard Stallman</strong>"
+msgstr "por <strong>Richard Stallman</strong>"
+
+#. type: Content of: <p>
+msgid ""
+"When a program is free software (free as in freedom), that means it gives "
+"users the four freedoms (<a href=\"/philosophy/free-sw.html\">gnu.org/"
+"philosophy/free-sw.html</a>)  so that they control what the program does. In "
+"most cases, that is sufficient for the program's distribution to be ethical; "
+"but not always. There are additional problems that can arise in specific "
+"circumstances. This article describes a subtle problem, where upgrading the "
+"free program requires using a nonfree program."
+msgstr ""
+"Quando um programa é software livre (livre como em liberdade), isso "
+"significa que ele dá a seus usuários as quatro liberdades (<a href=\"/"
+"philosophy/free-sw.html\">gnu.org/philosophy/free-sw.html</a>) para que "
+"controlem o que o programa faz. Na maioria dos casos, isso é suficiente para "
+"que a distribuição do programa seja ética; mas nem sempre. Existem problemas "
+"adicionais que podem surgir em circunstâncias específicas. Este artigo "
+"descreve um problema sutil, em que a atualização do programa livre requer o "
+"uso de um programa não livre."
+
+#. type: Content of: <p>
+msgid ""
+"If the free program's use depends unavoidably on another program which is "
+"nonfree, we say that the free program is &ldquo;trapped.&rdquo; Its code is "
+"free software, and you may be able to copy pieces of its code into other "
+"free programs with good, ethical results. But you shouldn't <em>run</em> the "
+"trapped program, because that entails surrendering your freedom to the other "
+"nonfree program."
+msgstr ""
+"Se o uso do programa livre depender inevitavelmente de outro programa que "
+"não é livre, dizemos que o programa livre está “preso”. Seu código é "
+"software livre e você pode copiar partes de seu código em outros programas "
+"livre com resultados bons e éticos. Mas você não deve <em>executar</em> o "
+"programa preso, porque isso implica entregar sua liberdade ao outro programa "
+"não livre."
+
+#. type: Content of: <p>
+msgid ""
+"Someone who upholds the principles of free software would not knowingly make "
+"a program that is trapped. However, many free programs are developed by "
+"people or companies that don't particularly support these principles, or "
+"don't understand the problem."
+msgstr ""
+"Alguém que defende os princípios do software livre não faria conscientemente "
+"um programa preso. No entanto, muitos programas livres são desenvolvidos por "
+"pessoas ou empresas que não apoiam esses princípios ou que não entendem o "
+"problema."
+
+#. type: Content of: <p>
+msgid ""
+"Dependence on a nonfree program can take various forms. The most basic form "
+"is when the programming language used has no free implementation. The first "
+"programs I wrote for the GNU system in the 1980s, including GNU Emacs, GDB "
+"and GNU Make, had to be compiled with AT&amp;T's nonfree C compiler, because "
+"there was no free C compiler until I wrote GCC. Fortunately, this kind of "
+"problem is mostly a thing of the past; we now have free compilers and "
+"platforms for just about all the languages anyone uses for writing free "
+"software."
+msgstr ""
+"Dependência de um programa não livre pode assumir várias formas. A forma "
+"mais básica é quando a linguagem de programação usada não tem implementação "
+"livre. Os primeiros programas que escrevi para o sistema GNU nos anos 80, "
+"incluindo GNU Emacs, GDB e GNU Make, tiveram que ser compilados com o "
+"compilador C não livre da AT&amp;T, porque não havia compilador C livre até "
+"que eu escrevesse o GCC. Felizmente, esse tipo de problema é principalmente "
+"uma coisa do passado; agora temos compiladores e plataformas livres para "
+"praticamente todas as linguagens que alguém usa para escrever software livre."
+
+#. type: Content of: <p>
+msgid ""
+"We can release the program from this kind of trap by translating it to "
+"another language, or by releasing a free implementation of the language it's "
+"written in. Thus, when a full free Java implementation became available, "
+"that released all the free Java programs from the <a href=\"/philosophy/java-"
+"trap.html\">Java Trap</a>."
+msgstr ""
+"Podemos liberar o programa desse tipo de armadilha traduzindo-o para outra "
+"linguagem ou lançando uma implementação livre da linguagem na qual ele está "
+"escrito. Assim, quando uma implementação Java completa e livre tornou-se "
+"disponível, isso liberou todos os programas livres em Java da <a href=\"/"
+"philosophy/java-trap.html\">Armadilha do Java</a>."
+
+#. type: Content of: <p>
+msgid ""
+"This kind of dependence is conceptually simple because it stems from the "
+"situation at one given instant in time. At time T, free program P won't run "
+"without nonfree programming platform Q. To borrow a term from linguistics, "
+"this relationship is &ldquo;synchronic.&rdquo;"
+msgstr ""
+"Esse tipo de dependência é conceitualmente simples porque decorre da "
+"situação em um determinado instante no tempo. No momento T, o programa livre "
+"P não será executado sem a plataforma de programação não livre Q. Para "
+"emprestar um termo da linguística, essa relação é “sincrônica”."
+
+#. type: Content of: <p>
+msgid ""
+"More recently, we have seen another kind of dependence in database programs, "
+"where you can build and run any given version of the program in the free "
+"world, but upgrading from version N to version N+1 requires a nonfree "
+"program."
+msgstr ""
+"Mais recentemente, vimos outro tipo de dependência em programas de banco de "
+"dados, onde você pode compilar e executar qualquer versão do programa no "
+"mundo livre, mas a atualização da versão N para a versão N+1 requer um "
+"programa não livre."
+
+#. type: Content of: <p>
+msgid ""
+"This happens because the internal format of the database changes from "
+"version N to version N+1. If you have been seriously using version N, you "
+"probably have a large existing database in the version N format.  To upgrade "
+"to version N+1 of the database software, you need to reformat that database."
+msgstr ""
+"Isso acontece porque o formato interno do banco de dados muda da versão N "
+"para a versão N+1. Se você estiver usando seriamente a versão N, "
+"provavelmente terá um grande banco de dados existente no formato da versão "
+"N. Para atualizar para a versão N+1 do software de banco de dados, você "
+"precisa reformatar esse banco de dados."
+
+#. type: Content of: <p>
+msgid ""
+"If the way you are supposed to do this is by running a proprietary database "
+"reformat program, or using the developer's service which is SaaSS (<a href="
+"\"/philosophy/who-does-that-server-really-serve.html\">Service as a Software "
+"Substitute</a>), the database software is trapped&mdash;but in a more subtle "
+"way. Any single version of the database program can be used without nonfree "
+"software or SaaSS. The problem arises when you try to keep using the program "
+"for the long term, which entails upgrading it from time to time; you can't "
+"use it this way without some nonfree software or equivalent. This database "
+"program is trapped across time&mdash;we could call it &ldquo;diachronically "
+"trapped,&rdquo; borrowing another term from linguistics."
+msgstr ""
+"Se a maneira que você deve fazer isso é executando um programa proprietário "
+"de reformatação de banco de dados ou usando o serviço do desenvolvedor que é "
+"SaaSS (<a href=\"/philosophy/who-does-that-server-really-serve.html"
+"\">Serviço como Substituto de Software</a>), o software de banco de dados "
+"está preso &ndash; mas de uma maneira mais sutil. Qualquer versão única do "
+"programa de banco de dados pode ser usada sem software não livre ou SaaSS. O "
+"problema surge quando você tenta continuar usando o programa a longo prazo, "
+"o que implica atualizá-lo de tempos em tempos; você não pode usá-lo desta "
+"forma sem algum software não livre ou equivalente. Este programa de banco de "
+"dados está preso ao longo do tempo &ndash; podemos chamá-lo de “preso "
+"diacronicamente”, pegando emprestado outro termo da linguística."
+
+#. type: Content of: <p>
+msgid ""
+"For example, the program OpenERP (since renamed &ldquo;Odoo&rdquo;), though "
+"free, is diachronically trapped. <a href=\"/software/health/\">GNU Health</"
+"a>, our free package for running a medical clinic, initially used OpenERP. "
+"In 2011, GNU Health developer Luis Falcón discovered that upgrading to the "
+"next version of OpenERP required sending the database (full of patients' "
+"medical data) to OpenERP's server for reformatting. This is SaaSS: it "
+"requires the user of GNU Health (a clinic) to entrust its own computing and "
+"its data to the company developer of OpenERP. Rather than bow down, Falcón "
+"rewrote GNU Health to use <a href=\"http://www.tryton.org\">Tryton</a> "
+"instead."
+msgstr ""
+"Por exemplo, o programa OpenERP (desde que renomeado “Odoo”), embora livre, "
+"está preso diacronicamente. O <a href=\"/software/health/\">GNU Health</a>, "
+"nosso pacote livre para administrar uma clínica médica, inicialmente usava o "
+"OpenERP. Em 2011, o desenvolvedor do GNU Health, Luis Falcón, descobriu que "
+"a atualização para a próxima versão do OpenERP exigia o envio do banco de "
+"dados (cheio de dados médicos dos pacientes) para o servidor do OpenERP para "
+"reformatação. Isto é SaaSS: requer que o usuário do GNU Health (uma clínica) "
+"confie sua própria computação e seus dados ao desenvolvedor da empresa "
+"OpenERP. Em vez de se curvar, Falcón reescreveu o GNU Health para usar o <a "
+"href=\"http://www.tryton.org\">Tryton</a>."
+
+#. type: Content of: <p>
+msgid ""
+"Using SaaSS is inherently equivalent to running a proprietary program with "
+"snooping functionality and a universal back door. The service could keep a "
+"copy of the databases that users reformat. Even if we can trust the company "
+"that runs the service never to intentionally show any form of the data to "
+"anyone, we can't be sure that it won't be accessed by <a href=\"/philosophy/"
+"surveillance-vs-democracy.html\">the intelligence agencies of various "
+"countries</a> or security-breaking crackers <a href=\"http://stallman.org/"
+"articles/on-hacking.html\">(please don't call them &ldquo;hackers&rdquo;)</"
+"a>."
+msgstr ""
+"O uso do SaaSS é inerentemente equivalente à execução de um programa "
+"proprietário com funcionalidade bisbilhotar e uma <i lang=\"en\">back door</"
+"i> universal. O serviço pode manter uma cópia dos bancos de dados que os "
+"usuários reformatam. Mesmo se pudermos confiar na empresa que administra o "
+"serviço para nunca mostrar intencionalmente qualquer forma de dados a "
+"ninguém, não podemos ter certeza de que ela não será acessada pelas <a href="
+"\"/philosophy/surveillance-vs-democracy.html\">agências de inteligência de "
+"vários países</a> ou crackers de segurança <a href=\"http://stallman.org/"
+"articles/on-hacking.html\">(por favor, não os chame “hackers”)</a>."
+
+#. type: Content of: <p>
+msgid ""
+"When a program is diachronically trapped, releasing it from the trap "
+"requires more than a one-time job of programming. Rather, the job has to be "
+"done continually, each time there is a change in the data format. Launching "
+"a project with a long-term commitment to continue doing this is not easy. It "
+"may be easier to pressure the company to stop trying to trap users&mdash;by "
+"rejecting the trapped program until it does so. Given how difficult it is to "
+"free the program, you had better stay away from it."
+msgstr ""
+"Quando um programa está preso diacronicamente, soltá-lo da armadilha requer "
+"mais do que um trabalho de programação única. Em vez disso, o trabalho tem "
+"que ser feito continuamente, sempre que houver uma mudança no formato dos "
+"dados. Lançar um projeto com um compromisso de longo prazo para continuar "
+"fazendo isso não é fácil. Pode ser mais fácil pressionar a empresa a parar "
+"de tentar prender usuários &ndash; rejeitando o programa preso até que isso "
+"aconteça. Dado o quão difícil é liberar o programa, é melhor você ficar "
+"longe dele."
+
+#. type: Content of: <p>
+msgid ""
+"It is possible to try out a diachronically trapped free program without "
+"nonfree software, but if you're going to do more than dabble, you must steer "
+"clear of really using it. Both businesses and individuals will find fine "
+"free alternatives that don't have such a problem; all it takes to avoid the "
+"trap is to recognize it."
+msgstr ""
+"É possível experimentar um programa livre preso diacronicamente sem software "
+"não livre, mas se você vai fazer mais do que mexer, você deve evitar usá-lo. "
+"Ambas as empresas e indivíduos encontrarão alternativas livres que não "
+"apresentam esse problema; tudo o que é preciso para evitar a armadilha é "
+"reconhecê-la."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2016, 2017, 2018 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2016, 2017, 2018 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2019."
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização:"

@@ -1,0 +1,354 @@
+# Brazilian Portuguese translation of https://www.gnu.org/philosophy/funding-art-vs-funding-software.html
+# Copyright (C) 2019 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: funding-art-vs-funding-software.html\n"
+"POT-Creation-Date: 2017-08-27 14:56+0000\n"
+"PO-Revision-Date: 2019-04-26 15:48-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid ""
+"Funding Art vs Funding Software - GNU Project - Free Software Foundation"
+msgstr ""
+"Financiamento de arte vs. Financiamento de software - Projeto GNU - Free "
+"Software Foundation"
+
+#. type: Content of: <h2>
+msgid "Funding Art vs Funding Software"
+msgstr "Financiamento de arte vs. Financiamento de software"
+
+#. type: Content of: <p>
+msgid ""
+"by <a href=\"http://www.stallman.org/\"><strong>Richard Stallman</strong></a>"
+msgstr ""
+"por <a href=\"http://www.stallman.org/\"><strong>Richard Stallman</strong></"
+"a>"
+
+# Estado, em maiúsculo, => "instituições que compõem a administração da nação."
+#. type: Content of: <p>
+msgid ""
+"I've proposed two new systems to fund artists in a world where we have "
+"legalized sharing (noncommercial redistribution of exact copies) of "
+"published works.  One is for the state to collect taxes for the purpose, and "
+"divide the money among artists in proportion to the cube root of the "
+"popularity of each one (as measured by surveying samples of the "
+"population).  The other is for each player to have a &ldquo;donate&rdquo; "
+"button to anonymously send a small sum (perhaps 50 cents, in the US) to the "
+"artists who made the last work played.  These funds would go to artists, not "
+"to their publishers."
+msgstr ""
+"Eu propus dois novos sistemas para financiar artistas em um mundo onde "
+"legalizamos o compartilhamento (redistribuição não comercial de cópias "
+"exatas) de obras publicadas. Uma delas é o Estado arrecadar impostos para o "
+"propósito e dividir o dinheiro entre os artistas proporcionalmente à raiz "
+"cúbica da popularidade de cada um (conforme medido por amostras de pesquisa "
+"junto à população). A outra é para cada reprodutor de mídia ter um botão "
+"“doar” para enviar anonimamente uma pequena quantia (talvez 50 centavos, nos "
+"EUA) para artistas cuja obra está sendo ou acabou de ser reproduzida. Esses "
+"financiamentos iriam para artistas, não para as editoras."
+
+#. type: Content of: <p>
+msgid ""
+"People often wonder why I don't propose these methods for free software.  "
+"There's a reason for that: it is hard to adapt them to works that are free."
+msgstr ""
+"As pessoas muitas vezes se perguntam por que não proponho esses métodos para "
+"software livre. Há uma razão para isso: é difícil adaptá-los a obras livres."
+
+#. type: Content of: <p>
+msgid ""
+"In my view, works designed to be used to do practical jobs must be free.  "
+"The people who use them deserve to have control over the jobs they do, which "
+"requires control over the works they use to do them, which requires the four "
+"freedoms (see <a href=\"/philosophy/free-sw.html\"> http://www.gnu.org/"
+"philosophy/free-sw.html</a>).  Works to do practical jobs include "
+"educational resources, reference works, recipes, text fonts and, of course, "
+"software; these works must be free."
+msgstr ""
+"Na minha opinião, obras destinadas a serem utilizadas para trabalhos "
+"práticos devem ser livre. As pessoas que as usam merecem ter controle sobre "
+"os trabalhos que fazem, o que requer controle sobre as obras que elas usam "
+"para realizá-las, o que requer as quatro liberdades (veja <a href=\"/"
+"philosophy/free-sw.html\"> http://www.gnu.org/philosophy/free-sw.html</a>). "
+"Obras para trabalhos práticos incluem recursos educacionais, trabalhos de "
+"referência, receitas, fontes de texto e, é claro, software; essas obras "
+"devem ser livres."
+
+#. type: Content of: <p>
+msgid ""
+"That argument does not apply to works of opinion (such as this one) or art, "
+"because they are not designed for the users to do practical jobs with.  "
+"Thus, I don't believe those works must be free.  We must legalize sharing "
+"them, and using pieces in remix to make totally different new works, but "
+"that doesn't include in publishing modified versions of them.  It follows "
+"that, for these works, we can tell who the authors are.  Each published work "
+"can specify who its authors are, and changing that information can be "
+"illegal."
+msgstr ""
+"Esse argumento não se aplica a obras de opinião (como esta) ou arte, porque "
+"elas não são projetadas para as pessoas fazerem trabalhos práticos com elas. "
+"Assim, não acredito que essas obras devam ser livres. Devemos legalizar o "
+"compartilhamento delas e usar partes no remix para fazer novas obras "
+"totalmente diferentes, mas isso não inclui publicar versões modificadas "
+"deles. Daqui resulta que, para estas obras, podemos dizer quem são os "
+"autores ou autoras. Cada obra publicada pode especificar a autoria e a "
+"alteração dessas informações pode ser ilegal."
+
+#. type: Content of: <p>
+msgid ""
+"That crucial point enables my proposed funding systems to work.  It means "
+"that if you play a song and push the &ldquo;donate&rdquo; button, the system "
+"can be sure who should get your donation.  Likewise, if you participate in "
+"the survey that calculates popularities, the system will know who to credit "
+"with a little more popularity because you listened to that song or made a "
+"copy of it."
+msgstr ""
+"Esse ponto crucial permite que meus sistemas de financiamento propostos "
+"funcionem. Isso significa que, se você tocar uma música e pressionar o botão "
+"“doar”, o sistema pode ter certeza de quem deve receber sua doação. Da mesma "
+"forma, se você participar da pesquisa que calcula as popularidades, o "
+"sistema saberá a quem creditar com um pouco mais de popularidade porque você "
+"ouviu essa música ou fez uma cópia dela."
+
+#. type: Content of: <p>
+msgid ""
+"When one song is made by multiple artists (for instance, several musicians "
+"and a songwriter), that doesn't happen by accident.  They know they are "
+"working together, and they can decide in advance how to divide up the "
+"popularity that song later develops&mdash;or use the standard default rules "
+"for this division.  This case creates no problem for those two funding "
+"proposals because the work, once made, is not changed by others."
+msgstr ""
+"Quando uma música é feita por um conjunto de artistas (por exemplo, vários "
+"músicos e um compositor), isso não acontece por acaso. Tais artistas sabem "
+"que estão trabalhando juntos e podem decidir antecipadamente como dividir a "
+"popularidade que a música mais tarde desenvolve &ndash; ou usar as regras "
+"padrão para essa divisão. Este caso não cria nenhum problema para essas duas "
+"propostas de financiamento porque a obra, uma vez feita, não é alterada por "
+"outros."
+
+#. type: Content of: <p>
+msgid ""
+"However, in a field of free works, one large work can have hundreds, even "
+"thousands of authors.  There can be various versions with different, "
+"overlapping sets of authors.  Moreover, the contributions of those authors "
+"will differ in kind as well as in magnitude.  This makes it impossible to "
+"divide the work's popularity among the contributors in a way that can be "
+"justified as correct.  It's not just hard work; it's not merely complex.  "
+"The problem raises philosophical questions that have no good answers."
+msgstr ""
+"No entanto, em um campo de obras livres, uma grande obra pode ter centenas, "
+"até milhares de autores e autoras. Pode haver várias versões com conjuntos "
+"de autores e autoras diferentes e sobrepostos. Além disso, as contribuições "
+"destes diferem em espécie e magnitude. Isso torna impossível dividir a "
+"popularidade da obra entre autores das colaborações de uma maneira que possa "
+"ser justificada como correta. Não é apenas trabalho duro; não é apenas "
+"complexo. O problema levanta questões filosóficas que não têm boas respostas."
+
+#. type: Content of: <p>
+msgid ""
+"Consider, for example, the free program GNU Emacs.  Our records of "
+"contributions to the code of GNU Emacs are incomplete in the period before "
+"we started using version control&mdash;before that we have only the change "
+"logs.  But let's imagine we still had every version and could determine "
+"precisely what code contribution is due to each of the hundreds of "
+"contributors.  We'd still be stuck."
+msgstr ""
+"Considere, por exemplo, o programa livre GNU Emacs. Nossos registros de "
+"contribuições para o código do GNU Emacs estão incompletos no período antes "
+"de começarmos a usar o controle de versão &ndash; antes disso, temos apenas "
+"os registros de alterações. Mas vamos imaginar que ainda temos todas as "
+"versões e podemos determinar com precisão qual contribuição do código é "
+"devida a cada uma das centenas de contribuidores. Nós ainda estaríamos "
+"travados."
+
+#. type: Content of: <p>
+msgid ""
+"If we wanted to give credit in proportion to lines of code (or should it be "
+"characters?), then it would be straightforward, once we decide how to handle "
+"a line that was written by A and then changed by B.  But that assumes each "
+"line as important as every other line.  I am sure that is wrong&mdash;some "
+"pieces of the code do more important jobs and others less; some code is "
+"harder to write and other code is easier.  But I see no way to quantify "
+"these distinctions, and the developers could argue about them forever.  I "
+"might deserve some additional credit for having initially written the "
+"program, and certain others might deserve additional credit for having "
+"initially written certain later important additions, but I see no objective "
+"way to decide how much.  I can't propose a justifiable rule for dividing up "
+"the popularity credit of a program like GNU Emacs."
+msgstr ""
+"Se quiséssemos dar crédito proporcionalmente às linhas de código (ou deveria "
+"ser caracteres?), Então seria simples, uma vez que decidimos como lidar com "
+"uma linha que foi escrita por A e então alterada por B. Mas isso considera "
+"cada linha tão importante quanto todas as outras linhas. Eu tenho certeza "
+"que isso é errado &ndash; algumas partes do código fazem trabalhos mais "
+"importantes e outros menos; alguns códigos são mais difíceis de escrever e "
+"outros códigos são mais fáceis. Mas não vejo maneira de quantificar essas "
+"distinções, e desenvolvedores podem argumentar sobre elas para sempre. Eu "
+"poderia merecer algum crédito adicional por ter inicialmente escrito o "
+"programa, e alguns outros podem merecer crédito adicional por ter "
+"inicialmente escrito algumas adições importantes posteriores, mas não vejo "
+"nenhuma maneira objetiva de decidir quanto. Eu não posso propor uma regra "
+"justificável para dividir o crédito de popularidade de um programa como o "
+"GNU Emacs."
+
+#. type: Content of: <p>
+msgid ""
+"As for asking all the contributors to negotiate an agreement, we can't even "
+"try.  There have been hundreds of contributors, and we could not find them "
+"all today.  They contributed across a span of 26 years, and never at any "
+"time did all those people decide to work together."
+msgstr ""
+"Quanto a pedir a todos os contribuidores para negociar um acordo, não "
+"podemos nem tentar. Houve centenas de colaboradores e não poderíamos "
+"encontrar todos atualmente. Eles contribuíram em um período de 26 anos e "
+"nunca, em momento algum, todas essas pessoas decidiram trabalhar juntas."
+
+#. type: Content of: <p>
+msgid ""
+"We might not even know the names of all the authors.  If some code was "
+"donated by companies, we did not need to ask which persons wrote that code."
+msgstr ""
+"Podemos nem saber os nomes de todos os autores. Se algum código fosse doado "
+"por empresas, não precisaríamos perguntar a quem escreveu esse código."
+
+#. type: Content of: <p>
+msgid ""
+"Then what about the forked or modified variants of GNU Emacs? Each one is an "
+"additional case, equally complex but different.  How much of the credit for "
+"such a variant should go to those who worked on that variant, and how much "
+"to the original authors of the code they got from other GNU Emacs versions, "
+"other programs, and so on?"
+msgstr ""
+"Então, o que acontece com as variantes modificadas ou que são <em>forks</em> "
+"do GNU Emacs? Cada um é um caso adicional, igualmente complexo, mas "
+"diferente. Quanto do crédito para tal variante deve ser dado àqueles que "
+"trabalharam nessa variante, e quanto a autores originais do código obtidos "
+"de outras versões do GNU Emacs, outros programas e assim por diante?"
+
+#. type: Content of: <p>
+msgid ""
+"The conclusion is that there is no way we could come up with a division of "
+"the credit for GNU Emacs and justify it as anything but arbitrary.  But "
+"Emacs is not a special case; it is a typical example.  The same problems "
+"would arise for many important free programs, and other free works such as "
+"Wikipedia pages."
+msgstr ""
+"A conclusão é que não há como chegarmos a uma divisão do crédito para o GNU "
+"Emacs e justificá-lo como algo que não seja arbitrário. Mas o Emacs não é um "
+"caso especial; é um exemplo típico. Os mesmos problemas surgiriam para "
+"muitos programas gratuitos importantes e outras obras livres, como as "
+"páginas do Wikipédia."
+
+#. type: Content of: <p>
+msgid ""
+"These problems are the reasons I don't propose using those two funding "
+"systems in fields such as software, encyclopedias or education, where all "
+"works ought to be free."
+msgstr ""
+"Esses problemas são os motivos pelos quais não proponho usar esses dois "
+"sistemas de financiamento em campos como software, enciclopédias ou "
+"educação, onde todas as obras deveriam ser livres."
+
+#. type: Content of: <p>
+msgid ""
+"What makes sense for these areas is to ask people to donate to <em>projects</"
+"em> for the work <em>they propose to do</em>.  That system is simple."
+msgstr ""
+"O que faz sentido para essas áreas é pedir que as pessoas doem para "
+"<em>projetos</em> para a obra <em>que se propõem a fazer</em>. Esse sistema "
+"é simples."
+
+#. type: Content of: <p>
+msgid ""
+"The Free Software Foundation asks for donations in two ways.  We ask for <a "
+"href=\"https://my.fsf.org/donate/\"> general donations to support the "
+"foundation's work</a>, and we invite <a href=\"https://my.fsf.org/donate/"
+"directed-donations\"> targeted donations for certain specific projects</a>.  "
+"Other free software organizations do this too."
+msgstr ""
+"A Free Software Foundation pede doações de duas maneiras. Pedimos por <a "
+"href=\"https://my.fsf.org/donate/\"> doações gerais para apoiar a atuação da "
+"fundação</a> e convidamos <a href=\"https://my.fsf.org/donate/directed-"
+"donations\"> doações direcionadas para determinados projetos específicos</"
+"a>. Outras organizações de software livre também fazem isso."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2013, 2017 Richard Stallman"
+msgstr "Copyright &copy; 2013, 2017 Richard Stallman"
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2019."
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização:"
