@@ -69,8 +69,27 @@ echo "wwwdir  = $wwwdir"
 echo "teamdir = $teamdir"
 echo ""
 echo "*** Arquivos PO disponíveis no teamdir, mas faltando no wwwdir:"
-echo "$(echo $missingwww | tr ' ' '\n')"
+
+if [ -z "$missingwww" ]; then
+    echo "Nada, tudo ok aqui."
+else
+    echo "$(echo $missingwww | tr ' ' '\n')"
+fi
+
 echo ""
 echo "*** Arquivos PO disponíveis no wwwdir, mas faltando no teamdir:"
-echo "$(echo $missingteam | tr ' ' '\n')"
-echo ""
+
+if [ -z "$missingteam" ]; then
+    echo "Nada, tudo ok aqui."
+else
+    echo "$(echo $missingteam | tr ' ' '\n')"
+    echo ""
+    echo ""
+    echo "  Dica: Você pode copiar o arquivo de wwwdir para teamdir usando:"
+    echo ""
+    echo "   f=arquivo.po"
+    echo '   cp ../www/$(dirname $f)/po/$(basename $f) $f'
+    echo ""
+    echo "  sendo 'arquivo.po' o nome, com o caminho relativo, informado"
+    echo "  acima como presente no wwwdir e ausente no teamdir."
+fi
