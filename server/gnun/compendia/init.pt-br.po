@@ -1,0 +1,46 @@
+# Initialization Compendium for Brazilian Portuguese translations of gnu.org articles.
+#
+# This compendium is created manually to fill strings not satisfied by the
+# master and compendium (in /server/gnun/compendia/). This content should be
+# placed in here, and not in master and compendium files because:
+#
+#  - master: changes in this file forces changes in all translation files in
+#            www repository, and also fuzzy strings are ignored. So strings
+#            here are only for starting a translation but should be edited
+#            right after its generation.
+#
+#  - compendium: this file is generated automatically by GNUN, which is the
+#                system that manages translation in www.gnun.org. So there
+#                is no point in edit a file that may be edited anytime will
+#                be programmatically regenerated.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: init\n"
+"POT-Creation-Date: 2019-04-28 16:19-0300\n"
+"PO-Revision-Date: 2019-04-28 16:19-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. type: Content of: <title>
+#, fuzzy
+msgid " - GNU Project - Free Software Foundation"
+msgstr " - Projeto GNU - Free Software Foundation"
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+#, fuzzy
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: NOME_COMPLETO <a href=\"mailto:ENDEREÇO_DE_EMAIL\">&lt;"
+"ENDEREÇO_DE_EMAIL&gt;</a>, 2019."
