@@ -1,14 +1,14 @@
 # Brazilian Portuguese translation of https://www.gnu.org/server/home-pkgblurbs.html
-# Copyright (C) 2018 Free Software Foundation, Inc.
+# Copyright (C) 2019 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2018.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018, 2019.
 # André N Batista <nandre@riseup.net>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: home-pkgblurbs.html\n"
-"POT-Creation-Date: 2018-12-10 11:58+0000\n"
-"PO-Revision-Date: 2018-12-13 07:23-0200\n"
-"Last-Translator: André N Batista <nandre@riseup.net>\n"
+"POT-Creation-Date: 2019-04-11 06:57+0000\n"
+"PO-Revision-Date: 2019-04-13 14:48-0200\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -4032,6 +4032,24 @@ msgstr ""
 "html#jacal\">doc</a>)</small>"
 
 #. type: Content of: <h4>
+msgid "<a href=\"/software/jami/\">Jami</a>"
+msgstr "<a href=\"/software/jami/\">Jami</a>"
+
+#. type: Content of: <p>
+msgid ""
+"Jami is a program for universal communication which respects freedoms and "
+"privacy of its users. Jami uses distributed hash tables for establishing "
+"communication. This avoids keeping centralized registries of users and "
+"storing personal data.  <small>(<a href=\"/manual/manual.html#jami\">doc</a>)"
+"</small>"
+msgstr ""
+"Jami é um programa de comunicação universal que respeita as liberdades e a "
+"privacidade de seus usuários. Jami usa tabelas de hash distribuídas para "
+"estabelecer comunicação. Isso evita manter registros centralizados de "
+"usuários e armazenar dados pessoais.  <small>(<a href=\"/manual/manual."
+"html#jami\">doc</a>)</small>"
+
+#. type: Content of: <h4>
 msgid "<a href=\"/software/java-getopt/\">Java-getopt</a>"
 msgstr "<a href=\"/software/java-getopt/\">Java-getopt</a>"
 
@@ -5798,24 +5816,6 @@ msgstr ""
 "<small>(<a href=\"/manual/manual.html#remotecontrol\">doc</a>)</small>"
 
 #. type: Content of: <h4>
-msgid "<a href=\"/software/ring/\">Ring</a>"
-msgstr "<a href=\"/software/ring/\">Ring</a>"
-
-#. type: Content of: <p>
-msgid ""
-"Ring is a program for universal communication which respects freedoms and "
-"privacy of its users. Ring uses distributed hash tables for establishing "
-"communication. This avoids keeping centralized registries of users and "
-"storing personal data.  <small>(<a href=\"/manual/manual.html#ring\">doc</a>)"
-"</small>"
-msgstr ""
-"Ring é um programa de comunicação universal que respeita as liberdades e a "
-"privacidade de seus usuários. Ring usa tabelas de hash distribuídas para "
-"estabelecer comunicação. Isso evita manter registros centralizados de "
-"usuários e armazenar dados pessoais.  <small>(<a href=\"/manual/manual."
-"html#ring\">doc</a>)</small>"
-
-#. type: Content of: <h4>
 msgid "<a href=\"/software/rottlog/\">Rottlog</a>"
 msgstr "<a href=\"/software/rottlog/\">Rottlog</a>"
 
@@ -6967,6 +6967,9 @@ msgstr ""
 "GNU Zile é um clone leve do Emacs. Seu uso é semelhante à configuração "
 "padrão do Emacs, mas carrega um conjunto de recursos muito mais leve.  "
 "<small>(<a href=\"/manual/manual.html#zile\">doc</a>)</small>"
+
+#~ msgid "<a href=\"/software/ring/\">Ring</a>"
+#~ msgstr "<a href=\"/software/ring/\">Ring</a>"
 
 #~ msgid ""
 #~ "See <a href=\"#sipwitch\">sipwitch</a>.  <small>(<a href=\"/manual/manual."

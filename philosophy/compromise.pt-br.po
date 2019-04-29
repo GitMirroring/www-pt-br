@@ -1,16 +1,16 @@
 # Brazilian Portuguese translation of http://www.gnu.org/philosophy/compromise.html
-# Copyright (C) 2018 Free Software Foundation, Inc.
+# Copyright (C) 2019 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnu.org article.
 # Rafael Beraldo <rberaldo@cabaladada.org>, 2012.
 # Dec 2014, Jan 2015: trivial update (T. Godefroy).
-# Rafael Fontenelle <rafaelff@gnome.org>, 2017, 2018.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017-2019.
 # André N Batista <nandre@riseup.net>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: compromise.html\n"
-"POT-Creation-Date: 2018-03-31 00:56+0000\n"
-"PO-Revision-Date: 2018-12-13 07:23-0200\n"
-"Last-Translator: André N Batista <nandre@riseup.net>\n"
+"POT-Creation-Date: 2019-04-11 12:56+0000\n"
+"PO-Revision-Date: 2019-04-13 14:21-0200\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -29,8 +29,8 @@ msgid "Avoiding Ruinous Compromises"
 msgstr "Evitando Compromissos Ruinosos"
 
 #. type: Content of: <p>
-msgid "by <strong>Richard Stallman</strong>"
-msgstr "por <strong>Richard Stallman</strong>"
+msgid "by Richard Stallman"
+msgstr "por Richard Stallman"
 
 #. type: Content of: <blockquote><p>
 msgid ""
@@ -422,8 +422,8 @@ msgid ""
 msgstr ""
 "Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
 "org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
-"meios de contatar</a> a FSF.  Links quebrados e outras correções ou "
-"sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
 "webmasters@gnu.org&gt;</a>."
 
 #.  TRANSLATORS: Ignore the original text in this paragraph,
@@ -453,11 +453,11 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2008, 2009, 2014, 2015, 2017, 2018 <a href=\"http://www."
-"stallman.org/\">Richard Stallman</a>."
+"Copyright &copy; 2008, 2009, 2014, 2015, 2017, 2018, 2019 <a href=\"http://"
+"www.stallman.org/\">Richard Stallman</a>."
 msgstr ""
-"Copyright &copy; 2008, 2009, 2014, 2015, 2017, 2018 <a href=\"http://www."
-"stallman.org/\">Richard Stallman</a>."
+"Copyright &copy; 2008, 2009, 2014, 2015, 2017, 2018, 2019 <a href=\"http://"
+"www.stallman.org/\">Richard Stallman</a>."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -473,7 +473,7 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"<b>Tradução</b>: Rafael Beraldo\n"
+"Traduzido por: Rafael Beraldo\n"
 "<a href=\"mailto:rberaldo@cabaladada.org\">&lt;rberaldo@cabaladada.org&gt;</"
 "a>, 2012 e Amanda Onishi <a href=\"mailto:amandaonishi@gmail.com\">&lt;"
 "amandaonishi@gmail.com&gt;</a>, 2012"
@@ -481,4 +481,7 @@ msgstr ""
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
-msgstr "Última atualização: "
+msgstr "Última atualização:"
+
+#~ msgid "by <strong>Richard Stallman</strong>"
+#~ msgstr "por <strong>Richard Stallman</strong>"

@@ -1,13 +1,13 @@
 # Brazilian Portuguese translation for http://www.gnu.org/doc/other-free-books.html
-# Copyright (C) 2018 Free Software Foundation, Inc.
+# Copyright (C) 2019 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnu.org article.
 # Rafael Beraldo <rberaldo@cabaladada.org>, 2012.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2016, 2017, 2018.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2016-2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: other-free-books.html\n"
-"POT-Creation-Date: 2018-12-01 18:26+0000\n"
-"PO-Revision-Date: 2018-12-01 21:04-0200\n"
+"POT-Creation-Date: 2019-03-29 14:57+0000\n"
+"PO-Revision-Date: 2019-04-04 02:08-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -68,33 +68,40 @@ msgstr ""
 #. type: Content of: <p>
 msgid ""
 "We publish a number of free books of documentation ourselves.  You can <a "
-"href=\"http://shop.fsf.org/\">order printed copies</a> of our books, "
-"download them from the <code>/gnu/Manuals</code> directory on our <a href=\"/"
-"order/ftp.html\">ftp site</a> and <a href=\"/manual/manual.html\">browse "
-"them online</a>.  We have been doing this since around 1986."
+"href=\"http://shop.fsf.org/\">order printed copies</a> of our books, and <a "
+"href=\"/manual/manual.html\">browse them online</a>.  We have been doing "
+"this since around 1986."
 msgstr ""
 "Nós publicamos diversos livros de documentação livres. Você pode <a href="
-"\"http://shop.fsf.org/\">encomendar cópias impressas</a> de nossos livros, "
-"fazer download deles a partir do diretório <code>/gnu/Manuals</code> em "
-"nosso <a href=\"/order/ftp.html\">site ftp</a> e <a href=\"/manual/manual."
-"html\">visualizá-los online</a>. Nós temos feito isso desde por volta de "
-"1986."
+"\"http://shop.fsf.org/\">encomendar cópias impressas</a> de nossos livros e "
+"<a href=\"/manual/manual.html\">visualizá-los online</a>. Nós temos feito "
+"isso desde por volta de 1986."
 
 #. type: Content of: <p>
 msgid ""
-"More recently, some commercial publishers have begun publishing free books.  "
-"(Like our books, these are free in the sense of freedom; the commercially "
-"printed copies are sold.)  On this page, we keep a list of these books that "
-"we have come across.  If you find out about a free book that we don't have "
-"listed here, please let us know by <a href=\"mailto:free-books@gnu.org"
-"\">emailing us at &lt;free-books@gnu.org&gt;</a>."
+"Some commercial publishers are also publishing free books.  (Like ours, "
+"these books are free in the sense of freedom; the commercially printed "
+"copies are sold.)  On this page, we list the ones we have come across.  If "
+"you find out about a free book that is not listed here, please let us know "
+"by writing to &lt;<a href=\"mailto:free-books@gnu.org\">free-books@gnu.org</"
+"a>&gt;."
 msgstr ""
-"Mais recentemente, algumas editoras comerciais começaram a publicar livros "
-"livres. (Como nossos livros, eles são livres no sentido da liberdade; cópias "
-"impressas comerciais são vendidas.) Nesta página, mantemos uma lista de "
-"livros que encontramos. Se você descobriu algum livro livre que nós não "
-"listamos aqui, por favor, nos avise <a href=\"mailto:free-books@gnu.org"
-"\">enviando um e-mail para &lt;free-books@gnu.org&gt;</a>."
+"Algumas editoras comerciais também estão publicando livros livres. (Como os "
+"nossos, estes livros são livres no sentido da liberdade; cópias impressas "
+"comerciais são vendidas.) Nesta página, listamos aqueles que encontramos. Se "
+"você descobriu algum livro livre que não está listado aqui, por favor, nos "
+"avise escrevendo para &lt;<a href=\"mailto:free-books@gnu.org\">free-"
+"books@gnu.org</a>&gt;."
+
+#. type: Content of: <p>
+msgid ""
+"Some of these publishers (e.g., Network Theory Ltd) do not trade directly. "
+"Their books can be obtained from many suppliers throughout the world, but "
+"please don't order them, or any other book, from Amazon!"
+msgstr ""
+"Algumas dessas editoras (por exemplo, Network Theory Ltd) não vendem "
+"diretamente. Seus livros podem ser obtidos de muitos fornecedores em todo o "
+"mundo, mas, por favor, não os encomende, ou qualquer outro livro, da Amazon!"
 
 #. type: Content of: <blockquote><p>
 msgid ""
@@ -145,56 +152,60 @@ msgid "Publisher"
 msgstr "Editora"
 
 #. type: Content of: <table><tr><th>
-msgid "ISBN"
-msgstr "ISBN"
+msgid "ISBN 13"
+msgstr "ISBN 13"
 
 #. type: Content of: <table><tr><th>
 msgid "License"
 msgstr "Licença"
 
 #. type: Content of: <table><tr><td>
-msgid ""
-"<a href=\"http://www.network-theory.co.uk/org/manual/\">The Org Mode&nbsp;7 "
-"Reference Manual (for Org version&nbsp;7.3)</a>"
-msgstr ""
-"<a href=\"http://www.network-theory.co.uk/org/manual/\">The Org Mode&nbsp;7 "
-"Reference Manual (for Org version&nbsp;7.3)</a>"
+msgid "The Guile&nbsp;2.0 Reference Manual"
+msgstr "The Guile&nbsp;2.0 Reference Manual"
 
 #. type: Content of: <table><tr><td>
-msgid "Carsten Dominik and others"
-msgstr "Carsten Dominik e outros"
+msgid "The Guile Developers"
+msgstr "Os Desenvolvedores do Guile"
 
 #. type: Content of: <table><tr><td>
 msgid "Network Theory Ltd"
 msgstr "Network Theory Ltd"
 
 #. type: Content of: <table><tr><td>
-msgid "978-1-906966-08-9"
-msgstr "978-1-906966-08-9"
+msgid "978-1906966157"
+msgstr "978-1906966157"
 
 #. type: Content of: <table><tr><td>
 msgid "<a href=\"/licenses/fdl.html\">GNU Free Documentation License</a>"
 msgstr "<a href=\"/licenses/fdl.html\">Licença de Documentação Livre GNU</a>"
 
 #. type: Content of: <table><tr><td>
-msgid ""
-"<a href=\"http://www.network-theory.co.uk/postgresql9/\">The "
-"PostgreSQL&nbsp;9.0 Reference Manual (in four volumes)</a>"
-msgstr ""
-"<a href=\"http://www.network-theory.co.uk/postgresql9/\">The "
-"PostgreSQL&nbsp;9.0 Reference Manual (em quatro volumes)</a>"
+msgid "The Org Mode&nbsp;9.1 Reference Manual (for Org&nbsp;9.1.6)"
+msgstr "The Org Mode&nbsp;9.1 Reference Manual (para o Org&nbsp;9.1.6)"
+
+#. type: Content of: <table><tr><td>
+msgid "Carsten Dominik and others"
+msgstr "Carsten Dominik e outros"
+
+#. type: Content of: <table><tr><td>
+msgid "12th Media Services"
+msgstr "12th Media Services"
+
+#. type: Content of: <table><tr><td>
+msgid "978-1680921656"
+msgstr "978-1680921656"
+
+#. type: Content of: <table><tr><td>
+msgid "The PostgreSQL&nbsp;9.0 Reference Manual, in four volumes"
+msgstr "The PostgreSQL&nbsp;9.0 Reference Manual (em quatro&nbsp;volumes)"
 
 #. type: Content of: <table><tr><td>
 msgid "The PostgreSQL Global Development Group"
 msgstr "The PostgreSQL Global Development Group"
 
 #. type: Content of: <table><tr><td>
-msgid "978-1-906966-"
-msgstr "978-1-906966-"
-
-#. type: Content of: <table><tr><td>
-msgid "{04-1,05-8,06-5,07-2}"
-msgstr "{04-1,05-8,06-5,07-2}"
+msgid "978-1906966-{041,058,065,072}"
+msgstr "978-1906966-{041,058,065,072}"
 
 #. type: Content of: <table><tr><td>
 msgid ""
@@ -205,44 +216,36 @@ msgstr ""
 "modificada</a>"
 
 #. type: Content of: <table><tr><td>
-msgid ""
-"<a href=\"http://www.network-theory.co.uk/perl/language/\">The Perl Language "
-"Reference Manual (for Perl version&nbsp;5.12.1)</a>"
-msgstr ""
-"<a href=\"http://www.network-theory.co.uk/perl/language/\">The Perl Language "
-"Reference Manual (for Perl version&nbsp;5.12.1)</a>"
+msgid "Perl Language Reference Manual (for Perl&nbsp;5.12.1)"
+msgstr "Perl Language Reference Manual (para Perl&nbsp;5.12.1)"
 
 #. type: Content of: <table><tr><td>
 msgid "Larry Wall and others"
 msgstr "Larry Wall e outros"
 
 #. type: Content of: <table><tr><td>
-msgid "9781906966027"
-msgstr "9781906966027"
+msgid "978-1906966027"
+msgstr "978-1906966027"
 
 #. type: Content of: <table><tr><td>
 msgid "<a href=\"/licenses/gpl.html\">GNU General Public License</a>"
 msgstr "<a href=\"/licenses/gpl.html\">Licença Pública Geral GNU</a>"
 
 #. type: Content of: <table><tr><td>
-msgid ""
-"<a href=\"http://www.network-theory.co.uk/octave/manual/\">GNU Octave Manual "
-"Version&nbsp;3</a>"
-msgstr ""
-"<a href=\"http://www.network-theory.co.uk/octave/manual/\">GNU Octave Manual "
-"Version&nbsp;3</a>"
+msgid "GNU Octave 4.0 Reference Manual, in two&nbsp;volumes"
+msgstr "GNU Octave 4.0 Reference Manual (em dois&nbsp;volumes)"
 
 #. type: Content of: <table><tr><td>
-msgid "J.W. Eaton et al."
-msgstr "J.W. Eaton et al."
+msgid "John W. Eaton, David Bateman, S&oslash;ren Hauberg, Rik Wehbring"
+msgstr "John W. Eaton, David Bateman, S&oslash;ren Hauberg, Rik Wehbring"
 
 #. type: Content of: <table><tr><td>
-msgid "Network Theory Ltd."
-msgstr "Network Theory Ltd."
+msgid "Samurai Media Ltd"
+msgstr "Samurai Media Ltd"
 
 #. type: Content of: <table><tr><td>
-msgid "095461206X"
-msgstr "095461206X"
+msgid "978-9888381-{050,067}"
+msgstr "978-9888381-{050,067}"
 
 #. type: Content of: <table><tr><td>
 msgid "Old GNU manual license"
@@ -261,202 +264,144 @@ msgid "No Starch Press"
 msgstr "No Starch Press"
 
 #. type: Content of: <table><tr><td>
-msgid "9781593271763"
-msgstr "9781593271763"
+msgid "978-1593271763"
+msgstr "978-1593271763"
 
 #. type: Content of: <table><tr><td>
 msgid ""
-"<a href=\"http://www.network-theory.co.uk/valgrind/manual/"
-"\">Valgrind&nbsp;3.3 &mdash; Advanced Debugging and Profiling for GNU/Linux "
-"applications</a>"
+"Valgrind&nbsp;3.3 &mdash; Advanced Debugging and Profiling for GNU/Linux "
+"applications"
 msgstr ""
-"<a href=\"http://www.network-theory.co.uk/valgrind/manual/"
-"\">Valgrind&nbsp;3.3 &mdash; Advanced Debugging and Profiling for GNU/Linux "
-"applications</a>"
+"Valgrind&nbsp;3.3 &mdash; Advanced Debugging and Profiling for GNU/Linux "
+"applications"
 
 #. type: Content of: <table><tr><td>
-msgid "J. Seward, N. Nethercote, J. Weidendorfer et al"
-msgstr "J. Seward, N. Nethercote, J. Weidendorfer et al"
-
-#. type: Content of: <table><tr><td>
-msgid "0954612051"
-msgstr "0954612051"
-
-#. type: Content of: <table><tr><td>
-msgid ""
-"<a href=\"http://www.network-theory.co.uk/gcc/intro/\">An Introduction to "
-"GCC</a>"
+msgid "J. Seward, N. Nethercote, J. Weidendorfer and the Valgrind Dev Team"
 msgstr ""
-"<a href=\"http://www.network-theory.co.uk/gcc/intro/\">An Introduction to "
-"GCC</a>"
+"J. Seward, N. Nethercote, J. Weidendorfer e a Equipe de Desenvolvimento do "
+"Valgrind"
+
+#. type: Content of: <table><tr><td>
+msgid "978-0954612054"
+msgstr "978-0954612054"
+
+#. type: Content of: <table><tr><td>
+msgid "An Introduction to GCC"
+msgstr "An Introduction to GCC"
 
 #. type: Content of: <table><tr><td>
 msgid "Brian J. Gough"
 msgstr "Brian J. Gough"
 
 #. type: Content of: <table><tr><td>
-msgid "0-9541617-9-3"
-msgstr "0-9541617-9-3"
+msgid "978-0954161798"
+msgstr "978-0954161798"
 
 #. type: Content of: <table><tr><td>
-msgid ""
-"<a href=\"http://www.network-theory.co.uk/python/language/\">Python Language "
-"Reference Manual</a>"
-msgstr ""
-"<a href=\"http://www.network-theory.co.uk/python/language/\">Python Language "
-"Reference Manual</a>"
+msgid "The Python Language Reference Manual (for Python&nbsp;3.2)"
+msgstr "The Python Language Reference Manual (para Python&nbsp;3.2)"
 
 #. type: Content of: <table><tr><td>
-msgid "Guido van Rossum and Fred L. Drake, Jr."
-msgstr "Guido van Rossum e Fred L. Drake, Jr."
+msgid "Guido van Rossum, Fred L. Jr. Drake (Editor)"
+msgstr "Guido van Rossum, Fred L. Jr. Drake (Editor)"
 
 #. type: Content of: <table><tr><td>
-msgid "0-9541617-8-5"
-msgstr "0-9541617-8-5"
+msgid "978-1906966140"
+msgstr "978-1906966140"
 
 #. type: Content of: <table><tr><td>
 msgid "Python license"
 msgstr "Licença Python"
 
 #. type: Content of: <table><tr><td>
-msgid ""
-"<a href=\"http://www.network-theory.co.uk/python/manual/\">An Introduction "
-"to Python</a>"
-msgstr ""
-"<a href=\"http://www.network-theory.co.uk/python/manual/\">An Introduction "
-"to Python</a>"
+msgid "Python 2.7.10 Tutorial: An Introduction to Python"
+msgstr "Python 2.7.10 Tutorial: An Introduction to Python"
 
 #. type: Content of: <table><tr><td>
-msgid "0-9541617-6-9"
-msgstr "0-9541617-6-9"
+msgid "Guido van Rossum, Python Dev team"
+msgstr "Guido van Rossum, Equipe de Desenvolvimento do Python"
 
 #. type: Content of: <table><tr><td>
-msgid ""
-"<a href=\"http://www.network-theory.co.uk/R/base/\">The R Reference Manual - "
-"Base Package - Volume&nbsp;1</a>"
-msgstr ""
-"<a href=\"http://www.network-theory.co.uk/R/base/\">The R Reference Manual - "
-"Base Package - Volume&nbsp;1</a>"
+msgid "978-9888381005"
+msgstr "978-9888381005"
+
+#. type: Content of: <table><tr><td>
+msgid "R Reference Manual &mdash; Base Package, in two volumes"
+msgstr "R Reference Manual &mdash; Base Package (em dois volumes)"
 
 #. type: Content of: <table><tr><td>
 msgid "The R Development Core Team"
-msgstr "The R Development Core Team"
+msgstr "Equipe Central de Desenvolvimento do R"
 
 #. type: Content of: <table><tr><td>
-msgid "0-9546120-0-0"
-msgstr "0-9546120-0-0"
+msgid "978-0954612-{009,016}"
+msgstr "978-0954612-{009,016}"
 
 #. type: Content of: <table><tr><td>
-msgid ""
-"<a href=\"http://www.network-theory.co.uk/R/base2/\">The R Reference Manual "
-"- Base Package - Volume&nbsp;2</a>"
-msgstr ""
-"<a href=\"http://www.network-theory.co.uk/R/base2/\">The R Reference Manual "
-"- Base Package - Volume&nbsp;2</a>"
+msgid "An Introduction to&nbsp;R, 2nd&nbsp;ed. (for R&nbsp;2.9.0)"
+msgstr "An Introduction to&nbsp;R, 2nd&nbsp;ed. (para R&nbsp;2.9.0)"
 
 #. type: Content of: <table><tr><td>
-msgid "0-9546120-1-9"
-msgstr "0-9546120-1-9"
+msgid "William N. Venables, David M. Smith and the R&nbsp;Dev Team"
+msgstr "William N. Venables, David M. Smith e a Equipe de Desenvolvimento do R"
 
 #. type: Content of: <table><tr><td>
-msgid ""
-"<a href=\"http://www.network-theory.co.uk/bash/manual/\">GNU Bash Reference "
-"Manual</a>"
-msgstr ""
-"<a href=\"http://www.network-theory.co.uk/bash/manual/\">GNU Bash Reference "
-"Manual</a>"
+msgid "978-0954612085"
+msgstr "978-0954612085"
+
+#. type: Content of: <table><tr><td>
+msgid "GNU Bash Reference Manual (for Bash&nbsp;3.2)"
+msgstr "GNU Bash Reference Manual (para Bash&nbsp;3.2)"
 
 #. type: Content of: <table><tr><td>
 msgid "Chet Ramey, Brian Fox"
 msgstr "Chet Ramey, Brian Fox"
 
 #. type: Content of: <table><tr><td>
-msgid "0-9541617-7-7"
-msgstr "0-9541617-7-7"
+msgid "978-0954161774"
+msgstr "978-0954161774"
 
 #. type: Content of: <table><tr><td>
-msgid ""
-"<a href=\"http://www.network-theory.co.uk/diff/manual/\">Comparing and "
-"Merging Files with GNU diff and patch</a>"
-msgstr ""
-"<a href=\"http://www.network-theory.co.uk/diff/manual/\">Comparing and "
-"Merging Files with GNU diff and patch</a>"
+msgid "Comparing and Merging Files with GNU diff and patch"
+msgstr "Comparing and Merging Files with GNU diff and patch"
 
 #. type: Content of: <table><tr><td>
 msgid "D. MacKenzie, P. Eggert, R. Stallman"
 msgstr "D. MacKenzie, P. Eggert, R. Stallman"
 
 #. type: Content of: <table><tr><td>
-msgid "0-9541617-5-0"
-msgstr "0-9541617-5-0"
+msgid "978-0954161750"
+msgstr "978-0954161750"
+
+#. type: Content of: <table><tr><td>
+msgid "Gnu Scientific Library Reference Manual, 3rd ed. (for GSL&nbsp;1.12)"
+msgstr "Gnu Scientific Library Reference Manual, 3rd ed. (para GSL&nbsp;1.12)"
+
+#. type: Content of: <table><tr><td>
+msgid "Brian Gough (Editor)"
+msgstr "Brian Gough (Editor)"
+
+#. type: Content of: <table><tr><td>
+msgid "978-0954612078"
+msgstr "978-0954612078"
+
+#. type: Content of: <table><tr><td>
+msgid "Version Management with CVS (for CVS&nbsp;1.11.22)"
+msgstr "Version Management with CVS (for CVS&nbsp;1.11.22)"
+
+#. type: Content of: <table><tr><td>
+msgid "Per Cederqvist, et&nbsp;al."
+msgstr "Per Cederqvist, et&nbsp;al."
+
+#. type: Content of: <table><tr><td>
+msgid "978-0954161712"
+msgstr "978-0954161712"
 
 #. type: Content of: <table><tr><td>
 msgid ""
-"<a href=\"http://www.network-theory.co.uk/gsl/manual/\">The GNU Scientific "
-"Library Reference Manual</a>"
+"<a href=\"https://www.diveinto.org/python3/\">Dive Into Python&nbsp;3</a>"
 msgstr ""
-"<a href=\"http://www.network-theory.co.uk/gsl/manual/\">The GNU Scientific "
-"Library Reference Manual</a>"
-
-#. type: Content of: <table><tr><td>
-msgid "M. Galassi, et al."
-msgstr "M. Galassi, et al."
-
-#. type: Content of: <table><tr><td>
-msgid "0-9541617-0-X"
-msgstr "0-9541617-0-X"
-
-#. type: Content of: <table><tr><td>
-msgid ""
-"<a href=\"http://www.network-theory.co.uk/R/manual/\">An Introduction "
-"to&nbsp;R</a>"
-msgstr ""
-"<a href=\"http://www.network-theory.co.uk/R/manual/\">An Introduction "
-"to&nbsp;R</a>"
-
-#. type: Content of: <table><tr><td>
-msgid "W.N. Venables, et al."
-msgstr "W.N. Venables, et al."
-
-#. type: Content of: <table><tr><td>
-msgid "0-9541617-4-2"
-msgstr "0-9541617-4-2"
-
-#. type: Content of: <table><tr><td>
-msgid ""
-"<a href=\"http://www.network-theory.co.uk/octave/manual/\">GNU Octave "
-"Manual</a>"
-msgstr ""
-"<a href=\"http://www.network-theory.co.uk/octave/manual/\">GNU Octave "
-"Manual</a>"
-
-#. type: Content of: <table><tr><td>
-msgid "John W. Eaton"
-msgstr "John W. Eaton"
-
-#. type: Content of: <table><tr><td>
-msgid "0-9541617-2-6"
-msgstr "0-9541617-2-6"
-
-#. type: Content of: <table><tr><td>
-msgid ""
-"<a href=\"http://www.network-theory.co.uk/cvs/manual/\">Version Management "
-"with CVS</a>"
-msgstr ""
-"<a href=\"http://www.network-theory.co.uk/cvs/manual/\">Version Management "
-"with CVS</a>"
-
-#. type: Content of: <table><tr><td>
-msgid "Per Cederqvist, et al."
-msgstr "Per Cederqvist, et al."
-
-#. type: Content of: <table><tr><td>
-msgid "0-9541617-1-8"
-msgstr "0-9541617-1-8"
-
-#. type: Content of: <table><tr><td>
-msgid "<a href=\"https://www.diveinto.org/python3/\">Dive Into Python 3</a>"
-msgstr "<a href=\"https://www.diveinto.org/python3/\">Dive Into Python 3</a>"
+"<a href=\"https://www.diveinto.org/python3/\">Dive Into Python&nbsp;3</a>"
 
 #. type: Content of: <table><tr><td>
 msgid "Mark Pilgrim"
@@ -472,39 +417,51 @@ msgstr "978-1430224150"
 
 #. type: Content of: <table><tr><td>
 msgid ""
-"<a href=\"http://www.greenteapress.com/thinkpython/thinkpython.html\">How to "
-"Think Like a Computer Scientist: Learning with Python, First Edition</a>"
+"<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons "
+"Attribution-ShareAlike&nbsp;3.0 License</a>"
 msgstr ""
-"<a href=\"http://www.greenteapress.com/thinkpython/thinkpython.html\">How to "
-"Think Like a Computer Scientist: Learning with Python, First Edition</a>"
+"<a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.pt_BR"
+"\">Creative Commons Atribuição-CompartilhaIgual&nbsp;3.0</a>"
 
 #. type: Content of: <table><tr><td>
-msgid "Allen Downey, Jeff Elkner and Chris Meyers"
-msgstr "Allen Downey, Jeff Elkner and Chris Meyers"
+msgid ""
+"<a href=\"https://greenteapress.com/wp/think-python-2e/\">Think Python, "
+"2nd&nbsp;ed.</a> (for Python&nbsp;3)"
+msgstr ""
+"<a href=\"https://greenteapress.com/wp/think-python-2e/\">Think Python, "
+"2nd&nbsp;ed.</a> (para Python&nbsp;3)"
 
 #. type: Content of: <table><tr><td>
-msgid "Green Tea"
-msgstr "Green Tea"
+msgid "Allen Downey"
+msgstr "Allen Downey"
 
 #. type: Content of: <table><tr><td>
-msgid "0971677506"
-msgstr "0971677506"
+msgid "O'Reilly Media"
+msgstr "O'Reilly Media"
 
 #. type: Content of: <table><tr><td>
-msgid "Advanced Linux Programming, First Edition"
-msgstr "Advanced Linux Programming, First Edition"
+msgid "978-1491939369"
+msgstr "978-1491939369"
 
 #. type: Content of: <table><tr><td>
-msgid "Mark Mitchell, Jeffery Oldham, and Alex Samuel"
-msgstr "Mark Mitchell, Jeffery Oldham, and Alex Samuel"
+msgid ""
+"<a href=\"http://www.informit.com/store/advanced-linux-"
+"programming-9780735710436\">Advanced Linux Programming, 1st&nbsp;ed.</a>"
+msgstr ""
+"<a href=\"http://www.informit.com/store/advanced-linux-"
+"programming-9780735710436\">Advanced Linux Programming, 1st&nbsp;ed.</a>"
 
 #. type: Content of: <table><tr><td>
-msgid "New Riders"
-msgstr "New Riders"
+msgid "Mark Mitchell, Jeffery Oldham, Alex Samuel"
+msgstr "Mark Mitchell, Jeffery Oldham, Alex Samuel"
 
 #. type: Content of: <table><tr><td>
-msgid "0-757-1043-0"
-msgstr "0-757-1043-0"
+msgid "Sams Publishing"
+msgstr "Sams Publishing"
+
+#. type: Content of: <table><tr><td>
+msgid "978-0735710436"
+msgstr "978-0735710436"
 
 #. type: Content of: <table><tr><td>
 msgid ""
@@ -516,66 +473,70 @@ msgstr ""
 
 #. type: Content of: <table><tr><td>
 msgid ""
-"<a href=\"http://www.faqs.org/docs/ZopeBook/\">The Zope Book, First Edition</"
-"a>"
+"<a href=\"http://www.informit.com/store/zope-book-9780735711372\">The Zope "
+"Book</a>"
 msgstr ""
-"<a href=\"http://www.faqs.org/docs/ZopeBook/\">The Zope Book, First Edition</"
-"a>"
+"<a href=\"http://www.informit.com/store/zope-book-9780735711372\">The Zope "
+"Book</a>"
 
 #. type: Content of: <table><tr><td>
 msgid "Amos Latteier and Michel Pelletier"
 msgstr "Amos Latteier e Michel Pelletier"
 
 #. type: Content of: <table><tr><td>
-msgid "0-7357-1137-2"
-msgstr "0-7357-1137-2"
+msgid "978-0735711372"
+msgstr "978-0735711372"
 
 #. type: Content of: <table><tr><td>
 msgid "Open Publication License, Version&nbsp;1.0 (no options exercised)"
 msgstr "Licença de Publicação Aberta, Versão&nbsp;1.0 (sem opções exercidas)"
 
 #. type: Content of: <table><tr><td>
-msgid "Linux Device Drivers, Second Edition"
-msgstr "Linux Device Drivers, Second Edition"
+msgid ""
+"<a href=\"http://shop.oreilly.com/product/9780596005900.do\">Linux Device "
+"Drivers, 3rd ed.</a>"
+msgstr ""
+"<a href=\"http://shop.oreilly.com/product/9780596005900.do\">Linux Device "
+"Drivers, 3rd ed.</a>"
 
 #. type: Content of: <table><tr><td>
-msgid "Alessandro Rubini and Jonathan Corbet"
-msgstr "Alessandro Rubini e Jonathan Corbet"
+msgid "Jonathan Corbet, Greg Kroah-Hartman, Alessandro Rubini"
+msgstr "Jonathan Corbet, Greg Kroah-Hartman, Alessandro Rubini"
 
 #. type: Content of: <table><tr><td>
-msgid "O'Reilly and Associates"
-msgstr "O'Reilly and Associates"
-
-#. type: Content of: <table><tr><td>
-msgid "0-596-00008-1"
-msgstr "0-596-00008-1"
+msgid "978-0596005900"
+msgstr "978-0596005900"
 
 #. type: Content of: <table><tr><td>
 msgid ""
-"<a href=\"/licenses/fdl.html\">GNU Free Documentation License</a> <a href="
-"\"#DRIVER_NOTE\">(See note below)</a>"
+"<a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">Creative Commons "
+"Attribution-ShareAlike&nbsp;2.0 License</a>"
 msgstr ""
-"<a href=\"/licenses/fdl.html\">Licença de Documentação Livre GNU</a> <a href="
-"\"#DRIVER_NOTE\">(Veja nota abaixo)</a>"
+"<a href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.pt_BR"
+"\">Creative Commons Atribuição-CompartilhaIgual&nbsp;2.0</a>"
 
 #. type: Content of: <table><tr><td>
-msgid "Effective <code>awk</code> Programming, Third Edition"
-msgstr "Effective <code>awk</code> Programming, Third Edition"
+msgid ""
+"<a href=\"http://shop.oreilly.com/product/0636920033820.do\">Effective "
+"<code>awk</code> Programming, 4th&nbsp;ed.</a>"
+msgstr ""
+"<a href=\"http://shop.oreilly.com/product/0636920033820.do\">Effective "
+"<code>awk</code> Programming, 4th&nbsp;ed.</a>"
 
 #. type: Content of: <table><tr><td>
 msgid "Arnold Robbins"
 msgstr "Arnold Robbins"
 
 #. type: Content of: <table><tr><td>
-msgid "0-596-00070-7"
-msgstr "0-596-00070-7"
+msgid "978-1491904619"
+msgstr "978-1491904619"
 
 #. type: Content of: <table><tr><td>
 msgid ""
-"<a href=\"http://sources.redhat.com/autobook/\">GNU Autoconf, Automake, and "
+"<a href=\"https://www.sourceware.org/autobook/\">GNU Autoconf, Automake, and "
 "Libtool</a>"
 msgstr ""
-"<a href=\"http://sources.redhat.com/autobook/\">GNU Autoconf, Automake, and "
+"<a href=\"https://www.sourceware.org/autobook/\">GNU Autoconf, Automake, and "
 "Libtool</a>"
 
 #. type: Content of: <table><tr><td>
@@ -583,36 +544,44 @@ msgid "Gary V. Vaughan, Ben Elliston, Tom Tromey, Ian Lance Taylor"
 msgstr "Gary V. Vaughan, Ben Elliston, Tom Tromey, Ian Lance Taylor"
 
 #. type: Content of: <table><tr><td>
-msgid "1-57870-190-2"
-msgstr "1-57870-190-2"
+msgid "New Riders"
+msgstr "New Riders"
+
+#. type: Content of: <table><tr><td>
+msgid "978-1578701902"
+msgstr "978-1578701902"
 
 #. type: Content of: <table><tr><td>
 msgid ""
 "<a href=\"http://www.gutenberg.org/etext/6527\">Debian GNU/Linux: Guide to "
-"Installation and Usage</a> (Currently out-of-print)"
+"Installation and Usage</a>"
 msgstr ""
 "<a href=\"http://www.gutenberg.org/etext/6527\">Debian GNU/Linux: Guide to "
-"Installation and Usage</a> (Atualmente esgotado)"
+"Installation and Usage</a>"
 
 #. type: Content of: <table><tr><td>
 msgid "John Goerzen and Ossama Othman"
 msgstr "John Goerzen e Ossama Othman"
 
 #. type: Content of: <table><tr><td>
-msgid "0-7357-0914-9"
-msgstr "0-7357-0914-9"
+msgid "978-0735709140"
+msgstr "978-0735709140"
 
 #. type: Content of: <table><tr><td>
-msgid "GTK+/GNOME Application Development"
-msgstr "GTK+/GNOME Application Development"
+msgid ""
+"<a href=\"https://epdf.tips/gtk-gnome-application-development.html\">GTK+/"
+"GNOME Application Development</a>"
+msgstr ""
+"<a href=\"https://epdf.tips/gtk-gnome-application-development.html\">GTK+/"
+"GNOME Application Development</a>"
 
 #. type: Content of: <table><tr><td>
 msgid "Havoc Pennington"
 msgstr "Havoc Pennington"
 
 #. type: Content of: <table><tr><td>
-msgid "0-7357-0078-8"
-msgstr "0-7357-0078-8"
+msgid "978-0735700789"
+msgstr "978-0735700789"
 
 #. type: Content of: <table><tr><td>
 msgid ""
@@ -629,8 +598,8 @@ msgid "Paraglyph Press"
 msgstr "Paraglyph Press"
 
 #. type: Content of: <table><tr><td>
-msgid "1932111816"
-msgstr "1932111816"
+msgid "978-1932111811"
+msgstr "978-1932111811"
 
 #. type: Content of: <table><tr><td>
 msgid ""
@@ -650,31 +619,23 @@ msgstr "978-0596007591"
 
 #. type: Content of: <table><tr><td>
 msgid ""
-"<a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons "
-"Attribution-ShareAlike 3.0</a>"
+"<a href=\"http://www.bartlettpublishing.com/site/catalog/programming-from-"
+"the-ground-up\">Programming from the Ground Up</a>"
 msgstr ""
-"<a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.pt_BR"
-"\">Creative Commons Atribuição-CompartilhaIgual 3.0 Não Adaptada</a>"
-
-#. type: Content of: <table><tr><td>
-msgid ""
-"<a href=\"http://savannah.nongnu.org/projects/pgubook/\">Programming from "
-"the Ground Up</a>"
-msgstr ""
-"<a href=\"http://savannah.nongnu.org/projects/pgubook/\">Programming from "
-"the Ground Up</a>"
+"<a href=\"http://www.bartlettpublishing.com/site/catalog/programming-from-"
+"the-ground-up\">Programming from the Ground Up</a>"
 
 #. type: Content of: <table><tr><td>
 msgid "Jonathan Bartlett"
 msgstr "Jonathan Bartlett"
 
 #. type: Content of: <table><tr><td>
-msgid "Bartlett Publishing"
-msgstr "Bartlett Publishing"
+msgid "Orange Grove Texts Plus"
+msgstr "Orange Grove Texts Plus"
 
 #. type: Content of: <table><tr><td>
-msgid "0975283847"
-msgstr "0975283847"
+msgid "978-1616100643"
+msgstr "978-1616100643"
 
 #. type: Content of: <table><tr><td>
 msgid ""
@@ -686,35 +647,35 @@ msgstr ""
 
 #. type: Content of: <table><tr><td>
 msgid ""
-"<a href=\"http://www.oreilly.com/catalog/make3/book/index.csp\">Managing "
-"Projects with GNU Make, Third Edition</a>"
+"<a href=\"https://www.oreilly.com/openbook/make3/book/\">Managing Projects "
+"with GNU Make, 3rd&nbsp;ed.</a>"
 msgstr ""
-"<a href=\"http://www.oreilly.com/catalog/make3/book/index.csp\">Managing "
-"Projects with GNU Make, Third Edition</a>"
+"<a href=\"https://www.oreilly.com/openbook/make3/book/\">Managing Projects "
+"with GNU Make, 3rd&nbsp;ed.</a>"
 
 #. type: Content of: <table><tr><td>
 msgid "Robert Mecklenburg"
 msgstr "Robert Mecklenburg"
 
 #. type: Content of: <table><tr><td>
-msgid "0-596-00610-1"
-msgstr "0-596-00610-1"
+msgid "978-0596006105"
+msgstr "978-0596006105"
 
 #. type: Content of: <table><tr><td>
 msgid ""
-"<a href=\"http://shop.oreilly.com/product/9780596002565.do\">Using Samba, "
-"2nd Edition</a>"
+"<a href=\"http://shop.oreilly.com/product/9780596007690.do\">Using Samba, "
+"3rd&nbsp;ed.</a>"
 msgstr ""
-"<a href=\"http://shop.oreilly.com/product/9780596002565.do\">Using Samba, "
-"2nd Edition</a>"
+"<a href=\"http://shop.oreilly.com/product/9780596007690.do\">Using Samba, "
+"3rd&nbsp;ed.</a>"
 
 #. type: Content of: <table><tr><td>
-msgid "Jay Ts, Robert Eckstein, David Collier-Brown"
-msgstr "Jay Ts, Robert Eckstein, David Collier-Brown"
+msgid "Robert Eckstein, Jay Ts, Gerald Carter"
+msgstr "Robert Eckstein, Jay Ts, Gerald Carter"
 
 #. type: Content of: <table><tr><td>
-msgid "0-596-00256-4"
-msgstr "0-596-00256-4"
+msgid "978-0596002565"
+msgstr "978-0596002565"
 
 #. type: Content of: <table><tr><td>
 msgid ""
@@ -727,36 +688,56 @@ msgid "Ben Collins-Sussman, Brian W. Fitzpatrick, C. Michael Pilato"
 msgstr "Ben Collins-Sussman, Brian W. Fitzpatrick, C. Michael Pilato"
 
 #. type: Content of: <table><tr><td>
-msgid "0-596-00448-6"
-msgstr "0-596-00448-6"
+msgid "Independently published"
+msgstr "Publicado de forma independente"
+
+#. type: Content of: <table><tr><td>
+msgid "978-1973363538"
+msgstr "978-1973363538"
 
 #. type: Content of: <table><tr><td>
 msgid ""
-"<a href=\"http://creativecommons.org/licenses/by/2.0/legalcode\">Creative "
-"Commons Attribution&nbsp;2.0 License</a>"
+"<a href=\"https://creativecommons.org/licenses/by/2.0/\">Creative Commons "
+"Attribution&nbsp;2.0 License</a>"
 msgstr ""
-"<a href=\"http://creativecommons.org/licenses/by/2.0/legalcode\">Creative "
-"Commons Atribuição &nbsp;2.0</a>"
+"<a href=\"https://creativecommons.org/licenses/by/2.0/deed.pt_BR\">Creative "
+"Commons Atribuição&nbsp;2.0</a>"
 
 #. type: Content of: <table><tr><td>
 msgid ""
-"<a href=\"http://www.oreilly.com/openbook/motif/\">Motif Reference Manual, "
-"Vol.&nbsp;6B, Second Edition</a>"
+"<a href=\"http://www.ist.co.uk/motif/motif_prog.html\">Motif Programming "
+"Manual</a> (O'Reilly Vol.&nbsp;6A, for Motif&nbsp;2.1)"
 msgstr ""
-"<a href=\"http://www.oreilly.com/openbook/motif/\">Motif Reference Manual, "
-"Vol.&nbsp;6B, Second Edition</a>"
+"<a href=\"http://www.ist.co.uk/motif/motif_prog.html\">Motif Programming "
+"Manual</a> (O'Reilly Vol.&nbsp;6A, para Motif&nbsp;2.1)"
+
+#. type: Content of: <table><tr><td>
+msgid "Antony Fountain, Jeremy Huxtable, Paula Ferguson, Dan Heller"
+msgstr "Antony Fountain, Jeremy Huxtable, Paula Ferguson, Dan Heller"
+
+#. type: Content of: <table><tr><td>
+msgid "978-1565920163"
+msgstr "978-1565920163"
+
+#. type: Content of: <table><tr><td>
+msgid "Open Publication License, Version&nbsp;1.0 or later"
+msgstr "Licença de Publicação Aberta, Versão&nbsp;1.0 ou posterior"
+
+#. type: Content of: <table><tr><td>
+msgid ""
+"<a href=\"http://www.ist.co.uk/motif/motif_refs.html\">Motif Reference "
+"Manual</a> (O'Reilly Vol.&nbsp;6B, for Motif&nbsp;2.1)"
+msgstr ""
+"<a href=\"http://www.ist.co.uk/motif/motif_refs.html\">Motif Reference "
+"Manual</a> (O'Reilly Vol.&nbsp;6B, para Motif&nbsp;2.1)"
 
 #. type: Content of: <table><tr><td>
 msgid "Antony Fountain, Paula Ferguson"
 msgstr "Antony Fountain, Paula Ferguson"
 
 #. type: Content of: <table><tr><td>
-msgid "1-56592-654-4"
-msgstr "1-56592-654-4"
-
-#. type: Content of: <table><tr><td>
-msgid "Open Publication License, Version&nbsp;1.0 or later"
-msgstr "Licença de Publicação Aberta, Versão&nbsp;1.0 ou posterior"
+msgid "978-1565926547"
+msgstr "978-1565926547"
 
 #. type: Content of: <div><h3>
 msgid "Free books in Spanish"
@@ -866,24 +847,6 @@ msgstr ""
 "web/20150330081029/http://www.advancedlinuxprogramming.com/errata.html"
 "\">página contendo a errata</a> confirma isso."
 
-#. type: Content of: <dl><dt>
-msgid ""
-"<a href=\"#DRIVER_ENTRY\" name=\"DRIVER_NOTE\"><strong>Note on Linux Device "
-"Drivers, Second Edition:</strong></a>"
-msgstr ""
-"<a href=\"#DRIVER_ENTRY\" name=\"DRIVER_NOTE\"><strong>Nota sobre Linux "
-"Device Drivers, Second Edition:</strong></a>"
-
-#. type: Content of: <dl><dd>
-msgid ""
-"The printed edition failed to properly apply the GNU FDL; a copy of the GNU "
-"FDL is missing, and the license notice is not complete.  O'Reilly will fix "
-"these problems in the next printing."
-msgstr ""
-"A edição impressa falhou em aplicar apropriadamente a GNU FDL; uma cópia da "
-"GNU FDL está faltando, e a notificação da licença está incompleta. A "
-"O'Reilly irá arrumar esses problemas na próxima impressão."
-
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
@@ -899,8 +862,8 @@ msgid ""
 msgstr ""
 "Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
 "org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
-"meios de contatar</a> a FSF.  Links quebrados e outras correções ou "
-"sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
 "webmasters@gnu.org&gt;</a>."
 
 #.  TRANSLATORS: Ignore the original text in this paragraph,
@@ -930,9 +893,11 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2014, 2015, 2016, 2017, 2018 Free Software Foundation, Inc."
+"Copyright &copy; 2014, 2015, 2016, 2017, 2018, 2019 Free Software "
+"Foundation, Inc."
 msgstr ""
-"Copyright &copy; 2014, 2015, 2016, 2017, 2018 Free Software Foundation, Inc."
+"Copyright &copy; 2014, 2015, 2016, 2017, 2018, 2019 Free Software "
+"Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -950,12 +915,268 @@ msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "<b>Tradução</b>: Rafael Beraldo <a href=\"mailto:rberaldo@cabaladada.org"
 "\">&lt;rberaldo@cabaladada.org&gt;</a>, 2012; Rafael Fontenelle <a href="
-"\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, 2016, 2017."
+"\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, 2016-2019."
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
-msgstr "Última atualização: "
+msgstr "Última atualização:"
+
+#~ msgid ""
+#~ "<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative "
+#~ "Commons Attribution Share-Alike&nbsp;3.0 License</a>"
+#~ msgstr ""
+#~ "<a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.pt_BR"
+#~ "\">Creative Commons Atribuição-CompartilhaIgual&nbsp;3.0</a>"
+
+#~ msgid "ISBN"
+#~ msgstr "ISBN"
+
+#~ msgid "0-9541617-1-8"
+#~ msgstr "0-9541617-1-8"
+
+#~ msgid "Advanced Linux Programming, First Edition"
+#~ msgstr "Advanced Linux Programming, First Edition"
+
+#~ msgid "0-757-1043-0"
+#~ msgstr "0-757-1043-0"
+
+#~ msgid "Linux Device Drivers, Second Edition"
+#~ msgstr "Linux Device Drivers, Second Edition"
+
+#~ msgid "Alessandro Rubini and Jonathan Corbet"
+#~ msgstr "Alessandro Rubini e Jonathan Corbet"
+
+#~ msgid "O'Reilly and Associates"
+#~ msgstr "O'Reilly and Associates"
+
+#~ msgid "0-596-00008-1"
+#~ msgstr "0-596-00008-1"
+
+#~ msgid ""
+#~ "<a href=\"/licenses/fdl.html\">GNU Free Documentation License</a> <a href="
+#~ "\"#DRIVER_NOTE\">(See note below)</a>"
+#~ msgstr ""
+#~ "<a href=\"/licenses/fdl.html\">Licença de Documentação Livre GNU</a> <a "
+#~ "href=\"#DRIVER_NOTE\">(Veja nota abaixo)</a>"
+
+#~ msgid "Effective <code>awk</code> Programming, Third Edition"
+#~ msgstr "Effective <code>awk</code> Programming, Third Edition"
+
+#~ msgid "0-596-00070-7"
+#~ msgstr "0-596-00070-7"
+
+#~ msgid "GTK+/GNOME Application Development"
+#~ msgstr "GTK+/GNOME Application Development"
+
+#~ msgid "0-7357-0078-8"
+#~ msgstr "0-7357-0078-8"
+
+#~ msgid ""
+#~ "<a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">Creative "
+#~ "Commons Attribution-ShareAlike 3.0</a>"
+#~ msgstr ""
+#~ "<a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.pt_BR"
+#~ "\">Creative Commons Atribuição-CompartilhaIgual 3.0 Não Adaptada</a>"
+
+#~ msgid ""
+#~ "<a href=\"http://savannah.nongnu.org/projects/pgubook/\">Programming from "
+#~ "the Ground Up</a>"
+#~ msgstr ""
+#~ "<a href=\"http://savannah.nongnu.org/projects/pgubook/\">Programming from "
+#~ "the Ground Up</a>"
+
+#~ msgid "0975283847"
+#~ msgstr "0975283847"
+
+#~ msgid "0-596-00610-1"
+#~ msgstr "0-596-00610-1"
+
+#~ msgid "Jay Ts, Robert Eckstein, David Collier-Brown"
+#~ msgstr "Jay Ts, Robert Eckstein, David Collier-Brown"
+
+#~ msgid "0-596-00256-4"
+#~ msgstr "0-596-00256-4"
+
+#~ msgid "0-596-00448-6"
+#~ msgstr "0-596-00448-6"
+
+#~ msgid "1-56592-654-4"
+#~ msgstr "1-56592-654-4"
+
+#~ msgid ""
+#~ "<a href=\"#DRIVER_ENTRY\" name=\"DRIVER_NOTE\"><strong>Note on Linux "
+#~ "Device Drivers, Second Edition:</strong></a>"
+#~ msgstr ""
+#~ "<a href=\"#DRIVER_ENTRY\" name=\"DRIVER_NOTE\"><strong>Nota sobre Linux "
+#~ "Device Drivers, Second Edition:</strong></a>"
+
+#~ msgid ""
+#~ "The printed edition failed to properly apply the GNU FDL; a copy of the "
+#~ "GNU FDL is missing, and the license notice is not complete.  O'Reilly "
+#~ "will fix these problems in the next printing."
+#~ msgstr ""
+#~ "A edição impressa falhou em aplicar apropriadamente a GNU FDL; uma cópia "
+#~ "da GNU FDL está faltando, e a notificação da licença está incompleta. A "
+#~ "O'Reilly irá arrumar esses problemas na próxima impressão."
+
+#~ msgid ""
+#~ "<a href=\"http://www.network-theory.co.uk/org/manual/\">The Org "
+#~ "Mode&nbsp;7 Reference Manual (for Org version&nbsp;7.3)</a>"
+#~ msgstr ""
+#~ "<a href=\"http://www.network-theory.co.uk/org/manual/\">The Org "
+#~ "Mode&nbsp;7 Reference Manual (for Org version&nbsp;7.3)</a>"
+
+#~ msgid "978-1-906966-08-9"
+#~ msgstr "978-1-906966-08-9"
+
+#~ msgid ""
+#~ "<a href=\"http://www.network-theory.co.uk/perl/language/\">The Perl "
+#~ "Language Reference Manual (for Perl version&nbsp;5.12.1)</a>"
+#~ msgstr ""
+#~ "<a href=\"http://www.network-theory.co.uk/perl/language/\">The Perl "
+#~ "Language Reference Manual (for Perl version&nbsp;5.12.1)</a>"
+
+#~ msgid ""
+#~ "<a href=\"http://www.network-theory.co.uk/octave/manual/\">GNU Octave "
+#~ "Manual Version&nbsp;3</a>"
+#~ msgstr ""
+#~ "<a href=\"http://www.network-theory.co.uk/octave/manual/\">GNU Octave "
+#~ "Manual Version&nbsp;3</a>"
+
+#~ msgid "J.W. Eaton et al."
+#~ msgstr "J.W. Eaton et al."
+
+#~ msgid "Network Theory Ltd."
+#~ msgstr "Network Theory Ltd."
+
+#~ msgid "095461206X"
+#~ msgstr "095461206X"
+
+#~ msgid ""
+#~ "<a href=\"http://www.network-theory.co.uk/gcc/intro/\">An Introduction to "
+#~ "GCC</a>"
+#~ msgstr ""
+#~ "<a href=\"http://www.network-theory.co.uk/gcc/intro/\">An Introduction to "
+#~ "GCC</a>"
+
+#~ msgid ""
+#~ "<a href=\"http://www.network-theory.co.uk/python/language/\">Python "
+#~ "Language Reference Manual</a>"
+#~ msgstr ""
+#~ "<a href=\"http://www.network-theory.co.uk/python/language/\">Python "
+#~ "Language Reference Manual</a>"
+
+#~ msgid "0-9541617-8-5"
+#~ msgstr "0-9541617-8-5"
+
+#~ msgid ""
+#~ "<a href=\"http://www.network-theory.co.uk/python/manual/\">An "
+#~ "Introduction to Python</a>"
+#~ msgstr ""
+#~ "<a href=\"http://www.network-theory.co.uk/python/manual/\">An "
+#~ "Introduction to Python</a>"
+
+#~ msgid "0-9541617-6-9"
+#~ msgstr "0-9541617-6-9"
+
+#~ msgid ""
+#~ "<a href=\"http://www.network-theory.co.uk/R/base/\">The R Reference "
+#~ "Manual - Base Package - Volume&nbsp;1</a>"
+#~ msgstr ""
+#~ "<a href=\"http://www.network-theory.co.uk/R/base/\">The R Reference "
+#~ "Manual - Base Package - Volume&nbsp;1</a>"
+
+#~ msgid "0-9546120-0-0"
+#~ msgstr "0-9546120-0-0"
+
+#~ msgid ""
+#~ "<a href=\"http://www.network-theory.co.uk/R/base2/\">The R Reference "
+#~ "Manual - Base Package - Volume&nbsp;2</a>"
+#~ msgstr ""
+#~ "<a href=\"http://www.network-theory.co.uk/R/base2/\">The R Reference "
+#~ "Manual - Base Package - Volume&nbsp;2</a>"
+
+#~ msgid "0-9546120-1-9"
+#~ msgstr "0-9546120-1-9"
+
+#~ msgid ""
+#~ "<a href=\"http://www.network-theory.co.uk/bash/manual/\">GNU Bash "
+#~ "Reference Manual</a>"
+#~ msgstr ""
+#~ "<a href=\"http://www.network-theory.co.uk/bash/manual/\">GNU Bash "
+#~ "Reference Manual</a>"
+
+#~ msgid ""
+#~ "<a href=\"http://www.network-theory.co.uk/gsl/manual/\">The GNU "
+#~ "Scientific Library Reference Manual</a>"
+#~ msgstr ""
+#~ "<a href=\"http://www.network-theory.co.uk/gsl/manual/\">The GNU "
+#~ "Scientific Library Reference Manual</a>"
+
+#~ msgid "M. Galassi, et al."
+#~ msgstr "M. Galassi, et al."
+
+#~ msgid "0-9541617-0-X"
+#~ msgstr "0-9541617-0-X"
+
+#~ msgid ""
+#~ "<a href=\"http://www.network-theory.co.uk/R/manual/\">An Introduction "
+#~ "to&nbsp;R</a>"
+#~ msgstr ""
+#~ "<a href=\"http://www.network-theory.co.uk/R/manual/\">An Introduction "
+#~ "to&nbsp;R</a>"
+
+#~ msgid "W.N. Venables, et al."
+#~ msgstr "W.N. Venables, et al."
+
+#~ msgid "0-9541617-4-2"
+#~ msgstr "0-9541617-4-2"
+
+#~ msgid ""
+#~ "<a href=\"http://www.network-theory.co.uk/octave/manual/\">GNU Octave "
+#~ "Manual</a>"
+#~ msgstr ""
+#~ "<a href=\"http://www.network-theory.co.uk/octave/manual/\">GNU Octave "
+#~ "Manual</a>"
+
+#~ msgid "John W. Eaton"
+#~ msgstr "John W. Eaton"
+
+#~ msgid "0-9541617-2-6"
+#~ msgstr "0-9541617-2-6"
+
+#~ msgid ""
+#~ "<a href=\"http://www.network-theory.co.uk/cvs/manual/\">Version "
+#~ "Management with CVS</a>"
+#~ msgstr ""
+#~ "<a href=\"http://www.network-theory.co.uk/cvs/manual/\">Version "
+#~ "Management with CVS</a>"
+
+#~ msgid ""
+#~ "<a href=\"http://www.greenteapress.com/thinkpython/thinkpython.html\">How "
+#~ "to Think Like a Computer Scientist: Learning with Python, First Edition</"
+#~ "a>"
+#~ msgstr ""
+#~ "<a href=\"http://www.greenteapress.com/thinkpython/thinkpython.html\">How "
+#~ "to Think Like a Computer Scientist: Learning with Python, First Edition</"
+#~ "a>"
+
+#~ msgid "Allen Downey, Jeff Elkner and Chris Meyers"
+#~ msgstr "Allen Downey, Jeff Elkner and Chris Meyers"
+
+#~ msgid "Green Tea"
+#~ msgstr "Green Tea"
+
+#~ msgid "0971677506"
+#~ msgstr "0971677506"
+
+#~ msgid ""
+#~ "Copyright &copy; 2014, 2015, 2016, 2017, 2018 Free Software Foundation, "
+#~ "Inc."
+#~ msgstr ""
+#~ "Copyright &copy; 2014, 2015, 2016, 2017, 2018 Free Software Foundation, "
+#~ "Inc."
 
 #~ msgid "1-59059-356-1"
 #~ msgstr "1-59059-356-1"
@@ -1004,9 +1225,6 @@ msgstr "Última atualização: "
 #~ "<a href=\"http://www.network-theory.co.uk/postgresql/vol1/\">The "
 #~ "PostgreSQL Reference Manual Volume&nbsp;1: SQL Language Reference</a>"
 
-#~ msgid "0954612027"
-#~ msgstr "0954612027"
-
 #~ msgid "PostgreSQL License"
 #~ msgstr "Licença do PostgreSQL"
 
@@ -1032,13 +1250,6 @@ msgstr "Última atualização: "
 
 #~ msgid "Copyright &copy; 2014, 2015, 2016 Free Software Foundation, Inc."
 #~ msgstr "Copyright &copy; 2014, 2015, 2016 Free Software Foundation, Inc."
-
-#~ msgid ""
-#~ "<a href=\"http://www.cafeshops.com/bartlettpublish.8640017\">Programming "
-#~ "from the Ground Up</a>"
-#~ msgstr ""
-#~ "<a href=\"http://www.cafeshops.com/bartlettpublish.8640017\">Programming "
-#~ "from the Ground Up</a>"
 
 #~ msgid ""
 #~ "The June 2001 printing of this book failed to list the license "

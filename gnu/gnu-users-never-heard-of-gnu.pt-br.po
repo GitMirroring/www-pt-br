@@ -1,14 +1,14 @@
 # Brazilian Portuguese translation of http://www.gnu.org/gnu/gnu-users-never-heard-of-gnu.html
-# Copyright (C) 2017 Free Software Foundation, Inc.
+# Copyright (C) 2019 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Hudson Flavio Meneses Lacerda <hfmlacerda@yahoo.com.br>, 2014
 # Daniel Pimentel <d4n1@d4n1.org>, 2016
-# Rafael Fontenelle <rafaelff@gnome.org>, 2017.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: gnu-users-never-heard-of-gnu.html\n"
-"POT-Creation-Date: 2017-09-04 10:56+0000\n"
-"PO-Revision-Date: 2017-09-29 14:41-0300\n"
+"POT-Creation-Date: 2019-03-22 00:25+0000\n"
+"PO-Revision-Date: 2019-03-22 04:58-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -55,7 +55,7 @@ msgid ""
 "GNU system have never heard of GNU, since so many people and companies teach "
 "them to call it &ldquo;Linux&rdquo;.  Indeed, GNU users often say they are "
 "&ldquo;running Linux&rdquo;, which is like saying you are &ldquo;driving "
-"your carburettor&rdquo; or &ldquo;driving your transmission&rdquo;."
+"your carburetor&rdquo; or &ldquo;driving your transmission&rdquo;."
 msgstr ""
 "A maioria das pessoas nunca ouviu falar do GNU. Até mesmo a maioria das "
 "pessoas que usam o sistema GNU nunca ouviram falar do GNU, graças a tantas "
@@ -149,8 +149,8 @@ msgid ""
 msgstr ""
 "Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
 "org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
-"meios de contatar</a> a FSF.  Links quebrados e outras correções ou "
-"sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
 "webmasters@gnu.org&gt;</a>."
 
 #.  TRANSLATORS: Ignore the original text in this paragraph,
@@ -180,10 +180,10 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2006, 2007, 2013, 2014, 2015, 2017 Free Software "
+"Copyright &copy; 2006, 2007, 2013, 2014, 2015, 2017, 2019 Free Software "
 "Foundation, Inc."
 msgstr ""
-"Copyright &copy; 2006, 2007, 2013, 2014, 2015, 2017 Free Software "
+"Copyright &copy; 2006, 2007, 2013, 2014, 2015, 2017, 2019 Free Software "
 "Foundation, Inc."
 
 #. type: Content of: <div><p>
@@ -207,4 +207,4 @@ msgstr ""
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
-msgstr "Última atualização: "
+msgstr "Última atualização:"

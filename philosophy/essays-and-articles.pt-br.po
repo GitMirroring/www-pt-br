@@ -8,21 +8,20 @@
 # Aslan Carlos <aslancarlos@gmail.com>, 2012.
 # Rafael Beraldo <rberaldo@cabaladada.org>, 2012.
 # Rafael Fontenelle <rafaelff@gnome.org>, 2017-2019.
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: essays-and-articles.html\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-28 07:56+0000\n"
-"PO-Revision-Date: 2019-01-29 10:00-0200\n"
+"POT-Creation-Date: 2019-04-19 08:56+0000\n"
+"PO-Revision-Date: 2019-04-23 06:48-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1)\n"
-"X-Generator: Gtranslator 3.31.0\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
 
 #. type: Content of: <title>
 msgid "Essays and Articles - GNU Project - Free Software Foundation"
@@ -1499,6 +1498,14 @@ msgstr "Mantendo-se Fiel à Liberdade de Software"
 
 #. type: Content of: <ul><li>
 msgid ""
+"<a href=\"/philosophy/install-fest-devil.html\">Install Fests: What to Do "
+"about the Deal with the Devil</a>"
+msgstr ""
+"<a href=\"/philosophy/install-fest-devil.html\">Festivais de Instalação: O "
+"que fazer com o pacto com o diabo</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
 "<a href=\"/philosophy/upgrade-windows.html\">What Is the Right Way to "
 "Upgrade an Installation of Windows?</a>"
 msgstr ""
@@ -1570,8 +1577,8 @@ msgid ""
 msgstr ""
 "Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
 "org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
-"meios de contatar</a> a FSF.  Links quebrados e outras correções ou "
-"sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
 "webmasters@gnu.org&gt;</a>."
 
 #.  TRANSLATORS: Ignore the original text in this paragraph,
@@ -1627,7 +1634,7 @@ msgstr ""
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
-msgstr "Última atualização: "
+msgstr "Última atualização:"
 
 #~| msgid ""
 #~| "<a href=\"http://www.oii.ox.ac.uk/resources/feedback/OIIFB_GPL2_20040903."

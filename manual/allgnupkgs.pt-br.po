@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: allgnupkgs.html\n"
-"POT-Creation-Date: 2019-03-09 16:58+0000\n"
-"PO-Revision-Date: 2019-03-12 09:51-0200\n"
+"POT-Creation-Date: 2019-04-20 08:57+0000\n"
+"PO-Revision-Date: 2019-04-23 07:14-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -1149,10 +1149,8 @@ msgstr ""
 "href=\"/software/freedink/\">página&nbsp;do&nbsp;freedink</a>]"
 
 #. type: Content of: <table><tr><td>
-msgid ""
-"* <a href=\"http://www.gnubg.com/documentation/doku.php\">Backgammon</a>"
-msgstr ""
-"* <a href=\"http://www.gnubg.com/documentation/doku.php\">Backgammon</a>"
+msgid "* <a href=\"/software/gnubg/manual/\">Backgammon</a>"
+msgstr "* <a href=\"/software/gnubg/manual/\">Backgammon</a>"
 
 #. type: Content of: <table><tr><td>
 msgid "Backgammon game.  [<a href=\"/software/gnubg/\">gnubg&nbsp;home</a>]"
@@ -2067,16 +2065,16 @@ msgstr ""
 "vivo</b></big></a>"
 
 #. type: Content of: <table><tr><td>
-msgid "* <a href=\"/software/ring/\">Ring</a>"
-msgstr "* <a href=\"/software/ring/\">Ring</a>"
+msgid "* <a href=\"/software/jami/\">Jami</a>"
+msgstr "* <a href=\"/software/jami/\">Jami</a>"
 
 #. type: Content of: <table><tr><td>
 msgid ""
-"A privacy-respecting communication program.  [<a href=\"/software/ring/"
-"\">ring&nbsp;home</a>]"
+"A privacy-respecting communication program.  [<a href=\"/software/jami/"
+"\">jami&nbsp;home</a>]"
 msgstr ""
 "Um programa de comunicação que respeita a privacidade.  [<a href=\"/software/"
-"ring/\">página&nbsp;do&nbsp;ring</a>]"
+"jami/\">página&nbsp;do&nbsp;jami</a>]"
 
 #. type: Content of: <table><tr><td>
 msgid ""
@@ -5443,6 +5441,14 @@ msgid ""
 msgstr ""
 "XML simples para definição e implementação de linguages de marcação.  [<a "
 "href=\"/software/xmlat/\">página&nbsp;do&nbsp;xmlat</a>]"
+
+#~ msgid ""
+#~ "* <a href=\"http://www.gnubg.com/documentation/doku.php\">Backgammon</a>"
+#~ msgstr ""
+#~ "* <a href=\"http://www.gnubg.com/documentation/doku.php\">Backgammon</a>"
+
+#~ msgid "* <a href=\"/software/ring/\">Ring</a>"
+#~ msgstr "* <a href=\"/software/ring/\">Ring</a>"
 
 # Nome do software, não traduzir
 #~ msgid ""

@@ -5,14 +5,14 @@
 # Sérgio Vinícius <sergio@europanet.com.br>
 # Renato Candido <renatocan@gmail.com>, 2013.
 # May 2014: fix link; trivial update (T. Godefroy).
-# Rafael Fontenelle <rafaelff@gnome.org>, 2016, 2017, 2019.
 # Diego Viola <diego.viola@gmail.com>, 2017 (corrections).
+# Rafael Fontenelle <rafaelff@gnome.org>, 2016, 2017, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: right-to-read.html\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-04 19:26+0000\n"
-"PO-Revision-Date: 2019-02-05 19:59-0200\n"
+"POT-Creation-Date: 2019-03-23 11:27+0000\n"
+"PO-Revision-Date: 2019-03-24 15:30-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -765,13 +765,13 @@ msgstr "<a href=\"/philosophy/philosophy.html\">Filosofia do Projeto GNU</a>"
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"http://www.computerworld.com/article/2596679/networking/copy-"
-"protection--just-say-no.html\" id=\"copy-protection\">Copy Protection: Just "
-"Say No</a>, published in Computer World."
+"<a href=\"https://www.computerworld.com/article/2596679/copy-protection--"
+"just-say-no.html\" id=\"copy-protection\">Copy Protection: Just Say No</a>, "
+"published in Computer World."
 msgstr ""
-"<a href=\"http://www.computerworld.com/article/2596679/networking/copy-"
-"protection--just-say-no.html\" id=\"copy-protection\">Proteção Contra Cópia: "
-"Apenas Diga Não</a>, publicado na revista Computer World."
+"<a href=\"https://www.computerworld.com/article/2596679/copy-protection--"
+"just-say-no.html\" id=\"copy-protection\">Proteção Contra Cópia: Apenas Diga "
+"Não</a>, publicado na revista Computer World."
 
 #. type: Content of: <blockquote><p>
 msgid ""
@@ -804,8 +804,8 @@ msgid ""
 msgstr ""
 "Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
 "org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
-"meios de contatar</a> a FSF.  Links quebrados e outras correções ou "
-"sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
 "webmasters@gnu.org&gt;</a>."
 
 #.  TRANSLATORS: Ignore the original text in this paragraph,
@@ -859,12 +859,13 @@ msgstr ""
 "gwidion@mpc.com.br&gt;</a>; Sérgio Vinícius <a href=\"mailto:"
 "sergio@europanet.com.br\">&lt;sergio@europanet.com.br&gt;</a>; Renato "
 "Candido, 2013; Hudson Flávio Meneses Lacerda; Rafael Fontenelle <a href="
-"\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, 2016."
+"\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, 2016, 2017, "
+"2019"
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
-msgstr "Última atualização: "
+msgstr "Última atualização:"
 
 #~ msgid ""
 #~ "<a href=\"http://defectivebydesign.org/ebooks.html\">Join our mailing "

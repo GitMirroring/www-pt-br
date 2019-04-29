@@ -1,13 +1,13 @@
 # Brazilian Portuguese translation of https://www.gnu.org/accessibility/accessibility.html
-# Copyright (C) 2017 Free Software Foundation, Inc.
+# Copyright (C) 2019 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2017.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017, 2019.
 # André Phellip Ferreira <werewolf@cyberdude.com>, 2017. (proofread)
 msgid ""
 msgstr ""
 "Project-Id-Version: accessibility.html\n"
-"POT-Creation-Date: 2016-09-15 11:55+0000\n"
-"PO-Revision-Date: 2017-12-30 12:51-0200\n"
+"POT-Creation-Date: 2019-04-13 12:56+0000\n"
+"PO-Revision-Date: 2019-04-13 14:35-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -223,9 +223,8 @@ msgid ""
 "accessibility-devel-guide/stable/index.html.en\">GNOME accessibility API</a> "
 "(GNU/Linux platforms only), the <a href=\"http://docs.oracle.com/javase/7/"
 "docs/technotes/guides/access/jaapi.html\">Java accessibility API</a> (GNU/"
-"Linux and Windows) and <a href=\"http://www.linuxfoundation.org/collaborate/"
-"workgroups/accessibility/iaccessible2\">iAccessible2</a> (GNU/Linux and "
-"Windows)."
+"Linux and Windows) and <a href=\"https://wiki.linuxfoundation.org/"
+"accessibility/iaccessible2/start\">iAccessible2</a> (GNU/Linux and Windows)."
 msgstr ""
 "Os programadores que precisam implementar tecnologia de acesso ou trabalhar "
 "em um problema de acessibilidade no computador ou em nível de sistema "
@@ -235,9 +234,9 @@ msgstr ""
 "gnome.org/devel/accessibility-devel-guide/stable/index.html.en\">API de "
 "acessibilidade do GNOME</a> (apenas plataformas GNU/Linux), a <a href="
 "\"http://docs.oracle.com/javase/7/docs/technotes/guides/access/jaapi.html"
-"\">API de acessibilidade Java</a> (GNU/Linux e Windows) e <a href=\"http://"
-"www.linuxfoundation.org/collaborate/workgroups/accessibility/"
-"iaccessible2\">iAccessible2</a> (GNU/Linux e Windows)."
+"\">API de acessibilidade Java</a> (GNU/Linux e Windows) e <a href=\"https://"
+"wiki.linuxfoundation.org/accessibility/iaccessible2/start\">iAccessible2</a> "
+"(GNU/Linux e Windows)."
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -317,8 +316,8 @@ msgid ""
 msgstr ""
 "Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
 "org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
-"meios de contatar</a> a FSF.  Links quebrados e outras correções ou "
-"sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
 "webmasters@gnu.org&gt;</a>."
 
 #.  TRANSLATORS: Ignore the original text in this paragraph,
@@ -348,9 +347,11 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2010, 2013, 2014, 2015, 2016 Free Software Foundation, Inc."
+"Copyright &copy; 2010, 2013, 2014, 2015, 2016, 2019 Free Software "
+"Foundation, Inc."
 msgstr ""
-"Copyright &copy; 2010, 2013, 2014, 2015, 2016 Free Software Foundation, Inc."
+"Copyright &copy; 2010, 2013, 2014, 2015, 2016, 2019 Free Software "
+"Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -385,4 +386,4 @@ msgstr ""
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
-msgstr "Última atualização: "
+msgstr "Última atualização:"

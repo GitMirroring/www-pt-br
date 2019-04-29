@@ -1,5 +1,5 @@
 # Brazilian Portuguese translation of http://www.gnu.org/philosophy/free-sw.html
-# Copyright (C) 2018 Free Software Foundation, Inc.
+# Copyright (C) 2019 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnu.org article.
 # Fernando Lozano <fernando@lozano.eti.br>, 2000.
 # Rafael Beraldo <rberaldo@cabaladada.org>, 2012.
@@ -7,12 +7,12 @@
 # Dec 2014: remove wrong msgstr's; trivially update a few strings (T. Godefroy).
 # Daniel Roma <listasdiscussaolinux@gmail.com>, 2017.
 # Leandro Dutra <l@dutras.org>, 2017.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2012, 2016-2018.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2012, 2016-2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: free-sw.html\n"
-"POT-Creation-Date: 2018-06-12 19:26+0000\n"
-"PO-Revision-Date: 2018-04-24 11:44-0200\n"
+"POT-Creation-Date: 2019-03-20 10:56+0000\n"
+"PO-Revision-Date: 2019-03-20 22:45-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -230,6 +230,23 @@ msgstr ""
 "a custo zero, mas independentemente de como você conseguiu suas cópias, você "
 "sempre deve ter a liberdade para copiar e mudar o software, ou mesmo para <a "
 "href=\"/philosophy/selling.html\">vender cópias</a>."
+
+#. type: Content of: <div><p>
+msgid ""
+"A free program must offer the four freedoms to any user that obtains a copy "
+"of the software, provided the user has complied thus far with the conditions "
+"of the free license covering the software.  Putting some of the freedoms off "
+"limits to some users, or requiring that users pay, in money or in kind, to "
+"exercise them, is tantamount to not granting the freedoms in question, and "
+"thus renders the program nonfree."
+msgstr ""
+"Um programa livre deve oferecer as quatro liberdades a qualquer usuário que "
+"obtenha uma cópia do software, desde que o usuário tenha atendido até o "
+"momento com as condições da licença livre que cobre o software. Colocar "
+"algumas das liberdades fora dos limites para alguns usuários, ou exigir que "
+"os usuários paguem, em dinheiro ou em espécie, para exercê-las, equivale a "
+"não conceder as liberdades em questão e, portanto, torna o programa não-"
+"livre."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -799,6 +816,19 @@ msgstr ""
 #. type: Content of: <ul><li>
 msgid ""
 "<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"root=www&amp;r1=1.162&amp;r2=1.163\">Version 1.163</a>: Clarify that the "
+"four freedoms apply to any and all users, and that requiring users to pay to "
+"exercise some of these freedoms is a way of denying them."
+msgstr ""
+"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"root=www&amp;r1=1.162&amp;r2=1.163\">Versão 1.163</a>: Esclarece que as "
+"quatro liberdades se aplicam a todos e quaisquer usuários, e que exigir que "
+"os usuários paguem para exercer algumas dessas liberdades é uma maneira de "
+"negá-las."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.152&amp;r2=1.153\">Version 1.153</a>: Clarify that freedom "
 "to run the program means nothing stops you from making it run."
 msgstr ""
@@ -1163,8 +1193,8 @@ msgid ""
 msgstr ""
 "Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
 "org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
-"meios de contatar</a> a FSF.  Links quebrados e outras correções ou "
-"sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
 "webmasters@gnu.org&gt;</a>."
 
 #.  TRANSLATORS: Ignore the original text in this paragraph,
@@ -1194,10 +1224,10 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 1996, 2002, 2004-2007, 2009-2018 Free Software Foundation, "
+"Copyright &copy; 1996, 2002, 2004-2007, 2009-2019 Free Software Foundation, "
 "Inc."
 msgstr ""
-"Copyright &copy; 1996, 2002, 2004-2007, 2009-2018 Free Software Foundation, "
+"Copyright &copy; 1996, 2002, 2004-2007, 2009-2019 Free Software Foundation, "
 "Inc."
 
 #. type: Content of: <div><p>
@@ -1217,9 +1247,9 @@ msgstr ""
 "<b>Tradução</b>: Rafael Beraldo\n"
 "<a href=\"mailto:rberaldo@cabaladada.org\">&lt;rberaldo@cabaladada.org&gt;</"
 "a>, 2012; Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
-"rafaelff@gnome.org&gt;</a>, 2017, 2018"
+"rafaelff@gnome.org&gt;</a>, 2017-2019"
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
-msgstr "Última atualização: "
+msgstr "Última atualização:"
