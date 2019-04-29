@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 #    missingpo.sh - reportes PO files diff between www and www-team dirs
-#    Copyright (C) 2017, 2018 Rafael Fontenelle
+#    Copyright (C) 2017-2019 Rafael Fontenelle
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU General Public License as published by
@@ -18,8 +18,8 @@
 #
 #
 # DESCRIPTION
-#    getmissingpo reports PO files existence diff between www (CVS repository
-#    on gnu.org) and www-team (language team's repository) directories.
+#    This script reports PO files existence diff between www (CVS repository
+#    for www.gnu.org) and www-team (language team's repository) directories.
 #
 #    For that spectific language, this script gets all PO files inside each
 #    repository (www and www-team), then match those file-lists to get the
@@ -50,8 +50,6 @@ if [ ! -d $teamdir ]; then
 fi
 
 wwwpofiles=$(find $wwwdir/ -type f -name '*.pt-br.po' | sed "s|$wwwdir/||g;s|po/||g" | sort)
-# don't compare compendium, as it exists only in www
-wwwpofiles=${wwwpofiles/"server/gnun/compendia/compendium.pt-br.po"}
 
 teampofiles=$(find $teamdir/ -type f -name '*.pt-br.po' | sed "s|$teamdir/||g" | sort)
 
