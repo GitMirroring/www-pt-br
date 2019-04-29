@@ -1,0 +1,80 @@
+#!/bin/bash
+#
+#    Wrapper for gnun-init-po, using compendia and setting initial values
+#    Copyright (C) 2019 Rafael Fontenelle
+#
+#    This program is free software: you can redistribute it and/or modify
+#    it under the terms of the GNU General Public License as published by
+#    the Free Software Foundation, either version 3 of the License, or
+#    (at your option) any later version.
+#
+#    This program is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#    GNU General Public License for more details.
+#
+#    You should have received a copy of the GNU General Public License
+#    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+#
+#
+# HOW TO USE
+#    From www-pt-br repository checkout, run
+#
+#       $ scripts/gnun-init-po /path/to/article_name.pot
+#    
+#    Or install this script in a directory in your PATH and run it as if
+#    it was the binary from GNUN
+#
+#       $ gnun-init-po /path/to/POT/file
+#
+#    GNUN gnun-init-po's arguments work just fine as well, e.g. '--help'
+#    from the command help message (not from this wrapper script)
+#
+# DESCRIPTION
+#    The gnun-init-po from GNUN software is used to generate PO file from
+#    POT of gnu.org pages for translation.
+#
+#    This wrapper script basically combines some compendia files and then
+#    runs gnun-init-po to create a .po file from a .pot file, filling some
+#    strings using the resulting compendium, and setting the Gettext
+#    headers fields Language, Language-Team and Last-Translator.
+#
+#    Please notice that this script assumes the file master, compendium
+#    and init files exists in the teamdir. While master and compendium
+#    files can be obtained from www repo, the init file is creation of
+#    Brazilian Portuguese team. If you are in another team and does not
+#    have such file, just remove its references in here.
+
+# Change the values below to your liking, mainly the translator's info.
+# These will be written to the output PO file
+team='Brazilian Portuguese <www-pt-br-general@gnu.org>'
+translator='Rafael Fontenelle <rafaelff@gnome.org>'
+lang='pt-br'
+
+# POT files provided as command-line argument
+potfile="$*"
+
+# Team dir. Make sure this is where is your local checkout of the teamdir
+teamdir=~/GNU/www-$lang
+
+# Original files, existent inside the teamdir.
+master="$teamdir/server/gnun/compendia/master.$lang.po"
+compendium="$teamdir/server/gnun/compendia/compendium.$lang.po"
+init="$teamdir/server/gnun/compendia/init.$lang.po"
+
+# Create a temp file based on master.$lang.po, without this line
+tempMaster=$(mktemp -t comp-master-XXX)
+sed '/^# Master Compendium for/d' $master > $tempMaster
+
+# A temporary compendium gathering some sources
+CompCombination=$(mktemp -t compendium-XXX)
+echo "Populating the temporary file '$CompCombination'..."
+msgcat --use-first -o $CompCombination $tempMaster $compendium $init
+
+/usr/bin/gnun-init-po \
+    --compendium=$CompCombination \
+    --team="$team" \
+    --language="$lang" \
+    --translator="$translator" \
+    "$potfile"
+
