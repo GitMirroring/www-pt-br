@@ -5,8 +5,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: mirror.html\n"
-"POT-Creation-Date: 2019-04-09 17:56+0000\n"
-"PO-Revision-Date: 2019-04-26 15:26-0300\n"
+"POT-Creation-Date: 2019-05-06 07:56+0000\n"
+"PO-Revision-Date: 2019-05-06 14:27-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -180,6 +180,10 @@ msgstr "<tt>rsync://mirror.jre655.com/GNU</tt> (Japão)"
 #. type: Content of: <dl><dd>
 msgid "<tt>rsync://ftp.kaist.ac.kr/gnu/</tt> (Korea)"
 msgstr "<tt>rsync://ftp.kaist.ac.kr/gnu/</tt> (Coreia)"
+
+#. type: Content of: <dl><dd>
+msgid "<tt>rsync://mirror.ossplanet.net/gnu</tt> (Taiwan)"
+msgstr "<tt>rsync://mirror.ossplanet.net/gnu</tt> (Taiwan)"
 
 #. type: Content of: <dl><dd>
 msgid "<tt>rsync://ftp.yzu.edu.tw/pub/gnu/</tt> (Taiwan)"

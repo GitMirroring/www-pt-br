@@ -1,12 +1,12 @@
 # Brazilian Portuguese translation of https://www.gnu.org/education/edu-contents.html
-# Copyright (C) 2018 Free Software Foundation, Inc.
+# Copyright (C) 2019 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2018.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: edu-contents.html\n"
-"POT-Creation-Date: 2016-09-13 15:55+0000\n"
-"PO-Revision-Date: 2018-03-31 21:27-0300\n"
+"POT-Creation-Date: 2019-05-01 10:56+0000\n"
+"PO-Revision-Date: 2019-05-02 06:53-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -38,19 +38,19 @@ msgstr "Software Livre e Educação - Tabela de Conteúdo"
 #. type: Content of: <p>
 msgid ""
 "The Education section of the GNU Project is about the importance of using "
-"and teaching exclusively Free Software in all educational institutions. It "
-"presents articles on the subject, cases of success in implementing Free "
-"Software in schools and universities around the world, examples of Free "
+"and teaching exclusively free software in all educational institutions. It "
+"presents articles on the subject, cases of success in implementing free "
+"software in schools and universities around the world, examples of free "
 "programs used in the classroom to the benefit of teachers and students "
-"alike, and Free Software education projects carried out by organizations and "
+"alike, and free software education projects carried out by organizations and "
 "governments worldwide."
 msgstr ""
 "A seção Educação do Projeto GNU é sobre a importância de usar e ensinar "
-"exclusivamente Software Livre em todas as instituições educacionais. "
+"exclusivamente software livre em todas as instituições educacionais. "
 "Apresenta artigos sobre o assunto, casos de sucesso na implementação de "
-"Software Livre em escolas e universidades ao redor do mundo, exemplos de "
+"software livre em escolas e universidades ao redor do mundo, exemplos de "
 "programas livres usados em sala de aula para o benefício de professores e "
-"alunos, e projetos educacionais de Software Livre realizados por "
+"alunos, e projetos educacionais de software livre realizados por "
 "organizações e governos no mundo todo."
 
 #. type: Content of: <h3>
@@ -96,41 +96,49 @@ msgstr ""
 "<a href=\"/education/edu-cases-india-irimpanam.html\">VHSS Irimpanam</a>"
 
 #. type: Content of: <p>
-msgid "<a href=\"/education/edu-resources.html\">Free Learning Resources</a>"
-msgstr ""
-"<a href=\"/education/edu-resources.html\">Recursos de aprendizagem livres</a>"
+msgid "<a href=\"/education/edu-resources.html\">Educational Resources</a>"
+msgstr "<a href=\"/education/edu-resources.html\">Recursos Educacionais</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <ul><li>
 msgid "<a href=\"/education/edu-software.html\">Educational Free Software</a>"
 msgstr ""
 "<a href=\"/education/edu-software.html\">Software livre educacional</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <ul><li><ul><li>
 msgid "<a href=\"/education/edu-software-gcompris.html\">GCompris</a>"
 msgstr "<a href=\"/education/edu-software-gcompris.html\">GCompris</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <ul><li><ul><li>
 msgid "<a href=\"/education/edu-software-gimp.html\">GIMP</a>"
 msgstr "<a href=\"/education/edu-software-gimp.html\">GIMP</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <ul><li><ul><li>
 msgid "<a href=\"/education/edu-software-tuxpaint.html\">Tux Paint</a>"
 msgstr "<a href=\"/education/edu-software-tuxpaint.html\">Tux Paint</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <ul><li>
+msgid "<a href=\"/education/edu-projects.html\">Groups and Projects</a>"
+msgstr "<a href=\"/education/edu-projects.html\">Grupos e projetos</a>"
+
+#. type: Content of: <ul><li>
 msgid ""
-"<a href=\"/education/edu-projects.html\">Other Education Groups Projects</a>"
+"<a href=\"/education/edu-free-learning-resources.html\">Free Learning "
+"Resources</a>"
 msgstr ""
-"<a href=\"/education/edu-projects.html\">Outros grupos e projetos de "
-"educação</a>"
+"<a href=\"/education/edu-free-learning-resources.html\">Recursos de "
+"aprendizagem livres</a>"
+
+#. type: Content of: <p>
+msgid "<a href=\"/education/edu-faq.html\">Frequently Asked Questions</a>"
+msgstr "<a href=\"/education/edu-faq.html\">Perguntas frequentes</a>"
 
 #. type: Content of: <p>
 msgid "<a href=\"/education/edu-team.html\">The Education Team</a>"
 msgstr "<a href=\"/education/edu-team.html\">A Equipe de Educação</a>"
 
 #. type: Content of: <p>
-msgid "<strong>Articles</strong>"
-msgstr "<strong>Artigos</strong>"
+msgid "<strong>In Depth</strong>"
+msgstr "<strong>Em profundidade</strong>"
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -209,8 +217,8 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2011, 2012, 2016 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2011, 2012, 2016 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2011, 2012, 2016, 2019 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2011, 2012, 2016, 2019 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -227,9 +235,12 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
-"rafaelff@gnome.org&gt;</a>, 2018."
+"rafaelff@gnome.org&gt;</a>, 2018, 2019."
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid "Copyright &copy; 2011, 2012, 2016 Free Software Foundation, Inc."
+#~ msgstr "Copyright &copy; 2011, 2012, 2016 Free Software Foundation, Inc."

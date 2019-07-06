@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: license-logos.html\n"
-"POT-Creation-Date: 2019-03-09 16:26+0000\n"
-"PO-Revision-Date: 2019-03-12 10:23-0200\n"
+"POT-Creation-Date: 2019-06-27 09:56+0000\n"
+"PO-Revision-Date: 2019-07-01 08:35-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -84,6 +84,22 @@ msgstr ""
 "PNG&nbsp; <a href=\"/graphics/gfdl-logo-large.png\">38kB</a> (1000x342)"
 
 #. type: Content of: <div><table><tr><td><a>
+msgid "<a href=\"/graphics/gplv3-or-later.png\">"
+msgstr "<a href=\"/graphics/gplv3-or-later.png\">"
+
+#. type: Attribute 'alt' of: <div><table><tr><td><a><img>
+msgid "&nbsp;[Large GPLv3-or-later logo]&nbsp;"
+msgstr "&nbsp;[Logo grande da GPLv3 ou posterior]&nbsp;"
+
+#. type: Content of: <div><div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><table><tr><td>
+msgid "PNG&nbsp; 6.2kB (150x63)"
+msgstr "PNG&nbsp; 6.2kB (150x63)"
+
+#. type: Content of: <div><table><tr><td><a>
 msgid "<a href=\"/graphics/gplv3-with-text-136x68.png\">"
 msgstr "<a href=\"/graphics/gplv3-with-text-136x68.png\">"
 
@@ -92,10 +108,6 @@ msgid "&nbsp;[Large GPLv3 logo with &ldquo;Free as in Freedom&rdquo;]&nbsp;"
 msgstr ""
 "&nbsp;[Logo grande da GPLv3 com “Free as in Freedom”, que significa “Livre "
 "como em Liberdade” em inglês]&nbsp;"
-
-#. type: Content of: <div><div>
-msgid "</a>"
-msgstr "</a>"
 
 #. type: Content of: <div><table><tr><td>
 msgid "PNG&nbsp; 6.6kB (136x68)"
@@ -190,6 +202,18 @@ msgid "PNG&nbsp; 4.7kB (129x44)"
 msgstr "PNG&nbsp; 4.7kB (129x44)"
 
 #. type: Content of: <div><table><tr><td><a>
+msgid "<a href=\"/graphics/gplv3-or-later-sm.png\">"
+msgstr "<a href=\"/graphics/gplv3-or-later-sm.png\">"
+
+#. type: Attribute 'alt' of: <div><table><tr><td><a><img>
+msgid "&nbsp;[Small GPLv3-or-later logo]&nbsp;"
+msgstr "&nbsp;[Logo pequeno da GPLv3 ou posterior]&nbsp;"
+
+#. type: Content of: <div><table><tr><td>
+msgid "PNG&nbsp; 3.7kB (90x38)"
+msgstr "PNG&nbsp; 3.7kB (90x38)"
+
+#. type: Content of: <div><table><tr><td><a>
 msgid "<a href=\"/graphics/gplv3-127x51.png\">"
 msgstr "<a href=\"/graphics/gplv3-127x51.png\">"
 
@@ -272,6 +296,10 @@ msgstr "PNG&nbsp; 1.9kB (88x31)"
 #. type: Content of: <div><table><tr><td>
 msgid "SVG&nbsp; <a href=\"/graphics/gfdl-logo.svg\">5.4kB</a>"
 msgstr "SVG&nbsp; <a href=\"/graphics/gfdl-logo.svg\">5.4kB</a>"
+
+#. type: Content of: <div><table><tr><td>
+msgid "SVG&nbsp; <a href=\"/graphics/gplv3-or-later.svg\">109kB</a>"
+msgstr "SVG&nbsp; <a href=\"/graphics/gplv3-or-later.svg\">109kB</a>"
 
 #. type: Content of: <div><table><tr><td>
 msgid "SVG&nbsp; <a href=\"/graphics/gpl-v3-logo.svg\">83kB</a>"

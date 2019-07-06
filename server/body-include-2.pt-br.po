@@ -10,8 +10,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: body-include-2.html\n"
-"POT-Creation-Date: 2019-01-11 21:55+0000\n"
-"PO-Revision-Date: 2019-01-12 17:05-0200\n"
+"POT-Creation-Date: 2019-06-18 22:26+0000\n"
+"PO-Revision-Date: 2019-06-18 22:37-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -21,14 +21,31 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Virtaal 1.0.0-beta1\n"
 
-# type: Content of: <body><div><div><div><ul><li>
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
+msgid "<strong>Help the FSF fight for user freedom!</strong>"
+msgstr "<strong>Ajude a FSF na luta pela liberdade dos usuários!</strong>"
+
+#. type: Content of: <div><p>
+msgid "28 days. 200 new members. Join us before July 15."
+msgstr "28 dias. 200 novos membros. Junte-se a nós antes de 15 de julho."
+
+#. type: Content of: <div><p>
 msgid ""
-"<a href=\"https://www.fsf.org/associate/support_freedom?"
-"referrer=4052\">JOIN&nbsp;THE&nbsp;FSF</a>"
+"Associate members help the Free Software Foundation remain proudly "
+"independent. Small contributions create a big impact!"
 msgstr ""
-"<a href=\"https://www.fsf.org/associate/support_freedom?"
-"referrer=4052\">JUNTE-SE&nbsp;À&nbsp;FSF!</a>"
+"Membros associados ajudam a Free Software Foundation a manter-se "
+"orgulhosamente independente. Pequenas contribuições criam um grande impacto!"
+
+#. type: Content of: <div><p>
+msgid ""
+"<a href=\"https://www.fsf.org/appeal?pk_campaign=fr_sp2019&amp;pk_kwd=learn-"
+"more&amp;pk_source=banner\">READ MORE</a> | <a href=\"https://my.fsf.org/"
+"join?pk_campaign=fr_sp2019&amp;pk_source=banner\">JOIN</a>"
+msgstr ""
+"<a href=\"https://www.fsf.org/appeal?pk_campaign=fr_sp2019&amp;pk_kwd=learn-"
+"more&amp;pk_source=banner\">LEIA MAIS</a> | <a href=\"https://my.fsf.org/"
+"join?pk_campaign=fr_sp2019&amp;pk_source=banner\">PARTICIPE</a>"
 
 #. type: Content of: <div><div><div><p>
 msgid "<a href=\"//www.fsf.org/fss\">Free Software Supporter</a>"
@@ -114,6 +131,14 @@ msgstr "<a href=\"/help/help.html\">AJUDE&nbsp;O&nbsp;GNU</a>"
 msgid "<a href=\"#fsf-links\">More &#9660;</a>"
 msgstr "<a href=\"#fsf-links\">Mais &#9660;</a>"
 
+# type: Content of: <body><div><div><div><ul><li>
+#~ msgid ""
+#~ "<a href=\"https://www.fsf.org/associate/support_freedom?"
+#~ "referrer=4052\">JOIN&nbsp;THE&nbsp;FSF</a>"
+#~ msgstr ""
+#~ "<a href=\"https://www.fsf.org/associate/support_freedom?"
+#~ "referrer=4052\">JUNTE-SE&nbsp;À&nbsp;FSF!</a>"
+
 #~ msgid ""
 #~ "With your help, we'll launch free software to new frontiers! Fuel the "
 #~ "mission by becoming one of <b>400</b> new Associate Members by <b>January "
@@ -142,24 +167,6 @@ msgstr "<a href=\"#fsf-links\">Mais &#9660;</a>"
 
 #~ msgid "<span class=\"goal\">400</span>"
 #~ msgstr "<span class=\"goal\">400</span>"
-
-#~ msgid ""
-#~ "Associate members power up the Free Software Foundation.  Help smash our "
-#~ "goal of <b>700</b> new members or donate by December 31st!"
-#~ msgstr ""
-#~ "Membros associados empoderam a Free Software Foundation. Ajude-nos a "
-#~ "atingir nossa meta de <b>700</b> novos membros ou doe até 31 de dezembro!"
-
-#~ msgid ""
-#~ "<a class=\"donate\" href=\"http://my.fsf.org/donate?"
-#~ "pk_campaign=2017_Fundraiser_Banner&amp;pk_kwd=Donate\"> Donate</a> <a "
-#~ "class=\"join\" href=\"http://my.fsf.org/join?"
-#~ "pk_campaign=2017_Fundraiser_Banner&amp;pk_kwd=Join\"> Join</a>"
-#~ msgstr ""
-#~ "<a class=\"donate\" href=\"http://my.fsf.org/donate?"
-#~ "pk_campaign=2017_Fundraiser_Banner&amp;pk_kwd=Donate\"> Doe</a> <a class="
-#~ "\"join\" href=\"http://my.fsf.org/join?"
-#~ "pk_campaign=2017_Fundraiser_Banner&amp;pk_kwd=Join\"> Junte-se</a>"
 
 #~ msgid ""
 #~ "<span dir=\"ltr\">The&nbsp; <strong><a href=\"/ghm/upcoming.html\">9th "

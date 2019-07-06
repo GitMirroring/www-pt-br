@@ -4,12 +4,12 @@
 # Richard Stallman, 2011.
 # Hudson Lacerda, 2014.
 # Rafael Beraldo <rberaldo@cabaladada.org>, 2014
-# Rafael Fontenelle <rafaelff@gnome.org>, 2017.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: the-danger-of-ebooks.html\n"
-"POT-Creation-Date: 2016-09-15 11:55+0000\n"
-"PO-Revision-Date: 2017-09-29 18:33-0300\n"
+"POT-Creation-Date: 2019-05-19 18:26+0000\n"
+"PO-Revision-Date: 2019-05-20 00:15-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -28,14 +28,6 @@ msgstr "O perigo dos e-books - Projeto GNU - Free Software Foundation"
 #. type: Content of: <h2>
 msgid "The Danger of E-Books"
 msgstr "O perigo dos e-books"
-
-#. type: Content of: <blockquote><p>
-msgid ""
-"<a href=\"http://defectivebydesign.org/ebooks.html\">Join our mailing list "
-"about the dangers of eBooks</a>."
-msgstr ""
-"<a href=\"http://defectivebydesign.org/ebooks.html\">Junte-se à nossa lista "
-"de e-mails sobre os perigos dos e-books</a>."
 
 #. type: Content of: <p>
 msgid ""
@@ -155,11 +147,12 @@ msgstr ""
 #. type: Content of: <p>
 msgid ""
 "Even one of these infringements makes e-books a step backward from printed "
-"books. We must reject e-books until they respect our freedom."
+"books. We must reject e-books until they respect our freedom&nbsp;[<a href="
+"\"#footnote2\">2</a>]."
 msgstr ""
 "Cada uma dessas infrações coloca os e-books um passo atrás em relação aos "
 "livros impressos. Precisamos rejeitar os e-books até que eles respeitem a "
-"nossa liberdade."
+"nossa liberdade&nbsp;[<a href=\"#footnote2\">2</a>]."
 
 #. type: Content of: <p>
 msgid ""
@@ -179,10 +172,10 @@ msgstr ""
 #. type: Content of: <ul><li>
 msgid ""
 "To distribute tax funds to authors based on the cube root of each author's "
-"popularity.<a href=\"#footnote1\">[1]</a>"
+"popularity&nbsp;[<a href=\"#footnote1\">1</a>]."
 msgstr ""
 "Distribuir fundos de impostos a autores com base na raiz cúbica da "
-"popularidade de cada autor.<a href=\"#footnote1\">[1]</a>"
+"popularidade de cada autor&nbsp;[<a href=\"#footnote1\">1</a>]."
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -200,7 +193,7 @@ msgstr ""
 "não atacam), mas eles o farão se a decisão ficar nas mãos das companhias. "
 "Cabe a nós impedi-las."
 
-#. type: Content of: <p>
+#. type: Content of: <blockquote><p>
 msgid ""
 "Join the fight: sign up at <a href=\"http://DefectiveByDesign.org/ebooks.html"
 "\"> http://DefectiveByDesign.org/ebooks.html</a>."
@@ -208,7 +201,7 @@ msgstr ""
 "Junte-se à luta: subscreva-se em <a href=\"http://DefectiveByDesign.org/"
 "ebooks.html\">http://DefectiveByDesign.org/ebooks.html</a>."
 
-#. type: Content of: <h4>
+#. type: Content of: <h3>
 msgid "Footnotes"
 msgstr "Notas de rodapé"
 
@@ -225,6 +218,15 @@ msgstr ""
 "href=\"http://stallman.org/articles/internet-sharing-license.en.html\">minha "
 "carta de abertura em 2012 para o presidente do Senado Federal brasileiro</"
 "a>, Senadora José Sarney, para mais sobre isso."
+
+#. type: Content of: <ol><li>
+msgid ""
+"[2019] To show our rejection of Amazon's e-book reader, we call it <a href="
+"\"/philosophy/why-call-it-the-swindle.html\">the Swindle</a>."
+msgstr ""
+"[2019] Para mostrar nossa rejeição ao leitor de e-book da Amazon, nós o "
+"chamamos de <a href=\"/philosophy/why-call-it-the-swindle.html\">o Swindle</"
+"a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -277,8 +279,8 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2011, 2014, 2015, 2016 Richard Stallman"
-msgstr "Copyright &copy; 2011, 2014, 2015, 2016 Richard Stallman"
+msgid "Copyright &copy; 2011, 2014, 2015, 2016, 2019 Richard Stallman"
+msgstr "Copyright &copy; 2011, 2014, 2015, 2016, 2019 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -299,3 +301,10 @@ msgstr "<b>Tradução:</b> Hudson Lacerda, 2014"
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid ""
+#~ "<a href=\"http://defectivebydesign.org/ebooks.html\">Join our mailing "
+#~ "list about the dangers of eBooks</a>."
+#~ msgstr ""
+#~ "<a href=\"http://defectivebydesign.org/ebooks.html\">Junte-se à nossa "
+#~ "lista de e-mails sobre os perigos dos e-books</a>."

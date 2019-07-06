@@ -1,0 +1,354 @@
+# Brazilian Portuguese translation of https://www.gnu.org/philosophy/install-fest-devil.html
+# Copyright (C) 2019 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2019.
+# Cassiano Reinert Novais dos Santos <caco@posteo.net>, 2019. (#15126)
+msgid ""
+msgstr ""
+"Project-Id-Version: install-fest-devil.html\n"
+"POT-Creation-Date: 2019-03-21 16:56+0000\n"
+"PO-Revision-Date: 2019-03-21 18:45-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid "Install Fests - GNU Project - Free Software Foundation"
+msgstr "Festivais de Instalação - Projeto GNU - Free Software Foundation"
+
+#. type: Content of: <h2>
+msgid "Install Fests: What to Do about the Deal with the Devil"
+msgstr "Festivais de Instalação: O que fazer com o pacto com o diabo"
+
+#. type: Content of: <p>
+msgid "by Richard Stallman"
+msgstr "por Richard Stallman"
+
+#. type: Content of: <blockquote><p>
+msgid ""
+"Published for <a href=\"https://libreplanet.org/2019\"> LibrePlanet March "
+"23/24 2019</a>"
+msgstr ""
+"Publicado para <a href=\"https://libreplanet.org/2019\"> LibrePlanet, en 23 "
+"e 24 de Março de 2019</a>"
+
+#. type: Content of: <p>
+msgid ""
+"Install fests invite users to bring their computers so that experts can "
+"install GNU/Linux on them.  This is meant to promote the idea of free "
+"software as well as the use of free software.  In practice, these two goals "
+"conflict: users that want to reject nonfree software entirely need to choose "
+"their computers carefully to achieve that goal."
+msgstr ""
+"Os festivais de instalação convidam os usuários a trazer seus computadores "
+"para que especialistas possam instalar o GNU/Linux neles. Isto destina-se a "
+"promover a ideia de software livre, bem como o uso de software livre. Na "
+"prática, esses dois objetivos entram em conflito: os usuários que desejam "
+"rejeitar o software não livre precisam escolher cuidadosamente seus "
+"computadores com cuidado para atingir esse objetivo."
+
+#. type: Content of: <p>
+msgid ""
+"The problem is that most computers can't run with a completely free GNU/"
+"Linux distro.  They contain peripherals, or coprocessors, that won't operate "
+"unless the installed system contains some nonfree drivers or firmware.  This "
+"happens because hardware manufacturers refuse to tell us how to use their "
+"products, so that the only way to figure out how is by reverse engineering, "
+"which in most cases has not yet been done."
+msgstr ""
+"O problema é que a maioria dos computadores não consegue funcionar com uma "
+"distribuição GNU/Linux completamente livre. Eles contêm periféricos, ou "
+"coprocessadores, que não funcionam, a menos que o sistema instalado contenha "
+"alguns drivers ou firmware não livres. Isso acontece porque os fabricantes "
+"de hardware se recusam a nos dizer como usar seus produtos, de modo que a "
+"única maneira de descobrir como é usar engenharia reversa, que na maioria "
+"dos casos ainda não foi feita."
+
+#. type: Content of: <p>
+msgid ""
+"This presents the install fest with a dilemma.  If it upholds the ideals of "
+"freedom, by installing only free software from <a href=\"/distros/distros."
+"html\">100%-free distros</a>, partly-secret machines won't become entirely "
+"functional and the users that bring them will go away disappointed.  "
+"However, if the install fest installs nonfree distros and nonfree software "
+"which make machines entirely function, it will fail to teach users to say no "
+"for freedom's sake.  They may learn to like GNU/Linux, but they won't learn "
+"what the free software movement stands for.  In effect, the install fest "
+"makes a tacit deal with the devil that suppresses <a href=\"/philosophy/free-"
+"software-even-more-important.html\">the free software movement's message "
+"about freedom and justice</a>."
+msgstr ""
+"Isso representa para o festival de instalação um dilema. Se nele forem "
+"defendidos os ideais de liberdade, instalando apenas software livre de <a "
+"href=\"/distros/distros.html\">distribuições 100% livres</a>, as máquinas "
+"parcialmente secretas não se tornarão totalmente funcionais e os usuários "
+"que trazem-nas sairão desapontados. No entanto, se o festival de instalação "
+"instalar distribuições não livres e softwares não livres que fazem com que "
+"as máquinas funcionem inteiramente, não será possível ensinar os usuários a "
+"dizer não por uma questão de liberdade. Eles podem aprender a gostar do GNU/"
+"Linux, mas não aprenderão o que significa o movimento do software livre. Com "
+"efeito, o festival de instalação faz um pacto tácito com o diabo, que "
+"suprime <a href=\"/philosophy/free-software-even-more-important.html\">a "
+"mensagem do movimento do software livre sobre liberdade e justiça</a>."
+
+#. type: Content of: <p>
+msgid ""
+"The nonfree software means the user sacrifices freedom for functionality.  "
+"If users had to wrestle with this choice, they could draw a moral lesson "
+"from it, and maybe get a better computer later.  But when the install fest "
+"makes the compromise on the user's behalf, it shelters the user from the "
+"moral dimension; the user never sees that something other than convenience "
+"is at stake.  In effect, the install fest makes the deal with the devil, on "
+"the user's behalf, behind a curtain so the user doesn't recognize that it is "
+"one."
+msgstr ""
+"O software não livre significa que o usuário sacrifica a liberdade pela "
+"funcionalidade. Se os usuários tivessem que lutar com essa escolha, eles "
+"poderiam extrair uma lição moral, e talvez conseguir um computador melhor "
+"depois. Mas quando o festival de instalação se compromete em nome do "
+"usuário, ele protege o usuário da dimensão moral; o usuário nunca vê que "
+"algo além de conveniência está em jogo. Com efeito, o festival de instalação "
+"faz o pacto com o diabo, em nome do usuário, atrás de uma cortina para que o "
+"usuário não reconheça este pacto."
+
+#. type: Content of: <p>
+msgid ""
+"I propose that the install fest show users exactly what deal they are "
+"making.  Let them talk with the devil individually, learn the deal's bad "
+"implications, then make a deal&mdash;or refuse!"
+msgstr ""
+"Proponho que o festival de instalação mostre aos usuários exatamente o que "
+"eles estão fazendo. Deixe-os falar com o diabo individualmente, aprenda as "
+"más implicações do pacto, faça um pacto &ndash; ou se recuse!"
+
+#. type: Content of: <p>
+msgid ""
+"As always, I call on the install fest itself to install only free software, "
+"taking a strict stance.  In this way it can set a clear moral example of "
+"rejecting nonfree software."
+msgstr ""
+"Como sempre, convoco o festival de instalação em si para instalar apenas "
+"software livre, assumindo uma postura rígida. Desta forma, ele pode definir "
+"um exemplo moral claro de rejeição de software não livre."
+
+#. type: Content of: <p>
+msgid ""
+"My new idea is that the install fest could allow the devil to hang around, "
+"off in a corner of the hall, or the next room.  (Actually, a human being "
+"wearing sign saying &ldquo;The Devil,&rdquo; and maybe a toy mask or "
+"horns.)  The devil would offer to install nonfree drivers in the user's "
+"machine to make more parts of the computer function, explaining to the user "
+"that the cost of this is using a nonfree (unjust) program."
+msgstr ""
+"Minha nova ideia é que o festival de instalação poderia permitir que o diabo "
+"ficasse por perto, em um canto do corredor, ou na sala ao lado. (Na verdade, "
+"um ser humano usando uma placa dizendo “O Diabo”, e talvez uma máscara ou "
+"chifres de brinquedo.) O diabo se ofereceria para instalar drivers não "
+"livres na máquina do usuário para fazer mais partes do computador funcionar, "
+"explicando ao usuário que o custo disso é usar um programa não livre "
+"(injusto)."
+
+#. type: Content of: <p>
+msgid ""
+"The install fest would tolerate the devil's presence but not officially "
+"sponsor the devil, or publicize the devil's availability.  Therefore, the "
+"users who accept the devil's deal would clearly see that the devil installed "
+"the nonfree drivers, not the install fest.  The install fest would not be "
+"morally compromised by the devil's actions, so it could retain full moral "
+"authority when it talks about the imperative for freedom."
+msgstr ""
+"O festival de instalação toleraria a presença do diabo, mas não patrocinaria "
+"oficialmente o diabo, nem divulgaria a disponibilidade do diabo. Portanto, "
+"os usuários que aceitam o pacto com diabo veriam claramente que o diabo "
+"instalou os <em>drivers</em> não livres, não o programa de instalação. O "
+"festival de instalação não seria moralmente comprometido pelas ações do "
+"diabo, de modo que poderia reter plena autoridade moral quando fala sobre o "
+"imperativo da liberdade."
+
+#. type: Content of: <p>
+msgid ""
+"Those users that get nonfree drivers would see what their moral cost is, and "
+"that there are people in the community who refuse to pay that cost.  They "
+"would have the chance to reflect afterwards on the situation that their "
+"flawed computers have put them in, and about how to change that situation, "
+"in the small and in the large."
+msgstr ""
+"Os usuários que recebem <em>drivers</em> não livres veriam qual é o custo "
+"moral para eles e que há pessoas na comunidade que se recusam a pagar esse "
+"custo. Eles teriam a oportunidade de refletir depois sobre a situação em que "
+"seus computadores defeituosos os colocaram e sobre como mudar essa situação, "
+"em pequena e grande escala."
+
+#. type: Content of: <p>
+msgid ""
+"The install fest should offer advice to users that would like to replace "
+"some of the machine's components with alternatives that do support free "
+"software, and recommend commercial and noncommercial sources of assistance "
+"including fsf.org/resources/hw for getting a computer that works fully "
+"without nonfree drivers and blobs."
+msgstr ""
+"O festival de instalação deve oferecer conselhos aos usuários que gostariam "
+"de substituir alguns dos componentes da máquina por alternativas que "
+"suportam software livre, e recomendam fontes de assistência comerciais e não "
+"comerciais, incluindo fsf.org/resources/hw para obter um computador que "
+"funcione totalmente sem <em>drivers</em> e <em>blobs</em> não livres."
+
+#. type: Content of: <p>
+msgid ""
+"It should also suggest to these users that they send letters of criticism to "
+"the companies that make or sell the components that depend on nonfree "
+"software to function."
+msgstr ""
+"Também deve sugerir a esses usuários que enviem cartas de crítica às "
+"empresas que produzem ou vendem os componentes que dependem de software não "
+"livre para funcionar."
+
+#. type: Content of: <p>
+msgid ""
+"The install-fest devil has nothing to do with the cute BSD demon, and the "
+"install fest should make that very clear.  This issue concerns the "
+"difference between various GNU/Linux distros, and is not about BSD.  Indeed, "
+"the same approach could be used for installation of BSD."
+msgstr ""
+"O diabo do festival de instalação não tem nada a ver com o fofo demônio do "
+"BSD, e o festival de instalação deve deixar isso bem claro. Esta questão diz "
+"respeito à diferença entre várias distribuições GNU/Linux, e não é sobre o "
+"BSD. De fato, a mesma abordagem poderia ser usada para a instalação do BSD."
+
+#. type: Content of: <p>
+msgid ""
+"This devil would be a human being disguised to teach a moral lesson with a "
+"theatrical metaphor, so let's not take the metaphor too far.  I think we "
+"would do well not to say that users are &ldquo;selling their souls&rdquo; if "
+"they install nonfree software&mdash;rather, part of their own freedom is "
+"what they forfeit.  We don't need to exaggerate to teach the point that "
+"trading your freedom for convenience (and leading others to do the same) is "
+"<a href=\"https://www.fsfla.org/circular/2007-02.en.html#1\"> putting "
+"yourself in a moral jam</a>."
+msgstr ""
+"Este demônio seria um ser humano disfarçado para ensinar uma lição moral com "
+"uma metáfora teatral, então não vamos levar a metáfora longe demais. Acho "
+"que faríamos bem em não dizer que os usuários estão “vendendo suas almas” se "
+"instalarem software não livre &ndash; em vez disso, parte de sua própria "
+"liberdade é o que perdem. Nós não precisamos exagerar para ensinar o ponto "
+"de que negociar sua liberdade por conveniência (e levar os outros a fazer o "
+"mesmo) é <a href=\"https://www.fsfla.org/circular/2007-02.en."
+"html#1\">colocar-se em um congestionamento moral</a>."
+
+#. type: Content of: <p>
+msgid ""
+"The devil's work would be something I don't approve of&mdash;installing "
+"nonfree software&mdash;so I will not get involved in discussing the "
+"practical details.  But it is hard to trust a devil to do wrong only within "
+"certain limits.  What is to stop the devil from offering to install a GNU/"
+"Linux distro such as Ubuntu, which offers the user other attractive nonfree "
+"programs, not solely the ones needed for the machine's hardware to function "
+"at all? Or even offering to install Windows? The people who run the install "
+"fest should ask some users what the devil did to their computers."
+msgstr ""
+"O trabalho do demônio seria algo que eu não aprovaria &ndash; instalar "
+"software não livre &ndash;, por isso não me envolverei em discutir os "
+"detalhes práticos. Mas é difícil confiar em um diabo para fazer o mal apenas "
+"dentro de certos limites. O que impede o diabo de oferecer a instalação de "
+"uma distribuição GNU/Linux, como o Ubuntu, que oferece ao usuário outros "
+"programas não livres atraentes, não apenas aqueles necessários para que o "
+"<em>hardware</em> da máquina funcione? Ou até mesmo se oferecendo para "
+"instalar o Windows? As pessoas que executam o festival de instalação devem "
+"perguntar a alguns usuários o que o diabo fez com seus computadores."
+
+#. type: Content of: <p>
+msgid ""
+"Isn't it morally better if the install fest doesn't allow the devil? "
+"Certainly! The FSF will not let a devil hang around its events.  But given "
+"the fact that most install fests quietly play the role of the devil, I think "
+"that an explicit devil would be less bad.  It would convert the install-fest "
+"dilemma from a debilitating contradiction into a teaching experience.  Users "
+"would be able to get, if they insist, the nonfree drivers to make their "
+"peripherals run, then use GNU/Linux knowing that there is a further step "
+"toward freedom that they should take."
+msgstr ""
+"Não é moralmente melhor se o festival de instalação não permitir o diabo? "
+"Certamente! A FSF não permitirá que um demônio permaneça em seus eventos. "
+"Mas dado o fato de que a maioria dos festivais de instalação desempenha "
+"silenciosamente o papel do diabo, eu acho que um diabo explícito seria menos "
+"ruim. Isso converteria o dilema do festival de instalação de uma contradição "
+"debilitante em uma experiência de ensino. Os usuários seriam capazes de "
+"obter, se insistirem, os <em>drivers</em> não livres para fazer seus "
+"periféricos funcionarem, e então usarem o GNU/Linux sabendo que há um passo "
+"adicional em direção à liberdade que eles deveriam tomar."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2019 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2019 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2019.Revisado por: Cassiano Reinert Novais dos "
+"Santos <a href=\"mailto:caco@posteo.net\">&lt;caco@posteo.net&gt;</a>, 2019."
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização:"

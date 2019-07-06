@@ -5,8 +5,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: free-digital-society.html\n"
-"POT-Creation-Date: 2018-12-23 09:56+0000\n"
-"PO-Revision-Date: 2019-04-27 15:28-0300\n"
+"POT-Creation-Date: 2019-05-19 18:26+0000\n"
+"PO-Revision-Date: 2019-05-20 00:10-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -29,75 +29,73 @@ msgid "A Free Digital Society - What Makes Digital Inclusion Good or Bad?"
 msgstr ""
 "Uma Sociedade Digital Livre - O Que Torna a Inclusão Digital Boa ou Ruim?"
 
-#. type: Content of: <p><em>
-msgid "<em>Transcription of a lecture by Richard M. Stallman"
-msgstr "<em>Transcrição de uma palestra por Richard M. Stallman"
-
 #. type: Content of: <p>
-msgid "at Sciences Po in Paris, October 19, 2011.</em>"
-msgstr "em Sciences Po em Paris, 19 de Outubro de 2011.</em>"
+msgid "by Richard Stallman"
+msgstr "por Richard Stallman"
 
 #. type: Content of: <p>
 msgid ""
-"(A <a href=\"http://audio-video.gnu.org/video/stallman-sciencespo-"
-"freesociety.webm\"> video</a> of this lecture is available.)"
+"<em>Transcription of a lecture at Sciences Po Paris, October 19, 2011</"
+"em>&nbsp; (<a href=\"http://audio-video.gnu.org/video/stallman-sciencespo-"
+"freesociety.webm\">video</a>)"
 msgstr ""
-"(Um <a href=\"http://audio-video.gnu.org/video/stallman-sciencespo-"
-"freesociety.webm\"> vídeo</a> desta palestra está disponível.)"
+"<em>Transcrição de uma palestra na Sciences Po Paris, 19 de outubro de 2011</"
+"em>&nbsp; (<a href=\"http://audio-video.gnu.org/video/stallman-sciencespo-"
+"freesociety.webm\">vídeo</a>)"
 
-#. type: Content of: <p>
-msgid "<strong>Table of Contents</strong>"
-msgstr "<strong>Conteúdo</strong>"
+#. type: Content of: <div><h3>
+msgid "Table of Contents"
+msgstr "Conteúdo"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "<a href=\"#intro\">Introduction</a>"
 msgstr "<a href=\"#intro\">Introdução</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "<a href=\"#surveillance\">Surveillance</a>"
 msgstr "<a href=\"#surveillance\">Vigilância</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "<a href=\"#censorship\">Censorship</a>"
 msgstr "<a href=\"#censorship\">Censura</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "<a href=\"#formats\">Restricted data formats</a>"
 msgstr "<a href=\"#formats\">Formatos de dados restritos</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "<a href=\"#proprietary\">Software that isn't free</a>"
 msgstr "<a href=\"#proprietary\">Software que não é livre</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "<a href=\"#four-freedoms\">The four freedoms of free software</a>"
 msgstr "<a href=\"#four-freedoms\">As quatro liberdades do software livre</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "<a href=\"#gnu\">The GNU Project and the Free Software movement</a>"
 msgstr "<a href=\"#gnu\">O Projeto GNU e o movimento Software Livre</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "<a href=\"#education\">Free software and education</a>"
 msgstr "<a href=\"#education\">Software livre e educação</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "<a href=\"#services\">Internet services</a>"
 msgstr "<a href=\"#services\">Serviços da Internet</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "<a href=\"#voting\">Computers for voting</a>"
 msgstr "<a href=\"#voting\">Computadores para votação</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "<a href=\"#sharing\">The war on sharing</a>"
 msgstr "<a href=\"#sharing\">A guerra contra o compartilhamento</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "<a href=\"#arts\">Supporting the arts</a>"
 msgstr "<a href=\"#arts\">Financiamento das artes</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "<a href=\"#rights\">Rights in cyberspace</a>"
 msgstr "<a href=\"#rights\">Direitos no ciberespaço</a>"
 
@@ -160,11 +158,12 @@ msgid ""
 "data about the use of the computer. A surveillance feature was discovered in "
 "the iPhone a few months ago, and people started calling it the &ldquo;spy-"
 "phone.&rdquo; Flash player has a surveillance feature too, and so does the "
-"Amazon &ldquo;Swindle.&rdquo; They call it the Kindle, but I call it &ldquo;"
-"the Swindle,&rdquo; <em>l'escroc</em>, because it's meant to swindle users "
-"out of their freedom. It makes people identify themselves whenever they buy "
-"a book, and that means Amazon has a giant list of all the books each user "
-"has read. Such a list must not exist anywhere."
+"Amazon Swindle.&rdquo; They call it the Kindle, but I call it &ldquo;<a href="
+"\"/philosophy/why-call-it-the-swindle.html\">the Swindle</a>,&rdquo; "
+"<em>l'escroc</em>, because it's meant to swindle users out of their freedom. "
+"It makes people identify themselves whenever they buy a book, and that means "
+"Amazon has a giant list of all the books each user has read. Such a list "
+"must not exist anywhere."
 msgstr ""
 "Vigilância às vezes é feita com nossos próprios computadores. Por exemplo, "
 "se você tem um computador que executa o Microsoft Windows, esse sistema está "
@@ -172,12 +171,12 @@ msgstr ""
 "servidor, dados sobre o uso do computador. Um recurso de vigilância foi "
 "descoberto no iPhone há alguns meses, e as pessoas começaram a chamá-lo de "
 "“spy-phone”. O Flash Player também tem um recurso de vigilância, assim como "
-"o Amazon “Swindle”. Eles chamam isso de Kindle, mas eu chamo de “o Swindle”, "
-"<em lang=\"fr\">l'escroc</em>, porque é feito para roubar a liberdade das "
-"pessoas que o usam. Faz com que as pessoas se identifiquem sempre que "
-"compram um livro, e isso significa que a Amazon tem uma lista gigantesca de "
-"todos os livros que cada pessoa leu. Essa lista não deve existir em nenhum "
-"lugar."
+"o Amazon “Swindle”. Eles chamam isso de Kindle, mas eu chamo de “<a href=\"/"
+"philosophy/why-call-it-the-swindle.html\">o Swindle</a>”, <em lang=\"fr"
+"\">l'escroc</em>, porque é feito para roubar a liberdade das pessoas que o "
+"usam. Faz com que as pessoas se identifiquem sempre que compram um livro, e "
+"isso significa que a Amazon tem uma lista gigantesca de todos os livros que "
+"cada pessoa leu. Essa lista não deve existir em nenhum lugar."
 
 #. type: Content of: <p>
 msgid ""
@@ -276,7 +275,7 @@ msgstr ""
 "por sistemas não relacionados é através de ação política contra o aumento do "
 "poder do governo para rastrear e monitorar todo mundo, o que significa que "
 "temos que rejeitar qualquer desculpa que eles inventarem. Por fazer tais "
-"sistemas, nenhuma desculpa é válida &mdash; para monitorar todo mundo."
+"sistemas, nenhuma desculpa é válida &ndash; para monitorar todo mundo."
 
 #. type: Content of: <p>
 msgid ""
@@ -986,11 +985,11 @@ msgid ""
 "be ready to stand up for their freedom the next time someone threatens to "
 "take it away."
 msgstr ""
-"Mas se você disser que o sistema é GNU+Linux &mdash; é o sistema operacional "
-"GNU mais o Linux, o kernel &mdash; então eles saberão sobre nós, e então as "
+"Mas se você disser que o sistema é GNU+Linux &ndash; é o sistema operacional "
+"GNU mais o Linux, o kernel &ndash; então eles saberão sobre nós, e então as "
 "pessoas poderão ouvir o que dizemos: você merece liberdade. E já que a "
-"liberdade será perdida se não a defendermos &mdash; sempre haverá um Sarkozy "
-"para tirá-la &mdash; precisamos, acima de tudo, ensinar as pessoas a "
+"liberdade será perdida se não a defendermos &ndash; sempre haverá um Sarkozy "
+"para tirá-la &ndash; precisamos, acima de tudo, ensinar as pessoas a "
 "exigirem liberdade, estarem prontas para defender sua liberdade na próxima "
 "vez que alguém ameaça tirar isso."
 
@@ -1472,7 +1471,7 @@ msgstr ""
 "Mas o outro problema com os serviços da Internet é que eles podem assumir o "
 "controle da sua computação, e isso não é tão comumente conhecido. Mas está "
 "se tornando mais comum. Há serviços que oferecem computação para você em "
-"dados fornecidos por você &mdash; coisas que você deve fazer em seu próprio "
+"dados fornecidos por você &ndash; coisas que você deve fazer em seu próprio "
 "computador, mas convidam você a deixar o computador de outra pessoa fazer "
 "essa computação funcionar para você. E o resultado é que você perde o "
 "controle sobre isso. É como se você usasse um programa não livre."
@@ -2428,8 +2427,8 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2011, 2017, 2018 Richard Stallman"
-msgstr "Copyright &copy; 2011, 2017, 2018 Richard Stallman"
+msgid "Copyright &copy; 2011, 2017, 2018, 2019 Richard Stallman"
+msgstr "Copyright &copy; 2011, 2017, 2018, 2019 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -2452,3 +2451,12 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid "<em>Transcription of a lecture by Richard M. Stallman"
+#~ msgstr "<em>Transcrição de uma palestra por Richard M. Stallman"
+
+#~ msgid "at Sciences Po in Paris, October 19, 2011.</em>"
+#~ msgstr "em Sciences Po em Paris, 19 de Outubro de 2011.</em>"
+
+#~ msgid "<strong>Table of Contents</strong>"
+#~ msgstr "<strong>Conteúdo</strong>"

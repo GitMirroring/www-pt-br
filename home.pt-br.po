@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: home.html\n"
-"POT-Creation-Date: 2019-04-10 01:56+0000\n"
-"PO-Revision-Date: 2019-04-13 14:41-0200\n"
+"POT-Creation-Date: 2019-05-25 10:57+0000\n"
+"PO-Revision-Date: 2019-05-25 09:42-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -114,19 +114,19 @@ msgstr ""
 msgid "<a href=\"/distros/screenshots/guixSD-gnome3.jpg\">"
 msgstr "<a href=\"/distros/screenshots/guixSD-gnome3.jpg\">"
 
-#. type: Attribute 'alt' of: <div><div><div><table><tr><td><a><img>
-msgid "&nbsp;[Screenshot of GuixSD&nbsp;0.15 with GNOME&nbsp;3 desktop]&nbsp;"
+#. type: Attribute 'alt' of: <div><div><div><div><a><img>
+msgid "&nbsp;[Screenshot of Guix&nbsp;0.15 with GNOME&nbsp;3 desktop]&nbsp;"
 msgstr ""
-"&nbsp;[Captura de tela do GuixSD&nbsp;0.15 com GNOME&nbsp;3 desktop]&nbsp;"
+"&nbsp;[Captura de tela do Guix&nbsp;0.15 com GNOME&nbsp;3 desktop]&nbsp;"
 
 #. type: Content of: <div><div><div><p>
 msgid ""
-"<small><a href=\"/software/guix/\">GuixSD&nbsp;0.15</a> with <a href="
-"\"https://www.gnome.org/\">GNOME&nbsp;3</a> desktop, Epiphany web browser, "
-"Totem video player, and GNOME terminal emulator</small>"
+"<small><a href=\"/software/guix/\">Guix&nbsp;0.15</a> with <a href=\"https://"
+"www.gnome.org/\">GNOME&nbsp;3</a> desktop, Epiphany web browser, Totem video "
+"player, and GNOME terminal emulator</small>"
 msgstr ""
-"<small><a href=\"/software/guix/\">GuixSD&nbsp;0.15</a> com <a href="
-"\"https://www.gnome.org/\">GNOME&nbsp;3</a> desktop, navegador web Epiphany, "
+"<small><a href=\"/software/guix/\">Guix&nbsp;0.15</a> com <a href=\"https://"
+"www.gnome.org/\">GNOME&nbsp;3</a> desktop, navegador web Epiphany, "
 "reprodutor de vídeo Totem e emulador de terminal do GNOME</small>"
 
 #. type: Content of: <div><div><div><div><a>
@@ -156,6 +156,11 @@ msgstr "<a href=\"/home.html?distro=trisquel8#gnu-linux\">"
 msgid "<a href=\"/home.html?distro=guix#gnu-linux\">"
 msgstr "<a href=\"/home.html?distro=guix#gnu-linux\">"
 
+#. type: Attribute 'alt' of: <div><div><div><table><tr><td><a><img>
+msgid "&nbsp;[Screenshot of GuixSD&nbsp;0.15 with GNOME&nbsp;3 desktop]&nbsp;"
+msgstr ""
+"&nbsp;[Captura de tela do GuixSD&nbsp;0.15 com GNOME&nbsp;3 desktop]&nbsp;"
+
 #. type: Content of: <div><div><div><table><tr><td><a>
 msgid "<a href=\"/home.html?distro=pureos8#gnu-linux\">"
 msgstr "<a href=\"/home.html?distro=pureos8#gnu-linux\">"
@@ -165,8 +170,8 @@ msgid "<small>Trisquel&nbsp;8 &amp; MATE</small>"
 msgstr "<small>Trisquel&nbsp;8 &amp; MATE</small>"
 
 #. type: Content of: <div><div><div><table><tr><td>
-msgid "<small>GuixSD &amp; GNOME&nbsp;3</small>"
-msgstr "<small>GuixSD &amp; GNOME&nbsp;3</small>"
+msgid "<small>Guix &amp; GNOME&nbsp;3</small>"
+msgstr "<small>Guix &amp; GNOME&nbsp;3</small>"
 
 #. type: Content of: <div><div><div><table><tr><td>
 msgid "<small>PureOS&nbsp;8 &amp; GNOME&nbsp;3</small>"
@@ -352,10 +357,10 @@ msgstr "<a href=\"/gnu/gnu.html\">Mais informação</a>"
 
 #. type: Content of: <div><div><div><h3><a>
 msgid ""
-"<a href=\"http://planet.gnu.org/\">Planet GNU</a> <a href=\"http://planet."
+"<a href=\"https://planet.gnu.org/\">Planet GNU</a> <a href=\"https://planet."
 "gnu.org/rss20.xml\">"
 msgstr ""
-"<a href=\"http://planet.gnu.org/\">Planeta GNU</a> <a href=\"http://planet."
+"<a href=\"https://planet.gnu.org/\">Planeta GNU</a> <a href=\"https://planet."
 "gnu.org/rss20.xml\">"
 
 #. type: Attribute 'alt' of: <div><div><div><h3><a><img>
@@ -377,25 +382,27 @@ msgstr "Tome Partido"
 
 #. type: Content of: <div><div><div><ul><li>
 msgid ""
-"<strong>Support the efforts on net neutrality <a href=\"http://www."
-"savetheinternet.com\" title=\"Net neutrality in the United States of America"
-"\">in the USA</a></strong>, and in your home country."
+"<strong>Support the efforts on net neutrality <a href=\"https://www."
+"freepress.net/issues/free-open-internet/net-neutrality\" title=\"Net "
+"neutrality in the United States of America\">in the USA</a></strong>, and in "
+"your home country."
 msgstr ""
-"<strong>Apoie os esforços da neutralidade na internet <a href=\"http://www."
-"savetheinternet.com\" title=\"Net neutrality in the United States of America"
-"\">nos EUA</a></strong>, e no seus país de origem."
+"<strong>Apoie os esforços da neutralidade na internet <a href=\"https://www."
+"freepress.net/issues/free-open-internet/net-neutrality\" title=\"Net "
+"neutrality in the United States of America\">nos EUA</a></strong>, e no seus "
+"país de origem."
 
 #. type: Content of: <div><div><div><ul><li>
 msgid ""
-"Defend <a href=\"http://www.laquadrature.net/en/Privacy\"> privacy</a>, and "
-"support <a href=\"http://www.laquadrature.net/en/the-eu-commissions-"
-"outrageous-attempt-to-avoid-copyright-reform\"> global copyright reform</a> "
-"with <a href=\"http://www.laquadrature.net/en/\">LQDN</a>."
+"Defend <a href=\"https://www.laquadrature.net/en/personnal-data/\"> privacy</"
+"a>, and support <a href=\"https://www.laquadrature.net/en/?s=copyright\"> "
+"global copyright reform</a> with <a href=\"https://www.laquadrature.net/en/"
+"\">LQDN</a>."
 msgstr ""
-"Defenda a <a href=\"http://www.laquadrature.net/en/Privacy\"> privacidade</"
-"a>, e apoie <a href=\"http://www.laquadrature.net/en/the-eu-commissions-"
-"outrageous-attempt-to-avoid-copyright-reform\"> a reforma global de "
-"copyright</a> com <a href=\"http://www.laquadrature.net/en/\">LQDN</a>."
+"Defenda a <a href=\"https://www.laquadrature.net/en/personnal-data/\"> "
+"privacidade</a>, e apoie <a href=\"https://www.laquadrature.net/en/?"
+"s=copyright\"> a reforma global de copyright</a> com <a href=\"https://www."
+"laquadrature.net/en/\">LQDN</a>."
 
 #. type: Content of: <div><div><div><ul><li>
 msgid ""

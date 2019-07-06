@@ -11,8 +11,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: free-distros.html\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-19 18:26+0000\n"
-"PO-Revision-Date: 2019-03-20 22:48-0200\n"
+"POT-Creation-Date: 2019-05-11 08:56+0000\n"
+"PO-Revision-Date: 2019-05-13 15:49-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -196,8 +196,8 @@ msgid "Brief Description"
 msgstr "Descrição breve"
 
 #. type: Content of: <table><tr><td><a>
-msgid "<a href=\"http://dragora.org/repo.fsl/doc/trunk/www/index.md\">"
-msgstr "<a href=\"http://dragora.org/repo.fsl/doc/trunk/www/index.md\">"
+msgid "<a href=\"https://dragora.org/en/index.html\">"
+msgstr "<a href=\"https://dragora.org/en/index.html\">"
 
 #. type: Attribute 'alt' of: <table><tr><td><a><img>
 msgid "Dragora GNU/Linux-Libre"
@@ -252,8 +252,8 @@ msgstr ""
 "FSF."
 
 #. type: Content of: <table><tr><td><a>
-msgid "<a href=\"https://www.gnu.org/software/guix/\">"
-msgstr "<a href=\"https://www.gnu.org/software/guix/\">"
+msgid "<a href=\"/software/guix/\">"
+msgstr "<a href=\"/software/guix/\">"
 
 #. type: Attribute 'alt' of: <table><tr><td><a><img>
 msgid "guix"
@@ -261,13 +261,13 @@ msgstr "guix"
 
 #. type: Content of: <table><tr><td>
 msgid ""
-"Guix System Distribution is an advanced GNU/Linux distro built on top of GNU "
-"Guix (pronounced &ldquo;geeks&rdquo;), a purely functional package manager "
-"for the GNU system."
+"Guix System, an advanced GNU/Linux distro built on top of GNU Guix "
+"(pronounced &ldquo;geeks&rdquo;), a purely functional package manager for "
+"the GNU system."
 msgstr ""
-"Guix System Distribution é uma distro GNU/Linux avançada construída sobre o "
-"GNU Guix (pronunciado “geeks”), um gerenciador de pacotes puramente "
-"funcional para o sistema GNU."
+"Guix System, uma distro GNU/Linux avançada construída sobre o GNU Guix "
+"(pronunciado “geeks”), um gerenciador de pacotes puramente funcional para o "
+"sistema GNU."
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"https://www.hyperbola.info/?gnu-free-stros-page\">"

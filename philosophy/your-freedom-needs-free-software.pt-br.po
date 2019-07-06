@@ -1,0 +1,265 @@
+# Brazilian Portuguese translation of https://www.gnu.org/philosophy/your-freedom-needs-free-software.html
+# Copyright (C) 2019 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2019.
+# Cassiano Reinert Novais dos Santos <caco@posteo.net>, 2019. (#15217)
+msgid ""
+msgstr ""
+"Project-Id-Version: your-freedom-needs-free-software.html\n"
+"POT-Creation-Date: 2017-08-27 14:56+0000\n"
+"PO-Revision-Date: 2019-03-22 05:38-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid ""
+"Your Freedom Needs Free Software - GNU Project - Free Software Foundation"
+msgstr ""
+"Sua liberdade precisa de software livre - Projeto GNU - Free Software "
+"Foundation"
+
+#. type: Content of: <h2>
+msgid "Your Freedom Needs Free Software"
+msgstr "Sua liberdade precisa de software livre"
+
+#. type: Content of: <p>
+msgid ""
+"Many of us know that governments can threaten the human rights of software "
+"users through censorship and surveillance of the Internet.  Many do not "
+"realize that the software they run on their home or work computers can be an "
+"even worse threat.  Thinking of software as &lsquo;just a tool&rsquo;, they "
+"suppose that it obeys them, when in fact it often obeys others instead."
+msgstr ""
+"Muitos de nós sabemos que os governos podem ameaçar os direitos humanos dos "
+"usuários de software por meio da censura e da vigilância da Internet. Muitos "
+"não percebem que o software que executam em seus computadores domésticos ou "
+"de trabalho pode ser uma ameaça ainda pior. Pensando em software como "
+"“apenas uma ferramenta”, eles supõem que ela os obedece, quando, na verdade, "
+"ela geralmente obedece aos outros."
+
+#. type: Content of: <p>
+msgid ""
+"The software running in most computers is <a href=\"/philosophy/categories."
+"html#ProprietarySoftware\">non-free, proprietary software</a>: controlled by "
+"software companies, not by its users.  Users can't check what these programs "
+"do, nor prevent them from doing what they don't want.  Most people accept "
+"this because they have seen no other way, but it is simply wrong to give "
+"developers power over the users' computer."
+msgstr ""
+"O software executado na maioria dos computadores é <a href=\"/philosophy/"
+"categories.html#ProprietarySoftware\">software proprietário não livre</a>: "
+"controlado por empresas de software, não por seus usuários. Os usuários não "
+"podem verificar o que esses programas fazem, nem impedi-los de fazer o que "
+"não querem. A maioria das pessoas aceita isso porque não enxerga outra "
+"maneira, mas é simplesmente errado dar aos desenvolvedores poder sobre o "
+"computador dos usuários."
+
+#. type: Content of: <p>
+msgid ""
+"This unjust power, as usual, tempts its wielders to further misdeeds. If a "
+"computer talks to a network, and you don't control the software in it, it "
+"can easily spy on you.  Microsoft Windows spies on users; for instance, it "
+"reports what words a user searches for in her own files, and what other "
+"programs are installed.  RealPlayer spies too; it reports what the user "
+"plays.  Cell phones are full of non-free software, which spies.  Cell phones "
+"send out localizing signals even when &lsquo;off&rsquo;, many can send out "
+"your precise GPS location whether you wish or not, and some models can be "
+"switched on remotely as listening devices.  Users can't fix these malicious "
+"features because they don't have control."
+msgstr ""
+"Esse poder injusto, como de costume, instiga seus detentores a cometer mais "
+"delitos. Se um computador fala com uma rede e você não controla o software "
+"nele, ele pode facilmente espiar você. O Microsoft Windows espiona os "
+"usuários; por exemplo, ele relata quais palavras um usuário procura em seus "
+"próprios arquivos e quais outros programas estão instalados. O RealPlayer "
+"também espiona; Ele relata o que o usuário joga. Os telefones celulares "
+"estão cheios de software não livre, que espia. Os telefones celulares enviam "
+"sinais de localização, mesmo quando “desligados”, muitos podem enviar sua "
+"localização GPS precisa, quer você queira ou não, e alguns modelos podem ser "
+"ligados remotamente como dispositivos de escuta. Os usuários não podem "
+"corrigir esses recursos maliciosos porque eles não têm controle."
+
+#. type: Content of: <p>
+msgid ""
+"Some proprietary software is designed to restrict and attack its users.  <a "
+"href=\"http://badvista.org/\">Windows Vista</a> is a big advance in this "
+"field; the reason it requires replacement of old hardware is that the new "
+"models are designed to support unbreakable restrictions.  Microsoft thus "
+"requires users to pay for shiny new shackles.  It is also designed to permit "
+"forced updating by corporate authority.  Hence the <a href=\"http://badvista."
+"org/\">BadVista.org</a> campaign, which urges Windows users not to &lsquo;"
+"upgrade&rsquo; to Vista.  (For the equally malicious Windows 7 and Windows "
+"8, we now have <a href=\"http://windows7sins.org/\">Windows7Sins.org</a> and "
+"<a href=\"http://upgradefromwindows8.org/\">UpgradeFromWindows8.org</a>.)  "
+"Mac OS also contains features designed to restrict its users."
+msgstr ""
+"Alguns softwares proprietários são projetados para restringir e atacar seus "
+"usuários. O <a href=\"http://badvista.org/\">Windows Vista</a> é um grande "
+"avanço nesse campo; a razão pela qual é necessário substituir o hardware "
+"antigo é que os novos modelos são projetados para suportar restrições "
+"inquebráveis. A Microsoft exige, portanto, que os usuários paguem por novos "
+"grilhões brilhantes. Ele também é projetado para permitir a atualização "
+"forçada pela autoridade corporativa. Daí a campanha <a href=\"http://"
+"badvista.org/\">BadVista.org</a>, que insta os usuários do Windows a não "
+"“atualizarem” para o Vista. (Para o igualmente malicioso Windows 7 e Windows "
+"8, agora temos <a href=\"http://windows7sins.org/\">Windows7Sins.org</a> e "
+"<a href=\"http://upgradefromwindows8.org/\">UpgradeFromWindows8.org</a>.) O "
+"Mac OS também contém recursos projetados para restringir seus usuários."
+
+#. type: Content of: <p>
+msgid ""
+"Microsoft has installed back doors for the US government's use in the past "
+"(<a href=\"http://www.heise.de/tp/artikel/5/5263/1.html\">reported on heise."
+"de</a>).  We cannot check whether they have successors today.  Other "
+"proprietary programs may or may not have back doors, but since we cannot "
+"check them, we cannot trust them."
+msgstr ""
+"A Microsoft instalou <em>backdoors</em> para o uso do governo dos EUA no "
+"passado (<a href=\"http://www.heise.de/tp/artikel/5/5263/1.html\">relatado "
+"em heise.de</a>). Não podemos verificar se eles têm sucessores hoje. Outros "
+"programas proprietários podem ou não ter <em>backdoors</em>, mas como não "
+"podemos verificá-los, não podemos confiar neles."
+
+#. type: Content of: <p>
+msgid ""
+"The only way to assure that your software is working for you is to insist on "
+"Free/Libre software.  This means users get the source code, are free to "
+"study and change it, and are free to redistribute it with or without "
+"changes.  The <a href=\"/gnu/linux-and-gnu.html\">GNU/Linux system</a>, "
+"developed <a href=\"/gnu/gnu.html\">specifically for users' freedom</a>, "
+"includes office applications, multimedia, games, and everything you really "
+"need to run a computer.  See <a href=\"http://www.gnewsense.org/\">gNewSense."
+"org</a> for a <a href=\"/distros/distros.html\">totally Free/Libre version "
+"of GNU/Linux</a>."
+msgstr ""
+"A única maneira de garantir que o seu software esteja trabalhando para você "
+"é insistir no software Livre/Libre. Isso significa que os usuários obtêm o "
+"código-fonte, estejam livres para estudá-lo e alterá-lo, e estejam livres "
+"para redistribuí-lo com ou sem alterações. O <a href=\"/gnu/linux-and-gnu."
+"html\">sistema GNU/Linux</a>, desenvolvido <a href=\"/gnu/gnu.html"
+"\">especificamente para a liberdade dos usuários</a>, inclui aplicativos de "
+"escritório, multimídia, jogos e tudo o que você realmente precisa para "
+"executar um computador. Consulte <a href=\"http://www.gnewsense.org/"
+"\">gNewSense.org</a> para obter uma <a href=\"/distros/distros.html\">versão "
+"totalmente Livre/Libre do GNU/Linux</a>."
+
+#. type: Content of: <p>
+msgid ""
+"A special problem occurs when activists for social change use proprietary "
+"software, because its developers, who control it, may be companies they wish "
+"to protest&mdash;or that work hand in glove with the states whose policies "
+"they oppose.  Control of our software by a proprietary software company, "
+"whether it be Microsoft, Apple, Adobe or Skype, means control of what we can "
+"say, and to whom.  This threatens our freedom in all areas of life."
+msgstr ""
+"Um problema especial ocorre quando ativistas de mudança social usam software "
+"proprietário, porque seus desenvolvedores, que o controlam, podem ser "
+"empresas que estes ativistas estejam a protestar &ndash; ou que trabalham "
+"lado a lado com os estados cujas políticas se opõem. O controle de nosso "
+"software por uma empresa proprietária de software, seja Microsoft, Apple, "
+"Adobe ou Skype, significa controle do que podemos dizer e para quem. Isso "
+"ameaça nossa liberdade em todas as áreas da vida."
+
+#. type: Content of: <p>
+msgid ""
+"There is also danger in using a company's server to do your word processing "
+"or email&mdash;and not just if you are in China, as US lawyer Michael "
+"Springmann discovered.  In 2003, AOL not only handed over to the police his "
+"confidential discussions with clients, it also made his email and his "
+"address list disappear, and didn't admit this was intentional until one of "
+"its staff made a slip.  Springmann gave up on getting his data back."
+msgstr ""
+"Há também o perigo de usar o servidor de uma empresa para fazer seu "
+"processamento de texto ou e-mail &ndash; e não apenas se você estiver na "
+"China, como o advogado americano Michael Springmann descobriu. Em 2003, a "
+"AOL não apenas entregou à polícia suas discussões confidenciais com os "
+"clientes, como também fez com que seu e-mail e sua lista de endereços "
+"desaparecessem, e não admitiu que isso fosse intencional até que um de seus "
+"funcionários delatou. Springmann desistiu de recuperar seus dados."
+
+#. type: Content of: <p>
+msgid ""
+"The US is not the only state that doesn't respect human rights, so keep your "
+"data on your own computer, and your backups under your own custody&mdash;and "
+"run your computer with Free/Libre software."
+msgstr ""
+"Os EUA não são o único estado que não respeita os direitos humanos, "
+"portanto, mantenha seus dados em seu próprio computador e seus backups sob "
+"sua guarda &ndash; e use seu computador com software Livre/Libre."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2007, 2017 Richard Stallman"
+msgstr "Copyright &copy; 2007, 2017 Richard Stallman"
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2019.Revisado por: Cassiano Reinert Novais dos "
+"Santos <a href=\"mailto:caco@posteo.net\">&lt;caco@posteo.net&gt;</a>, 2019."
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização:"

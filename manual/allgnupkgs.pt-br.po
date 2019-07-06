@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: allgnupkgs.html\n"
-"POT-Creation-Date: 2019-04-20 08:57+0000\n"
-"PO-Revision-Date: 2019-04-23 07:14-0200\n"
+"POT-Creation-Date: 2019-06-18 21:27+0000\n"
+"PO-Revision-Date: 2019-06-18 22:36-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -2201,12 +2201,8 @@ msgstr ""
 "\">página&nbsp;do&nbsp;gmp</a>]"
 
 #. type: Content of: <table><tr><td>
-msgid ""
-"* <a href=\"https://www.gnu.org/software/gsl/manual/html_node/\">GNU "
-"Scientific Library</a>"
-msgstr ""
-"* <a href=\"https://www.gnu.org/software/gsl/manual/html_node/\">GNU "
-"Scientific Library</a>"
+msgid "* <a href=\"/software/gsl/doc/html\">GNU Scientific Library</a>"
+msgstr "* <a href=\"/software/gsl/doc/html\">GNU Scientific Library</a>"
 
 #. type: Content of: <table><tr><td>
 msgid ""
@@ -3800,18 +3796,6 @@ msgid ""
 msgstr ""
 "Executa um comando em paralelo em vários hosts.  [<a href=\"/software/pexec/"
 "\">página&nbsp;do&nbsp;pexec</a>]"
-
-#. type: Content of: <table><tr><td>
-msgid "* <a href=\"/software/pgccfd/\">Porting GCC for Dunces</a>"
-msgstr "* <a href=\"/software/pgccfd/\">Porting GCC for Dunces</a>"
-
-#. type: Content of: <table><tr><td>
-msgid ""
-"Guide on porting the GNU compiler to new platforms.  [<a href=\"/software/"
-"pgccfd/\">pgccfd&nbsp;home</a>]"
-msgstr ""
-"Guia sobre como portar o compilador GNU para novas plataformas.  [<a href=\"/"
-"software/pgccfd/\">página&nbsp;do&nbsp;pgccfd</a>]"
 
 #. type: Content of: <table><tr><td>
 msgid "* <a href=\"http://www.gnu.org.ua/software/pies/manual.html\">Pies</a>"
@@ -5441,6 +5425,23 @@ msgid ""
 msgstr ""
 "XML simples para definição e implementação de linguages de marcação.  [<a "
 "href=\"/software/xmlat/\">página&nbsp;do&nbsp;xmlat</a>]"
+
+#~ msgid ""
+#~ "* <a href=\"https://www.gnu.org/software/gsl/manual/html_node/\">GNU "
+#~ "Scientific Library</a>"
+#~ msgstr ""
+#~ "* <a href=\"https://www.gnu.org/software/gsl/manual/html_node/\">GNU "
+#~ "Scientific Library</a>"
+
+#~ msgid "* <a href=\"/software/pgccfd/\">Porting GCC for Dunces</a>"
+#~ msgstr "* <a href=\"/software/pgccfd/\">Porting GCC for Dunces</a>"
+
+#~ msgid ""
+#~ "Guide on porting the GNU compiler to new platforms.  [<a href=\"/software/"
+#~ "pgccfd/\">pgccfd&nbsp;home</a>]"
+#~ msgstr ""
+#~ "Guia sobre como portar o compilador GNU para novas plataformas.  [<a href="
+#~ "\"/software/pgccfd/\">página&nbsp;do&nbsp;pgccfd</a>]"
 
 #~ msgid ""
 #~ "* <a href=\"http://www.gnubg.com/documentation/doku.php\">Backgammon</a>"

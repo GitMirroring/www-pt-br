@@ -1,13 +1,13 @@
 # Brazilian Portuguese translation of https://www.gnu.org/philosophy/ubuntu-spyware.html
-# Copyright (C) 2018 Free Software Foundation, Inc.
+# Copyright (C) 2019 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Hudson Flávio Meneses Lacerda <hfmlacerda@yahoo.com.br>, 2014
-# Rafael Fontenelle <rafaelff@gnome.org>, 2017, 2018.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017-2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-spyware.html\n"
-"POT-Creation-Date: 2018-01-01 05:59+0000\n"
-"PO-Revision-Date: 2018-01-18 13:06-0200\n"
+"POT-Creation-Date: 2019-05-24 09:57+0000\n"
+"PO-Revision-Date: 2019-05-25 04:52-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -78,25 +78,27 @@ msgid ""
 "surveillance code, digital handcuffs (DRM or Digital Restrictions "
 "Management) to restrict users, and back doors that can do nasty things under "
 "remote control.  Programs that do any of these things are malware and should "
-"be treated as such.  Widely used examples include Windows, the iThings, and "
-"the Amazon &ldquo;Kindle&rdquo; product for virtual book burning, which do "
-"all three; Macintosh and the Playstation III which impose DRM; most portable "
-"phones, which do spying and have back doors; Adobe Flash Player, which does "
-"spying and enforces DRM; and plenty of apps for iThings and Android, which "
-"are guilty of one or more of these nasty practices."
+"be treated as such.  Widely used examples include Windows, the <a href=\"/"
+"philosophy/why-call-it-the-swindle.html\">iThings</a>, and the Amazon &ldquo;"
+"Kindle&rdquo; product for virtual book burning, which do all three; "
+"Macintosh and the Playstation III which impose DRM; most portable phones, "
+"which do spying and have back doors; Adobe Flash Player, which does spying "
+"and enforces DRM; and plenty of apps for iThings and Android, which are "
+"guilty of one or more of these nasty practices."
 msgstr ""
 "Software proprietário está associado a tratamento malicioso do usuário: "
 "código para vigilância, algemas digitais (DRM ou Gestão Digital de "
 "Restrições) para restringir usuários e portas dos fundos [back doors] que "
 "podem fazer coisas detestáveis por controle remoto. Programas que fazem "
 "qualquer uma dessas coisas são malware e devem ser tratados como tal. "
-"Exemplos amplamente usados incluem Windows, os iTrecos e o Amazon “Kindle”, "
-"produto para queima virtual de livros<sup><a href=\"#TransNote1\">1</a></"
-"sup>, que fazem todas as três coisas; Macintosh e Playstation III, que "
-"impõem DRM; a maioria dos telefones portáteis, que praticam espionagem e "
-"contêm portas dos fundos; Adobe Flash Player, que faz espionagem e executa "
-"DRM; e uma grande quantidade de aplicativos para iTrecos e Android, que são "
-"culpáveis por uma ou mais dessas detestáveis práticas."
+"Exemplos amplamente usados incluem Windows, os <a href=\"/philosophy/why-"
+"call-it-the-swindle.html\">iCoisas</a> e o Amazon “Kindle”, produto para "
+"queima virtual de livros<sup><a href=\"#TransNote1\">1</a></sup>, que fazem "
+"todas as três coisas; Macintosh e Playstation III, que impõem DRM; a maioria "
+"dos telefones portáteis, que praticam espionagem e contêm portas dos fundos; "
+"Adobe Flash Player, que faz espionagem e executa DRM; e uma grande "
+"quantidade de aplicativos para iCoisas e Android, que são culpáveis por uma "
+"ou mais dessas detestáveis práticas."
 
 #. type: Content of: <p>
 msgid ""
@@ -409,8 +411,8 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2012, 2016, 2017, 2018 Richard Stallman"
-msgstr "Copyright &copy; 2012, 2016, 2017, 2018 Richard Stallman"
+msgid "Copyright &copy; 2012, 2016, 2017, 2018, 2019 Richard Stallman"
+msgstr "Copyright &copy; 2012, 2016, 2017, 2018, 2019 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""

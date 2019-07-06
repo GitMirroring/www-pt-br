@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: surveillance-vs-democracy.html\n"
-"POT-Creation-Date: 2019-04-13 12:56+0000\n"
-"PO-Revision-Date: 2019-04-13 14:22-0200\n"
+"POT-Creation-Date: 2019-06-26 12:25+0000\n"
+"PO-Revision-Date: 2019-06-27 03:12-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -35,25 +35,25 @@ msgstr "Qual o Nível de Vigilância Que a Democracia Pode Suportar?"
 msgid "by <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
 msgstr "por <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <blockquote><p><em>
 msgid ""
-"A version of this article was first published in <cite>Wired</cite> in "
+"<em>A version of this article was first published in <cite>Wired</cite> in "
 "October&nbsp;2013."
 msgstr ""
-"Uma versão deste artigo foi publicada primeiramente na <cite>Wired</cite> em "
-"Outubro&nbsp;de&nbsp;2013."
+"<em>Uma versão deste artigo foi publicada primeiramente na <cite>Wired</"
+"cite> em Outubro&nbsp;de&nbsp;2013."
 
 #. type: Content of: <blockquote><p>
 msgid ""
 "Also consider reading &ldquo;<a href=\"https://www.theguardian.com/"
 "commentisfree/2018/apr/03/facebook-abusing-data-law-privacy-big-tech-"
 "surveillance\">A radical proposal to keep your personal data safe</a>,"
-"&rdquo; published in <cite>The Guardian</cite> in April&nbsp;2018."
+"&rdquo; published in <cite>The Guardian</cite> in April&nbsp;2018.</em>"
 msgstr ""
 "Também considere ler “<a href=\"https://www.theguardian.com/"
 "commentisfree/2018/apr/03/facebook-abusing-data-law-privacy-big-tech-"
 "surveillance\">Uma proposta radical para manter seus dados pessoais seguros</"
-"a>”, publicado no <cite>The Guardian</cite> em Abril&nbsp;de&nbsp;2018."
+"a>”, publicado no <cite>The Guardian</cite> em Abril&nbsp;de&nbsp;2018.</em>"
 
 #. type: Content of: <div><div><div><a>
 msgid "<a href=\"/graphics/dog.html\">"
@@ -569,9 +569,12 @@ msgstr ""
 "período. O mesmo benefício, com nenhuma vigilância!"
 
 #. type: Content of: <div><div><p>
-msgid "We need to design such privacy into all our digital systems."
+msgid ""
+"We need to design such privacy into all our digital systems&nbsp;[<a href="
+"\"#ambientprivacy\">1</a>]."
 msgstr ""
-"Nós precisamos projetar tal privacidade em todos os nossos sistemas digitais."
+"Nós precisamos projetar tal privacidade em todos os nossos sistemas "
+"digitais&nbsp;[<a href=\"#ambientprivacy\">1</a>]."
 
 #. type: Content of: <div><h3>
 msgid "Remedy for Collecting Data: Leaving It Dispersed"
@@ -644,12 +647,12 @@ msgstr ""
 
 #. type: Content of: <div><div><p>
 msgid ""
-"<a name=\"privatespace\"><b>*</b></a>I assume here that the security camera "
+"<a name=\"privatespace\"><b>*</b></a> I assume here that the security camera "
 "points at the inside of a store, or at the street.  Any camera pointed at "
 "someone's private space by someone else violates privacy, but that is "
 "another issue."
 msgstr ""
-"<a name=\"privatespace\"><b>*</b></a>Eu presumo aqui que a câmera de "
+"<a name=\"privatespace\"><b>*</b></a> Eu presumo aqui que a câmera de "
 "segurança aponta para dentro de uma loja, ou para a rua. Qualquer câmera que "
 "aponte para o espaço privado de alguém por outra pessoa está violando a "
 "privacidade do primeiro, mas isto é uma outra questão."
@@ -1126,6 +1129,20 @@ msgstr ""
 "de um grave deficit de vigilância, e deveria ser mais vigiado do que a União "
 "Soviética e a Alemanha Ocidental eram, nós devemos voltar para aumentar. "
 "Isso requer parar a acumulação de grandes dados sobre as pessoas."
+
+#. type: Content of: <div><h3>
+msgid "End Note"
+msgstr "Nota final"
+
+#. type: Content of: <div><ol><li>
+msgid ""
+"The condition of <em>not being monitored</em> has been referred to as <a "
+"href=\"https://idlewords.com/2019/06/the_new_wilderness.htm\">ambient "
+"privacy</a>."
+msgstr ""
+"A condição de <em>não ser monitorado</em> tem sido referida como <a href="
+"\"https://idlewords.com/2019/06/the_new_wilderness.htm\">privacidade do "
+"ambiente</a> <i lang=\"en\">(ambient privacy)</i>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
