@@ -1,0 +1,431 @@
+# Brazilian Portuguese translation of https://www.gnu.org/proprietary/proprietary-tethers.html
+# Copyright (C) 2019 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2019.
+# Cassiano Reinert Novais dos Santos <caco@posteo.net>, 2019. (proofread, #15219)
+msgid ""
+msgstr ""
+"Project-Id-Version: proprietary-tethers.html\n"
+"POT-Creation-Date: 2019-05-08 14:56+0000\n"
+"PO-Revision-Date: 2019-08-01 17:18-0200\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+"X-Outdated-Since: 2019-05-08 14:56+0000\n"
+
+#. type: Content of: <title>
+msgid "Proprietary Tethers - GNU Project - Free Software Foundation"
+msgstr "Amarração proprietária - Projeto GNU - Free Software Foundation"
+
+#. type: Content of: <h2>
+msgid "Proprietary Tethers"
+msgstr "Amarração proprietária"
+
+#. type: Content of: <p>
+msgid ""
+"<a href=\"/proprietary/proprietary.html\">Other examples of proprietary "
+"malware</a>"
+msgstr ""
+"<a href=\"/proprietary/proprietary.html\">Outros exemplos de <em>malwares</"
+"em> proprietários</a>"
+
+#. type: Content of: <div><p>
+msgid ""
+"Nonfree (proprietary) software is very often malware (designed to mistreat "
+"the user). Nonfree software is controlled by its developers, which puts them "
+"in a position of power over the users; <a href=\"/philosophy/free-software-"
+"even-more-important.html\">that is the basic injustice</a>. The developers "
+"often exercise that power to the detriment of the users they ought to serve."
+msgstr ""
+"O software não livre (proprietário) é muitas vezes um <em>malware</em> "
+"(projetado para maltratar o usuário). O software não livre é controlado por "
+"seus desenvolvedores, o que os coloca em uma posição de poder sobre os "
+"usuários; <a href=\"/philosophy/free-software-even-more-important.html"
+"\">isso é a injustiça básica</a>. Os desenvolvedores muitas vezes exercem "
+"esse poder em detrimento dos usuários que deveriam servir."
+
+#. type: Content of: <div><p>
+msgid ""
+"Tethering a product or program to a specific server is an injustice in "
+"itself.  This page reports instances where tethering was used to harm the "
+"users directly."
+msgstr ""
+"Amarrar um produto ou programa a um servidor específico é uma injustiça em "
+"si. Esta página relata casos em que a amarração foi usada para prejudicar os "
+"usuários diretamente."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"If you know of an example that ought to be in this page but isn't here, "
+"please write to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a> to inform us. Please include the URL of a trustworthy reference "
+"or two to serve as specific substantiation."
+msgstr ""
+"Se você conhece um exemplo que deveria estar nesta página, mas não está "
+"aqui, por favor escreva para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a> para nos informar. Por favor, inclua a URL de uma "
+"ou duas referências confiáveis para servir como comprovação específica."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"The Jibo robot toys were tethered to the manufacturer's server, and <a href="
+"\"https://www.apnews.com/99c9ec8ebad242ca88178e22c7642648\"> the company "
+"made them all cease to work</a> by shutting down that server."
+msgstr ""
+"Os brinquedos do robô Jibo foram amarrados ao servidor do fabricante, e <a "
+"href=\"https://www.apnews.com/99c9ec8ebad242ca88178e22c7642648\"> a empresa "
+"fez com que todos parassem de funcionar</a> desligando o servidor."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"The shutdown might ironically be good for their users, since the product was "
+"designed to manipulate people by presenting a phony semblance of emotions, "
+"and was most certainly spying on them."
+msgstr ""
+"O desligamento pode, ironicamente, ser bom para seus usuários, já que o "
+"produto foi projetado para manipular as pessoas, apresentando uma aparência "
+"falsa de emoções, e certamente estava espionando elas."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"Ebooks &ldquo;bought&rdquo; from Microsoft's store check that their DRM is "
+"valid by connecting to the store every time their &ldquo;owner&rdquo; wants "
+"to read them. Microsoft is going to close this store, <a href=\"https://www."
+"bbc.com/news/technology-47810367\"> bricking all DRM'ed ebooks it has ever "
+"&ldquo;sold&rdquo;</a>. (The article additionally highlights the pitfalls of "
+"DRM.)"
+msgstr ""
+"Ebooks “comprados” da loja da Microsoft verificam se seu DRM é válido "
+"conectando-se à loja toda vez que o “proprietário” quer lê-los. A "
+"Microsoft fechará esta loja, <a href=\"https://www.bbc.com/news/technology-"
+"47810367\"> inutilizando todos os e-books sob DRM que já “vendeu”</a>. (O "
+"artigo também destaca as armadilhas do DRM.)"
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"This is another proof that a DRM-encumbered product doesn't belong to the "
+"person who bought it. Microsoft said it will refund customers, but this is "
+"no excuse for selling them restricted books."
+msgstr ""
+"Esta é outra prova de que um produto com DRM não pertence à pessoa que o "
+"comprou. A Microsoft disse que reembolsará os clientes, mas isso não é "
+"desculpa para vendê-los livros restritos."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"The British supermarket Tesco sold tablets which were tethered to Tesco's "
+"server for reinstalling default settings.  Tesco <a href=\"https://www."
+"theguardian.com/money/2019/mar/25/tesco-hudl-tablet-support-kill-fix\"> "
+"turned off the server for old models</a>, so now if you try to reinstall the "
+"default settings, it bricks them instead."
+msgstr ""
+"O supermercado britânico Tesco vendeu tablets que foram amarrados ao "
+"servidor da Tesco para reinstalar as configurações padrão. Tesco <a href="
+"\"https://www.theguardian.com/money/2019/mar/25/tesco-hudl-tablet-support-"
+"kill-fix\"> desligou o servidor para modelos antigos</a>, então, agora, se "
+"você tentar reinstalar as configurações padrão, eles serão inutilizados."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"Honeywell's &ldquo;smart&rdquo; thermostats communicate only through the "
+"company's server. They have all the nasty characteristics of such devices: "
+"<a href=\"https://www.businessinsider.com/honeywell-iot-thermostats-server-"
+"outage-2018-9\"> surveillance, and danger of sabotage</a> (of a specific "
+"user, or of all users at once), as well as the risk of an outage (which is "
+"what just happened)."
+msgstr ""
+"Os termostatos “smart” da Honeywell se comunicam apenas através do servidor "
+"da empresa. Eles têm todas as características desagradáveis de tais "
+"dispositivos: <a href=\"https://www.businessinsider.com/honeywell-iot-"
+"thermostats-server-outage-2018-9\"> vigilância e perigo de sabotagem</a> (de "
+"um usuário específico ou de todos os usuários ao mesmo tempo), bem como o "
+"risco de uma indisponibilidade (que foi o que aconteceu)."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"In addition, setting the desired temperature requires running nonfree "
+"software. With an old-fashioned thermostat, you can do it using controls "
+"right on the thermostat."
+msgstr ""
+"Além disso, definir a temperatura desejada requer a execução de software não "
+"livre. Com um termostato antiquado, você pode fazê-lo usando controles "
+"diretamente no termostato."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"The Jawbone fitness tracker was tethered to a proprietary phone app.  In "
+"2017, the company shut down and made the app stop working. <a href=\"https://"
+"www.theguardian.com/technology/2018/jul/05/defunct-jawbone-fitness-trackers-"
+"kept-selling-after-app-closure-says-which\">All the existing trackers "
+"stopped working forever</a>."
+msgstr ""
+"O monitor <i lang=\"en\">fitness</i> da Jawbone estava amarrado a um "
+"aplicativo proprietário de telefone. Em 2017, a empresa fechou e fez o "
+"aplicativo parar de funcionar. <a href=\"https://www.theguardian.com/"
+"technology/2018/jul/05/defunct-jawbone-fitness-trackers-kept-selling-after-"
+"app-closure-says-which\">Todos os monitores existentes pararam de funcionar "
+"para sempre</a>."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"The article focuses on a further nasty fillip, that sales of the broken "
+"devices continued. But I think that is a secondary issue; it made the nasty "
+"consequences extend to some additional people.  The fundamental wrong was to "
+"design the devices to depend on something else that didn't respect users' "
+"freedom."
+msgstr ""
+"O artigo concentra-se em mais um impulso desagradável, de que as vendas dos "
+"dispositivos quebrados continuaram. Mas acho que isso é secundário. Isso fez "
+"com que as consequências desagradáveis se estendessem a algumas pessoas "
+"adicionais. O erro fundamental foi projetar os dispositivos para depender de "
+"outra coisa que não respeitou a liberdade dos usuários."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"The game Metal Gear Rising for MacOS was tethered to a server.  The company "
+"<a href=\"http://www.gamerevolution.com/news/400087-metal-gear-rising-mac-"
+"unplayable-drm\"> shut down the server, and all copies stopped working</a>."
+msgstr ""
+"O jogo Metal Gear Rising para MacOS foi amarrado a um servidor. A empresa <a "
+"href=\"http://www.gamerevolution.com/news/400087-metal-gear-rising-mac-"
+"unplayable-drm\"> desligou o servidor e todas as cópias pararam de "
+"funcionar</a>."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"Logitech will sabotage all Harmony Link household control devices by <a href="
+"\"https://arstechnica.com/gadgets/2017/11/logitech-to-shut-down-service-and-"
+"support-for-harmony-link-devices-in-2018/\"> turning off the server through "
+"which the products' supposed owners communicate with them</a>."
+msgstr ""
+"A Logitech irá sabotar todos os dispositivos de controle doméstico da "
+"Harmony Link <a href=\"https://arstechnica.com/gadgets/2017/11/logitech-to-"
+"shut-down-service-and-support-for-harmony-link-devices-in-2018/\"> "
+"desligando o servidor através do qual os supostos proprietários dos produtos "
+"se comunicam com eles</a>."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"The owners suspect this is to pressure them to buy a newer model. If they "
+"are wise, they will learn, rather, to distrust any product that requires "
+"users to talk with them through some specialized service."
+msgstr ""
+"Os proprietários suspeitam que isso é para pressioná-los a comprar um modelo "
+"mais novo. Se forem sábios, aprenderão, antes, a desconfiar de qualquer "
+"produto que exija que os usuários conversem com eles por meio de algum "
+"serviço especializado."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"Sony has brought back its robotic pet Aibo, this time <a href=\"https://"
+"motherboard.vice.com/en_us/article/bj778v/sony-wants-to-sell-you-a-"
+"subscription-to-a-robot-dog-aibo-90s-pet\"> with a universal back door, and "
+"tethered to a server that requires a subscription</a>."
+msgstr ""
+"A Sony trouxe de volta seu animal de estimação robótico Aibo, dessa vez <a "
+"href=\"https://motherboard.vice.com/en_us/article/bj778v/sony-wants-to-sell-"
+"you-a-subscription-to-a-robot-dog-aibo-90s-pet\"> com uma <i lang=\"en"
+"\">back door</i> universal e amarrado a um servidor que requer assinatura</"
+"a>."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"The Canary home surveillance camera has been sabotaged by its manufacturer, "
+"<a href=\"https://www.theverge.com/circuitbreaker/2017/10/4/16426394/canary-"
+"smart-home-camera-free-service-update-change\"> turning off many features "
+"unless the user starts paying for a subscription</a>."
+msgstr ""
+"A câmera de vigilância doméstica da Canary foi sabotada por seu fabricante, "
+"<a href=\"https://www.theverge.com/circuitbreaker/2017/10/4/16426394/canary-"
+"smart-home-camera-free-service-update-change\"> desligando muitos recursos, "
+"a menos que o usuário comece a pagar por uma assinatura</a>."
+
+#. type: Content of: <ul><li><p>
+msgid "With manufacturers like these, who needs security breakers?"
+msgstr ""
+"Com fabricantes como esses, quem precisa de <i lang=\"en\">crackers</i>?"
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"The purchasers should learn the larger lesson and reject connected "
+"appliances with embedded proprietary software. Every such product is a "
+"temptation to commit sabotage."
+msgstr ""
+"Os consumidores devem aprender a lição maior e rejeitar aparelhos conectados "
+"com software proprietário embarcado. Cada um desses produtos é uma tentação "
+"em cometer sabotagem."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"Bird and rabbit pets were implemented for Second Life by a company that "
+"tethered their food to a server.  <a href=\"https://www.rockpapershotgun."
+"com/2017/05/19/second-life-ozimals-pet-rabbits-dying\"> It shut down the "
+"server and the pets more or less died</a>."
+msgstr ""
+"As aves e coelhos de estimação foram implementados para o Second Life por "
+"uma empresa que amarrou seus alimentos a um servidor. <a href=\"https://www."
+"rockpapershotgun.com/2017/05/19/second-life-ozimals-pet-rabbits-dying\"> Ela "
+"desligou o servidor e os animais morreram, por assim dizer</a>."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"Anova sabotaged users' cooking devices with a downgrade that tethered them "
+"to a remote server. <a href=\"https://web.archive.org/web/20170415145520/"
+"https://consumerist.com/2017/04/12/anova-ticks-off-customers-by-requiring-"
+"mandatory-accounts-to-cook-food/\">Unless users create an account on Anova's "
+"servers, their cookers won't function</a>."
+msgstr ""
+"A Anova sabotou os dispositivos de cozinha dos usuários com um <i lang=\"en"
+"\">downgrade</i> que os amarrou a um servidor remoto. <a href=\"https://web."
+"archive.org/web/20170415145520/https://consumerist.com/2017/04/12/anova-"
+"ticks-off-customers-by-requiring-mandatory-accounts-to-cook-food/\"> A menos "
+"que os usuários criem uma conta nos servidores da Anova, seus fogões não "
+"funcionarão</a>."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"nVidia's proprietary GeForce Experience <a href=\"http://www.gamersnexus.net/"
+"industry/2672-geforce-experience-data-transfer-analysis\">makes users "
+"identify themselves and then sends personal data about them to nVidia "
+"servers</a>."
+msgstr ""
+"O GeForce Experience proprietário, da nVidia, <a href=\"http://www."
+"gamersnexus.net/industry/2672-geforce-experience-data-transfer-analysis\"> "
+"faz os usuários se identificarem e, em seguida, envia dados pessoais sobre "
+"eles para os servidores da nVidia</a>."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"The iMessage app on iThings <a href=\"https://theintercept.com/2016/09/28/"
+"apple-logs-your-imessage-contacts-and-may-share-them-with-police/\">tells a "
+"server every phone number that the user types into it</a>; the server "
+"records these numbers for at least 30 days."
+msgstr ""
+"O aplicativo iMessage em iThings (produtos da Apple) <a href=\"https://"
+"theintercept.com/2016/09/28/apple-logs-your-imessage-contacts-and-may-share-"
+"them-with-police/\">fala para um servidor cada número de telefone que o "
+"usuário digita</a>; o servidor grava esses números por pelo menos 30 dias."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"A half-blind security critique of a tracking app: it found that <a href="
+"\"http://www.consumerreports.org/mobile-security-software/glow-pregnancy-app-"
+"exposed-women-to-privacy-threats/\"> blatant flaws allowed anyone to snoop "
+"on a user's personal data</a>.  The critique fails entirely to express "
+"concern that the app sends the personal data to a server, where the "
+"<em>developer</em> gets it all.  This &ldquo;service&rdquo; is for suckers!"
+msgstr ""
+"Uma critica de segurança meio cega a um aplicativo de rastreamento: "
+"descobriu-se que <a href=\"http://www.consumerreports.org/mobile-security-"
+"software/glow-pregnancy-app-exposed-women-to-privacy-threats/\"> falhas "
+"flagrantes permitiram a qualquer um bisbilhotar os dados pessoais de um "
+"usuário</a>. A critica falha inteiramente em expressar preocupação de que o "
+"aplicativo envie os dados pessoais para um servidor, no qual o "
+"<em>desenvolvedor</em> obtém tudo. Este “serviço” é para otários!"
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"The server surely has a &ldquo;privacy policy,&rdquo; and surely it is "
+"worthless since nearly all of them are."
+msgstr ""
+"O servidor certamente tem uma “política de privacidade” e certamente é "
+"inútil, já que quase todas são."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"Google/Alphabet <a href=\"https://www.eff.org/deeplinks/2016/04/nest-reminds-"
+"customers-ownership-isnt-what-it-used-be\"> intentionally broke Revolv home "
+"automatic control products that depended on a server</a> to function, by "
+"shutting down the server.  The lesson is, reject all such products.  Insist "
+"on self-contained computers that run free software!"
+msgstr ""
+"Google/Alphabet <a href=\"https://www.eff.org/deeplinks/2016/04/nest-reminds-"
+"customers-ownership-isnt-what-it-used-be\"> intencionalmente estragou "
+"produtos de controle automático residenciais da Revolv que dependiam de um "
+"servidor</a> para funcionar, desligando o servidor. A lição é rejeitar todos "
+"esses produtos. Insista em computadores independentes que executam software "
+"livre!"
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"Adobe applications <a href=\"https://www.wired.com/2013/05/adobe-creative-"
+"cloud-petition/\"> require periodic connection to a server</a>."
+msgstr ""
+"Os aplicativos da Adobe <a href=\"https://www.wired.com/2013/05/adobe-"
+"creative-cloud-petition/\"> exigem conexão periódica a um servidor</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2016, 2017, 2018, 2019 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2016, 2017, 2018, 2019 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 "
+"International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by/4.0/deed.pt_BR\">Creative Commons Atribuição "
+"4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2019.Revisado por: Cassiano Reinert Novais dos "
+"Santos <a href=\"mailto:caco@posteo.net\">&lt;caco@posteo.net&gt;</a>, 2019."
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização:"

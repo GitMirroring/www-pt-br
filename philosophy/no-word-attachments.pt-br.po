@@ -3,12 +3,12 @@
 # This file is distributed under the same license as the original article.
 # Fernando Lozano, 2002.
 # Jan 2014: GNUNify and trivially update a few strings (T. Godefroy).
-# Rafael Fontenelle <rafaelff@gnome.org>, 2017.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: no-word-attachments.html\n"
-"POT-Creation-Date: 2014-03-14 04:34+0000\n"
-"PO-Revision-Date: 2017-05-20 16:20-0300\n"
+"POT-Creation-Date: 2019-07-24 12:25+0000\n"
+"PO-Revision-Date: 2019-07-29 10:16-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -41,8 +41,8 @@ msgid ""
 "This essay explains why Microsoft Word attachments to email are bad, and "
 "describes what you can do to help stop this practice."
 msgstr ""
-"Esse ensaio explica o porquê anexos de Microsoft Word para e-mail são ruins, "
-"e descreve o que você pode fazer para parar essa prática."
+"Esse ensaio explica o porquê de anexos de Microsoft Word para e-mail serem "
+"ruins, e descreve o que você pode fazer para parar essa prática."
 
 #. type: Content of: <h2>
 msgid "We Can Put an End to Word Attachments"
@@ -82,8 +82,8 @@ msgstr ""
 "para eles, pois o Word é software proprietário, negando às pessoas a "
 "liberdade de estudar, modificar, copiar e redistribuí-lo. E, como a "
 "Microsoft muda o formato dos arquivos do Word a cada nova versão, seus "
-"usuários estão presos em um sistema que os obriga a comprar cada "
-"<cite>upgrade</cite>, desejem eles ou não as mudanças. Eles podem até mesmo "
+"usuários estão presos em um sistema que os obriga a comprar cada <i lang=\"en"
+"\">upgrade</i>, desejem eles ou não as mudanças. Eles podem até mesmo "
 "descobrir, daqui a alguns anos, que os documentos Word que eles escrevem "
 "hoje poderão não mais serem lidos pela versão que eles usarão então."
 
@@ -474,7 +474,7 @@ msgstr ""
 msgid ""
 "<em>Microsoft can (and did recently in Kenya and Brazil) have local police "
 "enforce laws that prohibit students from studying the code, prohibit "
-"entrepeneurs starting new companies, and prohibit professionals offering "
+"entrepreneurs starting new companies, and prohibit professionals offering "
 "their services.  Please don't give them your support.</em>"
 msgstr ""
 "<em>A Microsoft pode (e o fez recentemente no Quênia e no Brasil) fazer com "
@@ -517,7 +517,7 @@ msgid ""
 msgstr ""
 "Kevin Cole da Universidade Gallaudet em Washington, DC, <a href=\"/"
 "philosophy/kevin-cole-response.html\">envia essa mensagem de resposta "
-"automática</a> sempre que ele recebe um anexo do Word.  (Eu penso que é "
+"automática</a> sempre que ele recebe um anexo do Word. (Eu penso que é "
 "melhor enviar as respostas manualmente, e deixar claro que você o fez "
 "porque, assim, as pessoas podem ter uma melhor recepção.)"
 
@@ -566,18 +566,18 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2002, 2007 Richard M. Stallman"
-msgstr "Copyright &copy; 2002, 2007 Richard M. Stallman"
+msgid "Copyright &copy; 2002, 2007, 2019 Richard M. Stallman"
+msgstr "Copyright &copy; 2002, 2007, 2019 Richard M. Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
-"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
@@ -586,7 +586,7 @@ msgstr ""
 "Traduzido por: Fernando Lozano <a href=\"mailto:fernando@lozano.eti.br\">&lt;"
 "fernando@lozano.eti.br&gt;</a>, 2002;\n"
 "Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome."
-"org&gt;</a>, 2017"
+"org&gt;</a>, 2017, 2019"
 
 #.  timestamp start 
 #. type: Content of: <div><p>

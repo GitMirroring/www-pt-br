@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: right-to-read.html\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-19 18:56+0000\n"
+"POT-Creation-Date: 2019-07-23 15:25+0000\n"
 "PO-Revision-Date: 2019-05-20 00:03-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -351,7 +351,7 @@ msgstr ""
 "A Electronic Frontier Foundation, uma organização separada não relacionada "
 "com a Free Software Foundation, também advoga contra DRM."
 
-#. type: Content of: <div><div><blockquote><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The following note has been updated several times since the first "
 "publication of the story."
@@ -428,7 +428,7 @@ msgstr ""
 "copyright; ele está à beira da aprovação do sistema de DRM como uma parte "
 "oficial das especificações da web."
 
-#. type: Content of: <div><div><ul><li><div><p>
+#. type: Content of: <div><div><ul><li><div><div><p>
 msgid ""
 "Nonfree software tends to have <a href=\"/proprietary/\">abusive features of "
 "many kinds</a>, which lead to the conclusion that <a href=\"/philosophy/free-"
@@ -595,7 +595,7 @@ msgstr ""
 "EUA]: pressionar quase todas as pessoas a concordarem, antecipadamente, a "
 "abdicar de seus direitos sob a mesma."
 
-#. type: Content of: <div><h3>
+#. type: Content of: <div><div><h3>
 msgid "Bad News"
 msgstr "Más notícias"
 
@@ -607,7 +607,7 @@ msgstr ""
 "A batalha pelo direito de ler está contra nós. O inimigo está organizado, e "
 "nós não."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><div><div><p>
 msgid ""
 "Today's commercial e-books <a href=\"/philosophy/the-danger-of-ebooks.html"
 "\"> abolish readers' traditional freedoms</a>.  Amazon's e-book reader "
@@ -628,7 +628,7 @@ msgstr ""
 "\">funcionalidades Owerllianas</a> demonstradas. Qualquer uma delas chamam "
 "por rejeitar o produto completamente:"
 
-#. type: Content of: <div><div><ul><li><p>
+#. type: Content of: <div><div><div><ul><li><p>
 msgid ""
 "It spies on everything the user does: it reports which book the user is "
 "reading, and which page, and it reports when the user highlights text, and "
@@ -638,13 +638,13 @@ msgstr ""
 "lendo, e qual página, e ele relata quando o usuário realça um texto, e "
 "qualquer notas que o usuário insere."
 
-#. type: Content of: <div><div><ul><li><p>
+#. type: Content of: <div><div><div><ul><li><p>
 msgid "It has DRM, which is intended to block users from sharing copies."
 msgstr ""
 "Ele possui DRM, o que tem a intenção de bloquear usuários de compartilhar "
 "cópias."
 
-#. type: Content of: <div><div><ul><li><p>
+#. type: Content of: <div><div><div><ul><li><p>
 msgid ""
 "It has a back door with which Amazon can remotely erase any book.  In 2009, "
 "it erased thousands of copies of 1984, by George Orwell."
@@ -653,7 +653,7 @@ msgstr ""
 "remotamente qualquer livro. Em 2009, ela apagou milhares de cópias de 1984, "
 "por George Orwell."
 
-#. type: Content of: <div><div><ul><li><p>
+#. type: Content of: <div><div><div><ul><li><p>
 msgid ""
 "In case all that isn't Orwellian enough, there is a universal back door with "
 "which Amazon can remotely change the software, and introduce any other form "
@@ -663,7 +663,7 @@ msgstr ""
 "<em>back door</em> universal por meio do qual a Amazon pode alterar "
 "remotamente o software e introduzir qualquer outra forma de sujeira."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><div><div><p>
 msgid ""
 "Amazon's e-book distribution is oppressive, too.  It identifies the user and "
 "records what books the user obtains.  It also requires users to agree to an "
@@ -683,7 +683,7 @@ msgstr ""
 "primeiro lugar. Portanto, eu me recuso a acreditar que tais contratos, seja "
 "para softwares, para e-books, para músicas ou para qualquer outra coisa."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><div><div><p>
 msgid ""
 "If we want to stop the bad news and create some good news, we need to "
 "organize and fight.  Subscribe to the FSF's <a href=\"http://"
@@ -699,11 +699,11 @@ msgstr ""
 "apoiar nosso trabalho de forma mais geral. Há também uma <a href=\"/help/"
 "help.html\">lista de formas para participar em nosso trabalho</a>."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "References"
 msgstr "Referências"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "The administration's &ldquo;White Paper&rdquo;: Information Infrastructure "
 "Task Force, Intellectual Property [<a href=\"/philosophy/not-ipr.html\">sic</"
@@ -715,7 +715,7 @@ msgstr ""
 "National Information Infrastructure: The Report of the Working Group on "
 "Intellectual Property [sic] Rights (1995)."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"http://www.wired.com/wired/archive/4.01/white.paper_pr.html\">An "
 "explanation of the White Paper: The Copyright Grab</a>, Pamela Samuelson, "
@@ -725,7 +725,7 @@ msgstr ""
 "explanation of the White Paper: The Copyright Grab</a>, Pamela Samuelson, "
 "<cite>Wired</cite>, 1º de janeiro de 1996."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"http://www.law.duke.edu/boylesite/sold_out.htm\">Sold Out</a>, "
 "James Boyle, <cite>New York Times</cite>, March 31, 1996."
@@ -733,7 +733,7 @@ msgstr ""
 "<a href=\"http://www.law.duke.edu/boylesite/sold_out.htm\">Sold Out</a>, "
 "James Boyle, <cite>New York Times</cite>, 31 de março de 1996."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"http://web.archive.org/web/20130508120533/http://www.interesting-"
 "people.org/archives/interesting-people/199611/msg00012.html\">Public Data or "
@@ -745,7 +745,7 @@ msgstr ""
 "Private Data</a>, Dave Farber, <cite>Washington Post</cite>, 4 de novembro "
 "de 1996."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"https://web.archive.org/web/20151113122141/http://public-domain."
 "org/\">Union for the Public Domain</a>&mdash;an organization which aims to "

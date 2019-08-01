@@ -5,8 +5,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: recent-releases-include.html\n"
-"POT-Creation-Date: 2019-07-02 15:26+0000\n"
-"PO-Revision-Date: 2019-07-04 12:16-0200\n"
+"POT-Creation-Date: 2019-07-28 14:26+0000\n"
+"PO-Revision-Date: 2019-07-29 10:17-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -15,6 +15,126 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <ul><li>
+msgid "<strong>July 28, 2019</strong>"
+msgstr "<strong>28 de julho de 2019</strong>"
+
+#. #set var="LINK" 
+#. value='<a href="//lists.gnu.org/archive/html/info-gnu/2019-07/msg00008.html">' 
+#. #echo 
+#. encoding="none" var="LINK" 
+#. type: Content of: <ul><li><ul><li>
+msgid "GNU Stow 2.3.1 released"
+msgstr "GNU Stow 2.3.1 lançado"
+
+#. #echo 
+#. encoding="none" var="LINK_CLOSE" 
+#. type: Content of: <ul><li><ul><li>
+msgid "Adam Spiers"
+msgstr "Adam Spiers"
+
+#. type: Content of: <ul><li>
+msgid "<strong>July 23, 2019</strong>"
+msgstr "<strong>23 de julho de 2019</strong>"
+
+#. #set var="LINK" 
+#. value='<a href="//lists.gnu.org/archive/html/info-gnu/2019-07/msg00007.html">' 
+#. #echo 
+#. encoding="none" var="LINK" 
+#. type: Content of: <ul><li><ul><li>
+msgid "Denemo version 2.3 Released"
+msgstr "Denemo versão 2.3 lançado"
+
+#. #echo 
+#. encoding="none" var="LINK_CLOSE" 
+#. type: Content of: <ul><li><ul><li>
+msgid "Richard Shann"
+msgstr "Richard Shann"
+
+#. type: Content of: <ul><li>
+msgid "<strong>July 13, 2019</strong>"
+msgstr "<strong>13 de julho de 2019</strong>"
+
+#. #set var="LINK" 
+#. value='<a href="//lists.gnu.org/archive/html/info-gnu/2019-07/msg00006.html">' 
+#. #echo 
+#. encoding="none" var="LINK" 
+#. type: Content of: <ul><li><ul><li>
+msgid "GNU direvent-5.2 released [stable]"
+msgstr "GNU direvent-5.2 lançado [estável]"
+
+#. #echo 
+#. encoding="none" var="LINK_CLOSE" 
+#. type: Content of: <ul><li><ul><li>
+msgid "Sergey Poznyakoff"
+msgstr "Sergey Poznyakoff"
+
+#. type: Content of: <ul><li>
+msgid "<strong>July 12, 2019</strong>"
+msgstr "<strong>12 de julho de 2019</strong>"
+
+#. #set var="LINK" 
+#. value='<a href="//lists.gnu.org/archive/html/info-gnu/2019-07/msg00005.html">' 
+#. #echo 
+#. encoding="none" var="LINK" 
+#. type: Content of: <ul><li><ul><li>
+msgid "rush-2.1 released [stable]"
+msgstr "rush-2.1 lançado [estável]"
+
+#. type: Content of: <ul><li>
+msgid "<strong>July 09, 2019</strong>"
+msgstr "<strong>09 de julho de 2019</strong>"
+
+#. #set var="LINK" 
+#. value='<a href="//lists.gnu.org/archive/html/info-gnu/2019-07/msg00004.html">' 
+#. #echo 
+#. encoding="none" var="LINK" 
+#. type: Content of: <ul><li><ul><li>
+msgid "GnuPG 2.2.17 released to mitigate attacks on keyservers"
+msgstr "GnuPG 2.2.17 lançado para mitigar ataques em servidores de chaves"
+
+#. #echo 
+#. encoding="none" var="LINK_CLOSE" 
+#. type: Content of: <ul><li><ul><li>
+msgid "Werner Koch"
+msgstr "Werner Koch"
+
+#. type: Content of: <ul><li>
+msgid "<strong>July 08, 2019</strong>"
+msgstr "<strong>08 de julho de 2019</strong>"
+
+#. #set var="LINK" 
+#. value='<a href="//lists.gnu.org/archive/html/info-gnu/2019-07/msg00003.html">' 
+#. #echo 
+#. encoding="none" var="LINK" 
+#. type: Content of: <ul><li><ul><li>
+msgid "GNU Linux-libre 5.2-gnu"
+msgstr "GNU Linux-libre 5.2-gnu"
+
+#. #echo 
+#. encoding="none" var="LINK_CLOSE" 
+#. type: Content of: <ul><li><ul><li>
+msgid "Alexandre Oliva"
+msgstr "Alexandre Oliva"
+
+#. type: Content of: <ul><li>
+msgid "<strong>July 07, 2019</strong>"
+msgstr "<strong>07 de julho de 2019</strong>"
+
+#. #set var="LINK" 
+#. value='<a href="//lists.gnu.org/archive/html/info-gnu/2019-07/msg00002.html">' 
+#. #echo 
+#. encoding="none" var="LINK" 
+#. type: Content of: <ul><li><ul><li>
+msgid "GNU gama 2.06 released"
+msgstr "GNU gama 2.06 lançado"
+
+#. #echo 
+#. encoding="none" var="LINK_CLOSE" 
+#. type: Content of: <ul><li><ul><li>
+msgid "Ales Cepek"
+msgstr "Ales Cepek"
 
 #. type: Content of: <ul><li>
 msgid "<strong>July 02, 2019</strong>"
@@ -27,12 +147,6 @@ msgstr "<strong>02 de julho de 2019</strong>"
 #. type: Content of: <ul><li><ul><li>
 msgid "pies-1.4 released [stable]"
 msgstr "pies-1.4 lançado [estável]"
-
-#. #echo 
-#. encoding="none" var="LINK_CLOSE" 
-#. type: Content of: <ul><li><ul><li>
-msgid "Sergey Poznyakoff"
-msgstr "Sergey Poznyakoff"
 
 #. type: Content of: <ul><li>
 msgid "<strong>July 01, 2019</strong>"
@@ -75,12 +189,6 @@ msgstr "<strong>28 de junho de 2019</strong>"
 #. type: Content of: <ul><li><ul><li>
 msgid "GNU Stow 2.3.0 released"
 msgstr "GNU Stow 2.3.0 lançado"
-
-#. #echo 
-#. encoding="none" var="LINK_CLOSE" 
-#. type: Content of: <ul><li><ul><li>
-msgid "Adam Spiers"
-msgstr "Adam Spiers"
 
 #. type: Content of: <ul><li>
 msgid "<strong>June 27, 2019</strong>"
@@ -256,9 +364,6 @@ msgstr "Paul Hardy"
 #~ msgid "GnuPG 2.2.16 released"
 #~ msgstr "GnuPG 2.2.16 lançado"
 
-#~ msgid "Werner Koch"
-#~ msgstr "Werner Koch"
-
 #~ msgid "<strong>May 23, 2019</strong>"
 #~ msgstr "<strong>23 de maio de 2019</strong>"
 
@@ -336,12 +441,6 @@ msgstr "Paul Hardy"
 
 #~ msgid "LibreJS 7.20.1 released"
 #~ msgstr "LibreJS 7.20.1 lançado"
-
-#~ msgid "GNU Linux-libre 5.1-gnu"
-#~ msgstr "GNU Linux-libre 5.1-gnu"
-
-#~ msgid "Alexandre Oliva"
-#~ msgstr "Alexandre Oliva"
 
 #~ msgid "<strong>May 03, 2019</strong>"
 #~ msgstr "<strong>03 de maio de 2019</strong>"

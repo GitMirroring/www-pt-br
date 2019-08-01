@@ -5,8 +5,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: planetfeeds.html\n"
-"POT-Creation-Date: 2019-07-04 06:56+0000\n"
-"PO-Revision-Date: 2019-07-04 12:15-0200\n"
+"POT-Creation-Date: 2019-07-29 04:56+0000\n"
+"PO-Revision-Date: 2019-07-29 10:12-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <gnome-pt_br-list@gnome.org>\n"
 "Language: pt_BR\n"
@@ -17,52 +17,177 @@ msgstr ""
 "X-Generator: Virtaal 1.0.0-beta1\n"
 
 #. type: Content of: <p>
-msgid "Version 2.0"
-msgstr "Versão 2.0"
+msgid "GNU Stow 2.3.1 released"
+msgstr "GNU Stow 2.3.1 lançado"
 
 #.  TRANSLATORS: 
-#. http://savannah.gnu.org/forum/forum.php?forum_id=9461 
+#. http://savannah.gnu.org/forum/forum.php?forum_id=9513 
 #. type: Content of: <p>
 msgid ""
-": Version 2.0 is available for download from GNU and Puszcza archives. This "
-"release features a complete rewrite of the configuration support. It "
-"introduces a new configuration file..."
+": This release improves ease of installation by dropping some module "
+"dependencies which were introduced in 2.3.0. It also fixes an issue with the "
+"test suite, and improv..."
 msgstr ""
-": A versão 2.0 está disponível para download nos arquivos GNU e Puszcza. "
-"Este lançamento apresenta uma completa reescrita do suporte a configuração. "
-"Ela introduz um novo arquivo..."
+": Esta versão melhora a facilidade de instalação, descartando algumas "
+"dependências do módulo que foram introduzidas no 2.3.0. Também corrige um "
+"problema com o conjunto..."
 
 #. type: Content of: <p>
-msgid "GNU Guile 2.2.6 released"
-msgstr "GNU Guile 2.2.6 lançado"
+msgid "GNU Spotlight with Mike Gerwitz: 16 new GNU releases in July!"
+msgstr "Holofote GNU com Mike Gerwitz: 16 novos lançamentos GNU em julho!"
 
 #.  TRANSLATORS: 
-#. https://www.gnu.org/software/guile/news/gnu-guile-226-released.html 
+#. http://www.fsf.org/blogs/community/gnu-spotlight-with-mike-gerwitz-16-new-gnu-releases-in-july 
 #. type: Content of: <p>
 msgid ""
-": We are pleased to announce GNU Guile 2.2.6, the sixth bug-fix release in "
-"the new 2.2 stable release series. This release represents 11 commits by 4 "
-"people since vers..."
+": * denemo-2.3.0 * direvent-5.2 * gama-2.06 * gnunet-0.11.6 * gnupg-2.2.17 * "
+"grub-2.04 * guile-2.2.6 * libmicrohttpd-0.9.65 * libt..."
 msgstr ""
-": Estamos muito felizes em anunciar o GNU Guile 2.2.4, a quarta versão de "
-"correção de bugs da nova série de lançamentos estáveis 2.2. Esse lançamento "
-"representa 11 comm..."
+": * denemo-2.3.0 * direvent-5.2 * gama-2.06 * gnunet-0.11.6 * gnupg-2.2.17 * "
+"grub-2.04 * guile-2.2.6 * libmicrohttpd-0.9.65 * libt..."
 
 #. type: Content of: <p>
-msgid "Malayalam team re-established"
-msgstr "Equipe Malaiala reestabelecida"
+msgid ""
+"Strengthen free software by telling Congress to reject the STRONGER Patents "
+"Act"
+msgstr ""
+"Fortaleça o software livre dizendo ao Congresso para rejeitar a Lei de "
+"Patentes MAIS FORTE"
 
 #.  TRANSLATORS: 
-#. http://savannah.gnu.org/forum/forum.php?forum_id=9459 
+#. http://www.fsf.org/blogs/community/strengthen-free-software-by-telling-congress-to-reject-the-stronger-patents-act 
 #. type: Content of: <p>
 msgid ""
-": After more than 8 years of being orphaned, Malayalam team is active again. "
-"The new team leader, Aiswarya Kaitheri Kandoth, made a new translation of "
-"the Free So..."
+": The Free Software Foundation (FSF) has long been opposed to the ways in "
+"which US and international patent law..."
 msgstr ""
-": Após mais de 8 anos estando órfã, a equipe do Malaiala está ativa "
-"novamente. A nova líder da equipe, Aiswarya Kaitheri Kandoth, fez uma nova "
-"tradução da Free Software..."
+": A Free Software Foundation (FSF) opõe-se há muito tempo às maneiras pelas "
+"quais a lei de patentes dos EUA e int..."
+
+#, fuzzy
+#~| msgid "Summer internships at the FSF! Apply by April 30"
+#~ msgid "Fall internships at the FSF! Apply by September 2"
+#~ msgstr "Estágio de verão na FSF! Candidate-se até 30 de abril"
+
+#, fuzzy
+#~| msgid ""
+#~| ": Do you believe that free software is crucial to a free society? Do you "
+#~| "want to help people learn why free software matters, and how to use it..."
+#~ msgid ""
+#~ ": Do you believe that free software is crucial to a free society? Do you "
+#~ "want to help people understand why free software matters, and how to..."
+#~ msgstr ""
+#~ ": Você acredita que o software livre é crucial para uma sociedade livre? "
+#~ "Você quer ajudar as pessoas a aprenderem por que o software livre é im..."
+
+#~ msgid "Planet clean-up"
+#~ msgstr "Limpeza do Planet"
+
+#~ msgid ""
+#~ ": I did some clean-up / resync on the planet.gnu.org setup * Fix issue "
+#~ "with newer https websites (SNI) * Re-sync Debian base config, scripts and "
+#~ "packaging, update documentation..."
+#~ msgstr ""
+#~ ": Eu fiz alguma limpeza / ressincronização na configuração do planet.gnu."
+#~ "org * Corrigi problema com novos sites https (SNI) * Ressincronização da "
+#~ "configuração base do Debian, scripts e pacotes, documentação de "
+#~ "atualização..."
+
+#~ msgid "[From Arch] libbloom&gt;=1.6-2 update requires manual intervention"
+#~ msgstr ""
+#~ "[Do Arch] Atualização do libbloom&gt;=1.6-2 exige intervenção manual"
+
+#~ msgid ""
+#~ ": The libbloom package prior to version 1.6-2 was missing a soname link. "
+#~ "This has been fixed in 1.6-2, so the upgrade will ne..."
+#~ msgstr ""
+#~ ": O pacote libbloom antes da versão 1.6-2 não possuía um link de soname. "
+#~ "Isso foi corrigido em 1.6-2, então a atualização..."
+
+#~ msgid "Version 2.1"
+#~ msgstr "Versão 2.1"
+
+#~ msgid ""
+#~ ": Version 2.1 is available for download from GNU and Puszcza archives. "
+#~ "This version fixes several minor bugs that appeared in previous release "
+#~ "2.0."
+#~ msgstr ""
+#~ ": A versão 2.1 está disponível para download nos arquivos GNU e Puszcza. "
+#~ "Este lançamento corrige erros menores que aparecem no lançamento anterior "
+#~ "2.0."
+
+#~ msgid "Towards Guix for DevOps"
+#~ msgstr "Avançar o Guix para DevOps"
+
+#~ msgid ""
+#~ ": Hey, there! I&#39;m Jakob, a Google Summer of Code intern and new "
+#~ "contributor to Guix. Since May, I&#39;ve been working on a DevOps "
+#~ "automation tool for the Guix Syste..."
+#~ msgstr ""
+#~ ": Olá! Sou Jakob, estagiário do Google Summer of Code e novo colaborador "
+#~ "do Guix. Desde maio, venho trabalhando em uma ferramenta de automação "
+#~ "DevOps para o Guix Syste..."
+
+#~ msgid "June 2019: Photos from Brno"
+#~ msgstr "Junho de 2019: Fotos de Brno"
+
+#~ msgid ""
+#~ ": Free Software Foundation president Richard Stallman (RMS) was in Brno, "
+#~ "Czech Republic on June 6, 2019, to give two speeches. In the morning, he "
+#~ "took part in the U..."
+#~ msgstr ""
+#~ ": O presidente da Free Software Foundation, Richard Stallman (RMS), "
+#~ "estava em Brno, na República Checa, em 6 de junho de 2019 para duas "
+#~ "palestras. Na manhã, ele..."
+
+#~ msgid "Racket is an acceptable Python"
+#~ msgstr "Racket é um Python aceitável"
+
+#~ msgid ""
+#~ ": A little over a decade ago, there were some popular blogposts about "
+#~ "whether Ruby was an acceptable Lisp or whether even Lisp was an "
+#~ "acceptable Lisp.  Peter Norv..."
+#~ msgstr ""
+#~ ": Há pouco mais de uma década, havia alguns posts populares sobre se Ruby "
+#~ "era um Lisp aceitável ou se Lisp era um Lisp aceitável. Peter Norv..."
+
+#~ msgid ""
+#~ "Thank you for advancing free software: Read FSF spring news in the latest "
+#~ "Bulletin"
+#~ msgstr ""
+#~ "Obrigado por avançar o software livre: Leia as notícias da primavera da "
+#~ "FSF no Boletim mais recente"
+
+#~ msgid ""
+#~ ": Our Bulletin highlights some important activities and issues in free "
+#~ "software over the last six months, inc..."
+#~ msgstr ""
+#~ "Nosso Boletim destaca algumas atividades e questões importantes no "
+#~ "software livre nos últimos seis meses, inc..."
+
+#~ msgid "GNU Guile 2.2.6 released"
+#~ msgstr "GNU Guile 2.2.6 lançado"
+
+#~ msgid ""
+#~ ": We are pleased to announce GNU Guile 2.2.6, the sixth bug-fix release "
+#~ "in the new 2.2 stable release series. This release represents 11 commits "
+#~ "by 4 people since vers..."
+#~ msgstr ""
+#~ ": Estamos muito felizes em anunciar o GNU Guile 2.2.4, a quarta versão de "
+#~ "correção de bugs da nova série de lançamentos estáveis 2.2. Esse "
+#~ "lançamento representa 11 comm..."
+
+#~ msgid "Malayalam team re-established"
+#~ msgstr "Equipe Malaiala reestabelecida"
+
+#~ msgid ""
+#~ ": After more than 8 years of being orphaned, Malayalam team is active "
+#~ "again. The new team leader, Aiswarya Kaitheri Kandoth, made a new "
+#~ "translation of the Free So..."
+#~ msgstr ""
+#~ ": Após mais de 8 anos estando órfã, a equipe do Malaiala está ativa "
+#~ "novamente. A nova líder da equipe, Aiswarya Kaitheri Kandoth, fez uma "
+#~ "nova tradução da Free Software..."
 
 #~ msgid "How do Spritely&#39;s actor and storage layers tie together?"
 #~ msgstr "Como as camadas de ator e armazenamento do Spritely se unem?"
@@ -233,11 +358,6 @@ msgstr ""
 #~ msgstr ""
 #~ ": As campanhas do movimento de software livre para a liberdade dos "
 #~ "usuários de computador para cooperar e cont..."
-
-#, fuzzy
-#~| msgid "GNU Spotlight with Mike Gerwitz: 15 new GNU releases in April!"
-#~ msgid "GNU Spotlight with Mike Gerwitz: 18 new GNU releases in May!"
-#~ msgstr "Holofote GNU com Mike Gerwitz: 15 novos lançamentos GNU em abril!"
 
 #, fuzzy
 #~| msgid ""
@@ -448,16 +568,6 @@ msgstr ""
 #~ ": Desde o início do software livre, com o anúncio de Richard Stallman do "
 #~ "Projeto GNU em 1984, a comunidade tem sido uma parte central..."
 
-#~ msgid "Summer internships at the FSF! Apply by April 30"
-#~ msgstr "Estágio de verão na FSF! Candidate-se até 30 de abril"
-
-#~ msgid ""
-#~ ": Do you believe that free software is crucial to a free society? Do you "
-#~ "want to help people learn why free software matters, and how to use it..."
-#~ msgstr ""
-#~ ": Você acredita que o software livre é crucial para uma sociedade livre? "
-#~ "Você quer ajudar as pessoas a aprenderem por que o software livre é im..."
-
 #~ msgid "2019-04-03: GNUnet 0.11.1 released"
 #~ msgstr "2019-04-03: GNUnet 0.11.1 lançado"
 
@@ -622,9 +732,6 @@ msgstr ""
 #~ msgstr ""
 #~ ": Prezados, tenho o orgulho de anunciar a disponibilidade do Thalamus "
 #~ "0.9.8, que foi migrado do MongoDB para agora interagir com..."
-
-#~ msgid "GNU Health HMIS 3.4.1 released"
-#~ msgstr "GNU Health HMIS 3.4.1 lançado"
 
 #~ msgid ""
 #~ ": Dear community GNU Health HMIS 3.4.1 patchset has been released ! "
@@ -1834,18 +1941,6 @@ msgstr ""
 #~ "OR)"
 #~ msgstr "Molly de Blanc - “Qual a história com Munique?” (Portland, OR)"
 
-#~ msgid ""
-#~ "[From Arch] libutf8proc&gt;=2.1.1-3 update requires manual intervention"
-#~ msgstr ""
-#~ "[Do Arch] Atualização do libutf8proc&gt;=2.1.1-3 exige intervenção manual"
-
-#~ msgid ""
-#~ ": The libutf8proc package prior to version 2.1.1-3 had an incorrect "
-#~ "soname link. This has been fixed in 2.1.1-3, so the..."
-#~ msgstr ""
-#~ ": O pacote libutf8proc antes da versão 2.1.1-3 tinha um vínculo de soname "
-#~ "incorreto. Isso foi corrigido no 2.1.1-3, então o..."
-
 #~ msgid "Revealing unknown DWG classes"
 #~ msgstr "Revelando classes DWG desconhecidos"
 
@@ -1911,18 +2006,6 @@ msgstr ""
 #~ ": Recentemente pedimos que você contatasse seus Membros do Parlamento "
 #~ "Europeu (MEPs) para expressar sua oposição à Diretiva de Direitos "
 #~ "Autorais, uma propo..."
-
-#~ msgid "May 2018: Photos from Brazil and Argentina"
-#~ msgstr "Maio de 2018: Fotos do Brasil e da Argentina"
-
-#~ msgid ""
-#~ ": Free Software Foundation president Richard Stallman (RMS) went on a 12-"
-#~ "city visit to Brazil and Argentina this past May and June. The trip took "
-#~ "him..."
-#~ msgstr ""
-#~ ": O presidente da Free Software Foundation, Richard Stallman (RMS), fez "
-#~ "uma visita de 12 cidades ao Brasil e à Argentina em maio e junho. A "
-#~ "viagem levou ele..."
 
 #~ msgid ""
 #~ ": Version 1.16 has been released. This version improves free space "

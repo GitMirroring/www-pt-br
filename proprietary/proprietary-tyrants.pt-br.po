@@ -1,0 +1,252 @@
+# Brazilian Portuguese translation of https://www.gnu.org/proprietary/proprietary-tyrants.html
+# Copyright (C) 2019 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2019.
+# Cassiano Reinert Novais dos Santos <caco@posteo.net>, 2019. (proofread, #15220)
+msgid ""
+msgstr ""
+"Project-Id-Version: proprietary-tyrants.html\n"
+"POT-Creation-Date: 2019-01-05 11:26+0000\n"
+"PO-Revision-Date: 2019-03-22 12:27-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid "Proprietary Tyrants - GNU Project - Free Software Foundation"
+msgstr "Tiranos proprietários - Projeto GNU - Free Software Foundation"
+
+#. type: Content of: <h2>
+msgid "Proprietary Tyrants"
+msgstr "Tiranos proprietários"
+
+#. type: Content of: outside any tag (error?)
+msgid ""
+"<a href=\"/proprietary/proprietary.html\">Other examples of proprietary "
+"malware</a>"
+msgstr ""
+"<a href=\"/proprietary/proprietary.html\">Outros exemplos de <em>malwares</"
+"em> proprietários</a>"
+
+#. type: Content of: <div><p>
+msgid ""
+"Nonfree (proprietary) software is very often malware (designed to mistreat "
+"the user). Nonfree software is controlled by its developers, which puts them "
+"in a position of power over the users; <a href=\"/philosophy/free-software-"
+"even-more-important.html\">that is the basic injustice</a>. The developers "
+"often exercise that power to the detriment of the users they ought to serve."
+msgstr ""
+"O software não livre (proprietário) é muitas vezes um malware (projetado "
+"para maltratar o usuário). O software não livre é controlado por seus "
+"desenvolvedores, o que os coloca em uma posição de poder sobre os usuários; "
+"<a href=\"/philosophy/free-software-even-more-important.html\">isso é a "
+"injustiça básica</a>. Os desenvolvedores muitas vezes exercem esse poder em "
+"detrimento dos usuários que deveriam servir."
+
+#. type: Content of: <div><p>
+msgid ""
+"A <em>tyrant</em> device is one that refuses to allow users to install a "
+"different operating system or a modified operating system.  These devices "
+"have measures to block execution of anything other than the &ldquo;"
+"approved&rdquo; system versions.  We also refer to this practice as "
+"<em>tivoization</em>."
+msgstr ""
+"Um dispositivo <em>tirano</em> é aquele que se recusa a permitir que os "
+"usuários instalem um sistema operacional diferente ou um sistema operacional "
+"modificado. Esses dispositivos têm medidas para bloquear a execução de "
+"qualquer coisa que não seja uma versão de sistema “aprovada”. Também nos "
+"referimos a essa prática como <em>tivoização</em>."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"If you know of an example that ought to be in this page but isn't here, "
+"please write to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a> to inform us. Please include the URL of a trustworthy reference "
+"or two to serve as specific substantiation."
+msgstr ""
+"Se você conhece um exemplo que deveria estar nesta página, mas não está "
+"aqui, por favor escreva para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a> para nos informar. Por favor, inclua a URL ou "
+"duas de uma referência confiável para servir como comprovação específica."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"Microsoft accidentally left a way for users to install GNU/Linux on Windows "
+"RT tablets, but now it has <a href=\"http://www.securitynewspaper."
+"com/2016/07/15/microsoft-silently-kills-dev-backdoor-boots-linux-locked-"
+"windows-rt-slabs/\"> &ldquo;fixed&rdquo; the &ldquo;error&rdquo;</a>. They "
+"have the gall to call this &ldquo;protecting&rdquo; the users.  The article "
+"talks of installing &ldquo;Linux&rdquo;, but the context shows it is really "
+"<a href=\"/gnu/linux-and-gnu.html\">GNU/Linux</a> that users install."
+msgstr ""
+"A Microsoft acidentalmente deixou uma forma de os usuários instalarem o GNU/"
+"Linux em tablets Windows RT, mas agora ela <a href=\"http://www."
+"securitynewspaper.com/2016/07/15/microsoft-silently-kills-dev-backdoor-boots-"
+"linux-locked-windows-rt-slabs/\"> “corrigiu” o “erro”</a>. Eles têm a "
+"ousadia de chamar isso de “proteger” os usuários. O artigo fala sobre a "
+"instalação do “Linux”, mas o contexto mostra que ele é realmente o <a href="
+"\"/gnu/linux-and-gnu.html\">GNU/Linux</a> que os usuários instalam."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"Apple arbitrarily <a href=\"http://9to5mac.com/2014/12/01/ios-8-1-signing-"
+"window-closed/\">blocks users from installing old versions of iOS</a>."
+msgstr ""
+"A Apple arbitrariamente <a href=\"http://9to5mac.com/2014/12/01/ios-8-1-"
+"signing-window-closed/\">bloqueia usuários de instalar versões antigas do "
+"iOS</a>."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"<a href=\"http://soylentnews.org/article.pl?sid=14/03/15/1912255\"> Intel "
+"processors will have tyrant software built in</a>."
+msgstr ""
+"<a href=\"http://soylentnews.org/article.pl?sid=14/03/15/1912255\"> "
+"Processadores da Intel terão software tirano embutido</a>."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"Motorola, then owned by Google, made <a href=\"http://blog.azimuthsecurity."
+"com/2013/04/unlocking-motorola-bootloader.html\"> Android phones that are "
+"tyrants</a> (though someone found a way to crack the restriction).  "
+"Fortunately, most Android devices are not tyrants."
+msgstr ""
+"A Motorola, então controlada pela Google, fez <a href=\"http://blog."
+"azimuthsecurity.com/2013/04/unlocking-motorola-bootloader.html\"> telefones "
+"Android que são tiranos</a> (embora alguém tenha encontrado uma maneira de "
+"quebrar a restrição). Felizmente, a maioria dos dispositivos Android não são "
+"tiranos."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"Samsung &ldquo;Smart&rdquo; TVs have <a href=\"https://wiki.samygo.tv/index."
+"php?title=SamyGO_for_DUMMIES#What_are_Restricted_Firmwares.3F\"> turned "
+"Linux into the base for a tyrant system</a> so as to impose DRM.  What "
+"enables Samsung to do this is that Linux is released under GNU GPL version "
+"2, <a href=\"/licenses/rms-why-gplv3.html\">not version 3</a>, together with "
+"a weak interpretation of GPL version 2."
+msgstr ""
+"TVs “Smart” da Samsung <a href=\"https://wiki.samygo.tv/index.php?"
+"title=SamyGO_for_DUMMIES#What_are_Restricted_Firmwares.3F\"> transformaram o "
+"Linux em base para um sistema tirano</a> para poder impor o DRM. O que "
+"permite que a Samsung faça isso é que o Linux é lançado sob a GNU GPL versão "
+"2, <a href=\"/licenses/rms-why-gplv3.html\">não a versão 3</a>, juntamente "
+"com uma interpretação fraca da GPL versão 2."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"Some LG TVs <a href=\"http://openlgtv.org.ru/wiki/index.php/Achievements"
+"\">are tyrants</a>."
+msgstr ""
+"Algumas TVs da LG <a href=\"http://openlgtv.org.ru/wiki/index.php/"
+"Achievements\">são tiranas</a>."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"The Apple iThings are tyrant devices.  There is a port of Android to the "
+"iThings, but installing it requires <a href=\"https://web.archive.org/"
+"web/20150721065208/http://www.idroidproject.org/wiki/Status\"> finding a bug "
+"or &ldquo;exploit&rdquo;</a> to make it possible to install a different "
+"system."
+msgstr ""
+"As iCoisas da Apple são dispositivos tiranos. Há uma porta do Android para "
+"as iCoisas, mas a instalação exige <a href=\"https://web.archive.org/"
+"web/20150721065208/http://www.idroidproject.org/wiki/Status\"> encontrar um "
+"erro ou <i lang=\"en\">“exploit”</i></a> para possibilitar a instalação de "
+"um sistema diferente."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"<a href=\"https://fsf.org/campaigns/secure-boot-vs-restricted-boot/\"> "
+"Mobile devices that come with Windows 8 are tyrants</a>."
+msgstr ""
+"<a href=\"https://fsf.org/campaigns/secure-boot-vs-restricted-boot/\"> "
+"Dispositivos móveis que vêm com o Windows 8 são tiranos</a>."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"<a href=\"https://www.defectivebydesign.org/sony\">The Playstation 3 is a "
+"tyrant</a>."
+msgstr ""
+"<a href=\"https://www.defectivebydesign.org/sony\">O Playstation 3 é um "
+"tirano</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid ""
+"Copyright &copy; 2014, 2015, 2016, 2017, 2018, 2019 Free Software "
+"Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2014, 2015, 2016, 2017, 2018, 2019 Free Software "
+"Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 "
+"International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by/4.0/deed.pt_BR\">Creative Commons Atribuição "
+"4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2019.Revisado por: Cassiano Reinert Novais dos "
+"Santos <a href=\"mailto:caco@posteo.net\">&lt;caco@posteo.net&gt;</a>, 2019."
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização:"

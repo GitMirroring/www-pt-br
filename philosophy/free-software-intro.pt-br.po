@@ -1,0 +1,201 @@
+# Brazilian Portuguese translation of http://www.gnu.org/philosophy/free-software-intro.html
+# Copyright (C) 2019 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2019.
+# Cassiano Reinert Novais dos Santos <caco@posteo.net>, 2019. (proofread, #15218)
+msgid ""
+msgstr ""
+"Project-Id-Version: free-software-intro.html\n"
+"POT-Creation-Date: 2014-03-14 04:33+0000\n"
+"PO-Revision-Date: 2019-07-30 06:00-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid "Free Software movement - GNU Project - Free Software Foundation"
+msgstr "Movimento Software Livre - Projeto GNU - Free Software Foundation"
+
+#. type: Content of: <h2>
+msgid "Free Software Movement"
+msgstr "Movimento Software Livre"
+
+#. type: Content of: <p>
+msgid ""
+"People use free software operating systems such as <a href=\"/gnu/linux-and-"
+"gnu.html\">GNU/Linux</a> for various reasons.  Many users switch for "
+"practical reasons: because the system is powerful, because it is reliable, "
+"or for the convenience of being able to change the software to do what you "
+"need."
+msgstr ""
+"As pessoas usam sistemas operacionais de software livre, como o <a href=\"/"
+"gnu/linux-and-gnu.html\">GNU/Linux</a>, por vários motivos. Muitos usuários "
+"mudam por razões práticas: porque o sistema é poderoso, porque é confiável, "
+"ou pela conveniência de poder alterar o software para fazer o que você "
+"precisa."
+
+#. type: Content of: <p>
+msgid ""
+"Those are good reasons&mdash;but there is more at stake than just "
+"convenience.  What's at stake is your freedom, and your community."
+msgstr ""
+"Essas são boas razões &ndash; mas há mais em jogo do que apenas "
+"conveniência. O que está em jogo é sua liberdade e sua comunidade."
+
+#. type: Content of: <p>
+msgid ""
+"The idea of the Free Software Movement is that computer users <a href=\"/"
+"philosophy/why-free.html\">deserve the freedom to form a community</a>.  You "
+"should have the freedom to help yourself, by changing the source code to do "
+"whatever you need to do.  And the freedom to help your neighbor, by "
+"redistributing copies of programs to other people.  Also the freedom to help "
+"build your community, by publishing improved versions so that other people "
+"can use them."
+msgstr ""
+"A ideia do Movimento Software Livre é que os usuários de computador <a href="
+"\"/philosophy/why-free.html\">merecem a liberdade de formar uma comunidade</"
+"a>. Você deve ter a liberdade de ajudar a si mesmo, alterando o código-fonte "
+"para fazer o que for necessário. E a liberdade de ajudar o próximo, "
+"redistribuindo cópias de programas para outras pessoas. Também a liberdade "
+"de ajudar a construir sua comunidade, publicando versões aprimoradas para "
+"que outras pessoas possam usá-las."
+
+#. type: Content of: <p>
+msgid ""
+"Whether a program is free software depends mainly on its license.  However, "
+"a program can also be non-free because you don't have access to its source "
+"code, or because hardware won't let you put a modified version into use "
+"(this is called &ldquo;tivoization&rdquo;)."
+msgstr ""
+"Se um programa é software livre depende principalmente de sua licença. No "
+"entanto, um programa também pode ser não livre porque você não tem acesso ao "
+"seu código-fonte, ou porque o hardware não permite que você coloque uma "
+"versão modificada em uso (isso é chamado de “tivoização”)."
+
+#. type: Content of: <p>
+msgid ""
+"Our <a href=\"/philosophy/free-sw.html\">detailed definition</a> of free "
+"software shows how we evaluate a license to see if it makes programs free "
+"software.  We also have articles about <a href=\"/philosophy/essays-and-"
+"articles.html#LicensingFreeSoftware\">certain specific licenses</a> "
+"explaining the advantages and disadvantages of some licenses that do "
+"qualify, and why some other licenses are too restrictive to qualify."
+msgstr ""
+"Nossa <a href=\"/philosophy/free-sw.html\">definição detalhada</a> de "
+"software livre mostra como avaliamos uma licença para ver se ela torna o "
+"programa software livre. Também temos artigos sobre <a href=\"/philosophy/"
+"essays-and-articles.html#LicensingFreeSoftware\">certas licenças "
+"específicas</a> explicando as vantagens e desvantagens de algumas licenças "
+"que se qualificam e por que outras licenças também são muito restritivas "
+"para se qualificar."
+
+#. type: Content of: <p>
+msgid ""
+"In 1998 the term &ldquo;open source&rdquo; was coined and associated with <a "
+"href=\"/philosophy/open-source-misses-the-point.html\">views considerably "
+"different from ours</a>.  These views cite only the practical advantages of "
+"free software, and carefully avoid the deeper issues of freedom and social "
+"solidarity that the Free Software Movement raises.  The idea of open source "
+"is good as far as it goes, but it only scratches the surface of the issue.  "
+"We don't mind working with supporters of open source on practical activities "
+"such as software development, but we do not agree with their views, and we "
+"decline to operate under their name."
+msgstr ""
+"Em 1998, o termo “código aberto” <i lang=\"en\">(open source)</i> foi criado "
+"e associado a <a href=\"/philosophy/open-source-misses-the-point.html"
+"\">visões consideravelmente diferentes das nossas</a>. Essas visões citam "
+"apenas as vantagens práticas do software livre e evitam cuidadosamente as "
+"questões mais profundas de liberdade e solidariedade social que o Movimento "
+"do Software Livre levanta. A ideia de código aberto é boa até onde vai, mas "
+"apenas risca a superfície do problema. Não nos importamos em trabalhar com "
+"os defensores do código aberto em atividades práticas como o desenvolvimento "
+"de software, mas não concordamos com seus pontos de vista e nos recusamos a "
+"operar com o nome deles."
+
+#. type: Content of: <p>
+msgid ""
+"If you think that freedom and community are important for their own sake, "
+"please join us in proudly using the term &ldquo;free software&rdquo;, and "
+"help spread the word."
+msgstr ""
+"Se você acha que a liberdade e a comunidade são importantes por si só, junte-"
+"se a nós com orgulho usando o termo “software livre” e ajude a espalhar a "
+"palavra."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid ""
+"Copyright &copy; 1999, 2007, 2008, 2009, 2010 Free Software Foundation, Inc."
+msgstr ""
+"Copyright &copy; 1999, 2007, 2008, 2009, 2010 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+"NoDerivs 3.0 United States License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2019.Revisado por: Cassiano Reinert Novais dos "
+"Santos <a href=\"mailto:caco@posteo.net\">&lt;caco@posteo.net&gt;</a>, 2019."
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização:"
