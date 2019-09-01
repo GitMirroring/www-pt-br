@@ -36,22 +36,22 @@ GNUDIR=${1:-$HOME/GNU/sync}
 wwwdir=$GNUDIR/www
 teamdir=$GNUDIR/www-pt-br
 
-if [ ! -d $GNUDIR ]; then
+if [ ! -d "$GNUDIR" ]; then
     echo "Diretório raiz inválido \"GNUDIR = $GNUDIR\""
     exit 1
 fi
-if [ ! -d $wwwdir ]; then
+if [ ! -d "$wwwdir" ]; then
     echo "Falha em encontrar o repositório web GNU oficial \"wwwdir = $wwwdir\""
     exit 1
 fi
-if [ ! -d $teamdir ]; then
+if [ ! -d "$teamdir" ]; then
     echo "Falha em encontrar o repositório web GNU brasileiro \"teamdir = $teamdir\""
     exit 1
 fi
 
-wwwpofiles=$(find $wwwdir/ -type f -name '*.pt-br.po' | sed "s|$wwwdir/||g;s|po/||g" | sort)
+wwwpofiles=$(find "$wwwdir" -type f -name '*.pt-br.po' | sed "s|$wwwdir/||g;s|po/||g" | sort)
 
-teampofiles=$(find $teamdir/ -type f -name '*.pt-br.po' | sed "s|$teamdir/||g" | sort)
+teampofiles=$(find "$teamdir" -type f -name '*.pt-br.po' | sed "s|$teamdir/||g" | sort)
 
 allmissing=$(echo "$wwwpofiles $teampofiles" | tr ' ' '\n' | sort | uniq -u | tr '\n' ' ')
 missingwww=""
@@ -73,7 +73,7 @@ echo "*** Arquivos PO disponíveis no teamdir, mas faltando no wwwdir:"
 if [ -z "$missingwww" ]; then
     echo "Nada, tudo ok aqui."
 else
-    echo "$(echo $missingwww | tr ' ' '\n')"
+    echo "$missingwww" | tr ' ' '\n'
 fi
 
 echo ""
@@ -82,13 +82,13 @@ echo "*** Arquivos PO disponíveis no wwwdir, mas faltando no teamdir:"
 if [ -z "$missingteam" ]; then
     echo "Nada, tudo ok aqui."
 else
-    echo "$(echo $missingteam | tr ' ' '\n')"
+    echo "$missingteam" | tr ' ' '\n'
     echo ""
     echo ""
     echo "  Dica: Você pode copiar o arquivo de wwwdir para teamdir usando:"
     echo ""
     echo "   f=arquivo.po"
-    echo '   cp ../www/$(dirname $f)/po/$(basename $f) $f'
+    echo "   cp ../www/$(dirname \$f)/po/$(basename \$f) \$f"
     echo ""
     echo "  sendo 'arquivo.po' o nome, com o caminho relativo, informado"
     echo "  acima como presente no wwwdir e ausente no teamdir."
