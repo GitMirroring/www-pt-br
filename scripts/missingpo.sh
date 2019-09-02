@@ -33,8 +33,8 @@
 # 
 
 GNUDIR=${1:-$HOME/GNU/sync}
-wwwdir=$GNUDIR/www
-teamdir=$GNUDIR/www-pt-br
+wwwdir="$GNUDIR/www"
+teamdir="$GNUDIR/www-pt-br"
 
 if [ ! -d "$GNUDIR" ]; then
     echo "Diretório raiz inválido \"GNUDIR = $GNUDIR\""
@@ -49,9 +49,9 @@ if [ ! -d "$teamdir" ]; then
     exit 1
 fi
 
-wwwpofiles=$(find "$wwwdir" -type f -name '*.pt-br.po' | sed "s|$wwwdir/||g;s|po/||g" | sort)
+wwwpofiles=$(find "$wwwdir/" -type f -name '*.pt-br.po' | sed "s|$wwwdir/||g;s|po/||g" | sort)
 
-teampofiles=$(find "$teamdir" -type f -name '*.pt-br.po' | sed "s|$teamdir/||g" | sort)
+teampofiles=$(find "$teamdir/" -type f -name '*.pt-br.po' | sed "s|$teamdir/||g" | sort)
 
 allmissing=$(echo "$wwwpofiles $teampofiles" | tr ' ' '\n' | sort | uniq -u | tr '\n' ' ')
 missingwww=""
@@ -87,8 +87,8 @@ else
     echo ""
     echo "  Dica: Você pode copiar o arquivo de wwwdir para teamdir usando:"
     echo ""
-    echo "   f=arquivo.po"
-    echo "   cp ../www/$(dirname \$f)/po/$(basename \$f) \$f"
+    echo "    f=arquivo.po"
+    echo "    cp ../www/\$(dirname \$f)/po/\$(basename \$f) \$f"
     echo ""
     echo "  sendo 'arquivo.po' o nome, com o caminho relativo, informado"
     echo "  acima como presente no wwwdir e ausente no teamdir."
