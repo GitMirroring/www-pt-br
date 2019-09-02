@@ -1,12 +1,12 @@
 # Brazilian Portuguese translation of https://www.gnu.org/server/source/source.html
 # Copyright (C) 2018 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2018.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: source.html\n"
-"POT-Creation-Date: 2017-09-20 10:56+0000\n"
-"PO-Revision-Date: 2018-07-26 05:04-0300\n"
+"POT-Creation-Date: 2019-08-16 22:25+0000\n"
+"PO-Revision-Date: 2019-08-24 14:41-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -64,6 +64,56 @@ msgstr ""
 "completa ou parcial da web www.gnu.org. Consulte a <a href=\"https://"
 "savannah.gnu.org/cvs/?group=www\">página CVS do Savannah</a>, a informação "
 "sobre “repositório de páginas web”."
+
+#. type: Content of: <h3>
+msgid "<a id=\"find_duplicate_links\">find_duplicate_links</a>"
+msgstr "<a id=\"find_duplicate_links\">find_duplicate_links</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/server/source/"
+"find_duplicate_links/?root=www\">Source code</a>"
+msgstr ""
+"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/server/source/"
+"find_duplicate_links/?root=www\">Código-fonte</a>"
+
+#. type: Content of: <ul><li>
+msgid "Author: <a href=\"mailto:felicien@gnu.org\">F&eacute;licien Pillot</a>"
+msgstr "Autor: <a href=\"mailto:felicien@gnu.org\">Félicien Pillot</a>"
+
+#. type: Content of: <p>
+msgid ""
+"This Perl script scans every file under <a href=\"/proprietary\">/"
+"proprietary</a> to check if an URL is used twice in the same page. It runs "
+"monthly on fencepost from user felicien's cron."
+msgstr ""
+"Esse script Perl verifica todos os arquivos em <a href=\"/proprietary\">/"
+"proprietary</a> para verificar se uma URL é usada duas vezes na mesma "
+"página. É executado mensalmente no fencepost pelo cron do usuário felicien."
+
+#. type: Content of: <h3>
+msgid "<a id=\"make_patch_addresses\">make_patch_addresses</a>"
+msgstr "<a id=\"make_patch_addresses\">make_patch_addresses</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/server/source/"
+"make_patch_addresses/?root=www\">Source code</a>"
+msgstr ""
+"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/server/source/"
+"make_patch_addresses/?root=www\">Código-fonte</a>"
+
+#. type: Content of: <p>
+msgid ""
+"This script can be ran from a GNU package webroot to replace wrong broken "
+"links reporting addresses (webmasters@gnu.org) by good ones (i.e. project "
+"mailing list). Patches can then be applied by webmasters or package "
+"maintainers."
+msgstr ""
+"Esse script pode ser executado a partir de uma página raiz de pacotes do "
+"GNU, para substituir endereços de relatórios de links quebrados incorretos "
+"(webmasters@gnu.org) por bons (por exemplo, lista de discussão do projeto). "
+"Os patches podem ser aplicados por webmasters ou mantenedores de pacotes."
 
 #. type: Content of: <h3>
 msgid "<a id=\"linc\">linc</a>"
@@ -277,10 +327,9 @@ msgstr ""
 "\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
 "envio de traduções das páginas desse site."
 
-# | Copyright &copy; 2014, 2015, [-2016,-] 2017 Free Software Foundation, Inc.
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2014, 2015, 2017 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2014, 2015, 2017 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2014, 2015, 2017, 2019 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2014, 2015, 2017, 2019 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -297,9 +346,12 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
-"rafaelff@gnome.org&gt;</a>, 2018."
+"rafaelff@gnome.org&gt;</a>, 2018, 2019."
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid "Copyright &copy; 2014, 2015, 2017 Free Software Foundation, Inc."
+#~ msgstr "Copyright &copy; 2014, 2015, 2017 Free Software Foundation, Inc."

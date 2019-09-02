@@ -5,8 +5,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: planetfeeds.html\n"
-"POT-Creation-Date: 2019-07-29 04:56+0000\n"
-"PO-Revision-Date: 2019-07-29 10:12-0200\n"
+"POT-Creation-Date: 2019-08-29 04:56+0000\n"
+"PO-Revision-Date: 2019-08-29 07:54-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <gnome-pt_br-list@gnome.org>\n"
 "Language: pt_BR\n"
@@ -17,52 +17,223 @@ msgstr ""
 "X-Generator: Virtaal 1.0.0-beta1\n"
 
 #. type: Content of: <p>
-msgid "GNU Stow 2.3.1 released"
-msgstr "GNU Stow 2.3.1 lançado"
+msgid "Alexandre Oliva joins Free Software Foundation board of directors"
+msgstr ""
+"Alexandre Oliva se juntou ao conselho de diretores da Free Software "
+"Foundation"
 
 #.  TRANSLATORS: 
-#. http://savannah.gnu.org/forum/forum.php?forum_id=9513 
+#. http://www.fsf.org/news/alexandre-oliva-joins-free-software-foundation-board-of-directors 
 #. type: Content of: <p>
 msgid ""
-": This release improves ease of installation by dropping some module "
-"dependencies which were introduced in 2.3.0. It also fixes an issue with the "
-"test suite, and improv..."
+": The full list of FSF board members can be found at https://www.fsf.org/"
+"about/staff-and-board. A longtime free software activ..."
 msgstr ""
-": Esta versão melhora a facilidade de instalação, descartando algumas "
-"dependências do módulo que foram introduzidas no 2.3.0. Também corrige um "
-"problema com o conjunto..."
-
-#. type: Content of: <p>
-msgid "GNU Spotlight with Mike Gerwitz: 16 new GNU releases in July!"
-msgstr "Holofote GNU com Mike Gerwitz: 16 novos lançamentos GNU em julho!"
-
-#.  TRANSLATORS: 
-#. http://www.fsf.org/blogs/community/gnu-spotlight-with-mike-gerwitz-16-new-gnu-releases-in-july 
-#. type: Content of: <p>
-msgid ""
-": * denemo-2.3.0 * direvent-5.2 * gama-2.06 * gnunet-0.11.6 * gnupg-2.2.17 * "
-"grub-2.04 * guile-2.2.6 * libmicrohttpd-0.9.65 * libt..."
-msgstr ""
-": * denemo-2.3.0 * direvent-5.2 * gama-2.06 * gnunet-0.11.6 * gnupg-2.2.17 * "
-"grub-2.04 * guile-2.2.6 * libmicrohttpd-0.9.65 * libt..."
+": A lista completa de membros do conselho da FSF pode ser encontrada em "
+"https://www.fsf.org/about/staff-and-board. Um bom..."
 
 #. type: Content of: <p>
 msgid ""
-"Strengthen free software by telling Congress to reject the STRONGER Patents "
-"Act"
-msgstr ""
-"Fortaleça o software livre dizendo ao Congresso para rejeitar a Lei de "
-"Patentes MAIS FORTE"
+"Richard Stallman - &quot;Free Software and Your Freedom&quot; (Seattle, WA)"
+msgstr "Richard Stallman - “Software livre, sociedade livre” (Seattle, WA)"
 
 #.  TRANSLATORS: 
-#. http://www.fsf.org/blogs/community/strengthen-free-software-by-telling-congress-to-reject-the-stronger-patents-act 
+#. http://www.fsf.org/events/richard-stallman-free-software-and-your-freedom-seattle-wa-1 
 #. type: Content of: <p>
 msgid ""
-": The Free Software Foundation (FSF) has long been opposed to the ways in "
-"which US and international patent law..."
+": Richard Stallman will be speaking about free software and your freedom. "
+"His speech will be nontechnical, admission..."
 msgstr ""
-": A Free Software Foundation (FSF) opõe-se há muito tempo às maneiras pelas "
-"quais a lei de patentes dos EUA e int..."
+": Richard Stallman falará sobre software livre e sua liberdade. Sua palestra "
+"será não-técnica, admissã..."
+
+#. type: Content of: <p>
+msgid "GNU Spotlight with Mike Gerwitz: 15 new GNU releases in August!"
+msgstr "Holofote GNU com Mike Gerwitz: 15 novos lançamentos GNU em agosto!"
+
+#.  TRANSLATORS: 
+#. http://www.fsf.org/blogs/community/gnu-spotlight-with-mike-gerwitz-15-new-gnu-releases-in-august 
+#. type: Content of: <p>
+msgid ""
+": * aspell-0.60.7 * freeipmi-1.6.4 * gcc-9.2.0 * glibc-2.30 * gnuastro-0.10 "
+"* gsl-2.6 * help2man-1.47.11 * libffcall-2.2 * libmi..."
+msgstr ""
+": * aspell-0.60.7 * freeipmi-1.6.4 * gcc-9.2.0 * glibc-2.30 * gnuastro-0.10 "
+"* gsl-2.6 * help2man-1.47.11 * libffcall-2.2 * libmi..."
+
+#~ msgid "GNU Guile 2.9.4 (beta) released"
+#~ msgstr "GNU Guile 2.9.4 (beta) lançado"
+
+#~ msgid ""
+#~ ": We are delighted to announce GNU Guile 2.9.4, the fourth beta release "
+#~ "in preparation for the upcoming 3.0 stable series. See the release "
+#~ "announcement for full..."
+#~ msgstr ""
+#~ ": Estamos muito felizes em anunciar o GNU Guile 2.9.4, o quarto "
+#~ "lançamento beta em preparação para a próxima série de lançamentos "
+#~ "estáveis 3.0. Esse lançamento..."
+
+#~ msgid "GNU Parallel 20190822 (&#39;Jesper Svarre&#39;) released [stable]"
+#~ msgstr "GNU Parallel 20190822 (&#39;Jesper Svarre&#39;) lançado [estável]"
+
+#~ msgid ""
+#~ ": GNU Parallel 20190822 (&#39;Jesper Svarre&#39;) [stable] has been "
+#~ "released. It is available for download at: http://ftpmirro..."
+#~ msgstr ""
+#~ ": GNU Parallel 20190822 (&#39;Jesper Svarre&#39;) [estável] foi lançado. "
+#~ "Está disponível para download em: http://ftpmirror..."
+
+#~ msgid "FreeIPMI 1.6.4 Released"
+#~ msgstr "FreeIPMI 1.6.4 lançado"
+
+#~ msgid ""
+#~ ": https://ftp.gnu.org/gnu/freeipmi/freeipmi-1.6.4.tar.gz o In "
+#~ "libfreeipmi, add additional workarounds for packets that are re-ordered "
+#~ "during sensor bridging. o In libfr..."
+#~ msgstr ""
+#~ ": https://ftp.gnu.org/gnu/freeipmi/freeipmi-1.6.4.tar.gz o No "
+#~ "libfreeipmi, adiciona soluções de contorno extras para pacotes que são "
+#~ "reordenados durante a conexão com..."
+
+#~ msgid "GNU Scientific Library 2.6 released"
+#~ msgstr "GNU Scientific Library 2.6 lançado"
+
+#~ msgid ""
+#~ ": Version 2.6 of the GNU Scientific Library (GSL) is now available. GSL "
+#~ "provides a large collection of routines for numerical computing in C. "
+#~ "This release i..."
+#~ msgstr ""
+#~ ": A versão 2.6 da GNU Scientific Library (GSL) está agora disponível. A "
+#~ "GSL fornece uma grande coleção de rotinas para computação numérica em C. "
+#~ "Esta versão..."
+
+#~ msgid "Coding workshop (Ballarat, VIC, Australia)"
+#~ msgstr "Workshop de programação (Ballarat, VIC, Austrália)"
+
+#~ msgid ""
+#~ ": This workshop, presented by Sturm Software Engineering, will teach you "
+#~ "how to code on a free software project, and guide you through the whole "
+#~ "proc..."
+#~ msgstr ""
+#~ ": Este workshop, apresentado pela Sturm Software Engineering, vai te "
+#~ "ensinar como programar em um projeto de software livre, e guiá-lo através "
+#~ "de todo..."
+
+#, fuzzy
+#~| msgid "GNU nano 4.0 was released"
+#~ msgid "Unifont 12.1.03 Released"
+#~ msgstr "GNU nano 4.0 foi lançado"
+
+#, fuzzy
+#~| msgid ""
+#~| ": 11 May 2019 Unifont 12.1.01 is now available. Significant changes in "
+#~| "this version include the Reiwa Japanese era glyph (U+32FF), which was "
+#~| "the only addition made in..."
+#~ msgid ""
+#~ ": 11 August 2019 Unifont 12.1.03 is now available. Significant changes in "
+#~ "this version include the replacement of the Jiskan glyphs in the Japanese "
+#~ "version, unifont_jp..."
+#~ msgstr ""
+#~ ": 11 de maio de 2019 O Unifont 12.1.01 está agora disponível. Alterações "
+#~ "significativas nesta versão incluem o glifo da era japonesa de Reiwa (U"
+#~ "+32FF), que foi a única..."
+
+#, fuzzy
+#~| msgid "June 2019: Photos from Brno"
+#~ msgid "May 2019: Photos from Aalborg and Copenhagen"
+#~ msgstr "Junho de 2019: Fotos de Brno"
+
+#, fuzzy
+#~| msgid ""
+#~| ": Free Software Foundation president Richard Stallman (RMS) was in Brno, "
+#~| "Czech Republic on June 6, 2019, to give two speeches. In the morning, he "
+#~| "took part in the U..."
+#~ msgid ""
+#~ ": Free Software Foundation president Richard Stallman (RMS) was in "
+#~ "Denmark in May 2019. After a visit to the beach in nearby Slettestrand "
+#~ "the day b..."
+#~ msgstr ""
+#~ ": O presidente da Free Software Foundation, Richard Stallman (RMS), "
+#~ "estava em Brno, na República Checa, em 6 de junho de 2019 para duas "
+#~ "palestras. Na manhã, ele..."
+
+#~ msgid "Fundraiser membership drive comes to an end and we all win!"
+#~ msgstr ""
+#~ "A campanha de angariação de fundos chega ao fim e todos nós vencemos!"
+
+#~ msgid ""
+#~ ": The Free Software Foundation (FSF) spring fundraiser has come to an end "
+#~ "and we would like to thank you for your help in surpassing..."
+#~ msgstr ""
+#~ ": A campanha de angariação de fundos da primavera da Free Software "
+#~ "Foundation (FSF) chegou ao fim e gostaríamos de agradecer por sua ajuda..."
+
+#~ msgid "ActivityPub Conf 2019 Speakers"
+#~ msgstr "Palestrantes da ActivityPub Conf 2019"
+
+#~ msgid ""
+#~ ": Good news everyone! The speaker list for ActivityPub Conf 2019 is here! "
+#~ "(In this document, below, but also in ODT and PDF formats.)  (Bad news "
+#~ "everyone: registr..."
+#~ msgstr ""
+#~ ": Boas notícias, pessoal! A lista de palestrantes da ActivityPub Conf "
+#~ "2019 está aqui! (Neste documento, abaixo, mas também nos formatos ODT e "
+#~ "PDF.) (Más notícias a..."
+
+#, fuzzy
+#~| msgid ""
+#~| ": The 8th release of GNU Astronomy Utilities (Gnuastro) is now available "
+#~| "for download. Please see the announcement for details."
+#~ msgid ""
+#~ ": The 10th release of GNU Astronomy Utilities (Gnuastro) is now "
+#~ "available. Please see the announcement for more."
+#~ msgstr ""
+#~ ": O 8º lançamento do GNU Astronomy Utilities (Gnuastro) já está "
+#~ "disponível para download. Por favor, veja o anúncio para detalhes."
+
+#, fuzzy
+#~| msgid ""
+#~| ": This speech by Richard Stallman will be nontechnical, admission is "
+#~| "gratis, and the public is encouraged to attend. Location: Festsaal, "
+#~| "Casino (#7), Camp..."
+#~ msgid ""
+#~ ": This speech by Richard Stallman will be nontechnical, admission is "
+#~ "gratis, and the public is encouraged to attend. Speech topic to be "
+#~ "determined..."
+#~ msgstr ""
+#~ ": Este discurso de Richard Stallman não será técnico, a admissão é "
+#~ "gratuita e o público é encorajado a aparecer. Local: Festsaal, Casino "
+#~ "(#7), Camp..."
+
+#~ msgid ""
+#~ ": This release improves ease of installation by dropping some module "
+#~ "dependencies which were introduced in 2.3.0. It also fixes an issue with "
+#~ "the test suite, and improv..."
+#~ msgstr ""
+#~ ": Esta versão melhora a facilidade de instalação, descartando algumas "
+#~ "dependências do módulo que foram introduzidas no 2.3.0. Também corrige um "
+#~ "problema com o conjunto..."
+
+#~ msgid ""
+#~ ": * denemo-2.3.0 * direvent-5.2 * gama-2.06 * gnunet-0.11.6 * "
+#~ "gnupg-2.2.17 * grub-2.04 * guile-2.2.6 * libmicrohttpd-0.9.65 * libt..."
+#~ msgstr ""
+#~ ": * denemo-2.3.0 * direvent-5.2 * gama-2.06 * gnunet-0.11.6 * "
+#~ "gnupg-2.2.17 * grub-2.04 * guile-2.2.6 * libmicrohttpd-0.9.65 * libt..."
+
+#~ msgid ""
+#~ "Strengthen free software by telling Congress to reject the STRONGER "
+#~ "Patents Act"
+#~ msgstr ""
+#~ "Fortaleça o software livre dizendo ao Congresso para rejeitar a Lei de "
+#~ "Patentes MAIS FORTE"
+
+#~ msgid ""
+#~ ": The Free Software Foundation (FSF) has long been opposed to the ways in "
+#~ "which US and international patent law..."
+#~ msgstr ""
+#~ ": A Free Software Foundation (FSF) opõe-se há muito tempo às maneiras "
+#~ "pelas quais a lei de patentes dos EUA e int..."
 
 #, fuzzy
 #~| msgid "Summer internships at the FSF! Apply by April 30"
@@ -128,18 +299,6 @@ msgstr ""
 #~ "do Guix. Desde maio, venho trabalhando em uma ferramenta de automação "
 #~ "DevOps para o Guix Syste..."
 
-#~ msgid "June 2019: Photos from Brno"
-#~ msgstr "Junho de 2019: Fotos de Brno"
-
-#~ msgid ""
-#~ ": Free Software Foundation president Richard Stallman (RMS) was in Brno, "
-#~ "Czech Republic on June 6, 2019, to give two speeches. In the morning, he "
-#~ "took part in the U..."
-#~ msgstr ""
-#~ ": O presidente da Free Software Foundation, Richard Stallman (RMS), "
-#~ "estava em Brno, na República Checa, em 6 de junho de 2019 para duas "
-#~ "palestras. Na manhã, ele..."
-
 #~ msgid "Racket is an acceptable Python"
 #~ msgstr "Racket é um Python aceitável"
 
@@ -164,18 +323,6 @@ msgstr ""
 #~ msgstr ""
 #~ "Nosso Boletim destaca algumas atividades e questões importantes no "
 #~ "software livre nos últimos seis meses, inc..."
-
-#~ msgid "GNU Guile 2.2.6 released"
-#~ msgstr "GNU Guile 2.2.6 lançado"
-
-#~ msgid ""
-#~ ": We are pleased to announce GNU Guile 2.2.6, the sixth bug-fix release "
-#~ "in the new 2.2 stable release series. This release represents 11 commits "
-#~ "by 4 people since vers..."
-#~ msgstr ""
-#~ ": Estamos muito felizes em anunciar o GNU Guile 2.2.4, a quarta versão de "
-#~ "correção de bugs da nova série de lançamentos estáveis 2.2. Esse "
-#~ "lançamento representa 11 comm..."
 
 #~ msgid "Malayalam team re-established"
 #~ msgstr "Equipe Malaiala reestabelecida"
@@ -257,16 +404,6 @@ msgstr ""
 #~ "procurado Ou intervalo de notas válido Ou qualquer condição personalizada "
 #~ "Cria uma..."
 
-#~ msgid "GNU Parallel 20190622 (&#39;HongKong&#39;) released"
-#~ msgstr "GNU Parallel 20190622 (&#39;HongKong&#39;) lançado"
-
-#~ msgid ""
-#~ ": GNU Parallel 20190622 (&#39;HongKong&#39;) has been released. It is "
-#~ "available for download at: http://ftpmirror.gnu.org/parallel/ GNU Para..."
-#~ msgstr ""
-#~ ": GNU Parallel 20190622 (&#39;HongKong&#39;) foi lançado. Está disponível "
-#~ "para download em: http://ftpmirror.gnu.org/parallel/ GNU Parallel..."
-
 #~ msgid "Double the movement: Inspire someone to explore free software"
 #~ msgstr "Duplique o movimento: Inspire alguém a explorar o software livre"
 
@@ -291,15 +428,6 @@ msgstr ""
 
 #~ msgid "Richard Stallman in Frankurt, Germany"
 #~ msgstr "Richard Stallman em Frankurt, Alemanha"
-
-#~ msgid ""
-#~ ": This speech by Richard Stallman will be nontechnical, admission is "
-#~ "gratis, and the public is encouraged to attend. Location: Festsaal, "
-#~ "Casino (#7), Camp..."
-#~ msgstr ""
-#~ ": Este discurso de Richard Stallman não será técnico, a admissão é "
-#~ "gratuita e o público é encorajado a aparecer. Local: Festsaal, Casino "
-#~ "(#7), Camp..."
 
 #~ msgid ""
 #~ "A roundup of recent updates to our licensing materials - November 2018 to "
@@ -337,16 +465,6 @@ msgstr ""
 #~ ": Olá, interwebs! Hoje eu gostaria de compartilhar um pouco de projeto "
 #~ "skunkworks com vocês: Pictie, um workbench para integração WebAssembly C+"
 #~ "+ na web..."
-
-#, fuzzy
-#~| msgid ""
-#~| "Richard Stallman - &quot;The Free Software Movement&quot; (Brno, Czech "
-#~| "Republic)"
-#~ msgid ""
-#~ "Richard Stallman - &quot;The Free Software Movement&quot; (Mayhew, MS)"
-#~ msgstr ""
-#~ "Richard Stallman - “Software livre, sociedade livre” (Brno, República "
-#~ "Checa)"
 
 #, fuzzy
 #~| msgid ""
@@ -461,15 +579,6 @@ msgstr ""
 #~ "lançamento do GNUnet 0.114.1. Esse é um lançamento de correção de erros "
 #~ "para 0.131.0, princi..."
 
-#~ msgid ""
-#~ ": 11 May 2019 Unifont 12.1.01 is now available. Significant changes in "
-#~ "this version include the Reiwa Japanese era glyph (U+32FF), which was the "
-#~ "only addition made in..."
-#~ msgstr ""
-#~ ": 11 de maio de 2019 O Unifont 12.1.01 está agora disponível. Alterações "
-#~ "significativas nesta versão incluem o glifo da era japonesa de Reiwa (U"
-#~ "+32FF), que foi a única..."
-
 #~ msgid "Nest, the company, died at Google I/O 2019"
 #~ msgstr "Nest, a empresa, morreu na Google I/O 2019"
 
@@ -529,22 +638,6 @@ msgstr ""
 #~ msgstr ""
 #~ ": O livro atual está disponível online no site do parceiro na versão "
 #~ "original, ou pode ser comprado em..."
-
-#, fuzzy
-#~| msgid "GNU nano 4.0 was released"
-#~ msgid "Gnuastro 0.9 released"
-#~ msgstr "GNU nano 4.0 foi lançado"
-
-#, fuzzy
-#~| msgid ""
-#~| ": The 8th release of GNU Astronomy Utilities (Gnuastro) is now available "
-#~| "for download. Please see the announcement for details."
-#~ msgid ""
-#~ ": The 9th release of GNU Astronomy Utilities (Gnuastro) is now available "
-#~ "for download. Please see the announcement for details."
-#~ msgstr ""
-#~ ": O 8º lançamento do GNU Astronomy Utilities (Gnuastro) já está "
-#~ "disponível para download. Por favor, veja o anúncio para detalhes."
 
 #~ msgid "Malfunction in ghm-planning (at) gnu.org"
 #~ msgstr "Mau funcionamento no ghm-planning (at) gnu.org"
@@ -963,9 +1056,6 @@ msgstr ""
 #~ msgstr ""
 #~ ": O Laboratório de Licenciamento e Conformidade da FSF está comprometido "
 #~ "em ajudar desenvolvedores..."
-
-#~ msgid "FreeIPMI 1.6.3 Released"
-#~ msgstr "FreeIPMI 1.6.3 lançado"
 
 #~ msgid ""
 #~ ": http://ftp.gnu.org/gnu/freeipmi/freeipmi-1.6.3.tar.gz FreeIPMI 1.6.3 - "
@@ -1966,12 +2056,6 @@ msgstr ""
 #~ msgstr ""
 #~ "Richard Stallman - Controle o seu computador para não ser controlado! "
 #~ "(EduCode, Bruxelas, Bélgica)"
-
-#~ msgid ""
-#~ ": Richard Stallman will be speaking at the EduCode 2018 (2018-08-27–29). "
-#~ "His speech will..."
-#~ msgstr ""
-#~ ": Richard Stallman falará na EduCode 2018 (2018-08-27–29). Sua fala vai..."
 
 #~ msgid "Conference - &quot;SeaGL 2018&quot; (Seattle, WA)"
 #~ msgstr "Conferências - &quot;SeaGL 2018&quot; (Seattle, WA)"

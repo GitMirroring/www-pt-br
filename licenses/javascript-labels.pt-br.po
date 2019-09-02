@@ -1,13 +1,13 @@
 # Brazilian Portuguese translation of https://www.gnu.org/licenses/javascript-labels.html
 # Copyright (C) 2018 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2018.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018, 2019.
 # Cassiano Reinert Novais dos Santos <caco@posteo.net>, 2018. (proofread)
 msgid ""
 msgstr ""
 "Project-Id-Version: javascript-labels.html\n"
-"POT-Creation-Date: 2018-01-01 05:57+0000\n"
-"PO-Revision-Date: 2018-12-12 23:44-0200\n"
+"POT-Creation-Date: 2019-08-17 07:55+0000\n"
+"PO-Revision-Date: 2019-08-24 13:58-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -209,11 +209,11 @@ msgid ""
 "code file can be a single, unminified JavaScript file, a <code>.tar.gz</"
 "code> archive, or a <code>.zip</code> archive.  If a source archive includes "
 "multiple JavaScript files, the archive must include a file named <code>00-"
-"INDEX</code> that lists the order in which individiual source files should "
-"be concatenated to produce a single file that's equivalent to what's hosted "
-"on the site.  If the JavaScript as it's served from the site, and linked "
-"from the first cell, is already in source code form, link to the same URL "
-"again in this cell."
+"INDEX</code> that lists the order in which individual source files should be "
+"concatenated to produce a single file that's equivalent to what's hosted on "
+"the site.  If the JavaScript as it's served from the site, and linked from "
+"the first cell, is already in source code form, link to the same URL again "
+"in this cell."
 msgstr ""
 "A terceira célula fornece um link para o código-fonte do JavaScript. O "
 "arquivo de código-fonte pode ser um arquivo JavaScript único e não "
@@ -375,8 +375,8 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2015, 2017, 2018 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2015, 2017, 2018 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2015, 2017, 2018, 2019 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2015, 2017, 2018, 2019 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

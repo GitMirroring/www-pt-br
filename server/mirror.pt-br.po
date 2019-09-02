@@ -5,8 +5,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: mirror.html\n"
-"POT-Creation-Date: 2019-05-06 07:56+0000\n"
-"PO-Revision-Date: 2019-05-06 14:27-0200\n"
+"POT-Creation-Date: 2019-08-24 11:55+0000\n"
+"PO-Revision-Date: 2019-08-24 14:33-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -81,59 +81,63 @@ msgstr ""
 msgid "Africa"
 msgstr "África"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <dl><dd><p>
 msgid "<tt>rsync://mirror.ufs.ac.za/gnu</tt> (South Africa)"
 msgstr "<tt>rsync://mirror.ufs.ac.za/gnu</tt> (África do Sul)"
+
+#. type: Content of: <dl><dd><p>
+msgid "<tt>rsync://mirror.marwan.ma/gnu/</tt> (Morocco)"
+msgstr "<tt>rsync://mirror.marwan.ma/gnu/</tt> (Marrocos)"
 
 #. type: Content of: <dl><dt>
 msgid "North America"
 msgstr "América do Norte"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <dl><dd><p>
 msgid "<tt>rsync://gnu.mirror.iweb.com/gnu</tt> (Canada)"
 msgstr "<tt>rsync://gnu.mirror.iweb.com/gnu</tt> (Canadá)"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <dl><dd><p>
 msgid "<tt>rsync://mirror.sergal.org/gnu</tt> (Canada)"
 msgstr "<tt>rsync://mirror.sergal.org/gnu</tt> (Canadá)"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <dl><dd><p>
 msgid "<tt>rsync://mirror.its.dal.ca/gnu</tt> (Canada)"
 msgstr "<tt>rsync://mirror.its.dal.ca/gnu</tt> (Canadá)"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <dl><dd><p>
 msgid "<tt>rsync://mirror.csclub.uwaterloo.ca/gnu/</tt> (Canada)"
 msgstr "<tt>rsync://mirror.csclub.uwaterloo.ca/gnu/</tt> (Canadá)"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <dl><dd><p>
 msgid "<tt>rsync://gnu.freemirror.org/gnu</tt> (Canada)"
 msgstr "<tt>rsync://gnu.freemirror.org/gnu</tt> (Canadá)"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <dl><dd><p>
 msgid "<tt>rsync://mirror.keystealth.org/gnu/</tt> (California, USA)"
 msgstr "<tt>rsync://mirror.keystealth.org/gnu/</tt> (Califórnia, EUA)"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <dl><dd><p>
 msgid "<tt>rsync://mirrors.ocf.berkeley.edu/gnu/</tt> (California, USA)"
 msgstr "<tt>rsync://mirrors.ocf.berkeley.edu/gnu/</tt> (Califórnia, EUA)"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <dl><dd><p>
 msgid "<tt>rsync://mirrors.syringanetworks.net/gnu/</tt> (Idaho, USA)"
 msgstr "<tt>rsync://mirrors.syringanetworks.net/gnu/</tt> (Idaho, EUA)"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <dl><dd><p>
 msgid "<tt>rsync://mirror.team-cymru.com/gnu/</tt> (Illinois, USA)"
 msgstr "<tt>rsync://mirror.team-cymru.com/gnu/</tt> (Ilinóis, EUA)"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <dl><dd><p>
 msgid "<tt>rsync://mirror.leifrogers.com/gnu/gnu/</tt> (Indiana, USA)"
 msgstr "<tt>rsync://mirror.leifrogers.com/gnu/gnu/</tt> (Indiana, EUA)"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <dl><dd><p>
 msgid "<tt>rsync://mirrors.tripadvisor.com/gnu/</tt> (Massachusetts, USA)"
 msgstr "<tt>rsync://mirrors.tripadvisor.com/gnu/</tt> (Massachusetts, EUA)"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <dl><dd><p>
 msgid "<tt>rsync://mirror.clarkson.edu/gnu/</tt> (New York, USA)"
 msgstr "<tt>rsync://mirror.clarkson.edu/gnu/</tt> (Nova Iorque, EUA)"
 
@@ -141,15 +145,15 @@ msgstr "<tt>rsync://mirror.clarkson.edu/gnu/</tt> (Nova Iorque, EUA)"
 msgid "South America"
 msgstr "América do Sul"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <dl><dd><p>
 msgid "<tt>rsync://gnu.c3sl.ufpr.br/gnu/ftp/</tt> (Brazil)"
 msgstr "<tt>rsync://gnu.c3sl.ufpr.br/gnu/ftp/</tt> (Brasil)"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <dl><dd><p>
 msgid "<tt>rsync://mirror.cedia.org.ec/gnu</tt> (Ecuador)"
 msgstr "<tt>rsync://mirror.cedia.org.ec/gnu</tt> (Equador)"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <dl><dd><p>
 msgid "<tt>rsync://espejito.fder.edu.uy/gnu</tt> (Uruguay)"
 msgstr "<tt>rsync://espejito.fder.edu.uy/gnu</tt> (Uruguai)"
 
@@ -157,35 +161,35 @@ msgstr "<tt>rsync://espejito.fder.edu.uy/gnu</tt> (Uruguai)"
 msgid "Asia"
 msgstr "Ásia"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <dl><dd><p>
 msgid "<tt>rsync://mirrors.ustc.edu.cn/gnu/</tt> (China)"
 msgstr "<tt>rsync://mirrors.ustc.edu.cn/gnu/</tt> (China)"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <dl><dd><p>
 msgid "<tt>rsync://mirrors.tuna.tsinghua.edu.cn/gnu/</tt> (China)"
 msgstr "<tt>rsync://mirrors.tuna.tsinghua.edu.cn/gnu/</tt> (China)"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <dl><dd><p>
 msgid "<tt>rsync://mirror-hk.koddos.net/gnu/</tt> (Hong Kong)"
 msgstr "<tt>rsync://mirror-hk.koddos.net/gnu/</tt> (Hong Kong)"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <dl><dd><p>
 msgid "<tt>rsync://ftp.jaist.ac.jp/pub/GNU/</tt> (Japan)"
 msgstr "<tt>rsync://ftp.jaist.ac.jp/pub/GNU/</tt> (Japão)"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <dl><dd><p>
 msgid "<tt>rsync://mirror.jre655.com/GNU</tt> (Japan)"
 msgstr "<tt>rsync://mirror.jre655.com/GNU</tt> (Japão)"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <dl><dd><p>
 msgid "<tt>rsync://ftp.kaist.ac.kr/gnu/</tt> (Korea)"
 msgstr "<tt>rsync://ftp.kaist.ac.kr/gnu/</tt> (Coreia)"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <dl><dd><p>
 msgid "<tt>rsync://mirror.ossplanet.net/gnu</tt> (Taiwan)"
 msgstr "<tt>rsync://mirror.ossplanet.net/gnu</tt> (Taiwan)"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <dl><dd><p>
 msgid "<tt>rsync://ftp.yzu.edu.tw/pub/gnu/</tt> (Taiwan)"
 msgstr "<tt>rsync://ftp.yzu.edu.tw/pub/gnu/</tt> (Taiwan)"
 
@@ -193,68 +197,68 @@ msgstr "<tt>rsync://ftp.yzu.edu.tw/pub/gnu/</tt> (Taiwan)"
 msgid "Europe"
 msgstr "Europa"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <dl><dd><p>
 msgid "<tt>rsync://mirror.kumi.systems/gnu/</tt> (Austria)"
 msgstr "<tt>rsync://mirror.kumi.systems/gnu/</tt> (Áustria)"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <dl><dd><p>
 msgid "<tt>rsync://ftp.funet.fi/ftp/pub/gnu/prep/</tt> (Finland)"
 msgstr "<tt>rsync://ftp.funet.fi/ftp/pub/gnu/prep/</tt> (Finlândia)"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <dl><dd><p>
 msgid "<tt>rsync://rsync.cyberbits.eu/gnu/</tt> (France)"
 msgstr "<tt>rsync://rsync.cyberbits.eu/gnu/</tt> (França)"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <dl><dd><p>
 msgid "<tt>rsync://rsync://ftp.fau.de/gnu</tt> (Germany)"
 msgstr "<tt>rsync://rsync://ftp.fau.de/gnu</tt> (Alemanha)"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <dl><dd><p>
 msgid "<tt>rsync://mirror.netcologne.de/gnu</tt> (Germany)"
 msgstr "<tt>rsync://mirror.netcologne.de/gnu</tt> (Alemanha)"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <dl><dd><p>
 msgid "<tt>rsync://quantum-mirror.hu/gnu/</tt> (Hungary)"
 msgstr "<tt>rsync://quantum-mirror.hu/gnu/</tt> (Hungria)"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <dl><dd><p>
 msgid "<tt>rsync://mirrors.mivocloud.com/gnu/</tt> (Moldova)"
 msgstr "<tt>rsync://mirrors.mivocloud.com/gnu/</tt> (Moldávia)"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <dl><dd><p>
 msgid "<tt>rsync://ftp.snt.utwente.nl/gnu/</tt> (Netherlands)"
 msgstr "<tt>rsync://ftp.snt.utwente.nl/gnu/</tt> (Países Baixos)"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <dl><dd><p>
 msgid "<tt>rsync://mirror.koddos.net/gnu</tt> (Netherlands)"
 msgstr "<tt>rsync://mirror.koddos.net/gnu</tt> (Países Baixos)"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <dl><dd><p>
 msgid "<tt>rsync://gnuftp.uib.no/gnuftp/</tt> (Norway)"
 msgstr "<tt>rsync://gnuftp.uib.no/gnuftp/</tt> (Noruega)"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <dl><dd><p>
 msgid "<tt>rsync://mirrors.up.pt/pub/gnu/</tt> (Portugal)"
 msgstr "<tt>rsync://mirrors.up.pt/pub/gnu/</tt> (Portugal)"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <dl><dd><p>
 msgid "<tt>rsync://mirrors.nav.ro/gnu</tt> (Romania)"
 msgstr "<tt>rsync://mirrors.nav.ro/gnu</tt> (Romênia)"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <dl><dd><p>
 msgid "<tt>rsync://mirror.sbb.rs/gnu/</tt> (Serbia)"
 msgstr "<tt>rsync://mirror.sbb.rs/gnu/</tt> (Sérvia)"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <dl><dd><p>
 msgid "<tt>rsync://ftp.acc.umu.se/mirror/gnu.org/gnu/</tt> (Sweden)"
 msgstr "<tt>rsync://ftp.acc.umu.se/mirror/gnu.org/gnu/</tt> (Suécia)"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <dl><dd><p>
 msgid "<tt>rsync://rsync.mirrorservice.org/ftp.gnu.org/gnu/</tt> (UK)"
 msgstr ""
 "<tt>rsync://rsync.mirrorservice.org/ftp.gnu.org/gnu/</tt> (Reino Unido)"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <dl><dd><p>
 msgid "<tt>rsync://ftp-gnu-org.ip-connect.vn.ua/ftp.gnu.org/</tt> (Ukraine)"
 msgstr "<tt>rsync://ftp-gnu-org.ip-connect.vn.ua/ftp.gnu.org/</tt> (Ucrânia)"
 

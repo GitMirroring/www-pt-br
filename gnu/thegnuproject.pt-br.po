@@ -1,9 +1,9 @@
 # Brazilian Portuguese translation of http://www.gnu.org/gnu/thegnuproject.html
-# Copyright (C) 2018 Free Software Foundation, Inc.
+# Copyright (C) 2019 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Bruno Félix Rezende Ribeiro <oitofelix@gnu.org>, 2015.
 # Ineiev, 2016 (defuzzify).
-# Rafael Fontenelle <rafaelff@gnome.org>, 2017, 2018.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017-2019.
 # Diego Viola <diego.viola@gmail.com>, 2017 (proofread).
 # André N Batista <nandre@riseup.net>, 2018.
 msgid ""
@@ -22,12 +22,12 @@ msgstr ""
 
 #. type: Content of: <title>
 msgid "About the GNU Project - GNU Project - Free Software Foundation"
-msgstr "Sobre o Projeto GNU - Projeto GNU - Fundação do Software Livre"
+msgstr "Sobre o Projeto GNU - Projeto GNU - Free Software Foundation"
 
 #. type: Attribute 'content' of: <meta>
 msgid "GNU, GNU Project, FSF, Free Software, Free Software Foundation, History"
 msgstr ""
-"GNU, Projeto GNU, FSF, Software Livre, Fundação do Software Livre, História"
+"GNU, Projeto GNU, FSF, Software Livre, Free Software Foundation, História"
 
 #. type: Content of: <h2>
 msgid "The GNU Project"
@@ -956,7 +956,7 @@ msgstr ""
 
 #. type: Content of: <h3>
 msgid "The Free Software Foundation"
-msgstr "A Fundação do Software Livre (Free Software Foundation)"
+msgstr "A Free Software Foundation"
 
 #. type: Content of: <p>
 msgid ""
@@ -971,13 +971,13 @@ msgid ""
 msgstr ""
 "Como o interesse em usar o Emacs foi crescendo, outras pessoas se envolveram "
 "no projeto GNU, e decidimos que era hora de buscar financiamento mais uma "
-"vez.  Assim, em 1985 foi criada a <a href=\"http://www.fsf.org/\">Fundação "
-"do Software Livre</a> (FSF), uma instituição de caridade isenta de impostos "
-"para o desenvolvimento do software livre.  A <abbr title=\"Free Software "
-"Foundation\">FSF</abbr> também assumiu o negócio de distribuição de fitas "
-"com o Emacs; mais tarde isso foi estendido adicionando-se outros softwares "
-"livres (tanto GNU quanto não GNU) à fita, e com a venda de manuais livres "
-"também."
+"vez.  Assim, em 1985 foi criada a <a href=\"http://www.fsf.org/\">Free "
+"Software Foundation</a> (FSF), uma instituição de caridade isenta de "
+"impostos para o desenvolvimento do software livre.  A <abbr title=\"Free "
+"Software Foundation\">FSF</abbr> também assumiu o negócio de distribuição de "
+"fitas com o Emacs; mais tarde isso foi estendido adicionando-se outros "
+"softwares livres (tanto GNU quanto não GNU) à fita, e com a venda de manuais "
+"livres também."
 
 #. type: Content of: <p>
 msgid ""
@@ -1010,14 +1010,14 @@ msgid ""
 "systems is <acronym title=\"Bourne Again Shell\">BASH</acronym>, the Bourne "
 "Again Shell(1), which was developed by FSF employee Brian Fox."
 msgstr ""
-"Empregados da Fundação do Software Livre têm escrito e mantido vários "
-"pacotes de software GNU.  Os dois mais notáveis ​​são a biblioteca C e o "
-"interpretador de comandos.  A biblioteca C GNU é o que todos os programas em "
-"execução num sistema GNU/Linux usam para se comunicar com o Linux.  Ela foi "
-"desenvolvida por um membro da equipe da Fundação do Software Livre, Roland "
-"McGrath.  O interpretador de comandos usado na maioria dos sistemas GNU/"
-"Linux é o <abbr title=\"Bourne Again Shell\">BASH</abbr>, o Bourne Again "
-"Shell(1), que foi desenvolvido pelo empregado da FSF, Brian Fox."
+"Empregados da Free Software Foundation têm escrito e mantido vários pacotes "
+"de software GNU.  Os dois mais notáveis ​​são a biblioteca C e o interpretador "
+"de comandos.  A biblioteca C GNU é o que todos os programas em execução num "
+"sistema GNU/Linux usam para se comunicar com o Linux.  Ela foi desenvolvida "
+"por um membro da equipe da Free Software Foundation, Roland McGrath.  O "
+"interpretador de comandos usado na maioria dos sistemas GNU/Linux é o <abbr "
+"title=\"Bourne Again Shell\">BASH</abbr>, o Bourne Again Shell(1), que foi "
+"desenvolvido pelo empregado da FSF, Brian Fox."
 
 #. type: Content of: <p>
 msgid ""

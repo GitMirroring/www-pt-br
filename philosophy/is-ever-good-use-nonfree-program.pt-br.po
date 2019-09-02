@@ -1,0 +1,337 @@
+# Brazilian Portuguese translation of https://www.gnu.org/philosophy/is-ever-good-use-nonfree-program.html
+# Copyright (C) 2019 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2019.
+# Cassiano Reinert Novais dos Santos <caco@posteo.net>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: is-ever-good-use-nonfree-program.html\n"
+"POT-Creation-Date: 2017-08-27 14:56+0000\n"
+"PO-Revision-Date: 2019-07-09 20:48-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid ""
+"Is It Ever a Good Thing to Use a Nonfree Program? - GNU Project - Free "
+"Software Foundation"
+msgstr ""
+"Alguma vez é uma boa ideia usar um programa não livre? - Projeto GNU - Free "
+"Software Foundation"
+
+#. type: Content of: <h2>
+msgid "Is It Ever a Good Thing to Use a Nonfree Program?"
+msgstr "Alguma vez é uma boa ideia usar um programa não livre?"
+
+#. type: Content of: <p>
+msgid ""
+"by <a href=\"http://www.stallman.org/\"><strong>Richard Stallman</strong></a>"
+msgstr ""
+"por <a href=\"http://www.stallman.org/\"><strong>Richard Stallman</strong></"
+"a>"
+
+#. type: Content of: <p>
+msgid ""
+"If you run a nonfree program on your computer, it denies your freedom; the "
+"immediate wrong is directed at you.(<a href=\"#footnote\">*</a>)"
+msgstr ""
+"Se você executa um programa não livre no seu computador, ele nega sua "
+"liberdade; a injustiça imediata é direcionada a você (<a href=\"#footnote"
+"\">*</a>)"
+
+#. type: Content of: <p>
+msgid ""
+"If you recommend that others run the nonfree program, or lead them to do so, "
+"you're leading them to give up their freedom. Thus, we have a responsibility "
+"not to lead or encourage others to run nonfree software.  Where the program "
+"uses a secret protocol for communication, as in the case of Skype, your own "
+"use of it pressures others to use it too, so it is especially important to "
+"avoid any use of these programs."
+msgstr ""
+"Se você recomenda que outras pessoas executem o programa não livre, ou as "
+"leva a fazê-lo, você está levando-as a desistir de sua liberdade. Assim, "
+"temos a responsabilidade de não liderar ou incentivar outras pessoas a "
+"executar software não livre. Onde o programa usa um protocolo secreto para "
+"comunicação, como no caso do Skype, seu uso próprio pressiona os outros a "
+"usá-lo também, por isso é especialmente importante evitar qualquer uso "
+"desses programas."
+
+#. type: Content of: <p>
+msgid ""
+"But there is one special case where using some nonfree software, and even "
+"urging others to use it, can be a positive thing. That's when the use of the "
+"nonfree software aims directly at putting an end to the use of that very "
+"same nonfree software."
+msgstr ""
+"Mas há um caso especial em que o uso de software não livre, e até mesmo a "
+"recomendação a outros para usá-lo, pode ser positivo. É quando o uso do "
+"software não livre visa diretamente pôr fim ao uso desse mesmo software não "
+"livre."
+
+#. type: Content of: <p>
+msgid ""
+"In 1983 I decided to develop the GNU operating system, as a free replacement "
+"for Unix. The feasible way to do it was to write and test the components one "
+"by one on Unix. But was it legitimate to use Unix for this? And was it "
+"legitimate to ask others to use Unix for this, given that Unix was "
+"proprietary software? (Of course, if it had not been proprietary, it would "
+"not have required replacing.)"
+msgstr ""
+"Em 1983, decidi desenvolver o sistema operacional GNU, como um substituto "
+"livre para o Unix. A maneira viável de fazer isso era escrever e testar os "
+"componentes um por um no Unix. Mas era legítimo usar o Unix para isso? E era "
+"legítimo pedir a outros que usassem o Unix para isso, dado que o Unix era um "
+"software proprietário? (É claro que, se não fosse proprietário, não seria "
+"necessário substituí-lo.)"
+
+#. type: Content of: <p>
+msgid ""
+"The conclusion I reached was that using Unix to put an end to the use of "
+"Unix was legitimate for me to suggest to other developers.  I likened it to "
+"participating in small ways in some evil activity, such as a criminal gang "
+"or a dishonest political campaign, in order to expose it and shut it down. "
+"While participating in the activity is wrong in itself, shutting it down "
+"excuses minor peripheral participation, comparable to merely using Unix. "
+"This argument would not justify being a ringleader, but I was only "
+"considering using Unix, not going to work for its development team."
+msgstr ""
+"A conclusão a que cheguei foi que usar o Unix para acabar com o uso do Unix "
+"me dava legitimidade para sugerir isso a outros desenvolvedores. Eu "
+"comparava a participar de pequenas maneiras em alguma atividade maligna, "
+"como uma gangue criminosa ou uma campanha política desonesta, a fim de expô-"
+"la e encerrá-la. Embora participar da atividade seja errado por si só, "
+"desligá-la justifica a participação periférica menor, comparável ao uso do "
+"Unix. Esse argumento não justificaria ser um chefe de quadrilha, mas eu só "
+"estava pensando em usar o Unix, não indo trabalhar para sua equipe de "
+"desenvolvimento."
+
+#. type: Content of: <p>
+msgid ""
+"The job of replacing Unix was completed when the last essential component "
+"was replaced by Linux, the kernel started by Linus Torvalds in 1991. We "
+"still add to the GNU/Linux system, but that doesn't require using Unix, so "
+"it isn't a reason for using Unix&mdash;not any more. Thus, whenever you're "
+"using a nonfree program for this sort of reason, you should reconsider from "
+"time to time whether the need still exists."
+msgstr ""
+"O trabalho de substituir o Unix foi completado quando o último componente "
+"essencial foi substituído pelo Linux, o kernel iniciado por Linus Torvalds "
+"em 1991. Nós o adicionamos ao sistema GNU/Linux, mas isso não requer o uso "
+"do Unix, então não há mais razão para usar o Unix &ndash; não mais. Assim, "
+"sempre que você estiver usando um programa não livre por esse tipo de razão, "
+"você deve reconsiderar de tempos em tempos se a necessidade ainda existe."
+
+#. type: Content of: <p>
+msgid ""
+"However, there are other nonfree programs we still need to replace, and the "
+"analogous question often arises. Should you run the nonfree driver for a "
+"peripheral to help you develop a free replacement driver? (More precisely, "
+"is it ethical for us to suggest that you do so?)  Yes, by all means. Is it "
+"ok to run the <a href=\"/philosophy/javascript-trap.html\">nonfree "
+"JavaScript</a> on a web site in order to file complaint asking the "
+"webmasters to free that JavaScript code, or make the site work without it? "
+"Definitely&mdash;but other than that, you should have <a href=\"/software/"
+"librejs/\">LibreJS</a> block it for you."
+msgstr ""
+"No entanto, existem outros programas não livres que ainda precisamos "
+"substituir, e a questão análoga geralmente surge. Você deve executar o "
+"<em>driver</em> não livre para um periférico para que isto te ajude a "
+"desenvolver um <em>driver</em> de substituição livre? (Mais precisamente, é "
+"ético para nós sugerir que você faça isso?) Sim, certamente. Não há problema "
+"em executar o <a href=\"/philosophy/javascript-trap.html\">JavaScript não "
+"livre</a> em um site para fazer uma reclamação solicitando que os webmasters "
+"liberem esse código JavaScript ou façam o site funcionar sem isso? "
+"Definitivamente, mas, além disso, você deve ter o <a href=\"/software/"
+"librejs/\">LibreJS</a> bloqueando-o para você."
+
+#. type: Content of: <p>
+msgid ""
+"But this justification won't stretch any further. People that develop "
+"nonfree software, even software with malicious functionalities, often try to "
+"excuse this on the grounds that they fund some development of free software. "
+"However, a business that is basically wrong can't be legitimized by spending "
+"some of the profits on a worthy cause. For instance, some (not all) of the "
+"activities of the Gates Foundation are laudable, but they don't excuse Bill "
+"Gates's career, or Microsoft. If the business works directly against the "
+"worthy cause it tries to legitimize itself with, that is a self-"
+"contradiction and it undermines the cause."
+msgstr ""
+"Mas essa justificativa não vai se esticar mais do que isso. As pessoas que "
+"desenvolvem software não livre, mesmo software com funcionalidades "
+"maliciosas, muitas vezes apresentam isso como desculpa, alegando que "
+"financiam algum desenvolvimento de software livre. No entanto, um negócio "
+"que é basicamente errado não pode ser legitimado por gastar alguns dos "
+"lucros em uma causa digna. Por exemplo, algumas (nem todas) das atividades "
+"da Fundação Gates são louváveis, mas não justificam a carreira de Bill Gates "
+"ou a Microsoft. Se o negócio trabalha diretamente contra a causa digna com a "
+"qual ele tenta se legitimar, isso é uma contradição de si mesmo e isso "
+"enfraquece a causa."
+
+#. type: Content of: <p>
+msgid ""
+"Even using a nonfree program to develop free software in general is better "
+"to avoid, and not suggest to others. For instance, we should not ask people "
+"to run Windows or MacOS in order to make free applications run on them. As "
+"developer of Emacs and GCC, I accepted changes to make them support nonfree "
+"systems such as VMS, Windows and MacOS.  I had no reason to reject that "
+"code, even though people had run nonfree systems to write it.  Their use of "
+"unjust systems was not at my request or suggestion; rather, they were "
+"already using them before starting to write changes for GNU.  They also did "
+"the packaging of releases for those systems."
+msgstr ""
+"Mesmo o uso de um programa não livre para desenvolver software livre em "
+"geral é melhor ser evitado e não sugerir aos outros. Por exemplo, não "
+"devemos pedir às pessoas que executem o Windows ou o MacOS para que "
+"aplicativos livre sejam executados neles. Como desenvolvedor do Emacs e GCC, "
+"aceitei mudanças para fazê-los ter suporte a sistemas não livres, como VMS, "
+"Windows e MacOS. Eu não tinha motivos para rejeitar aquele código, mesmo que "
+"as pessoas usassem sistemas não livres para escrevê-lo. Seu uso de sistemas "
+"injustos não foi a meu pedido ou sugestão; em vez disso, elas já estavam "
+"usando-os antes de começar a escrever alterações para o GNU. Elas também "
+"fizeram o pacotes de lançamentos para esses sistemas."
+
+#. type: Content of: <p>
+msgid ""
+"The &ldquo;developing its own replacement&rdquo; exception is valid within "
+"its limits, and crucial for the progress of free software, but we must "
+"resist stretching it any further lest it turn into an all-purpose excuse for "
+"any profitable activity with nonfree software."
+msgstr ""
+"A exceção do “desenvolvimento de seu próprio substituto” é válida dentro de "
+"seus limites, e crucial para o progresso do software livre, mas devemos "
+"resistir a esticá-la ainda mais para que ela não se torne uma desculpa para "
+"todas as finalidades para qualquer atividade lucrativa com software não "
+"livre."
+
+#. type: Content of: <p>
+msgid ""
+"Occasionally it is necessary to use and even upgrade a nonfree system on a "
+"machine in order to install a free system to replace it on that machine.  "
+"This is not exactly the same issue, but the same arguments apply: it is "
+"legitimate to recommend running some nonfree software momentarily in order "
+"to remove it."
+msgstr ""
+"Ocasionalmente, é necessário usar e até atualizar um sistema não livre em "
+"uma máquina para instalar um sistema livre para substituí-lo naquela "
+"máquina. Este não é exatamente o mesmo problema, mas os mesmos argumentos se "
+"aplicam: é legítimo recomendar a execução de algum software não livre "
+"momentaneamente para removê-lo."
+
+#. type: Content of: <p>
+msgid ""
+"Footnote: Using the nonfree program can have unfortunate indirect effects, "
+"such as rewarding the perpetrator and encouraging more use of that program.  "
+"This is a further reason to shun use of nonfree programs."
+msgstr ""
+"Nota de rodapé: Usar o programa não livre pode ter efeitos indiretos "
+"infelizes, como recompensar o perpetrador e encorajar mais uso desse "
+"programa. Esta é mais uma razão para evitar o uso de programas não livres."
+
+#. type: Content of: <p>
+msgid ""
+"Most proprietary programs come with an End User License Agreement that "
+"hardly anyone reads.  Tucked away in it, in most cases, is an unethical "
+"commitment to behave like an uncooperative, bad neighbor.  It claims you "
+"promised not to distribute copies to others, or even lend someone a copy."
+msgstr ""
+"A maioria dos programas proprietários vem com um contrato de licença de "
+"usuário final que quase ninguém lê. Escondido, na maioria dos casos, está um "
+"compromisso antiético de se comportar como um vizinho mal que não coopera. "
+"Ele alega que você prometeu não distribuir cópias para os outros, ou mesmo "
+"emprestar uma cópia a alguém."
+
+#. type: Content of: <p>
+msgid ""
+"To carry out such a commitment is more wrong than to break it.  No matter "
+"what legalistic arguments they might make, the developers can hardly claim "
+"their shady trick gives users a moral obligation to be uncooperative."
+msgstr ""
+"Realizar esse compromisso é mais errado do que quebrá-lo. Independente de "
+"quais argumentos legalistas eles possam fazer, os desenvolvedores "
+"dificilmente podem alegar que seu truque obscuro dá aos usuários a obrigação "
+"moral de não cooperarem."
+
+#. type: Content of: <p>
+msgid ""
+"However, we think that the truly moral path is to carefully reject such "
+"agreements."
+msgstr ""
+"No entanto, pensamos que o caminho verdadeiramente moral é rejeitar "
+"cuidadosamente tais acordos."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2013, 2015, 2016, 2017 Richard Stallman"
+msgstr "Copyright &copy; 2013, 2015, 2016, 2017 Richard Stallman"
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2019.Revisado por: Cassiano Reinert Novais dos "
+"Santos <a href=\"mailto:caco@posteo.net\">&lt;caco@posteo.net&gt;</a>, 2019."
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização:"

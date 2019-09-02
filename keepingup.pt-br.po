@@ -1,14 +1,14 @@
-# Brazilian Portuguese translation of http://www.gnu.org/keepingup.html
-# Copyright (C) 2018 Free Software Foundation, Inc.
+# Brazilian Portuguese translation of https://www.gnu.org/keepingup.html
+# Copyright (C) 2019 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnu.org article.
 # Leandro Guimarães Faria Corcete DUTRA <leandro.gfc.dutra@gmail.com>, 2009.
 # Dec 2014: trivial update of a few strings (T. Godefroy).
-# Rafael Fontenelle <rafaelff@gnome.org>, 2016, 2017, 2018.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2016-2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: keepingup.html\n"
 "POT-Creation-Date: 2018-01-01 06:00+0000\n"
-"PO-Revision-Date: 2018-01-18 14:16-0200\n"
+"PO-Revision-Date: 2019-09-01 11:03-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -23,13 +23,13 @@ msgstr ""
 msgid ""
 "Keeping Up With GNU and the FSF - GNU Project - Free Software Foundation"
 msgstr ""
-"Mantendo-se Atualizado com o GNU e a FSF - Projeto GNU - Free Software "
+"Mantendo-se atualizado com o GNU e a FSF - Projeto GNU - Free Software "
 "Foundation"
 
 # type: Content of: <h2>
 #. type: Content of: <h2>
 msgid "Keeping Up With GNU and the FSF"
-msgstr "Mantendo-se Atualizado com o GNU e a FSF"
+msgstr "Mantendo-se atualizado com o GNU e a FSF"
 
 # type: Content of: <p>
 #. type: Content of: <p>
@@ -51,13 +51,12 @@ msgid ""
 "Find out <a href=\"http://planet.gnu.org/\">What's New in and about the GNU "
 "Project</a>."
 msgstr ""
-"Descubra <a href=\"http://planet.gnu.org/\">As Novidades de e sobre o "
-"Projeto GNU</a>."
+"Descubra as <a href=\"http://planet.gnu.org/\">Novidades do Projeto GNU</a>."
 
 # type: Content of: <h3>
 #. type: Content of: <h3>
 msgid "Take Action"
-msgstr "Aja"
+msgstr "Entre em ação"
 
 # type: Content of: <p>
 #. type: Content of: <p>
@@ -66,14 +65,14 @@ msgid ""
 "software free, and promote the freedoms of speech, press, and association on "
 "the Internet."
 msgstr ""
-"Atualize-se sobre <a href=\"/server/takeaction.html\">o que pode fazer</a> "
-"para manter a liberdade em sistemas, e promover as liberdades de expressão, "
-"divulgação, e associação na Rede."
+"Mantenha-se atualizado sobre <a href=\"/server/takeaction.html\">o que pode "
+"fazer</a> para manter a liberdade em sistemas, e promover as liberdades de "
+"expressão, divulgação e associação na Internet."
 
 # type: Content of: <h3>
 #. type: Content of: <h3>
 msgid "Coming Events"
-msgstr "Eventos Vindouros"
+msgstr "Próximos eventos"
 
 # type: Content of: <p>
 #. type: Content of: <p>
@@ -83,7 +82,7 @@ msgstr "Saiba sobre <a href=\"/events.html\">eventos vindouros FSF e GNU</a>."
 # type: Content of: <h3>
 #. type: Content of: <h3>
 msgid "Press Releases"
-msgstr "Informes à Imprensa"
+msgstr "Comunicados de imprensa"
 
 #. type: Content of: <p>
 msgid ""
@@ -91,9 +90,9 @@ msgid ""
 "and the FSF.  <a href=\"/press/press.html#releases\">Old press releases</a> "
 "are also available."
 msgstr ""
-"Leia os <a href=\"//fsf.org/news\">informes à imprensa</a> do Projeto GNU e "
-"da FSF. <a href=\"/press/press.html#releases\">Informes à imprensa antigos</"
-"a> também estão disponíveis."
+"Leia os <a href=\"//fsf.org/news\">comunicados de imprensa</a> do Projeto "
+"GNU e da FSF. <a href=\"/press/press.html#releases\">Comunicados de imprensa "
+"antigos</a> também estão disponíveis."
 
 # type: Content of: <h3>
 #. type: Content of: <h3>
@@ -107,14 +106,14 @@ msgid ""
 "fsf.org\">Free Software Directory</a>.  Check the list of recent updates "
 "often to see what's new (and consider contributing)."
 msgstr ""
-"Adiciona-se a, e atualiza-se, constantemente a <a href=\"http://directory."
-"fsf.org\">Lista de Sistemas Livres</a>.  Confira frequentemente a lista de "
+"Adições e atualizações são feitas constantementes ao <a href=\"http://"
+"directory.fsf.org\">Diretório de Software Livre</a>. Confira a lista de "
 "atualizações recentes para saber das novidades (e considere contribuir)."
 
 # type: Content of: <h3>
 #. type: Content of: <h3>
 msgid "Mailing Lists"
-msgstr "Listas de Discussão"
+msgstr "Listas de discussão"
 
 # type: Content of: <p>
 #. type: Content of: <p>
@@ -132,7 +131,7 @@ msgstr ""
 # type: Content of: <p>
 #. type: Content of: <p>
 msgid "Here are some that are good for general info:"
-msgstr "Estas têm boas informações gerais:"
+msgstr "Aqui estão algumas boas informações gerais:"
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -141,9 +140,9 @@ msgid ""
 "the free software movement.  The Free Software Supporter is published in "
 "English, Spanish, and French."
 msgstr ""
-"<a href=\"//www.fsf.org/free-software-supporter/\">O Free Software "
-"Supporter</a> vai lhe manter atualizado todo mês sobre notícias e eventos do "
-"movimento de software livre. O Free Software Supporter é publicado em "
+"<a href=\"//www.fsf.org/free-software-supporter/\">O Suporte ao Software "
+"Livre</a> vai lhe manter atualizado todo mês sobre notícias e eventos do "
+"movimento de software livre. O Suporte ao Software Livre é publicado em "
 "inglês, espanhol e francês."
 
 # type: Content of: <ul><li>
@@ -280,7 +279,11 @@ msgstr ""
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
-msgstr "<b>Tradução:</b> Leandro Guimarães Faria Corcete DUTRA"
+msgstr ""
+"Traduzido por:\n"
+"Leandro Guimarães Faria Corcete DUTRA, 2009;\n"
+"Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome."
+"org&gt;</a>, 2019."
 
 #.  timestamp start 
 #. type: Content of: <div><p>
