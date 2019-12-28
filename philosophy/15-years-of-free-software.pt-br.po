@@ -1,0 +1,225 @@
+# Brazilian Portuguese translation of http://www.gnu.org/philosophy/15-years-of-free-software.html
+# Copyright (C) 2019 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: 15-years-of-free-software.html\n"
+"POT-Creation-Date: 2014-04-05 15:25+0000\n"
+"PO-Revision-Date: 2019-12-27 11:06-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid "15 Years of Free Software - GNU Project - Free Software Foundation"
+msgstr "15 anos de software livre - Projeto GNU - Free Software Foundation"
+
+#. type: Attribute 'content' of: <meta>
+msgid ""
+"GNU, FSF, Free Software Foundation, freedom, Richard Stallman, rms, free "
+"software movement"
+msgstr ""
+"GNU, FSF, Free Software Foundation, liberdade, Richard Stallman, rms, "
+"movimento software livre"
+
+#. type: Attribute 'content' of: <meta>
+msgid ""
+"Richard Stallman discusses the history of the movement to develop a free "
+"operating system."
+msgstr ""
+"Richard Stallman discute a história do movimento para desenvolver um sistema "
+"operacional livre."
+
+#. type: Content of: <h2>
+msgid "15 Years of Free Software"
+msgstr "15 anos de software livre"
+
+#. type: Content of: <p>
+msgid "by <strong>Richard M. Stallman</strong>"
+msgstr "por <strong>Richard M. Stallman</strong>"
+
+#. type: Content of: <p>
+msgid ""
+"It is now just over 15 years since the beginning of the Free Software "
+"Movement and the GNU Project. We have come a long way."
+msgstr ""
+"Agora são apenas mais de 15 anos desde o início do Movimento Software Livre "
+"e do Projeto GNU. Percorremos um longo caminho."
+
+#. type: Content of: <p>
+msgid ""
+"In 1984, it was impossible to use a modern computer without installing a "
+"proprietary operating system, which you would have to obtain under a "
+"restrictive license. No one was allowed to share software freely with fellow "
+"computer users, and hardly anyone could change software to fit his or her "
+"own needs. The owners of software had erected walls to divide us from each "
+"other."
+msgstr ""
+"Em 1984, era impossível usar um computador moderno sem instalar um sistema "
+"operacional proprietário, que você teria que obter sob uma licença "
+"restritiva. Ninguém tinha permissão para compartilhar softwares livremente "
+"com outros usuários de computador, e dificilmente alguém poderia mudar o "
+"software para atender às suas próprias necessidades. Os donos do software "
+"ergueram muros para nos dividir uns dos outros."
+
+#. type: Content of: <p>
+msgid ""
+"The GNU Project was founded to change all that. Its first goal: to develop a "
+"Unix-compatible portable operating system that would be 100% free software. "
+"Not 95% free, not 99.5%, but 100%&mdash;so that users would be free to "
+"redistribute the whole system, and free to change and contribute to any part "
+"of it. The name of the system, GNU, is a recursive acronym meaning &ldquo;"
+"GNU's Not Unix&rdquo;&mdash;a way of paying tribute to the technical ideas "
+"of Unix, while at the same time saying that GNU is something different. "
+"Technically, GNU is like Unix. But unlike Unix, GNU gives its users freedom."
+msgstr ""
+"O Projeto GNU foi fundado para mudar tudo isso. Seu primeiro objetivo: "
+"desenvolver um sistema operacional portátil compatível com Unix que seria um "
+"software 100% livre. Não é 95% livre, não 99,5%, mas 100% &ndash; para que "
+"os usuários fiquem livres para redistribuir todo o sistema e tenham "
+"liberdade para alterar e contribuir com qualquer parte dele. O nome do "
+"sistema, GNU, é um acrônimo recursivo que significa “GNU Não é Unix”, uma "
+"maneira de prestar homenagem às ideias técnicas do Unix, enquanto ao mesmo "
+"tempo diz que o GNU é algo diferente. Tecnicamente, o GNU é como o Unix. Mas "
+"ao contrário do Unix, o GNU dá liberdade aos seus usuários."
+
+#. type: Content of: <p>
+msgid ""
+"It took many years of work, by hundreds of programmers, to develop this "
+"operating system. Some were paid by the Free Software Foundation and by free "
+"software companies; most were volunteers. A few have become famous; most are "
+"known mainly within their profession, by other hackers who use or work on "
+"their code. All together have helped to liberate the potential of the "
+"computer network for all humanity."
+msgstr ""
+"Demorou muitos anos de trabalho, por centenas de programadores, para "
+"desenvolver este sistema operacional. Alguns foram pagos pela Free Software "
+"Foundation e por empresas de software livre; a maioria era voluntária. "
+"Alguns se tornaram famosos; a maioria é conhecida principalmente em sua "
+"profissão por outros hackers que usam ou trabalham em seu código. Todos "
+"juntos ajudaram a liberar o potencial da rede de computadores para toda a "
+"humanidade."
+
+#. type: Content of: <p>
+msgid ""
+"In 1991, the last major essential component of a Unix-like system was "
+"developed: Linux, the free kernel written by Linus Torvalds. Today, the "
+"combination of GNU and Linux is used by millions of people around the world, "
+"and its popularity is growing. This month, we announced release 1.0 of "
+"<acronym title=\"GNU Network Object Model Environment\">GNOME</acronym>, the "
+"GNU graphical desktop, which we hope will make the GNU/Linux system as easy "
+"to use as any other operating system."
+msgstr ""
+"Em 1991, o último grande componente essencial de um sistema similar ao Unix "
+"foi desenvolvido: Linux, o kernel livre escrito por Linus Torvalds. Hoje, a "
+"combinação de GNU e Linux é usada por milhões de pessoas em todo o mundo, e "
+"sua popularidade está crescendo. Este mês, anunciamos a versão 1.0 do "
+"<acronym title=\"GNU Network Object Model Environment\">GNOME</acronym>, o "
+"ambiente gráfico do GNU, que esperamos que torne o sistema GNU/Linux tão "
+"fácil de usar quanto qualquer outro sistema operacional."
+
+#. type: Content of: <p>
+msgid ""
+"But our freedom is not permanently assured. The world does not stand still, "
+"and we cannot count on having freedom five years from now, just because we "
+"have it today. Free software faces difficult challenges and dangers. It will "
+"take determined efforts to preserve our freedom, just as it took to obtain "
+"freedom in the first place. Meanwhile, the operating system is just the "
+"beginning&mdash;now we need to add free applications to handle the whole "
+"range of jobs that users want to do."
+msgstr ""
+"Mas nossa liberdade não está permanentemente assegurada. O mundo não está "
+"parado e não podemos contar com a liberdade daqui a cinco anos, só porque o "
+"temos hoje. O software livre enfrenta desafios e perigos difíceis. Serão "
+"necessários esforços determinados para preservar a nossa liberdade, assim "
+"como foi preciso obter a liberdade em primeiro lugar. Enquanto isso, o "
+"sistema operacional é apenas o começo &ndash; agora precisamos adicionar "
+"aplicativos livres para lidar com toda a gama de trabalhos que os usuários "
+"querem fazer."
+
+#. type: Content of: <p>
+msgid ""
+"In future columns, I will be writing about the specific challenges facing "
+"the free software community, and other issues affecting freedom for computer "
+"users, as well as developments affecting the GNU/Linux operating system."
+msgstr ""
+"Em colunas futuras, estarei escrevendo sobre os desafios específicos "
+"enfrentados pela comunidade de software livre, e outras questões que afetam "
+"a liberdade para usuários de computador, bem como os desenvolvimentos que "
+"afetam o sistema operacional GNU/Linux."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 1999, 2014 Richard M. Stallman"
+msgstr "Copyright &copy; 1999, 2014 Richard M. Stallman"
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+"NoDerivs 3.0 United States License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2019."
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização:"

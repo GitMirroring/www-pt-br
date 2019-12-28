@@ -1,0 +1,392 @@
+# Brazilian Portuguese translation of https://www.gnu.org/server/takeaction.html
+# Copyright (C) 2019 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: takeaction.html\n"
+"POT-Creation-Date: 2018-10-11 08:56+0000\n"
+"PO-Revision-Date: 2019-12-27 11:36-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid "Take Action - GNU Project - Free Software Foundation"
+msgstr "Entre em ação - Projeto GNU - Free Software Foundation"
+
+#. type: Content of: <style>
+#, no-wrap
+msgid ""
+"#content h4 + p { padding-left: 2em; margin-bottom: 0.5em;}\n"
+"#content h4 { font-size: 1.1em !important; padding-left: 1em; }\n"
+msgstr ""
+"#content h4 + p { padding-left: 2em; margin-bottom: 0.5em;}\n"
+"#content h4 { font-size: 1.1em !important; padding-left: 1em; }\n"
+
+#. type: Content of: <h2>
+msgid "Take Action"
+msgstr "Entre em ação"
+
+#. type: Content of: <p>
+msgid ""
+"Items on this page for: <a href=\"#act\">Activists</a> - <a href=\"#dev"
+"\">Developers</a> - <a href=\"#sys\">Sysadmins</a> - <a href=\"#web"
+"\">Webmasters</a> - <a href=\"#xlate\">Translators</a>."
+msgstr ""
+"Itens nesta página para: <a href=\"#act\">Ativistas</a> - <a href=\"#dev"
+"\">Desenvolvedores</a> - <a href=\"#sys\">Administradores de sistemas</a> - "
+"<a href=\"#web\">Webmasters</a> - <a href=\"#xlate\">Tradutores</a>."
+
+#. type: Content of: <h3>
+msgid "For Free Software Activists&hellip;"
+msgstr "Para ativistas de software livre…"
+
+#. type: Content of: <h4>
+msgid "Support current FSF campaigns"
+msgstr "Apoie as campanhas atuais da FSF"
+
+#. type: Content of: <p>
+msgid ""
+"Please support the <a href=\"http://www.fsf.org/campaigns\">FSF campaigns</"
+"a>, currently including: <a href=\"http://www.fsf.org/campaigns/drm.html"
+"\">against DRM</a>, <a href=\"http://upgradefromwindows8.org/\">Upgrade from "
+"Windows 8</a>, <a href=\"http://playogg.org/\">PlayOGG</a>, <a href=\"http://"
+"endsoftpatents.org/\">against software patents</a>, <a href=\"http://www.fsf."
+"org/campaigns/odf.html\">OpenDocument</a>, <a href=\"http://www.libreboot."
+"org/\">free BIOS</a>, and <a href=\"http://www.fsf.org/campaigns/acta/"
+"\">against ACTA</a>.  The overall community site for the global movement for "
+"free software is <a href=\"http://libreplanet.org/\">LibrePlanet</a>."
+msgstr ""
+"Por favor, apoie as <a href=\"http://www.fsf.org/campaigns\">campanhas da "
+"FSF</a>, atualmente incluindo: <a href=\"http://www.fsf.org/campaigns/drm."
+"html\">contra DRM</a>, <a href=\"http://upgradefromwindows8.org/\">Upgrade "
+"from Windows 8</a>, <a href=\"http://playogg.org/\">PlayOGG</a>, <a href="
+"\"http://endsoftpatents.org/\">contra patentes de software</a>, <a href="
+"\"http://www.fsf.org/campaigns/odf.html\">OpenDocument</a>, <a href=\"http://"
+"www.libreboot.org/\">BIOS livre</a> e <a href=\"http://www.fsf.org/campaigns/"
+"acta/\">contra ACTA</a>.  O site geral da comunidade para o movimento global "
+"para o software livre é <a href=\"http://libreplanet.org/\">LibrePlanet</a>."
+
+#. type: Content of: <h4>
+msgid "Help fight software patents"
+msgstr "Ajude a lutar contra as patentes de software"
+
+#. type: Content of: <p>
+msgid ""
+"Please help <a href=\"http://endsoftpatents.org/\">end software patents</a> "
+"worldwide.  Please also support <a href=\"http://www.unitary-patent.eu/"
+"\">anti-software patent efforts in Europe</a> specifically.  Watch and share "
+"the movie <a href=\"http://patentabsurdity.com\"><cite>Patent Absurdity</"
+"cite></a>."
+msgstr ""
+"Por favor, ajude a <a href=\"http://endsoftpatents.org/\">encerrar as "
+"patentes de software</a> no mundo inteiro. Por favor, também apoie <a href="
+"\"http://www.unitary-patent.eu/\">esforços contra patentes de software na "
+"Europa</a> especificamente. Assista e compartilhe o filme <a href=\"http://"
+"patentabsurdity.com\"><cite>Patent Absurdity</cite></a>."
+
+#. type: Content of: <h4>
+msgid "Call on WIPO to change its name and mission"
+msgstr "Solicite que a OMPI mude seu nome e missão"
+
+#. type: Content of: <p>
+msgid ""
+"Please <a href=\"http://fsfe.org/projects/wipo/wiwo.html\">support this "
+"declaration</a> calling on WIPO to change its name and mission."
+msgstr ""
+"Por favor, <a href=\"http://fsfe.org/projects/wipo/wiwo.html\">apoie essa "
+"declaração</a> solicitando que a OMPI mude seu nome e missão."
+
+#. type: Content of: <h4>
+msgid "Enhance the Free Software Directory"
+msgstr "Aprimore o Diretório de Software Livre"
+
+#. type: Content of: <p>
+msgid ""
+"Contribute to the <a href=\"http://directory.fsf.org/\">Free Software "
+"Directory</a>: submit new packages, corrections to existing entries, and <a "
+"href=\"http://directory.fsf.org/wiki/Free_Software_Directory:Participate"
+"\">helping with maintenance</a>."
+msgstr ""
+"Contribua para o <a href=\"http://directory.fsf.org/\">Diretório de Software "
+"Livre</a>: envie novos pacotes, correções para entradas existentes e <a href="
+"\"http://directory.fsf.org/wiki/Free_Software_Directory:Participate\">ajude "
+"com a manutenção</a>."
+
+#. type: Content of: <h4>
+msgid ""
+"Start a GNU/Linux User Group in your area, and send us your group's "
+"information"
+msgstr ""
+"Inicie um grupo de usuários GNU/Linux em sua área e nos envie as informações "
+"de seu grupo"
+
+#. type: Content of: <p>
+msgid ""
+"For more information: <a href=\"http://libreplanet.org/wiki/Group_list\">GNU "
+"Users Groups</a>."
+msgstr ""
+"Para mais informações: <a href=\"http://libreplanet.org/wiki/Group_list"
+"\">Grupos de Usuários do GNU</a>."
+
+#. type: Content of: <h3>
+msgid "For Software Developers&hellip;"
+msgstr "Para desenvolvedores de software…"
+
+#. type: Content of: <h4>
+msgid "Contribute to high priority free software projects"
+msgstr "Contribua para projetos de software livre de alta prioridade"
+
+#. type: Content of: <p>
+msgid ""
+"As listed on the FSF's <a href=\"http://www.fsf.org/campaigns/priority.html"
+"\">high-priority projects web page</a>."
+msgstr ""
+"Conforme listado na <a href=\"http://www.fsf.org/campaigns/priority.html"
+"\">página web de projetos de alta prioridade</a> da FSF."
+
+#. type: Content of: <h4>
+msgid "Contribute to GNUstep"
+msgstr "Contribua para o GNUstep"
+
+#. type: Content of: <p>
+msgid ""
+"Please contribute as a user and developer to <a href=\"http://www.gnustep.org"
+"\">GNUstep</a>, a free object-oriented framework for application "
+"development, and help it achieve the status of a complete and featured "
+"desktop environment."
+msgstr ""
+"Contribua como usuário e desenvolvedor para o <a href=\"http://www.gnustep."
+"org\">GNUstep</a>, uma estrutura livre e orientada a objetos para o "
+"desenvolvimento de aplicativos, e ajude-o a alcançar o status de ambiente de "
+"trabalho em destaque."
+
+#. type: Content of: <h4>
+msgid "Take over an unmaintained GNU package"
+msgstr "Assuma um pacote GNU sem mantenedor"
+
+#. type: Content of: <p>
+msgid "These GNU packages are looking for a maintainer:"
+msgstr "Esses pacotes GNU estão procurando por um mantenedor:"
+
+#. type: Content of: <p>
+msgid ""
+"<a href=\"/software/cfengine/\">cfengine</a>, <a href=\"/software/freetalk/"
+"\">freetalk</a>, <a href=\"/software/halifax/\">halifax</a>, <a href=\"/"
+"software/mcron/\">mcron</a>, <a href=\"/software/quickthreads/"
+"\">quickthreads</a>"
+msgstr ""
+"<a href=\"/software/cfengine/\">cfengine</a>, <a href=\"/software/freetalk/"
+"\">freetalk</a>, <a href=\"/software/halifax/\">halifax</a>, <a href=\"/"
+"software/mcron/\">mcron</a>, <a href=\"/software/quickthreads/"
+"\">quickthreads</a>"
+
+#. type: Content of: <p>
+msgid ".  And these packages are looking for co-maintainers:"
+msgstr ". E esses pacotes estão procurando por comantenedores:"
+
+#. type: Content of: <p>
+msgid ""
+"<a href=\"/software/aspell/\">aspell</a>, <a href=\"/software/bison/"
+"\">bison</a>, <a href=\"/software/gnuae/\">gnuae</a>, <a href=\"/software/"
+"gettext/\">gettext</a>, <a href=\"/software/gnubik/\">gnubik</a>, <a href=\"/"
+"software/metaexchange/\">metaexchange</a>, <a href=\"/software/powerguru/"
+"\">powerguru</a>, <a href=\"/software/xboard/\">xboard</a>"
+msgstr ""
+"<a href=\"/software/aspell/\">aspell</a>, <a href=\"/software/bison/"
+"\">bison</a>, <a href=\"/software/gnuae/\">gnuae</a>, <a href=\"/software/"
+"gettext/\">gettext</a>, <a href=\"/software/gnubik/\">gnubik</a>, <a href=\"/"
+"software/metaexchange/\">metaexchange</a>, <a href=\"/software/powerguru/"
+"\">powerguru</a>, <a href=\"/software/xboard/\">xboard</a>"
+
+#. type: Content of: <p>
+msgid ""
+".  See the package web pages for specific information, and <a href=\"/help/"
+"evaluation.html#whatmeans\">this general information about GNU packages and "
+"maintenance</a>, and then email <a href=\"mailto:maintainers@gnu.org"
+"\">maintainers@gnu.org</a> if you have time and interest in taking over one "
+"of these projects."
+msgstr ""
+". Veja as páginas web do pacote para informações específicas e <a href=\"/"
+"help/evaluation.html#whatmeans\">essas informações gerais sobre pacotes GNU "
+"e manutenção</a> e então, envie um e-mail para <a href=\"mailto:"
+"maintainers@gnu.org\">maintainers@gnu.org</a> se você tiver tempo e "
+"interesse em assumir um desses projetos."
+
+#. type: Content of: <h4>
+msgid "Contribute to the development of a GNU package"
+msgstr "Contribua para o desenvolvimento de um pacote GNU"
+
+#. type: Content of: <p>
+msgid ""
+"See &ldquo;<a href=\"http://savannah.gnu.org/people\">help wanted</a>&rdquo; "
+"requests from the maintainers of many packages."
+msgstr ""
+"Veja “<a href=\"http://savannah.gnu.org/people\">projetos precisando de "
+"ajuda</a>” de mantenedores de muitos pacotes."
+
+#. type: Content of: <h4>
+msgid "Make your program a GNU package"
+msgstr "Torne seu programa um pacote GNU"
+
+#. type: Content of: <p>
+msgid ""
+"To make your free software package part of the GNU System, see this <a href="
+"\"http://www.gnu.org/help/evaluation.html\">information on starting your "
+"application</a>."
+msgstr ""
+"Para tornar seu pacote de software livre parte do sistema GNU, consulte "
+"estas <a href=\"http://www.gnu.org/help/evaluation.html\">informações sobre "
+"como iniciar seu aplicativo</a>."
+
+#. type: Content of: <h3>
+msgid "For System Administrators&hellip;"
+msgstr "Para administradores de sistema…"
+
+#. type: Content of: <h4>
+msgid "Help with administration of Savannah"
+msgstr "Ajude com a administração do Savannah"
+
+#. type: Content of: <p>
+msgid ""
+"Help maintain the <a href=\"http://savannah.gnu.org/\">free software hosting "
+"site</a> sponsored by GNU: <a href=\"http://savannah.gnu.org/maintenance/"
+"HowToBecomeASavannahHacker\"> more information</a>."
+msgstr ""
+"Ajude a manter o <a href=\"http://savannah.gnu.org/\">site de hospedagem de "
+"software livre</a> patrocinado pela GNU: <a href=\"http://savannah.gnu.org/"
+"maintenance/HowToBecomeASavannahHacker\"> mais informações</a>."
+
+#. type: Content of: <h3>
+msgid "For Webmasters&hellip;"
+msgstr "Para webmasters…"
+
+#. type: Content of: <h4>
+msgid "Join the GNU webmasters team"
+msgstr "Junte-se à equipe de webmasters do GNU"
+
+#. type: Content of: <p>
+msgid ""
+"<a href=\"http://www.gnu.org/people/webmeisters.html\">More information</a>."
+msgstr ""
+"<a href=\"http://www.gnu.org/people/webmeisters.html\">Mais informações</a>."
+
+#. type: Content of: <h3>
+msgid "For Translators&hellip;"
+msgstr "Para tradutores…"
+
+#. type: Content of: <h4>
+msgid "Join a GNU translation team"
+msgstr "Junte-se a uma equipe de tradução do GNU"
+
+# | [-For information on coordinating-]{+Help maintain+} and [-submitting-]
+# | {+update+} translations of [-this article, see-] {+www.gnu.org:+} <a
+# | [-href=\"/server/standards/README.translations.html\">Translations
+# | README</a>.-]
+# | {+href=\"http://www.gnu.org/server/standards/README.translations.html\">more
+# | information</a>.+}
+#. type: Content of: <p>
+msgid ""
+"Help maintain and update translations of www.gnu.org: <a href=\"http://www."
+"gnu.org/server/standards/README.translations.html\">more information</a>."
+msgstr ""
+"Ajude a manter e atualizar traduções do www.gnu.org: <a href=\"http://www."
+"gnu.org/server/standards/README.translations.html\">mais informações</a>."
+
+#. type: Content of: <p>
+msgid ""
+"Finally, the separate page <a href=\"/help/help.html\">How You Can Help the "
+"GNU Project</a> has more details and additional items."
+msgstr ""
+"Finalmente, a página separada <a href=\"/help/help.html\">Como você pode "
+"ajudar o Projeto GNU</a> tem mais detalhes e itens adicionais."
+
+#. type: Content of: <p>
+msgid ""
+"Action items for: <a href=\"#act\">Activists</a> - <a href=\"#dev"
+"\">Developers</a> - <a href=\"#sys\">Sysadmins</a> - <a href=\"#web"
+"\">Webmasters</a> - <a href=\"#xlate\">Translators</a>."
+msgstr ""
+"Itens de ação para: <a href=\"#act\">Ativistas</a> - <a href=\"#dev"
+"\">Desenvolvedores</a> - <a href=\"#sys\">Administradores de sistemas</a> - "
+"<a href=\"#web\">Webmasters</a> - <a href=\"#xlate\">Tradutores</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+# | Copyright &copy; 2014, 2015, 2016, [-2017-] {+2017, 2018+} Free Software
+# | Foundation, Inc.
+#. type: Content of: <div><p>
+msgid ""
+"Copyright &copy; 2014, 2015, 2016, 2017, 2018 Free Software Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2014, 2015, 2016, 2017, 2018 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2019."
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização:"

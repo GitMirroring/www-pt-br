@@ -1,0 +1,305 @@
+# Brazilian Portuguese translation of http://www.gnu.org/software/gethelp.html
+# Copyright (C) 2019 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: gethelp.html\n"
+"POT-Creation-Date: 2015-09-25 05:55+0000\n"
+"PO-Revision-Date: 2019-12-27 18:04-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid "Getting help with GNU software - GNU Project - Free Software Foundation"
+msgstr ""
+"Obtendo ajuda com software GNU - Projeto GNU - Free Software Foundation"
+
+#. type: Content of: <h2>
+msgid "Getting help with GNU software"
+msgstr "Obtendo ajuda com software GNU"
+
+#. type: Content of: <p>
+msgid ""
+"The Free Software Foundation does not provide technical support.  Our "
+"mission is developing, preserving, and protecting <a href=\"/philosophy/free-"
+"sw.html\">free software</a>.  We leave it to others to earn a living "
+"providing support.  We see programmers as providing a service, much as "
+"doctors and lawyers do now; both medical and legal knowledge are freely "
+"redistributable, but their practitioners charge for service.  So "
+"<strong>please do not email us or call the FSF Office for technical support."
+"</strong>"
+msgstr ""
+"A Free Software Foundation não fornece suporte técnico. Nossa missão é "
+"desenvolver, preservar e proteger <a href=\"/philosophy/free-sw.html"
+"\">software livre</a>. Nós deixamos para outros a tarefa de ganhar a vida "
+"fornecendo suporte. Nós vemos os programadores como prestadores de serviço, "
+"de forma semelhante ao que médicos e advogados fazem hoje; tanto o "
+"conhecimento médico quanto jurídico pode ser livremente redistribuídos, mas "
+"os profissionais cobram pelo serviço. Por isso, <strong>por favor, não nos "
+"escreva nem telefone para o escritório FSF pedindo por suporte técnico.</"
+"strong>"
+
+#. type: Content of: <p>
+msgid ""
+"You can obtain <a href=\"/doc/doc.html\">GNU Project documentation</a> "
+"through various methods, which should answer many of your questions."
+msgstr ""
+"Você pode obter a <a href=\"/doc/doc.html\">Documentação do Projeto GNU</a> "
+"por vários meios, que devem responder à maioria das suas perguntas."
+
+#. type: Content of: <h3>
+msgid "Reporting bugs"
+msgstr "Relatando erros"
+
+#. type: Content of: <p>
+msgid ""
+"Many companies now redistribute GNU software, often as part of a <a href=\"/"
+"distros/free-distros.html\">GNU/Linux distribution</a>.  When you find bugs "
+"in a GNU program that you installed with a given GNU/Linux distribution, "
+"please first try reporting the bug directly to the distributor, not to us, "
+"using the distributor's mailing lists or web forms.  It is common for "
+"distributors to modify the original GNU software we release (as they are "
+"free to do!), and/or distribute older versions.  The maintainers of the "
+"original GNU packages usually have no knowledge of what particular "
+"distributors have done."
+msgstr ""
+"Muitas empresas agora redistribuem os softwares GNU, geralmente como parte "
+"de uma <a href=\"/distros/free-distros.html\">distribuição GNU/Linux</a>. "
+"Quando você encontrar erros em um programa do GNU que você instalou com uma "
+"determinada distribuição GNU/Linux, primeiro tente relatar o erro "
+"diretamente ao distribuidor, não a nós, usando as listas de distribuição ou "
+"os formulários web do distribuidor. É comum que os distribuidores modifiquem "
+"o software GNU original que lançamos (como eles são livres para fazer!) e/ou "
+"distribuam versões mais antigas. Os mantenedores dos pacotes GNU originais "
+"geralmente não têm conhecimento do que determinados distribuidores fizeram."
+
+#. type: Content of: <p>
+msgid ""
+"However, if you find a deficiency in the canonical release of a GNU package, "
+"we want to know.  You can find out where to report bugs for a given package "
+"as follows:"
+msgstr ""
+"Porém, se você encontrar uma deficiência em lançamento canônico de um pacote "
+"GNU, nós gostaríamos de saber. Você pode descobrir onde relatar erros para "
+"um determinado pacote da seguinte forma:"
+
+#. type: Content of: <ul><li>
+msgid ""
+"If you run the program on the command line with the <code>--help</code> "
+"option, you should find the location where to report bugs, usually at the "
+"end of the help message."
+msgstr ""
+"Se você executar o programa na linha de comando com a opção <code>--help</"
+"code>, deve encontrar o local onde relatar erros, geralmente no final da "
+"mensagem de ajuda."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Otherwise, look for the home page of the package.  Usually this is "
+"<code>http://www.gnu.org/software/</code><em>pkgname</em>.  If this doesn't "
+"work or you don't know the package name, information for all GNU packages is "
+"included in the FSF <a href=\"http://directory.fsf.org/wiki/GNU/\">Free "
+"Software Directory</a>.  The home page should also be prominently mentioned "
+"in the package documentation or README files, and is often findable with a "
+"general Internet search."
+msgstr ""
+"Caso contrário, procure a página inicial do pacote. Normalmente, este é "
+"<code>http://www.gnu.org/software/</code><em>nome-pacote</em>. Se isso não "
+"funcionar ou você não souber o nome do pacote, as informações de todos os "
+"pacotes GNU serão incluídas no <a href=\"http://directory.fsf.org/wiki/GNU/"
+"\">Diretório de Software Livre</a> da FSF. A página inicial também deve ser "
+"mencionada com destaque na documentação do pacote ou nos arquivos README, e "
+"geralmente é encontrada em uma pesquisa geral na Internet."
+
+#. type: Content of: <ul><li>
+msgid ""
+"The email address &lt;bug-<em>pkgname</em>@gnu.org&gt; will generally work "
+"for GNU packages, even if it is not a mailing list in its own right."
+msgstr ""
+"O endereço de email &lt;bug-<em>nome-pacote</em>@gnu.org&gt; geralmente "
+"funciona para pacotes GNU, mesmo que não seja uma lista de discussão por si "
+"só."
+
+#. type: Content of: <ul><li>
+msgid "The source files for a package may give other clues."
+msgstr "Os arquivos fontes para um pacote pode lhe dar outras dicas."
+
+#. type: Content of: <p>
+msgid ""
+"When we receive a bug report for our canonical releases, we usually try to "
+"fix the problem.  While our bug fixes may seem like individual assistance, "
+"they are not; they are part of preparing a new improved version.  We may "
+"send you a patch for a bug so that you can help us test the fix and ensure "
+"its quality.  If your bug report does not evoke a solution from us, you may "
+"still get one from another user who reads our bug report mailing lists."
+msgstr ""
+"Quando nós recebemos um relatório de erro para nossos lançamentos canônicos, "
+"nós geralmente tentamos consertar o problema. Embora nossas correções de "
+"erros possam parecer assistência individual, elas não são; elas são parte do "
+"trabalho de se preparar uma nova versão aperfeiçoada. Nós podemos enviar "
+"para você um patch para o erro de modo que você nos ajude a testar a "
+"correção e garantir a sua qualidade. Se o seu relatório de erro não receber "
+"uma solução de nós, você ainda pode conseguir uma de outro usuário que leia "
+"nossas listas de e-mail sobre erros."
+
+#. type: Content of: <p>
+msgid ""
+"In other words, please do not ask us to help you install software or learn "
+"how to use it&mdash;but do tell us how an installation script fails or where "
+"documentation is unclear."
+msgstr ""
+"Em outras palavras, não nos peça ajuda para a instalação de software ou para "
+"aprender como usá-lo &ndash; mas nos diga se um script de instalação falhar "
+"ou se a documentação não for clara."
+
+#. type: Content of: <p>
+msgid ""
+"If an important bug report goes unheeded by the maintainer after a "
+"reasonable time (please allow at least two weeks), you can &ldquo;"
+"escalate&rdquo; the bug by writing to &lt;maintainers@gnu.org&gt;.  This is "
+"especially warranted if you can't find evidence of recent activity by the "
+"maintainer."
+msgstr ""
+"Se um importante relatório de erro não for atendido pelo mantenedor após um "
+"tempo razoável (aguarde pelo menos duas semanas), você poderá “escalar” o "
+"erro escrevendo para &lt;maintainers@gnu.org&gt;. Isso é especialmente "
+"garantido se você não encontrar evidências de atividade recente do "
+"mantenedor."
+
+#. type: Content of: <p>
+msgid ""
+"When sending a bug report, please do not include very large attachments.  "
+"Messages to GNU mailing lists have a limit of about 200k, and will reject "
+"anything larger than that.  Uploads to <a href=\"http://savannah.gnu.org"
+"\">Savannah</a> have a limit of 16 MB.  The best approach is to put the "
+"files on the web and include a url in your message.  If you have no way to "
+"do that, then ask about it; something can be worked out."
+msgstr ""
+"Ao enviar um relatório de erro, não inclua anexos muito grandes. As "
+"mensagens para as listas de discussão GNU têm um limite de cerca de 200k e "
+"rejeitarão qualquer coisa maior que isso. Os envios para <a href=\"http://"
+"savannah.gnu.org\">Savannah</a> têm um limite de 16 MB. A melhor abordagem é "
+"colocar os arquivos na web e incluir um URL na sua mensagem. Se você não tem "
+"como fazer isso, pergunte sobre isso; algo pode ser resolvido."
+
+#. type: Content of: <h3>
+msgid "Getting general help"
+msgstr "Obtendo ajuda em geral"
+
+#. type: Content of: <p>
+msgid ""
+"We host many <a href=\"http://lists.gnu.org/\">mailing lists for GNU and "
+"other free software</a>, both for bug reporting and general discussion and "
+"help.  The mailing lists with names beginning with <code>help-</code> are "
+"lists for getting help from the community.  If you can't find a mailing list "
+"for a particular GNU program, then please use the <a href=\"http://lists.gnu."
+"org/mailman/listinfo/help-gnu-utils/\">help-gnu-utils</a> mailing list."
+msgstr ""
+"Nós hospedamos muitas <a href=\"http://lists.gnu.org/\">listas de discussão "
+"para GNU e outros softwares livre</a>, tanto para relatórios de erros quanto "
+"para discussão e ajuda em geral. As listas de discussão com nomes começando "
+"com <code>help-</code> são listas para obter ajuda da comunidade. Se você "
+"não conseguir encontrar uma lista de discussão para um programa GNU "
+"específico, use a lista de discussão <a href=\"http://lists.gnu.org/mailman/"
+"listinfo/help-gnu-utils/\">help-gnu-utils</a>."
+
+#. type: Content of: <p>
+msgid ""
+"The <a href=\"http://www.fsf.org/resources/service\">FSF Service Directory</"
+"a> is a list of people who offer support and other consulting services.  "
+"(Contact information for new and updated listings is on that page.)"
+msgstr ""
+"O <a href=\"http://www.fsf.org/resources/service\">Diretório de Serviços da "
+"FSF</a> é uma lista de pessoas que oferecem suporte e outros serviços de "
+"consultoria. (Informações de contato para listagens novas e atualizadas está "
+"naquela página.)"
+
+#. type: Content of: <p>
+msgid ""
+"There are also <a href=\"/server/irc-rules.html\">active IRC channels for "
+"GNU software</a> in which you can chat with developers and users."
+msgstr ""
+"Há também <a href=\"/server/irc-rules.html\">canais IRC ativos para software "
+"GNU</a> nos quais você pode conversar com desenvolvedores e usuários."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid ""
+"Copyright &copy; 2008, 2009, 2010, 2014, 2015 Free Software Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2008, 2009, 2010, 2014, 2015 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por:\n"
+"Fernando Lozano <a href=\"mailto:fsl@centroin.com.br\">&lt;fsl@centroin.com."
+"br&gt;</a>, 2001;\n"
+"Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome."
+"org&gt;</a>, 2019."
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização:"

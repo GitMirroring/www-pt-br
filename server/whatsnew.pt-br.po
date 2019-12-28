@@ -1,0 +1,546 @@
+# Brazilian Portuguese translation of https://www.gnu.org/server/whatsnew.html
+# Copyright (C) 2019 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: whatsnew.html\n"
+"POT-Creation-Date: 2013-04-11 04:03-0300\n"
+"PO-Revision-Date: 2019-12-27 17:51-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid ""
+"What's New in and about the GNU Project - GNU Project - Free Software "
+"Foundation"
+msgstr "Novidades do Projeto GNU - Projeto GNU - Free Software Foundation"
+
+#. type: Content of: <h2>
+msgid "What's New in and about the GNU Project"
+msgstr "Novidades do Projeto GNU"
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid ""
+"Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, "
+"2006, 2007, 2008, 2009, 2012, 2013 Free Software Foundation, Inc."
+msgstr ""
+"Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, "
+"2006, 2007, 2008, 2009, 2012, 2013 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+"NoDerivs 3.0 United States License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por:\n"
+"Fernando Lozano <a href=\"mailto:fernando@lozano.eti.br\">&lt;"
+"fernando@lozano.eti.br&gt;</a>, 2005.\n"
+"Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome."
+"org&gt;</a>, 2019."
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização:"
+
+#. type: Content of: <p>
+msgid ""
+"<a href=\"http://www.fsf.org/events\"><strong>Coming Events</strong></a> | "
+"<a href=\"/keepingup.html\"><strong>Keeping Up With GNU/FSF</strong></a> | "
+"<a href=\"/press/press.html\"><strong>Press Information</strong></a> and <a "
+"href=\"/press/press.html#releases\"><strong>Releases</strong></a>"
+msgstr ""
+"<a href=\"http://www.fsf.org/events\"><strong>Próximos eventos</strong></a> "
+"| <a href=\"/keepingup.html\"><strong>Mantendo-se atualizado com GNU/FSF</"
+"strong></a> | <a href=\"/press/press.html\"><strong>Informações</strong></a> "
+"e <a href=\"/press/press.html#releases\"><strong>Comunicados de imprensa</"
+"strong></a>"
+
+#. type: Content of: <dl><dt>
+msgid "26 January 2011"
+msgstr "26 de janeiro de 2011"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"A first installment of a <a href=\"/bulletins/gnustatus-2011-01.html\">GNU "
+"Status Report</a> is available.  This is a partial revival of the original "
+"<cite>GNU's Bulletin</cite>, with the aim of providing GNU-wide information "
+"from time to time, for as many packages as possible.  <a href=\"/bulletins/"
+"bulletins.html\">More info</a>."
+msgstr ""
+"Uma primeira parte do <a href=\"/bulletins/gnustatus-2011-01.html"
+"\">Relatório de status do GNU</a> está disponível. Este é um renascimento "
+"parcial do <cite>Boletim do GNU</cite>, com o objetivo de fornecer "
+"informações gerais sobre o GNU de tempos em tempos, para o maior número "
+"possível de pacotes. <a href=\"/bulletins/bulletins.html\">Mais informações</"
+"a>."
+
+#. type: Content of: <dl><dt>
+msgid "9 December 2010"
+msgstr "9 de dezembro de 2010"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"Savannah was down for a few days recently due to a password compromise and "
+"then a disk failure.  Also, some Apache features have been turned off for "
+"web pages.  <a href=\"http://savannah.gnu.org/news/\">Full news items</a>."
+msgstr ""
+"O Savannah ficou inoperante por alguns dias recentemente devido a um "
+"comprometimento de senha e depois a uma falha no disco. Além disso, alguns "
+"recursos do Apache foram desativados para páginas web. <a href=\"http://"
+"savannah.gnu.org/news/\">Notícias completas</a>."
+
+#. type: Content of: <dl><dt>
+msgid "16 November 2010"
+msgstr "16 de novembro de 2010"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"US citizens: Stop the Internet blacklist bill. Sign the petition at <a href="
+"\"http://demandprogress.org/blacklist/\">http://demandprogress.org/"
+"blacklist</a>, and see <a href=\"http://www.fsf.org/blogs/community/the-"
+"internet-blacklist-coica-is-back-take-action-before-thursday\">the post on "
+"fsf.org</a> for more information."
+msgstr ""
+"Cidadãos dos EUA: interrompam a conta da lista negra da Internet. Assine a "
+"petição em <a href=\"http://demandprogress.org/blacklist/\">http://"
+"demandprogress.org/blacklist</a> e consulte <a href=\"http://www.fsf.org/"
+"blogs/community/the-internet-blacklist-coica-is-back-take-action-before-"
+"thursday\">a publicação em fsf.org</a> para mais informações."
+
+#. type: Content of: <dl><dt>
+msgid "29 September 2010"
+msgstr "29 de setembro de 2010"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"Interested in free video formats? We need your help! <a href=\"http://www."
+"fsf.org/blogs/community/interested-in-free-video-formats-we-need-your-help"
+"\">The FSF is looking</a> for a few volunteers willing to commit an average "
+"of a few hours per week as reliable technical consultants helping people "
+"transcode their videos to free formats like WebM and Ogg Theora."
+msgstr ""
+"Interessado em formatos livres de vídeo? Nós precisamos da sua ajuda! <a "
+"href=\"http://www.fsf.org/blogs/community/interested-in-free-video-formats-"
+"we-need-your-help\">A FSF está procurando</a> alguns voluntários dispostos a "
+"se comprometer em uma média de algumas horas por semana como consultores "
+"técnicos confiáveis, ajudando as pessoas a transcodificar seus vídeos para "
+"formatos livres como WebM e Ogg Theora."
+
+#. type: Content of: <dl><dt>
+msgid "30 June 2010"
+msgstr "30 de junho de 2010"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"The June issue of the <cite>Free Software Supporter</cite> is out -- you can "
+"<a href=\"http://lists.fsf.org/archive/html/info-fsf/2010-06/msg00003.html"
+"\">read it</a> and <a href=\"http://www.fsf.org/free-software-supporter"
+"\">subscribe</a> to receive future monthly issues by e-mail."
+msgstr ""
+"A edição de junho do <cite>Suporte ao Software Livre</cite> foi lançada &ndash; "
+"você pode <a href=\"http://lists.fsf.org/archive/html/info-fsf/2010-06/"
+"msg00003.html\">lê-la</a> e <a href=\"http://www.fsf.org/free-software-"
+"supporter\">se inscrever</a> para receber edições mensais futuras por e-mail."
+
+#. type: Content of: <dl><dt>
+msgid "25 March 2010"
+msgstr "25 de março de 2010"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"GNU urges people working on free software to follow standards and guidelines "
+"for universal accessibility on GNU/Linux and other free operating systems "
+"with the release of <a href=\"http://www.gnu.org/accessibility/accessibility."
+"html\">the GNU Accessibility Statement</a>."
+msgstr ""
+"O GNU recomenda que as pessoas que trabalham com software livre sigam os "
+"padrões e diretrizes de acessibilidade universal no GNU/Linux e outros "
+"sistemas operacionais livres com o lançamento da <a href=\"http://www.gnu."
+"org/accessibility/accessibility.html\">Declaração de Acessibilidade do GNU</"
+"a>."
+
+#. type: Content of: <dl><dt>
+msgid "20 March 2010"
+msgstr "20 de março de 2010"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"FSF President Richard Stallman explains the dangers of Software as a Service "
+"for free software in <a href=\"http://www.gnu.org/philosophy/who-does-that-"
+"server-really-serve.html\">a new article</a>."
+msgstr ""
+"O presidente da FSF, Richard Stallman, explica os perigos do Software como "
+"Serviço para o software livre em <a href=\"http://www.gnu.org/philosophy/who-"
+"does-that-server-really-serve.html\">um novo artigo</a>."
+
+#. type: Content of: <dl><dt>
+msgid "2 January 2010"
+msgstr "2 de janeiro de 2010"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"All packages using <a href=\"/software/automake/\">GNU Automake</a> to "
+"produce distribution tarballs with <tt>make dist</tt> should update to the "
+"1.11.1 or 1.10.3 release, or otherwise work around <a href=\"http://thread."
+"gmane.org/gmane.comp.sysutils.autotools.announce/131\">the problem</a>."
+msgstr ""
+"Todos os pacotes que usam o <a href=\"/software/automake/\">GNU Automake</a> "
+"para produzir tarballs de distribuição com <tt>make dist</tt> devem "
+"atualizar para a versão 1.11.1 ou 1.10.3, ou caso contrário contornar <a "
+"href=\"http://thread.gmane.org/gmane.comp.sysutils.autotools."
+"announce/131\">o problema</a>."
+
+#. type: Content of: <dl><dt>
+msgid "31 December 2009"
+msgstr "31 de dezembro de 2009"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"The FSF is hosting a GNU Hackers' Meeting for GNU maintainers and "
+"contributors from March 18th-21st as part of the LibrePlanet 2010 conference "
+"in Cambridge, Massachusetts. <a href=\"http://groups.fsf.org/wiki/"
+"LibrePlanet2010/GNUHackersMeeting\">Read the details and RSVP.</a>"
+msgstr ""
+"A FSF sediará uma GNU Hackers Meeting para mantenedores e colaboradores do "
+"GNU de 18 a 21 de março como parte da conferência LibrePlanet 2010 em "
+"Cambridge, Massachusetts. <a href=\"http://groups.fsf.org/wiki/"
+"LibrePlanet2010/GNUHackersMeeting\">Leia os detalhes e confirme a presença.</"
+"a>"
+
+#. type: Content of: <dl><dt>
+msgid "23 July 2009"
+msgstr "23 de julho de 2009"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"FSF president Richard Stallman explains the unintended interactions between "
+"the Swedish Pirate Party's platform and free software -- and proposes a "
+"solution -- in his new article, <a href=\"http://www.gnu.org/philosophy/"
+"pirate-party.html\">How the Swedish Pirate Party Platform Backfires on Free "
+"Software</a>."
+msgstr ""
+"O presidente da FSF Richard Stallman explica as interações não intencionais "
+"entre a plataforma do Partido Pirata Sueco e o software livre - e propõe uma "
+"solução -- em seu novo artigo, <a href=\"http://www.gnu.org/philosophy/"
+"pirate-party.html\">Como a plataforma do Partido Pirata Sueco prejudica o "
+"Software Livre</a>."
+
+#. type: Content of: <dl><dt>
+msgid "27 May 2009"
+msgstr "27 de maio de 2009"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"Help improve Canadian copyright law! The Globe and Mail has put C-61, a "
+"copyright reform bill, on a wiki for editing. See <a href=\"http://groups."
+"fsf.org/wiki/Canada/RewriteCanadianCopyrightLaw\">the LibrePlanet page</a> "
+"for information on participating."
+msgstr ""
+"Ajude a melhorar a lei de direitos autorais canadense! O Globe and Mail "
+"propôs a C-61, uma lei de reforma de direitos autorais, em um wiki para "
+"edição. Veja <a href=\"http://groups.fsf.org/wiki/Canada/"
+"RewriteCanadianCopyrightLaw\">a página da LibrePlanet</a> para obter "
+"informações sobre a participação."
+
+#. type: Content of: <dl><dd>
+msgid ""
+"The FSF is hiring a new campaigns manager, to help with GNU and to run "
+"DefectiveByDesign, PlayOgg, and other exciting free software campaigns. <a "
+"href=\"http://www.fsf.org/news/campaigns-manager\">Read about the job and "
+"how to apply</a>."
+msgstr ""
+"A FSF está contratando um novo gerente de campanhas, para ajudar no GNU e "
+"executar DefectiveByDesign, PlayOgg e outras campanhas interessantes de "
+"software livre. <a href=\"http://www.fsf.org/news/campaigns-manager\">Leia "
+"sobre o trabalho e como se inscrever</a>."
+
+#. type: Content of: <dl><dt>
+msgid "7 May 2009"
+msgstr "7 de maio de 2009"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"FSF has launched a new free software activist internship program. "
+"Applications for the summer term are due Monday, May 25. <a href=\"http://"
+"fsf.org/news/new-internship-program\">Read the full announcement.</a>"
+msgstr ""
+"A FSF lançou um novo programa de estágio para ativistas de software livre. "
+"As inscrições para o período de verão terminam segunda-feira, 25 de maio. <a "
+"href=\"http://fsf.org/news/new-internship-program\">Leia o comunicado "
+"completo.</a>"
+
+#. type: Content of: <dl><dt>
+msgid "14 April 2009"
+msgstr "14 de abril de 2009"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"Richard Stallman has given an interview to O'Reilly Media in which he talks "
+"about Free Software licencing and a number of other current issues including "
+"software patents, free device drivers, and the FSF's current campaigns. <a "
+"href=\"http://www.gnu.org/philosophy/speeches-and-interview.html\">Read the "
+"interview here.</a>"
+msgstr ""
+"Richard Stallman deu uma entrevista à O'Reilly Media, na qual ele fala sobre "
+"o licenciamento de software livre e uma série de outras questões atuais, "
+"incluindo patentes de software, drivers de dispositivos livres e as "
+"campanhas atuais da FSF. <a href=\"http://www.gnu.org/philosophy/speeches-"
+"and-interview.html\">Leia a entrevista aqui.</a>"
+
+#. type: Content of: <dl><dt>
+msgid "25 March 2009"
+msgstr "25 de março de 2009"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"CREDIL is hosting a contest where you can win prize money for working on "
+"free software. It's been going for a couple of days already, but the "
+"deadline isn't until Sunday, March 28th, so there's still time. <a href="
+"\"http://www.fsf.org/blogs/community/credil-contest-2009\">Read more.</a>"
+msgstr ""
+"O CREDIL está organizando um concurso no qual você pode ganhar prêmios em "
+"dinheiro por trabalhar em software livre. Já faz alguns dias, mas o prazo "
+"não é até domingo, 28 de março, então ainda há tempo. <a href=\"http://www."
+"fsf.org/blogs/community/credil-contest-2009\">Leia mais.</a>"
+
+#. type: Content of: <dl><dt>
+msgid "24 March 2009"
+msgstr "24 de março de 2009"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"Wietse Venema and Creative Commons were announced as winners of the annual "
+"free software awards at LibrePlanet last weekend. <a href=\"http://www.fsf."
+"org/news/2008_free_software_awards\">Read more</a> about their work and the "
+"awards."
+msgstr ""
+"Wietse Venema e Creative Commons foram anunciados como vencedores dos "
+"prêmios anuais de software livre na LibrePlanet no último final de semana. "
+"<a href=\"http://www.fsf.org/news/2008_free_software_awards\">Leia mais</a> "
+"sobre seu trabalho e os prêmios."
+
+#. type: Content of: <dl><dt>
+msgid "23 March 2009"
+msgstr "23 de março de 2009"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"Help spring the <a href=\"http://www.gnu.org/philosophy/javascript-trap.html"
+"\">Javascript Trap!</a> During the LibrePlanet conference, Richard Stallman "
+"announced a plan of action for addressing the problem of non-free "
+"Javascript, Flash and Silverlight programs. <a href=\"http://www.fsf.org/"
+"news/javascript-trap\">Read more</a> about this threat to user freedom and "
+"how you can help."
+msgstr ""
+"Ajude a espalhar <a href=\"http://www.gnu.org/philosophy/javascript-trap.html"
+"\">A Armadilha do Javascript</a>! Durante a conferência LibrePlanet, Richard "
+"Stallman anunciou um plano de ação para solucionar o problema de programas "
+"Javascript, Flash e Silverlight não livres. <a href=\"http://www.fsf.org/"
+"news/javascript-trap\">Leia mais</a> sobre esta ameaça à liberdade do "
+"usuário e como você pode ajudar."
+
+#. type: Content of: <dl><dt>
+msgid "7 March 2009"
+msgstr "7 de março de 2009"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"More and more students are considering whether a university teaches computer "
+"science and software development using Free Software when deciding where "
+"they will study. If you know of a Free-Software-oriented university then <a "
+"href=\"mailto:webmasters@gnu.org\">email us</a>."
+msgstr ""
+"Mais e mais estudantes estão considerando se uma universidade ensina ciência "
+"da computação e desenvolvimento de software usando o Software Livre ao "
+"decidir onde estudarão. Se você conhece uma universidade que usa somente "
+"Software Livre, <a href=\"mailto:webmasters@gnu.org\">envie-nos um email</a>."
+
+#. type: Content of: <dl><dt>
+msgid "24 February 2009"
+msgstr "24 de fevereiro de 2009"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"New Zealanders, please support the <a href=\"http://creativefreedom.org.nz/"
+"\">Creative Freedom Foundation</a>."
+msgstr ""
+"Neozelandeses, apoiem a <a href=\"http://creativefreedom.org.nz/\">Creative "
+"Freedom Foundation</a>."
+
+#. type: Content of: <dl><dt>
+msgid "16 February 2009"
+msgstr "16 de fevereiro de 2009"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"Europeans, please attend <a href=\"http://www.greens-efa.org/cms/default/"
+"dok/270/270613.who_wants_to_control_the_internet@en.htm\">this conference</"
+"a> on the Telecom package, called \"Who wants to control the Internet?\"."
+msgstr ""
+"Europeus, por favor, participem <a href=\"http://www.greens-efa.org/cms/"
+"default/dok/270/270613.who_wants_to_control_the_internet@en.htm\">desta "
+"conferência</a> no pacote de Telecomunicações, chamado “Quem quer controlar "
+"a Internet?”."
+
+#. type: Content of: <dl><dt>
+msgid "1 February 2009"
+msgstr "1 de fevereiro de 2009"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"PDF is a free format supported by free software but many PDF documents "
+"instruct you to use a particular vendor's reader. Find out more about free "
+"software PDF readers and their advantages at <a href=\"http://pdfreaders.org/"
+"\">pdfreaders.org</a>."
+msgstr ""
+"PDF é um formato livre apoiado por software livre, mas muitos documentos PDF "
+"instruem você a usar o leitor de um determinado fornecedor. Saiba mais sobre "
+"os leitores de PDF de software livre e suas vantagens em <a href=\"http://"
+"pdfreaders.org/\">pdfreaders.org</a>."
+
+#. type: Content of: <dl><dt>
+msgid "27 January 2009"
+msgstr "27 de janeiro de 2009"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"The FSF has published a <a href=\"/licenses/gcc-exception.html\">new GCC "
+"Runtime Library Exception</a> which will allow the entire <a href=\"/"
+"software/gcc/\">GCC</a> codebase to be upgraded to GPLv3, and enable the "
+"development of a plugin framework for GCC."
+msgstr ""
+"A FSF publicou uma <a href=\"/licenses/gcc-exception.html\">nova Exceção de "
+"Biblioteca de Tempo de Execução do GCC</a>, que permitirá todo o <a href=\"/"
+"software/gcc/\">GCC</a> a base de código seja atualizada para a GPLv3 e "
+"possibilitará o desenvolvimento de uma estrutura de plugins para o GCC."
+
+#. type: Content of: <dl><dt>
+msgid "9 January 2009"
+msgstr "9 de janeiro de 2009"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"With the release of the Windows 7 public beta today, the FSF is declaring "
+"victory in its BadVista.org campaign. <a href=\"http://badvista.org\">Read "
+"and share the full announcement.</a>"
+msgstr ""
+"Com o lançamento da versão beta pública do Windows 7 hoje, a FSF está "
+"declarando vitória em sua campanha BadVista.org. <a href=\"http://badvista."
+"org\">Leia e compartilhe o comunicado completo.</a>"
+
+#. type: Content of: <h4>
+msgid "What was New in Prior Years"
+msgstr "Novidades em anos anteriores"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"/server/08whatsnew.html\"> <strong>2008</strong> </a>"
+msgstr "<a href=\"/server/08whatsnew.html\"> <strong>2008</strong> </a>"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"/server/07whatsnew.html\"> <strong>2007</strong> </a>"
+msgstr "<a href=\"/server/07whatsnew.html\"> <strong>2007</strong> </a>"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"/server/06whatsnew.html\"> <strong>2006</strong> </a>"
+msgstr "<a href=\"/server/06whatsnew.html\"> <strong>2006</strong> </a>"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"/server/05whatsnew.html\"> <strong>2005</strong> </a>"
+msgstr "<a href=\"/server/05whatsnew.html\"> <strong>2005</strong> </a>"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"/server/04whatsnew.html\"> <strong>2004</strong> </a>"
+msgstr "<a href=\"/server/04whatsnew.html\"> <strong>2004</strong> </a>"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"/server/03whatsnew.html\"> <strong>2003</strong> </a>"
+msgstr "<a href=\"/server/03whatsnew.html\"> <strong>2003</strong> </a>"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"/server/02whatsnew.html\"> <strong>2002</strong> </a>"
+msgstr "<a href=\"/server/02whatsnew.html\"> <strong>2002</strong> </a>"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"/server/01whatsnew.html\"> <strong>2001</strong> </a>"
+msgstr "<a href=\"/server/01whatsnew.html\"> <strong>2001</strong> </a>"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"/server/00whatsnew.html\"> <strong>2000</strong> </a>"
+msgstr "<a href=\"/server/00whatsnew.html\"> <strong>2000</strong> </a>"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"/server/99whatsnew.html\"> <strong>1999</strong> </a>"
+msgstr "<a href=\"/server/99whatsnew.html\"> <strong>1999</strong> </a>"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"/server/98whatsnew.html\"> <strong>1998</strong> </a>"
+msgstr "<a href=\"/server/98whatsnew.html\"> <strong>1998</strong> </a>"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"/server/97whatsnew.html\"> <strong>1997</strong> </a>"
+msgstr "<a href=\"/server/97whatsnew.html\"> <strong>1997</strong> </a>"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"/server/96whatsnew.html\"> <strong>1996</strong> </a>"
+msgstr "<a href=\"/server/96whatsnew.html\"> <strong>1996</strong> </a>"

@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary-tethers.html\n"
-"POT-Creation-Date: 2019-05-08 14:56+0000\n"
-"PO-Revision-Date: 2019-08-01 17:18-0200\n"
+"POT-Creation-Date: 2019-11-18 14:55+0000\n"
+"PO-Revision-Date: 2019-11-26 22:50-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -21,42 +21,60 @@ msgstr ""
 msgid "Proprietary Tethers - GNU Project - Free Software Foundation"
 msgstr "Amarração proprietária - Projeto GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><p>
+msgid ""
+"<a href=\"/proprietary/proprietary.html\">Proprietary malware</a> &rarr; "
+"Tethers"
+msgstr ""
+"<a href=\"/proprietary/proprietary.html\"><em>Malware</em> proprietário</a> "
+"&rarr; Amarração"
+
+#. type: Content of: <div><h2>
 msgid "Proprietary Tethers"
 msgstr "Amarração proprietária"
 
-#. type: Content of: <p>
-msgid ""
-"<a href=\"/proprietary/proprietary.html\">Other examples of proprietary "
-"malware</a>"
-msgstr ""
-"<a href=\"/proprietary/proprietary.html\">Outros exemplos de <em>malwares</"
-"em> proprietários</a>"
-
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Nonfree (proprietary) software is very often malware (designed to mistreat "
 "the user). Nonfree software is controlled by its developers, which puts them "
 "in a position of power over the users; <a href=\"/philosophy/free-software-"
 "even-more-important.html\">that is the basic injustice</a>. The developers "
-"often exercise that power to the detriment of the users they ought to serve."
+"and manufacturers often exercise that power to the detriment of the users "
+"they ought to serve."
 msgstr ""
 "O software não livre (proprietário) é muitas vezes um <em>malware</em> "
 "(projetado para maltratar o usuário). O software não livre é controlado por "
 "seus desenvolvedores, o que os coloca em uma posição de poder sobre os "
 "usuários; <a href=\"/philosophy/free-software-even-more-important.html"
-"\">isso é a injustiça básica</a>. Os desenvolvedores muitas vezes exercem "
-"esse poder em detrimento dos usuários que deveriam servir."
+"\">isso é a injustiça básica</a>. Os desenvolvedores e fabricantes muitas "
+"vezes exercem esse poder em detrimento dos usuários que deveriam servir."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
+msgid "This typically takes the form of malicious functionalities."
+msgstr "Isso geralmente assume a forma de funcionalidades maliciosas."
+
+#. type: Content of: <div><div><p>
 msgid ""
-"Tethering a product or program to a specific server is an injustice in "
-"itself.  This page reports instances where tethering was used to harm the "
-"users directly."
+"Tethering a product or program means designing it to work only by "
+"communicating with a specific server.  That is always an injustice since it "
+"means you can't use the program without that server.  It is also a secondary "
+"injustice if you can't communicate with the server in another way."
 msgstr ""
-"Amarrar um produto ou programa a um servidor específico é uma injustiça em "
-"si. Esta página relata casos em que a amarração foi usada para prejudicar os "
-"usuários diretamente."
+"Amarrar um produto ou programa significa projetá-lo para funcionar apenas "
+"através da comunicação com um servidor específico. Isso é sempre uma "
+"injustiça, pois significa que você não pode usar o programa sem esse "
+"servidor. Também é uma injustiça secundária se você não puder se comunicar "
+"com o servidor de outra maneira."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"In some cases, tethering is used to do specific nasty things to the users.  "
+"This page reports instances where tethering was used to harm the users "
+"directly."
+msgstr ""
+"Em alguns casos, a amarração é usada para fazer coisas desagradáveis "
+"específicas para os usuários. Esta página relata casos em que a amarração "
+"foi usada para prejudicar os usuários diretamente."
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -70,7 +88,7 @@ msgstr ""
 "webmasters@gnu.org&gt;</a> para nos informar. Por favor, inclua a URL de uma "
 "ou duas referências confiáveis para servir como comprovação específica."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "The Jibo robot toys were tethered to the manufacturer's server, and <a href="
 "\"https://www.apnews.com/99c9ec8ebad242ca88178e22c7642648\"> the company "
@@ -80,7 +98,7 @@ msgstr ""
 "href=\"https://www.apnews.com/99c9ec8ebad242ca88178e22c7642648\"> a empresa "
 "fez com que todos parassem de funcionar</a> desligando o servidor."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "The shutdown might ironically be good for their users, since the product was "
 "designed to manipulate people by presenting a phony semblance of emotions, "
@@ -90,7 +108,7 @@ msgstr ""
 "produto foi projetado para manipular as pessoas, apresentando uma aparência "
 "falsa de emoções, e certamente estava espionando elas."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Ebooks &ldquo;bought&rdquo; from Microsoft's store check that their DRM is "
 "valid by connecting to the store every time their &ldquo;owner&rdquo; wants "
@@ -105,7 +123,7 @@ msgstr ""
 "inutilizando todos os e-books sob DRM que já “vendeu”</a>. (O artigo também "
 "destaca as armadilhas do DRM.)"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "This is another proof that a DRM-encumbered product doesn't belong to the "
 "person who bought it. Microsoft said it will refund customers, but this is "
@@ -115,7 +133,7 @@ msgstr ""
 "comprou. A Microsoft disse que reembolsará os clientes, mas isso não é "
 "desculpa para vendê-los livros restritos."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "The British supermarket Tesco sold tablets which were tethered to Tesco's "
 "server for reinstalling default settings.  Tesco <a href=\"https://www."
@@ -129,7 +147,7 @@ msgstr ""
 "kill-fix\"> desligou o servidor para modelos antigos</a>, então, agora, se "
 "você tentar reinstalar as configurações padrão, eles serão inutilizados."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Honeywell's &ldquo;smart&rdquo; thermostats communicate only through the "
 "company's server. They have all the nasty characteristics of such devices: "
@@ -145,7 +163,7 @@ msgstr ""
 "um usuário específico ou de todos os usuários ao mesmo tempo), bem como o "
 "risco de uma indisponibilidade (que foi o que aconteceu)."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "In addition, setting the desired temperature requires running nonfree "
 "software. With an old-fashioned thermostat, you can do it using controls "
@@ -155,7 +173,7 @@ msgstr ""
 "livre. Com um termostato antiquado, você pode fazê-lo usando controles "
 "diretamente no termostato."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "The Jawbone fitness tracker was tethered to a proprietary phone app.  In "
 "2017, the company shut down and made the app stop working. <a href=\"https://"
@@ -170,21 +188,21 @@ msgstr ""
 "app-closure-says-which\">Todos os monitores existentes pararam de funcionar "
 "para sempre</a>."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "The article focuses on a further nasty fillip, that sales of the broken "
-"devices continued. But I think that is a secondary issue; it made the nasty "
+"devices continued. But we think that is a secondary issue; it made the nasty "
 "consequences extend to some additional people.  The fundamental wrong was to "
 "design the devices to depend on something else that didn't respect users' "
 "freedom."
 msgstr ""
 "O artigo concentra-se em mais um impulso desagradável, de que as vendas dos "
-"dispositivos quebrados continuaram. Mas acho que isso é secundário. Isso fez "
-"com que as consequências desagradáveis se estendessem a algumas pessoas "
-"adicionais. O erro fundamental foi projetar os dispositivos para depender de "
-"outra coisa que não respeitou a liberdade dos usuários."
+"dispositivos quebrados continuaram. Mas consideramos isso como uma questão "
+"secundária. Isso fez com que as consequências desagradáveis se estendessem a "
+"algumas pessoas adicionais. O erro fundamental foi projetar os dispositivos "
+"para depender de outra coisa que não respeitou a liberdade dos usuários."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "The game Metal Gear Rising for MacOS was tethered to a server.  The company "
 "<a href=\"http://www.gamerevolution.com/news/400087-metal-gear-rising-mac-"
@@ -195,7 +213,7 @@ msgstr ""
 "unplayable-drm\"> desligou o servidor e todas as cópias pararam de "
 "funcionar</a>."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Logitech will sabotage all Harmony Link household control devices by <a href="
 "\"https://arstechnica.com/gadgets/2017/11/logitech-to-shut-down-service-and-"
@@ -208,7 +226,7 @@ msgstr ""
 "desligando o servidor através do qual os supostos proprietários dos produtos "
 "se comunicam com eles</a>."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "The owners suspect this is to pressure them to buy a newer model. If they "
 "are wise, they will learn, rather, to distrust any product that requires "
@@ -219,7 +237,7 @@ msgstr ""
 "produto que exija que os usuários conversem com eles por meio de algum "
 "serviço especializado."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Sony has brought back its robotic pet Aibo, this time <a href=\"https://"
 "motherboard.vice.com/en_us/article/bj778v/sony-wants-to-sell-you-a-"
@@ -232,7 +250,7 @@ msgstr ""
 "\">back door</i> universal e amarrado a um servidor que requer assinatura</"
 "a>."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "The Canary home surveillance camera has been sabotaged by its manufacturer, "
 "<a href=\"https://www.theverge.com/circuitbreaker/2017/10/4/16426394/canary-"
@@ -244,12 +262,12 @@ msgstr ""
 "smart-home-camera-free-service-update-change\"> desligando muitos recursos, "
 "a menos que o usuário comece a pagar por uma assinatura</a>."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid "With manufacturers like these, who needs security breakers?"
 msgstr ""
 "Com fabricantes como esses, quem precisa de <i lang=\"en\">crackers</i>?"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "The purchasers should learn the larger lesson and reject connected "
 "appliances with embedded proprietary software. Every such product is a "
@@ -259,7 +277,23 @@ msgstr ""
 "com software proprietário embarcado. Cada um desses produtos é uma tentação "
 "em cometer sabotagem."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"The recent versions of Microsoft Office require the user to <a href="
+"\"https://products.office.com/en-us/microsoft-office-for-home-and-school-faq?"
+"legRedir=true&amp;CorrelationId=c9c5b549-11ad-4f71-bf81-b7e069fdb372\"> "
+"connect to Microsoft servers at least every thirty-one days</a>. Otherwise, "
+"the software will refuse to edit any documents or create new ones. It will "
+"be restricted to viewing and printing."
+msgstr ""
+"As versões recentes do Microsoft Office exigem que o usuário <a href="
+"\"https://products.office.com/pt-br/microsoft-office-for-home-and-school-faq?"
+"legRedir=true&amp;CorrelationId=c9c5b549-11ad-4f71-bf81-b7e069fdb372\"> se "
+"conecte aos servidores da Microsoft pelo menos a cada trinta e um dias</a>. "
+"Caso contrário, o software recusará a editar quaisquer documentos ou criar "
+"novos. Será restrito à visualização e impressão."
+
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Bird and rabbit pets were implemented for Second Life by a company that "
 "tethered their food to a server.  <a href=\"https://www.rockpapershotgun."
@@ -271,7 +305,7 @@ msgstr ""
 "rockpapershotgun.com/2017/05/19/second-life-ozimals-pet-rabbits-dying\"> Ela "
 "desligou o servidor e os animais morreram, por assim dizer</a>."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Anova sabotaged users' cooking devices with a downgrade that tethered them "
 "to a remote server. <a href=\"https://web.archive.org/web/20170415145520/"
@@ -286,7 +320,7 @@ msgstr ""
 "que os usuários criem uma conta nos servidores da Anova, seus fogões não "
 "funcionarão</a>."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "nVidia's proprietary GeForce Experience <a href=\"http://www.gamersnexus.net/"
 "industry/2672-geforce-experience-data-transfer-analysis\">makes users "
@@ -298,7 +332,7 @@ msgstr ""
 "faz os usuários se identificarem e, em seguida, envia dados pessoais sobre "
 "eles para os servidores da nVidia</a>."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "The iMessage app on iThings <a href=\"https://theintercept.com/2016/09/28/"
 "apple-logs-your-imessage-contacts-and-may-share-them-with-police/\">tells a "
@@ -310,7 +344,7 @@ msgstr ""
 "them-with-police/\">fala para um servidor cada número de telefone que o "
 "usuário digita</a>; o servidor grava esses números por pelo menos 30 dias."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "A half-blind security critique of a tracking app: it found that <a href="
 "\"http://www.consumerreports.org/mobile-security-software/glow-pregnancy-app-"
@@ -327,7 +361,7 @@ msgstr ""
 "aplicativo envie os dados pessoais para um servidor, no qual o "
 "<em>desenvolvedor</em> obtém tudo. Este “serviço” é para otários!"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "The server surely has a &ldquo;privacy policy,&rdquo; and surely it is "
 "worthless since nearly all of them are."
@@ -335,22 +369,38 @@ msgstr ""
 "O servidor certamente tem uma “política de privacidade” e certamente é "
 "inútil, já que quase todas são."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"Google/Alphabet <a href=\"https://www.eff.org/deeplinks/2016/04/nest-reminds-"
-"customers-ownership-isnt-what-it-used-be\"> intentionally broke Revolv home "
-"automatic control products that depended on a server</a> to function, by "
-"shutting down the server.  The lesson is, reject all such products.  Insist "
-"on self-contained computers that run free software!"
+"Revolv is a device that managed &ldquo;smart home&rdquo; operations: "
+"switching lights, operate motion sensors, regulating temperature, etc.  Its "
+"proprietary software depends on a remote server to do these tasks.  On May "
+"15th, 2016, Google/Alphabet <a href=\"https://www.eff.org/deeplinks/2016/04/"
+"nest-reminds-customers-ownership-isnt-what-it-used-be\">intentionally broke "
+"it by shutting down the server</a>."
 msgstr ""
-"Google/Alphabet <a href=\"https://www.eff.org/deeplinks/2016/04/nest-reminds-"
-"customers-ownership-isnt-what-it-used-be\"> intencionalmente estragou "
-"produtos de controle automático residenciais da Revolv que dependiam de um "
-"servidor</a> para funcionar, desligando o servidor. A lição é rejeitar todos "
-"esses produtos. Insista em computadores independentes que executam software "
-"livre!"
+"O Revolv é um dispositivo que gerenciava as operações da “casa inteligente”: "
+"trocar luzes, operar sensores de movimento, regular a temperatura etc. Seu "
+"software proprietário depende de um servidor remoto para executar essas "
+"tarefas. Em 15 de maio de 2016, Google/Alphabet <a href=\"https://www.eff."
+"org/deeplinks/2016/04/nest-reminds-customers-ownership-isnt-what-it-used-be"
+"\"> intencionalmente inutilizou-o desligando o servidor</a>."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"If it were free software, users would have the ability to make it work "
+"again, differently, and then have a freedom-respecting home instead of a "
+"&ldquo;smart&rdquo; home. Don't let proprietary software control your "
+"devices and turn them into $300 out-of-warranty bricks. Insist on self-"
+"contained computers that run free software!"
+msgstr ""
+"Se fosse um software livre, os usuários teriam a capacidade de fazê-lo "
+"funcionar de novo, de maneira diferente, e então teriam uma casa que "
+"respeita a liberdade em vez de uma casa “inteligente”. Não permita que o "
+"software proprietário controle seus dispositivos e os transforme em tijolos "
+"de US$ 300,00 sem garantia. Insista em computadores independentes que usem "
+"apenas software livre!"
+
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Adobe applications <a href=\"https://www.wired.com/2013/05/adobe-creative-"
 "cloud-petition/\"> require periodic connection to a server</a>."
@@ -428,3 +478,17 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid ""
+#~ "Google/Alphabet <a href=\"https://www.eff.org/deeplinks/2016/04/nest-"
+#~ "reminds-customers-ownership-isnt-what-it-used-be\"> intentionally broke "
+#~ "Revolv home automatic control products that depended on a server</a> to "
+#~ "function, by shutting down the server.  The lesson is, reject all such "
+#~ "products.  Insist on self-contained computers that run free software!"
+#~ msgstr ""
+#~ "Google/Alphabet <a href=\"https://www.eff.org/deeplinks/2016/04/nest-"
+#~ "reminds-customers-ownership-isnt-what-it-used-be\"> intencionalmente "
+#~ "estragou produtos de controle automático residenciais da Revolv que "
+#~ "dependiam de um servidor</a> para funcionar, desligando o servidor. A "
+#~ "lição é rejeitar todos esses produtos. Insista em computadores "
+#~ "independentes que executam software livre!"

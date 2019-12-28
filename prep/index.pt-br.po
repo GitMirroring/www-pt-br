@@ -1,0 +1,301 @@
+# Brazilian Portuguese translation of https://www.gnu.org/prep/index.html
+# Copyright (C) 2019 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: index.html\n"
+"POT-Creation-Date: 2018-01-01 05:59+0000\n"
+"PO-Revision-Date: 2019-12-27 11:49-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid "GNU Project Information - GNU Project - Free Software Foundation"
+msgstr "Informações do Projeto GNU - Projeto GNU - Free Software Foundation"
+
+#. type: Content of: <h2>
+msgid "GNU Project Information"
+msgstr "Informações do Projeto GNU"
+
+#. type: Content of: <p><a>
+msgid "<a href=\"/graphics/agnuhead.html\">"
+msgstr "<a href=\"/graphics/agnuhead.html\">"
+
+#. type: Attribute 'alt' of: <p><a><img>
+msgid "[image of the Head of a GNU]"
+msgstr "[imagem de uma Cabeça de GNU]"
+
+#. type: Content of: <p>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <p>
+msgid ""
+"This directory collects some GNU organizational documents. For general "
+"information about the GNU project and the Free Software Foundation, see <a "
+"href=\"/\">www.gnu.org</a>."
+msgstr ""
+"Este diretório coleta alguns documentos organizacionais do GNU. Para "
+"informações gerais sobre o projeto GNU e a Free Software Foundation, "
+"consulte <a href=\"/\">www.gnu.org</a>."
+
+#. type: Content of: <dl><dt>
+msgid "<strong><a href=\"/prep/ftp.html\">The GNU FTP mirror list</a></strong>"
+msgstr ""
+"<strong><a href=\"/prep/ftp.html\">A lista de espelhos de FTP do GNU</a></"
+"strong>"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"lists sites which mirror ftp.gnu.org, which holds most official GNU software "
+"releases.  Please use a mirror if you can.  If you'd like to volunteer your "
+"site as another mirror, please see this separate page with <a href=\"/server/"
+"mirror.html\">Advice for Running Mirrors</a>."
+msgstr ""
+"lista sites que espelham ftp.gnu.org, o qual mantém a maioria das versões "
+"oficiais do software GNU. Por favor, use um espelho, se puder. Se você "
+"deseja oferecer voluntariamente seu site como outro espelho, consulte esta "
+"página separada com <a href=\"/server/mirror.html\">Conselho para a "
+"manutenção de espelhos</a>."
+
+#. type: Content of: <dl><dt>
+msgid ""
+"<strong><a href=\"http://www.fsf.org/resources/service/\">The GNU service "
+"directory</a></strong>"
+msgstr ""
+"<strong><a href=\"http://www.fsf.org/resources/service/\">O diretório de "
+"serviço do GNU</a></strong>"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"is a list of people who have asked to be listed as offering support services "
+"for GNU software, including GNU Emacs and GCC, for a fee or in some cases at "
+"no charge."
+msgstr ""
+"é uma lista de pessoas que pediram para serem listadas como oferecendo "
+"serviços de suporte para o software GNU, incluindo GNU Emacs e GCC, por uma "
+"taxa ou, em alguns casos, sem nenhum custo."
+
+#. type: Content of: <dl><dt>
+msgid ""
+"<strong><a href=\"/prep/standards/\">The GNU coding standards</a></strong>"
+msgstr ""
+"<strong><a href=\"/prep/standards/\">Os padrões de codificação GNU</a></"
+"strong>"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"attempt to make the GNU system clean, consistent, and easy to install.  This "
+"document can also be read as a guide to writing portable, robust and "
+"reliable programs.  It focuses on programs written in C, but many of the "
+"rules and principles are useful even if you write in another programming "
+"language."
+msgstr ""
+"tentam tornar o sistema GNU limpo, consistente e fácil de instalar. Este "
+"documento também pode ser lido como um guia para escrever programas "
+"portáteis, robustos e confiáveis. Ele se concentra nos programas escritos em "
+"C, mas muitas das regras e princípios são úteis mesmo se você escreve em "
+"outra linguagem de programação."
+
+#. type: Content of: <dl><dt>
+msgid ""
+"<strong><a href=\"/prep/maintain/\">GNU maintainer information</a></strong>"
+msgstr ""
+"<strong><a href=\"/prep/maintain/\">Informações do mantenedor GNU</a></"
+"strong>"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"includes guidelines and advice for someone who is the maintainer of a GNU "
+"program on behalf of the GNU Project.  Everyone is entitled to change and "
+"redistribute GNU software; you need not pay attention to this file to get "
+"permission.  But if you want to maintain a version for widespread "
+"distribution, we suggest you follow these guidelines; if you would like to "
+"be (or are already) a GNU maintainer, then it is essential to follow these "
+"guidelines."
+msgstr ""
+"inclui diretrizes e conselhos para alguém que é o mantenedor de um programa "
+"GNU em nome do Projeto GNU. Todos têm o direito de alterar e redistribuir o "
+"software GNU; você não precisa prestar atenção neste arquivo para obter "
+"permissão. Mas se você deseja manter uma versão para distribuição ampla, "
+"sugerimos que você siga estas diretrizes; se você gostaria de ser (ou já é) "
+"um mantenedor do GNU, é essencial seguir estas diretrizes."
+
+#. type: Content of: <dl><dt>
+msgid ""
+"<strong><a href=\"/software/maintainer-tips.html\">Tips for new GNU "
+"maintainers</a></strong>"
+msgstr ""
+"<strong><a href=\"/software/maintainer-tips.html\">Dicas para novos "
+"mantenedores GNU</a></strong>"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"lists the first tasks you need to take care of if you recently became the "
+"maintainer of a GNU package, whether one that you have offered to GNU or an "
+"existing one that you have adopted.  Each item links to the relevant info, "
+"and some additional tips are provided."
+msgstr ""
+"lista as primeiras tarefas que você precisa realizar se você se tornou "
+"recentemente o mantenedor de um pacote GNU, seja um que você tenha oferecido "
+"ao GNU ou um que já tenha adotado. Cada item é vinculado às informações "
+"relevantes e são fornecidas algumas dicas adicionais."
+
+#. type: Content of: <dl><dt>
+msgid ""
+"<strong><a href=\"/prep/tasks.html\">GNU task list information</a></strong>"
+msgstr ""
+"<strong><a href=\"/prep/tasks.html\">Informações da lista de tarefas GNU</"
+"a></strong>"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"is available here, although the actual <a href=\"http://savannah.gnu.org/"
+"projects/tasklist\">task list items</a> are now maintained at <a href="
+"\"http://savannah.gnu.org/\">savannah</a>."
+msgstr ""
+"estão disponíveis aqui, apesar dos atuais <a href=\"http://savannah.gnu.org/"
+"projects/tasklist\">itens na lista de tarefas</a> serem agora mantidos no <a "
+"href=\"http://savannah.gnu.org/\">savannah</a>."
+
+#. type: Content of: <dl><dt>
+msgid ""
+"<strong><a href=\"http://lists.gnu.org/\">GNU mailing list information</a></"
+"strong>"
+msgstr ""
+"<strong><a href=\"http://lists.gnu.org/\">Informações da lista de discussões "
+"do GNU</a></strong>"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"is now at <a href=\"http://lists.gnu.org/\">lists.gnu.org</a>.  There are "
+"hundreds of other aliases and forwarding addresses which are not full-"
+"fledged lists, so don't consider the list there to be complete.  <small>(The "
+"mailinglists.html file that used to be here in /prep is now obsolete.)</"
+"small>"
+msgstr ""
+"estão agora em <a href=\"http://lists.gnu.org/\">lists.gnu.org</a>. Existem "
+"centenas de outros aliases e endereços de encaminhamento que não são listas "
+"completas; portanto, não considere a lista completa. <small>(O arquivo "
+"mailinglists.html que costumava estar aqui em /prep está agora obsoleto.)</"
+"small>"
+
+#. type: Content of: <dl><dt>
+msgid ""
+"<strong><a href=\"http://directory.fsf.org/\">GNU Program Index information</"
+"a></strong>"
+msgstr ""
+"<strong><a href=\"http://directory.fsf.org/\">Informações do GNU Program "
+"Index</a></strong>"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"is now subsumed in the <a href=\"http://directory.fsf.org/\">Free Software "
+"Directory</a>.  <small>(The program.index.html file that used to be here in /"
+"prep is now obsolete.)</small>"
+msgstr ""
+"estão agora incluídos no <a href=\"http://directory.fsf.org/\">Diretório de "
+"Software Livre</a>. <small>(O arquivo program.index.html que costumava estar "
+"aqui em /prep está agora obsoleto.)</small>"
+
+#. type: Content of: <p>
+msgid ""
+"By the way, the <tt>prep</tt> directory name here refers to <tt>prep.ai.mit."
+"edu</tt>, one of the first hosts used by GNU for distributing GNU software, "
+"and project information like the above, over the Internet."
+msgstr ""
+"A propósito, o nome do diretório <tt>prep</tt> aqui se refere a <tt>prep.ai."
+"mit.edu</tt>, um dos primeiros hosts usados pelo GNU para distribuir "
+"software GNU e informações de projetos como acima, pela Internet."
+
+#. type: Content of: <p>
+msgid ""
+"prep was in the MIT artificial intelligence lab at the time; today, the "
+"hostname is an alias for ftp.gnu.org. It still works for ftp, mail, and even "
+"web access (although the web had not been invented at the time prep was "
+"originally used). Even today, references to prep survive in documentation, "
+"mail archives, essays&mdash;and the name of this directory."
+msgstr ""
+"o <tt>prep</tt> estava no laboratório de inteligência artificial do MIT na "
+"época; hoje, o nome do host é um apelido para ftp.gnu.org. Ele ainda "
+"funciona para FTP, correio e até acesso à Web (embora a Web não tivesse sido "
+"inventada no momento em que o <tt>prep</tt> foi usado originalmente). Ainda "
+"hoje, as referências ao <tt>prep</tt> sobrevivem em documentação, em "
+"arquivos de correio, em ensaios &ndash; e no nome desse diretório."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2014, 2017, 2018 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2014, 2017, 2018 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2019."
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização:"

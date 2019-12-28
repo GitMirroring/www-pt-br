@@ -5,8 +5,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: mirror.html\n"
-"POT-Creation-Date: 2019-08-24 11:55+0000\n"
-"PO-Revision-Date: 2019-08-24 14:33-0200\n"
+"POT-Creation-Date: 2019-12-16 07:55+0000\n"
+"PO-Revision-Date: 2019-12-15 15:59-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -114,6 +114,10 @@ msgid "<tt>rsync://gnu.freemirror.org/gnu</tt> (Canada)"
 msgstr "<tt>rsync://gnu.freemirror.org/gnu</tt> (Canadá)"
 
 #. type: Content of: <dl><dd><p>
+msgid "<tt>rsync://mirror2.evolution-host.com/gnu</tt> (Canada)"
+msgstr "<tt>rsync://mirror2.evolution-host.com/gnu</tt> (Canadá)"
+
+#. type: Content of: <dl><dd><p>
 msgid "<tt>rsync://mirror.keystealth.org/gnu/</tt> (California, USA)"
 msgstr "<tt>rsync://mirror.keystealth.org/gnu/</tt> (Califórnia, EUA)"
 
@@ -139,7 +143,7 @@ msgstr "<tt>rsync://mirrors.tripadvisor.com/gnu/</tt> (Massachusetts, EUA)"
 
 #. type: Content of: <dl><dd><p>
 msgid "<tt>rsync://mirror.clarkson.edu/gnu/</tt> (New York, USA)"
-msgstr "<tt>rsync://mirror.clarkson.edu/gnu/</tt> (Nova Iorque, EUA)"
+msgstr "<tt>rsync://mirror.clarkson.edu/gnu/</tt> (Nova York, EUA)"
 
 #. type: Content of: <dl><dt>
 msgid "South America"
@@ -189,10 +193,6 @@ msgstr "<tt>rsync://ftp.kaist.ac.kr/gnu/</tt> (Coreia)"
 msgid "<tt>rsync://mirror.ossplanet.net/gnu</tt> (Taiwan)"
 msgstr "<tt>rsync://mirror.ossplanet.net/gnu</tt> (Taiwan)"
 
-#. type: Content of: <dl><dd><p>
-msgid "<tt>rsync://ftp.yzu.edu.tw/pub/gnu/</tt> (Taiwan)"
-msgstr "<tt>rsync://ftp.yzu.edu.tw/pub/gnu/</tt> (Taiwan)"
-
 #. type: Content of: <dl><dt>
 msgid "Europe"
 msgstr "Europa"
@@ -216,6 +216,10 @@ msgstr "<tt>rsync://rsync://ftp.fau.de/gnu</tt> (Alemanha)"
 #. type: Content of: <dl><dd><p>
 msgid "<tt>rsync://mirror.netcologne.de/gnu</tt> (Germany)"
 msgstr "<tt>rsync://mirror.netcologne.de/gnu</tt> (Alemanha)"
+
+#. type: Content of: <dl><dd><p>
+msgid "<tt>rsync://ftp.wrz.de/pub/gnu/</tt> (Germany)"
+msgstr "<tt>rsync://ftp.wrz.de/pub/gnu/</tt> (Alemanha)"
 
 #. type: Content of: <dl><dd><p>
 msgid "<tt>rsync://quantum-mirror.hu/gnu/</tt> (Hungary)"
@@ -638,6 +642,9 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid "<tt>rsync://ftp.yzu.edu.tw/pub/gnu/</tt> (Taiwan)"
+#~ msgstr "<tt>rsync://ftp.yzu.edu.tw/pub/gnu/</tt> (Taiwan)"
 
 #~ msgid ""
 #~ "Set up your web server configuration to avoid sending <tt>.gz.sig</tt> "

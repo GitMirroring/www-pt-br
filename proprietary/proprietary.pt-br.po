@@ -5,8 +5,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary.html\n"
-"POT-Creation-Date: 2019-08-31 17:25+0000\n"
-"PO-Revision-Date: 2019-09-01 08:34-0200\n"
+"POT-Creation-Date: 2019-12-18 22:55+0000\n"
+"PO-Revision-Date: 2019-12-20 11:27-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -22,22 +22,22 @@ msgstr "Software proprietário - Projeto GNU - Free Software Foundation"
 
 #. type: Content of: <style>
 #, no-wrap
-msgid "#TOC { width: 55em; }\n"
-msgstr "#TOC { width: 55em; }\n"
+msgid "  .reduced-width { width: 55em; }\n"
+msgstr "  .reduced-width { width: 55em; }\n"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Proprietary Software Is Often Malware"
 msgstr "Software proprietário frequentemente é malware"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid "<a href=\"#TOC\">Table of contents</a>"
 msgstr "<a href=\"#TOC\">Conteúdo</a>"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid "<a href=\"#latest\">Latest additions</a>"
 msgstr "<a href=\"#latest\">Últimas adições</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Proprietary software, also called nonfree software, means software that "
 "doesn't <a href=\"/philosophy/free-sw.html\">respect users' freedom and "
@@ -52,7 +52,7 @@ msgstr ""
 "important.html\"> em uma posição de poder sobre seus usuários</a>. Esse "
 "poder é, por si só, uma injustiça."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The point of this page is that the initial injustice of proprietary software "
 "often leads to further injustices: malicious functionalities."
@@ -60,7 +60,7 @@ msgstr ""
 "O ponto desta página é que a injustiça inicial do software proprietário "
 "muitas vezes leva a mais injustiças: funcionalidades maliciosas."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Power corrupts; the proprietary program's developer is tempted to design the "
 "program to mistreat its users.  (Software whose functioning mistreats the "
@@ -74,7 +74,7 @@ msgstr ""
 "desenvolvedor geralmente não faz isso por malícia, mas sim para lucrar mais "
 "a custo dos usuários. Isso não torna menos desagradável ou mais legítimo."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Yielding to that temptation has become ever more frequent; nowadays it is "
 "standard practice.  Modern proprietary software is typically a way to be had."
@@ -83,29 +83,29 @@ msgstr ""
 "uma prática padrão. O software proprietário moderno geralmente é uma maneira "
 "de ser mal."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"As of April, 2019, the pages in this directory list around 400 instances of "
-"malicious functionalities (with more than 450 references to back them up), "
-"but there are surely thousands more we don't know about."
+"As of October, 2019, the pages in this directory list around 400 instances "
+"of malicious functionalities (with more than 500 references to back them "
+"up), but there are surely thousands more we don't know about."
 msgstr ""
-"Até abril de 2019, as páginas neste diretório listam quase 400 exemplos de "
-"funcionalidades maliciosas (com mais de 450 referências para confirmá-las), "
+"Até outubro de 2019, as páginas neste diretório listam quase 400 exemplos de "
+"funcionalidades maliciosas (com mais de 500 referências para confirmá-las), "
 "mas com certeza há mais milhares das quais nós não temos conhecimento."
 
-#. type: Content of: <table><tr><th>
+#. type: Content of: <div><table><tr><th>
 msgid "Injustices or techniques"
 msgstr "Injustiças ou técnicas"
 
-#. type: Content of: <table><tr><th>
+#. type: Content of: <div><table><tr><th>
 msgid "Products or companies"
 msgstr "Produtos ou empresas"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/proprietary-addictions.html\">Addictions</a>"
 msgstr "<a href=\"/proprietary/proprietary-addictions.html\">Vícios</a>"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid ""
 "<a href=\"/proprietary/proprietary-back-doors.html\">Back doors</a>&nbsp;(<a "
 "href=\"#f1\">1</a>)"
@@ -113,19 +113,19 @@ msgstr ""
 "<a href=\"/proprietary/proprietary-back-doors.html\">Back doors</a>&nbsp;(<a "
 "href=\"#f1\">1</a>)"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/proprietary-censorship.html\">Censorship</a>"
 msgstr "<a href=\"/proprietary/proprietary-censorship.html\">Censura</a>"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/proprietary-coverups.html\">Coverups</a>"
 msgstr "<a href=\"/proprietary/proprietary-coverups.html\">Encobrimentos</a>"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/proprietary-deception.html\">Deception</a>"
 msgstr "<a href=\"/proprietary/proprietary-deception.html\">Engano</a>"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid ""
 "<a href=\"/proprietary/proprietary-drm.html\">DRM</a>&nbsp;(<a href="
 "\"#f2\">2</a>)"
@@ -133,27 +133,27 @@ msgstr ""
 "<a href=\"/proprietary/proprietary-drm.html\">DRM</a>&nbsp;(<a href="
 "\"#f2\">2</a>)"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/proprietary-fraud.html\">Fraud</a>"
 msgstr "<a href=\"/proprietary/proprietary-fraud.html\">Fraude</a>"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid ""
 "<a href=\"/proprietary/proprietary-incompatibility.html\">Incompatibility</a>"
 msgstr ""
 "<a href=\"/proprietary/proprietary-incompatibility.html\">Incompatibilidade</"
 "a>"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/proprietary-insecurity.html\">Insecurity</a>"
 msgstr "<a href=\"/proprietary/proprietary-insecurity.html\">Insegurança</a>"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/proprietary-interference.html\">Interference</a>"
 msgstr ""
 "<a href=\"/proprietary/proprietary-interference.html\">Interferência</a>"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid ""
 "<a href=\"/proprietary/proprietary-jails.html\">Jails</a>&nbsp;(<a href="
 "\"#f3\">3</a>)"
@@ -161,25 +161,30 @@ msgstr ""
 "<a href=\"/proprietary/proprietary-jails.html\">Prisões</a>&nbsp;(<a href="
 "\"#f3\">3</a>)"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/proprietary-manipulation.html\">Manipulation</a>"
 msgstr "<a href=\"/proprietary/proprietary-manipulation.html\">Manipulação</a>"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
+msgid "<a href=\"/proprietary/proprietary-obsolescence.html\">Obsolescence</a>"
+msgstr ""
+"<a href=\"/proprietary/proprietary-obsolescence.html\">Obsolescência</a>"
+
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/proprietary-sabotage.html\">Sabotage</a>"
 msgstr "<a href=\"/proprietary/proprietary-sabotage.html\">Sabotagem</a>"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid ""
 "<a href=\"/proprietary/proprietary-subscriptions.html\">Subscriptions</a>"
 msgstr ""
 "<a href=\"/proprietary/proprietary-subscriptions.html\">Assinaturas</a>"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/proprietary-surveillance.html\">Surveillance</a>"
 msgstr "<a href=\"/proprietary/proprietary-surveillance.html\">Vigilância</a>"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid ""
 "<a href=\"/proprietary/proprietary-tethers.html\">Tethers</a>&nbsp;(<a href="
 "\"#f4\">4</a>)"
@@ -187,7 +192,7 @@ msgstr ""
 "<a href=\"/proprietary/proprietary-tethers.html\">Amarrações</a>&nbsp;(<a "
 "href=\"#f4\">4</a>)"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid ""
 "<a href=\"/proprietary/proprietary-tyrants.html\">Tyrants</a>&nbsp;(<a href="
 "\"#f5\">5</a>)"
@@ -195,51 +200,51 @@ msgstr ""
 "<a href=\"/proprietary/proprietary-tyrants.html\">Tiranos</a>&nbsp;(<a href="
 "\"#f5\">5</a>)"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/potential-malware.html\">In the pipe</a>"
 msgstr "<a href=\"/proprietary/potential-malware.html\">No fluxo</a>"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/malware-appliances.html\">Appliances</a>"
 msgstr "<a href=\"/proprietary/malware-appliances.html\">Appliances</a>"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/malware-cars.html\">Cars</a>"
 msgstr "<a href=\"/proprietary/malware-cars.html\">Carros</a>"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/malware-games.html\">Games</a>"
 msgstr "<a href=\"/proprietary/malware-games.html\">Jogos</a>"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/malware-mobiles.html\">Mobiles</a>"
 msgstr "<a href=\"/proprietary/malware-mobiles.html\">Móveis</a>"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/malware-webpages.html\">Webpages</a>"
 msgstr "<a href=\"/proprietary/malware-webpages.html\">Páginas web</a>"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/malware-adobe.html\">Adobe</a>"
 msgstr "<a href=\"/proprietary/malware-adobe.html\">Adobe</a>"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/malware-amazon.html\">Amazon</a>"
 msgstr "<a href=\"/proprietary/malware-amazon.html\">Amazon</a>"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/malware-apple.html\">Apple</a>"
 msgstr "<a href=\"/proprietary/malware-apple.html\">Apple</a>"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/malware-google.html\">Google</a>"
 msgstr "<a href=\"/proprietary/malware-google.html\">Google</a>"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/malware-microsoft.html\">Microsoft</a>"
 msgstr "<a href=\"/proprietary/malware-microsoft.html\">Microsoft</a>"
 
-#. type: Content of: <table><tr><td><ol><li>
+#. type: Content of: <div><table><tr><td><ol><li>
 msgid ""
 "<em>Back door:</em>&nbsp; any feature of a program that enables someone who "
 "is not supposed to be in control of the computer where it is installed to "
@@ -249,7 +254,7 @@ msgstr ""
 "possibilita que alguém que não deveria estar no controle do computador, no "
 "qual o programa está instalado, enviar comandos para ele."
 
-#. type: Content of: <table><tr><td><ol><li>
+#. type: Content of: <div><table><tr><td><ol><li>
 msgid ""
 "<em>Digital restrictions management, or &ldquo;DRM&rdquo;:</em>&nbsp; "
 "functionalities designed to restrict what users can do with the data in "
@@ -259,12 +264,12 @@ msgstr ""
 "projetadas para restringir o que usuários podem fazer com os dados em seus "
 "computadores."
 
-#. type: Content of: <table><tr><td><ol><li>
+#. type: Content of: <div><table><tr><td><ol><li>
 msgid ""
 "<em>Jail:</em>&nbsp; system that imposes censorship on application programs."
-msgstr "<em>Prisões:</em>&nbsp; sistemas que impõem cenura a programas."
+msgstr "<em>Prisões:</em>&nbsp; sistemas que impõem censura a programas."
 
-#. type: Content of: <table><tr><td><ol><li>
+#. type: Content of: <div><table><tr><td><ol><li>
 msgid ""
 "<em>Tether:</em>&nbsp; functionality that requires permanent (or very "
 "frequent) connection to a server."
@@ -272,7 +277,7 @@ msgstr ""
 "<em>Amarração:</em>&nbsp; funcionalidade que requer conexão permanente (ou "
 "muito frequente) a um servidor."
 
-#. type: Content of: <table><tr><td><ol><li>
+#. type: Content of: <div><table><tr><td><ol><li>
 msgid ""
 "<em>Tyrant:</em>&nbsp; system that rejects any operating system not &ldquo;"
 "authorized&rdquo; by the manufacturer."
@@ -280,7 +285,7 @@ msgstr ""
 "<em>Tiranos:</em>&nbsp; sistema que rejeita qualquer sistema operacional não "
 "“autorizado” pelo fabricante."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Users of proprietary software are defenseless against these forms of "
 "mistreatment.  The way to avoid them is by insisting on <a href=\"/"
@@ -294,89 +299,230 @@ msgstr ""
 "liberdade)</a>. Uma vez que o software livre é controlado por seus usuários, "
 "eles têm uma boa defesa contra a funcionalidade de software maliciosa."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Latest additions"
 msgstr "Últimas adições"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"A game published on Facebook <a href=\"https://www.revealnews.org/article/so-"
-"your-child-racked-up-unwanted-credit-card-charges-playing-video-games-now-"
-"what/\">aimed at leading children to spend</a> large amounts of their "
-"parents' money without explaining it to them."
+"Some security breakers (wrongly referred in this article as <a href="
+"\"https://www.gnu.org/philosophy/words-to-avoid.html#Hacker\">&ldquo;"
+"hackers&rdquo;</a>)  managed to interfere the Amazon Ring proprietary "
+"system, and <a href=\"https://www.theguardian.com/technology/2019/dec/13/"
+"ring-hackers-reportedly-watching-talking-strangers-in-home-cameras\">access "
+"its camera, speakers and microphones</a>."
 msgstr ""
-"Um jogo publicado no Facebook <a href=\"https://www.revealnews.org/article/"
-"so-your-child-racked-up-unwanted-credit-card-charges-playing-video-games-now-"
-"what/\">visava levar as crianças a gastar</a> grandes quantias do dinheiro "
-"de seus pais sem explicá-lo para elas."
+"Alguns violadores de segurança (erroneamente referidos neste artigo como <a "
+"href=\"https://www.gnu.org/philosophy/words-to-avoid.html#Hacker"
+"\">“hackers”</a>) conseguiram interferir no sistema proprietário do Amazon "
+"Ring e <a href=\"https://www.theguardian.com/technology/2019/dec/13/ring-"
+"hackers-reportedly-watching-talking-strangers-in-home-cameras\">acessar sua "
+"câmera, alto-falantes e microfones</a>."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"When Apple suspects a user of fraud, it judges the case secretly and "
-"presents the verdict as a fait accompli.  The punishment to a user found "
-"guilty <a href=\"https://qz.com/1683460/what-happens-to-your-itunes-account-"
-"when-apple-says-youve-committed-fraud/\">is being cut off for life, which "
-"more-or-less cripples the user's Apple devices forever</a>.  There is no "
-"appeal."
+"Some <span>social networking</span> apps are <a href=\"https://www."
+"jeffbullas.com/facebook-creates-addiction/\"> designed to get users "
+"addicted</a>. These try to merge into your daily routine by exploiting "
+"social pressure and your natural desire for socialization, converting "
+"habitual gestures into thorough addiction. As already noted for games, "
+"addictiveness is essentially based on random rewards. In the present case, "
+"the rewards are messages from friends and followers, &ldquo;likes,&rdquo; "
+"news, interesting videos, etc. The software is designed to trigger users' "
+"desire for these rewards, and keep this desire alive as long as possible."
 msgstr ""
-"Quando a Apple suspeita de um usuário de fraude, ela julga o caso "
-"secretamente e apresenta o veredicto como um fato consumado. A punição para "
-"um usuário considerado culpado <a href=\"https://qz.com/1683460/what-happens-"
-"to-your-itunes-account-when-apple-says-youve-committed-fraud/\">está é ser "
-"cortado para sempre, o que prejudica mais ou menos os dispositivos Apple do "
-"usuário para sempre</a>. Não há recurso."
+"Alguns aplicativos de <span>redes sociais</span> são <a href=\"https://www."
+"jeffbullas.com/facebook-creates-addiction/\"> projetados para deixar os "
+"usuários viciados</a>. Eles tentam se fundir à sua rotina diária, explorando "
+"a pressão social e seu desejo natural de socialização, convertendo os gestos "
+"habituais em um vício completo. Como já observado nos jogos, a dependência é "
+"essencialmente baseada em recompensas aleatórias. No presente caso, as "
+"recompensas são mensagens de amigos e seguidores, <i lang=\"en\">“likes”</i> "
+"notícias, vídeos interessantes etc. O software foi projetado para despertar "
+"o desejo dos usuários por essas recompensas e manter esse desejo vivo o "
+"maior tempo possível."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><ul><li>
 msgid ""
-"Skype refuses to say whether it can <a href=\"http://www.slate.com/blogs/"
-"future_tense/2012/07/20/"
-"skype_won_t_comment_on_whether_it_can_now_eavesdrop_on_conversations_.html"
-"\">eavesdrop on calls</a>."
+"By default, notifications are sent every time a new item comes in, instead "
+"of, say, once a day. They are associated with sounds or vibrations which "
+"make them even more compelling. (Remember Pavlov's experiments with rats.) "
+"These triggers are often opt-out, and many users don't try to turn them off. "
+"They are most effective when the app is installed on a mobile device which "
+"is always on and never leaves the user. As a side effect, they may "
+"contribute to the <a href=\"https://www.psychologytoday.com/us/blog/reading-"
+"between-the-headlines/201307/smartphone-addiction\"> addictiveness of &ldquo;"
+"smart&rdquo; phones</a>."
 msgstr ""
-"O Skype se recusa a dizer se ele pode <a href=\"http://www.slate.com/blogs/"
-"future_tense/2012/07/20/"
-"skype_won_t_comment_on_whether_it_can_now_eavesdrop_on_conversations_.html"
-"\">espionar chamadas</a>."
+"Por padrão, as notificações são enviadas toda vez que um novo item aparece, "
+"em vez de, digamos, uma vez por dia. Eles estão associados a sons ou "
+"vibrações que os tornam ainda mais atraentes. (Lembre-se das experiências de "
+"Pavlov com ratos.) Esses gatilhos geralmente estão desativados e muitos "
+"usuários não tentam desativá-los. Eles são mais eficazes quando o aplicativo "
+"é instalado em um dispositivo móvel que está sempre ativado e nunca sai do "
+"usuário. Como efeito colateral, eles podem contribuir para a <a href="
+"\"https://www.psychologytoday.com/us/blog/reading-between-the-"
+"headlines/201307/smartphone-addiction\"> dependência de telefones "
+"“inteligentes”</a>."
 
-#. type: Content of: <ul><li><p>
-msgid "That almost certainly means it can do so."
-msgstr "Isso quase com certeza significa que ele pode fazê-lo."
-
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><ul><li>
 msgid ""
-"Apple is putting DRM on iPhone batteries, and the system proprietary "
-"software <a href=\"https://www.vice.com/en_us/article/59nz3k/apple-is-"
-"locking-batteries-to-specific-iphones-a-nightmare-for-diy-repair\">turns off "
-"certain features when batteries are replaced other than by Apple.</a>"
+"Users are served selected material that is likely to interest them, based on "
+"<a href=\"https://theconversation.com/facebook-is-killing-democracy-with-its-"
+"personality-profiling-data-93611\"> profiling</a>. (This paves the way to <a "
+"href=\"/proprietary/proprietary-manipulation.html\">manipulation</a>, by the "
+"way.)"
 msgstr ""
-"A Apple está inserindo DRM em baterias do iPhone e o software de sistema "
-"proprietário <a href=\"https://www.vice.com/en_us/article/59nz3k/apple-is-"
-"locking-batteries-to-specific-iphones-a-nightmare-for-diy-repair\">desliga "
-"certos recursos quando as baterias são substituídas por outra além da Apple."
-"</a>"
+"Usuários são servidos com materiais selecionados que provavelmente os "
+"interessa, com base em <a href=\"https://theconversation.com/facebook-is-"
+"killing-democracy-with-its-personality-profiling-data-93611\">perfilamento</"
+"a>. (Aliás, isso pavimenta o caminho para <a href=\"/proprietary/proprietary-"
+"manipulation.html\">manipulação</a>.)"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><ul><li>
 msgid ""
-"Out of 21 gratis Android antivirus apps that were tested by security "
-"researchers, eight <a href=\"https://www.comparitech.com/antivirus/android-"
-"antivirus-vulnerabilities/\"> failed to detect a test virus</a>. All of them "
-"asked for dangerous permissions or contained advertising trackers, with "
-"seven being more risky than the average of the 100 most popular Android apps."
+"The app interface is designed to make users stay on the site as long as "
+"possible, using <a href=\"https://uxplanet.org/ux-infinite-scrolling-vs-"
+"pagination-1030d29376f1\"> infinite scrolling</a> for example."
 msgstr ""
-"Dos 21 aplicativos antivírus gratuitos para Android que foram testados por "
-"pesquisadores de segurança, oito <a href=\"https://www.comparitech.com/"
-"antivirus/android-antivirus-vulnerabilities/\"> falharam em detectar um "
-"vírus de teste</a>. Todos eles pediram permissões perigosas ou continham "
-"rastreadores de publicidade, sendo sete mais arriscados do que a média dos "
-"100 aplicativos mais populares para Android."
+"A interface do aplicativo é projetada para fazer os usuários ficarem no site "
+"o máximo possível, usando <a href=\"https://uxplanet.org/ux-infinite-"
+"scrolling-vs-pagination-1030d29376f1\"> rolagem infinita</a>, por exemplo."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><ul><li>
 msgid ""
-"Note that the article refers to these proprietary apps as &ldquo;"
-"free&rdquo;. It should have said &ldquo;gratis&rdquo; instead."
+"The company that owns the social network tries to cover users' needs as "
+"extensively as possible, by <a href=\"https://en.wikipedia.org/wiki/"
+"List_of_mergers_and_acquisitions_by_Facebook\"> acquiring other companies</"
+"a> if needed. Once users have concentrated most of their online activities "
+"and a lot of their personal data on a single platform (or a set of platforms "
+"that belong to the same group), they find it <a href=\"https://www."
+"theguardian.com/lifeandstyle/2018/jan/01/antisocial-media-why-decided-cut-"
+"back-facebook-instagram\"> almost impossible to leave</a>. And even if they "
+"wanted to, they would have a hard time digging out the relevant options, and "
+"the app would aggressively nag them to stay."
 msgstr ""
-"Note que o artigo se refere a esses aplicativos proprietários como “<i lang="
-"\"en\">free</i>”. Na verdade, deveria dizer “grátis”."
+"A empresa proprietária da rede social tenta cobrir as necessidades dos "
+"usuários o mais extensamente possível, <a href=\"https://en.wikipedia.org/"
+"wiki/List_of_mergers_and_acquisitions_by_Facebook\"> adquirindo outras "
+"empresas</a>, se necessário. Depois que os usuários concentram a maioria de "
+"suas atividades online e muitos dados pessoais em uma única plataforma (ou "
+"um conjunto de plataformas que pertencem ao mesmo grupo), eles o encontram "
+"<a href=\"https://www.theguardian.com/lifeandstyle/2018/jan/01/antisocial-"
+"media-why-decided-cut-back-facebook-instagram\"> quase impossível sair</a>. "
+"E mesmo se quisessem, eles teriam dificuldade em descobrir as opções "
+"relevantes, e o aplicativo os importunaria agressivamente para ficar."
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"A good way to minimize the risk of addiction, short of avoiding social media "
+"altogether, is to turn off notifications and leave as little as possible of "
+"your own data on the platform."
+msgstr ""
+"Uma boa maneira de minimizar o risco de dependência, além de evitar as "
+"mídias sociais, é desativar as notificações e deixar o mínimo possível de "
+"seus próprios dados na plataforma."
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"Safari occasionally <a href=\"https://blog.cryptographyengineering."
+"com/2019/10/13/dear-apple-safe-browsing-might-not-be-that-safe/\"> sends "
+"browsing data from Apple devices in China to the Tencent Safe Browsing "
+"service</a>, to check URLs that possibly correspond to &ldquo;"
+"fraudulent&rdquo; websites. Since Tencent collaborates with the Chinese "
+"government, its Safe Browsing black list most certainly contains the "
+"websites of political opponents. By linking the requests originating from "
+"single IP addresses, the government can identify dissenters in China and "
+"Hong Kong, thus endangering their lives."
+msgstr ""
+"O Safari ocasionalmente <a href=\"https://blog.cryptographyengineering."
+"com/2019/10/13/dear-apple-safe-browsing-might-not-be-that-safe/\"> envia "
+"dados de navegação de dispositivos Apple na China ao serviço de Navegação "
+"Segura da Tencent</a>, para verificar URLs que possivelmente correspondem a "
+"sites “fraudulentos”. Como a Tencent colabora com o governo chinês, sua "
+"lista negra de Navegação segura certamente contém os sites de oponentes "
+"políticos. Ao vincular as solicitações originárias de endereços IP únicos, o "
+"governo pode identificar dissidentes na China e em Hong Kong, colocando em "
+"risco suas vidas."
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"Apple plans to require that <a href=\"https://www.macrumors.com/2019/04/08/"
+"mac-apps-notarization-macos-10-14-5/\"> all application software for MacOS "
+"be approved by Apple first</a>."
+msgstr ""
+"Apple planeja exigir que <a href=\"https://www.macrumors.com/2019/04/08/mac-"
+"apps-notarization-macos-10-14-5/\"> todos aplicativos para MacOS sejam "
+"primeiro aprovados pela Apple</a>."
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"Offering a checking service as an option could be useful and would not be "
+"wrong.  Requiring users to get Apple's approval is tyranny. Apple says the "
+"check will only look for malware (not counting the malware that is <a href="
+"\"/proprietary/malware-apple.html#TOC\">part of the operating system</a>), "
+"but Apple could change that policy step by step.  Or perhaps Apple will "
+"define malware to include any app that China does not like."
+msgstr ""
+"Oferecer um serviço de verificação como opção poderia ser útil e não estaria "
+"errado. Exigir que os usuários obtenham a aprovação da Apple é uma tirania. "
+"A Apple diz que a verificação procurará apenas malware (sem contar o malware "
+"que é <a href=\"/proprietary/malware-apple.html#TOC\">parte do sistema "
+"operacional</a>), mas a Apple pode mudar essa política passo a passo. Ou "
+"talvez a Apple defina malware para incluir qualquer aplicativo que a China "
+"não goste."
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"For free software, this means users will need to get Apple's approval after "
+"compilation.  This amounts to a system of surveilling the use of free "
+"programs."
+msgstr ""
+"Para software livre, isso significa que os usuários precisarão obter a "
+"aprovação da Apple após a compilação. Isso equivale a um sistema de "
+"monitoramento do uso de programas livres."
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"The Chinese Communist Party's &ldquo;Study the Great Nation&rdquo; app "
+"requires users to grant it <a href=\"https://www.ndtv.com/world-news/chinese-"
+"app-allows-officials-access-to-100-million-users-phone-report-2115962\"> "
+"access to the phone's microphone, photos, text messages, contacts, and "
+"internet history</a>, and the Android version was found to contain a back-"
+"door allowing developers to run any code they wish in the users' phone, as "
+"&ldquo;superusers.&rdquo; Downloading and using this app is mandatory at "
+"some workplaces."
+msgstr ""
+"O aplicativo “Study the Great Nation” do Partido Comunista Chinês exige que "
+"os usuários o concedam <a href=\"https://www.ndtv.com/world-news/chinese-app-"
+"allows-officials-access-to-100-million-users-phone-report-2115962\"> acesso "
+"ao microfone, fotos, mensagens de texto, contatos e histórico da Internet do "
+"telefone</a>, e a versão Android contém uma <i lang=\"en\">back door</i> que "
+"permite que os desenvolvedores executem qualquer código que desejarem desejo "
+"no telefone dos usuários, como “superusuários”. Baixar e usar este "
+"aplicativo é obrigatório em alguns locais de trabalho."
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"Note: The <a href=\"http://web-old.archive.org/web/20191015005153/https://"
+"www.washingtonpost.com/world/asia_pacific/chinese-app-on-xis-ideology-allows-"
+"data-access-to-100-million-users-phones-report-says/2019/10/11/2d53bbae-"
+"eb4d-11e9-bafb-da248f8d5734_story.html\"> Washington Post version of the "
+"article</a> (partly obfuscated, but readable after copy-pasting in a text "
+"editor) includes a clarification saying that the tests were only performed "
+"on the Android version of the app, and that, according to Apple, &ldquo;this "
+"kind of &lsquo;superuser&rsquo; surveillance could not be conducted on "
+"Apple's operating system.&rdquo;"
+msgstr ""
+"Nota: A <a href=\"http://web-old.archive.org/web/20191015005153/https://www."
+"washingtonpost.com/world/asia_pacific/chinese-app-on-xis-ideology-allows-"
+"data-access-to-100-million-users-phones-report-says/2019/10/11/2d53bbae-"
+"eb4d-11e9-bafb-da248f8d5734_story.html\"> versão de artigo do Washington "
+"Post</a> (parcialmente ofuscada, mas legível após copiar e colar em um "
+"editor de texto) inclui um esclarecimento dizendo que os testes foram "
+"realizados apenas na versão Android do aplicativo e que, segundo a Apple, "
+"“esse tipo de vigilância de ‘superusuário’ não pôde ser realizado em Sistema "
+"operacional da Apple”."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -433,8 +579,8 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
-"NoDerivatives 4.0 International License</a>."
+"creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 "
+"International License</a>."
 msgstr ""
 "Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
 "creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
@@ -451,6 +597,328 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid ""
+#~ "Apple <a href=\"https://boingboing.net/2019/10/07/apple-ios-13-1-2-for-"
+#~ "hong-kong.html\"> censors the Taiwan flag in iOS</a> on behalf of the "
+#~ "Chinese government. When the region is set to Hong Kong, this flag is not "
+#~ "visible in the emoji selection widget but is still accessible. When the "
+#~ "region is set to mainland China, all attempts to display it will result "
+#~ "in the &ldquo;empty emoji&rdquo; icon as if the flag never existed."
+#~ msgstr ""
+#~ "A Apple <a href=\"https://boingboing.net/2019/10/07/apple-ios-13-1-2-for-"
+#~ "hong-kong.html\"> censura a bandeira de Taiwan no iOS</a> em favor do "
+#~ "governo chinês. Quando a região está definida para Hong Kong, essa "
+#~ "bandeira não está visível no widget de seleção de emojis, mas ainda está "
+#~ "acessível. Quando a região está definida para a China continental, todas "
+#~ "as tentativas de exibi-la vão resultar no ícone “emoji vazio” como se a "
+#~ "bandeira nunca existisse."
+
+#~ msgid ""
+#~ "Thus, not only does Apple use the App Store as an instrument of "
+#~ "censorship, it also uses the iThing operating system for that purpose."
+#~ msgstr ""
+#~ "Então, não apenas a Apple usa a App Store como um instrumento de censura, "
+#~ "ela também usa o sistema operacional do iCoisa para esse propósito."
+
+#~ msgid ""
+#~ "Apple has <a href=\"https://www.theguardian.com/world/2019/oct/10/hong-"
+#~ "kong-protests-apple-pulls-tracking-app-after-china-criticism\"> banned "
+#~ "the app that Hong Kong protesters use to communicate</a>."
+#~ msgstr ""
+#~ "A Apple <a href=\"https://www.theguardian.com/world/2019/oct/10/hong-kong-"
+#~ "protests-apple-pulls-tracking-app-after-china-criticism\"> baniu o "
+#~ "aplicativo que os protestantes de Hong Kong usam para se comunicar</a>."
+
+#~ msgid ""
+#~ "Obeying the &ldquo;local laws&rdquo; about what people can do with "
+#~ "software is no excuse for censoring what software people can use."
+#~ msgstr ""
+#~ "A obediência da “lei local” sobre o que as pessoas que podem fazer com "
+#~ "software não é uma desculpa para censurar qual software as pessoas podem "
+#~ "usar."
+
+#, fuzzy
+#~| msgid ""
+#~| "Adobe has <a href=\"https://helpx.adobe.com/x-productkb/policy-pricing/"
+#~| "executive-order-venezuela.html\"> cancelled the software subscriptions "
+#~| "of all users in Venezuela</a>. This demonstrates that a subscription "
+#~| "requirement is a potential tool for sabotage."
+#~ msgid ""
+#~ "Adobe has <a href=\"https://www.bleepingcomputer.com/news/software/adobe-"
+#~ "to-ban-users-from-venezuela-due-to-us-executive-order\"> cancelled the "
+#~ "software subscriptions of all users in Venezuela</a>. This demonstrates "
+#~ "how a requirement for subscription can be turned into a tool for sabotage."
+#~ msgstr ""
+#~ "A Adobe <a href=\"https://helpx.adobe.com/x-productkb/policy-pricing/"
+#~ "executive-order-venezuela.html\"> cancelou as assinaturas de software de "
+#~ "todos os usuários na Venezuela</a>. Isso demonstra que um requisito da "
+#~ "assinatura é uma ferramenta em potencial para sabotagem."
+
+#~ msgid ""
+#~ "A very popular app found in the Google Play store contained a module that "
+#~ "was designed to <a href=\"https://arstechnica.com/information-"
+#~ "technology/2019/08/google-play-app-with-100-million-downloads-executed-"
+#~ "secret-payloads/\">secretly install malware on the user's computer</a>. "
+#~ "The app developers regularly used it to make the computer download and "
+#~ "execute any code they wanted."
+#~ msgstr ""
+#~ "Um aplicativo muito popular encontrado na loja Google Play continha um "
+#~ "módulo desenvolvido para <a href=\"https://arstechnica.com/information-"
+#~ "technology/2019/08/google-play-app-with-100-million-downloads-executed-"
+#~ "secret-payloads/\">instala secretamente malware no computador do usuário</"
+#~ "a>. Os desenvolvedores de aplicativos costumavam usá-lo para fazer o "
+#~ "download do computador e executar qualquer código que desejassem."
+
+#~ msgid ""
+#~ "This is a concrete example of what users are exposed to when they run "
+#~ "nonfree apps. They can never be completely sure that a nonfree app is "
+#~ "safe."
+#~ msgstr ""
+#~ "Este é um exemplo concreto a que os usuários são expostos quando executam "
+#~ "aplicativos não livres. Eles nunca podem ter certeza absoluta de que um "
+#~ "aplicativo não livre é seguro."
+
+#~ msgid ""
+#~ "The Facebook app <a href=\"https://eu.usatoday.com/story/tech/"
+#~ "talkingtech/2019/09/09/facebook-app-social-network-tracking-your-every-"
+#~ "move/2270305001/\"> tracks users even when it is turned off</a>, after "
+#~ "tricking them into giving the app broad permissions in order to use one "
+#~ "of its functionalities."
+#~ msgstr ""
+#~ "O aplicativo do Facebook <a href=\"https://eu.usatoday.com/story/tech/"
+#~ "talkingtech/2019/09/09/facebook-app-social-network-tracking-your-every-"
+#~ "move/2270305001/\"> rastreia os usuários mesmo quando está desativado</"
+#~ "a>, depois de induzi-los a conceder amplas permissões ao aplicativo para "
+#~ "usar uma de suas funcionalidades."
+
+#~ msgid ""
+#~ "The recent versions of Microsoft Office require the user to <a href="
+#~ "\"https://products.office.com/en-us/microsoft-office-for-home-and-school-"
+#~ "faq?legRedir=true&amp;CorrelationId=c9c5b549-11ad-4f71-bf81-"
+#~ "b7e069fdb372\"> connect to Microsoft servers at least every thirty-one "
+#~ "days</a>. Otherwise, the software will refuse to edit any documents or "
+#~ "create new ones. It will be restricted to viewing and printing."
+#~ msgstr ""
+#~ "As versões recentes do Microsoft Office exigem que o usuário <a href="
+#~ "\"https://products.office.com/pt-br/microsoft-office-for-home-and-school-"
+#~ "faq?legRedir=true&amp;CorrelationId=c9c5b549-11ad-4f71-bf81-"
+#~ "b7e069fdb372\"> se conecte aos servidores da Microsoft pelo menos a cada "
+#~ "trinta e um dias</a>. Caso contrário, o software recusará a editar "
+#~ "quaisquer documentos ou criar novos. Será restrito à visualização e "
+#~ "impressão."
+
+#~ msgid ""
+#~ "Some nonfree period-tracking apps including MIA Fem and Maya <a href="
+#~ "\"https://www.buzzfeednews.com/article/meghara/period-tracker-apps-"
+#~ "facebook-maya-mia-fem\"> send intimate details of users' lives to "
+#~ "Facebook</a>."
+#~ msgstr ""
+#~ "Alguns aplicativos não livres de rastreamento de ciclo menstrual "
+#~ "incluindo MIA Fem e Maya <a href=\"https://www.buzzfeednews.com/article/"
+#~ "meghara/period-tracker-apps-facebook-maya-mia-fem\"> enviam detalhes "
+#~ "íntimos das vidas das usuárias para Facebook</a>."
+
+#~ msgid ""
+#~ "Tesla users claim Tesla <a href=\"https://www.reuters.com/article/us-"
+#~ "tesla-battery/tesla-owner-lawsuit-claims-software-update-fraudulently-cut-"
+#~ "battery-capacity-idUSKCN1UY2TW\">force-installed software to cut down on "
+#~ "battery range</a>, rather than replace the defective batteries. Tesla did "
+#~ "this to avoid having to run their warranty."
+#~ msgstr ""
+#~ "Os usuários da Tesla alegam que a Tesla <a href=\"https://www.reuters.com/"
+#~ "article/us-tesla-battery/tesla-owner-lawsuit-claims-software-update-"
+#~ "fraudulently-cut-battery-capacity-idUSKCN1UY2TW\">instalou à força o "
+#~ "software para reduzir a duração da bateria</a>, em vez de substituir as "
+#~ "baterias com defeito. Tesla fez isso para evitar ter que atender a sua "
+#~ "garantia."
+
+#~ msgid ""
+#~ "This means that proprietary software can potentially be a way to commit "
+#~ "perjury with impunity."
+#~ msgstr ""
+#~ "Isso significa que o software proprietário pode ser uma maneira de "
+#~ "cometer perjúrio com impunidade."
+
+#~ msgid ""
+#~ "ChromeBooks are programmed for obsolescence: ChromeOS has a universal "
+#~ "back door that is used for updates and <a href=\"https://www.theregister."
+#~ "co.uk/2019/08/22/buying_a_chromebook_dont_forget_to_check_when_it_expires/"
+#~ "\"> ceases to operate at a predefined date</a>. From then on, there "
+#~ "appears to be no support whatsoever for the computer."
+#~ msgstr ""
+#~ "O ChromeBooks está programado para obsolescência: o ChromeOS possui um "
+#~ "<em>back door</em> universal usado para atualizações e <a href=\"https://"
+#~ "www.theregister.co.uk/2019/08/22/"
+#~ "buying_a_chromebook_dont_forget_to_check_when_it_expires/\"> deixa de "
+#~ "funcionar em uma data predefinida</a>. A partir de então, parece não "
+#~ "haver suporte para o computador."
+
+#~ msgid ""
+#~ "In other words, when you stop getting screwed by the back door, you start "
+#~ "getting screwed by the obsolescence."
+#~ msgstr ""
+#~ "Em outras palavras, quando você para de se ferrar pela porta dos fundos, "
+#~ "começa a se ferrar pela obsolescência."
+
+#~ msgid ""
+#~ "Microsoft recorded users of Xboxes and had <a href=\"https://www.vice.com/"
+#~ "en_us/article/43kv4q/microsoft-human-contractors-listened-to-xbox-owners-"
+#~ "homes-kinect-cortana\"> human workers listen to the recordings</a>."
+#~ msgstr ""
+#~ "Microsoft gravou usuários de Xboxes e tinha <a href=\"https://www.vice."
+#~ "com/en_us/article/43kv4q/microsoft-human-contractors-listened-to-xbox-"
+#~ "owners-homes-kinect-cortana\"> trabalhadores humanos ouvindo às "
+#~ "gravações</a>."
+
+#~ msgid ""
+#~ "Morally, we see no difference between having human workers listen and "
+#~ "having speech-recognition systems listen.  Both intrude on privacy."
+#~ msgstr ""
+#~ "Moralmente, não vejo diferença entre ter trabalhadores humanos ouvindo ou "
+#~ "sistemas de reconhecimento de fala ouvindo. Ambos se intrometem na "
+#~ "privacidade."
+
+#~ msgid ""
+#~ "Keeping track of who downloads a proprietary program is a form of "
+#~ "surveillance.  There is a proprietary program for adjusting a certain "
+#~ "telescopic rifle sight. <a href=\"https://www.forbes.com/sites/"
+#~ "thomasbrewster/2019/09/06/exclusive-feds-demand-apple-and-google-hand-"
+#~ "over-names-of-10000-users-of-a-gun-scope-app/\"> A US prosecutor has "
+#~ "demanded the list of all the 10,000 or more people who have installed it</"
+#~ "a>."
+#~ msgstr ""
+#~ "Manter rastro de quem faz o download de um programa proprietário é uma "
+#~ "forma de vigilância. Existe um programa proprietário para ajustar uma "
+#~ "certa mira de rifle. <a href=\"https://www.forbes.com/sites/"
+#~ "thomasbrewster/2019/09/06/exclusive-feds-demand-apple-and-google-hand-"
+#~ "over-names-of-10000-users-of-a-gun-scope-app/\"> Um promotor dos EUA "
+#~ "exigiu a lista de todas as 10.000 ou mais pessoas que instalaram-no</a>."
+
+#~ msgid ""
+#~ "With a free program there would not be a list of who has installed it."
+#~ msgstr "Com um programa livre, não haveria uma lista de quem o instalou."
+
+#~ msgid ""
+#~ "A series of vulnerabilities <a href=\"https://www.forbes.com/sites/"
+#~ "gordonkelly/2019/08/31/apple-iphone-ipad-security-ios-upgrade-iphone-xs-"
+#~ "max-xr-update/\">found in iOS allowed attackers to gain access to "
+#~ "sensitive information including private messages, passwords, photos and "
+#~ "contacts stored on the user's iMonster</a>."
+#~ msgstr ""
+#~ "Uma série de vulnerabilidades <a href=\"https://www.forbes.com/sites/"
+#~ "gordonkelly/2019/08/31/apple-iphone-ipad-security-ios-upgrade-iphone-xs-"
+#~ "max-xr-update/\">encontradas no iOS permitiu que invasores tivessem "
+#~ "acesso a informações confidenciais, incluindo mensagens privadas, senhas, "
+#~ "fotos e contatos armazenados no iMonstro do usuário</a>."
+
+#~ msgid ""
+#~ "The deep insecurity of iMonsters is even more pertinent given that "
+#~ "Apple's proprietary software makes users totally dependent on Apple for "
+#~ "even a modicum of security.  It also means that the devices do not even "
+#~ "try to offer security against Apple itself."
+#~ msgstr ""
+#~ "A profunda insegurança do iMonstros é ainda mais pertinente, uma vez que "
+#~ "o software proprietário da Apple torna os usuários totalmente dependentes "
+#~ "da Apple para um mínimo de segurança. Isso também significa que os "
+#~ "dispositivos nem tentam oferecer segurança contra a própria Apple."
+
+#~ msgid ""
+#~ "A game published on Facebook <a href=\"https://www.revealnews.org/article/"
+#~ "so-your-child-racked-up-unwanted-credit-card-charges-playing-video-games-"
+#~ "now-what/\">aimed at leading children to spend</a> large amounts of their "
+#~ "parents' money without explaining it to them."
+#~ msgstr ""
+#~ "Um jogo publicado no Facebook <a href=\"https://www.revealnews.org/"
+#~ "article/so-your-child-racked-up-unwanted-credit-card-charges-playing-"
+#~ "video-games-now-what/\">visava levar as crianças a gastar</a> grandes "
+#~ "quantias do dinheiro de seus pais sem explicá-lo para elas."
+
+#~ msgid ""
+#~ "In spite of iPhone's reputation for being secure, it does have bad "
+#~ "security flaws. Crackers exploited 14 bugs of iOS for two and a half "
+#~ "years to <a href=\"https://www.theguardian.com/technology/2019/aug/30/"
+#~ "hackers-monitoring-implants-iphones-google-says\"> steal users' most "
+#~ "private data</a>, and gain access to their accounts."
+#~ msgstr ""
+#~ "Apesar da reputação do iPhone de ser seguro, ele apresenta falhas de "
+#~ "segurança ruins. Crackers exploraram 14 bugs do iOS por dois anos e meio "
+#~ "para <a href=\"https://www.theguardian.com/technology/2019/aug/30/hackers-"
+#~ "monitoring-implants-iphones-google-says\"> roubar os dados mais íntimos "
+#~ "dos usuários</a> e obter acesso às suas contas."
+
+#~ msgid ""
+#~ "Apple has corrected these bugs, but this shows that <em>any</em> "
+#~ "developer of nonfree programs is liable to make mistakes affecting the "
+#~ "security of their products, and users can't investigate or fix them."
+#~ msgstr ""
+#~ "A Apple corrigiu esses bugs, mas isso mostra que <em>qualquer</em> "
+#~ "desenvolvedor de programas não livres está suscetível de cometer erros "
+#~ "que afetam a segurança de seus produtos, e os usuários não podem "
+#~ "investigar ou corrigi-los."
+
+#~ msgid ""
+#~ "When Apple suspects a user of fraud, it judges the case secretly and "
+#~ "presents the verdict as a fait accompli.  The punishment to a user found "
+#~ "guilty <a href=\"https://qz.com/1683460/what-happens-to-your-itunes-"
+#~ "account-when-apple-says-youve-committed-fraud/\">is being cut off for "
+#~ "life, which more-or-less cripples the user's Apple devices forever</a>.  "
+#~ "There is no appeal."
+#~ msgstr ""
+#~ "Quando a Apple suspeita de um usuário de fraude, ela julga o caso "
+#~ "secretamente e apresenta o veredicto como um fato consumado. A punição "
+#~ "para um usuário considerado culpado <a href=\"https://qz.com/1683460/what-"
+#~ "happens-to-your-itunes-account-when-apple-says-youve-committed-fraud/"
+#~ "\">está é ser cortado para sempre, o que prejudica mais ou menos os "
+#~ "dispositivos Apple do usuário para sempre</a>. Não há recurso."
+
+#~ msgid ""
+#~ "Skype refuses to say whether it can <a href=\"http://www.slate.com/blogs/"
+#~ "future_tense/2012/07/20/"
+#~ "skype_won_t_comment_on_whether_it_can_now_eavesdrop_on_conversations_.html"
+#~ "\">eavesdrop on calls</a>."
+#~ msgstr ""
+#~ "O Skype se recusa a dizer se ele pode <a href=\"http://www.slate.com/"
+#~ "blogs/future_tense/2012/07/20/"
+#~ "skype_won_t_comment_on_whether_it_can_now_eavesdrop_on_conversations_.html"
+#~ "\">espionar chamadas</a>."
+
+#~ msgid "That almost certainly means it can do so."
+#~ msgstr "Isso quase com certeza significa que ele pode fazê-lo."
+
+#~ msgid ""
+#~ "Apple is putting DRM on iPhone batteries, and the system proprietary "
+#~ "software <a href=\"https://www.vice.com/en_us/article/59nz3k/apple-is-"
+#~ "locking-batteries-to-specific-iphones-a-nightmare-for-diy-repair\">turns "
+#~ "off certain features when batteries are replaced other than by Apple.</a>"
+#~ msgstr ""
+#~ "A Apple está inserindo DRM em baterias do iPhone e o software de sistema "
+#~ "proprietário <a href=\"https://www.vice.com/en_us/article/59nz3k/apple-is-"
+#~ "locking-batteries-to-specific-iphones-a-nightmare-for-diy-repair"
+#~ "\">desliga certos recursos quando as baterias são substituídas por outra "
+#~ "além da Apple.</a>"
+
+#~ msgid ""
+#~ "Out of 21 gratis Android antivirus apps that were tested by security "
+#~ "researchers, eight <a href=\"https://www.comparitech.com/antivirus/"
+#~ "android-antivirus-vulnerabilities/\"> failed to detect a test virus</a>. "
+#~ "All of them asked for dangerous permissions or contained advertising "
+#~ "trackers, with seven being more risky than the average of the 100 most "
+#~ "popular Android apps."
+#~ msgstr ""
+#~ "Dos 21 aplicativos antivírus gratuitos para Android que foram testados "
+#~ "por pesquisadores de segurança, oito <a href=\"https://www.comparitech."
+#~ "com/antivirus/android-antivirus-vulnerabilities/\"> falharam em detectar "
+#~ "um vírus de teste</a>. Todos eles pediram permissões perigosas ou "
+#~ "continham rastreadores de publicidade, sendo sete mais arriscados do que "
+#~ "a média dos 100 aplicativos mais populares para Android."
+
+#~ msgid ""
+#~ "Note that the article refers to these proprietary apps as &ldquo;"
+#~ "free&rdquo;. It should have said &ldquo;gratis&rdquo; instead."
+#~ msgstr ""
+#~ "Note que o artigo se refere a esses aplicativos proprietários como “<i "
+#~ "lang=\"en\">free</i>”. Na verdade, deveria dizer “grátis”."
 
 #~ msgid ""
 #~ "Many unscrupulous mobile-app developers keep finding ways to <a href="

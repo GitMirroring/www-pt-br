@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary-tyrants.html\n"
-"POT-Creation-Date: 2019-01-05 11:26+0000\n"
-"PO-Revision-Date: 2019-03-22 12:27-0300\n"
+"POT-Creation-Date: 2019-11-18 14:55+0000\n"
+"PO-Revision-Date: 2019-11-26 22:51-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -21,46 +21,51 @@ msgstr ""
 msgid "Proprietary Tyrants - GNU Project - Free Software Foundation"
 msgstr "Tiranos proprietários - Projeto GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><p>
+msgid ""
+"<a href=\"/proprietary/proprietary.html\">Proprietary malware</a> &rarr; "
+"Tyrants"
+msgstr ""
+"<a href=\"/proprietary/proprietary.html\"><em>Malware</em> proprietário</a> "
+"&rarr; Tiranos"
+
+#. type: Content of: <div><h2>
 msgid "Proprietary Tyrants"
 msgstr "Tiranos proprietários"
 
-#. type: Content of: outside any tag (error?)
-msgid ""
-"<a href=\"/proprietary/proprietary.html\">Other examples of proprietary "
-"malware</a>"
-msgstr ""
-"<a href=\"/proprietary/proprietary.html\">Outros exemplos de <em>malwares</"
-"em> proprietários</a>"
-
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Nonfree (proprietary) software is very often malware (designed to mistreat "
 "the user). Nonfree software is controlled by its developers, which puts them "
 "in a position of power over the users; <a href=\"/philosophy/free-software-"
 "even-more-important.html\">that is the basic injustice</a>. The developers "
-"often exercise that power to the detriment of the users they ought to serve."
+"and manufacturers often exercise that power to the detriment of the users "
+"they ought to serve."
 msgstr ""
 "O software não livre (proprietário) é muitas vezes um malware (projetado "
 "para maltratar o usuário). O software não livre é controlado por seus "
 "desenvolvedores, o que os coloca em uma posição de poder sobre os usuários; "
 "<a href=\"/philosophy/free-software-even-more-important.html\">isso é a "
-"injustiça básica</a>. Os desenvolvedores muitas vezes exercem esse poder em "
-"detrimento dos usuários que deveriam servir."
+"injustiça básica</a>. Os desenvolvedores e fabricantes muitas vezes exercem "
+"esse poder em detrimento dos usuários que deveriam servir."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
+msgid "This typically takes the form of malicious functionalities."
+msgstr "Isso geralmente assume a forma de funcionalidades maliciosas."
+
+#. type: Content of: <div><div><p>
 msgid ""
-"A <em>tyrant</em> device is one that refuses to allow users to install a "
-"different operating system or a modified operating system.  These devices "
-"have measures to block execution of anything other than the &ldquo;"
+"A <em>tyrant</em> is a malicious device that refuses to allow users to "
+"install a different operating system or a modified operating system.  These "
+"devices have measures to block execution of anything other than the &ldquo;"
 "approved&rdquo; system versions.  We also refer to this practice as "
 "<em>tivoization</em>."
 msgstr ""
-"Um dispositivo <em>tirano</em> é aquele que se recusa a permitir que os "
-"usuários instalem um sistema operacional diferente ou um sistema operacional "
-"modificado. Esses dispositivos têm medidas para bloquear a execução de "
-"qualquer coisa que não seja uma versão de sistema “aprovada”. Também nos "
-"referimos a essa prática como <em>tivoização</em>."
+"Um <em>tirano</em> é um dispositivo malicioso que se recusa a permitir que "
+"os usuários instalem um sistema operacional diferente ou um sistema "
+"operacional modificado. Esses dispositivos têm medidas para bloquear a "
+"execução de qualquer coisa que não seja uma versão de sistema “aprovada”. "
+"Também nos referimos a essa prática como <em>tivoização</em>."
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -74,7 +79,7 @@ msgstr ""
 "webmasters@gnu.org&gt;</a> para nos informar. Por favor, inclua a URL ou "
 "duas de uma referência confiável para servir como comprovação específica."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Microsoft accidentally left a way for users to install GNU/Linux on Windows "
 "RT tablets, but now it has <a href=\"http://www.securitynewspaper."
@@ -92,7 +97,7 @@ msgstr ""
 "instalação do “Linux”, mas o contexto mostra que ele é realmente o <a href="
 "\"/gnu/linux-and-gnu.html\">GNU/Linux</a> que os usuários instalam."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Apple arbitrarily <a href=\"http://9to5mac.com/2014/12/01/ios-8-1-signing-"
 "window-closed/\">blocks users from installing old versions of iOS</a>."
@@ -101,7 +106,7 @@ msgstr ""
 "signing-window-closed/\">bloqueia usuários de instalar versões antigas do "
 "iOS</a>."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "<a href=\"http://soylentnews.org/article.pl?sid=14/03/15/1912255\"> Intel "
 "processors will have tyrant software built in</a>."
@@ -109,7 +114,7 @@ msgstr ""
 "<a href=\"http://soylentnews.org/article.pl?sid=14/03/15/1912255\"> "
 "Processadores da Intel terão software tirano embutido</a>."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Motorola, then owned by Google, made <a href=\"http://blog.azimuthsecurity."
 "com/2013/04/unlocking-motorola-bootloader.html\"> Android phones that are "
@@ -122,7 +127,7 @@ msgstr ""
 "quebrar a restrição). Felizmente, a maioria dos dispositivos Android não são "
 "tiranos."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Samsung &ldquo;Smart&rdquo; TVs have <a href=\"https://wiki.samygo.tv/index."
 "php?title=SamyGO_for_DUMMIES#What_are_Restricted_Firmwares.3F\"> turned "
@@ -138,15 +143,15 @@ msgstr ""
 "2, <a href=\"/licenses/rms-why-gplv3.html\">não a versão 3</a>, juntamente "
 "com uma interpretação fraca da GPL versão 2."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"Some LG TVs <a href=\"http://openlgtv.org.ru/wiki/index.php/Achievements"
-"\">are tyrants</a>."
+"Some LG TVs <a href=\"https://web.archive.org/web/20190917164647/http://"
+"openlgtv.org.ru/wiki/index.php/Achievements\"> are tyrants</a>."
 msgstr ""
-"Algumas TVs da LG <a href=\"http://openlgtv.org.ru/wiki/index.php/"
-"Achievements\">são tiranas</a>."
+"Algumas TVs da LG <a href=\"https://web.archive.org/web/20190917164647/"
+"http://openlgtv.org.ru/wiki/index.php/Achievements\"> são tiranas</a>."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "The Apple iThings are tyrant devices.  There is a port of Android to the "
 "iThings, but installing it requires <a href=\"https://web.archive.org/"
@@ -160,7 +165,7 @@ msgstr ""
 "erro ou <i lang=\"en\">“exploit”</i></a> para possibilitar a instalação de "
 "um sistema diferente."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "<a href=\"https://fsf.org/campaigns/secure-boot-vs-restricted-boot/\"> "
 "Mobile devices that come with Windows 8 are tyrants</a>."
@@ -168,7 +173,7 @@ msgstr ""
 "<a href=\"https://fsf.org/campaigns/secure-boot-vs-restricted-boot/\"> "
 "Dispositivos móveis que vêm com o Windows 8 são tiranos</a>."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "<a href=\"https://www.defectivebydesign.org/sony\">The Playstation 3 is a "
 "tyrant</a>."

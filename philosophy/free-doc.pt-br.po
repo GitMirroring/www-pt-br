@@ -4,12 +4,12 @@
 # Gustavo Lacerda <gus@optimizelife.com>, 2001.
 # Dec 2014: GNUNify.
 # August 2016: update a link.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2016.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2016, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: free-doc.html\n"
-"POT-Creation-Date: 2016-09-15 11:55+0000\n"
-"PO-Revision-Date: 2017-05-20 16:20-0300\n"
+"POT-Creation-Date: 2019-12-27 22:55+0000\n"
+"PO-Revision-Date: 2019-12-27 23:22-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -64,24 +64,24 @@ msgid ""
 "Once upon a time, many years ago, I thought I would learn Perl.  I got a "
 "copy of a free manual, but I found it hard to read.  When I asked Perl users "
 "about alternatives, they told me that there were better introductory "
-"manuals&mdash;but those were not free."
+"manuals&mdash;but those were not free (not freedom-respecting)."
 msgstr ""
 "Uma vez, muitos anos atrás, eu pensei que ia aprender Perl. Peguei uma cópia "
 "de um manual livre, mas achei difícil de ler. Quando perguntei usuários de "
 "Perl sobre alternativas, eles me disseram que existiam manuais introdutórios "
-"melhores — mas que não eram livres."
+"melhores — mas que não eram livres (não eram respeitadores de liberdades)."
 
 #. type: Content of: <p>
 msgid ""
 "Why was this? The authors of the good manuals had written them for O'Reilly "
 "Associates, which published them with restrictive terms&mdash;no copying, no "
-"modification, source files not available&mdash;which exclude them from the "
-"free software community."
+"modification, source files not available&mdash;which made them nonfree, thus "
+"excluded them from the Free World."
 msgstr ""
 "Por que isso? Os autores dos bons manuais os tinham escrito para O'Reilly "
 "Associates, que os publicou com termos restritivos — era proibido copiar, "
-"modificar, arquivos-fonte não disponíveis — o que os exclui da comunidade do "
-"software livre."
+"modificar, arquivos-fonte não disponíveis — tornando-os não livres e, "
+"portanto, excluindo-os do Mundo Livre."
 
 #. type: Content of: <p>
 msgid ""
@@ -342,10 +342,10 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid ""
 "Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, "
-"2006, 2007, 2009, 2015, 2016 Free Software Foundation, Inc."
+"2006, 2007, 2009, 2015, 2016, 2019 Free Software Foundation, Inc."
 msgstr ""
 "Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, "
-"2006, 2007, 2009, 2015, 2016 Free Software Foundation, Inc."
+"2006, 2007, 2009, 2015, 2016, 2019 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -365,7 +365,8 @@ msgstr ""
 "<a href=\"mailto:gus@optimizelife.com\">&lt;gus@optimizelife.com&gt;</a>, "
 "2011 <br />\n"
 "Rafael Fontenelle\n"
-"<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, 2016"
+"<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, "
+"2016-2019"
 
 #.  timestamp start 
 #. type: Content of: <div><p>

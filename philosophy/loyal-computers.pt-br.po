@@ -1,0 +1,393 @@
+# Brazilian Portuguese translation of https://www.gnu.org/philosophy/loyal-computers.html
+# Copyright (C) 2019 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2019.
+# Cassiano Reinert Novais dos Santos <caco@posteo.net>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: loyal-computers.html\n"
+"POT-Creation-Date: 2019-03-18 17:56+0000\n"
+"PO-Revision-Date: 2019-07-09 21:35-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid ""
+"What Does It Mean for Your Computer to Be Loyal? - GNU Project - Free "
+"Software Foundation"
+msgstr ""
+"O que significa para você que seu computador seja leal? - Projeto GNU - Free "
+"Software Foundation"
+
+#. type: Content of: <h2>
+msgid "What Does It Mean for Your Computer to Be Loyal?"
+msgstr "O que significa para você que seu computador seja leal?"
+
+#. type: Content of: <p>
+msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
+msgstr "por <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
+
+#. type: Content of: <p>
+msgid ""
+"We say that running <a href=\"/philosophy/free-sw.html\">free software</a> "
+"on your computer means that its operation is <a href=\"/philosophy/free-"
+"software-even-more-important.html\">under your control</a>.  Implicitly this "
+"presupposes that your computer will do what your programs tell it to do, and "
+"no more.  In other words, that your computer will be loyal to you."
+msgstr ""
+"Dizemos que executar <a href=\"/philosophy/free-sw.html\">software livre</a> "
+"no seu computador significa que sua operação está <a href=\"/philosophy/free-"
+"software-even-more-important.html\">sob seu controle</a>. Implicitamente, "
+"isso pressupõe que o seu computador fará o que seus programas lhe dizem para "
+"fazer, e não mais. Em outras palavras, que seu computador será leal a você."
+
+#. type: Content of: <p>
+msgid ""
+"In 1990 we took that for granted; nowadays, many computers are designed to "
+"be disloyal to their users.  It has become necessary to spell out what it "
+"means for your computer to be a loyal platform that obeys your decisions, "
+"which you express by telling it to run certain programs."
+msgstr ""
+"Em 1990, nós tomamos isso como uma coisa certa; hoje em dia, muitos "
+"computadores são projetados para serem desleais com seus usuários. Tornou-se "
+"necessário esclarecer o que significa o seu computador ser uma plataforma "
+"leal que obedece às suas decisões, as quais você expressa dizendo a ele para "
+"executar certos programas."
+
+#. type: Content of: <p>
+msgid "Our tentative definition consists of these principles."
+msgstr "Nossa tentativa de definição consiste nesses princípios."
+
+#. type: Content of: <dl><dt>
+msgid "Installability"
+msgstr "Instalabilidade"
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"Any software that can be replaced by someone else, the user must be "
+"empowered to replace."
+msgstr ""
+"Qualquer software que possa ser substituído por outra pessoa, o usuário deve "
+"estar autorizado a substituí-lo."
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"Thus, if the computer requires a password or some other secret in order to "
+"replace some of the software in it, whoever sells you the computer must tell "
+"you that secret as well."
+msgstr ""
+"Assim, se o computador exigir uma senha ou algum outro segredo para "
+"substituir alguns dos softwares nele contidos, quem lhe vender o computador "
+"também deverá informar esse segredo."
+
+#. type: Content of: <dl><dt>
+msgid "Neutrality towards software"
+msgstr "Neutralidade para softwares"
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"The computer will run, without prejudice, whatever software you install in "
+"it, and let that software do whatever its code says to do."
+msgstr ""
+"O computador executará, sem prejuízo, qualquer software que você instalar "
+"nele, e permitirá que o software faça o que seu código disser."
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"A feature to check for signatures on the programs that run is compatible "
+"with this principle provided the signature checking is fully under the "
+"user's control.  When that is so, the feature helps implement the user's "
+"decisions about which programs to run, rather than thwarting the user's "
+"decisions.  By contrast, signature checking that is not fully under the "
+"user's control violates this principle."
+msgstr ""
+"Um recurso para verificar assinaturas nos programas executados é compatível "
+"com este princípio, desde que a verificação de assinatura esteja totalmente "
+"sob o controle do usuário. Quando isso acontece, o recurso ajuda a "
+"implementar as decisões do usuário sobre quais programas executar, em vez de "
+"frustrar as decisões do usuário. Por outro lado, a verificação de assinatura "
+"que não está totalmente sob o controle do usuário viola esse princípio."
+
+#. type: Content of: <dl><dt>
+msgid "Neutrality towards protocols"
+msgstr "Neutralidade para protocolos"
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"The computer will communicate, without prejudice, through whatever protocol "
+"your installed software implements, with whatever users and whatever other "
+"networked computers you direct it to communicate with."
+msgstr ""
+"O computador se comunicará, sem prejuízo, através de qualquer protocolo que "
+"o software instalado implemente, com quaisquer usuários e quaisquer outros "
+"computadores em rede com os quais você o direcione para se comunicar."
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"This means that computer does not impose one particular service rather than "
+"another, or one protocol rather than another. It does not require the user "
+"to get anyone else's permission to communicate via a certain protocol."
+msgstr ""
+"Isso significa que o computador não impõe um serviço específico em vez de "
+"outro, ou um protocolo em vez de outro. Ele não exige que o usuário obtenha "
+"permissão de outra pessoa para se comunicar por meio de um determinado "
+"protocolo."
+
+#. type: Content of: <dl><dt>
+msgid "Neutrality towards implementations"
+msgstr "Neutralidade para implementações"
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"When the computer communicates using any given protocol, it will support "
+"doing so, without prejudice, via whatever code you choose (assuming the code "
+"implements the intended protocol), and it will do nothing to help any other "
+"part of the Internet to distinguish which code you are using or what changes "
+"you may have made in it, or to discriminate based on your choice."
+msgstr ""
+"Quando o computador se comunica usando qualquer protocolo, ele terá suporte "
+"a fazê-lo, sem prejuízo, através do código escolhido (presumindo que o "
+"código implemente o protocolo pretendido) e não ajudará em nada a outra "
+"parte da Internet a distinguir qual código você está usando ou quais "
+"alterações você pode ter feito nele, ou discriminar com base em sua escolha."
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"This entails that the computer rejects remote attestation, that is, that it "
+"does not permit other computers to determine over the network whether your "
+"computer is running one particular software load. Remote attestation gives "
+"web sites the power to compel you to connect to them only through an "
+"application with DRM that you can't break, denying you effective control "
+"over the software you use to communicate with them."
+msgstr ""
+"Isso implica que o computador rejeita a certificação remota, isto é, não "
+"permite que outros computadores determinem através da rede se o seu "
+"computador está executando uma carga de software específica. O atestado "
+"remoto fornece aos sites da Web o poder de obrigá-lo a se conectar a eles "
+"somente por meio de um aplicativo com DRM que você não pode violar, negando "
+"a você um controle efetivo sobre o software usado para se comunicar com eles."
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"We can comprehend remote attestation as a general scheme to allow any web "
+"site to impose tivoization or &ldquo;lockdown&rdquo; on the local software "
+"you connect to it with.  Simple tivoization of a program bars modified "
+"versions from functioning properly; that makes the program nonfree.  Remote "
+"attestation by web sites bars modified versions from working with those "
+"sites that use it, which makes the program effectively nonfree when using "
+"those sites.  If a computer allows web sites to bar you from using a "
+"modified program with them, it is loyal to them, not to you."
+msgstr ""
+"Podemos compreender certificação remota como um esquema geral para permitir "
+"que qualquer site imponha <em>tivoização</em> ou “travamento” no software "
+"local com o qual você se conecta. A simples <em>tivoização</em> de um "
+"programa impede que as versões modificadas funcionem corretamente; isso faz "
+"com que o programa seja não livre. A certificação remota por <em>sites web</"
+"em>impede que versões modificadas funcionem com aqueles <em>sites</em> que a "
+"usam, o que torna o programa efetivamente não livre quando usam estes sites. "
+"Se um computador permite que <em>sites web</em> o impeçam de usar um "
+"programa modificado com eles, ele será fiel a eles, não a você."
+
+#. type: Content of: <dl><dt>
+msgid "Neutrality towards data communicated"
+msgstr "Neutralidade para dados comunicados"
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"When the computer receives data using whatever protocol, it will not limit "
+"what the program can do with the data received through that communication."
+msgstr ""
+"Quando o computador recebe dados usando qualquer protocolo, ele não limita o "
+"que o programa pode fazer com os dados recebidos através dessa comunicação."
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"Any hardware-level DRM violates this principle.  For instance, the hardware "
+"must not deliver video streams encrypted such that only the monitor can "
+"decrypt them."
+msgstr ""
+"Qualquer DRM no nível do hardware viola esse princípio. Por exemplo, o "
+"hardware não deve fornecer fluxos de vídeo criptografados de forma que "
+"somente o monitor possa descriptografá-los."
+
+#. type: Content of: <dl><dt>
+msgid "Debugability"
+msgstr "<em>Depurabilidade</em>"
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"The computer always permits you to analyze the operation of a program that "
+"is running."
+msgstr ""
+"O computador sempre permite analisar a operação de um programa em execução."
+
+#. type: Content of: <dl><dt>
+msgid "Completeness"
+msgstr "Completude"
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"The principles above apply to all the computer's software interfaces and all "
+"communication the computer does.  The computer must not have any disloyal "
+"programmable facility or do any disloyal communication."
+msgstr ""
+"Os princípios acima se aplicam a todas as interfaces de software do "
+"computador e a toda comunicação que o computador faz. O computador não deve "
+"ter nenhuma instalação programável desleal ou fazer qualquer comunicação "
+"desleal."
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"For instance, the AMT functionality in recent Intel processors runs nonfree "
+"software that can talk to Intel remotely.  Unless disabled, this makes the "
+"system disloyal."
+msgstr ""
+"Por exemplo, a funcionalidade AMT em processadores Intel recentes executa "
+"software não livre que pode conversar remotamente com a Intel. A menos que "
+"seja desativado, isso torna o sistema desleal."
+
+#. type: Content of: <p>
+msgid ""
+"For a computer to be fully at your service, it should come with "
+"documentation of all the interfaces intended for software running in the "
+"computer to use to control the computer.  A documentation gap as such "
+"doesn't mean the computer is actively disloyal, but does mean there are some "
+"aspect of it that are not at your service.  Depending on what that aspect "
+"does, this might or might not be a real problem."
+msgstr ""
+"Para que um computador esteja totalmente ao seu serviço, ele deve vir com a "
+"documentação de todas as interfaces destinadas ao software em execução no "
+"computador para usar no controle do computador. Uma lacuna na documentação "
+"não significa que o computador seja ativamente desleal, mas significa que há "
+"algum aspecto dele que não está a seu serviço. Dependendo de qual é esse "
+"aspecto, isso pode ou não ser um problema real."
+
+#. type: Content of: <p>
+msgid ""
+"We ask readers to send criticisms and suggestions about this definition to "
+"<a href=\"mailto:computer-principles@gnu.org\"> &lt;computer-principles@gnu."
+"org&gt;</a>."
+msgstr ""
+"Pedimos que os leitores enviem críticas e sugestões sobre essa definição "
+"para <a href=\"mailto:computer-principles@gnu.org\"> &lt;computer-"
+"principles@gnu.org&gt;</a>."
+
+#. type: Content of: <p>
+msgid ""
+"Loyalty as defined here is the most basic criterion we could think of that "
+"is meaningful.  It does not require that all the software in the computer be "
+"free.  However, the presence of <a href=\"/philosophy/free-software-even-"
+"more-important.html\">nonfree software in the computer</a> is an obstacle to "
+"verifying that the computer is loyal, or making sure it remains so."
+msgstr ""
+"A lealdade, como definida aqui, é o critério mais básico que podemos "
+"imaginar como significativo. Não requer que todo o software do computador "
+"seja livre. No entanto, a presença de <a href=\"/philosophy/free-software-"
+"even-more-important.html\">software não livre no computador</a> é um "
+"obstáculo para verificar se o computador é leal ou ter certeza de que ele "
+"assim permanecerá."
+
+#. type: Content of: <h3>
+msgid "History"
+msgstr "Histórico"
+
+#. type: Content of: <p>
+msgid "Here is the list of substantive changes in this page."
+msgstr "Aqui está a lista de alterações substanciais nesta página."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/loyal-"
+"computers.html?root=www&amp;r1=1.5&amp;r2=1.6\">Version 1.6</a>: Add "
+"installability requirement."
+msgstr ""
+"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/loyal-"
+"computers.html?root=www&amp;r1=1.5&amp;r2=1.6\">Versão 1.6</a>: Adiciona "
+"requisitos de instalabilidade."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/loyal-"
+"computers.html?root=www&amp;r1=1.3&amp;r2=1.4\">Version 1.4</a>: Full "
+"documentation is not a requirement for loyalty."
+msgstr ""
+"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/loyal-"
+"computers.html?root=www&amp;r1=1.3&amp;r2=1.4\">Versão 1.4</a>: Documentação "
+"completa não é um requisito para lealdade."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2015, 2019 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2015, 2019 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2019.Revisado por: Cassiano Reinert Novais dos "
+"Santos <a href=\"mailto:caco@posteo.net\">&lt;caco@posteo.net&gt;</a>, 2019."
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização:"

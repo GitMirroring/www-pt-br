@@ -1,0 +1,362 @@
+# Brazilian Portuguese translation of http://www.gnu.org/press/2001-10-22-Emacs.html
+# Copyright (C) 2019 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: 2001-10-22-Emacs.html\n"
+"POT-Creation-Date: 2014-04-05 00:03+0000\n"
+"PO-Revision-Date: 2019-12-27 09:55-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid "FSF Announces GNU Emacs 21 - GNU Project - Free Software Foundation"
+msgstr "A FSF anuncia o GNU Emacs 21 - Projeto GNU - Free Software Foundation"
+
+#. type: Attribute 'content' of: <meta>
+msgid ""
+"GNU, FSF, Free Software Foundation, Linux, press, GPL, general, public, "
+"license, freedom, software, free, emacs, GNU emacs, emacs 21"
+msgstr ""
+"GNU, FSF, Free Software Foundation, Linux, imprensa, GPL, licença, pública, "
+"geral, liberdade, software, livre, emacs, GNU emacs, emacs 21GNU, FSF, Free "
+"Software Foundation, Linux, Emacs, GCC, Unix, Software Livre, Sistema "
+"Operacional, GNU Kernel, HURD, GNU HURD, Hurd"
+
+#. type: Attribute 'content' of: <meta>
+msgid "Announcement of the version 21 of the GNU Emacs Editing Environment"
+msgstr "Anúncio da versão 21 do GNU Emacs"
+
+#. type: Content of: <h2>
+msgid "FSF Announces Version 21 of the GNU Emacs Editing Environment"
+msgstr "A FSF anuncia a versão 21 do GNU Emacs"
+
+#. type: Content of: <blockquote><p>
+msgid ""
+"<a href=\"/press/2001-10-22-Emacs.txt\">A plain text version of this press "
+"release is available</a>."
+msgstr ""
+"<a href=\"/press/2001-10-22-Emacs.txt\">Uma versão em texto simples deste "
+"comunicado de imprensa está disponível</a>."
+
+#. type: Content of: <blockquote><p>
+msgid "<strong>FOR IMMEDIATE RELEASE</strong>"
+msgstr "<strong>PARA DIVULGAÇÃO IMEDIATA</strong>"
+
+#. type: Content of: <blockquote><p>
+msgid "Media Contact: Free Software Foundation"
+msgstr "Contato com a mídia: Free Software Foundation"
+
+#. type: Content of: <blockquote><p>
+msgid "Bradley M. Kuhn <a href=\"mailto:pr@fsf.org\">&lt;pr@gnu.org&gt;</a>"
+msgstr "Bradley M. Kuhn <a href=\"mailto:pr@fsf.org\">&lt;pr@gnu.org&gt;</a>"
+
+#. type: Content of: <blockquote><p>
+msgid "Phone: +1-617-542-5942"
+msgstr "Telefone: +1-617-542-5942"
+
+#. type: Content of: <p>
+msgid ""
+"<strong>Boston, Massachusetts, USA</strong> - <em>Monday, October 22, 2001</"
+"em> - The Free Software Foundation announced today the 21.1 release of GNU "
+"Emacs.  Emacs is a Free Software multilingual text editor, licensed under "
+"the GNU General Public License (GNU GPL)."
+msgstr ""
+"<strong>Boston, Massachusetts, EUA</strong> - <em>segunda-feira, 22 de "
+"outubro de 2001</em> - A Free Software Foundation anunciou hoje a versão "
+"21.1 do GNU Emacs. O Emacs é um editor de texto multilíngue de Software "
+"Livre, licenciado sob a Licença Pública Geral GNU (GNU GPL)."
+
+#. type: Content of: <p>
+msgid ""
+"Richard Stallman said, &ldquo;Emacs 21 is a big step forward in our long-"
+"term plan to take Emacs from a programmable text editor to a programmable "
+"word processor.&rdquo;"
+msgstr ""
+"Richard Stallman disse: “O Emacs 21 é um grande avanço em nosso plano de "
+"longo prazo de levar o Emacs de um editor de texto programável para um "
+"processador de texto programável.”"
+
+#. type: Content of: <p>
+msgid ""
+"Emacs 21.1 includes support for proportional fonts: characters in a line can "
+"be of variable width and lines can have variable heights.  It also supports "
+"including images in text.  Emacs 21.1 adds a number of new user-interface "
+"features: it has tool bars for executing frequently used commands, it "
+"supports native scroll bars, it displays tool tips, and it has a mouse-"
+"sensitive mode line.  Even on text-only terminals, Emacs 21.1 supports "
+"colors and other display attributes."
+msgstr ""
+"O Emacs 21.1 inclui suporte a fontes proporcionais: os caracteres em uma "
+"linha podem ter largura variável e as linhas podem ter alturas variáveis. "
+"Ele também possui suporte à inclusão de imagens no texto. O Emacs 21.1 "
+"inclui vários novos recursos da interface do usuário: possui barras de "
+"ferramentas para executar comandos frequentemente usados, possui suporte a "
+"barras de rolagem nativas, exibe dicas de ferramentas e possui uma linha de "
+"modo sensível ao mouse. Mesmo em terminais somente texto, o Emacs 21.1 "
+"possui suporte a cores e outros atributos de exibição."
+
+#. type: Content of: <p>
+msgid ""
+"With the release of version 21.1, the Emacs development sources are "
+"accessible via anonymous CVS from <a href=\"http://savannah.gnu.org/projects/"
+"emacs/\">http://savannah.gnu.org/projects/emacs/</a>.  The anonymous CVS "
+"services are provided by Savannah, GNU's SourceForge-like system for project "
+"collaboration."
+msgstr ""
+"Com o lançamento da versão 21.1, o código-fonte de desenvolvimento do Emacs "
+"está acessível por meio de CVS anônimo de <a href=\"http://savannah.gnu.org/"
+"projects/emacs/\">http://savannah.gnu.org/projects/emacs/</a>. Os serviços "
+"de CVS anônimo são fornecidos pelo Savannah, o sistema do GNU para "
+"colaboração de projeto no estilo do SourceForge."
+
+#. type: Content of: <p>
+msgid ""
+"GNU Emacs 21.1 can be downloaded from the FTP directory at <a href=\"http://"
+"ftp.gnu.org/gnu/emacs/\">http://ftp.gnu.org/gnu/emacs/</a>.  However, users "
+"are encouraged to use mirror sites for downloads, to decrease the load on "
+"GNU and FSF servers.  A list of mirrors can be found at <a href=\"http://www."
+"gnu.org/order/ftp.html\">http://www.gnu.org/order/ftp.html</a>."
+msgstr ""
+"O GNU Emacs 21.1 pode ser baixado do diretório de FTP em <a href=\"http://"
+"ftp.gnu.org/gnu/emacs/\">http://ftp.gnu.org/gnu/emacs/</a>. Porém, usuários "
+"são encorajados a usar sites espelhos para downloads, para reduzir a carga "
+"nos servidores do GNU ou da FSF. Uma lista de espelhos pode ser encontrada "
+"em <a href=\"http://www.gnu.org/order/ftp.html\">http://www.gnu.org/order/"
+"ftp.html</a>."
+
+#. type: Content of: <p>
+msgid ""
+"GNU Emacs 21.1 has already been packaged for Debian.  Users of Debian GNU/"
+"Linux's unstable branch can install GNU Emacs 21 via the native Debian APT "
+"system."
+msgstr ""
+"O GNU Emacs 21.1 já foi empacotado para o Debian. Usuários do ramo instável "
+"do Debian GNU/Linux podem instalar o GNU Emacs 21 através do sistema Debian "
+"APT nativo."
+
+#. type: Content of: <h3>
+msgid "About GNU Emacs:"
+msgstr "Sobre o GNU Emacs:"
+
+#. type: Content of: <p>
+msgid ""
+"Emacs is the extensible, customizable, self-documenting real-time display "
+"editor."
+msgstr ""
+"O Emacs é o editor de exibição em tempo real extensível, personalizável e "
+"autodocumentável."
+
+#. type: Content of: <p>
+msgid ""
+"If this seems to be a bit of a mouthful, an easier explanation is Emacs is a "
+"text editor and more.  At its core is an interpreter for Emacs Lisp, a "
+"dialect of the Lisp programming language with extensions to support text "
+"editing."
+msgstr ""
+"Se isso parece um pouco exagerado, uma explicação mais fácil é que o Emacs é "
+"um editor de texto e muito mais. Em sua essência, existe um interpretador "
+"para o Emacs Lisp, um dialeto da linguagem de programação Lisp com extensões "
+"para suportar a edição de texto."
+
+#. type: Content of: <p>
+msgid "Some of the features of GNU Emacs include:"
+msgstr "Alguns dos recursos do GNU Emacs incluem:"
+
+#. type: Content of: <ul><li>
+msgid ""
+"Content-sensitive major modes for a wide variety of file types, from plain "
+"text to source code to HTML files."
+msgstr ""
+"Modos principais sensíveis ao conteúdo para uma ampla variedade de tipos de "
+"arquivo, de texto sem formatação ao código-fonte e arquivos HTML."
+
+#. type: Content of: <ul><li>
+msgid "Complete online documentation, including a tutorial for new users."
+msgstr ""
+"Documentação online completa, incluindo um tutorial para novos usuários."
+
+#. type: Content of: <ul><li>
+msgid "Highly extensible through the Emacs Lisp language."
+msgstr "Altamente extensível através da linguagem Emacs Lisp."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Support for many languages and their scripts, including all the European "
+"&ldquo;Latin&rdquo; scripts, Russian, Greek, Japanese, Chinese, Korean, "
+"Thai, Vietnamese, Lao, Ethiopian, and some Indian scripts."
+msgstr ""
+"Suporte para muitos idiomas e seus alfabetos, incluindo todos os alfabetos "
+"“latinos” europeus, russo, grego, japonês, chinês, coreano, tailandês, "
+"vietnamita, laosiano, etíope e alguns alfabetos indianos."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Many extensions for jobs such as reading and sending mail, reading net news, "
+"calendar, and diary.  More Emacs extensions are distributed separately&mdash;"
+"even a web browser."
+msgstr ""
+"Muitas extensões para trabalhos como ler e enviar e-mails, ler notícias da "
+"rede, calendário e diário. Mais extensões do Emacs são distribuídas "
+"separadamente &ndash; até um navegador da web."
+
+#. type: Content of: <h3>
+msgid "History of Emacs:"
+msgstr "História do Emacs:"
+
+#. type: Content of: <p>
+msgid ""
+"Richard Stallman developed the original Emacs text editor in 1975 while "
+"working at MIT.  Emacs, first developed in 1975, is an extensible text "
+"editor that allows the user to program editing commands.  The original Emacs "
+"used TECO as the user programming language.  GNU Emacs, which uses Lisp as "
+"the user programming language, was started in September 1984 as part of "
+"developing the GNU operating system."
+msgstr ""
+"Richard Stallman desenvolveu o editor de texto original do Emacs em 1975, "
+"enquanto trabalhava no MIT. O Emacs, desenvolvido pela primeira vez em 1975, "
+"é um editor de texto extensível que permite ao usuário programar comandos de "
+"edição. O Emacs original usava o TECO como a linguagem de programação do "
+"usuário. O GNU Emacs, que usa Lisp como a linguagem de programação do "
+"usuário, foi iniciado em setembro de 1984 como parte do desenvolvimento do "
+"sistema operacional GNU."
+
+#. type: Content of: <p>
+msgid ""
+"Emacs has undergone continuous development since that time, and has been "
+"improved based on user bug reports and contributions from the Free Software "
+"community.  Emacs 19 added support for multiple frames using the X Windowing "
+"System.  Emacs 20 added multi-lingual support."
+msgstr ""
+"O Emacs passou por um desenvolvimento contínuo desde então e foi aprimorado "
+"com base nos relatórios de erros do usuário e nas contribuições da "
+"comunidade de Software Livre. O Emacs 19 adicionou suporte para vários "
+"quadros usando o X Windowing System. O Emacs 20 adicionou suporte "
+"multilíngue."
+
+#. type: Content of: <h3>
+msgid "About GNU:"
+msgstr "Sobre o GNU:"
+
+#. type: Content of: <p>
+msgid ""
+"GNU is a Free Software Unix-like operating system.  Development of GNU began "
+"in 1984.  <a href=\"http://www.gnu.org/gnu/the-gnu-project.html\">http://www."
+"gnu.org/gnu/the-gnu-project.html</a> gives more information about GNU and "
+"its history."
+msgstr ""
+"GNU é um sistema operacional semelhante ao Unix, mas Software Livre. O "
+"desenvolvimento do GNU foi iniciado em 1984 <a href=\"http://www.gnu.org/gnu/"
+"the-gnu-project.html\">http://www.gnu.org/gnu/the-gnu-project.html</a> "
+"fornece mais informações sobre o GNU e sua história."
+
+#. type: Content of: <p>
+msgid ""
+"GNU/Linux is the integrated combination of the GNU operating system with the "
+"kernel, Linux, written by Linus Torvalds in 1991.  The various versions of "
+"GNU/Linux have an estimated 20 million users."
+msgstr ""
+"GNU/Linux é a combinação integrada do sistema operacional GNU com o kernel, "
+"Linux, escrito por Linus Torvalds em 1991. As várias versões do GNU/Linux "
+"têm cerca de 20 milhões de usuários."
+
+#. type: Content of: <p>
+msgid ""
+"Some people call the GNU/Linux system &ldquo;Linux&rdquo;, but this misnomer "
+"leads to confusion (people cannot tell whether you mean the whole system or "
+"the kernel, one part), and spreads an inaccurate picture of how, when and "
+"where the system was developed.  Making a consistent distinction between GNU/"
+"Linux, the whole operating system, and Linux, the kernel, is the best way to "
+"clear up the confusion.  See <a href=\"http://www.gnu.org/gnu/linux-and-gnu."
+"html\">http://www.gnu.org/gnu/linux-and-gnu.html</a> for more explanation."
+msgstr ""
+"Algumas pessoas chamam o sistema GNU/Linux apenas de “Linux”, mas este nome "
+"incorreto leva à confusão (as pessoas não sabem se você se refere ao sistema "
+"completo ou ao kernel, uma parte) e propaga uma visão imprecisa de como, "
+"quando e porque o sistema foi desenvolvido. Fazer uma distinção consistente "
+"entre o GNU/Linux, o sistema operacional completo, e o Linux, o kernel, é a "
+"melhor maneira de clarear a confusão. Veja <a href=\"http://www.gnu.org/gnu/"
+"linux-and-gnu.html\"> http://www.gnu.org/gnu/linux-and-gnu.html</a> para "
+"mais explicações."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2001, 2013, 2014 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2001, 2013, 2014 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+"NoDerivs 3.0 United States License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por:\n"
+"Cláudio Machado <a href=\"mailto:claudio.machado@bol.com.br\">&lt;claudio."
+"machado@bol.com.br&gt;</a> e\n"
+"Fernando Lozano <a href=\"mailto:fernando@lozano.eti.br\">&lt;"
+"fernando@lozano.eti.br&gt;</a>, ?; \n"
+"Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome."
+"org&gt;</a>, 2019."
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização:"

@@ -1,0 +1,2355 @@
+# Brazilian Portuguese translation of https://www.gnu.org/prep/ftp.html
+# Copyright (C) 2019 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: ftp.html\n"
+"POT-Creation-Date: 2019-12-16 07:55+0000\n"
+"PO-Revision-Date: 2019-12-27 23:00-0200\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid "GNU Mirror List - GNU Project - Free Software Foundation"
+msgstr "Lista de espelhos do GNU - Projeto GNU - Free Software Foundation"
+
+#. type: Content of: <h2>
+msgid "GNU Mirror List"
+msgstr "Lista de espelhos do GNU"
+
+#. type: Content of: <h3>
+msgid "Mirror Setup"
+msgstr "Configuração de espelhos"
+
+#. type: Content of: <p>
+msgid ""
+"If there's no GNU mirror near you, you're welcome to contribute one: it's "
+"easy to <a href=\"/server/mirror.html\">mirror the GNU</a>! You can also <a "
+"href=\"http://download.savannah.gnu.org/mirmon/allgnu/\">watch the current "
+"state</a> of mirrors."
+msgstr ""
+"Se não houver um espelho do GNU próximo a você, lhe convidamos para "
+"contribuir com um: é fácil <a href=\"/server/mirror.html\">espelhar o GNU</"
+"a>! Você também pode <a href=\"http://download.savannah.gnu.org/mirmon/"
+"allgnu/\">monitorar o estado atual</a> de espelhos."
+
+#. type: Content of: outside any tag (error?)
+msgid "<a id=\"no_warranty\"></a>"
+msgstr "<a id=\"no_warranty\"></a>"
+
+#. type: Content of: <h3>
+msgid "No warranty"
+msgstr "Sem garantias"
+
+#. type: Content of: <p>
+msgid ""
+"We distribute software in the hope that it will be useful, but without any "
+"warranty.  No author or distributor of this software accepts responsibility "
+"to anyone for the consequences of using it or for whether it serves any "
+"particular purpose or works at all, unless they say so in writing. This is "
+"exactly the same warranty that proprietary software companies offer: none."
+msgstr ""
+"Distribuímos software na esperança de que seja útil, mas sem qualquer "
+"garantia. Nenhum autor ou distribuidor deste software aceita "
+"responsabilidade por qualquer pessoa pelas consequências de seu uso ou por "
+"servir a algum propósito específico ou funcionar, a menos que seja "
+"solicitado por escrito. Essa é exatamente a mesma garantia que as empresas "
+"de software proprietárias oferecem: nenhuma."
+
+#. type: Content of: outside any tag (error?)
+msgid "<a id=\"general_download_information\"></a>"
+msgstr "<a id=\"general_download_information\"></a>"
+
+#. type: Content of: <h3>
+msgid "General download information"
+msgstr "Informações geral sobre download"
+
+#. type: Content of: <p>
+msgid ""
+"Use your web browser or another program on your system (ask locally if need "
+"be) to connect to the host you are downloading from."
+msgstr ""
+"Use seu navegador da web ou outro programa em seu sistema (pergunte "
+"localmente, se necessário) para conectar-se ao host do qual você está "
+"baixando."
+
+#. type: Content of: <p>
+msgid ""
+"For FTP, ALWAYS USE BINARY/IMAGE MODE TO TRANSFER THESE FILES! Text mode "
+"does not work for tar files or compressed files.  If asked, login in as user "
+"anonymous, with any password, and set binary mode."
+msgstr ""
+"Para FTP, SEMPRE USE O MODO BINÁRIO / IMAGEM PARA TRANSFERIR ESTES ARQUIVOS! "
+"O modo de texto não funciona para arquivos tar ou arquivos compactados. Se "
+"solicitado, efetue login como usuário anônimo, com qualquer senha, e defina "
+"o modo binário."
+
+#. type: Content of: outside any tag (error?)
+msgid "<a id=\"downloading_gnu_software\"></a>"
+msgstr "<a id=\"downloading_gnu_software\"></a>"
+
+#. type: Content of: <h3>
+msgid "Downloading GNU software"
+msgstr "Baixando software do GNU"
+
+#. type: Content of: <p>
+msgid ""
+"GNU software is available on <a href=\"ftp://ftp.gnu.org\">ftp.gnu.org</a> "
+"under the directory /gnu.  Please try to use one of the many mirrors of our "
+"site listed below: the mirrors will give you faster response.  Some mirrors "
+"also provide a copy of the rest of <a href=\"ftp://ftp.gnu.org\">ftp.gnu."
+"org</a>; try the parent directory if you're interested.  You can use the "
+"generic url <a href=\"http://ftpmirror.gnu.org\">http://ftpmirror.gnu.org</"
+"a> to automatically choose a nearby and up-to-date mirror."
+msgstr ""
+"O software GNU está disponível em <a href=\"ftp://ftp.gnu.org\">ftp.gnu.org</"
+"a> no diretório /gnu. Por favor, tente usar um dos muitos espelhos do nosso "
+"site listados abaixo: os espelhos fornecerão uma resposta mais rápida. "
+"Alguns espelhos também fornecem uma cópia do restante do <a href=\"ftp://ftp."
+"gnu.org\">ftp.gnu.org</a>; tente o diretório pai, se você estiver "
+"interessado. Você pode usar o URL genérico <a href=\"http://ftpmirror.gnu.org"
+"\">http://ftpmirror.gnu.org</a> para escolher automaticamente um espelho "
+"próximo e atualizado."
+
+#. type: Content of: <p>
+msgid ""
+"Various compression formats are used on the server: .gz is gzip (<a href="
+"\"http://gnu.org/software/gzip\">http://gnu.org/software/gzip</a>); .bz2 is "
+"bzip2 (<a href=\"http://bzip.org\">http://bzip.org</a>); .xz is xz (<a href="
+"\"http://tukaani.org/xz\">http://tukaani.org/xz</a>); .lz is lzip (<a href="
+"\"http://lzip.nongnu.org/lzip.html\">http://lzip.nongnu.org/lzip.html</a>)."
+msgstr ""
+"Vários formatos de compressão são usados no servidor: .gz é gzip (<a href="
+"\"http://gnu.org/software/gzip\">http://gnu.org/software/gzip</a>); .bz2 é "
+"bzip2 (<a href=\"http://bzip.org\">http://bzip.org</a>); .xz é xz (<a href="
+"\"http://tukaani.org/xz\">http://tukaani.org/xz</a>); .lz é lzip (<a href="
+"\"http://lzip.nongnu.org/lzip.html\">http://lzip.nongnu.org/lzip.html</a>)."
+
+#. type: Content of: <p>
+msgid ""
+"Each file available for download has an accompanying .sig file; this is a "
+"digital signature created with GnuPG.  You can verify a signature with the "
+"procedure outlined at <a href=\"https://www.gnupg.org/faq/gnupg-faq."
+"html#how_do_i_verify_signed_packages\">https://www.gnupg.org/faq/gnupg-faq."
+"html#how_do_i_verify_signed_packages</a>."
+msgstr ""
+"Cada arquivo disponível para download possui um arquivo .sig; Esta é uma "
+"assinatura digital criada com o GnuPG. Você pode verificar uma assinatura "
+"com o procedimento descrito em <a href=\"https://www.gnupg.org/faq/gnupg-faq."
+"html#how_do_i_verify_signed_packages\">https://www.gnupg.org/faq/gnupg-faq."
+"html#how_do_i_verify_signed_packages</a>."
+
+#. type: Content of: <p>
+msgid ""
+"TeX is a document formatter that is used by the FSF for its documentation.  "
+"You will need it if you want to make printed manuals."
+msgstr ""
+"O TeX é um formatador de documentos usado pela FSF para sua documentação. "
+"Você precisará se quiser fazer manuais impressos."
+
+#. type: Content of: <p>
+msgid ""
+"TeX is freely redistributable.  You can get it over the Internet or on "
+"physical media.  See <a href=\"http://tug.org/texlive\">http://tug.org/"
+"texlive</a>."
+msgstr ""
+"O TeX é livremente redistribuível. Você pode obtê-lo pela Internet ou em "
+"mídia física. Veja <a href=\"http://tug.org/texlive\">http://tug.org/"
+"texlive</a>."
+
+#. type: Content of: <p>
+msgid ""
+"Summary descriptions of all GNU software are available in the Free Software "
+"Directory: <a href=\"http://www.gnu.org/directory\">http://www.gnu.org/"
+"directory</a>."
+msgstr ""
+"As descrições resumidas de todos os softwares GNU estão disponíveis no "
+"Diretório de Software Livre: <a href=\"http://www.gnu.org/directory\">http://"
+"www.gnu.org/directory</a>."
+
+#. type: Content of: outside any tag (error?)
+msgid "<a id=\"gnu_mirror_list\"></a>"
+msgstr "<a id=\"gnu_mirror_list\"></a>"
+
+#. type: Content of: <h3>
+msgid "GNU mirror list"
+msgstr "Lista de espelhos do GNU"
+
+#. type: Content of: <h4>
+msgid "North America"
+msgstr "América do Norte"
+
+#. type: Content of: <ul><li>
+msgid "Canada"
+msgstr "Canadá"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"ftp://gnu.mirror.iweb.com\">ftp://gnu.mirror.iweb."
+"com</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"ftp://gnu.mirror.iweb.com\">ftp://gnu.mirror.iweb."
+"com</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://gnu.mirror.iweb.com\">http://gnu.mirror."
+"iweb.com</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://gnu.mirror.iweb.com\">http://gnu.mirror."
+"iweb.com</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://gnu.mirror.iweb.com/gnu"
+msgstr "rsync://gnu.mirror.iweb.com/gnu"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://mirror.sergal.org/gnu/\">http://mirror."
+"sergal.org/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://mirror.sergal.org/gnu/\">http://mirror."
+"sergal.org/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://mirror.sergal.org/gnu/\">https://mirror."
+"sergal.org/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://mirror.sergal.org/gnu/\">https://mirror."
+"sergal.org/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"ftp://mirror.sergal.org/gnu/\">ftp://mirror."
+"sergal.org/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"ftp://mirror.sergal.org/gnu/\">ftp://mirror."
+"sergal.org/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://mirror.sergal.org/gnu"
+msgstr "rsync://mirror.sergal.org/gnu"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://mirror.csclub.uwaterloo.ca/gnu/\">http://"
+"mirror.csclub.uwaterloo.ca/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://mirror.csclub.uwaterloo.ca/gnu/\">http://"
+"mirror.csclub.uwaterloo.ca/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://mirror.csclub.uwaterloo.ca/gnu/\">https://"
+"mirror.csclub.uwaterloo.ca/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://mirror.csclub.uwaterloo.ca/gnu/\">https://"
+"mirror.csclub.uwaterloo.ca/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"ftp://mirror.csclub.uwaterloo.ca/gnu/\">ftp://"
+"mirror.csclub.uwaterloo.ca/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"ftp://mirror.csclub.uwaterloo.ca/gnu/\">ftp://"
+"mirror.csclub.uwaterloo.ca/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://mirror.csclub.uwaterloo.ca/gnu/"
+msgstr "rsync://mirror.csclub.uwaterloo.ca/gnu/"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://mirror.its.dal.ca/gnu\">https://mirror."
+"its.dal.ca/gnu</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://mirror.its.dal.ca/gnu\">https://mirror."
+"its.dal.ca/gnu</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://mirror.its.dal.ca/gnu\">http://mirror.its."
+"dal.ca/gnu</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://mirror.its.dal.ca/gnu\">http://mirror.its."
+"dal.ca/gnu</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://mirror.its.dal.ca/gnu"
+msgstr "rsync://mirror.its.dal.ca/gnu"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://gnu.freemirror.org/gnu/\">https://gnu."
+"freemirror.org/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://gnu.freemirror.org/gnu/\">https://gnu."
+"freemirror.org/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://gnu.freemirror.org/gnu/\">http://gnu."
+"freemirror.org/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://gnu.freemirror.org/gnu/\">http://gnu."
+"freemirror.org/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://gnu.freemirror.org/gnu"
+msgstr "rsync://gnu.freemirror.org/gnu"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"(alpha)  <a rel=\"nofollow\" href=\"https://gnualpha.freemirror.org/alpha."
+"gnu.org/\">https://gnualpha.freemirror.org/alpha.gnu.org/</a>"
+msgstr ""
+"(alpha)  <a rel=\"nofollow\" href=\"https://gnualpha.freemirror.org/alpha."
+"gnu.org/\">https://gnualpha.freemirror.org/alpha.gnu.org/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"(alpha)  <a rel=\"nofollow\" href=\"http://gnualpha.freemirror.org/alpha.gnu."
+"org/\">http://gnualpha.freemirror.org/alpha.gnu.org/</a>"
+msgstr ""
+"(alpha)  <a rel=\"nofollow\" href=\"http://gnualpha.freemirror.org/alpha.gnu."
+"org/\">http://gnualpha.freemirror.org/alpha.gnu.org/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://gnualpha.freemirror.org/gnualpha"
+msgstr "rsync://gnualpha.freemirror.org/gnualpha"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://mirror2.evolution-host.com/gnu\">https://"
+"mirror2.evolution-host.com/gnu</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://mirror2.evolution-host.com/gnu\">https://"
+"mirror2.evolution-host.com/gnu</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://mirror2.evolution-host.com/gnu\">http://"
+"mirror2.evolution-host.com/gnu</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://mirror2.evolution-host.com/gnu\">http://"
+"mirror2.evolution-host.com/gnu</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://mirror2.evolution-host.com/gnu"
+msgstr "rsync://mirror2.evolution-host.com/gnu"
+
+#. type: Content of: <ul><li>
+msgid "US-California"
+msgstr "Califórnia, EUA"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://gnu.mirrors.hoobly.com\">http://gnu."
+"mirrors.hoobly.com</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://gnu.mirrors.hoobly.com\">http://gnu."
+"mirrors.hoobly.com</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://mirrors.kernel.org/gnu/\">https://mirrors."
+"kernel.org/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://mirrors.kernel.org/gnu/\">https://mirrors."
+"kernel.org/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://mirrors.kernel.org/gnu/\">http://mirrors."
+"kernel.org/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://mirrors.kernel.org/gnu/\">http://mirrors."
+"kernel.org/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://mirror.keystealth.org/gnu/\">http://mirror."
+"keystealth.org/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://mirror.keystealth.org/gnu/\">http://mirror."
+"keystealth.org/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"ftp://mirror.keystealth.org/gnu/\">ftp://mirror."
+"keystealth.org/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"ftp://mirror.keystealth.org/gnu/\">ftp://mirror."
+"keystealth.org/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://mirror.keystealth.org/gnu/"
+msgstr "rsync://mirror.keystealth.org/gnu/"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://mirrors.ocf.berkeley.edu/gnu/\">http://"
+"mirrors.ocf.berkeley.edu/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://mirrors.ocf.berkeley.edu/gnu/\">http://"
+"mirrors.ocf.berkeley.edu/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://mirrors.ocf.berkeley.edu/gnu/\">https://"
+"mirrors.ocf.berkeley.edu/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://mirrors.ocf.berkeley.edu/gnu/\">https://"
+"mirrors.ocf.berkeley.edu/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://mirrors.ocf.berkeley.edu/gnu/"
+msgstr "rsync://mirrors.ocf.berkeley.edu/gnu/"
+
+#. type: Content of: <ul><li>
+msgid "US-Idaho"
+msgstr "Idaho, EUA"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://mirrors.syringanetworks.net/gnu/"
+"\">https://mirrors.syringanetworks.net/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://mirrors.syringanetworks.net/gnu/"
+"\">https://mirrors.syringanetworks.net/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://mirrors.syringanetworks.net/gnu/\">http://"
+"mirrors.syringanetworks.net/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://mirrors.syringanetworks.net/gnu/\">http://"
+"mirrors.syringanetworks.net/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"ftp://mirrors.syringanetworks.net/gnu/\">ftp://"
+"mirrors.syringanetworks.net/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"ftp://mirrors.syringanetworks.net/gnu/\">ftp://"
+"mirrors.syringanetworks.net/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://mirrors.syringanetworks.net/gnu/"
+msgstr "rsync://mirrors.syringanetworks.net/gnu/"
+
+#. type: Content of: <ul><li>
+msgid "US-Illinois"
+msgstr "Ilinóis, EUA"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://mirror.team-cymru.com/gnu/\">http://mirror."
+"team-cymru.com/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://mirror.team-cymru.com/gnu/\">http://mirror."
+"team-cymru.com/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://mirror.team-cymru.com/gnu/"
+msgstr "rsync://mirror.team-cymru.com/gnu/"
+
+#. type: Content of: <ul><li>
+msgid "US-Indiana"
+msgstr "Indiana, EUA"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://gnu.askapache.com/\">http://gnu.askapache."
+"com/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://gnu.askapache.com/\">http://gnu.askapache."
+"com/</a>"
+
+#. type: Content of: <ul><li>
+msgid "US-Massachusetts"
+msgstr "Massachusetts, EUA"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://mirrors.tripadvisor.com/gnu/\">https://"
+"mirrors.tripadvisor.com/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://mirrors.tripadvisor.com/gnu/\">https://"
+"mirrors.tripadvisor.com/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://mirrors.tripadvisor.com/gnu/"
+msgstr "rsync://mirrors.tripadvisor.com/gnu/"
+
+#. type: Content of: <ul><li>
+msgid "US-Michigan"
+msgstr "Michigan, EUA"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://ftp.wayne.edu/gnu/\">https://ftp.wayne."
+"edu/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://ftp.wayne.edu/gnu/\">https://ftp.wayne."
+"edu/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://ftp.wayne.edu/gnu/\">http://ftp.wayne.edu/"
+"gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://ftp.wayne.edu/gnu/\">http://ftp.wayne.edu/"
+"gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://mirror.us-midwest-1.nexcess.net/gnu/"
+"\">https://mirror.us-midwest-1.nexcess.net/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://mirror.us-midwest-1.nexcess.net/gnu/"
+"\">https://mirror.us-midwest-1.nexcess.net/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://mirror.us-midwest-1.nexcess.net/gnu/"
+"\">http://mirror.us-midwest-1.nexcess.net/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://mirror.us-midwest-1.nexcess.net/gnu/"
+"\">http://mirror.us-midwest-1.nexcess.net/gnu/</a>"
+
+#. type: Content of: <ul><li>
+msgid "US-New Jersey"
+msgstr "New Jersey, EUA"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://gnu.mirror.constant.com/\">http://gnu."
+"mirror.constant.com/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://gnu.mirror.constant.com/\">http://gnu."
+"mirror.constant.com/</a>"
+
+#. type: Content of: <ul><li>
+msgid "US-New York"
+msgstr "Nova York, EUA"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://mirror.rit.edu/gnu/\">http://mirror.rit."
+"edu/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://mirror.rit.edu/gnu/\">http://mirror.rit."
+"edu/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://gnu.spinellicreations.com/\">http://gnu."
+"spinellicreations.com/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://gnu.spinellicreations.com/\">http://gnu."
+"spinellicreations.com/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"(alpha)  <a rel=\"nofollow\" href=\"http://gnualpha.spinellicreations.com/"
+"\">http://gnualpha.spinellicreations.com/</a>"
+msgstr ""
+"(alpha)  <a rel=\"nofollow\" href=\"http://gnualpha.spinellicreations.com/"
+"\">http://gnualpha.spinellicreations.com/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://mirror.clarkson.edu/gnu/\">https://mirror."
+"clarkson.edu/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://mirror.clarkson.edu/gnu/\">https://mirror."
+"clarkson.edu/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://mirror.clarkson.edu/gnu/\">http://mirror."
+"clarkson.edu/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://mirror.clarkson.edu/gnu/\">http://mirror."
+"clarkson.edu/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://mirror.clarkson.edu/gnu/"
+msgstr "rsync://mirror.clarkson.edu/gnu/"
+
+#. type: Content of: <ul><li>
+msgid "US-North Carolina"
+msgstr "Carolina do Norte, EUA"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://mirrors.ibiblio.org/pub/mirrors/gnu/ftp/"
+"gnu/\">http://mirrors.ibiblio.org/pub/mirrors/gnu/ftp/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://mirrors.ibiblio.org/pub/mirrors/gnu/ftp/"
+"gnu/\">http://mirrors.ibiblio.org/pub/mirrors/gnu/ftp/gnu/</a>"
+
+#. type: Content of: <ul><li>
+msgid "US-Pennsylvania"
+msgstr "Pensilvânia, EUA"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://gnu.mirrors.pair.com/\">http://gnu.mirrors."
+"pair.com/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://gnu.mirrors.pair.com/\">http://gnu.mirrors."
+"pair.com/</a>"
+
+#. type: Content of: <h4>
+msgid "South America"
+msgstr "América do Sul"
+
+#. type: Content of: <ul><li>
+msgid "Brazil"
+msgstr "Brasil"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://mirror.nbtelecom.com.br/gnu/\">https://"
+"mirror.nbtelecom.com.br/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://mirror.nbtelecom.com.br/gnu/\">https://"
+"mirror.nbtelecom.com.br/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://mirror.nbtelecom.com.br/gnu/"
+msgstr "rsync://mirror.nbtelecom.com.br/gnu/"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://gnu.c3sl.ufpr.br/ftp/\">http://gnu.c3sl."
+"ufpr.br/ftp/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://gnu.c3sl.ufpr.br/ftp/\">http://gnu.c3sl."
+"ufpr.br/ftp/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://gnu.c3sl.ufpr.br/gnu/ftp/"
+msgstr "rsync://gnu.c3sl.ufpr.br/gnu/ftp/"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"(alpha)  <a rel=\"nofollow\" href=\"http://gnu.c3sl.ufpr.br/alpha/\">http://"
+"gnu.c3sl.ufpr.br/alpha/</a>"
+msgstr ""
+"(alpha)  <a rel=\"nofollow\" href=\"http://gnu.c3sl.ufpr.br/alpha/\">http://"
+"gnu.c3sl.ufpr.br/alpha/</a>"
+
+#. type: Content of: <ul><li>
+msgid "Ecuador"
+msgstr "Equador"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://mirror.cedia.org.ec/gnu/\">https://mirror."
+"cedia.org.ec/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://mirror.cedia.org.ec/gnu/\">https://mirror."
+"cedia.org.ec/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://mirror.cedia.org.ec/gnu/\">http://mirror."
+"cedia.org.ec/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://mirror.cedia.org.ec/gnu/\">http://mirror."
+"cedia.org.ec/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://mirror.cedia.org.ec/gnu"
+msgstr "rsync://mirror.cedia.org.ec/gnu"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"(alpha)  <a rel=\"nofollow\" href=\"https://mirror.cedia.org.ec/gnualpha/"
+"\">https://mirror.cedia.org.ec/gnualpha/</a>"
+msgstr ""
+"(alpha)  <a rel=\"nofollow\" href=\"https://mirror.cedia.org.ec/gnualpha/"
+"\">https://mirror.cedia.org.ec/gnualpha/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"(alpha)  <a rel=\"nofollow\" href=\"http://mirror.cedia.org.ec/gnualpha/"
+"\">http://mirror.cedia.org.ec/gnualpha/</a>"
+msgstr ""
+"(alpha)  <a rel=\"nofollow\" href=\"http://mirror.cedia.org.ec/gnualpha/"
+"\">http://mirror.cedia.org.ec/gnualpha/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://mirror.cedia.org.ec/gnualpha"
+msgstr "rsync://mirror.cedia.org.ec/gnualpha"
+
+#. type: Content of: <ul><li>
+msgid "Uruguay"
+msgstr "Uruguai"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://espejito.fder.edu.uy/gnu/\">https://"
+"espejito.fder.edu.uy/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://espejito.fder.edu.uy/gnu/\">https://"
+"espejito.fder.edu.uy/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://espejito.fder.edu.uy/gnu/\">http://"
+"espejito.fder.edu.uy/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://espejito.fder.edu.uy/gnu/\">http://"
+"espejito.fder.edu.uy/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://espejito.fder.edu.uy/gnu"
+msgstr "rsync://espejito.fder.edu.uy/gnu"
+
+#. type: Content of: <h4>
+msgid "Africa"
+msgstr "África"
+
+#. type: Content of: <ul><li>
+msgid "Botswana"
+msgstr "Botsuana"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://mirror.retentionrange.co.bw/gnu/\">http://"
+"mirror.retentionrange.co.bw/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://mirror.retentionrange.co.bw/gnu/\">http://"
+"mirror.retentionrange.co.bw/gnu/</a>"
+
+#. type: Content of: <ul><li>
+msgid "Namibia"
+msgstr "Namíbia"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://download.nust.na/pub/ftp.gnu.org/gnu/"
+"\">http://download.nust.na/pub/ftp.gnu.org/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://download.nust.na/pub/ftp.gnu.org/gnu/"
+"\">http://download.nust.na/pub/ftp.gnu.org/gnu/</a>"
+
+#. type: Content of: <ul><li>
+msgid "Morocco"
+msgstr "Marrocos"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://mirror.marwan.ma/gnu/\">http://mirror."
+"marwan.ma/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://mirror.marwan.ma/gnu/\">http://mirror."
+"marwan.ma/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://mirror.marwan.ma/gnu/\">https://mirror."
+"marwan.ma/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://mirror.marwan.ma/gnu/\">https://mirror."
+"marwan.ma/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://mirror.marwan.ma/gnu/"
+msgstr "rsync://mirror.marwan.ma/gnu/"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"(alpha)  <a rel=\"nofollow\" href=\"http://mirror.marwan.ma/gnualpha/"
+"\">http://mirror.marwan.ma/gnualpha/</a>"
+msgstr ""
+"(alpha)  <a rel=\"nofollow\" href=\"http://mirror.marwan.ma/gnualpha/"
+"\">http://mirror.marwan.ma/gnualpha/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"(alpha)  <a rel=\"nofollow\" href=\"https://mirror.marwan.ma/gnualpha/"
+"\">https://mirror.marwan.ma/gnualpha/</a>"
+msgstr ""
+"(alpha)  <a rel=\"nofollow\" href=\"https://mirror.marwan.ma/gnualpha/"
+"\">https://mirror.marwan.ma/gnualpha/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://mirror.marwan.ma/gnualpha/"
+msgstr "rsync://mirror.marwan.ma/gnualpha/"
+
+#. type: Content of: <ul><li>
+msgid "South Africa"
+msgstr "África do Sul"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://mirror.ufs.ac.za/gnu/\">http://mirror.ufs."
+"ac.za/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://mirror.ufs.ac.za/gnu/\">http://mirror.ufs."
+"ac.za/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://mirror.ufs.ac.za/gnu/"
+msgstr "rsync://mirror.ufs.ac.za/gnu/"
+
+#. type: Content of: <h4>
+msgid "Asia"
+msgstr "Ásia"
+
+#. type: Content of: <ul><li>
+msgid "China"
+msgstr "China"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://mirrors.ustc.edu.cn/gnu/\">https://"
+"mirrors.ustc.edu.cn/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://mirrors.ustc.edu.cn/gnu/\">https://"
+"mirrors.ustc.edu.cn/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://mirrors.ustc.edu.cn/gnu/\">http://mirrors."
+"ustc.edu.cn/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://mirrors.ustc.edu.cn/gnu/\">http://mirrors."
+"ustc.edu.cn/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"ftp://mirrors.ustc.edu.cn/gnu/\">ftp://mirrors."
+"ustc.edu.cn/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"ftp://mirrors.ustc.edu.cn/gnu/\">ftp://mirrors."
+"ustc.edu.cn/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://mirrors.ustc.edu.cn/gnu/"
+msgstr "rsync://mirrors.ustc.edu.cn/gnu/"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://mirrors.tuna.tsinghua.edu.cn/gnu/"
+"\">https://mirrors.tuna.tsinghua.edu.cn/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://mirrors.tuna.tsinghua.edu.cn/gnu/"
+"\">https://mirrors.tuna.tsinghua.edu.cn/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://mirrors.tuna.tsinghua.edu.cn/gnu/"
+msgstr "rsync://mirrors.tuna.tsinghua.edu.cn/gnu/"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://mirrors.sjtug.sjtu.edu.cn/gnu/\">https://"
+"mirrors.sjtug.sjtu.edu.cn/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://mirrors.sjtug.sjtu.edu.cn/gnu/\">https://"
+"mirrors.sjtug.sjtu.edu.cn/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://mirrors.nju.edu.cn/gnu/\">https://mirrors."
+"nju.edu.cn/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://mirrors.nju.edu.cn/gnu/\">https://mirrors."
+"nju.edu.cn/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://mirrors.nju.edu.cn/gnu/\">http://mirrors."
+"nju.edu.cn/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://mirrors.nju.edu.cn/gnu/\">http://mirrors."
+"nju.edu.cn/gnu/</a>"
+
+#. type: Content of: <ul><li>
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://mirror-hk.koddos.net/gnu/\">https://"
+"mirror-hk.koddos.net/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://mirror-hk.koddos.net/gnu/\">https://"
+"mirror-hk.koddos.net/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://mirror-hk.koddos.net/gnu/\">http://mirror-"
+"hk.koddos.net/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://mirror-hk.koddos.net/gnu/\">http://mirror-"
+"hk.koddos.net/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://mirror-hk.koddos.net/gnu"
+msgstr "rsync://mirror-hk.koddos.net/gnu"
+
+#. type: Content of: <ul><li>
+msgid "Japan"
+msgstr "Japão"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://ftp.jaist.ac.jp/pub/GNU/\">https://ftp."
+"jaist.ac.jp/pub/GNU/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://ftp.jaist.ac.jp/pub/GNU/\">https://ftp."
+"jaist.ac.jp/pub/GNU/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://ftp.jaist.ac.jp/pub/GNU/\">http://ftp."
+"jaist.ac.jp/pub/GNU/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://ftp.jaist.ac.jp/pub/GNU/\">http://ftp."
+"jaist.ac.jp/pub/GNU/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://ftp.jaist.ac.jp/pub/GNU/"
+msgstr "rsync://ftp.jaist.ac.jp/pub/GNU/"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://mirror.jre655.com/GNU\">https://mirror."
+"jre655.com/GNU</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://mirror.jre655.com/GNU\">https://mirror."
+"jre655.com/GNU</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"ftp://mirror.jre655.com/GNU\">ftp://mirror.jre655."
+"com/GNU</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"ftp://mirror.jre655.com/GNU\">ftp://mirror.jre655."
+"com/GNU</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://mirror.jre655.com/GNU"
+msgstr "rsync://mirror.jre655.com/GNU"
+
+#. type: Content of: <ul><li>
+msgid "Oman"
+msgstr "Omã"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://mirror.squ.edu.om/gnu/\">http://mirror.squ."
+"edu.om/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://mirror.squ.edu.om/gnu/\">http://mirror.squ."
+"edu.om/gnu/</a>"
+
+#. type: Content of: <ul><li>
+msgid "Taiwan"
+msgstr "Taiwan"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://mirror.ossplanet.net/gnu/\">https://"
+"mirror.ossplanet.net/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://mirror.ossplanet.net/gnu/\">https://"
+"mirror.ossplanet.net/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://mirror.ossplanet.net/gnu/\">http://mirror."
+"ossplanet.net/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://mirror.ossplanet.net/gnu/\">http://mirror."
+"ossplanet.net/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://mirror.ossplanet.net/gnu"
+msgstr "rsync://mirror.ossplanet.net/gnu"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://ftp.twaren.net/Unix/GNU/gnu/\">http://ftp."
+"twaren.net/Unix/GNU/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://ftp.twaren.net/Unix/GNU/gnu/\">http://ftp."
+"twaren.net/Unix/GNU/gnu/</a>"
+
+#. type: Content of: <ul><li>
+msgid "Vietnam"
+msgstr "Vietnã"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://mirror.freedif.org/GNU/\">https://mirror."
+"freedif.org/GNU/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://mirror.freedif.org/GNU/\">https://mirror."
+"freedif.org/GNU/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://mirror.freedif.org/GNU/\">http://mirror."
+"freedif.org/GNU/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://mirror.freedif.org/GNU/\">http://mirror."
+"freedif.org/GNU/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"(alpha)  <a rel=\"nofollow\" href=\"https://mirror.freedif.org/GNU-alpha/"
+"\">https://mirror.freedif.org/GNU-alpha/</a>"
+msgstr ""
+"(alpha)  <a rel=\"nofollow\" href=\"https://mirror.freedif.org/GNU-alpha/"
+"\">https://mirror.freedif.org/GNU-alpha/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"(alpha)  <a rel=\"nofollow\" href=\"http://mirror.freedif.org/GNU-alpha/"
+"\">http://mirror.freedif.org/GNU-alpha/</a>"
+msgstr ""
+"(alpha)  <a rel=\"nofollow\" href=\"http://mirror.freedif.org/GNU-alpha/"
+"\">http://mirror.freedif.org/GNU-alpha/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://mirror.downloadvn.com/gnu/\">https://"
+"mirror.downloadvn.com/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://mirror.downloadvn.com/gnu/\">https://"
+"mirror.downloadvn.com/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://mirror.downloadvn.com/gnu/\">http://mirror."
+"downloadvn.com/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://mirror.downloadvn.com/gnu/\">http://mirror."
+"downloadvn.com/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"(alpha)  <a rel=\"nofollow\" href=\"https://mirror.downloadvn.com/gnu-alpha/"
+"\">https://mirror.downloadvn.com/gnu-alpha/</a>"
+msgstr ""
+"(alpha)  <a rel=\"nofollow\" href=\"https://mirror.downloadvn.com/gnu-alpha/"
+"\">https://mirror.downloadvn.com/gnu-alpha/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"(alpha)  <a rel=\"nofollow\" href=\"http://mirror.downloadvn.com/gnu-alpha/"
+"\">http://mirror.downloadvn.com/gnu-alpha/</a>"
+msgstr ""
+"(alpha)  <a rel=\"nofollow\" href=\"http://mirror.downloadvn.com/gnu-alpha/"
+"\">http://mirror.downloadvn.com/gnu-alpha/</a>"
+
+#. type: Content of: <h4>
+msgid "Europe"
+msgstr "Europa"
+
+#. type: Content of: <ul><li>
+msgid "Austria"
+msgstr "Áustria"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://mirror.easyname.at/gnu/\">http://mirror."
+"easyname.at/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://mirror.easyname.at/gnu/\">http://mirror."
+"easyname.at/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"ftp://mirror.easyname.at/gnu/\">ftp://mirror."
+"easyname.at/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"ftp://mirror.easyname.at/gnu/\">ftp://mirror."
+"easyname.at/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://mirror.easyname.at/gnu/"
+msgstr "rsync://mirror.easyname.at/gnu/"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://mirror.inode.at/gnu/\">http://mirror.inode."
+"at/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://mirror.inode.at/gnu/\">http://mirror.inode."
+"at/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"ftp://mirror.inode.at/gnu/\">ftp://mirror.inode."
+"at/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"ftp://mirror.inode.at/gnu/\">ftp://mirror.inode."
+"at/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://mirror.inode.at/gnu/"
+msgstr "rsync://mirror.inode.at/gnu/"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://mirror.kumi.systems/gnu/\">https://mirror."
+"kumi.systems/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://mirror.kumi.systems/gnu/\">https://mirror."
+"kumi.systems/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://mirror.kumi.systems/gnu/\">http://mirror."
+"kumi.systems/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://mirror.kumi.systems/gnu/\">http://mirror."
+"kumi.systems/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://mirror.kumi.systems/gnu/"
+msgstr "rsync://mirror.kumi.systems/gnu/"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"(alpha)  <a rel=\"nofollow\" href=\"https://mirror.kumi.systems/gnualpha/"
+"\">https://mirror.kumi.systems/gnualpha/</a>"
+msgstr ""
+"(alpha)  <a rel=\"nofollow\" href=\"https://mirror.kumi.systems/gnualpha/"
+"\">https://mirror.kumi.systems/gnualpha/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"(alpha)  <a rel=\"nofollow\" href=\"http://mirror.kumi.systems/gnualpha/"
+"\">http://mirror.kumi.systems/gnualpha/</a>"
+msgstr ""
+"(alpha)  <a rel=\"nofollow\" href=\"http://mirror.kumi.systems/gnualpha/"
+"\">http://mirror.kumi.systems/gnualpha/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://mirror.kumi.systems/gnualpha/"
+msgstr "rsync://mirror.kumi.systems/gnualpha/"
+
+#. type: Content of: <ul><li>
+msgid "Bulgaria"
+msgstr "Bulgária"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://ftp.sotirov-bg.net/pub/mirrors/gnu/"
+"\">https://ftp.sotirov-bg.net/pub/mirrors/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://ftp.sotirov-bg.net/pub/mirrors/gnu/"
+"\">https://ftp.sotirov-bg.net/pub/mirrors/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://ftp.sotirov-bg.net/pub/mirrors/gnu/"
+"\">http://ftp.sotirov-bg.net/pub/mirrors/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://ftp.sotirov-bg.net/pub/mirrors/gnu/"
+"\">http://ftp.sotirov-bg.net/pub/mirrors/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"ftp://sotirov-bg.net/pub/mirrors/gnu/\">ftp://"
+"sotirov-bg.net/pub/mirrors/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"ftp://sotirov-bg.net/pub/mirrors/gnu/\">ftp://"
+"sotirov-bg.net/pub/mirrors/gnu/</a>"
+
+#. type: Content of: <ul><li>
+msgid "Denmark"
+msgstr "Dinamarca"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://ftp.download-by.net/gnu/gnu/\">http://ftp."
+"download-by.net/gnu/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://ftp.download-by.net/gnu/gnu/\">http://ftp."
+"download-by.net/gnu/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://mirrors.dotsrc.org/gnu/\">https://mirrors."
+"dotsrc.org/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://mirrors.dotsrc.org/gnu/\">https://mirrors."
+"dotsrc.org/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://mirrors.dotsrc.org/gnu/\">http://mirrors."
+"dotsrc.org/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://mirrors.dotsrc.org/gnu/\">http://mirrors."
+"dotsrc.org/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"ftp://mirrors.dotsrc.org/gnu/\">ftp://mirrors."
+"dotsrc.org/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"ftp://mirrors.dotsrc.org/gnu/\">ftp://mirrors."
+"dotsrc.org/gnu/</a>"
+
+#. type: Content of: <ul><li>
+msgid "Finland"
+msgstr "Finlândia"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"ftp://ftp.funet.fi/pub/gnu/prep/\">ftp://ftp."
+"funet.fi/pub/gnu/prep/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"ftp://ftp.funet.fi/pub/gnu/prep/\">ftp://ftp."
+"funet.fi/pub/gnu/prep/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://www.nic.funet.fi/pub/gnu/ftp.gnu.org/pub/"
+"gnu/\">http://www.nic.funet.fi/pub/gnu/ftp.gnu.org/pub/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://www.nic.funet.fi/pub/gnu/ftp.gnu.org/pub/"
+"gnu/\">http://www.nic.funet.fi/pub/gnu/ftp.gnu.org/pub/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://ftp.funet.fi/ftp/pub/gnu/prep/"
+msgstr "rsync://ftp.funet.fi/ftp/pub/gnu/prep/"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"(alpha)  <a rel=\"nofollow\" href=\"http://www.nic.funet.fi/pub/gnu/alpha/"
+"gnu/\">http://www.nic.funet.fi/pub/gnu/alpha/gnu/</a>"
+msgstr ""
+"(alpha)  <a rel=\"nofollow\" href=\"http://www.nic.funet.fi/pub/gnu/alpha/"
+"gnu/\">http://www.nic.funet.fi/pub/gnu/alpha/gnu/</a>"
+
+#. type: Content of: <ul><li>
+msgid "France"
+msgstr "França"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://mirror.ibcp.fr/pub/gnu/\">https://mirror."
+"ibcp.fr/pub/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://mirror.ibcp.fr/pub/gnu/\">https://mirror."
+"ibcp.fr/pub/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://mirror.ibcp.fr/pub/gnu/\">http://mirror."
+"ibcp.fr/pub/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://mirror.ibcp.fr/pub/gnu/\">http://mirror."
+"ibcp.fr/pub/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://ftp.igh.cnrs.fr/pub/gnu/\">https://ftp."
+"igh.cnrs.fr/pub/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://ftp.igh.cnrs.fr/pub/gnu/\">https://ftp."
+"igh.cnrs.fr/pub/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://ftp.igh.cnrs.fr/pub/gnu/\">http://ftp.igh."
+"cnrs.fr/pub/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://ftp.igh.cnrs.fr/pub/gnu/\">http://ftp.igh."
+"cnrs.fr/pub/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"ftp://ftp.igh.cnrs.fr/pub/gnu/\">ftp://ftp.igh."
+"cnrs.fr/pub/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"ftp://ftp.igh.cnrs.fr/pub/gnu/\">ftp://ftp.igh."
+"cnrs.fr/pub/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://mirror.cyberbits.eu/gnu/\">https://mirror."
+"cyberbits.eu/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://mirror.cyberbits.eu/gnu/\">https://mirror."
+"cyberbits.eu/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://mirror.cyberbits.eu/gnu/\">http://mirror."
+"cyberbits.eu/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://mirror.cyberbits.eu/gnu/\">http://mirror."
+"cyberbits.eu/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://rsync.cyberbits.eu/gnu/"
+msgstr "rsync://rsync.cyberbits.eu/gnu/"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"(alpha)  <a rel=\"nofollow\" href=\"https://mirror.cyberbits.eu/gnu/alpha/"
+"\">https://mirror.cyberbits.eu/gnu/alpha/</a>"
+msgstr ""
+"(alpha)  <a rel=\"nofollow\" href=\"https://mirror.cyberbits.eu/gnu/alpha/"
+"\">https://mirror.cyberbits.eu/gnu/alpha/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"(alpha)  <a rel=\"nofollow\" href=\"http://mirror.cyberbits.eu/gnu/alpha/"
+"\">http://mirror.cyberbits.eu/gnu/alpha/</a>"
+msgstr ""
+"(alpha)  <a rel=\"nofollow\" href=\"http://mirror.cyberbits.eu/gnu/alpha/"
+"\">http://mirror.cyberbits.eu/gnu/alpha/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://rsync.cyberbits.eu/gnu/alpha/"
+msgstr "rsync://rsync.cyberbits.eu/gnu/alpha/"
+
+#. type: Content of: <ul><li>
+msgid "Germany"
+msgstr "Alemanha"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://ftp.fau.de/gnu\">https://ftp.fau.de/gnu</"
+"a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://ftp.fau.de/gnu\">https://ftp.fau.de/gnu</"
+"a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://ftp.fau.de/gnu\">http://ftp.fau.de/gnu</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://ftp.fau.de/gnu\">http://ftp.fau.de/gnu</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://ftp.fau.de/gnu"
+msgstr "rsync://ftp.fau.de/gnu"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://ftp.thunix.net/gnu-ftp\">https://ftp."
+"thunix.net/gnu-ftp</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://ftp.thunix.net/gnu-ftp\">https://ftp."
+"thunix.net/gnu-ftp</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://ftp.thunix.net/gnu-ftp\">http://ftp.thunix."
+"net/gnu-ftp</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://ftp.thunix.net/gnu-ftp\">http://ftp.thunix."
+"net/gnu-ftp</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://www.singleboersen.com/mirror/gnu/"
+"\">https://www.singleboersen.com/mirror/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://www.singleboersen.com/mirror/gnu/"
+"\">https://www.singleboersen.com/mirror/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://www.singleboersen.com/mirror/gnu/\">http://"
+"www.singleboersen.com/mirror/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://www.singleboersen.com/mirror/gnu/\">http://"
+"www.singleboersen.com/mirror/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://mirror.bibleonline.ru/gnu/\">https://"
+"mirror.bibleonline.ru/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://mirror.bibleonline.ru/gnu/\">https://"
+"mirror.bibleonline.ru/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://mirror.bibleonline.ru/gnu/\">http://mirror."
+"bibleonline.ru/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://mirror.bibleonline.ru/gnu/\">http://mirror."
+"bibleonline.ru/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://www.artfiles.org/gnu.org/\">https://www."
+"artfiles.org/gnu.org/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://www.artfiles.org/gnu.org/\">https://www."
+"artfiles.org/gnu.org/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://www.artfiles.org/gnu.org/\">http://www."
+"artfiles.org/gnu.org/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://www.artfiles.org/gnu.org/\">http://www."
+"artfiles.org/gnu.org/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://ftp-stud.hs-esslingen.de/pub/Mirrors/ftp."
+"gnu.org/\">http://ftp-stud.hs-esslingen.de/pub/Mirrors/ftp.gnu.org/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://ftp-stud.hs-esslingen.de/pub/Mirrors/ftp."
+"gnu.org/\">http://ftp-stud.hs-esslingen.de/pub/Mirrors/ftp.gnu.org/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://ftp-stud.hs-esslingen.de/pub/Mirrors/ftp."
+"gnu.org/\">https://ftp-stud.hs-esslingen.de/pub/Mirrors/ftp.gnu.org/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://ftp-stud.hs-esslingen.de/pub/Mirrors/ftp."
+"gnu.org/\">https://ftp-stud.hs-esslingen.de/pub/Mirrors/ftp.gnu.org/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://ftp.halifax.rwth-aachen.de/gnu/\">https://"
+"ftp.halifax.rwth-aachen.de/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://ftp.halifax.rwth-aachen.de/gnu/\">https://"
+"ftp.halifax.rwth-aachen.de/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://ftp.halifax.rwth-aachen.de/gnu/\">http://"
+"ftp.halifax.rwth-aachen.de/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://ftp.halifax.rwth-aachen.de/gnu/\">http://"
+"ftp.halifax.rwth-aachen.de/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"ftp://ftp.halifax.rwth-aachen.de/gnu/\">ftp://ftp."
+"halifax.rwth-aachen.de/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"ftp://ftp.halifax.rwth-aachen.de/gnu/\">ftp://ftp."
+"halifax.rwth-aachen.de/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://ftp.halifax.rwth-aachen.de/gnu/"
+msgstr "rsync://ftp.halifax.rwth-aachen.de/gnu/"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://ftp.hosteurope.de/mirror/ftp.gnu.org/gnu/"
+"\">http://ftp.hosteurope.de/mirror/ftp.gnu.org/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://ftp.hosteurope.de/mirror/ftp.gnu.org/gnu/"
+"\">http://ftp.hosteurope.de/mirror/ftp.gnu.org/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://mirror.checkdomain.de/gnu\">https://"
+"mirror.checkdomain.de/gnu</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://mirror.checkdomain.de/gnu\">https://"
+"mirror.checkdomain.de/gnu</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://mirror.checkdomain.de/gnu\">http://mirror."
+"checkdomain.de/gnu</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://mirror.checkdomain.de/gnu\">http://mirror."
+"checkdomain.de/gnu</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"ftp://mirror.checkdomain.de/gnu\">ftp://mirror."
+"checkdomain.de/gnu</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"ftp://mirror.checkdomain.de/gnu\">ftp://mirror."
+"checkdomain.de/gnu</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://mirror.netcologne.de/gnu\">https://mirror."
+"netcologne.de/gnu</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://mirror.netcologne.de/gnu\">https://mirror."
+"netcologne.de/gnu</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://mirror.netcologne.de/gnu\">http://mirror."
+"netcologne.de/gnu</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://mirror.netcologne.de/gnu\">http://mirror."
+"netcologne.de/gnu</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"ftp://mirror.netcologne.de/gnu\">ftp://mirror."
+"netcologne.de/gnu</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"ftp://mirror.netcologne.de/gnu\">ftp://mirror."
+"netcologne.de/gnu</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://mirror.netcologne.de/gnu"
+msgstr "rsync://mirror.netcologne.de/gnu"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://www.gutscheinrausch.de/mirror/gnu/"
+"\">https://www.gutscheinrausch.de/mirror/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://www.gutscheinrausch.de/mirror/gnu/"
+"\">https://www.gutscheinrausch.de/mirror/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://www.gutscheinrausch.de/mirror/gnu/"
+"\">http://www.gutscheinrausch.de/mirror/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://www.gutscheinrausch.de/mirror/gnu/"
+"\">http://www.gutscheinrausch.de/mirror/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://ftp.wrz.de/pub/gnu/\">https://ftp.wrz.de/"
+"pub/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://ftp.wrz.de/pub/gnu/\">https://ftp.wrz.de/"
+"pub/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://ftp.wrz.de/pub/gnu/\">http://ftp.wrz.de/"
+"pub/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://ftp.wrz.de/pub/gnu/\">http://ftp.wrz.de/"
+"pub/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://ftp.wrz.de/pub/gnu/"
+msgstr "rsync://ftp.wrz.de/pub/gnu/"
+
+#. type: Content of: <ul><li>
+msgid "Greece"
+msgstr "Grécia"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://ftp.cc.uoc.gr/mirrors/gnu/\">https://ftp."
+"cc.uoc.gr/mirrors/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://ftp.cc.uoc.gr/mirrors/gnu/\">https://ftp."
+"cc.uoc.gr/mirrors/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://ftp.cc.uoc.gr/mirrors/gnu/\">http://ftp.cc."
+"uoc.gr/mirrors/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://ftp.cc.uoc.gr/mirrors/gnu/\">http://ftp.cc."
+"uoc.gr/mirrors/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"ftp://ftp.cc.uoc.gr/mirrors/gnu/\">ftp://ftp.cc."
+"uoc.gr/mirrors/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"ftp://ftp.cc.uoc.gr/mirrors/gnu/\">ftp://ftp.cc."
+"uoc.gr/mirrors/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"ftp://ftp.ntua.gr/pub/gnu/\">ftp://ftp.ntua.gr/"
+"pub/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"ftp://ftp.ntua.gr/pub/gnu/\">ftp://ftp.ntua.gr/"
+"pub/gnu/</a>"
+
+#. type: Content of: <ul><li>
+msgid "Iran"
+msgstr "Irã"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://mirror.rasanegar.com/gnu/\">http://mirror."
+"rasanegar.com/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://mirror.rasanegar.com/gnu/\">http://mirror."
+"rasanegar.com/gnu/</a>"
+
+#. type: Content of: <ul><li>
+msgid "Hungary"
+msgstr "Hungria"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://quantum-mirror.hu/mirrors/pub/gnu/"
+"\">https://quantum-mirror.hu/mirrors/pub/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://quantum-mirror.hu/mirrors/pub/gnu/"
+"\">https://quantum-mirror.hu/mirrors/pub/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://quantum-mirror.hu/mirrors/pub/gnu/"
+"\">http://quantum-mirror.hu/mirrors/pub/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://quantum-mirror.hu/mirrors/pub/gnu/"
+"\">http://quantum-mirror.hu/mirrors/pub/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://quantum-mirror.hu/gnu/"
+msgstr "rsync://quantum-mirror.hu/gnu/"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"(alpha)  <a rel=\"nofollow\" href=\"https://quantum-mirror.hu/mirrors/pub/"
+"gnualpha/\">https://quantum-mirror.hu/mirrors/pub/gnualpha/</a>"
+msgstr ""
+"(alpha)  <a rel=\"nofollow\" href=\"https://quantum-mirror.hu/mirrors/pub/"
+"gnualpha/\">https://quantum-mirror.hu/mirrors/pub/gnualpha/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"(alpha)  <a rel=\"nofollow\" href=\"http://quantum-mirror.hu/mirrors/pub/"
+"gnualpha/\">http://quantum-mirror.hu/mirrors/pub/gnualpha/</a>"
+msgstr ""
+"(alpha)  <a rel=\"nofollow\" href=\"http://quantum-mirror.hu/mirrors/pub/"
+"gnualpha/\">http://quantum-mirror.hu/mirrors/pub/gnualpha/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://quantum-mirror.hu/gnualpha/"
+msgstr "rsync://quantum-mirror.hu/gnualpha/"
+
+#. type: Content of: <ul><li>
+msgid "Republic of Moldova"
+msgstr "República da Moldávia"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://mirrors.mivocloud.com/gnu/\">https://"
+"mirrors.mivocloud.com/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://mirrors.mivocloud.com/gnu/\">https://"
+"mirrors.mivocloud.com/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://mirrors.mivocloud.com/gnu/\">http://"
+"mirrors.mivocloud.com/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://mirrors.mivocloud.com/gnu/\">http://"
+"mirrors.mivocloud.com/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://mirrors.mivocloud.com/gnu/"
+msgstr "rsync://mirrors.mivocloud.com/gnu/"
+
+#. type: Content of: <ul><li>
+msgid "Netherlands"
+msgstr "Países Baixos"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"ftp://ftp.mirror.nl/pub/mirror/gnu/\">ftp://ftp."
+"mirror.nl/pub/mirror/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"ftp://ftp.mirror.nl/pub/mirror/gnu/\">ftp://ftp."
+"mirror.nl/pub/mirror/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://ftp.nluug.nl/pub/gnu/\">https://ftp.nluug."
+"nl/pub/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://ftp.nluug.nl/pub/gnu/\">https://ftp.nluug."
+"nl/pub/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"ftp://ftp.nluug.nl/pub/gnu/\">ftp://ftp.nluug.nl/"
+"pub/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"ftp://ftp.nluug.nl/pub/gnu/\">ftp://ftp.nluug.nl/"
+"pub/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://ftp.snt.utwente.nl/pub/software/gnu/"
+"\">https://ftp.snt.utwente.nl/pub/software/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://ftp.snt.utwente.nl/pub/software/gnu/"
+"\">https://ftp.snt.utwente.nl/pub/software/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://ftp.snt.utwente.nl/pub/software/gnu/"
+"\">http://ftp.snt.utwente.nl/pub/software/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://ftp.snt.utwente.nl/pub/software/gnu/"
+"\">http://ftp.snt.utwente.nl/pub/software/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://ftp.snt.utwente.nl/gnu/"
+msgstr "rsync://ftp.snt.utwente.nl/gnu/"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://mirror.koddos.net/gnu/\">https://mirror."
+"koddos.net/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://mirror.koddos.net/gnu/\">https://mirror."
+"koddos.net/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://mirror.koddos.net/gnu/\">http://mirror."
+"koddos.net/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://mirror.koddos.net/gnu/\">http://mirror."
+"koddos.net/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://mirror.koddos.net/gnu"
+msgstr "rsync://mirror.koddos.net/gnu"
+
+#. type: Content of: <ul><li>
+msgid "Norway"
+msgstr "Noruega"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://gnuftp.uib.no/\">https://gnuftp.uib.no/</"
+"a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://gnuftp.uib.no/\">https://gnuftp.uib.no/</"
+"a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://gnuftp.uib.no/\">http://gnuftp.uib.no/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://gnuftp.uib.no/\">http://gnuftp.uib.no/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"ftp://gnuftp.uib.no/pub/gnuftp/\">ftp://gnuftp."
+"uib.no/pub/gnuftp/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"ftp://gnuftp.uib.no/pub/gnuftp/\">ftp://gnuftp."
+"uib.no/pub/gnuftp/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://gnuftp.uib.no/gnuftp/"
+msgstr "rsync://gnuftp.uib.no/gnuftp/"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"(alpha)  <a rel=\"nofollow\" href=\"http://gnualpha.uib.no/\">http://"
+"gnualpha.uib.no/</a>"
+msgstr ""
+"(alpha)  <a rel=\"nofollow\" href=\"http://gnualpha.uib.no/\">http://"
+"gnualpha.uib.no/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"(alpha)  <a rel=\"nofollow\" href=\"ftp://gnualpha.uib.no/pub/gnualpha/"
+"\">ftp://gnualpha.uib.no/pub/gnualpha/</a>"
+msgstr ""
+"(alpha)  <a rel=\"nofollow\" href=\"ftp://gnualpha.uib.no/pub/gnualpha/"
+"\">ftp://gnualpha.uib.no/pub/gnualpha/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://gnualpha.uib.no/gnualpha"
+msgstr "rsync://gnualpha.uib.no/gnualpha"
+
+#. type: Content of: <ul><li>
+msgid "Poland"
+msgstr "Polônia"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"ftp://ftp.man.poznan.pl/pub/gnu/\">ftp://ftp.man."
+"poznan.pl/pub/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"ftp://ftp.man.poznan.pl/pub/gnu/\">ftp://ftp.man."
+"poznan.pl/pub/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://sunsite.icm.edu.pl/pub/gnu/\">https://"
+"sunsite.icm.edu.pl/pub/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://sunsite.icm.edu.pl/pub/gnu/\">https://"
+"sunsite.icm.edu.pl/pub/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"ftp://sunsite.icm.edu.pl/pub/gnu/\">ftp://sunsite."
+"icm.edu.pl/pub/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"ftp://sunsite.icm.edu.pl/pub/gnu/\">ftp://sunsite."
+"icm.edu.pl/pub/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://ftp.task.gda.pl/pub/gnu/\">http://ftp.task."
+"gda.pl/pub/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://ftp.task.gda.pl/pub/gnu/\">http://ftp.task."
+"gda.pl/pub/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"ftp://ftp.task.gda.pl/pub/gnu/\">ftp://ftp.task."
+"gda.pl/pub/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"ftp://ftp.task.gda.pl/pub/gnu/\">ftp://ftp.task."
+"gda.pl/pub/gnu/</a>"
+
+#. type: Content of: <ul><li>
+msgid "Portugal"
+msgstr "Portugal"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"ftp://mirrors.up.pt/pub/gnu/\">ftp://mirrors.up."
+"pt/pub/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"ftp://mirrors.up.pt/pub/gnu/\">ftp://mirrors.up."
+"pt/pub/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://mirrors.up.pt/pub/gnu/\">http://mirrors.up."
+"pt/pub/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://mirrors.up.pt/pub/gnu/\">http://mirrors.up."
+"pt/pub/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://mirrors.up.pt/pub/gnu/\">https://mirrors."
+"up.pt/pub/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://mirrors.up.pt/pub/gnu/\">https://mirrors."
+"up.pt/pub/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://mirrors.up.pt/pub/gnu/"
+msgstr "rsync://mirrors.up.pt/pub/gnu/"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"(alpha)  <a rel=\"nofollow\" href=\"http://mirrors.up.pt/pub/gnu-alpha/"
+"\">http://mirrors.up.pt/pub/gnu-alpha/</a>"
+msgstr ""
+"(alpha)  <a rel=\"nofollow\" href=\"http://mirrors.up.pt/pub/gnu-alpha/"
+"\">http://mirrors.up.pt/pub/gnu-alpha/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"(alpha)  <a rel=\"nofollow\" href=\"https://mirrors.up.pt/pub/gnu-alpha/"
+"\">https://mirrors.up.pt/pub/gnu-alpha/</a>"
+msgstr ""
+"(alpha)  <a rel=\"nofollow\" href=\"https://mirrors.up.pt/pub/gnu-alpha/"
+"\">https://mirrors.up.pt/pub/gnu-alpha/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"(alpha)  <a rel=\"nofollow\" href=\"ftp://mirrors.up.pt/pub/gnu-alpha/"
+"\">ftp://mirrors.up.pt/pub/gnu-alpha/</a>"
+msgstr ""
+"(alpha)  <a rel=\"nofollow\" href=\"ftp://mirrors.up.pt/pub/gnu-alpha/"
+"\">ftp://mirrors.up.pt/pub/gnu-alpha/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://mirrors.up.pt/pub/gnu-alpha/"
+msgstr "rsync://mirrors.up.pt/pub/gnu-alpha/"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"ftp://ftp.eq.uc.pt/pub/software/unix/gnu/\">ftp://"
+"ftp.eq.uc.pt/pub/software/unix/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"ftp://ftp.eq.uc.pt/pub/software/unix/gnu/\">ftp://"
+"ftp.eq.uc.pt/pub/software/unix/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://ftp.eq.uc.pt/software/unix/gnu/\">http://"
+"ftp.eq.uc.pt/software/unix/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://ftp.eq.uc.pt/software/unix/gnu/\">http://"
+"ftp.eq.uc.pt/software/unix/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://ftp.eq.uc.pt/software/unix/gnu/\">https://"
+"ftp.eq.uc.pt/software/unix/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://ftp.eq.uc.pt/software/unix/gnu/\">https://"
+"ftp.eq.uc.pt/software/unix/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"(alpha)  <a rel=\"nofollow\" href=\"http://ftp.eq.uc.pt/software/unix/gnu-"
+"alpha/\">http://ftp.eq.uc.pt/software/unix/gnu-alpha/</a>"
+msgstr ""
+"(alpha)  <a rel=\"nofollow\" href=\"http://ftp.eq.uc.pt/software/unix/gnu-"
+"alpha/\">http://ftp.eq.uc.pt/software/unix/gnu-alpha/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"(alpha)  <a rel=\"nofollow\" href=\"https://ftp.eq.uc.pt/software/unix/gnu-"
+"alpha/\">https://ftp.eq.uc.pt/software/unix/gnu-alpha/</a>"
+msgstr ""
+"(alpha)  <a rel=\"nofollow\" href=\"https://ftp.eq.uc.pt/software/unix/gnu-"
+"alpha/\">https://ftp.eq.uc.pt/software/unix/gnu-alpha/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"(alpha)  <a rel=\"nofollow\" href=\"ftp://ftp.eq.uc.pt/pub/software/unix/gnu-"
+"alpha/\">ftp://ftp.eq.uc.pt/pub/software/unix/gnu-alpha/</a>"
+msgstr ""
+"(alpha)  <a rel=\"nofollow\" href=\"ftp://ftp.eq.uc.pt/pub/software/unix/gnu-"
+"alpha/\">ftp://ftp.eq.uc.pt/pub/software/unix/gnu-alpha/</a>"
+
+#. type: Content of: <ul><li>
+msgid "Romania"
+msgstr "Romênia"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://mirrors.nav.ro/gnu\">http://mirrors.nav.ro/"
+"gnu</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://mirrors.nav.ro/gnu\">http://mirrors.nav.ro/"
+"gnu</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://mirrors.nav.ro/gnu\">https://mirrors.nav."
+"ro/gnu</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://mirrors.nav.ro/gnu\">https://mirrors.nav."
+"ro/gnu</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://mirrors.nav.ro/gnu"
+msgstr "rsync://mirrors.nav.ro/gnu"
+
+#. type: Content of: <ul><li>
+msgid "Russia"
+msgstr "Rússia"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://mirror.tochlab.net/pub/gnu/\">https://"
+"mirror.tochlab.net/pub/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://mirror.tochlab.net/pub/gnu/\">https://"
+"mirror.tochlab.net/pub/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://mirror.tochlab.net/pub/gnu/\">http://"
+"mirror.tochlab.net/pub/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://mirror.tochlab.net/pub/gnu/\">http://"
+"mirror.tochlab.net/pub/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"ftp://mirror.tochlab.net/pub/gnu/\">ftp://mirror."
+"tochlab.net/pub/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"ftp://mirror.tochlab.net/pub/gnu/\">ftp://mirror."
+"tochlab.net/pub/gnu/</a>"
+
+#. type: Content of: <ul><li>
+msgid "Serbia"
+msgstr "Sérvia"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://mirror.sbb.rs/gnu/\">http://mirror.sbb.rs/"
+"gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://mirror.sbb.rs/gnu/\">http://mirror.sbb.rs/"
+"gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"ftp://mirror.sbb.rs/gnu/\">ftp://mirror.sbb.rs/"
+"gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"ftp://mirror.sbb.rs/gnu/\">ftp://mirror.sbb.rs/"
+"gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://mirror.sbb.rs/gnu/"
+msgstr "rsync://mirror.sbb.rs/gnu/"
+
+#. type: Content of: <ul><li>
+msgid "Slovenia"
+msgstr "Eslovênia"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://mirror.lihnidos.org/GNU/ftp/gnu/\">http://"
+"mirror.lihnidos.org/GNU/ftp/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://mirror.lihnidos.org/GNU/ftp/gnu/\">http://"
+"mirror.lihnidos.org/GNU/ftp/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"(alpha)  <a rel=\"nofollow\" href=\"http://mirror.lihnidos.org/GNU/alpha/gnu/"
+"\">http://mirror.lihnidos.org/GNU/alpha/gnu/</a>"
+msgstr ""
+"(alpha)  <a rel=\"nofollow\" href=\"http://mirror.lihnidos.org/GNU/alpha/gnu/"
+"\">http://mirror.lihnidos.org/GNU/alpha/gnu/</a>"
+
+#. type: Content of: <ul><li>
+msgid "Spain"
+msgstr "Espanha"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://ftp.rediris.es/mirror/GNU/\">https://ftp."
+"rediris.es/mirror/GNU/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://ftp.rediris.es/mirror/GNU/\">https://ftp."
+"rediris.es/mirror/GNU/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://ftp.rediris.es/mirror/GNU/\">http://ftp."
+"rediris.es/mirror/GNU/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://ftp.rediris.es/mirror/GNU/\">http://ftp."
+"rediris.es/mirror/GNU/</a>"
+
+#. type: Content of: <ul><li>
+msgid "Sweden"
+msgstr "Suécia"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://ftp.acc.umu.se/mirror/gnu.org/gnu/"
+"\">http://ftp.acc.umu.se/mirror/gnu.org/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://ftp.acc.umu.se/mirror/gnu.org/gnu/"
+"\">http://ftp.acc.umu.se/mirror/gnu.org/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://ftp.acc.umu.se/mirror/gnu.org/gnu/"
+"\">https://ftp.acc.umu.se/mirror/gnu.org/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://ftp.acc.umu.se/mirror/gnu.org/gnu/"
+"\">https://ftp.acc.umu.se/mirror/gnu.org/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://ftp.acc.umu.se/mirror/gnu.org/gnu/"
+msgstr "rsync://ftp.acc.umu.se/mirror/gnu.org/gnu/"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"(alpha)  <a rel=\"nofollow\" href=\"http://ftp.acc.umu.se/mirror/gnu.org/"
+"alpha/\">http://ftp.acc.umu.se/mirror/gnu.org/alpha/</a>"
+msgstr ""
+"(alpha)  <a rel=\"nofollow\" href=\"http://ftp.acc.umu.se/mirror/gnu.org/"
+"alpha/\">http://ftp.acc.umu.se/mirror/gnu.org/alpha/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"(alpha)  <a rel=\"nofollow\" href=\"https://ftp.acc.umu.se/mirror/gnu.org/"
+"alpha/\">https://ftp.acc.umu.se/mirror/gnu.org/alpha/</a>"
+msgstr ""
+"(alpha)  <a rel=\"nofollow\" href=\"https://ftp.acc.umu.se/mirror/gnu.org/"
+"alpha/\">https://ftp.acc.umu.se/mirror/gnu.org/alpha/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://ftp.acc.umu.se/mirror/gnu.org/alpha/"
+msgstr "rsync://ftp.acc.umu.se/mirror/gnu.org/alpha/"
+
+#. type: Content of: <ul><li>
+msgid "Turkey"
+msgstr "Turquia"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://mirror.veriportal.com/gnu/\">http://mirror."
+"veriportal.com/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://mirror.veriportal.com/gnu/\">http://mirror."
+"veriportal.com/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://mirror.rackdc.com/gnu/\">http://mirror."
+"rackdc.com/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://mirror.rackdc.com/gnu/\">http://mirror."
+"rackdc.com/gnu/</a>"
+
+#. type: Content of: <ul><li>
+msgid "UK"
+msgstr "Reino Unido"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://www.mirrorservice.org/sites/ftp.gnu.org/"
+"gnu/\">https://www.mirrorservice.org/sites/ftp.gnu.org/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://www.mirrorservice.org/sites/ftp.gnu.org/"
+"gnu/\">https://www.mirrorservice.org/sites/ftp.gnu.org/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://www.mirrorservice.org/sites/ftp.gnu.org/"
+"gnu/\">http://www.mirrorservice.org/sites/ftp.gnu.org/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://www.mirrorservice.org/sites/ftp.gnu.org/"
+"gnu/\">http://www.mirrorservice.org/sites/ftp.gnu.org/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"ftp://www.mirrorservice.org/sites/ftp.gnu.org/gnu/"
+"\">ftp://www.mirrorservice.org/sites/ftp.gnu.org/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"ftp://www.mirrorservice.org/sites/ftp.gnu.org/gnu/"
+"\">ftp://www.mirrorservice.org/sites/ftp.gnu.org/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://rsync.mirrorservice.org/ftp.gnu.org/gnu/"
+msgstr "rsync://rsync.mirrorservice.org/ftp.gnu.org/gnu/"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"(alpha)  <a rel=\"nofollow\" href=\"http://www.mirrorservice.org/sites/alpha."
+"gnu.org/gnu/\">http://www.mirrorservice.org/sites/alpha.gnu.org/gnu/</a>"
+msgstr ""
+"(alpha)  <a rel=\"nofollow\" href=\"http://www.mirrorservice.org/sites/alpha."
+"gnu.org/gnu/\">http://www.mirrorservice.org/sites/alpha.gnu.org/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"(alpha)  <a rel=\"nofollow\" href=\"ftp://ftp.mirrorservice.org/sites/alpha."
+"gnu.org/gnu/\">ftp://ftp.mirrorservice.org/sites/alpha.gnu.org/gnu/</a>"
+msgstr ""
+"(alpha)  <a rel=\"nofollow\" href=\"ftp://ftp.mirrorservice.org/sites/alpha."
+"gnu.org/gnu/\">ftp://ftp.mirrorservice.org/sites/alpha.gnu.org/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://rsync.mirrorservice.org/alpha.gnu.org/gnu/"
+msgstr "rsync://rsync.mirrorservice.org/alpha.gnu.org/gnu/"
+
+#. type: Content of: <ul><li>
+msgid "Ukraine"
+msgstr "Ucrânia"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://ftp.gnu.org.ua/gnu/\">http://ftp.gnu.org."
+"ua/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://ftp.gnu.org.ua/gnu/\">http://ftp.gnu.org."
+"ua/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"ftp://ftp.gnu.org.ua/gnu/\">ftp://ftp.gnu.org.ua/"
+"gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"ftp://ftp.gnu.org.ua/gnu/\">ftp://ftp.gnu.org.ua/"
+"gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://ftp-gnu-org.ip-connect.vn.ua/\">https://"
+"ftp-gnu-org.ip-connect.vn.ua/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://ftp-gnu-org.ip-connect.vn.ua/\">https://"
+"ftp-gnu-org.ip-connect.vn.ua/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://ftp-gnu-org.ip-connect.vn.ua/\">http://ftp-"
+"gnu-org.ip-connect.vn.ua/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://ftp-gnu-org.ip-connect.vn.ua/\">http://ftp-"
+"gnu-org.ip-connect.vn.ua/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://ftp-gnu-org.ip-connect.vn.ua/ftp.gnu.org/"
+msgstr "rsync://ftp-gnu-org.ip-connect.vn.ua/ftp.gnu.org/"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"(alpha)  <a rel=\"nofollow\" href=\"https://alpha-gnu-org.ip-connect.vn.ua/"
+"\">https://alpha-gnu-org.ip-connect.vn.ua/</a>"
+msgstr ""
+"(alpha)  <a rel=\"nofollow\" href=\"https://alpha-gnu-org.ip-connect.vn.ua/"
+"\">https://alpha-gnu-org.ip-connect.vn.ua/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"(alpha)  <a rel=\"nofollow\" href=\"http://alpha-gnu-org.ip-connect.vn.ua/"
+"\">http://alpha-gnu-org.ip-connect.vn.ua/</a>"
+msgstr ""
+"(alpha)  <a rel=\"nofollow\" href=\"http://alpha-gnu-org.ip-connect.vn.ua/"
+"\">http://alpha-gnu-org.ip-connect.vn.ua/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://alpha-gnu-org.ip-connect.vn.ua/alpha.gnu.org/"
+msgstr "rsync://alpha-gnu-org.ip-connect.vn.ua/alpha.gnu.org/"
+
+#.  end of last country list 
+#. type: Content of: outside any tag (error?)
+msgid "<a id=\"add_your_mirror_to_this_list\"></a>"
+msgstr "<a id=\"add_your_mirror_to_this_list\"></a>"
+
+#. type: Content of: <h3>
+msgid "Add your mirror to this list"
+msgstr "Adicione seu espelho a esta lista"
+
+#. type: Content of: <p>
+msgid ""
+"We welcome and appreciate more mirrors.  If you are able to provide one, "
+"please see <a href=\"http://www.gnu.org/server/mirror.html\">http://www.gnu."
+"org/server/mirror.html</a> for information and instructions."
+msgstr ""
+"Nós aceitamos e apreciamos mais espelhos. Se você puder fornecer um, "
+"consulte <a href=\"http://www.gnu.org/server/mirror.html\">http://www.gnu."
+"org/server/mirror.html</a> para informações e instruções."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid ""
+"Copyright &copy; 2014, 2015, 2016, 2017, 2018, 2019 Free Software "
+"Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2014, 2015, 2016, 2017, 2018, 2019 Free Software "
+"Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2019."
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização:"
+
+#~ msgid ""
+#~ "<a rel=\"nofollow\" href=\"https://ftp.yzu.edu.tw/gnu/\">https://ftp.yzu."
+#~ "edu.tw/gnu/</a>"
+#~ msgstr ""
+#~ "<a rel=\"nofollow\" href=\"https://ftp.yzu.edu.tw/gnu/\">https://ftp.yzu."
+#~ "edu.tw/gnu/</a>"
+
+#~ msgid ""
+#~ "<a rel=\"nofollow\" href=\"http://ftp.yzu.edu.tw/gnu/\">http://ftp.yzu."
+#~ "edu.tw/gnu/</a>"
+#~ msgstr ""
+#~ "<a rel=\"nofollow\" href=\"http://ftp.yzu.edu.tw/gnu/\">http://ftp.yzu."
+#~ "edu.tw/gnu/</a>"
+
+#~ msgid ""
+#~ "<a rel=\"nofollow\" href=\"ftp://ftp.yzu.edu.tw/gnu/\">ftp://ftp.yzu.edu."
+#~ "tw/gnu/</a>"
+#~ msgstr ""
+#~ "<a rel=\"nofollow\" href=\"ftp://ftp.yzu.edu.tw/gnu/\">ftp://ftp.yzu.edu."
+#~ "tw/gnu/</a>"
+
+#~ msgid ""
+#~ "<a rel=\"nofollow\" href=\"https://ftp.yzu.edu.tw/pub/gnu/\">https://ftp."
+#~ "yzu.edu.tw/pub/gnu/</a>"
+#~ msgstr ""
+#~ "<a rel=\"nofollow\" href=\"https://ftp.yzu.edu.tw/pub/gnu/\">https://ftp."
+#~ "yzu.edu.tw/pub/gnu/</a>"
+
+#~ msgid "rsync://ftp.yzu.edu.tw/pub/gnu/"
+#~ msgstr "rsync://ftp.yzu.edu.tw/pub/gnu/"

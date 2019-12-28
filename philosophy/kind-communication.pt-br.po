@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kind-communication.html\n"
-"POT-Creation-Date: 2019-02-20 19:58+0000\n"
-"PO-Revision-Date: 2019-02-20 19:38-0200\n"
+"POT-Creation-Date: 2019-10-26 16:55+0000\n"
+"PO-Revision-Date: 2019-11-01 04:22-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -24,15 +24,19 @@ msgstr ""
 "Diretrizes de Comunicação Gentil do GNU - Projeto GNU - Free Software "
 "Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "GNU Kind Communications Guidelines"
 msgstr "Diretrizes de Comunicação Gentil do GNU"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "by <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
 msgstr "por <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><h3>
+msgid "Purpose"
+msgstr "Propósito"
+
+#. type: Content of: <div><div><p>
 msgid ""
 "The GNU Project encourages contributions from anyone who wishes to advance "
 "the development of the GNU system, regardless of gender, race, ethnic group, "
@@ -44,7 +48,7 @@ msgstr ""
 "étnico, aparência física, religião, formação cultural e quaisquer outras "
 "características demográficas, bem como visões políticas pessoais."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "People are sometimes discouraged from participating in GNU development "
 "because of certain patterns of communication that strike them as unfriendly, "
@@ -64,12 +68,16 @@ msgstr ""
 "resultado &ndash; para evitar práticas que previsível e desnecessariamente "
 "arrisquem afastar alguns contribuintes."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid "These guidelines suggest specific ways to accomplish that goal."
 msgstr ""
 "Essas diretrizes sugerem maneiras específicas de atingir esse objetivo."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><h3>
+msgid "Guidelines"
+msgstr "Diretrizes"
+
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "Please assume other participants are posting in good faith, even if you "
 "disagree with what they say. When people present code or text as their own "
@@ -83,7 +91,7 @@ msgstr ""
 "critique as pessoas por erros que você apenas especula que elas podem ter "
 "feito; atenha-se ao que elas realmente dizem e realmente fazem."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "Please think about how to treat other participants with respect, especially "
 "when you disagree with them.  For instance, call them by the names they use, "
@@ -95,7 +103,7 @@ msgstr ""
 "pelos nomes que usam e honre suas preferências sobre sua identidade de "
 "gênero<a href=\"#f1\">[1]</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "Please do not take a harsh tone towards other participants, and especially "
 "don't make personal attacks against them.  Go out of your way to show that "
@@ -105,7 +113,7 @@ msgstr ""
 "não faça ataques pessoais contra eles. Certifique-se de mostrar que você "
 "está criticando uma declaração, não uma pessoa."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "Please recognize that criticism of your statements is not a personal attack "
 "on you. If you feel that someone has attacked you, or offended your personal "
@@ -124,7 +132,7 @@ msgstr ""
 "de lado por horas ou um dia, revise-a para remover a raiva e, só então, "
 "envie-a."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "Please avoid statements about the presumed typical desires, capabilities or "
 "actions of some demographic group.  They can offend people in that group, "
@@ -134,7 +142,7 @@ msgstr ""
 "presumidos de algum grupo demográfico. Elas podem ofender as pessoas desse "
 "grupo e estão sempre fora do tópico nas discussões do Projeto GNU."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "Please be especially kind to other contributors when saying they made a "
 "mistake.  Programming means making lots of mistakes, and we all do so&mdash;"
@@ -152,7 +160,7 @@ msgstr ""
 "eles e apreciamos suas contribuições imperfeitas, embora esperemos que sigam "
 "resolvendo quaisquer problemas nelas."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "Likewise, be kind when pointing out to other contributors that they should "
 "stop using certain nonfree software.  For their own sake, they ought to free "
@@ -167,7 +175,7 @@ msgstr ""
 "esses lembretes devem ser gentis e não muito frequentes &ndash; não "
 "importune."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "By contrast, to suggest that others use nonfree software opposes the basic "
 "principles of GNU, so it is not allowed in GNU Project discussions."
@@ -176,7 +184,7 @@ msgstr ""
 "princípios básicos do GNU, por isso não é permitido nas discussões do "
 "Projeto GNU."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "Please respond to what people actually said, not to exaggerations of their "
 "views.  Your criticism will not be constructive if it is aimed at a target "
@@ -186,7 +194,7 @@ msgstr ""
 "suas opiniões. Sua crítica não será construtiva se for direcionada a um alvo "
 "diferente de suas visões reais."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "If in a discussion someone brings up a tangent to the topic at hand, please "
 "keep the discussion on track by focusing on the current topic rather than "
@@ -202,7 +210,7 @@ msgstr ""
 "discussão do assunto em questão. Na maioria dos casos, também é fora do "
 "assunto, então quem se interessar deve discuti-lo em outro lugar."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "If you think the tangent is an important and pertinent issue, please bring "
 "it up as a separate discussion, with a Subject field to fit, and consider "
@@ -212,7 +220,7 @@ msgstr ""
 "traga-a como uma discussão à parte, com um campo Assunto para se adequar, e "
 "considere esperar pelo fim da discussão atual."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "Rather than trying to have the last word, look for the times when there is "
 "no need to reply, perhaps because you already made the relevant point clear "
@@ -228,7 +236,7 @@ msgstr ""
 "para exigir uma resposta direta, é vantajoso não dá-la e em vez disso mudar "
 "para outro lugar."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "Please don't argue unceasingly for your preferred course of action when a "
 "decision for some other course has already been made.  That tends to block "
@@ -238,7 +246,7 @@ msgstr ""
 "quando uma decisão para algum outro curso já foi tomada. Isso tende a "
 "bloquear o progresso da atividade."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "If other participants complain about the way you express your ideas, please "
 "make an effort to cater to them.  You can find ways to express the same "
@@ -251,7 +259,7 @@ msgstr ""
 "provavelmente terá melhores chances de persuadir outros se não despertar a "
 "ira por coisas secundárias."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "Please don't raise unrelated political issues in GNU Project discussions, "
 "because they are off-topic.  The only political positions that the GNU "
@@ -269,7 +277,7 @@ msgstr ""
 "contribuidor, concorde com esses dois pontos, mas precisa aceitar que nossas "
 "decisões serão baseadas neles."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "By making an effort to follow these guidelines, we will encourage more "
 "contribution to our projects, and our discussions will be friendlier and "
@@ -279,11 +287,11 @@ msgstr ""
 "contribuições aos nossos projetos e nossas discussões serão mais amigáveis e "
 "chegarão a conclusões mais facilmente."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Footnote"
 msgstr "Nota de rodapé"
 
-#. type: Content of: <ol><li><p>
+#. type: Content of: <div><ol><li><p>
 msgid ""
 "Honoring people's preferences about gender identity includes not referring "
 "to them in ways that conflict with that identity.  For instance, not to use "

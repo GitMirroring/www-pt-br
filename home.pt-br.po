@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: home.html\n"
-"POT-Creation-Date: 2019-08-28 20:26+0000\n"
-"PO-Revision-Date: 2019-08-29 07:52-0200\n"
+"POT-Creation-Date: 2019-12-27 06:55+0000\n"
+"PO-Revision-Date: 2019-12-27 07:27-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -52,6 +52,14 @@ msgstr ""
 "GNU é o único sistema operacional desenvolvido especificamente para dar "
 "liberdade aos seus usuários. O que é GNU, e qual liberdade está em jogo?"
 
+#. type: Content of: <div><div><p>
+msgid ""
+"<a href=\"https://www.fsf.org/blogs/community/presenting-shoetool-happy-"
+"holidays-from-the-fsf\"> ShoeTool &mdash; HAPPY HOLIDAYS FROM THE FSF!</a>"
+msgstr ""
+"<a href=\"https://www.fsf.org/blogs/community/presenting-shoetool-happy-"
+"holidays-from-the-fsf\"> ShoeTool &mdash; BOAS FESTAS DA FSF!</a>"
+
 #. type: Content of: <div><div><h2>
 msgid "What is GNU?"
 msgstr "O que é GNU?"
@@ -89,12 +97,15 @@ msgid "<a href=\"/distros/free-distros.html\">Try GNU/Linux</a>"
 msgstr "<a href=\"/distros/free-distros.html\">Teste o GNU/Linux</a>"
 
 #. type: Content of: <div><div><div><div><a>
-msgid "<a href=\"/distros/screenshots/trisquel8-mate.jpg\">"
-msgstr "<a href=\"/distros/screenshots/trisquel8-mate.jpg\">"
+msgid "<a href=\"/distros/screenshots/dragora-ice.png\">"
+msgstr "<a href=\"/distros/screenshots/dragora-ice.png\">"
 
-#. type: Attribute 'alt' of: <div><div><div><table><tr><td><a><img>
-msgid "&nbsp;[Screenshot of Trisquel&nbsp;8 with MATE desktop]&nbsp;"
-msgstr "&nbsp;[Captura de tela de Trisquel&nbsp;8 com o MATE desktop]&nbsp;"
+#. type: Attribute 'alt' of: <div><div><table><tr><td><a><img>
+msgid ""
+"&nbsp;[Screenshot of Dragora&nbsp;3.0-beta1 with IceWM window manager]&nbsp;"
+msgstr ""
+"&nbsp;[Captura de tela de Dragora&nbsp;3.0-beta1 com o gerenciador de janela "
+"IceWM]&nbsp;"
 
 #. type: Content of: <div><div><div><h3>
 msgid "</a>"
@@ -102,19 +113,19 @@ msgstr "</a>"
 
 #. type: Content of: <div><div><div><p>
 msgid ""
-"<small><a href=\"https://trisquel.info\">Trisquel&nbsp;8</a> with <a href="
-"\"https://mate-desktop.org/\">MATE</a> desktop, Abrowser (web browser), and "
-"Inkscape (vector graphics editor)</small>"
+"<small><a href=\"https://dragora.org/en/index.html\"> Dragora&nbsp;3.0-"
+"beta1</a> with customized <a href=\"https://ice-wm.org/\"> IceWM</a> window "
+"manager</small>"
 msgstr ""
-"<small><a href=\"https://trisquel.info\">Trisquel&nbsp;8</a> com <a href="
-"\"https://mate-desktop.org/\">MATE</a> desktop, Abrowser (navegador web) e "
-"Inkscape (editor de gráficos vetoriais)</small>"
+"<small><a href=\"https://dragora.org/en/index.html\"> Dragora&nbsp;3.0-"
+"beta1</a> com um gerenciador de janela <a href=\"https://ice-wm.org/\"> "
+"IceWM</a> personalizado</small>"
 
 #. type: Content of: <div><div><div><div><a>
 msgid "<a href=\"/distros/screenshots/guixSD-gnome3.jpg\">"
 msgstr "<a href=\"/distros/screenshots/guixSD-gnome3.jpg\">"
 
-#. type: Attribute 'alt' of: <div><div><div><div><a><img>
+#. type: Attribute 'alt' of: <div><div><table><tr><td><a><img>
 msgid "&nbsp;[Screenshot of Guix&nbsp;0.15 with GNOME&nbsp;3 desktop]&nbsp;"
 msgstr ""
 "&nbsp;[Captura de tela do Guix&nbsp;0.15 com GNOME&nbsp;3 desktop]&nbsp;"
@@ -130,10 +141,31 @@ msgstr ""
 "reprodutor de vídeo Totem e emulador de terminal do GNOME</small>"
 
 #. type: Content of: <div><div><div><div><a>
+msgid "<a href=\"/distros/screenshots/hyperbola-i3.png\">"
+msgstr "<a href=\"/distros/screenshots/hyperbola-i3.png\">"
+
+#. type: Attribute 'alt' of: <div><div><div><div><a><img>
+msgid "&nbsp;[Screenshot of Hyperbola with i3 window manager]&nbsp;"
+msgstr ""
+"&nbsp;[Captura de tela de Hyberbola com o gerenciador de janela i3]&nbsp;"
+
+#. type: Content of: <div><div><div><p>
+msgid ""
+"<small><a href=\"https://www.hyperbola.info/\"> Hyperbola&nbsp;0.3</a> with "
+"<a href=\"https://i3wm.org/\">i3 window manager</a>, cool-retro-term "
+"(terminal emulator), Gimp (image editor), and Iceweasel-UXP (web browser)</"
+"small>"
+msgstr ""
+"<small><a href=\"https://www.hyperbola.info/\"> Hyperbola&nbsp;0.3</a> com "
+"<a href=\"https://i3wm.org/\">gerenciador de janela i3</a>, cool-retro-term "
+"(emulador de terminal), Gimp (editor de imagens) e Iceweasel-UXP (navegador "
+"web)</small>"
+
+#. type: Content of: <div><div><div><div><a>
 msgid "<a href=\"/distros/screenshots/pureos8-gnome3.jpg\">"
 msgstr "<a href=\"/distros/screenshots/pureos8-gnome3.jpg\">"
 
-#. type: Attribute 'alt' of: <div><div><div><table><tr><td><a><img>
+#. type: Attribute 'alt' of: <div><div><table><tr><td><a><img>
 msgid "&nbsp;[Screenshot of PureOS&nbsp;8 with GNOME&nbsp;3 desktop]&nbsp;"
 msgstr ""
 "&nbsp;[Captura de tela do PureOS&nbsp;8 com GNOME&nbsp;3 desktop]&nbsp;"
@@ -148,34 +180,69 @@ msgstr ""
 "\"https://www.gnome.org/\">GNOME&nbsp;3</a> desktop, PureBrowser (navegador "
 "web) e Gimp (editor de imagem)</small>"
 
-#. type: Content of: <div><div><div><table><tr><td><a>
-msgid "<a href=\"/home.html?distro=trisquel8#gnu-linux\">"
-msgstr "<a href=\"/home.html?distro=trisquel8#gnu-linux\">"
+#. type: Content of: <div><div><div><div><a>
+msgid "<a href=\"/distros/screenshots/trisquel8-mate.jpg\">"
+msgstr "<a href=\"/distros/screenshots/trisquel8-mate.jpg\">"
 
-#. type: Content of: <div><div><div><table><tr><td><a>
+#. type: Attribute 'alt' of: <div><div><table><tr><td><a><img>
+msgid "&nbsp;[Screenshot of Trisquel&nbsp;8 with MATE desktop]&nbsp;"
+msgstr "&nbsp;[Captura de tela de Trisquel&nbsp;8 com o MATE desktop]&nbsp;"
+
+#. type: Content of: <div><div><div><p>
+msgid ""
+"<small><a href=\"https://trisquel.info\">Trisquel&nbsp;8</a> with <a href="
+"\"https://mate-desktop.org/\">MATE</a> desktop, Abrowser (web browser), and "
+"Inkscape (vector graphics editor)</small>"
+msgstr ""
+"<small><a href=\"https://trisquel.info\">Trisquel&nbsp;8</a> com <a href="
+"\"https://mate-desktop.org/\">MATE</a> desktop, Abrowser (navegador web) e "
+"Inkscape (editor de gráficos vetoriais)</small>"
+
+#. type: Content of: <div><div><table><tr><td><a>
+msgid "<a href=\"/home.html?distro=dragora#gnu-linux\">"
+msgstr "<a href=\"/home.html?distro=dragora#gnu-linux\">"
+
+#. type: Content of: <div><div><table><tr><td><a>
 msgid "<a href=\"/home.html?distro=guix#gnu-linux\">"
 msgstr "<a href=\"/home.html?distro=guix#gnu-linux\">"
 
-#. type: Attribute 'alt' of: <div><div><div><table><tr><td><a><img>
-msgid "&nbsp;[Screenshot of GuixSD&nbsp;0.15 with GNOME&nbsp;3 desktop]&nbsp;"
+#. type: Content of: <div><div><table><tr><td><a>
+msgid "<a href=\"/home.html?distro=hyperbola#gnu-linux\">"
+msgstr "<a href=\"/home.html?distro=hyperbola#gnu-linux\">"
+
+#. type: Attribute 'alt' of: <div><div><table><tr><td><a><img>
+msgid "&nbsp;[Screenshot of Hyperbola&nbsp;0.3 with i3 window manager]&nbsp;"
 msgstr ""
-"&nbsp;[Captura de tela do GuixSD&nbsp;0.15 com GNOME&nbsp;3 desktop]&nbsp;"
+"&nbsp;[Captura de tela de Hyberbola&nbsp;0.3 com o gerenciador de janela i3]"
+"&nbsp;"
 
-#. type: Content of: <div><div><div><table><tr><td><a>
-msgid "<a href=\"/home.html?distro=pureos8#gnu-linux\">"
-msgstr "<a href=\"/home.html?distro=pureos8#gnu-linux\">"
+#. type: Content of: <div><div><table><tr><td><a>
+msgid "<a href=\"/home.html?distro=pureos#gnu-linux\">"
+msgstr "<a href=\"/home.html?distro=pureos#gnu-linux\">"
 
-#. type: Content of: <div><div><div><table><tr><td>
-msgid "<small>Trisquel&nbsp;8 &amp; MATE</small>"
-msgstr "<small>Trisquel&nbsp;8 &amp; MATE</small>"
+#. type: Content of: <div><div><table><tr><td><a>
+msgid "<a href=\"/home.html?distro=trisquel#gnu-linux\">"
+msgstr "<a href=\"/home.html?distro=trisquel#gnu-linux\">"
 
-#. type: Content of: <div><div><div><table><tr><td>
-msgid "<small>Guix &amp; GNOME&nbsp;3</small>"
-msgstr "<small>Guix &amp; GNOME&nbsp;3</small>"
+#. type: Content of: <div><div><table><tr><td>
+msgid "<small>Dragora / IceWM</small>"
+msgstr "<small>Dragora / IceWM</small>"
 
-#. type: Content of: <div><div><div><table><tr><td>
-msgid "<small>PureOS&nbsp;8 &amp; GNOME&nbsp;3</small>"
-msgstr "<small>PureOS&nbsp;8 &amp; GNOME&nbsp;3</small>"
+#. type: Content of: <div><div><table><tr><td>
+msgid "<small>Guix / GNOME3</small>"
+msgstr "<small>Guix / GNOME3</small>"
+
+#. type: Content of: <div><div><table><tr><td>
+msgid "<small>Hyperbola / i3</small>"
+msgstr "<small>Hyperbola / i3</small>"
+
+#. type: Content of: <div><div><table><tr><td>
+msgid "<small>PureOS / GNOME3</small>"
+msgstr "<small>PureOS / GNOME3</small>"
+
+#. type: Content of: <div><div><table><tr><td>
+msgid "<small>Trisquel / MATE</small>"
+msgstr "<small>Trisquel / MATE</small>"
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -355,26 +422,24 @@ msgstr ""
 msgid "<a href=\"/gnu/gnu.html\">More information</a>"
 msgstr "<a href=\"/gnu/gnu.html\">Mais informação</a>"
 
-#. type: Content of: <div><div><div><h3><a>
+#. type: Content of: <div><div><div><p>
 msgid ""
-"<a href=\"https://planet.gnu.org/\">Planet GNU</a> <a href=\"https://planet."
-"gnu.org/rss20.xml\">"
+"<strong>The GNU Project strongly urges the community to communicate in ways "
+"that are friendly, welcoming and kind. See the <a href=\"/philosophy/kind-"
+"communication.html\"> GNU Kind Communications Guidelines</a></strong>."
 msgstr ""
-"<a href=\"https://planet.gnu.org/\">Planeta GNU</a> <a href=\"https://planet."
-"gnu.org/rss20.xml\">"
+"<strong>O Projeto GNU insiste fortemente que a comunidade se comunique em "
+"formas que sejam amistosas, receptivas e gentis. Veja as <a href=\"/"
+"philosophy/kind-communication.html\"> Diretrizes de Comunicação Gentil do "
+"GNU</a></strong>."
+
+#. type: Content of: <div><div><div><h3><a>
+msgid "Planet GNU <a href=\"https://planet.gnu.org/rss20.xml\">"
+msgstr "Planet GNU <a href=\"https://planet.gnu.org/rss20.xml\">"
 
 #. type: Attribute 'alt' of: <div><div><div><h3><a><img>
 msgid "RSS Feed"
 msgstr "RSS Feed"
-
-#. type: Content of: <div><div><div><p>
-msgid ""
-"For more news, see <a href=\"http://planet.gnu.org/\">Planet GNU</a> and the "
-"list of <a href=\"/software/recent-releases.html\">recent GNU releases</a>."
-msgstr ""
-"Para mais notícias, acesse <a href=\"http://planet.gnu.org/\">Planet GNU</a> "
-"e a lista de <a href=\"/software/recent-releases.html\">lançamentos recentes "
-"GNU</a>."
 
 #. type: Content of: <div><div><div><h3>
 msgid "Take Action"
@@ -620,6 +685,20 @@ msgid "Updated:"
 msgstr "Última atualização:"
 
 #~ msgid ""
+#~ "&nbsp;[Screenshot of GuixSD&nbsp;0.15 with GNOME&nbsp;3 desktop]&nbsp;"
+#~ msgstr ""
+#~ "&nbsp;[Captura de tela do GuixSD&nbsp;0.15 com GNOME&nbsp;3 desktop]&nbsp;"
+
+#~ msgid ""
+#~ "For more news, see <a href=\"http://planet.gnu.org/\">Planet GNU</a> and "
+#~ "the list of <a href=\"/software/recent-releases.html\">recent GNU "
+#~ "releases</a>."
+#~ msgstr ""
+#~ "Para mais notícias, acesse <a href=\"http://planet.gnu.org/\">Planet GNU</"
+#~ "a> e a lista de <a href=\"/software/recent-releases.html\">lançamentos "
+#~ "recentes GNU</a>."
+
+#~ msgid ""
 #~ "<strong>Can you contribute to any of these <a href=\"//www.fsf.org/"
 #~ "campaigns/priority-projects/\">High Priority Areas</a>?</strong> Free "
 #~ "phone operating system; decentralization, federation, and self-hosting; "
@@ -645,17 +724,8 @@ msgstr "Última atualização:"
 #~ msgid "<a href=\"/software/halifax/\">halifax</a>"
 #~ msgstr "<a href=\"/software/halifax/\">halifax</a>"
 
-#~ msgid "<a href=\"/distros/screenshots/gnome3-medium.jpg\">"
-#~ msgstr "<a href=\"/distros/screenshots/gnome3-medium.jpg\">"
-
 #~ msgid "&nbsp;[Screenshot of GNOME&nbsp;3 desktop]&nbsp;"
 #~ msgstr "&nbsp;[Captura de tela do GNOME&nbsp;3 desktop]&nbsp;"
-
-#~ msgid "<a href=\"/home.html?distro=gnome3#gnu-linux\">"
-#~ msgstr "<a href=\"/home.html?distro=gnome3#gnu-linux\">"
-
-#~ msgid "<small>GNOME&nbsp;3</small>"
-#~ msgstr "<small>GNOME&nbsp;3</small>"
 
 #~ msgid ""
 #~ "&nbsp;[Screenshot of Trisquel&nbsp;7 with Gnome Classic desktop]&nbsp;"
