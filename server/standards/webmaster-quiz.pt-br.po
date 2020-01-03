@@ -1,12 +1,12 @@
 # Brazilian Portuguese translation of https://www.gnu.org/server/standards/webmaster-quiz.html
 # Copyright (C) 2017 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2017, 2018.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017-2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: webmaster-quiz.html\n"
-"POT-Creation-Date: 2018-08-29 12:56+0000\n"
-"PO-Revision-Date: 2018-08-30 12:51-0200\n"
+"POT-Creation-Date: 2020-01-02 03:55+0000\n"
+"PO-Revision-Date: 2020-01-03 16:32-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -76,19 +76,30 @@ msgstr ""
 
 #. type: Content of: <ol><li>
 msgid ""
-"In your own words, what is the Free Software Foundation, and what is its "
-"purpose?"
+"In your own words, what is the GNU operating system, and what is its purpose?"
 msgstr ""
-"Com suas próprias palavras, o que é a Free Software Foundation e qual o seu "
+"Em suas próprias palavras, o que é o sistema operacional GNU e qual o seu "
 "propósito?"
 
 #. type: Content of: <ol><li>
-msgid "What is open source?"
-msgstr "O que é código aberto?"
+msgid "What is the GNU Project?"
+msgstr "O que é o Projeto GNU?"
+
+#. type: Content of: <ol><li>
+msgid "What does a GNU package maintainer do?"
+msgstr "O que um mantenedor de pacote GNU faz?"
 
 #. type: Content of: <ol><li>
 msgid "What is free software?"
 msgstr "O que é o software livre?"
+
+#. type: Content of: <ol><li>
+msgid "What is open source, and how does it relate to free software?"
+msgstr "O que é código aberto e qual a relação deste com software livre?"
+
+#. type: Content of: <ol><li>
+msgid "What is the Free Software Foundation?"
+msgstr "O que é a Free Software Foundation?"
 
 #. type: Content of: <ol><li>
 msgid "Do you have any experience with graphic design?"
@@ -157,8 +168,10 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2008, 2009, 2014, 2018 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2008, 2009, 2014, 2018 Free Software Foundation, Inc."
+msgid ""
+"Copyright &copy; 2008, 2009, 2014, 2018, 2020 Free Software Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2008, 2009, 2014, 2018, 2020 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -175,12 +188,16 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Rafael Fontenelle\n"
-"<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, 2017"
+"<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, 2017, "
+"2018, 2020"
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid "What is open source?"
+#~ msgstr "O que é código aberto?"
 
 #~ msgid ""
 #~ "You can usefully help with webmastering in as little as an hour a week, "

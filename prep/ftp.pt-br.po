@@ -5,8 +5,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ftp.html\n"
-"POT-Creation-Date: 2019-12-16 07:55+0000\n"
-"PO-Revision-Date: 2019-12-27 23:00-0200\n"
+"POT-Creation-Date: 2019-12-30 12:25+0000\n"
+"PO-Revision-Date: 2019-12-31 07:27-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -989,6 +989,26 @@ msgid ""
 msgstr ""
 "<a rel=\"nofollow\" href=\"http://ftp.twaren.net/Unix/GNU/gnu/\">http://ftp."
 "twaren.net/Unix/GNU/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"https://ftp.cse.yzu.edu.tw/gnu/\">https://ftp.cse."
+"yzu.edu.tw/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://ftp.cse.yzu.edu.tw/gnu/\">https://ftp.cse."
+"yzu.edu.tw/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://ftp.cse.yzu.edu.tw/gnu/\">http://ftp.cse."
+"yzu.edu.tw/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://ftp.cse.yzu.edu.tw/gnu/\">http://ftp.cse."
+"yzu.edu.tw/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "rsync://ftp.cse.yzu.edu.tw/pub/gnu/"
+msgstr "rsync://ftp.cse.yzu.edu.tw/pub/gnu/"
 
 #. type: Content of: <ul><li>
 msgid "Vietnam"
@@ -2323,16 +2343,13 @@ msgstr ""
 msgid "Updated:"
 msgstr "Última atualização:"
 
+#, fuzzy
+#~| msgid ""
+#~| "<a rel=\"nofollow\" href=\"http://ftp.yzu.edu.tw/gnu/\">http://ftp.yzu."
+#~| "edu.tw/gnu/</a>"
 #~ msgid ""
-#~ "<a rel=\"nofollow\" href=\"https://ftp.yzu.edu.tw/gnu/\">https://ftp.yzu."
-#~ "edu.tw/gnu/</a>"
-#~ msgstr ""
-#~ "<a rel=\"nofollow\" href=\"https://ftp.yzu.edu.tw/gnu/\">https://ftp.yzu."
-#~ "edu.tw/gnu/</a>"
-
-#~ msgid ""
-#~ "<a rel=\"nofollow\" href=\"http://ftp.yzu.edu.tw/gnu/\">http://ftp.yzu."
-#~ "edu.tw/gnu/</a>"
+#~ "<a rel=\"nofollow\" href=\"http://ftp.yzu.edu.tw/gnu\">http://ftp.yzu.edu."
+#~ "tw/gnu</a>"
 #~ msgstr ""
 #~ "<a rel=\"nofollow\" href=\"http://ftp.yzu.edu.tw/gnu/\">http://ftp.yzu."
 #~ "edu.tw/gnu/</a>"
@@ -2350,6 +2367,3 @@ msgstr "Última atualização:"
 #~ msgstr ""
 #~ "<a rel=\"nofollow\" href=\"https://ftp.yzu.edu.tw/pub/gnu/\">https://ftp."
 #~ "yzu.edu.tw/pub/gnu/</a>"
-
-#~ msgid "rsync://ftp.yzu.edu.tw/pub/gnu/"
-#~ msgstr "rsync://ftp.yzu.edu.tw/pub/gnu/"

@@ -1,14 +1,14 @@
 # Brazilian Portuguese translation of https://www.gnu.org/home.html
-# Copyright (C) 2019 Free Software Foundation, Inc.
+# Copyright (C) 2020 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # André Phellip Ferreira <werewolf@cyberdude.com>, 2017.
 # Daniel Pimentel <d4n1@d4n1.org>, 2017. (proofread)
-# Rafael Fontenelle <rafaelff@gnome.org>, 2018, 2019.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018-2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: home.html\n"
-"POT-Creation-Date: 2019-12-27 06:55+0000\n"
-"PO-Revision-Date: 2019-12-27 07:27-0200\n"
+"POT-Creation-Date: 2020-01-01 05:26+0000\n"
+"PO-Revision-Date: 2020-01-01 10:49-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -162,6 +162,22 @@ msgstr ""
 "web)</small>"
 
 #. type: Content of: <div><div><div><div><a>
+msgid "<a href=\"/distros/screenshots/parabola2020-lxde.jpg\">"
+msgstr "<a href=\"/distros/screenshots/parabola2020-lxde.jpg\">"
+
+#. type: Attribute 'alt' of: <div><div><div><div><a><img>
+msgid "&nbsp;[Screenshot of Parabola with LXDE desktop]&nbsp;"
+msgstr "&nbsp;[Captura de tela de Parabola com LXDE desktop]&nbsp;"
+
+#. type: Content of: <div><div><div><p>
+msgid ""
+"<small><a href=\"https://www.parabola.nu\">Parabola&nbsp;2020</a> with <a "
+"href=\"https://lxde.org/\">LXDE desktop</a></small>"
+msgstr ""
+"<small><a href=\"https://www.parabola.nu\">Parabola&nbsp;2020</a> com <a "
+"href=\"https://lxde.org/\">LXDE desktop</a></small>"
+
+#. type: Content of: <div><div><div><div><a>
 msgid "<a href=\"/distros/screenshots/pureos8-gnome3.jpg\">"
 msgstr "<a href=\"/distros/screenshots/pureos8-gnome3.jpg\">"
 
@@ -217,6 +233,14 @@ msgstr ""
 "&nbsp;"
 
 #. type: Content of: <div><div><table><tr><td><a>
+msgid "<a href=\"/home.html?distro=parabola#gnu-linux\">"
+msgstr "<a href=\"/home.html?distro=parabola#gnu-linux\">"
+
+#. type: Attribute 'alt' of: <div><div><table><tr><td><a><img>
+msgid "&nbsp;[Screenshot of Parabola&nbsp;2020 with LXDE desktop]&nbsp;"
+msgstr "&nbsp;[Captura de tela de Parabola&nbsp;2020 com LXDE desktop]&nbsp;"
+
+#. type: Content of: <div><div><table><tr><td><a>
 msgid "<a href=\"/home.html?distro=pureos#gnu-linux\">"
 msgstr "<a href=\"/home.html?distro=pureos#gnu-linux\">"
 
@@ -235,6 +259,10 @@ msgstr "<small>Guix / GNOME3</small>"
 #. type: Content of: <div><div><table><tr><td>
 msgid "<small>Hyperbola / i3</small>"
 msgstr "<small>Hyperbola / i3</small>"
+
+#. type: Content of: <div><div><table><tr><td>
+msgid "<small>Parabola / LXDE</small>"
+msgstr "<small>Parabola / LXDE</small>"
 
 #. type: Content of: <div><div><table><tr><td>
 msgid "<small>PureOS / GNOME3</small>"
@@ -443,7 +471,7 @@ msgstr "RSS Feed"
 
 #. type: Content of: <div><div><div><h3>
 msgid "Take Action"
-msgstr "Tome Partido"
+msgstr "Entre em ação"
 
 #. type: Content of: <div><div><div><ul><li>
 msgid ""
@@ -653,10 +681,10 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 1996-2019 <a href=\"http://www.fsf.org\">Free Software "
+"Copyright &copy; 1996-2020 <a href=\"http://www.fsf.org\">Free Software "
 "Foundation</a>, Inc."
 msgstr ""
-"Copyright &copy; 1996-2019 <a href=\"http://www.fsf.org\">Free Software "
+"Copyright &copy; 1996-2020 <a href=\"http://www.fsf.org\">Free Software "
 "Foundation</a>, Inc."
 
 #. type: Content of: <div><p>

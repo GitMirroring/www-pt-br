@@ -1,13 +1,13 @@
 # Brazilian Portuguese translation of http://www.gnu.org/gnu/gnu.html
-# Copyright (C) 2018 Free Software Foundation, Inc.
+# Copyright (C) 2020 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Yuri da Silva <yuri.silva.31.charles AT gmail.com>, 2014 (RT #968979).
-# Rafael Fontenelle <rafaelff@gnome.org>, 2016, 2018.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2016-2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: gnu.html\n"
-"POT-Creation-Date: 2016-09-29 14:55+0000\n"
-"PO-Revision-Date: 2018-01-22 07:46-0200\n"
+"POT-Creation-Date: 2020-01-01 05:25+0000\n"
+"PO-Revision-Date: 2020-01-01 10:49-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -242,8 +242,10 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2014, 2015, 2016 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2014, 2015, 2016 Free Software Foundation, Inc."
+msgid ""
+"Copyright &copy; 2014, 2015, 2016, 2019, 2020 Free Software Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2014, 2015, 2016, 2019, 2020 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -261,12 +263,20 @@ msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "<strong>Traduzido por</strong>: Yuri da Silva, 2014; \n"
 "Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome."
-"org&gt;</a>, 2016, 2018."
+"org&gt;</a>, 2016, 2018, 2019."
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid ""
+#~ "Copyright &copy; 2014, 2015, 2016, 2019 Free Software Foundation, Inc."
+#~ msgstr ""
+#~ "Copyright &copy; 2014, 2015, 2016, 2019 Free Software Foundation, Inc."
+
+#~ msgid "Copyright &copy; 2014, 2015, 2016 Free Software Foundation, Inc."
+#~ msgstr "Copyright &copy; 2014, 2015, 2016 Free Software Foundation, Inc."
 
 #~ msgid ""
 #~ "#dynamic-duo {\n"

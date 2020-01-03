@@ -1,12 +1,12 @@
 # Brazilian Portuguese translation of https://www.gnu.org/planetfeeds.html
 # Copyright (C) 2019 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2018-2019.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018-2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: planetfeeds.html\n"
-"POT-Creation-Date: 2019-12-23 14:56+0000\n"
-"PO-Revision-Date: 2019-12-27 07:29-0200\n"
+"POT-Creation-Date: 2020-01-02 05:56+0000\n"
+"PO-Revision-Date: 2020-01-03 16:40-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <gnome-pt_br-list@gnome.org>\n"
 "Language: pt_BR\n"
@@ -17,50 +17,120 @@ msgstr ""
 "X-Generator: Virtaal 1.0.0-beta1\n"
 
 #. type: Content of: <p>
-msgid "GNU Parallel 20191222 (&#39;Impeachment&#39;) released [stable]"
-msgstr "GNU Parallel 20191222 (&#39;Impeachment&#39;) lançado [estável]"
+msgid "Bison 3.5 released [stable]"
+msgstr "Bison 3.5 lançado [estável]"
 
 #.  TRANSLATORS: 
-#. http://savannah.gnu.org/forum/forum.php?forum_id=9632 
+#. http://savannah.gnu.org/forum/forum.php?forum_id=9639 
 #. type: Content of: <p>
 msgid ""
-": GNU Parallel 20191222 (&#39;Impeachment&#39;) [stable] has been released. "
-"It is available for download at: http://ftpmirror.gn..."
+": We are very happy to announce the release of Bison 3.5, the best release "
+"ever of Bison! Better than 3.4, although it was a big improvement over 3.3, "
+"which was hug..."
 msgstr ""
-": GNU Parallel 20191222 (&#39;Impeachment&#39;) [estável] foi lançado. Está "
-"disponível para download em: http://ftpmirror.gnu..."
+": Estamos muito felizes em anunciar o lançamento do Bison 3.5, o melhor "
+"lançamento de todos os tempos! Melhor que 3,4, embora tenha sido uma grande "
+"melhoria em relação..."
 
 #. type: Content of: <p>
-msgid ""
-"Raleigh, North Carolina: good BBQ and great outreach for free software "
-"knowledge."
-msgstr ""
-"Raleigh, Carolina do Norte: bom churrasco e grande alcance para o "
-"conhecimento de software livre."
+msgid "2019 summary"
+msgstr "Resumo 2019"
 
 #.  TRANSLATORS: 
-#. http://www.fsf.org/blogs/licensing/raleigh-north-carolina-good-bbq-and-great-outreach-for-free-software-knowledge 
+#. http://savannah.gnu.org/forum/forum.php?forum_id=9638 
 #. type: Content of: <p>
 msgid ""
-": We recently posted a lengthy write-up of the licensing team’s activities "
-"in 2019. Although we have been real..."
+": By GNU Dear GNU translators! This year, the number of new translations was "
+"similar to 2018, but our active teams generally tracked the changes in the "
+"original articles more clos..."
 msgstr ""
-": Publicamos recentemente uma extensa descrição das atividades da equipe de "
-"licenciamento em 2019. Embora tenhamos..."
+": Por GNU Caros tradutores do GNU! Este ano, o número de novas traduções foi "
+"semelhante a 2018, mas nossas equipes ativas geralmente acompanharam mais as "
+"mudanças nos artigos originais..."
 
 #. type: Content of: <p>
-msgid "The FSF can&#39;t campaign for free software without your help"
-msgstr "A FSF não pode fazer campanha por software livre sem a sua ajuda"
+msgid "201X in review"
+msgstr "201X em análise"
 
 #.  TRANSLATORS: 
-#. http://www.fsf.org/blogs/community/the-fsf-cant-campaign-for-free-software-without-your-help 
+#. http://dustycloud.org/blog/201X-in-review/ 
 #. type: Content of: <p>
 msgid ""
-": The Free Software Foundation&#39;s (FSF) campaigns team works tirelessly "
-"to spread the message to the world that all software m..."
+": Well, this has been a big decade for me.  At the close of 200X I was still "
+"very young as a programmer, had just gotten married to Morgan, had just "
+"started my job at Creative Co..."
 msgstr ""
-": A equipe de campanhas da Free Software Foundation (FSF) trabalha "
-"incansavelmente para espalhar a mensagem ao mundo de que todo..."
+": Bem, esta foi uma grande década para mim. No final do 200X, eu ainda era "
+"muito jovem como programador, tinha acabado de se casar com Morgan, tinha "
+"acabado de começar meu trabalho..."
+
+#~ msgid "PSPP now supports .spv files"
+#~ msgstr "PSPP agora possui suporte a arquivos .spv"
+
+#~ msgid ""
+#~ ": I just pushed support for SPV files to the master branch of PSPP. This "
+#~ "means a number of new features: * There is a new program \"pspp-output\" "
+#~ "that can convert .s..."
+#~ msgstr ""
+#~ ": Acabei de enviar o suporte para arquivos SPV para o ramo principal do "
+#~ "PSPP. Isso significa uma série de novos recursos: * Há um novo programa "
+#~ "“pspp-output” que..."
+
+#~ msgid "Noncommercial Doesn&#39;t Compose (and it never will)"
+#~ msgstr "Não-Comercial não compõe (e nunca irá)"
+
+#~ msgid ""
+#~ ": NOTE: I actually posted this some time ago on license-discuss and some "
+#~ "people suggested that I blog it. A good idea, which I never did..."
+#~ msgstr ""
+#~ ": NOTA: Na verdade, eu publiquei isso há algum tempo na discussão de "
+#~ "licenças e algumas pessoas sugeriram que eu publicasse no blog. Uma..."
+
+#~ msgid "Bringing the free software vision to 2020"
+#~ msgstr "Trazendo a visão do software livre para 2020"
+
+#~ msgid ""
+#~ ": 2019 has been an eye-opening, transformative year for free software and "
+#~ "the Free Software Foundation (FSF), bringing some major changes both "
+#~ "interna..."
+#~ msgstr ""
+#~ ": 2019 foi um ano revelador e transformador para o software livre e a "
+#~ "Free Software Foundation (FSF), trazendo algumas mudanças importantes, "
+#~ "tanto intern..."
+
+#~ msgid "GNU Parallel 20191222 (&#39;Impeachment&#39;) released [stable]"
+#~ msgstr "GNU Parallel 20191222 (&#39;Impeachment&#39;) lançado [estável]"
+
+#~ msgid ""
+#~ ": GNU Parallel 20191222 (&#39;Impeachment&#39;) [stable] has been "
+#~ "released. It is available for download at: http://ftpmirror.gn..."
+#~ msgstr ""
+#~ ": GNU Parallel 20191222 (&#39;Impeachment&#39;) [estável] foi lançado. "
+#~ "Está disponível para download em: http://ftpmirror.gnu..."
+
+#~ msgid ""
+#~ "Raleigh, North Carolina: good BBQ and great outreach for free software "
+#~ "knowledge."
+#~ msgstr ""
+#~ "Raleigh, Carolina do Norte: bom churrasco e grande alcance para o "
+#~ "conhecimento de software livre."
+
+#~ msgid ""
+#~ ": We recently posted a lengthy write-up of the licensing team’s "
+#~ "activities in 2019. Although we have been real..."
+#~ msgstr ""
+#~ ": Publicamos recentemente uma extensa descrição das atividades da equipe "
+#~ "de licenciamento em 2019. Embora tenhamos..."
+
+#~ msgid "The FSF can&#39;t campaign for free software without your help"
+#~ msgstr "A FSF não pode fazer campanha por software livre sem a sua ajuda"
+
+#~ msgid ""
+#~ ": The Free Software Foundation&#39;s (FSF) campaigns team works "
+#~ "tirelessly to spread the message to the world that all software m..."
+#~ msgstr ""
+#~ ": A equipe de campanhas da Free Software Foundation (FSF) trabalha "
+#~ "incansavelmente para espalhar a mensagem ao mundo de que todo..."
 
 #~ msgid "Defective by Design: A resistance to restrictions"
 #~ msgstr "Defective by Design: Uma resistências a restrições"
@@ -431,9 +501,6 @@ msgstr ""
 #~ ": O Python possui esse módulo de logging útil desde julho de 2003. Muitas "
 #~ "coisas o usam, então se você está tentando entender ou depurar algum "
 #~ "código Python, um snippet útil para..."
-
-#~ msgid "parted-3.3 released [stable]"
-#~ msgstr "parted-3.3 lançado [estável]"
 
 #~ msgid ""
 #~ ": Parted 3.3 has been released. This release includes many bug fixes and "
@@ -1881,15 +1948,6 @@ msgstr ""
 #~ msgstr ""
 #~ ": Essa palestra de Richard Stallman não será técnica e estará aberta ao "
 #~ "público; todos estão convidados a participar..."
-
-#~ msgid ""
-#~ ": We would have been happy not to have to announce the release of Bison "
-#~ "3.2.1, which fixes portability issues of Bison 3.2. Bison 3.2 brought "
-#~ "massive improvements..."
-#~ msgstr ""
-#~ ": Teríamos ficado felizes em não ter que anunciar o lançamento do Bison "
-#~ "3.2.1, que corrige problemas de portabilidade do Bison 3.2. Bison 3.2 "
-#~ "trouxe melhorias massivas..."
 
 #~ msgid ""
 #~ ": This position, reporting to the executive director, works closely with "

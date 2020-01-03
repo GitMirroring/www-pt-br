@@ -1,0 +1,613 @@
+# Brazilian Portuguese translation of https://www.gnu.org/philosophy/government-free-software.html
+# Copyright (C) 2019 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2019.
+# Adonay Felipe Nogueira <adfeno@hyperbola.info>, 2019. (#15503)
+msgid ""
+msgstr ""
+"Project-Id-Version: government-free-software.html\n"
+"POT-Creation-Date: 2018-01-01 05:58+0000\n"
+"PO-Revision-Date: 2019-12-31 10:46-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid ""
+"Measures Governments Can Use to Promote Free Software - GNU Project - Free "
+"Software Foundation"
+msgstr ""
+"Medidas que os governos podem usar para promover o software livre - Projeto "
+"GNU - Free Software Foundation"
+
+#. type: Content of: <h2>
+msgid "Measures Governments Can Use to Promote Free Software"
+msgstr "Medidas que os governos podem usar para promover o software livre"
+
+#. type: Content of: <h3>
+msgid "And why it is their duty to do so"
+msgstr "E porque é o trabalho deles fazê-lo"
+
+#. type: Content of: <p>
+msgid ""
+"by <a href=\"http://www.stallman.org/\"><strong>Richard Stallman</strong></a>"
+msgstr ""
+"por <a href=\"http://www.stallman.org/\"><strong>Richard Stallman</strong></"
+"a>"
+
+#. type: Content of: <p>
+msgid ""
+"This article suggests policies for a strong and firm effort to promote free "
+"software within the state, and to lead the rest of the country towards "
+"software freedom."
+msgstr ""
+"Este artigo sugere políticas para um esforço forte e firme para promover o "
+"software livre no Estado e para liderar o resto do país em direção à "
+"liberdade de software."
+
+#. type: Content of: <p>
+msgid ""
+"The mission of the state is to organize society for the freedom and well-"
+"being of the people.  One aspect of this mission, in the computing field, is "
+"to encourage users to adopt free software: <a href=\"/philosophy/free-sw.html"
+"\">software that respects the users' freedom</a>.  A proprietary (non-free) "
+"program tramples the freedom of those that use it; it is a social problem "
+"that the state should work to eradicate."
+msgstr ""
+"A missão do Estado é organizar a sociedade para a liberdade e o bem-estar do "
+"povo. Um aspecto desta missão, no campo da computação, é incentivar os "
+"usuários a adotar software livre: <a href=\"/philosophy/free-sw.html"
+"\">software que respeite a liberdade dos usuários</a>. Um programa "
+"proprietário (não livre) atropela a liberdade daqueles que o usam; é um "
+"problema social que o Estado deve trabalhar para erradicar."
+
+#. type: Content of: <p>
+msgid ""
+"The state needs to insist on free software in its own computing for the sake "
+"of its computational sovereignty (the state's control over its own "
+"computing).  All users deserve control over their computing, but the state "
+"has a responsibility to the people to maintain control over the computing it "
+"does on their behalf.  Most government activities now depend on computing, "
+"and its control over those activities depends on its control over that "
+"computing.  Losing this control in an agency whose mission is critical "
+"undermines national security."
+msgstr ""
+"O Estado precisa insistir no software livre em sua própria computação, em "
+"prol de sua soberania computacional (o controle do Estado sobre sua própria "
+"computação). Todos os usuários merecem controle sobre sua computação, mas o "
+"Estado tem a responsabilidade de manter o controle sobre a computação em seu "
+"nome. A maioria das atividades do governo agora depende da computação, e seu "
+"controle sobre essas atividades depende do controle sobre essa computação. "
+"Perder esse controle em uma agência, cuja missão é crítica, mina a segurança "
+"nacional."
+
+#. type: Content of: <p>
+msgid ""
+"Moving state agencies to free software can also provide secondary benefits, "
+"such as saving money and encouraging local software support businesses."
+msgstr ""
+"Migrar as agências estatais para o software livre também pode fornecer "
+"benefícios secundários, como economizar dinheiro e incentivar as empresas "
+"locais de suporte a software."
+
+#. type: Content of: <p>
+msgid ""
+"In this text, &ldquo;state entities&rdquo; refers to all levels of "
+"government, and means public agencies including schools, public-private "
+"partnerships, largely state-funded activities such as charter schools, and "
+"&ldquo;private&rdquo; corporations controlled by the state or established "
+"with special privileges or functions by the state."
+msgstr ""
+"Neste texto, “entidades estatais” refere-se a todos os níveis de governo e "
+"significa agências públicas, incluindo escolas, parcerias público-privadas, "
+"atividades financiadas pelo Estado em grande parte, como escolas <i lang=\"en"
+"\">charter</i><sup><a id=\"TransNote1-rev\" href=\"#TransNote1\">1</a></sup> "
+"e empresas “privadas” controladas pelo Estado ou estabelecidas com "
+"privilégios especiais ou funções pelo Estado."
+
+#. type: Content of: <h3>
+msgid "Education"
+msgstr "Educação"
+
+#. type: Content of: <p>
+msgid ""
+"The most important policy concerns education, since that shapes the future "
+"of the country:"
+msgstr ""
+"A política mais importante diz respeito à educação, pois isso molda o futuro "
+"do país:"
+
+#. type: Content of: <ul><li>
+msgid "<b>Teach only free software</b>"
+msgstr "<b>Ensinar apenas software livre</b>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"Educational activities, or at least those of state entities, must teach only "
+"free software (thus, they should never lead students to use a nonfree "
+"program), and should teach the civic reasons for insisting on free "
+"software.  To teach a nonfree program is to teach dependence, which is "
+"contrary to the mission of the school."
+msgstr ""
+"As atividades educacionais, ou pelo menos as de entidades estatais, devem "
+"ensinar apenas software livre (portanto, nunca devem levar os alunos a usar "
+"um programa não livre) e devem ensinar as razões cívicas para insistir no "
+"software livre. Ensinar um programa não livre é ensinar dependência, o que é "
+"contrário à missão da escola."
+
+#. type: Content of: <h3>
+msgid "The State and the Public"
+msgstr "O Estado e o público"
+
+#. type: Content of: <p>
+msgid ""
+"Also crucial are state policies that influence what software individuals and "
+"organizations use:"
+msgstr ""
+"Também cruciais são as políticas estatais que influenciam em qual softwares "
+"os indivíduos e as organizações usam:"
+
+#. type: Content of: <ul><li><p>
+msgid "<b>Never require nonfree programs</b>"
+msgstr "<b>Nunca exigir programas não livres</b>"
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"Laws and public sector practices must be changed so that they never require "
+"or pressure individuals or organizations to use a nonfree program.  They "
+"should also discourage communication and publication practices that imply "
+"such consequences (including <a href=\"http://www.defectivebydesign.org/"
+"what_is_drm\">Digital Restrictions Management</a>)."
+msgstr ""
+"As leis e práticas do setor público devem ser alteradas para que nunca "
+"exijam ou pressionem indivíduos ou organizações a usar um programa não "
+"livre. Elas também devem desencorajar práticas de comunicação e publicação "
+"que impliquem tais consequências (incluindo <a href=\"http://www."
+"defectivebydesign.org/what_is_drm\">Gestão Digital de Restrições</a>)."
+
+#. type: Content of: <ul><li><p>
+msgid "<b>Distribute only free software</b>"
+msgstr "<b>Distribuir apenas software livre</b>"
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"Whenever a state entity distributes software to the public, including "
+"programs included in or specified by its web pages, it must be distributed "
+"as free software, and must be capable of running on a platform containing "
+"exclusively free software."
+msgstr ""
+"Sempre que uma entidade estatal distribuir software para o público, "
+"incluindo programas incluídos ou especificados em suas páginas web, ele deve "
+"ser distribuído como software livre e deve poder ser executado em uma "
+"plataforma que contenha software exclusivamente livre."
+
+#. type: Content of: <ul><li><p>
+msgid "<b>State web sites</b>"
+msgstr "<b>Sites estatais</b>"
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"State entity web sites and network services must be designed so that users "
+"can use them, without disadvantage, by means of free software exclusively."
+msgstr ""
+"Os sites das entidades estatais e os serviços de rede devem ser projetados "
+"para que os usuários possam usá-los, sem desvantagens, por meio de software "
+"livre exclusivamente."
+
+#. type: Content of: <ul><li><p>
+msgid "<b>Free formats and protocols</b>"
+msgstr "<b>Formatos e protocolos livres</b>"
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"State entities must use only file formats and communication protocols that "
+"are well supported by free software, preferably with published "
+"specifications.  (We do not state this in terms of &ldquo;standards&rdquo; "
+"because it should apply to nonstandardized interfaces as well as "
+"standardized ones.)  For example, they must not distribute audio or video "
+"recordings in formats that require Flash or nonfree codecs, and public "
+"libraries must not distribute works with Digital Restrictions Management."
+msgstr ""
+"As entidades estatais devem usar apenas formatos de arquivo e protocolos de "
+"comunicação que sejam bem suportados pelo software livre, de preferência com "
+"especificações publicadas. (Não declaramos isso em termos de “padrões” "
+"porque deve aplicar-se a interfaces não padronizadas e também a interfaces "
+"padronizadas.) Por exemplo, eles não devem distribuir gravações de áudio ou "
+"vídeo em formatos que exijam Flash ou codecs não livres, e as bibliotecas "
+"públicas devem não distribuir obras com Gestão Digital de Restrições."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"To support the policy of distributing publications and works in freedom-"
+"respecting formats, the state must insist that all reports developed for it "
+"be delivered in freedom-respecting formats."
+msgstr ""
+"Para apoiar a política de distribuição de publicações e obras em formatos "
+"que respeitem a liberdade, o Estado deve insistir em que todos os relatórios "
+"desenvolvidos para ela sejam entregues em formatos que respeitem a liberdade."
+
+#. type: Content of: <ul><li><p>
+msgid "<b>Untie computers from licenses</b>"
+msgstr "<b>Desprender computadores de licenças</b>"
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"Sale of computers must not require purchase of a proprietary software "
+"license.  The seller should be required by law to offer the purchaser the "
+"option of buying the computer without the proprietary software and without "
+"paying the license fee."
+msgstr ""
+"A venda de computadores não deve exigir a compra de uma licença de software "
+"proprietário. Por lei, o vendedor deve ser obrigado a oferecer ao comprador "
+"a opção de comprar o computador sem o software proprietário e sem pagar a "
+"taxa de licença."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"The imposed payment is a secondary wrong, and should not distract us from "
+"the essential injustice of proprietary software, the loss of freedom which "
+"results from using it.  Nonetheless, the abuse of forcing users to pay for "
+"it gives certain proprietary software developers an additional unfair "
+"advantage, detrimental to users' freedom.  It is proper for the state to "
+"prevent this abuse."
+msgstr ""
+"O pagamento imposto é um erro secundário e não deve nos distrair da "
+"injustiça essencial do software proprietário, da perda de liberdade "
+"resultante do uso dele. No entanto, o abuso de forçar os usuários a pagar "
+"por isso dá a certos desenvolvedores de software proprietário uma vantagem "
+"injusta adicional, prejudicial à liberdade dos usuários. É apropriado que o "
+"Estado impeça esse abuso."
+
+#. type: Content of: <h3>
+msgid "Computational Sovereignty"
+msgstr "Soberania computacional"
+
+#. type: Content of: <p>
+msgid ""
+"Several policies affect the computational sovereignty of the state.  State "
+"entities must maintain control over their computing, not cede control to "
+"private hands.  These points apply to all computers, including smartphones."
+msgstr ""
+"Várias políticas afetam a soberania computacional do Estado. As entidades "
+"estatais devem manter o controle sobre sua computação, não cedendo o "
+"controle a mãos privadas. Esses pontos se aplicam a todos os computadores, "
+"incluindo <i lang=\"en\">smartphones</i>."
+
+#. type: Content of: <ul><li><p>
+msgid "<b>Migrate to free software</b>"
+msgstr "<b>Migrar para software livre</b>"
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"State entities must migrate to free software, and must not install, or "
+"continue using, any nonfree software except under a temporary exception.  "
+"Only one agency should have the authority to grant these temporary "
+"exceptions, and only when shown compelling reasons.  This agency's goal "
+"should be to reduce the number of exceptions to zero."
+msgstr ""
+"As entidades estatais devem migrar para o software livre e não devem "
+"instalar ou continuar usando qualquer software não livre, exceto sob uma "
+"exceção temporária. Somente uma agência deve ter autoridade para conceder "
+"essas exceções temporárias e somente quando mostradas razões convincentes. O "
+"objetivo desta agência deve ser reduzir o número de exceções para zero."
+
+#. type: Content of: <ul><li><p>
+msgid "<b>Develop free IT solutions</b>"
+msgstr "<b>Desenvolver soluções de TI livres</b>"
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"When a state entity pays for development of a computing solution, the "
+"contract must require it be delivered as free software, and that it be "
+"designed such that one can both run it and develop it on a 100%-free "
+"environment.  All contracts must require this, so that if the developer does "
+"not comply with these requirements, the work cannot be paid for."
+msgstr ""
+"Quando uma entidade estatal paga pelo desenvolvimento de uma solução de "
+"computação, o contrato deve exigir que ela seja entregue como software livre "
+"e que seja projetada de modo que seja possível executá-la e desenvolvê-la em "
+"um ambiente 100% livre. Todos os contratos devem exigir isso, de modo que, "
+"se o desenvolvedor não cumprir esses requisitos, o trabalho não poderá ser "
+"pago."
+
+#. type: Content of: <ul><li><p>
+msgid "<b>Choose computers for free software</b>"
+msgstr "<b>Escolher computadores para software livre</b>"
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"When a state entity buys or leases computers, it must choose among the "
+"models that come closest, in their class, to being capable of running "
+"without any proprietary software.  The state should maintain, for each class "
+"of computers, a list of the models authorized based on this criterion.  "
+"Models available to both the public and the state should be preferred to "
+"models available only to the state."
+msgstr ""
+"Quando uma entidade estatal compra ou aluga computadores, deve escolher "
+"entre os modelos que mais se aproximam, em sua classe, de serem capazes de "
+"serem usados sem nenhum software proprietário. O Estado deve manter, para "
+"cada classe de computadores, uma lista dos modelos autorizados com base "
+"nesse critério. Os modelos disponíveis para o público e o Estado devem ser "
+"preferidos aos modelos disponíveis apenas para o Estado."
+
+#. type: Content of: <ul><li><p>
+msgid "<b>Negotiate with manufacturers</b>"
+msgstr "<b>Negociar com fabricantes</b>"
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"The state should negotiate actively with manufacturers to bring about the "
+"availability in the market (to the state and the public) of suitable "
+"hardware products, in all pertinent product areas, that require no "
+"proprietary software."
+msgstr ""
+"O Estado deve negociar ativamente com os fabricantes para obter a "
+"disponibilidade no mercado (para o Estado e o público) de produtos de "
+"hardware adequados, em todas as áreas de produtos pertinentes, que não "
+"exijam software proprietário."
+
+#. type: Content of: <ul><li><p>
+msgid "<b>Unite with other states</b>"
+msgstr "<b>Unir-se a outros entes estatais</b>"
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"The state should invite other states to negotiate collectively with "
+"manufacturers about suitable hardware products.  Together they will have "
+"more clout."
+msgstr ""
+"Os entes estatais deve convidar uns aos outros para negociar coletivamente "
+"com os fabricantes sobre produtos de hardware adequados. Juntos, eles terão "
+"mais influência."
+
+#. type: Content of: <h3>
+msgid "Computational Sovereignty II"
+msgstr "Soberania computacional II"
+
+#. type: Content of: <p>
+msgid ""
+"The computational sovereignty (and security) of the state includes control "
+"over the computers that do the state's work.  This requires avoiding <a href="
+"\"/philosophy/who-does-that-server-really-serve.html\"> Service as a "
+"Software Substitute</a>, unless the service is run by a state agency under "
+"the same branch of government, as well as other practices that diminish the "
+"state control over its computing.  Therefore,"
+msgstr ""
+"A soberania computacional (e segurança) do Estado inclui controle sobre os "
+"computadores que fazem o trabalho do Estado. Isso requer evitar <a href=\"/"
+"philosophy/who-does-that-server-really-serve.html\">Serviço como Substituto "
+"de Software</a>, a menos que o serviço seja executado por uma agência "
+"estatal sob o mesmo ramo de governo, bem como outras práticas que diminuem o "
+"controle estatal sobre sua computação. Portanto,"
+
+#. type: Content of: <ul><li>
+msgid "<b>State must control its computers</b>"
+msgstr "<b>O Estado deve controlar seus computadores</b>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"Every computer that the state uses must belong to or be leased by the same "
+"branch of government that uses it, and that branch must not cede to "
+"outsiders the right to decide who has physical access to the computer, who "
+"can do maintenance (hardware or software) on it, or what software should be "
+"installed in it.  If the computer is not portable, then while in use it must "
+"be in a physical space of which the state is the occupant (either as owner "
+"or as tenant)."
+msgstr ""
+"Todo computador que o Estado usa deve pertencer ou ser alugado pelo mesmo "
+"ramo de governo que o usa, e esse ramo não deve ceder aos estrangeiros o "
+"direito de decidir quem tem acesso físico ao computador, quem pode fazer "
+"manutenção (hardware ou software) nele, ou qual software deve ser instalado "
+"nele. Se o computador não for portátil, durante o uso, ele deverá estar em "
+"um espaço físico no qual o Estado é o ocupante (como proprietário ou como "
+"inquilino)."
+
+#. type: Content of: <h3>
+msgid "Influence Development"
+msgstr "Influência sobre desenvolvimento"
+
+#. type: Content of: <p>
+msgid "State policy affects free and nonfree software development:"
+msgstr ""
+"A política do Estado afeta o desenvolvimento de software livre e não livre:"
+
+#. type: Content of: <ul><li><p>
+msgid "<b>Encourage free</b>"
+msgstr "<b>Encorajar livre</b>"
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"The state should encourage developers to create or enhance free software and "
+"make it available to the public, e.g. by tax breaks and other financial "
+"incentive.  Contrariwise, no such incentives should be granted for "
+"development, distribution or use of nonfree software."
+msgstr ""
+"O Estado deve incentivar os desenvolvedores a criar ou aprimorar o software "
+"livre e disponibilizá-lo ao público, por exemplo, por incentivos fiscais e "
+"outros incentivos financeiros. Por outro lado, esses incentivos não devem "
+"ser concedidos para o desenvolvimento, distribuição ou uso de software não "
+"livre."
+
+#. type: Content of: <ul><li><p>
+msgid "<b>Don't encourage nonfree</b>"
+msgstr "<b>Não encorajar não livre</b>"
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"In particular, proprietary software developers should not be able to &ldquo;"
+"donate&rdquo; copies to schools and claim a tax write-off for the nominal "
+"value of the software.  Proprietary software is not legitimate in a school."
+msgstr ""
+"Em particular, os desenvolvedores de software proprietários não devem poder "
+"“doar” cópias para as escolas e reivindicar uma baixa de imposto pelo valor "
+"nominal do software. O software proprietário não é legítimo em uma escola."
+
+#. type: Content of: <h3>
+msgid "E-waste"
+msgstr "Lixo eletrônico"
+
+#. type: Content of: <p>
+msgid "Freedom should not imply e-waste:"
+msgstr "A liberdade não deve implicar lixo eletrônico:"
+
+#. type: Content of: <ul><li><p>
+msgid "<b>Replaceable software</b>"
+msgstr "<b>Software substituível</b>"
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"Many modern computers are designed to make it impossible to replace their "
+"preloaded software with free software.  Thus, the only way to free them is "
+"to junk them.  This practice is harmful to society."
+msgstr ""
+"Muitos computadores modernos são projetados para tornar impossível "
+"substituir o software de fábrica por software livre. Assim, a única maneira "
+"de libertá-los é descartá-los. Essa prática é prejudicial à sociedade."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"Therefore, it should be illegal, or at least substantially discouraged "
+"through heavy taxation, to sell, import or distribute in quantity a new "
+"computer (that is, not second-hand) or computer-based product for which "
+"secrecy about hardware interfaces or intentional restrictions prevent users "
+"from developing, installing and using replacements for any and all of the "
+"installed software that the manufacturer could upgrade.  This would apply, "
+"in particular, to any device on which <a href=\"/proprietary/proprietary-"
+"jails.html\">&ldquo;jailbreaking&rdquo;</a> is needed to install a different "
+"operating system, or in which the interfaces for some peripherals are secret."
+msgstr ""
+"Portanto, deve ser ilegal, ou pelo menos substancialmente desencorajado por "
+"meio de tributação pesada, a venda, importação ou distribuição em quantidade "
+"de um computador novo (ou seja, não usado) ou produto baseado em computador "
+"cujo sigilo sobre interfaces de hardware ou restrições intencionais impedir "
+"que os usuários desenvolvam, instalem e usem substituições para todo e "
+"qualquer software instalado que o fabricante possa atualizar. Isso se "
+"aplica, em particular, a qualquer dispositivo em que <a href=\"/proprietary/"
+"proprietary-jails.html\"><i lang=\"en\">“jailbreaking”</i></a> seja "
+"necessário para instalar um sistema operacional diferente ou no qual as "
+"interfaces para alguns periféricos são secretos."
+
+#. type: Content of: <h3>
+msgid "Technological neutrality"
+msgstr "Neutralidade tecnológica"
+
+#. type: Content of: <p>
+msgid ""
+"With the measures in this article, the state can recover control over its "
+"computing, and lead the country's citizens, businesses and organizations "
+"towards control over their computing.  However, some object on the grounds "
+"that this would violate the &ldquo;principle&rdquo; of technological "
+"neutrality."
+msgstr ""
+"Com as medidas deste artigo, o Estado pode recuperar o controle sobre sua "
+"computação e levar os cidadãos, empresas e organizações do país a controlar "
+"sua computação. No entanto, alguns contestam com o argumento de que isso "
+"violaria o “princípio” da neutralidade tecnológica."
+
+#. type: Content of: <p>
+msgid ""
+"The idea of technological neutrality is that the state should not impose "
+"arbitrary preferences on technical choices.  Whether that is a valid "
+"principle is disputable, but it is limited in any case to issues that are "
+"merely technical.  The measures advocated here address issues of ethical, "
+"social and political importance, so they are <a href=\"/philosophy/"
+"technological-neutrality.html\">outside the scope of <em>technological</em> "
+"neutrality</a>.  Only those who wish to subjugate a country would suggest "
+"that its government be &ldquo;neutral&rdquo; about its sovereignty or its "
+"citizens' freedom."
+msgstr ""
+"A ideia de neutralidade tecnológica é que o Estado não deve impor "
+"preferências arbitrárias às escolhas técnicas. Se esse princípio é válido, é "
+"discutível, mas, de qualquer forma, é limitado a questões meramente "
+"técnicas. As medidas aqui defendidas tratam de questões de importância "
+"ética, social e política, portanto estão <a href=\"/philosophy/technological-"
+"neutrality.html\">fora do escopo da neutralidade <em>tecnológica</em></a>. "
+"Somente aqueles que desejam subjugar um país sugerem que seu governo seja "
+"“neutro” em relação à sua soberania ou liberdade de seus cidadãos."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr ""
+"<b>Nota do tradutor</b>:\n"
+"<ol>\n"
+"<li>\n"
+"<a id=\"TransNote1\" href=\"#TransNote1-rev\" class=\"nounderline\">&#8593;</"
+"a> \n"
+"Uma escola <i lang=\"en\">charter</i> (em inglês, <i lang=\"en\">charter "
+"school</i>) é uma escola que recebe financiamento governamental, mas opera "
+"independentemente do sistema escolar estabelecido onde está localizada.\n"
+"</li>\n"
+"</ol>"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid ""
+"Copyright &copy; 2011, 2015, 2016, 2017, 2018 Free Software Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2011, 2015, 2016, 2017, 2018 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2019."
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização:"

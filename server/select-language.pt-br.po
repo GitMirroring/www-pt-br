@@ -1,14 +1,14 @@
 # Brazilian Portuguese translation of http://www.gnu.org/server/select-language.html
-# Copyright (C) 2017 Free Software Foundation, Inc.
+# Copyright (C) 2020 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2017.
 # Adonay Felipe Nogueira <adfeno@hyperbola.info>, 2017.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017, 2019, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: select-language.html\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-17 15:25+0000\n"
-"PO-Revision-Date: 2017-12-12 20:46-0200\n"
+"POT-Creation-Date: 2020-01-01 05:26+0000\n"
+"PO-Revision-Date: 2020-01-01 10:49-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -473,8 +473,8 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2015 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2015 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2015, 2019, 2020 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2015, 2019, 2020 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -491,7 +491,7 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
-"rafaelff@gnome.org&gt;</a>, 2017.\n"
+"rafaelff@gnome.org&gt;</a>, 2017, 2019.\n"
 "<br />Revisado por: Adonay \"adfeno\" Felipe Nogueira <a href=\"https://"
 "libreplanet.org/wiki/User:Adfeno\">&lt;https://libreplanet.org/wiki/User:"
 "Adfeno&gt;</a> <a href=\"mailto:adfeno@hyperbola.info\">&lt;adfeno@hyperbola."
@@ -501,3 +501,6 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid "Copyright &copy; 2015 Free Software Foundation, Inc."
+#~ msgstr "Copyright &copy; 2015 Free Software Foundation, Inc."

@@ -5,8 +5,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: mirror.html\n"
-"POT-Creation-Date: 2019-12-16 07:55+0000\n"
-"PO-Revision-Date: 2019-12-15 15:59-0200\n"
+"POT-Creation-Date: 2019-12-30 12:25+0000\n"
+"PO-Revision-Date: 2019-12-31 07:27-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -192,6 +192,10 @@ msgstr "<tt>rsync://ftp.kaist.ac.kr/gnu/</tt> (Coreia)"
 #. type: Content of: <dl><dd><p>
 msgid "<tt>rsync://mirror.ossplanet.net/gnu</tt> (Taiwan)"
 msgstr "<tt>rsync://mirror.ossplanet.net/gnu</tt> (Taiwan)"
+
+#. type: Content of: <dl><dd><p>
+msgid "<tt>rsync://ftp.cse.yzu.edu.tw/pub/gnu/</tt> (Taiwan)"
+msgstr "<tt>rsync://ftp.cse.yzu.edu.tw/pub/gnu/</tt> (Taiwan)"
 
 #. type: Content of: <dl><dt>
 msgid "Europe"
@@ -642,9 +646,6 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
-
-#~ msgid "<tt>rsync://ftp.yzu.edu.tw/pub/gnu/</tt> (Taiwan)"
-#~ msgstr "<tt>rsync://ftp.yzu.edu.tw/pub/gnu/</tt> (Taiwan)"
 
 #~ msgid ""
 #~ "Set up your web server configuration to avoid sending <tt>.gz.sig</tt> "
