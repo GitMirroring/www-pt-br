@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 #    Wrapper for gnun-init-po, using compendia and setting initial values
-#    Copyright (C) 2019 Rafael Fontenelle
+#    Copyright (C) 2020 Rafael Fontenelle
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU General Public License as published by
@@ -20,12 +20,16 @@
 # HOW TO USE
 #    From www-pt-br repository checkout, run
 #
-#       $ scripts/gnun-init-po /path/to/article_name.pot
+#       $ scripts/gnun-init-po filename.pot
 #    
 #    Or install this script in a directory in your PATH and run it as if
 #    it was the binary from GNUN
 #
-#       $ gnun-init-po /path/to/POT/file
+#       $ gnun-init-po filename.pot
+#
+#    Alternatively, you may pass more than one POT file:
+#
+#       $ gnun-init-po filename1.pot gnun-init-po filename2.pot
 #
 #    GNUN gnun-init-po's arguments work just fine as well, e.g. '--help'
 #    from the command help message (not from this wrapper script)
@@ -39,23 +43,27 @@
 #    strings using the resulting compendium, and setting the Gettext
 #    headers fields Language, Language-Team and Last-Translator.
 #
-#    Please notice that this script assumes the file master, compendium
-#    and init files exists in the teamdir. While master and compendium
-#    files can be obtained from www repo, the init file is creation of
-#    Brazilian Portuguese team. If you are in another team and does not
-#    have such file, just remove its references in here.
+#    NOTE: this script assumes the file master, compendium and init files
+#    exists in the teamdir. While master and compendium files can be
+#    obtained from www repo, the init file is creation of Brazilian
+#    Portuguese team. If you are in another team and does not have such 
+#    file, just remove its references in here or consider adding it.
 
-# Change the values below to your liking, mainly the translator's info.
-# These will be written to the output PO file
+### Variables -- Change to your liking  ######
+#
 team='Brazilian Portuguese <www-pt-br-general@gnu.org>'
-translator='Rafael Fontenelle <rafaelff@gnome.org>'
+translator_name='Rafael Fontenelle'
+translator_mail='rafaelff@gnome.org'
 lang='pt-br'
-
-# POT files provided as command-line argument
-potfile="$*"
-
-# Team dir. Make sure this is where is your local checkout of the teamdir
+# Directory containing your local checkout of team's .po file repository
 teamdir=~/GNU/www-$lang
+#
+############
+
+# One or more POT files provided as command-line argument
+potfiles="$*"
+
+year=$(date +%Y)
 
 # Original files, existent inside the teamdir.
 master="$teamdir/server/gnun/compendia/master.$lang.po"
@@ -64,17 +72,34 @@ init="$teamdir/server/gnun/compendia/init.$lang.po"
 
 # Create a temp file based on master.$lang.po, without this line
 tempMaster=$(mktemp -t comp-master-XXX)
-sed '/^# Master Compendium for/d' $master > $tempMaster
+sed '/^# Master Compendium for/d' "$master" > "$tempMaster"
 
 # A temporary compendium gathering some sources
 CompCombination=$(mktemp -t compendium-XXX)
-echo "Populating the temporary file '$CompCombination'..."
-msgcat --use-first -o $CompCombination $tempMaster $compendium $init
+msgcat --use-first -o "$CompCombination" "$tempMaster" "$compendium" "$init"
 
-/usr/bin/gnun-init-po \
-    --compendium=$CompCombination \
-    --team="$team" \
-    --language="$lang" \
-    --translator="$translator" \
-    "$potfile"
+for pot in $potfiles; do
 
+    # Generate the PO file
+    /usr/bin/gnun-init-po \
+        --compendium="$CompCombination" \
+        --team="$team" \
+        --language="$lang" \
+        --translator="$translator_name <$translator_mail>" \
+        "$pot"
+    
+    po=$(basename "${pot%%.pot}").$lang.po
+    
+    if [ ! -f "$po" ]; then
+        # Something went wrong, PO file doesn't exist
+        echo "'$po' not found"
+        continue
+    else
+        # Set translator credits
+        sed -i "$po" \
+            -e "s/NOME_COMPLETO/$translator_name/" \
+            -e "s/ENDEREÇO_DE_EMAIL/$translator_mail/" \
+            -e "s/ANO_ATUAL/$year/"
+        echo "'$po' ready for translation"
+    fi
+done
