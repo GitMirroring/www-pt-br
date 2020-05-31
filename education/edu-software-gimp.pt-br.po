@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: edu-software-gimp.html\n"
-"POT-Creation-Date: 2018-05-12 11:26+0000\n"
+"POT-Creation-Date: 2020-05-27 12:39+0200\n"
 "PO-Revision-Date: 2018-07-26 05:15-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -20,25 +20,49 @@ msgstr ""
 msgid "GIMP - GNU Project - Free Software Foundation"
 msgstr "GIMP - Projeto GNU - Free Software Foundation"
 
-#. type: Content of: <p>
-msgid ""
-"<a href=\"/education/education.html\">Education</a> &rarr; <a href=\"/"
-"education/edu-resources.html\">Educational Resources</a> &rarr; <a href=\"/"
-"education/edu-software.html\">Educational Free Software</a> &rarr; GIMP"
-msgstr ""
-"<a href=\"/education/education.html\">Educação</a> &rarr; <a href=\"/"
-"education/edu-resources.html\">Recursos Educacionais</a> &rarr; <a href=\"/"
-"education/edu-software.html\">Software Livre Educational</a> &rarr; GIMP"
+#. type: Content of: <div><a>
+msgid "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+msgstr "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
 
-#. type: Content of: <h2>
+#. type: Attribute 'title' of: <div><a><img>
+msgid "Education Contents"
+msgstr "Índice da Seção"
+
+#. type: Attribute 'alt' of: <div><a><img>
+msgid "&nbsp;[Education Contents]&nbsp;"
+msgstr "&nbsp;[Índice da Seção]&nbsp;"
+
+#. type: Content of: <div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><p><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><p><a><img>
+msgid "GNU Home"
+msgstr "Página inicial do GNU"
+
+#. type: Content of: <div><p>
+msgid ""
+"</a>&nbsp;/ <a href=\"/education/education.html\">Education</a>&nbsp;/ <a "
+"href=\"/education/edu-resources.html\">Resources</a>&nbsp;/ <a href=\"/"
+"education/edu-software.html\">Educational&nbsp;software</a>&nbsp;/"
+msgstr ""
+"</a>&nbsp;/ <a href=\"/education/education.html\">Educação</a>&nbsp;/ <a "
+"href=\"/education/edu-resources.html\">Recursos</a>&nbsp;/ <a href=\"/"
+"education/edu-software.html\">Software&nbsp;Educational</a>&nbsp;/"
+
+#. type: Content of: <div><h2>
 msgid "GIMP"
 msgstr "GIMP"
 
-#. type: Content of: <h3>
+#. type: Content of: <div><div><h3>
 msgid "Description"
 msgstr "Descrição"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "GIMP stands for &ldquo;GNU Image Manipulation Program&rdquo;, a self-"
 "explanatory name for an application that processes digital graphics and is "
@@ -67,7 +91,7 @@ msgstr ""
 "destinadas a profissionais de computação gráfica. É também multiplataforma, "
 "e lida com uma ampla gama de formatos e conversão de formatos."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "To learn more: <a href=\"http://directory.fsf.org/wiki/GIMP\"> FSF "
 "Directory</a>, <a href=\"http://www.gimp.org/\">GIMP Official Website</a>"
@@ -75,11 +99,11 @@ msgstr ""
 "Para aprender mais: <a href=\"http://directory.fsf.org/wiki/GIMP\">Diretório "
 "da FSF</a>, <a href=\"http://www.gimp.org/\">Site oficial do GIMP</a>"
 
-#. type: Content of: <h3>
+#. type: Content of: <div><div><h3>
 msgid "Who's Using It and How"
 msgstr "Quem está usando-o e como"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The GIMP is used by a large number of artists, amateurs, Web developers, "
 "educators. At school it is a handy tool that assists students and teachers "
@@ -91,7 +115,7 @@ msgstr ""
 "professores na preparação de materiais gráficos para slides, folhetos, site "
 "ou boletim da escola e projetos semelhantes."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "French artist Isabel Saij describes how she uses GIMP for <a href=\"https://"
 "web.archive.org/web/20080516101605/http://www.saij-copyleft2.net/fragments1."
@@ -101,12 +125,13 @@ msgstr ""
 "\"https://web.archive.org/web/20080516101605/http://www.saij-copyleft2.net/"
 "fragments1.html\">seu trabalho</a>:"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><div><blockquote><p>
 msgid ""
 "&ldquo;It's a program I use for different works: photo manipulation (mixing "
-"images together), drawings (my 'digital fragments' in relation to my 'real "
-"fragments' made on paper), teaching to teenagers, preparing images for "
-"video, etc.). In other words, one of my favorite programs.&rdquo;"
+"images together), drawings (my &lsquo;digital fragments&rsquo; in relation "
+"to my &lsquo;real fragments&rsquo; made on paper), teaching to teenagers, "
+"preparing images for video, etc.) In other words, one of my favorite "
+"programs.&rdquo;"
 msgstr ""
 "“É um programa que utilizo para diferentes trabalhos: manipulação de fotos "
 "(mistura de imagens), desenhos (meus ‘fragmentos digitais’ em relação aos "
@@ -114,7 +139,7 @@ msgstr ""
 "preparação de imagens para vídeo etc.). Em outras palavras, um dos meus "
 "programas favoritos.”"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "There are many interesting examples of how this program is put to use by "
 "professionals and amateurs alike to effectively bring to life their ideas "
@@ -126,11 +151,11 @@ msgstr ""
 "liberdade como usuários de computador. Entre esses, há um que vai além do "
 "comum."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><div><h4>
 msgid "How GIMP changed Mani's life."
 msgstr "Como GIMP mudou a vida de Mani."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Mani began his journey towards liberation from social constraints as an "
 "enthusiastic and talented teenager. His awareness and commitment to freedom "
@@ -149,7 +174,7 @@ msgstr ""
 "liberdade. Isso trouxe melhoria sustentada para sua comunidade e, "
 "finalmente, uma virada radical em sua própria vida."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The group set up a Free Software computer lab in the slum dwelling and Mani "
 "learned fast, becoming a teacher himself to help his peers develop better "
@@ -167,7 +192,7 @@ msgstr ""
 "e vendeu. O vídeo a seguir de três minutos retrata o empenho de Mani para "
 "aprender Software Livre."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><div><div><div><p>
 msgid ""
 "Watch and download the video as <a href=\"http://audio-video.gnu.org/video/"
 "we_use_gnu-linux_high.ogv\"> Ogg Theora</a> at a higher resolution."
@@ -175,7 +200,7 @@ msgstr ""
 "Assista e baixe o vídeo como <a href=\"http://audio-video.gnu.org/video/"
 "we_use_gnu-linux_high.ogv\"> Ogg Theora</a> em uma resolução mais alta."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><div><div><div><p>
 msgid ""
 "<em>Note to the hearing-impaired:</em> the only audio in this video is the "
 "soundtrack, which is a piano version of the Free Software Song."
@@ -186,7 +211,7 @@ msgstr ""
 #.  TRANSLATORS: please translate the written description of the video
 #.      and replace the link to the English version with the link to your 
 #.      translation 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><div><div><div><p>
 msgid ""
 "<em>Note to the visually impaired:</em> A <a href=\"/education/misc/"
 "we_use_gnu-linux_description.en.txt\"> written description of the video</a> "
@@ -196,7 +221,7 @@ msgstr ""
 "misc/we_use_gnu-linux_description.pt-br.txt\"> descrição escrita do vídeo</"
 "a> está disponível."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "At the time of writing (March 2012) Mani is a student of Computer Science in "
 "Bangalore. He says:"
@@ -204,7 +229,7 @@ msgstr ""
 "No momento da escrita desse artigo (março de 2012), Mani é um estudante de "
 "Ciência da Computação em Bangalore. Ele diz:"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><div><blockquote><p>
 msgid ""
 "&ldquo;First I need to say thanks to the Free Software movement, it allowed "
 "me to start learning GIMP. It was my first achievement in life, and I sold "
@@ -231,23 +256,23 @@ msgstr ""
 "nosso modelo, já estamos executando três centros de computação em outras "
 "favelas na área.”"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid "Richard Stallman's comment on this case:"
 msgstr "Comentário do Richard Stallman neste caso:"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><div><blockquote><p>
 msgid ""
-"<strong>&ldquo;I am more proud that GNU has been adopted by Indian Dalits "
-"than of its use by famous corporations.&rdquo;</strong>"
+"&ldquo;I am more proud that GNU has been adopted by Indian Dalits than of "
+"its use by famous corporations.&rdquo;"
 msgstr ""
-"<strong>“Eu estou mais orgulhoso que o GNU tenha sido adotado pelos dalits "
-"indianos, do que de seu uso por corporações famosas.”</strong>"
+"“Eu estou mais orgulhoso que o GNU tenha sido adotado pelos dalits indianos, "
+"do que de seu uso por corporações famosas.”"
 
-#. type: Content of: <h3>
+#. type: Content of: <div><div><h3>
 msgid "Why"
 msgstr "Por que"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The interests of nonfree software developers are at odds with the needs of "
 "users from all segments of society, given that they deny basic human values "
@@ -262,7 +287,7 @@ msgstr ""
 "objetivos de lucro o dano que suas políticas causam aos usuários de seus "
 "produtos."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "In complex social structures such as that of India, exclusion of the "
 "underprivileged from access to information technologies is just one of the "
@@ -289,7 +314,7 @@ msgstr ""
 "entre seus membros é sólido e forte, um baluarte contra a incursão de fontes "
 "adicionais de exclusão."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "In that scenario, the introduction of proprietary software would not be "
 "accepted by these socially committed people since that would result in the "
@@ -313,7 +338,7 @@ msgstr ""
 "liberdades são concedidas a eles apenas pelo <a href=\"/philosophy/free-sw."
 "html\">Software Livre</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The restrictions imposed on users by proprietary software developers serve "
 "to attack other layers of society as well, specially the upper spending "
@@ -335,7 +360,7 @@ msgstr ""
 "usuários não têm escolha a não ser manter a versão antiga do programa ou, "
 "então, investir em um novo sistema operacional."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Isabel Saij explains why she decided to break free from the trap by adopting "
 "Free Software:"
@@ -343,7 +368,7 @@ msgstr ""
 "Isabel Saij explica por que ela decidiu se libertar da armadilha adotando o "
 "Software Livre:"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><div><blockquote><p>
 msgid ""
 "&ldquo;With proprietary programs the artist is at the mercy of the software "
 "development company. Early in 2003 I used LiveMotion to design my digital 2D "
@@ -372,11 +397,11 @@ msgstr ""
 "comunidade pode acessar o código. Alguém mais pode vir e continuar "
 "desenvolvendo o software.”"
 
-#. type: Content of: <h3>
+#. type: Content of: <div><div><h3>
 msgid "Results"
 msgstr "Resultados"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The introduction of Free Software in the slum removed the barriers that "
 "prevented this marginalized sector of society from accessing knowledge in "
@@ -398,7 +423,7 @@ msgstr ""
 "prejudiciais de políticas econômicas globais injustas e agora estão prontos "
 "para uma produtividade vida produtiva."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "With Free Software, users received all the benefits of digital education "
 "without being constrained to compromise their principles. The ethical values "
@@ -424,7 +449,7 @@ msgstr ""
 "do software resulta na redistribuição da riqueza intelectual e econômica, o "
 "que não é possível quando o acesso ao conhecimento é restrito."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "In less disadvantaged contexts, users of GIMP have benefited from software "
 "freedom in many ways. They are no longer subject to arbitrary decisions by "
@@ -446,7 +471,7 @@ msgstr ""
 "código-fonte, aqueles com habilidades de programação contribuíram com vários "
 "plug-ins para melhorar o desempenho do aplicativo."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "As a free program under the GNU GPL version 3 or later, no arbitrary "
 "decision by developers can ever stop the advancement of GIMP nor can the "
@@ -457,7 +482,7 @@ msgstr ""
 "pode ser feito proprietário."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
-#. type: Content of: <div>
+#. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr " "
 
@@ -482,27 +507,27 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
-"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas desse site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2012, 2016, 2018 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2012, 2016, 2018 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2012, 2016, 2018, 2020 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2012, 2016, 2018, 2020 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

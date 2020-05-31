@@ -1,16 +1,16 @@
 # Brazilian Portuguese translation of https://www.gnu.org/philosophy/words-to-avoid.html
-# Copyright (C) 2018 Free Software Foundation, Inc.
+# Copyright (C) 2020 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Ricardo Grützmacher, <grutz@terra.com.br>, 2002.
 # Jan 2015: GNUNify and trivially update a few strings (T. Godefroy).
 # Rafael Beraldo, <rberaldo@cabaladada.org>, 2015.
 # Bruno Félix Rezende Ribeiro <oitofelix@gnu.org>, 2015.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2016-2018.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2016-2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: words-to-avoid.html\n"
-"POT-Creation-Date: 2018-09-16 15:55+0000\n"
-"PO-Revision-Date: 2018-09-17 11:00-0300\n"
+"POT-Creation-Date: 2020-01-07 13:25+0000\n"
+"PO-Revision-Date: 2020-03-08 17:46-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -222,6 +222,11 @@ msgstr "“<a href=\"#Linux\">sistema Linux</a>” |"
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Market\">Market</a>&rdquo; |"
 msgstr "“<a href=\"#Market\">Mercado</a>” |"
+
+#.  GNUN-SORT-NEXT-ITEM 
+#. type: Content of: <p>
+msgid "&ldquo;<a href=\"#Modern\">Modern</a>&rdquo; |"
+msgstr "“<a href=\"#Modern\">Moderno</a>” |"
 
 #.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
@@ -1243,7 +1248,7 @@ msgstr ""
 
 #. type: Content of: <h3>
 msgid "&ldquo;Digital Rights Management&rdquo;"
-msgstr "“Gestão Digital de Restrições”"
+msgstr "“Gestão Digital de Direitos”"
 
 #. type: Content of: <p>
 msgid ""
@@ -1254,7 +1259,8 @@ msgid ""
 "the few that impose the restrictions, and ignoring that of the general "
 "public on whom these restrictions are imposed."
 msgstr ""
-"A “Gestão de Direitos Digitais” (do inglês “Digital Rights Management”, "
+"A “Gestão Digital de Direitos”<sup><a id=\"TransNote4-rev\" href="
+"\"#TransNote4\">4</a></sup> (do inglês “Digital Rights Management”, "
 "frequentemente abreviada como “DRM”) se refere a mecanismos técnicos "
 "projetados para impor restrições à usuários de computador. A palavra "
 "“direitos”, usada no termo, é propaganda arquitetada para pegar-lhe "
@@ -1359,7 +1365,7 @@ msgid ""
 msgstr ""
 "Se você quer dizer que um programa é software livre, por favor não diga que "
 "ele está disponível “de graça”. Software livre é uma questão de liberdade, "
-"não de preço<sup><a id=\"TransNote4-rev\" href=\"#TransNote4\">4</a></sup>."
+"não de preço<sup><a id=\"TransNote5-rev\" href=\"#TransNote5\">5</a></sup>."
 
 #. type: Content of: <p>
 msgid ""
@@ -1725,6 +1731,32 @@ msgstr ""
 "legitimar o software proprietário."
 
 #. type: Content of: <h3>
+msgid "&ldquo;Modern&rdquo;"
+msgstr "“Moderno”"
+
+#. type: Content of: <p>
+msgid ""
+"The term &ldquo;modern&rdquo; makes sense from a descriptive perspective "
+"&mdash; for instance, solely to distinguish newer periods and ways from "
+"older ones."
+msgstr ""
+"O termo “moderno” faz sentido a partir de uma perspectiva descritiva &ndash; "
+"por exemplo, apenas para distinguir períodos e caminhos mais novos dos mais "
+"antigos."
+
+#. type: Content of: <p>
+msgid ""
+"It becomes a problem when it carries the presumption that older ways are "
+"&ldquo;old-fashioned&rdquo;; that is, presumed to be worse.  In "
+"technological fields where businesses make the choices and impose them on "
+"users, the reverse is often true."
+msgstr ""
+"Torna-se um problema quando carrega a presunção de que os modos mais antigos "
+"são “antiquados”; isto é, presumivelmente pior. Nos campos tecnológicos em "
+"que as empresas fazem as escolhas e as impõem aos usuários, o inverso é "
+"frequentemente verdadeiro."
+
+#. type: Content of: <h3>
 msgid "&ldquo;Monetize&rdquo;"
 msgstr "“Monetizar”"
 
@@ -1866,7 +1898,7 @@ msgid ""
 "The term &ldquo;WC&rdquo; has been suggested for a computer running Windows."
 msgstr ""
 "O termo “WC” já foi sugerido para um computador rodando Windows<sup><a id="
-"\"TransNote5-rev\" href=\"#TransNote5\">5</a></sup>."
+"\"TransNote6-rev\" href=\"#TransNote6\">6</a></sup>."
 
 #. type: Content of: <h3>
 msgid "&ldquo;Photoshop&rdquo;"
@@ -2203,7 +2235,7 @@ msgid ""
 "transactions undermines its meaning, so we don't use it in this context."
 msgstr ""
 "O termo “economia compartilhada” ou “economia colaborativa”<sup><a id="
-"\"TransNote6-rev\" href=\"#TransNote6\">6</a></sup> não é uma boa maneira de "
+"\"TransNote7-rev\" href=\"#TransNote7\">7</a></sup> não é uma boa maneira de "
 "se referir a serviços como Uber e Airbnb que organizam transações comerciais "
 "entre pessoas. Nós usamos o termo “compartilhamento” para nos referirmos à "
 "cooperação não comercial, incluindo redistribuição não comercial de cópias "
@@ -2454,7 +2486,7 @@ msgstr ""
 "<li>\n"
 "<a id=\"TransNote1\" href=\"#TransNote1-rev\" class=\"nounderline\">&#8593;</"
 "a> \n"
-"Do inglês: “Digital Restrictions Management”\n"
+"Do inglês: “Digital Restrictions Management”.\n"
 "</li>\n"
 "<li>\n"
 "<a id=\"TransNote2\" href=\"#TransNote2-rev\" class=\"nounderline\">&#8593;</"
@@ -2473,18 +2505,26 @@ msgstr ""
 "<li>\n"
 "<a id=\"TransNote4\" href=\"#TransNote4-rev\" class=\"nounderline\">&#8593;</"
 "a> \n"
+"A tradução “Gestão Digital de Direitos” para “Digital Rights Management” "
+"segue as instruções do <a href=\"/server/standards/README.translations."
+"html#accuracy\">guia de tradução</a>, em que pese a tradução mais popular é "
+"“Gestão de Direitos Digitais”.\n"
+"</li>\n"
+"<li>\n"
+"<a id=\"TransNote5\" href=\"#TransNote5-rev\" class=\"nounderline\">&#8593;</"
+"a> \n"
 "A motivação mais forte para não dizer “de graça” na verdade vem do fato de "
 "que, em inglês, “free” significa tanto “gratuito” quanto “livre”.\n"
 "</li>\n"
 "<li>\n"
-"<a id=\"TransNote5\" href=\"#TransNote5-rev\" class=\"nounderline\">&#8593;</"
+"<a id=\"TransNote6\" href=\"#TransNote6-rev\" class=\"nounderline\">&#8593;</"
 "a> \n"
 "Em inglês, “WC” é uma abreviação cujo significado varia conforme contexto. "
 "Neste contexto, poderia ser “Windows Computer” ou, quem sabe, “water "
 "closet”, que significa privada, lavatório, sanitário.\n"
 "</li>\n"
 "<li>\n"
-"<a id=\"TransNote6\" href=\"#TransNote6-rev\" class=\"nounderline\">&#8593;</"
+"<a id=\"TransNote7\" href=\"#TransNote7-rev\" class=\"nounderline\">&#8593;</"
 "a> \n"
 "Do inglês “economy sharing”.</li>\n"
 "</ol>"
@@ -2521,20 +2561,22 @@ msgid ""
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
-"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
 "\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas desse site."
+"envio de traduções das páginas deste site."
 
 #. type: Content of: <div><p>
 msgid ""
 "Copyright &copy; 1996, 1997, 1998, 1999, 2001, 2002, 2003, 2004, 2007, 2008, "
-"2009, 2010, 2011, 2012, 2015, 2016, 2017, 2018 Free Software Foundation, Inc."
+"2009, 2010, 2011, 2012, 2015, 2016, 2017, 2018, 2020 Free Software "
+"Foundation, Inc."
 msgstr ""
 "Copyright &copy; 1996, 1997, 1998, 1999, 2001, 2002, 2003, 2004, 2007, 2008, "
-"2009, 2010, 2011, 2012, 2015, 2016, 2017, 2018 Free Software Foundation, Inc."
+"2009, 2010, 2011, 2012, 2015, 2016, 2017, 2018, 2020 Free Software "
+"Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -2558,36 +2600,9 @@ msgstr ""
 "<a href=\"http://oitofelix.freeshell.org/\">Bruno Félix Rezende Ribeiro</a> "
 "<a href=\"mailto:oitofelix@gnu.org\">&lt;oitofelix@gnu.org&gt;</a>, 2015;\n"
 "Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome."
-"org&gt;</a>, 2016-2018"
+"org&gt;</a>, 2016-2020"
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
-
-#~ msgid ""
-#~ "To speak of &ldquo;consuming&rdquo; music, fiction, or any other artistic "
-#~ "works is to treat them as products rather than as art.  If you don't want "
-#~ "to spread that attitude, you would do well to avoid using the term &ldquo;"
-#~ "consume&rdquo; for them.  What to use instead? We prefer specific verbs "
-#~ "such as &ldquo;listen to&rdquo;, &ldquo;watch&rdquo;, &ldquo;read&rdquo; "
-#~ "or &ldquo;look at&rdquo;, since they help to restrain the tendency to "
-#~ "overgeneralize."
-#~ msgstr ""
-#~ "Falar de “consumir” música, ficção ou quaisquer outras obras artísticas é "
-#~ "tratá-las como produtos, e não como arte. Se você não quer espalhar essa "
-#~ "atitude, você faria bem em evitar o uso do termo “consumo” para eles. O "
-#~ "que usar então? Nós preferimos verbos específicos como “ouvir a”, "
-#~ "“assistir”, “ler” e “olhar em”, já que isso ajuda a restringir a "
-#~ "tendência a generalizar."
-
-#~ msgid ""
-#~ "When it is absolutely necessary to generalize about all kinds of works "
-#~ "and all media, we recommend &ldquo;experience&rdquo; or &ldquo;give "
-#~ "attention to&rdquo; for an artistic work or a work to present a point of "
-#~ "view, and &ldquo;use&rdquo; for a practically useful work."
-#~ msgstr ""
-#~ "Quando é absolutamente necessário generalizar todos os tipos de obras e "
-#~ "todas as mídias, nós recomendamos “experimentar” ou “dar atenção a” para "
-#~ "uma obra artística ou uma obra apresentar um ponto de vistas, e “usar” "
-#~ "para uma obra útil na prática."

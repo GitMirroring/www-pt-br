@@ -4,10 +4,11 @@
 # Rafael Beraldo <rberaldo@cabaladada.org>, 2012.
 # Dec 2014: trivial update of a few strings (T. Godefroy).
 # Rafael Fontenelle <rafaelff@gnome.org>, 2012, 2016, 2017.
+# May 2020: update to new layout (T. Godefroy).
 msgid ""
 msgstr ""
 "Project-Id-Version: education.pt-br.html\n"
-"POT-Creation-Date: 2016-09-13 15:56+0000\n"
+"POT-Creation-Date: 2020-05-27 10:41+0200\n"
 "PO-Revision-Date: 2017-04-07 10:20-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -22,15 +23,43 @@ msgstr ""
 msgid "Free Software and Education - GNU Project - Free Software Foundation"
 msgstr "Software Livre e Educação - Projeto GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><a>
+msgid "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+msgstr "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+
+#. type: Attribute 'title' of: <div><a><img>
+msgid "Education Contents"
+msgstr "Índice da Seção"
+
+#. type: Attribute 'alt' of: <div><a><img>
+msgid "&nbsp;[Education Contents]&nbsp;"
+msgstr "&nbsp;[Índice da Seção]&nbsp;"
+
+#. type: Content of: <div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><p><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><p><a><img>
+msgid "GNU Home"
+msgstr "Página inicial do GNU"
+
+#. type: Content of: <div><p>
+msgid "</a>&nbsp;/"
+msgstr "</a>&nbsp;/"
+
+#. type: Content of: <div><h2>
 msgid "Free Software and Education"
 msgstr "Software Livre e Educação"
 
-#. type: Content of: <h3>
+#. type: Content of: <div><div><h3>
 msgid "How Does Free Software Relate to Education?"
 msgstr "Como o Software Livre Está Relacionado à Educação?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Software freedom plays a fundamental role in education.  Educational "
 "institutions of all levels should use and teach Free Software because it is "
@@ -52,7 +81,7 @@ msgstr ""
 "oposto da missão das instituições educacionais. O software livre apoia a "
 "educação, mas o software proprietário a proíbe."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Free Software is not just a technical question; it is an ethical, social, "
 "and political question. It is a question of the human rights that the users "
@@ -66,7 +95,7 @@ msgstr ""
 "O Sistema GNU implementa esses valores e o princípio do compartilhamento, "
 "uma vez que compartilhar é bom e benéfico para o progresso humano."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "To learn more, see the <a href=\"/philosophy/free-sw.html\">Free Software "
 "definition</a> and our article on <a href=\"/philosophy/shouldbefree.html"
@@ -76,11 +105,11 @@ msgstr ""
 "de Software Livre</a> ou nossos artigos sobre <a href=\"/philosophy/"
 "shouldbefree.html\">Por Que o Software Deve Ser Livre</a>."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><div><h3>
 msgid "The Basics"
 msgstr "O Básico"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The GNU Project was <a href=\"/gnu/initial-announcement.html\">launched</a> "
 "in 1983 by Richard Stallman to develop a Free Libre operating system: the "
@@ -92,7 +121,7 @@ msgstr ""
 "sistema operacional GNU. Como resultado, hoje em dia qualquer pessoa pode "
 "usar um computador em liberdade."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "In this six-minutes video <a href=\"http://www.fsf.org/about/leadership/#rms"
 "\">Richard Stallman</a> explains briefly and to the point the principles of "
@@ -105,7 +134,7 @@ msgstr ""
 #.  TRANSLATORS: Please replace the link to the video with subtitles in
 #.      English with a link to the video with subtitles in your language, 
 #.      if it exists. 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><div><div><div><p>
 msgid ""
 "<a href=\"http://audio-video.gnu.org/video/rms-education-es-high-sub.en.ogv"
 "\"> Download and watch the video</a> at a higher definition in the Ogg "
@@ -117,7 +146,7 @@ msgstr ""
 
 #.  TRANSLATORS: please add the link to your language here in the first 
 #.      place, followed by a comma. 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><div><div><div><p>
 msgid ""
 "Transcriptions of this video are available in <a href=\"/education/misc/rms-"
 "education-es-translation-to-en.txt\">English</a>, <a href=\"/education/misc/"
@@ -133,7 +162,7 @@ msgstr ""
 
 #.  TRANSLATORS: please add the link to your language here in the first 
 #.      place, followed by a comma. 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><div><div><div><p>
 msgid ""
 "SubRip subtitle files are also available for download in <a href=\"/"
 "education/misc/rms-education-es-sub.en.srt\">English</a>, <a href=\"/"
@@ -147,7 +176,7 @@ msgstr ""
 "\">inglês</a> e <a href=\"/education/misc/edu-misc.html#subtitles-rms-"
 "education\">outras línguas</a>."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><div><p>
 msgid ""
 "We are looking for free educational games, or information about free games "
 "that can be used for educational purposes. Contact <a href=\"mailto:"
@@ -157,11 +186,11 @@ msgstr ""
 "livres que possam ser usados para propósitos educacionais. Entre em contato "
 "com <a href=\"mailto:education@gnu.org\">&lt;education@gnu.org&gt;</a>."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><div><h3>
 msgid "In Depth"
 msgstr "Em Detalhes"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "Learn about the <a href=\"/education/edu-why.html\">Reasons Why</a> "
 "educational institutions should use and teach exclusively Free Software."
@@ -169,24 +198,24 @@ msgstr ""
 "Aprenda as <a href=\"/education/edu-why.html\">razões pelas quais</a> "
 "instituições educacionais devem usar e ensinar exclusivamente software livre."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "An article by Richard Stallman: <a href=\"/education/edu-schools.html\">Why "
-"Schools Should Exclusively Use Free Software</a>"
+"Schools Should Exclusively Use Free Software</a>."
 msgstr ""
 "Um artigo por Richard Stallman: <a href=\"/education/edu-schools.html\">Por "
-"que Escolas Devem Usar Exclusivamente Software Livre</a>"
+"que Escolas Devem Usar Exclusivamente Software Livre</a>."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "An article by Dr. V. Sasi Kumar on the <a href=\"/education/edu-system-india."
-"html\">education system in India.</a>"
+"html\">education system in India</a>."
 msgstr ""
 "Um artigo do Dr. V. Sasi Kumar sobre o <a href=\"/education/edu-system-india."
 "html\">sistema educacional na Índia</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
-#. type: Content of: <div>
+#. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr " "
 
@@ -211,27 +240,29 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
-"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas desse site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2011, 2012, 2014, 2016 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2011, 2012, 2014, 2016 Free Software Foundation, Inc."
+msgid ""
+"Copyright &copy; 2011, 2012, 2014, 2016, 2020 Free Software Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2011, 2012, 2014, 2016, 2020 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

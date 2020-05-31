@@ -1,0 +1,493 @@
+# Brazilian Portuguese translation of https://www.gnu.org/software/maintainer-tips.html
+# Copyright (C) 2020 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2019.
+# Cassiano Reinert Novais dos Santos <mailto:caco@posteo.net>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: maintainer-tips.html\n"
+"POT-Creation-Date: 2019-11-23 13:25+0000\n"
+"PO-Revision-Date: 2019-12-27 22:53-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid "Tips for new GNU maintainers - GNU Project - Free Software Foundation"
+msgstr ""
+"Dicas para novos mantenedores do GNU - Projeto GNU - Free Software Foundation"
+
+#. type: Content of: <h2>
+msgid "Tips for new GNU maintainers"
+msgstr "Dicas para novos mantenedores do GNU"
+
+#. type: Content of: <p>
+msgid ""
+"If you are new to maintaining a GNU package, whether one that you have "
+"offered to GNU or an existing one that you have adopted, it can be "
+"overwhelming to know where to start.  The official email notice you received "
+"when you became a GNU maintainer has lots of details; this document is not a "
+"replacement for that email, but rather a complement, aiming to provide some "
+"tips on getting started."
+msgstr ""
+"Se você é novo na manutenção de um pacote GNU, seja um que você tenha "
+"oferecido ao GNU ou um já existente que você adotou, pode ser trabalhoso "
+"demais saber por onde começar. O aviso oficial por e-mail que você recebeu "
+"quando se tornou mantenedor do GNU tem muitos detalhes; este documento não "
+"substitui esse e-mail, é apenas um complemento, com o objetivo de fornecer "
+"algumas dicas sobre como começar."
+
+#. type: Content of: <p>
+msgid ""
+"Of course, what's listed here just skims the surface of GNU maintainership.  "
+"Please be sure to read the <a href=\"/prep/maintain/\">GNU Maintainers "
+"Guide</a> and the <a href=\"/prep/standards/\">GNU Coding Standards</a>.  "
+"Indeed, you should have read them already, but they are densely enough "
+"written that careful re-readings are useful.  In addition, a few experienced "
+"GNU contributors have volunteered to answer questions about GNU maintenance "
+"via &lt;mentors@gnu.org&gt; as well as &lt;maintainers@gnu.org&gt;."
+msgstr ""
+"Obviamente, o que está listado aqui apenas mostra a superfície da manutenção "
+"do GNU. Leia o <a href=\"/prep/maintain/\">Guia de Manutenção do GNU</a> e o "
+"<a href=\"/prep/standards/\">Padrão de Codificação do GNU</a>. De fato, você "
+"já deve ter lido, mas eles são suficientemente densos para que sejam "
+"releituras úteis e cuidadosas. Além disso, alguns colaboradores experientes "
+"do GNU se ofereceram para responder a perguntas sobre manutenção do GNU por "
+"meio de &lt;mentors@gnu.org&gt; e também &lt;maintainers@gnu.org&gt;."
+
+#. type: Content of: <h3>
+msgid "First steps for new maintainers"
+msgstr "Primeiros passos para novos mantenedores"
+
+#. type: Content of: <p>
+msgid ""
+"These tasks are listed in order of priority. The labels (<span class=\"all\">"
+"[All]</span>, <span class=\"new\">[New]</span>, and <span class=\"adopted\">"
+"[Adopted]</span>) indicate the category of packages each task mostly applies "
+"to."
+msgstr ""
+"Essas tarefas são listadas em ordem de prioridade. Os rótulos (<span class="
+"\"all\">[Todos]</span>, <span class=\"new\">[Novos]</span> e <span class="
+"\"adopted\">[Adotados]</span>) indicam a categoria de pacotes a que cada "
+"tarefa se aplica principalmente."
+
+#. type: Content of: <ol><li>
+msgid ""
+"<span class=\"all\">[All]</span> <b>Update project information on Savannah.</"
+"b> Go to your project page (<code>https://sv.gnu.org/projects/PKG</code>, "
+"where PKG is the name of your package), log in with your Savannah ID, and "
+"check under &ldquo;Update public info&rdquo; in the &ldquo;Main&rdquo; "
+"menu.  Here, you should set the project's full name and, if needed, write "
+"both a short and a long description for it (please also send those "
+"descriptions to &lt;maintainers@gnu.org&gt; for use in the lists of <a href="
+"\"/software/software.html#allgnupkgs\">all GNU packages</a>).  You should "
+"also set its development status to reflect the maturity of the code.  It is "
+"essential to do this if you have adopted a package, since it will be marked "
+"as &ldquo;Orphan&rdquo;."
+msgstr ""
+"<span class=\"all\">[Todos]</span> <b>Atualize as informações do projeto no "
+"Savannah.</b> Acesse a página do seu projeto (<code>https://sv.gnu.org/"
+"projects/PKG</code>, onde PKG é o nome do seu pacote), autentique-se com seu "
+"ID do Savannah e verifique em “Editar informações públicas” no menu "
+"”Principal”. Aqui você deve definir o nome completo do projeto e, se "
+"necessário, escrever uma descrição curta e uma descrição longa (envie também "
+"essas descrições para &lt;maintainers@gnu.org&gt; para uso nas listas de <a "
+"href=\"/software/software.html#allgnupkgs\">todos os pacotes GNU</a>). Você "
+"também deve definir seu <em>status</em> de desenvolvimento para refletir a "
+"maturidade do código. É essencial fazer isso se você adotou um pacote, pois "
+"ele estará marcado como “Órfão”."
+
+#. type: Content of: <ol><li>
+msgid ""
+"<span class=\"all\">[All]</span> <b>Turn to the mailing lists.</b> If you "
+"have a new GNU package, you should set up at least one mailing list for the "
+"package (&ldquo;Select features&rdquo; in the Main menu).  It is strongly "
+"recommended to have one called &lt;bug-PKG@gnu.org&gt;; others can wait "
+"until traffic warrants.  If you have adopted an existing package, send an "
+"email introducing yourself.  Finally, whether lists are newly created or "
+"already existing, don't forget to subscribe yourself, as this is not "
+"automatically done.  (<a href=\"/prep/maintain/html_node/Mail.html\">About "
+"dealing with mail</a>.)"
+msgstr ""
+"<span class=\"all\">[Todos]</span> <b>Vá às listas de discussão.</b> Se você "
+"possui um novo pacote GNU, deve configurar pelo menos uma lista de discussão "
+"para o pacote (“Selecionar recursos” no menu “Principal”). É altamente "
+"recomendável ter uma com o nome &lt;bug-PKG@gnu.org&gt;; outras podem "
+"esperar até o tráfego justificar. Se você adotou um pacote existente, envie "
+"um e-mail apresentando-se. Por fim, se as listas foram criadas recentemente "
+"ou já existem, não se esqueça de se inscrever, pois isso não é feito "
+"automaticamente. (<a href=\"/prep/maintain/html_node/Mail.html\">Sobre lidar "
+"com correio</a>.)"
+
+#. type: Content of: <ol><li>
+msgid ""
+"<span class=\"new\">[New]</span> <b>Set up a repository for your source "
+"code</b> (&ldquo;Select features&rdquo; in the Main menu), and import "
+"whatever is available (look up the procedures under &ldquo;Source Code "
+"Manager&rdquo; in the Development Tools section). Experience has shown that "
+"self-hosting is unreliable. (<a href=\"/prep/maintain/html_node/Old-Versions."
+"html#Old-Versions\">About back-up files</a>.)"
+msgstr ""
+"<span class=\"new\">[Novos]</span> <b>Configure um repositório para seu "
+"código-fonte</b> (“Selecionar recursos” no menu “Principal”) e importe o que "
+"estiver disponível (procure procedimentos sob “Gerenciador de código-fonte” "
+"na seção “Ferramentas de desenvolvimento”). A experiência mostrou que auto-"
+"hospedagem não é confiável. (<a href=\"/prep/maintain/html_node/Old-Versions."
+"html#Old-Versions\">Sobre arquivos backup</a>.)"
+
+#. type: Content of: <ol><li>
+msgid ""
+"<span class=\"new\">[New]</span> <b>Upload your package to the GNU FTP site</"
+"b> if it is ready for public release. (<a href=\"/prep/maintain/html_node/"
+"Automated-FTP-Uploads.html\">About the upload procedure</a>.)"
+msgstr ""
+"<span class=\"new\">[Novos]</span> <b>Envie seu pacote para o <em>site</em> "
+"FTP do GNU</b> se ele já estiver pronto para lançamento público. (<a href=\"/"
+"prep/maintain/html_node/Automated-FTP-Uploads.html\">Sobre o procedimento de "
+"envio</a>.)"
+
+#. type: Content of: <ol><li>
+msgid ""
+"<span class=\"new\">[New]</span> <b>Create a GNU home page</b>, to replace "
+"the <code>PKG.html</code> file that webmasters have placed in your web repo "
+"(keep the same name). If you want to make this quick and easy, use our "
+"standard <a href=\"/server/standards/boilerplate.html\">template</a>. "
+"Comment out the irrelevant parts, such as Downloading and Documentation if "
+"the project has barely started; you'll complete them later on. Also put any "
+"documentation you already have in a subdirectory called &ldquo;"
+"manual&rdquo;. (<a href=\"/prep/maintain/html_node/Web-Pages.html\">About "
+"web pages</a>.)"
+msgstr ""
+"<span class=\"new\">[Novos]</span> <b>Crie uma página inicial no GNU</b> "
+"para substituir o arquivo <code>PKG.html</code> que os <em>webmasters</em> "
+"colocaram em seu repositório <em>web</em> (mantenha o mesmo nome). Se você "
+"deseja tornar isso rápido e fácil, use nosso <a href=\"/server/standards/"
+"boilerplate.html\">modelo</a> padrão. Comente as partes irrelevantes, tal "
+"como Download e Documentação se seu projeto mal começou; você vai completá-"
+"los posteriormente. Coloque também qualquer documentação que você já tenha "
+"em um subdiretório chamado “manual”. (<a href=\"/prep/maintain/html_node/Web-"
+"Pages.html\">Sobre páginas <em>web</em></a>.)"
+
+#. type: Content of: <ol><li>
+msgid ""
+"<span class=\"adopted\">[Adopted]</span> <b>Check for existing bug reports</"
+"b> if you have adopted an existing package.  These may be on any or all of a "
+"Savannah bug tracker, a <a href=\"https://lists.gnu.org/\">mailing list</a> "
+"(mbox archives can be downloaded by <a href=\"https://lists.gnu.org/archive/"
+"mbox/\">HTTPS</a>), or the <a href=\"https://debbugs.gnu.org/\">GNU debbugs "
+"server</a>.  (<a href=\"/prep/maintain/html_node/Replying-to-Mail.html"
+"\">About replying to bug reports</a>.)"
+msgstr ""
+"<span class=\"adopted\">[Adotados]</span> <b>Verifique relatórios de erros "
+"existentes</b> se você tiver adotado um pacote existente. Estes podem estar "
+"em qualquer ou em todos os rastreadores de erros do Savannah, numa <a href="
+"\"https://lists.gnu.org/\">lista de discussão</a> (arquivos mbox podem ser "
+"baixados por <a href=\"https://lists.gnu.org/archive/mbox/\">HTTPS</a>) ou "
+"no <a href=\"https://debbugs.gnu.org/\">servidor GNU debbugs</a>.  (<a href="
+"\"/prep/maintain/html_node/Replying-to-Mail.html\">Sobre responder a "
+"relatórios de erros</a>.)"
+
+#. type: Content of: <ol><li>
+msgid ""
+"<span class=\"adopted\">[Adopted]</span> <b>Contact distro packagers.</b> If "
+"you have adopted an existing package and it is available in downstream "
+"distros, get in contact with the packagers.  It is likely that they have "
+"unresolved bug reports to be addressed, and perhaps even patches that should "
+"be applied.  You may also like to get involved with the <a href=\"/software/"
+"guix/\">GNU Guix</a> package manager.  (<a href=\"/distros/distros.html"
+"\">About distros</a>.)"
+msgstr ""
+"<span class=\"adopted\">[Adotados]</span> <b>Contate os empacotadores de "
+"distribuições.</b> Se você adotou um pacote existente e ele está disponível "
+"nas distribuições <i lang=\"en\">downstream</i>, entre em contato com os "
+"empacotadores. É provável que eles tenham relatórios de erros não resolvidos "
+"a serem tratados e talvez até <em>patches</em> que devem ser aplicados. Você "
+"também pode se envolver com o gerenciador de pacotes <a href=\"/software/"
+"guix/\">GNU Guix</a>. (<a href=\"/distros/distros.html\">Sobre "
+"distribuições</a>.)"
+
+#. type: Content of: <ol><li>
+msgid ""
+"<span class=\"adopted\">[Adopted]</span> <b>Use the software.</b> It should "
+"go without saying that if you have adopted a GNU package, you should use it "
+"to get a feel for its current status and to discover what might need to be "
+"fixed."
+msgstr ""
+"<span class=\"adopted\">[Adotados]</span> <b>Use o <em>software</em>.</b> "
+"Não é necessário dizer que, se você adotou um pacote GNU, deve usá-lo para "
+"ter uma ideia do seu <em>status</em> atual e descobrir o que pode precisar "
+"ser corrigido."
+
+#. type: Content of: <ol><li>
+msgid ""
+"<span class=\"all\">[All]</span> <b>Pick some tasks and start hacking!</b> "
+"There's no substitute for spending time doing the actual work."
+msgstr ""
+"<span class=\"all\">[Todos]</span> <b>Pegue algumas tarefas e comece a "
+"<em>hackear</em>!</b> Não há substituto para gastar tempo fazendo o trabalho "
+"real."
+
+#. type: Content of: <h3>
+msgid "General tips on maintaining GNU software"
+msgstr "Dicas gerais sobre manutenção de <em>software</em> GNU"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<b>Aim for a quick first release.</b> Whether your package is new or you've "
+"adopted an older one, your number one priority should be making a first "
+"release as soon as possible.  If you've adopted a package, it's sufficient "
+"to fix a few bugs and push that out.  In fact, just updating the "
+"infrastructure files (e.g., Autoconf/Automake, gnulib modules, etc.) is "
+"enough to justify a new release when you've first taken over a package.  If "
+"your package is new, don't be afraid to put out an early version that is not "
+"yet feature complete.  In any case, a release (with <a href=\"/prep/maintain/"
+"html_node/Announcements.html\">proper announcements</a>) will draw attention "
+"to your package in the form of potential users or even other developers.  It "
+"is the best way to let people know that an old package has been revived or "
+"that a new package exists at all.  (<a href=\"/prep/maintain/html_node/"
+"Distributions.html\">About making releases</a>.)"
+msgstr ""
+"<b>Busque fazer um primeiro lançamento rápido.</b> Se o seu pacote é novo ou "
+"você adotou um anterior, sua prioridade número um deve ser um primeiro "
+"lançamento o mais rápido possível. Se você adotou um pacote, é suficiente "
+"corrigir alguns erros e enviá-lo. De fato, apenas atualizar os arquivos de "
+"infraestrutura (por exemplo, Autoconf/Automake, módulos gnulib etc.) é "
+"suficiente para justificar uma nova versão quando você assume o pacote pela "
+"primeira vez. Se o seu pacote for novo, não tenha medo de lançar uma versão "
+"inicial que ainda não esteja completa. De qualquer forma, uma versão (com <a "
+"href=\"/prep/maintain/html_node/Announcements.html\">anúncios adequados</a>) "
+"chamará a atenção para o seu pacote na forma de usuários em potencial ou até "
+"outros desenvolvedores. É a melhor maneira de informar às pessoas que um "
+"pacote antigo foi revivido ou que existe um novo pacote. (<a href=\"/prep/"
+"maintain/html_node/Distributions.html\">Sobre como fazer lançamentos</a>.)"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<b>Focus on fixing outstanding bugs first.</b> This is an excellent way to "
+"start learning a new codebase, and get a feel for how the system works.  "
+"Besides, new features shouldn't be given much focus if notable problems "
+"already exist.  (<a href=\"/software/devel.html\">About resources for GNU "
+"developers</a>.)"
+msgstr ""
+"<b>Concentre-se em corrigir os erros pendentes primeiro.</b> Esta é uma "
+"excelente maneira de começar a aprender uma nova base de código e ter uma "
+"ideia de como o sistema funciona. Além disso, novos recursos não devem "
+"receber muito foco se já existirem problemas notáveis. (<a href=\"/software/"
+"devel.html\">Sobre recursos para desenvolvedores GNU</a>.)"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<b>Don't try to rewrite the entire thing.</b> If you've adopted a package, "
+"we strongly recommend that you not set out to rewrite the whole program from "
+"scratch.  While always tempting, and an easy thing to start, completing it "
+"successfully requires a colossal effort, and experience has shown that it is "
+"an almost sure-fire way to become demotivated and lead to eventual (re-)"
+"stagnation of the project.  Instead, focus on incremental improvements.  "
+"Once you've become intimately familiar with the package, you will be in a "
+"better position to consider more radical changes."
+msgstr ""
+"<b>Não tente reescrever tudo.</b> Se você adotou um pacote, é altamente "
+"recomendável que você não reescreva todo o programa do zero. Embora seja "
+"sempre tentador e fácil de começar, concluí-lo com sucesso exige um esforço "
+"colossal, e a experiência mostrou que é uma maneira quase certa de se "
+"desmotivar e levar à eventual (re)estagnação do projeto. Em vez disso, "
+"concentre-se em melhorias incrementais. Depois de se familiarizar "
+"intimamente com o pacote, você estará em uma posição melhor para considerar "
+"mudanças mais radicais."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<b>You're in charge!</b> As a maintainer, you look after a package as part "
+"of the overall GNU project.  GNU depends on you to take care of <a href=\"/"
+"prep/maintain/html_node/Legal-Matters.html\">legal matters</a>, make new "
+"releases, keep the <a href=\"/prep/maintain/html_node/Web-Pages.html\">web "
+"pages</a> updated, reply to bug reports and otherwise communicate with "
+"users, <a href=\"/prep/maintain/html_node/Clean-Ups.html\">handle patches "
+"appropriately</a>, and all else.  This is your privilege and your "
+"responsibility.  Please help us maintain an active and stable collection of "
+"software.  If you have questions or run into problems, do not hesitate to "
+"get in touch via &lt;maintainers@gnu.org&gt;.  (<a href=\"/prep/maintain/"
+"html_node/Recruiting-Developers.html\">About recruiting developers</a>.)"
+msgstr ""
+"<b>Você está no comando!</b> Como mantenedor, você cuida de um pacote como "
+"parte do projeto geral do GNU. O GNU depende de você para cuidar de <a href="
+"\"/prep/maintain/html_node/Legal-Matters.html\">assuntos legais</a>, fazer "
+"novos lançamentos, manter as <a href=\"/prep/maintain/html_node/Web-Pages."
+"html\">páginas <em>web</em></a> atualizadas, responder a relatórios de erros "
+"e comunicar-se com os usuários, <a href=\"/prep/maintain/html_node/Clean-Ups."
+"html\">manusear os <em>patches</em> adequadamente</a> e tudo mais. Esse é "
+"seu privilégio e sua responsabilidade. Ajude-nos a manter uma coleção ativa "
+"e estável de <em>software</em>. Se você tiver dúvidas ou tiver problemas, "
+"não hesite em entrar em contato através do e-mail &lt;maintainers@gnu."
+"org&gt;. (<a href=\"/prep/maintain/html_node/Recruiting-Developers.html"
+"\">Sobre o recrutamento de desenvolvedores</a>.)"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<b>Get involved.</b> GNU consists entirely of volunteers and your "
+"participation in the organization is what you make of it! As a maintainer, "
+"the communication received from us (read: pestering) will be low-volume.  "
+"Being active within GNU is a great way to increase your contact and exposure "
+"to other like-minded volunteers.  If you find an aspect of GNU in which you "
+"would like to be involved, there is almost certainly room for contribution.  "
+"(<a href=\"/help/help.html\">About helping GNU and free software</a>.)"
+msgstr ""
+"<b>Envolva-se.</b> O GNU consiste inteiramente de voluntários e sua "
+"participação na organização é o que você faz dela! Como mantenedor, a "
+"comunicação recebida de nós (leia-se: ser importunado) será de baixo volume. "
+"Ser ativo no GNU é uma ótima maneira de aumentar seu contato e exposição a "
+"outros voluntários com ideias semelhantes. Se você encontrar um aspecto do "
+"GNU no qual gostaria de se envolver, quase certamente há espaço para "
+"contribuição. (<a href=\"/help/help.html\">Sobre como ajudar o GNU e o "
+"Software Livre</a>.)"
+
+#. type: Content of: <p>
+msgid ""
+"To conclude this list with one final reiteration: the information and links "
+"above are just a sampling.  Please refer to and (re)read the full <a href=\"/"
+"prep/maintain/\">GNU Maintainer Information</a> and <a href=\"/prep/"
+"standards/\">GNU Coding Standards</a> documents for plenty more."
+msgstr ""
+"Para concluir esta lista, uma reiteração final: as informações e <em>links</"
+"em> acima são apenas uma amostra. Consulte e (re)leia os documentos <a href="
+"\"/prep/maintain/\">Informações do Mantenedor GNU</a> e <a href=\"/prep/"
+"standards/\">Padrão de Codificação GNU</a> para muito mais."
+
+#. type: Content of: <h3>
+msgid "GNU Philosophy"
+msgstr "Filosofia GNU"
+
+#. type: Content of: <p>
+msgid ""
+"This also seems like an appropriate page on which to give some links to the "
+"basic ideas of GNU and free software:"
+msgstr ""
+"Isso também parece ser uma página apropriada para dar alguns <em>links</em> "
+"sobre as ideias básicas do GNU e do Software Livre:"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"/gnu/the-gnu-project.html\">The GNU Project</a>"
+msgstr "<a href=\"/gnu/the-gnu-project.html\">O Projeto GNU</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/philosophy/free-sw.html\">What is free software?</a> (the free "
+"software definition)"
+msgstr ""
+"<a href=\"/philosophy/free-sw.html\">O que é Software Livre?</a> (a "
+"definição de Software Livre)"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/philosophy/categories.html\">Categories of free and nonfree "
+"software</a>"
+msgstr ""
+"<a href=\"/philosophy/categories.html\">Categorias de Software Livre e não "
+"livre</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/philosophy/compromise.html\">Avoiding ruinous compromises</a>"
+msgstr ""
+"<a href=\"/philosophy/compromise.html\">Evitando compromissos ruinosos</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/philosophy/words-to-avoid.html\">Words to avoid (or use with "
+"care) because they are loaded or confusing</a>"
+msgstr ""
+"<a href=\"/philosophy/words-to-avoid.html\">Palavras para evitar (ou usar "
+"com cuidado) porque são carregadas de sentido ou confusas</a>"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"/gnu/linux-and-gnu.html\">Linux and the GNU System</a>"
+msgstr "<a href=\"/gnu/linux-and-gnu.html\">Linux e o Sistema GNU</a>"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"/gnu/gnu-linux-faq.html\">GNU/Linux FAQ</a>"
+msgstr ""
+"<a href=\"/gnu/gnu-linux-faq.html\">Perguntas frequentes do GNU/Linux</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/philosophy/open-source-misses-the-point.html\">Why Open Source "
+"misses the point of Free Software</a>"
+msgstr ""
+"<a href=\"/philosophy/open-source-misses-the-point.html\">Por que Código "
+"Aberto não compartilha dos objetivos do Software Livre</a>"
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas deste site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2014, 2017, 2018, 2019 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2014, 2017, 2018, 2019 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2019.Revisado por: Cassiano Reinert Novais dos "
+"Santos <a href=\"mailto:caco@posteo.net\">&lt;caco@posteo.net&gt;</a>, 2020."
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização:"

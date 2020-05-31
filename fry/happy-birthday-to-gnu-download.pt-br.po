@@ -1,0 +1,281 @@
+# Brazilian Portuguese translation of https://www.gnu.org/fry/happy-birthday-to-gnu-download.html
+# Copyright (C) 2020 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2020.
+# Cassiano Reinert Novais dos Santos <caco@posteo.net>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: happy-birthday-to-gnu-download.html\n"
+"POT-Creation-Date: 2019-01-05 17:56+0000\n"
+"PO-Revision-Date: 2020-01-12 21:05-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid "Stephen Fry - GNU Project - Free Software Foundation"
+msgstr "Stephen Fry - Projeto GNU - Free Software Foundation"
+
+#. type: Attribute 'content' of: <meta>
+msgid ""
+"GNU, FSF, Free Software Foundation, Linux, Emacs, GCC, Unix, Free Software, "
+"Operating System, GNU Kernel, HURD, GNU HURD, Hurd"
+msgstr ""
+"GNU, FSF, Free Software Foundation, Linux, Emacs, GCC, Unix, Software Livre, "
+"Sistema Operacional, GNU Kernel, HURD, GNU HURD, Hurd"
+
+#. type: Attribute 'content' of: <meta>
+msgid ""
+"Since 1983, developing the free Unix style operating system GNU, so that "
+"computer users can have the freedom to share and improve the software they "
+"use."
+msgstr ""
+"Desde 1983, desenvolvendo o GNU, sistema operacional livre tipo Unix, para "
+"que usuários de computador possam ter a liberdade de compartilhar e melhorar "
+"o software que usam."
+
+#. type: Content of: <style>
+#, no-wrap
+msgid ""
+".inline {text-align: center; line-height: 4em; padding: 0; margin: 0 !important;  margin-bottom: 1em !important;}\n"
+"\n"
+".inline li{list-style: none; display: inline; }\n"
+"\n"
+"#download li a{background-color:#1ea410; padding: 1em 3em 1em 3em; -moz-border-radius: 8px; color: white; font-weight: bold; margin: 0.4em; text-decoration: none; width: 23%; text-align: center;}\n"
+"\n"
+"#download a:hover{background-color: #b1ef0b; color: black;}\n"
+"\n"
+".title{font-size: 180%;}\n"
+"\n"
+"h2{color: black !important; border: 0 !important; text-align: center;}\n"
+"\n"
+"h3{color: black !important; border: 0 !important; text-align: center; font-size: 1.2em !important;}\n"
+"\n"
+"td p{padding-left: 1em; padding-right: 1em;}\n"
+"\n"
+"td li, td p{font-size: 0.8em;}\n"
+"\n"
+".formHelp{text-align: center; color: #666; font-size: 90%;}\n"
+"\n"
+"table{margin-bottom: 0.8em !important;}\n"
+"\n"
+"#sjf{width: 600px; margin: 0 auto 1em auto;}\n"
+"\n"
+msgstr ""
+".inline {text-align: center; line-height: 4em; padding: 0; margin: 0 !important;  margin-bottom: 1em !important;}\n"
+"\n"
+".inline li{list-style: none; display: inline; }\n"
+"\n"
+"#download li a{background-color:#1ea410; padding: 1em 3em 1em 3em; -moz-border-radius: 8px; color: white; font-weight: bold; margin: 0.4em; text-decoration: none; width: 23%; text-align: center;}\n"
+"\n"
+"#download a:hover{background-color: #b1ef0b; color: black;}\n"
+"\n"
+".title{font-size: 180%;}\n"
+"\n"
+"h2{color: black !important; border: 0 !important; text-align: center;}\n"
+"\n"
+"h3{color: black !important; border: 0 !important; text-align: center; font-size: 1.2em !important;}\n"
+"\n"
+"td p{padding-left: 1em; padding-right: 1em;}\n"
+"\n"
+"td li, td p{font-size: 0.8em;}\n"
+"\n"
+".formHelp{text-align: center; color: #666; font-size: 90%;}\n"
+"\n"
+"table{margin-bottom: 0.8em !important;}\n"
+"\n"
+"#sjf{width: 600px; margin: 0 auto 1em auto;}\n"
+"\n"
+
+#. type: Content of: <h2>
+msgid "Download the film"
+msgstr "Baixe o filme"
+
+#. type: Content of: <p>
+msgid ""
+"You can download <a href=\"/fry/\">the film</a>, as well as alternate "
+"versions (including English and French subtitles, plus audio only versions) "
+"from the mirror sites below."
+msgstr ""
+"Você pode baixar <a href=\"/fry/\">o filme</a>, bem como versões "
+"alternativas (incluindo legendas em inglês e francês, além de versões apenas "
+"em áudio) dos <em>sites</em>-espelho abaixo."
+
+#. type: Content of: <h2>
+msgid "Other mirrors"
+msgstr "Outros espelhos"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"http://ma.tt/dropbox/2008/09/gnu/\">California</a>"
+msgstr "<a href=\"http://ma.tt/dropbox/2008/09/gnu/\">Califórnia</a>"
+
+#. type: Content of: <h2>
+msgid "Images for linking"
+msgstr "Imagens para criar <em>links</em>"
+
+#. type: Content of: <p><a>
+msgid "<a href=\"/fry/i/altcake.png\">"
+msgstr "<a href=\"/fry/i/altcake.png\">"
+
+#. type: Attribute 'alt' of: <p><a><img>
+msgid ""
+"&nbsp;[Photo of Fry presenting GNU's birthday cake, with text: 'Stephen Fry']"
+"&nbsp;"
+msgstr ""
+"&nbsp;[Foto de Fry apresentando o bolo de aniversário do GNU, com o texto: "
+"“Stephen Fry”]&nbsp;"
+
+#. type: Content of: <p>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <p><a>
+msgid "<a href=\"/fry/i/fryfreedom.png\">"
+msgstr "<a href=\"/fry/i/fryfreedom.png\">"
+
+#. type: Attribute 'alt' of: <p><a><img>
+msgid ""
+"&nbsp;[Photo of Fry presenting GNU's birthday cake, with text: 'Freedom Fry']"
+"&nbsp;"
+msgstr ""
+"&nbsp;[Foto de Fry apresentando o bolo de aniversário do GNU, com o texto: "
+"“Freedom Fry”]&nbsp;"
+
+#. type: Content of: <p><a>
+msgid "<a href=\"/fry/i/fryfry.png\">"
+msgstr "<a href=\"/fry/i/fryfry.png\">"
+
+#. type: Attribute 'alt' of: <p><a><img>
+msgid "&nbsp;[Small version of the 'Freedom Fry' image]&nbsp;"
+msgstr "&nbsp;[Versão pequena da imagem “Freedom Fry”]&nbsp;"
+
+#. type: Content of: <p><a>
+msgid "<a href=\"/fry/i/tinyfry.png\">"
+msgstr "<a href=\"/fry/i/tinyfry.png\">"
+
+#. type: Attribute 'alt' of: <p><a><img>
+msgid "&nbsp;[Tiny version of the 'Freedom Fry' image]&nbsp;"
+msgstr "&nbsp;[Versão minúscula da imagem “Freedom Fry”]&nbsp;"
+
+#. type: Content of: <p>
+msgid "<a href=\"/fry/i/\">More images for linking</a>"
+msgstr "<a href=\"/fry/i/\">Mais imagens para criar <em>links</em></a>"
+
+#. type: Content of: <p>
+msgid ""
+"All images are licensed under <a href=\"http://creativecommons.org/licenses/"
+"by-sa/3.0/us/\">Creative Commons Attribution-ShareAlike</a>."
+msgstr ""
+"Todas as imagens estão licenciadas sob uma licença <a href=\"https://"
+"creativecommons.org/licenses/by-sa/3.0/us/deed.pt_BR\">Creative Commons "
+"Atribuição-CompartilhaIgual</a>."
+
+#. type: Content of: <p>
+msgid ""
+"Thanks to Asheesh Laroia, Tim Dobson, Bill Xu, Jason Hoffman, Steve Pomeroy, "
+"Matt Mullenweg, FooCorp/Bytemark Hosting and Paul Robinson for providing "
+"these mirrors."
+msgstr ""
+"Agradecemos a Asheesh Laroia, Tim Dobson, Bill Xu, Jason Hoffman, Steve "
+"Pomeroy, Matt Mullenweg, FooCorp/Bytemark Hosting e Paul Robinson por "
+"fornecer esses espelhos."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas deste site."
+
+#. type: Content of: <div><p>
+msgid ""
+"Copyright &copy; 2008, 2013, 2014, 2017, 2018, 2019 Free Software "
+"Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2008, 2013, 2014, 2017, 2018, 2019 Free Software "
+"Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
+
+#. type: Content of: <div><p>
+msgid ""
+"&ldquo;<a href=\"/fry/happy-birthday-to-gnu.html\">Happy Birthday to GNU</"
+"a>&rdquo; is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-No "
+"Derivative Works 3.0 United States License</a>."
+msgstr ""
+"“<a href=\"/fry/happy-birthday-to-gnu.html\">Feliz aniversário para o GNU</"
+"a>” está licenciado sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+
+#. type: Content of: <div><p>
+msgid ""
+"Please <a href=\"http://www.fsf.org/about/contact.html\">contact us</a> for "
+"further permissions, including derived works."
+msgstr ""
+"Por favor, <a href=\"http://www.fsf.org/about/contact.html\">nos contate</a> "
+"para mais permissões, incluindo trabalhos derivados."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2020.Revisado por: Cassiano Reinert Novais dos "
+"Santos <a href=\"mailto:caco@posteo.net\">&lt;caco@posteo.net&gt;</a>, 2020."
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização:"

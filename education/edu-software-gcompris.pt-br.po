@@ -3,10 +3,11 @@
 # This file is distributed under the same license as the original article.
 # Rafael Fontenelle <rafaelff@gnome.org>, 2017.
 # André Phellip Ferreira <werewolf@cyberdude.com>, 2017. (proofread)
+# May 2020: update to new layout (T. Godefroy).
 msgid ""
 msgstr ""
 "Project-Id-Version: edu-software-gcompris.html\n"
-"POT-Creation-Date: 2016-09-13 15:56+0000\n"
+"POT-Creation-Date: 2020-05-27 10:42+0200\n"
 "PO-Revision-Date: 2018-01-17 15:45-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -21,37 +22,49 @@ msgstr ""
 msgid "GCompris - GNU Project - Free Software Foundation"
 msgstr "GCompris - Projeto GNU - Free Software Foundation"
 
-#. type: Content of: <p>
-msgid ""
-"<a href=\"/education/education.html\">Education</a> &rarr; <a href=\"/"
-"education/edu-resources.html\">Educational Resources</a> &rarr; <a href=\"/"
-"education/edu-software.html\">Educational Free Software</a> &rarr; GCompris"
-msgstr ""
-"<a href=\"/education/education.html\">Educação</a> &rarr; <a href=\"/"
-"education/edu-resources.html\">Recursos Educacionais</a> &rarr; <a href=\"/"
-"education/edu-software.html\">Software Livre Educacional</a> &rarr; GCompris"
-
-#. type: Content of: <h2>
-msgid "GCompris"
-msgstr "GCompris"
-
-#. type: Content of: <h3>
-msgid "Description"
-msgstr "Descrição"
-
 #. type: Content of: <div><a>
-msgid "<a href=\"/education/misc/gcompris.jpg\">"
-msgstr "<a href=\"/education/misc/gcompris.jpg\">"
+msgid "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+msgstr "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+
+#. type: Attribute 'title' of: <div><a><img>
+msgid "Education Contents"
+msgstr "Índice da Seção"
 
 #. type: Attribute 'alt' of: <div><a><img>
-msgid "Screenshot of the GCompris interface showing the various activities."
-msgstr "Imagem da interface do GCompris mostrando as várias atividades."
+msgid "&nbsp;[Education Contents]&nbsp;"
+msgstr "&nbsp;[Índice da Seção]&nbsp;"
 
-#. type: Content of: <div>
+#. type: Content of: <div><div><div>
 msgid "</a>"
 msgstr "</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><p><a><img>
+msgid "GNU Home"
+msgstr "Página inicial do GNU"
+
+#. type: Content of: <div><p>
+msgid ""
+"</a>&nbsp;/ <a href=\"/education/education.html\">Education</a>&nbsp;/ <a "
+"href=\"/education/edu-resources.html\">Resources</a>&nbsp;/ <a href=\"/"
+"education/edu-software.html\">Educational&nbsp;software</a>&nbsp;/"
+msgstr ""
+"</a>&nbsp;/ <a href=\"/education/education.html\">Educação</a>&nbsp;/ <a "
+"href=\"/education/edu-resources.html\">Recursos</a>&nbsp;/ <a href=\"/"
+"education/edu-software.html\">Software&nbsp;Educacional</a>&nbsp;/"
+
+#. type: Content of: <div><h2>
+msgid "GCompris"
+msgstr "GCompris"
+
+#. type: Content of: <div><div><h3>
+msgid "Description"
+msgstr "Descrição"
+
+#. type: Content of: <div><div><p>
 msgid ""
 "GCompris is a cross-platform complete educational suite for children from 2 "
 "to 10 years old, and it is part of the GNU project. It includes more than "
@@ -76,7 +89,15 @@ msgstr ""
 "suporte a contar histórias, de forma a melhorar a comunicação com crianças e "
 "ajudando-as a se expressar."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><div><a>
+msgid "<a href=\"/education/misc/gcompris.jpg\">"
+msgstr "<a href=\"/education/misc/gcompris.jpg\">"
+
+#. type: Attribute 'alt' of: <div><div><div><a><img>
+msgid "Screenshot of the GCompris interface showing the various activities."
+msgstr "Imagem da interface do GCompris mostrando as várias atividades."
+
+#. type: Content of: <div><div><p>
 msgid ""
 "GCompris includes several activities grouped on a yellow bar to the left of "
 "the screen, from which the child can choose as soon as the program is "
@@ -90,7 +111,7 @@ msgstr ""
 "adaptar o programa a necessidades específicas. O programa em si e todas as "
 "atividades estão disponíveis em muitos idiomas diferentes."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "To learn more: <a href=\"http://directory.fsf.org/project/gcompris/\"> FSF "
 "Directory</a>, <a href=\"http://gcompris.net/\"> GCompris Official Website</"
@@ -100,11 +121,11 @@ msgstr ""
 "Diretório da FSF</a> e <a href=\"http://gcompris.net/\">Site Oficial do "
 "GCompris</a>"
 
-#. type: Content of: <h3>
+#. type: Content of: <div><div><h3>
 msgid "Who's Using It and How"
 msgstr "Quem o está usando e como"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Gcompris activity-based design makes it highly and easily adaptable to "
 "particular environments. One example of innovative use of the program is in "
@@ -126,7 +147,7 @@ msgstr ""
 "adaptando o programa para as necessidades particulares de sua comunidade "
 "alvo."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The Insight team implemented a training module for teachers that provides "
 "instructions on how to use the different activities of GCompris when working "
@@ -146,7 +167,7 @@ msgstr ""
 "também foi distribuído para pais e educadores especiais para ajudá-los a "
 "entender como usar o software para melhorar as habilidades das crianças."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "GCompris is also used to help older children understand the relationship "
 "between numbers, learn basic arithmetic operations, train them in analytical "
@@ -158,11 +179,11 @@ msgstr ""
 "raciocínio analítico e a melhorar habilidades comunicativas, bem como fala, "
 "leitura e escrita."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><div><h3>
 msgid "Why"
 msgstr "Por que"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Teachers report that it is extremely easy for them to implement GCompris in "
 "their curriculum since children find it intuitive and fun to use. The "
@@ -174,7 +195,7 @@ msgstr ""
 "divertido de usar. O programa também é um excelente recurso para adultos e "
 "crianças com deficiências mentais."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "GCompris has become an important resource to speed up the child's learning "
 "process in the context of developing countries like India, where the only "
@@ -196,11 +217,11 @@ msgstr ""
 "desenvolvem rapidamente as habilidades motoras necessárias para usar um "
 "computador."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><div><h3>
 msgid "Results"
 msgstr "Resultados"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "GCompris respects the users' fundamental freedoms and this permitted the "
 "Insight developers and specialists to adapt the software to the children's "
@@ -221,7 +242,7 @@ msgstr ""
 "funcional de crianças com problemas intelectuais."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
-#. type: Content of: <div>
+#. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr " "
 
@@ -246,27 +267,29 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
-"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas desse site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2011, 2012, 2014, 2016 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2011, 2012, 2014, 2016 Free Software Foundation, Inc."
+msgid ""
+"Copyright &copy; 2011, 2012, 2014, 2016, 2020 Free Software Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2011, 2012, 2014, 2016, 2020 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

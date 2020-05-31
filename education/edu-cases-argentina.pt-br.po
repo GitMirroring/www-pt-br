@@ -2,10 +2,11 @@
 # Copyright (C) 2017 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Rafael Fontenelle <rafaelff@gnome.org>, 2017.
+# May 2020: update to new layout (T. Godefroy).
 msgid ""
 msgstr ""
 "Project-Id-Version: edu-cases-argentina.html\n"
-"POT-Creation-Date: 2016-09-13 15:55+0000\n"
+"POT-Creation-Date: 2020-05-27 11:13+0200\n"
 "PO-Revision-Date: 2017-09-30 22:15-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -17,22 +18,50 @@ msgstr ""
 "X-Generator: Virtaal 1.0.0-beta1\n"
 
 #. type: Content of: <title>
-msgid "Case Studies in Argentina - GNU Project - Free Software Foundation"
-msgstr "Estudos de Caso na Argentina - Projeto GNU - Free Software Foundation"
-
-#. type: Content of: <p>
 msgid ""
-"<a href=\"/education/education.html\">Education</a> &rarr; <a href=\"/"
-"education/edu-cases.html\">Case Studies</a> &rarr; Argentina"
+"Education - Case Studies in Argentina - GNU Project - Free Software "
+"Foundation"
 msgstr ""
-"<a href=\"/education/education.html\">Educação</a> &rarr; <a href=\"/"
-"education/edu-cases.html\">Estudos de Caso</a> &rarr; Argentina"
+"Educação - Estudos de Caso na Argentina - Projeto GNU - Free Software "
+"Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><a>
+msgid "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+msgstr "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+
+#. type: Attribute 'title' of: <div><a><img>
+msgid "Education Contents"
+msgstr "Índice da Seção"
+
+#. type: Attribute 'alt' of: <div><a><img>
+msgid "&nbsp;[Education Contents]&nbsp;"
+msgstr "&nbsp;[Índice da Seção]&nbsp;"
+
+#. type: Content of: <div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><p><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><p><a><img>
+msgid "GNU Home"
+msgstr "Página inicial do GNU"
+
+#. type: Content of: <div><p>
+msgid ""
+"</a>&nbsp;/ <a href=\"/education/education.html\">Education</a>&nbsp;/ <a "
+"href=\"/education/edu-cases.html\">Case&nbsp;Studies</a>&nbsp;/"
+msgstr ""
+"</a>&nbsp;/ <a href=\"/education/education.html\">Educação</a>&nbsp;/ <a "
+"href=\"/education/edu-cases.html\">Estudos&nbsp;de&nbsp;Caso</a>&nbsp;/"
+
+#. type: Content of: <div><h2>
 msgid "Case Studies in Argentina"
 msgstr "Estudos de Caso na Argentina"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Argentina's administrative territory is divided into twenty three political "
 "autonomous states called provinces. These provinces develop their own "
@@ -50,7 +79,7 @@ msgstr ""
 "\"http://en.wikipedia.org/wiki/Argentina#Education\">sistema educacional da "
 "Argentina</a> na Wikipédia."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Below are listed some of the educational institutions in Argentina who are "
 "using Free Software."
@@ -58,7 +87,7 @@ msgstr ""
 "Abaixo estão listadas algumas das instituições educacionais da Argentina que "
 "estão usando Software Livre."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href= \"/education/edu-cases-argentina-ecen.html\"> Escuela Cristiana "
 "Evang&eacute;lica de Neuqu&eacute;n (ECEN)</a>"
@@ -66,7 +95,7 @@ msgstr ""
 "<a href= \"/education/edu-cases-argentina-ecen.html\"> Escuela Cristiana "
 "Evang&eacute;lica de Neuqu&eacute;n (ECEN)</a>"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "An elementary teacher with little technical skills manages to get her school "
 "to completely migrate to Free Software on the grounds that proprietary "
@@ -76,12 +105,8 @@ msgstr ""
 "escola migre completamente para o Software Livre, alegando que o software "
 "proprietário é contra os valores morais e éticos promovidos pela escola."
 
-#. type: Content of: outside any tag (error?)
-msgid "<a href=\"/education/edu-cases.html\">Back to Case Studies</a>"
-msgstr "<a href=\"/education/edu-cases.html\">Voltar para Estudos de Casos</a>"
-
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
-#. type: Content of: <div>
+#. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr " "
 
@@ -106,27 +131,27 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
-"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas desse site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2011, 2015, 2016 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2011, 2015, 2016 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2011, 2015, 2016, 2020 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2011, 2015, 2016, 2020 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -149,3 +174,7 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid "<a href=\"/education/edu-cases.html\">Back to Case Studies</a>"
+#~ msgstr ""
+#~ "<a href=\"/education/edu-cases.html\">Voltar para Estudos de Casos</a>"

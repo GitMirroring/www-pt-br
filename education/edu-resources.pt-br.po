@@ -2,10 +2,11 @@
 # Copyright (C) 2019 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Rafael Fontenelle <rafaelff@gnome.org>, 2018, 2019.
+# May 2020: update to new layout (T. Godefroy).
 msgid ""
 msgstr ""
 "Project-Id-Version: edu-resources.html\n"
-"POT-Creation-Date: 2019-05-01 10:56+0000\n"
+"POT-Creation-Date: 2020-05-27 11:14+0200\n"
 "PO-Revision-Date: 2019-05-02 07:03-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -20,19 +21,39 @@ msgstr ""
 msgid "Educational Resources - GNU Project - Free Software Foundation"
 msgstr "Recursos Educacionais - Projeto GNU - Free Software Foundation"
 
-#. type: Content of: <p>
-msgid ""
-"<a href=\"/education/education.html\">Education</a> &rarr; Educational "
-"Resources"
-msgstr ""
-"<a href=\"/education/education.html\">Educação</a> &rarr; Recursos "
-"Educacionais"
+#. type: Content of: <div><a>
+msgid "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+msgstr "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
 
-#. type: Content of: <h2>
+#. type: Attribute 'title' of: <div><a><img>
+msgid "Education Contents"
+msgstr "Índice da Seção"
+
+#. type: Attribute 'alt' of: <div><a><img>
+msgid "&nbsp;[Education Contents]&nbsp;"
+msgstr "&nbsp;[Índice da Seção]&nbsp;"
+
+#. type: Content of: <div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><p><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><p><a><img>
+msgid "GNU Home"
+msgstr "Página inicial do GNU"
+
+#. type: Content of: <div><p>
+msgid "</a>&nbsp;/ <a href=\"/education/education.html\">Education</a>&nbsp;/"
+msgstr "</a>&nbsp;/ <a href=\"/education/education.html\">Educação</a>&nbsp;/"
+
+#. type: Content of: <div><h2>
 msgid "Educational Resources"
 msgstr "Recursos Educacionais"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This section will help you find a variety of resources related to education, "
 "such as: free study materials, free programs for educational institutions of "
@@ -50,20 +71,20 @@ msgstr ""
 "grupos de pessoas que seguem os princípios do Projeto GNU para promover o "
 "uso de software livre no campo educacional e muito mais."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Table of Contents"
 msgstr "Conteúdo"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "<a href=\"/education/edu-software.html\">Educational Free Software</a>"
 msgstr ""
 "<a href=\"/education/edu-software.html\">Software livre educational</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "<a href=\"/education/edu-projects.html\">Groups and Projects</a>"
 msgstr "<a href=\"/education/edu-projects.html\">Grupos e projetos</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/education/edu-free-learning-resources.html\">Free Learning "
 "Resources</a>"
@@ -72,7 +93,7 @@ msgstr ""
 "aprendizagem livres</a>"
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
-#. type: Content of: <div>
+#. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr " "
 
@@ -97,29 +118,29 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
-"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas desse site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2011, 2012, 2016, 2018, 2019 Free Software Foundation, Inc."
+"Copyright &copy; 2011, 2012, 2016, 2018-2020 Free Software Foundation, Inc."
 msgstr ""
-"Copyright &copy; 2011, 2012, 2016, 2018, 2019 Free Software Foundation, Inc."
+"Copyright &copy; 2011, 2012, 2016, 2018-2020 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -263,9 +284,6 @@ msgstr "Última atualização:"
 #~ "gutenberg.org/wiki/Gutenberg:No_Cost_or_Freedom%3f\"> diferença entre "
 #~ "<i>free</i> como em preço e <i>free</i> como em liberdade</a> relacionada "
 #~ "a materiais impressos."
-
-#~ msgid "GNU Project"
-#~ msgstr "Projeto GNU"
 
 #~ msgid ""
 #~ "We maintain a list of <a href=\"/doc/other-free-books.html\">free books</"

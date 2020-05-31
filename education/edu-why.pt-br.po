@@ -3,11 +3,12 @@
 # This file is distributed under the same license as the original article.
 # Hudson Flávio Menese Lacerda <hfmlacerda@yahoo.com.br>, 2014
 # Rafael Fontenelle <rafaelff@gnome.org>, 2017-2020.
+# May 2020: update to new layout (T. Godefroy).
 msgid ""
 msgstr ""
 "Project-Id-Version: edu-why.html\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-01 05:25+0000\n"
+"POT-Creation-Date: 2020-05-27 10:42+0200\n"
 "PO-Revision-Date: 2020-01-01 10:49-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -26,29 +27,51 @@ msgstr ""
 "Por que Instituições Educacionais Devem Usar e Ensinar Software Livre - "
 "Projeto GNU - Free Software Foundation"
 
-#. type: Content of: <p>
-msgid ""
-"<a href=\"/education/education.html\">Education</a> &rarr; <a href=\"/"
-"education/education.html#indepth\">In Depth</a> &rarr; Why Educational "
-"Institutions Should Use and Teach Free Software"
-msgstr ""
-"<a href=\"/education/education.html\">Educação</a> &rarr; <a href=\"/"
-"education/education.html#indepth\">Em Detalhes</a> &rarr; Por que "
-"Instituições Educacionais Devem Usar e Ensinar Software Livre"
+#. type: Content of: <div><a>
+msgid "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+msgstr "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
 
-#. type: Content of: <h2>
-msgid "Why Educational Institutions Should Use and Teach Free Software"
-msgstr "Por que Instituições Educacionais Devem Usar e Ensinar Software Livre"
+#. type: Attribute 'title' of: <div><a><img>
+msgid "Education Contents"
+msgstr "Índice da Seção"
+
+#. type: Attribute 'alt' of: <div><a><img>
+msgid "&nbsp;[Education Contents]&nbsp;"
+msgstr "&nbsp;[Índice da Seção]&nbsp;"
+
+#. type: Content of: <div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><p><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><p><a><img>
+msgid "GNU Home"
+msgstr "Página inicial do GNU"
 
 #. type: Content of: <div><p>
 msgid ""
-"<strong>\"Schools should teach their students to be citizens of a strong, "
-"capable, independent and free society.\"</strong>"
+"</a>&nbsp;/ <a href=\"/education/education.html\">Education</a>&nbsp;/ <a "
+"href=\"/education/education.html#indepth\">In&nbsp;Depth</a>&nbsp;/"
 msgstr ""
-"<strong>“Escolas devem ensinar seus estudantes a serem cidadãos de uma "
-"sociedade forte, capaz, independente e livre.”</strong>"
+"</a>&nbsp;/ <a href=\"/education/education.html\">Educação</a>&nbsp;/ <a "
+"href=\"/education/education.html#indepth\">Em&nbsp;Detalhes</a>&nbsp;/"
 
-#. type: Content of: <p>
+#. type: Content of: <div><h2>
+msgid "Why Educational Institutions Should Use and Teach Free Software"
+msgstr "Por que Instituições Educacionais Devem Usar e Ensinar Software Livre"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"<em>&ldquo;Schools should teach their students to be citizens of a strong, "
+"capable, independent and free society.&rdquo;</em>"
+msgstr ""
+"<em>“Escolas devem ensinar seus estudantes a serem cidadãos de uma sociedade "
+"forte, capaz, independente e livre.”</em>"
+
+#. type: Content of: <div><div><p>
 msgid ""
 "These are the main reasons why universities and schools of all levels should "
 "use exclusively Free Software."
@@ -56,11 +79,11 @@ msgstr ""
 "Estas são as principais razões pelas quais universidades e escolas de todos "
 "os níveis devem usar exclusivamente Software Livre."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><div><h3>
 msgid "Sharing"
 msgstr "Compartilhamento"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Schools should teach the value of sharing by setting an example. Free "
 "software supports education by allowing the sharing of knowledge and tools:"
@@ -69,7 +92,7 @@ msgstr ""
 "livre apoia a educação por permitir o compartilhamento de conhecimento e "
 "ferramentas:"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<strong>Knowledge</strong>. Many young students have a talent for "
 "programming; they are fascinated with computers and eager to learn how their "
@@ -85,7 +108,7 @@ msgstr ""
 "estudantes. Mas se o programa é Software Livre, o professor pode explicar o "
 "básico e, então, entregar o código-fonte para que o estudante leia e aprenda."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<strong>Tools</strong>. Teachers can hand out to students copies of the "
 "programs they use in the classroom so that they can use them at home. With "
@@ -96,11 +119,11 @@ msgstr ""
 "usá-los em casa. Com Software Livre, copiar não é apenas autorizado, é "
 "incentivado."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><div><h3>
 msgid "Social Responsibility"
 msgstr "Responsabilidade Social"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Computing has become an essential part of everyday life. Digital technology "
 "is transforming society very quickly, and schools have an influence on the "
@@ -121,11 +144,11 @@ msgstr ""
 "educacionais não devem permitir que empresas de software proprietário "
 "imponham seu poder sobre o resto da sociedade e seu futuro."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><div><h3>
 msgid "Independence"
 msgstr "Independência"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Schools have an ethical responsibility to teach strength, not dependency on "
 "a single product or a specific powerful company. Furthermore, by choosing to "
@@ -137,7 +160,7 @@ msgstr ""
 "escolher Software Livre, a própria escola ganha independência de qualquer "
 "interesse comercial e evita aprisionamento por um fornecedor."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "Proprietary software companies use schools and universities as a springboard "
 "to reach users and thus impose their software on society as a whole. They "
@@ -158,7 +181,7 @@ msgstr ""
 "fazendo é recrutar escolas e universidades como agentes para conduzir "
 "pessoas a uma dependência permanente a longo prazo."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "Free software licenses do not expire, which means that once Free Software is "
 "adopted, institutions remain independent from the vendor.  Moreover, Free "
@@ -179,11 +202,11 @@ msgstr ""
 "contratar os serviços de qualquer desenvolvedor para realizar a tarefa, "
 "independentemente de quem tenha sido o fornecedor original."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><div><h3>
 msgid "Learning"
 msgstr "Aprendizagem"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "When deciding where they will study, more and more students are considering "
 "whether a university teaches computer science and software development using "
@@ -200,11 +223,11 @@ msgstr ""
 "sobre Software Livre também ajuda no estudo da ética no desenvolvimento de "
 "software e na prática profissional."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><div><h3>
 msgid "Saving"
 msgstr "Economia"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "This is an obvious advantage that will appeal immediately to many school "
 "administrators, but it is a marginal benefit. The main point of this aspect "
@@ -219,11 +242,11 @@ msgstr ""
 "famílias em dificuldades financeiras, promovendo assim justiça e "
 "oportunidades iguais de aprendizagem entre os estudantes."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><div><h3>
 msgid "Quality"
 msgstr "Qualidade"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Stable, secure and easily installed Free Software solutions are available "
 "for education already. In any case, excellence of performance is a secondary "
@@ -235,7 +258,7 @@ msgstr ""
 "computador."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
-#. type: Content of: <div>
+#. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr " "
 
@@ -260,31 +283,27 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
-"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas desse site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid ""
-"Copyright &copy; 2011, 2015, 2016, 2017, 2018, 2019, 2020 Free Software "
-"Foundation, Inc."
-msgstr ""
-"Copyright &copy; 2011, 2015, 2016, 2017, 2018, 2019, 2020 Free Software "
-"Foundation, Inc."
+msgid "Copyright &copy; 2011, 2015, 2016, 2020 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2011, 2015, 2016, 2020 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -308,13 +327,6 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
-
-#~ msgid ""
-#~ "Copyright &copy; 2011, 2015, 2016, 2017, 2018 Free Software Foundation, "
-#~ "Inc."
-#~ msgstr ""
-#~ "Copyright &copy; 2011, 2015, 2016, 2017, 2018 Free Software Foundation, "
-#~ "Inc."
 
 #~ msgid ""
 #~ "<strong>Knowledge</strong>. Many young students have a talent for "

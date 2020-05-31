@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnu.html\n"
-"POT-Creation-Date: 2020-01-01 05:25+0000\n"
-"PO-Revision-Date: 2020-01-01 10:49-0300\n"
+"POT-Creation-Date: 2020-05-06 01:25+0000\n"
+"PO-Revision-Date: 2020-05-09 07:52-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -71,6 +71,14 @@ msgid ""
 "the project"
 msgstr ""
 "<a href=\"/gnu/initial-announcement.html\">O anúncio inicial</a> do projeto"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/gnu/gnu-structure.html\">The Structure and Administration of the "
+"GNU Project</a>"
+msgstr ""
+"<a href=\"/gnu/gnu-structure.html\">A estrutura e administração do Projeto "
+"GNU</a>"
 
 #. type: Content of: <ul><li>
 msgid "<a href=\"/gnu/manifesto.html\">The GNU Manifesto</a>"
@@ -197,6 +205,30 @@ msgstr ""
 "<a href=\"http://libreplanet.org/wiki/Group_list\">GNU/Linux, GNU/Hurd e "
 "grupos de usuários de software livre</a>"
 
+#. type: Content of: <h3>
+msgid "<a id=\"elsewhere\"></a>GNU elsewhere"
+msgstr "<a id=\"elsewhere\"></a>GNU em outros lugares"
+
+#. type: Content of: <h4>
+msgid "<a id=\"asteroid\"></a>(9965) GNU"
+msgstr "<a id=\"asteroid\"></a>(9965) GNU"
+
+#. type: Content of: <p>
+msgid ""
+"Main-belt asteroid <a href=\"https://www.minorplanetcenter.net/db_search/"
+"show_object?object_id=9965\">(9965)  GNU</a>, provisionally designated as "
+"1992 EF<sub>2</sub>, was named after the GNU project in the <a href="
+"\"https://www.minorplanetcenter.net/iau/ECS/MPCArchive/2000/MPC_20001111.pdf"
+"\">Minor Planet Circular 41571</a>. The asteroid was discovered at Kitt Peak "
+"by Spacewatch on the 5<sup>th</sup> March 1992."
+msgstr ""
+"O asteroide do cinturão principal <a href=\"https://www.minorplanetcenter."
+"net/db_search/show_object?object_id=9965\">(9965) GNU</a>, designado "
+"provisoriamente como 1992 EF<sub>2</sub>, recebeu o nome do projeto GNU na "
+"<a href=\"https://www.minorplanetcenter.net/iau/ECS/MPCArchive/2000/"
+"MPC_20001111.pdf\">Minor Planet Circular 41571</a>. O asteroide foi "
+"descoberto em Kitt Peak pelo Spacewatch em 5 de março de 1992."
+
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
@@ -234,12 +266,12 @@ msgid ""
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
-"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
 "\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas desse site."
+"envio de traduções das páginas deste site."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -263,7 +295,7 @@ msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "<strong>Traduzido por</strong>: Yuri da Silva, 2014; \n"
 "Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome."
-"org&gt;</a>, 2016, 2018, 2019."
+"org&gt;</a>, 2016-2020."
 
 #.  timestamp start 
 #. type: Content of: <div><p>

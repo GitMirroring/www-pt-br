@@ -1,16 +1,16 @@
 # Brazilian Portuguese translation of http://www.gnu.org/philosophy/open-source-misses-the-point.html
-# Copyright (C) 2019 Free Software Foundation, Inc.
+# Copyright (C) 2020 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnu.org article.
 # Thiago Carreira <saycusca@gmail.com>, 2012.
 # Rafael Beraldo <rberaldo@cabaladada.org>, 2012.
 # Dec 2014: trivial update of a few strings (T. Godefroy).
 # Diego Viola <diego.viola@gmail.com>, 2017 (corrections).
-# Rafael Fontenelle <rafaelff@gnome.org>, 2016, 2017, 2019.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2016-2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: open-source-misses-the-point.html\n"
-"POT-Creation-Date: 2019-04-28 11:56+0000\n"
-"PO-Revision-Date: 2019-04-28 11:18-0200\n"
+"POT-Creation-Date: 2020-01-07 13:55+0000\n"
+"PO-Revision-Date: 2020-01-07 14:59-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -231,12 +231,16 @@ msgid ""
 "We in the free software movement don't think of the open source camp as an "
 "enemy; the enemy is proprietary (nonfree) software.  But we want people to "
 "know we stand for freedom, so we do not accept being mislabeled as open "
-"source supporters."
+"source supporters.  What we advocate is not &ldquo;open source,&rdquo; and "
+"what we oppose is not &ldquo;closed source&rdquo;.  To make this clear, we "
+"avoid using those terms."
 msgstr ""
 "Nós do movimento do software livre não vemos o código aberto como um "
 "empreendimento inimigo; o inimigo é o software (não livre) proprietário. "
 "Porém, nós queremos que as pessoas saibam que apoiamos a liberdade, por isso "
-"não aceitamos ser rotulados erroneamente como partidários do código aberto."
+"não aceitamos ser rotulados erroneamente como apoiadores do código aberto. O "
+"que defendemos não é “código aberto” e o que nos opomos não é “código "
+"fechado”. Para deixar isso claro, evitamos usar esses termos."
 
 #. type: Content of: <div><h3>
 msgid "Practical Differences between Free Software and Open Source"
@@ -986,16 +990,18 @@ msgid ""
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
-"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
 "\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas desse site."
+"envio de traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2007, 2010, 2012, 2015, 2016, 2019 Richard Stallman"
-msgstr "Copyright &copy; 2007, 2010, 2012, 2015, 2016, 2019 Richard Stallman"
+msgid ""
+"Copyright &copy; 2007, 2010, 2012, 2015, 2016, 2019, 2020 Richard Stallman"
+msgstr ""
+"Copyright &copy; 2007, 2010, 2012, 2015, 2016, 2019, 2020 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -1013,7 +1019,7 @@ msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "<b>Tradução:</b> Thiago Carreira <a href=\"mailto:saycusca@gmail.com\">&lt;"
 "saycusca@gmail.com&gt;</a>, 2012; Rafael Fontenelle <a href=\"mailto:"
-"rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, 2016, 2019;"
+"rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, 2016-2020;"
 
 #.  timestamp start 
 #. type: Content of: <div><p>

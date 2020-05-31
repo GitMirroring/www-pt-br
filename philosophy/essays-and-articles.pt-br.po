@@ -1,5 +1,5 @@
 # Brazilian Portuguese translation of https://www.gnu.org/philosophy/essays-and-articles.html
-# Copyright (C) 2018 Free Software Foundation, Inc.
+# Copyright (C) 2020 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnu.org article.
 # Pedro Oliveira <bili@linux.fe.up.pt>, 2001.
 # Miguel Oliveira <pmike@esoterica.pt>, 2001.
@@ -7,13 +7,13 @@
 # Leandro Guimarães Faria Corcete Dutra <leandro.gfc.dutra@gmail.com>, 2009.
 # Aslan Carlos <aslancarlos@gmail.com>, 2012.
 # Rafael Beraldo <rberaldo@cabaladada.org>, 2012.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2017-2019.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017-2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: essays-and-articles.html\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-19 08:56+0000\n"
-"PO-Revision-Date: 2019-04-23 06:48-0200\n"
+"POT-Creation-Date: 2020-05-04 19:25+0000\n"
+"PO-Revision-Date: 2020-05-09 07:30-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -1291,6 +1291,10 @@ msgid "Misc"
 msgstr "Diversos"
 
 #. type: Content of: <ul><li>
+msgid "<a href=\"/philosophy/posting-videos.html\">Posting Videos</a>"
+msgstr "<a href=\"/philosophy/posting-videos.html\">Publicando vídeos</a>"
+
+#. type: Content of: <ul><li>
 msgid ""
 "<a href=\"/philosophy/proprietary.html\">Clearly established cases of "
 "proprietary software that does nasty things to the users</a>."
@@ -1498,6 +1502,14 @@ msgstr "Mantendo-se Fiel à Liberdade de Software"
 
 #. type: Content of: <ul><li>
 msgid ""
+"<a href=\"/philosophy/saying-no-even-once.html\">Saying No to unjust "
+"computing even once is help</a>"
+msgstr ""
+"<a href=\"/philosophy/saying-no-even-once.html\">Dizer não à computação "
+"injusta mesmo uma vez é ajudar</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
 "<a href=\"/philosophy/install-fest-devil.html\">Install Fests: What to Do "
 "about the Deal with the Devil</a>"
 msgstr ""
@@ -1599,16 +1611,16 @@ msgid ""
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
-"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
 "\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas desse site."
+"envio de traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 1996-2019 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 1996-2019 Free Software Foundation, Inc."
+msgid "Copyright &copy; 1996-2020 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 1996-2020 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -1629,7 +1641,7 @@ msgstr ""
 "2012; \n"
 "Rafael Fontenelle\n"
 "<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, "
-"2017-2019"
+"2017-2020"
 
 #.  timestamp start 
 #. type: Content of: <div><p>
@@ -2004,14 +2016,6 @@ msgstr "Última atualização:"
 #~ msgstr ""
 #~ "<a href=\"/philosophy/speeches-and-interview.html\">Discursos e "
 #~ "entrevistas</a>"
-
-#, fuzzy
-#~| msgid ""
-#~| "<a href=\"/philosophy/third-party-ideas.html\">Third party ideas</a>"
-#~ msgid ""
-#~ "<a href=\"/philosophy/third-party-ideas.html\"> Third party ideas</a>"
-#~ msgstr ""
-#~ "<a href=\"/philosophy/third-party-ideas.html\">Ideias de terceiros</a>"
 
 #~ msgid "<a href=\"/philosophy/\">The main philosophy page</a>"
 #~ msgstr "<a href=\"/philosophy/\">A página principal de filosofia</a>"

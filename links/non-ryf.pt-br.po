@@ -1,0 +1,179 @@
+# Brazilian Portuguese translation of https://www.gnu.org/links/non-ryf.html
+# Copyright (C) 2020 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2020.
+# Cassiano Reinert Novais dos Santos <caco@posteo.net>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: non-ryf.html\n"
+"POT-Creation-Date: 2020-01-22 08:26+0000\n"
+"PO-Revision-Date: 2020-01-15 09:19-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid ""
+"Non-RYF Computers with GNU/Linux preinstalled - GNU Project - Free Software "
+"Foundation"
+msgstr ""
+"Computadores sem RYF com GNU/Linux pré-instalado - Projeto GNU - Free "
+"Software Foundation"
+
+#. type: Content of: <h2>
+msgid ""
+"Non-<abbr title=\"Respects Your Freedom\">RYF</abbr> computers with <abbr "
+"title=\"GNU's Not Unix!\">GNU</abbr>/Linux preinstalled"
+msgstr ""
+"Computadores sem <abbr title=\"Respects Your Freedom\">RYF</abbr> com <abbr "
+"title=\"GNU's Not Unix!\">GNU</abbr>/Linux pré-instalado"
+
+#. type: Content of: <p>
+msgid ""
+"The computers sold by these companies require the use of a proprietary "
+"BIOS.  A BIOS is a program used to load the operating system and start the "
+"computer."
+msgstr ""
+"Os computadores vendidos por essas empresas exigem o uso de uma BIOS "
+"proprietária. Uma BIOS é um programa usado para carregar o sistema "
+"operacional e iniciar o computador."
+
+#. type: Content of: <p>
+msgid ""
+"Also, if the computer uses an Intel processor, it most probably has the "
+"Intel Management Engine (ME) which <a href=\"https://www.fsf.org/blogs/"
+"licensing/intel-me-and-why-we-should-get-rid-of-me\"> is a backdoor</a> and "
+"is known to have had security <a href=\"/proprietary/proprietary-insecurity."
+"html#intel-me-10-year-vulnerability\">flaws in the past</a>."
+msgstr ""
+"Além disso, se o computador usa um processador Intel, provavelmente possui o "
+"Intel Management Engine (ME), que <a href=\"https://www.fsf.org/blogs/"
+"licensing/intel-me-and-why-we-should-get-rid-of-me\"> é um <em>backdoor</"
+"em></a> e é conhecido por ter tido <a href=\"/proprietary/proprietary-"
+"insecurity.html#intel-me-10-year-vulnerability\">falhas de segurança no "
+"passado</a>."
+
+#. type: Content of: <p>
+msgid ""
+"Due to the above issues, computers sold by these companies do not have FSF's "
+"<a href=\"https://fsf.org/ryf\">Respects Your Freedom certification</a> "
+"though they're able to run a <a href=\"/distros/free-distros.html\">fully "
+"free GNU/Linux operating system</a>."
+msgstr ""
+"Devido aos problemas acima, os computadores vendidos por essas empresas não "
+"possuem a <a href=\"https://fsf.org/ryf\">certificação Respects Your "
+"Freedom</a> (“Respeita Sua Liberdade”, em português), embora possam usar um "
+"<a href=\"/distros/free-distros.html\">sistema operacional GNU/Linux "
+"totalmente livre</a>."
+
+#. type: Content of: <p>
+msgid ""
+"If you represent a company and would like to have your computers mentioned "
+"here please make sure that the default preinstalled GNU/Linux distro on your "
+"computers is one that's <a href=\"/distros/free-distros.html\">endorsed by "
+"the FSF</a> or is at least selectable as an option during purchasing."
+msgstr ""
+"Se você representa uma empresa e gostaria que seus computadores fossem "
+"mencionados aqui, certifique-se que a distribuição padrão pré-instalada do "
+"GNU/Linux em seus computadores seja <a href=\"/distros/free-distros.html"
+"\">endossada pela FSF</a> ou pelo menos seja selecionável como uma opção "
+"durante a compra."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"<a href=\"http://libre.thinkpenguin.com/\">ThinkPenguin.com</a> offers "
+"computers preinstalled with Trisquel."
+msgstr ""
+"<a href=\"http://libre.thinkpenguin.com/\">ThinkPenguin.com</a> oferece "
+"computadores pré-instalados com Trisquel."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"<a href=\"https://puri.sm/\">Purism</a> offers laptops and smartphones "
+"preinstalled with PureOS."
+msgstr ""
+"<a href=\"https://puri.sm/\">Purism</a> oferece laptops e smartphones pré-"
+"instalados com PureOS."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas deste site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2017, 2018, 2019, 2020 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2017, 2018, 2019, 2020 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2020.Revisado por: Cassiano Reinert Novais dos "
+"Santos <a href=\"mailto:caco@posteo.net\">&lt;caco@posteo.net&gt;</a>, 2020."
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização:"
+
+#~ msgid ""
+#~ "<a href=\"http://www.inatux.com/gnu\">InaTux</a> also offers computers "
+#~ "preinstalled with gNewSense."
+#~ msgstr ""
+#~ "<a href=\"http://www.inatux.com/gnu\">InaTux</a> também oferece "
+#~ "computadores pré-instalados com gNewSense."

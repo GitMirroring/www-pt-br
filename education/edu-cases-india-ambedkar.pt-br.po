@@ -2,10 +2,11 @@
 # Copyright (C) 2017 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Rafael Fontenelle <rafaelff@gnome.org>, 2017, 2018.
+# May 2020: update to new layout (T. Godefroy).
 msgid ""
 msgstr ""
 "Project-Id-Version: edu-cases-india-ambedkar.html\n"
-"POT-Creation-Date: 2018-08-26 15:57+0000\n"
+"POT-Creation-Date: 2020-05-27 10:41+0200\n"
 "PO-Revision-Date: 2018-08-26 13:32-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -24,22 +25,45 @@ msgstr ""
 "Centro de Computação Comunitária de Ambedkar (AC3) - Projeto GNU - Free "
 "Software Foundation"
 
-#. type: Content of: <p>
-msgid ""
-"<a href=\"/education/education.html\">Education</a> &rarr; <a href=\"/"
-"education/edu-cases.html\">Case Studies</a> &rarr; <a href=\"/education/edu-"
-"cases-india.html\">India</a> &rarr; Ambedkar Community Computing Center (AC3)"
-msgstr ""
-"<a href=\"/education/education.html\">Educação</a> &rarr; <a href=\"/"
-"education/edu-cases.html\">Estudos de Casos</a> &rarr; <a href=\"/education/"
-"edu-cases-india.html\">Índia</a> &rarr; Centro de Computação Comunitária de "
-"Ambedkar (AC3)"
+#. type: Content of: <div><a>
+msgid "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+msgstr "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
 
-#. type: Content of: <h2>
+#. type: Attribute 'title' of: <div><a><img>
+msgid "Education Contents"
+msgstr "Índice da Seção"
+
+#. type: Attribute 'alt' of: <div><a><img>
+msgid "&nbsp;[Education Contents]&nbsp;"
+msgstr "&nbsp;[Índice da Seção]&nbsp;"
+
+#. type: Content of: <div><div><div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><p><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><p><a><img>
+msgid "GNU Home"
+msgstr "Página inicial do GNU"
+
+#. type: Content of: <div><p>
+msgid ""
+"</a>&nbsp;/ <a href=\"/education/education.html\">Education</a>&nbsp;/ <a "
+"href=\"/education/edu-cases.html\">Case&nbsp;Studies</a>&nbsp;/ <a href=\"/"
+"education/edu-cases-india.html\">India</a>&nbsp;/"
+msgstr ""
+"</a>&nbsp;/ <a href=\"/education/education.html\">Educação</a>&nbsp;/ <a "
+"href=\"/education/edu-cases.html\">Estudos&nbsp;de&nbsp;Caso</a>&nbsp;/ <a "
+"href=\"/education/edu-cases-india.html\">Índia</a>&nbsp;/"
+
+#. type: Content of: <div><h2>
 msgid "Ambedkar Community Computing Center (AC3)"
 msgstr "Centro de Computação Comunitária de Ambedkar (AC3)"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The following information was submitted to us by the group of volunteers "
 "working at the Center."
@@ -47,11 +71,11 @@ msgstr ""
 "As informações a seguir nos foram submetidas pelo grupo de voluntários "
 "trabalhando no Centro."
 
-#. type: Content of: <div><h3>
+#. type: Content of: <div><div><h3>
 msgid "Location"
 msgstr "Localização"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The Center is located in the Sudharshan Layout off Bannerghatta Road in "
 "Bangalore, <a href=\"http://en.wikipedia.org/wiki/Karnataka#Education\"> "
@@ -61,11 +85,11 @@ msgstr ""
 "Bangalore, <a href=\"http://en.wikipedia.org/wiki/Karnataka#Education\"> "
 "estado de Karnataka</a>, Índia."
 
-#. type: Content of: <div><h3>
+#. type: Content of: <div><div><h3>
 msgid "About"
 msgstr "Sobre"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The <a href=\"https://web.archive.org/web/20180216204910/http://slumdweller."
 "wikispaces.com/Community+Computing+Center\"> Ambedkar Community Computing "
@@ -80,7 +104,7 @@ msgstr ""
 "centro de computação educacional mantido por jovens de um grupo local "
 "chamado <cite>Ambedkar Sanga</cite> que trabalha nas favelas da área."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The Center was founded in 2007 in an effort to bring the world of computers "
 "close to underprivileged children and youths who otherwise would have little "
@@ -90,7 +114,7 @@ msgstr ""
 "mais perto das crianças e jovens desprivilegiados que, do contrário, teriam "
 "pouca oportunidade de conseguir contato com essa tecnologia."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The group consists of around 15 children and young boys and girls from 13 to "
 "23 years old. They attend classes 3 times a week for 2 hours each session."
@@ -99,11 +123,11 @@ msgstr ""
 "23 anos de idade. Eles assistem a aulas 3 vezes por semana, por 2 horas cada "
 "sessão."
 
-#. type: Content of: <div><h3>
+#. type: Content of: <div><div><h3>
 msgid "Motivation"
 msgstr "Motivação"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The area in which this Center is located lacks even the most basic living "
 "conditions. We feel that the kids from this place should get a good thirst "
@@ -116,15 +140,15 @@ msgstr ""
 "Livre serve para esse propósito. Software Livre é uma forma de falar sobre "
 "Liberdade."
 
-#. type: Content of: <div><h3>
+#. type: Content of: <div><div><h3>
 msgid "How We Did It"
 msgstr "Como Nós Fizemos Isso"
 
-#. type: Content of: <div><div><a>
+#. type: Content of: <div><div><div><a>
 msgid "<a href=\"/education/misc/ambedkar.jpg\">"
 msgstr "<a href=\"/education/misc/ambedkar.jpg\">"
 
-#. type: Attribute 'alt' of: <div><div><a><img>
+#. type: Attribute 'alt' of: <div><div><div><a><img>
 msgid ""
 "Image of a student handing a copy of the essay 'The Future is Ours' to "
 "Richard Stallman."
@@ -132,11 +156,7 @@ msgstr ""
 "Imagem de um estudante entregando uma cópia do ensaio “O Futuro é Nosso” ao "
 "Richard Stallman."
 
-#. type: Content of: <div><div>
-msgid "</a>"
-msgstr "</a>"
-
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "No migration process was involved. We are Free Software advocates so we "
 "started directly by installing Free Software in all computers in use; "
@@ -152,11 +172,11 @@ msgstr ""
 "de hardware. Nós usamos apenas laptops e precisamos de todos que "
 "conseguirmos. Nós dependemos de doações para nosso trabalho."
 
-#. type: Content of: <div><h3>
+#. type: Content of: <div><div><h3>
 msgid "Commitment to Free Software"
 msgstr "Comprometimento com o Software Livre"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "We have five work stations, all of which are laptops and all of them run "
 "fully free operating systems."
@@ -164,7 +184,7 @@ msgstr ""
 "Nós temos cinco estações de trabalho, todas sendo laptops e todas "
 "funcionando com sistemas operacionais totalmente livres."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "All of the programs we use are Free Libre software. For example, we use <a "
 "href=\"http://www.libreoffice.org/\">LibreOffice</a> for spreadsheets and "
@@ -176,11 +196,11 @@ msgstr ""
 "escrita de documentos em geral, e <a href=\"http://directory.fsf.org/wiki/"
 "GIMP\">GIMP</a> para imagens."
 
-#. type: Content of: <div><h3>
+#. type: Content of: <div><div><h3>
 msgid "Results"
 msgstr "Resultados"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Browsing the web using Free Software helps these young boys and girls to "
 "have access to the external world in safety and confidence. Free Libre "
@@ -192,7 +212,7 @@ msgstr ""
 "imagens, como o GIMP, permitem que eles expressem sua criatividade livre e "
 "facilmente."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "<a href=\"/education/edu-software-gimp.html#Mani\">One of the "
 "underprivileged kids</a> who attends classes at the Center has achieved a "
@@ -209,7 +229,7 @@ msgstr ""
 "é Nosso” (em inglês, <cite>The Future is Ours</cite>), o qual foi produzido "
 "no Centro."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Some of the kids who attend our classes also take computing courses at "
 "school. They report that the skills they learn at the Center are of "
@@ -220,7 +240,7 @@ msgstr ""
 "Centro são de grande ajuda para acompanhar e passar naqueles cursos com "
 "sucesso."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We are informed that the outstanding effort of Free Software volunteers is "
 "expanding in these deprived areas of the city, with remarkable results. If "
@@ -233,7 +253,7 @@ msgstr ""
 "esse grupo, por favor nos contate em <a href=\"mailto:education@gnu.org"
 "\">&lt;education@gnu.org&gt;</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The image on this page is licensed under the CC-BY-SA, <a rel=\"license\" "
 "href=\"http://creativecommons.org/licenses/by-sa/3.0/\"> Creative Commons "
@@ -243,19 +263,8 @@ msgstr ""
 "\"license\" href=\"http://creativecommons.org/licenses/by-sa/3.0/deed.pt_BR"
 "\"> Creative Commons Atribuição-CompartilhaIgual 3.0 Não Adaptada</a>."
 
-#. type: Content of: <p>
-msgid ""
-"<a href=\"/education/edu-cases-india.html\">More Case Studies in India</a>"
-msgstr ""
-"<a href=\"/education/edu-cases-india.html\">Mais Estudos de Casos na Índia</"
-"a>"
-
-#. type: Content of: <p>
-msgid "<a href=\"/education/edu-cases.html\">Back to Case Studies</a>"
-msgstr "<a href=\"/education/edu-cases.html\">Voltar para Estudos de Casos</a>"
-
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
-#. type: Content of: <div>
+#. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr " "
 
@@ -280,27 +289,29 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
-"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas desse site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2011, 2012, 2016, 2018 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2011, 2012, 2016, 2018 Free Software Foundation, Inc."
+msgid ""
+"Copyright &copy; 2011, 2012, 2016, 2018, 2020 Free Software Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2011, 2012, 2016, 2018, 2020 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -324,6 +335,16 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid ""
+#~ "<a href=\"/education/edu-cases-india.html\">More Case Studies in India</a>"
+#~ msgstr ""
+#~ "<a href=\"/education/edu-cases-india.html\">Mais Estudos de Casos na "
+#~ "Índia</a>"
+
+#~ msgid "<a href=\"/education/edu-cases.html\">Back to Case Studies</a>"
+#~ msgstr ""
+#~ "<a href=\"/education/edu-cases.html\">Voltar para Estudos de Casos</a>"
 
 #~ msgid "Copyright &copy; 2011, 2012, 2016 Free Software Foundation, Inc."
 #~ msgstr "Copyright &copy; 2011, 2012, 2016 Free Software Foundation, Inc."

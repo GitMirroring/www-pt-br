@@ -2,10 +2,11 @@
 # Copyright (C) 2017 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Rafael Fontenelle <rafaelff@gnome.org>, 2017.
+# May 2020: update to new layout (T. Godefroy).
 msgid ""
 msgstr ""
 "Project-Id-Version: edu-team.html\n"
-"POT-Creation-Date: 2016-09-13 15:56+0000\n"
+"POT-Creation-Date: 2020-05-27 10:42+0200\n"
 "PO-Revision-Date: 2017-04-06 17:35-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -20,18 +21,39 @@ msgstr ""
 msgid "The Education Team - GNU Project - Free Software Foundation"
 msgstr "A Equipe de Educação - Projeto GNU - Free Software Foundation"
 
-#. type: Content of: <p>
-msgid ""
-"<a href=\"/education/education.html\">Education</a> &rarr; The Education Team"
-msgstr ""
-"<a href=\"/education/education.html\">Educação</a> &rarr; A Equipe de "
-"Educação"
+#. type: Content of: <div><a>
+msgid "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+msgstr "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
 
-#. type: Content of: <h2>
+#. type: Attribute 'title' of: <div><a><img>
+msgid "Education Contents"
+msgstr "Índice da Seção"
+
+#. type: Attribute 'alt' of: <div><a><img>
+msgid "&nbsp;[Education Contents]&nbsp;"
+msgstr "&nbsp;[Índice da Seção]&nbsp;"
+
+#. type: Content of: <div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><p><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><p><a><img>
+msgid "GNU Home"
+msgstr "Página inicial do GNU"
+
+#. type: Content of: <div><p>
+msgid "</a>&nbsp;/ <a href=\"/education/education.html\">Education</a>&nbsp;/"
+msgstr "</a>&nbsp;/ <a href=\"/education/education.html\">Educação</a>&nbsp;/"
+
+#. type: Content of: <div><h2>
 msgid "The Education Team"
 msgstr "A Equipe de Educação"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The Education Team was initially created to carry out the task of building a "
 "section within the gnu.org website to specifically address the importance of "
@@ -47,7 +69,7 @@ msgstr ""
 "ser aplicadas a todas as áreas da educação se elas tiverem uma influência "
 "efetivamente positiva na sociedade como um todo."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The Team provides an answer to the need for a comprehensive approach to the "
 "adoption of <a href=\"/philosophy/free-sw.html\"> Free Software</a> by "
@@ -76,7 +98,7 @@ msgstr ""
 "migração pelo tempo. Aumentar o conhecimento sobre esses princípios é o "
 "objetivo principal de nossa Equipe."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "We oppose any measures undertaken by governments or educational institutions "
 "to impose the use of proprietary software and standards in the school. We "
@@ -88,7 +110,7 @@ msgstr ""
 "escola. Nós lutamos pelo direito dos professores e estudantes de usar "
 "Software Livre na escola."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "With our work, we also want to provide evidence that the freedoms granted by "
 "Free Software live not in the realm of abstract theories but can be "
@@ -102,7 +124,7 @@ msgstr ""
 "educacionais. Universidades e escolas podem e devem dar o uso devido a essas "
 "liberdades, e nossa meta é mostrar como."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "With those objectives in mind, the Team intends to perform the following "
 "tasks:"
@@ -110,7 +132,7 @@ msgstr ""
 "Com aqueles objetivos em mente, a Equipe tem intenção de realizar as "
 "seguintes tarefas:"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "Present cases of educational institutions around the world who are "
 "successfully using and teaching Free Software."
@@ -118,7 +140,7 @@ msgstr ""
 "Apresentar casos de instituições educacionais em volta do mundo estão com "
 "sucesso usando e ensinando Software Livre."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "Show examples of how free programs are being used by educational "
 "institutions to improve the learning and teaching processes."
@@ -127,7 +149,7 @@ msgstr ""
 "instituições educacionais para melhorar os processo de aprendizado e "
 "ensinamento."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "Publish articles on the various aspects involved in the use of Free Software "
 "by educational institutions."
@@ -135,7 +157,7 @@ msgstr ""
 "Publicar artigos nos vários aspectos envolvidos no uso do Software Livre por "
 "instituições educacionais."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "Maintain a dialogue with teachers, students and administrators of "
 "educational institutions to listen to their difficulties and provide support."
@@ -143,7 +165,7 @@ msgstr ""
 "Manter um diálogo com professores, estudantes e administradores de "
 "instituições educacionais para ouvir suas dificuldades e fornecer suporte."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "Keep in contact with other groups around the world committed to the "
 "promotion of Free Software in education."
@@ -151,7 +173,7 @@ msgstr ""
 "Manter contato com outros grupos pelo mundo comprometidos com a promoção do "
 "Software Livre na educação."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "If you are interested in our work and wish to help, if you have any "
 "questions or suggestions, or if you know of educational institutions around "
@@ -166,7 +188,7 @@ msgstr ""
 "education@gnu.org\">&lt;education@gnu.org&gt;</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
-#. type: Content of: <div>
+#. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr " "
 
@@ -191,27 +213,27 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
-"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas desse site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2011, 2016 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2011, 2016 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2011, 2016, 2020 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2011, 2016, 2020 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

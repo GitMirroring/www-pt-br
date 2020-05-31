@@ -1,14 +1,14 @@
 # Brazilian Portuguese translation of http://www.gnu.org/licenses/bsd.html
-# Copyright (C) 2017 Free Software Foundation, Inc.
+# Copyright (C) 2020 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Hilton Fernandes <fernandesh@yahoo.com>, 2002.
 # Jan 2015: GNUNify and trivially update a few strings (T. Godefroy).
-# Rafael Fontenelle <rafaelff@gnome.org>, 2017.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017-2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: bsd.html\n"
-"POT-Creation-Date: 2015-12-19 22:55+0000\n"
-"PO-Revision-Date: 2017-04-06 04:51-0300\n"
+"POT-Creation-Date: 2020-05-06 07:25+0000\n"
+"PO-Revision-Date: 2020-05-09 07:53-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -25,6 +25,10 @@ msgstr "O Problema da Licença BSD - Projeto GNU - Free Software Foundation"
 #. type: Content of: <h2>
 msgid "The BSD License Problem"
 msgstr "O Problema da Licença BSD"
+
+#. type: Content of: <p>
+msgid "by Richard Stallman"
+msgstr "por Richard Stallman"
 
 #. type: Content of: <blockquote><p>
 msgid ""
@@ -343,19 +347,19 @@ msgid ""
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
-"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
 "\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas desse site."
+"envio de traduções das páginas deste site."
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 1998, 1999, 2001, 2003, 2007, 2013, 2014, 2015 Free "
+"Copyright &copy; 1998, 1999, 2001, 2003, 2007, 2013, 2014, 2015, 2020 Free "
 "Software Foundation, Inc."
 msgstr ""
-"Copyright &copy; 1998, 1999, 2001, 2003, 2007, 2013, 2014, 2015 Free "
+"Copyright &copy; 1998, 1999, 2001, 2003, 2007, 2013, 2014, 2015, 2020 Free "
 "Software Foundation, Inc."
 
 #. type: Content of: <div><p>
@@ -375,7 +379,7 @@ msgstr ""
 "Traduzido por: Hilton Fernandes <a href=\"mailto:fernandesh@yahoo.com\">&lt;"
 "fernandesh@yahoo.com&gt;</a>, 2002;\n"
 "Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome."
-"org&gt;</a>, 2017"
+"org&gt;</a>, 2017-2020"
 
 #.  timestamp start 
 #. type: Content of: <div><p>

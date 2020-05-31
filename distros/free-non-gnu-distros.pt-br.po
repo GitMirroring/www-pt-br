@@ -1,12 +1,12 @@
 # Brazilian Portuguese translation of https://www.gnu.org/distros/free-non-gnu-distros.html
-# Copyright (C) 2017 Free Software Foundation, Inc.
+# Copyright (C) 2020 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2017.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017-2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: free-non-gnu-distros.html\n"
-"POT-Creation-Date: 2015-06-25 16:55+0000\n"
-"PO-Revision-Date: 2017-04-11 12:30-0300\n"
+"POT-Creation-Date: 2020-02-06 15:26+0000\n"
+"PO-Revision-Date: 2020-02-06 21:18-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -36,17 +36,36 @@ msgstr ""
 "distribution-guidelines.html\">diretrizes para distribuições de sistemas "
 "livres</a> da mesma forma que os sistemas GNU/Linux."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <table><thead><tr><th>
+msgid "Distribution"
+msgstr "Distribuição"
+
+#. type: Content of: <table><thead><tr><th>
+msgid "Brief Description"
+msgstr "Breve descrição"
+
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"http://replicant.us\">"
+msgstr "<a href=\"http://replicant.us\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "Replicant"
+msgstr "Replicant"
+
+#. type: Content of: <table><tr><td>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <table><tr><td>
 msgid ""
-"<a href=\"http://replicant.us\">Replicant</a> is the free version of "
-"Android.  The Replicant developers have replaced many nonfree libraries, for "
-"certain phone models.  The nonfree apps are excluded, but you certainly "
-"don't want to use those."
+"Replicant is the free version of Android.  The Replicant developers have "
+"replaced many nonfree libraries, for certain phone models.  The nonfree apps "
+"are excluded, but you certainly don't want to use those."
 msgstr ""
-"<a href=\"http://replicant.us\">Replicant</a> é a versão livre do Android. "
-"Os desenvolvedores do Replicant substituíram muitas bibliotecas não-livres, "
-"para alguns modelos de telefone. Os aplicativos não-livres estão excluídos, "
-"mas você certamente não deseja usá-los."
+"Replicant é a versão livre do Android. Os desenvolvedores do Replicant "
+"substituíram muitas bibliotecas não-livres, para alguns modelos de telefone. "
+"Os aplicativos não-livres estão excluídos, mas você certamente não deseja "
+"usá-los."
 
 #. type: Content of: <p>
 msgid ""
@@ -103,16 +122,16 @@ msgid ""
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
-"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
 "\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas desse site."
+"envio de traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2015 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2015 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2015, 2020 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2015, 2020 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -129,9 +148,12 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "<b>Traduzido por:</b> Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org"
-"\">&lt;rafaelff@gnome.org&gt;</a>, 2017"
+"\">&lt;rafaelff@gnome.org&gt;</a>, 2017-2020"
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid "Copyright &copy; 2015 Free Software Foundation, Inc."
+#~ msgstr "Copyright &copy; 2015 Free Software Foundation, Inc."

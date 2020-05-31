@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: head-include-2.html\n"
-"POT-Creation-Date: 2018-01-03 16:55+0000\n"
+"POT-Creation-Date: 2020-04-14 13:41+0200\n"
 "PO-Revision-Date: 2015-09-01 14:32-0300\n"
 "Last-Translator: Bruno Félix Rezende Ribeiro <oitofelix@gnu.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -20,128 +20,18 @@ msgstr ""
 msgid "width=device-width, initial-scale=1"
 msgstr "width=device-width, initial-scale=1"
 
-#~ msgid ""
-#~ "#banner2012 { width:974px; height:150px; padding-top:10px;display:block; "
-#~ "margin-left:auto; margin-right:auto;text-align:center; } #banner2012 ."
-#~ "underline { text-decoration: underline; } #banner2012 .nounderline { text-"
-#~ "decoration: none; } #banner2012 .left { float:left; width:150px; "
-#~ "height:150px; } #banner2012 .right { float:right; width:820px; "
-#~ "height:150px;text-align:center; font:16px sans-serif; position:relative; "
-#~ "top:10%; } #banner2012 img {width:100px;display:block;margin-left:auto;"
-#~ "margin-right:auto;padding-bottom:0px;margin-bottom:0px;}"
-#~ msgstr ""
-#~ "#banner2012 { width:974px; height:150px; padding-top:10px;display:block; "
-#~ "margin-left:auto; margin-right:auto;text-align:center; } #banner2012 ."
-#~ "underline { text-decoration: underline; } #banner2012 .nounderline { text-"
-#~ "decoration: none; } #banner2012 .left { float:left; width:150px; "
-#~ "height:150px; } #banner2012 .right { float:right; width:820px; "
-#~ "height:150px;text-align:center; font:16px sans-serif; position:relative; "
-#~ "top:10%; } #banner2012 img {width:100px;display:block;margin-left:auto;"
-#~ "margin-right:auto;padding-bottom:0px;margin-bottom:0px;}"
+#. type: Content of: <style>
+#, no-wrap
+msgid ""
+"@media (min-width: 0) {\n"
+"   a#more-links:after { content: \"More\\00A0\\002B9F\"; }\n"
+"   a#less-links:after { content: \"\\002B9D\"; }\n"
+"}\n"
+msgstr ""
+"@media (min-width: 0) {\n"
+"   a#more-links:after { content: \"Mais\\00A0\\002B9F\"; }\n"
+"   a#less-links:after { content: \"\\002B9D\"; }\n"
+"}\n"
 
-# type: Attribute 'content' of: <meta>
-#~ msgid "width=320; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;"
-#~ msgstr "width=320; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;"
-
-# type: Content of: <style>
-#~ msgid "@import url('/style.css');"
-#~ msgstr "@import url('/style.css');"
-
-# type: Content of: <style>
-#~ msgid "@import url('/mini.css');"
-#~ msgstr "@import url('/print.css');"
-
-# type: Content of: <style>
-#~ msgid "@import url('/print.css');"
-#~ msgstr "@import url('/print.css');"
-
-# type: Content of: <style>
-#~ msgid "@import url('http://static.fsf.org/mini.css');"
-#~ msgstr "@import url('/print.css');"
-
-# type: Content of: <body><div>
-#~ msgid ""
-#~ "<span class=\"netscape4\"><a href=\"#content\">Skip to content</a> | | <a "
-#~ "href=\"#searcher\">Skip to search</a> | </span><a href=\"#translations"
-#~ "\">Translations of this page</a>"
-#~ msgstr ""
-#~ "<span class=\"netscape4\"><a href=\"#content\">Pular para o conteúdo</a> "
-#~ "| </span><a href=\"#translations\">Traduções desta página</a>"
-
-# type: Content of: <body><div><div><div><h1>
-#~ msgid "<a href=\"/\">The GNU Operating System</a>"
-#~ msgstr "<a href=\"/\">O Sistema Operacional GNU</a>"
-
-# type: Content of: <body><div><div><div><ul><li>
-#~ msgid "<a href=\"/gnu/gnu.html\">History</a>"
-#~ msgstr "<a href=\"/gnu/gnu.html\">História</a>"
-
-# type: Content of: <body><div><div><div><ul><li>
-#~ msgid "<a href=\"/philosophy/philosophy.html\">Philosophy</a>"
-#~ msgstr "<a href=\"/philosophy/philosophy.pt-br.html\">Filosofia</a>"
-
-# type: Content of: <body><div><div><div><ul><li>
-#~ msgid "<a href=\"/licenses/licenses.html\">Licenses</a>"
-#~ msgstr "<a href=\"/licenses/licenses.html\">Licenças</a>"
-
-# type: Content of: <body><div><div><div><ul><li>
-#~ msgid "<a href=\"/software/software.html\">Downloads</a>"
-#~ msgstr "<a href=\"/software/software.html\">Programas Livres</a>"
-
-# type: Content of: <body><div><div><div><ul><li>
-#~ msgid "<a href=\"/help/help.html\">Help&nbsp;GNU</a>"
-#~ msgstr "<a href=\"/help/help.html\">Ajude o GNU</a>"
-
-# type: Content of: <body><div><div><div><ul><li>
-#~ msgid ""
-#~ "<a href=\"https://www.fsf.org/associate/support_freedom?"
-#~ "referrer=4052\">Join the FSF!</a>"
-#~ msgstr ""
-#~ "<a href=\"https://www.fsf.org/associate/support_freedom/join_fsf?"
-#~ "referrer=2442\">Junte-se à FSF ainda hoje!</a>"
-
-# type: Content of: <body><div><div><form><div>
-#~ msgid ""
-#~ "<label class=\"netscape4\" for=\"phrase\">Search:</label> <input name="
-#~ "\"phrase\" id=\"phrase\" type=\"text\" size=\"18\" accesskey=\"s\" value="
-#~ "\"Why GNU/Linux?\" /> <input type=\"submit\" value=\"Search\" />"
-#~ msgstr ""
-#~ "<label for=\"phrase\">Pesquisa:</label> <input name=\"phrase\" id=\"phrase"
-#~ "\" type=\"text\" size=\"35\" accesskey=\"s\" /> <input type=\"submit\" "
-#~ "value=\"Ir\" />"
-
-# type: Content of: <body><div><div><div><div><p>
-#~ msgid "<a href=\"#navigation\">Skip to navigation</a>"
-#~ msgstr "<a href = \"#navigation\">Pule para os atalhos</a>"
-
-# type: Content of: <div><div><div><div><h1>
-#~ msgid "Sign up for the <em>Free Software Supporter</em>"
-#~ msgstr "Assine o <em>Free Software Supporter</em>"
-
-# type: Content of: <body><div><div><div><div><p>
-#~ msgid "A monthly update on GNU and the FSF"
-#~ msgstr "Um informativo mensal sobre o GNU e a FSF"
-
-# type: Content of: <body><div><div><div><ul><li>
-#~ msgid "<a href=\"http://www.fsf.org/join?referrer=4052\">"
-#~ msgstr ""
-#~ "<a href=\"https://www.fsf.org/associate/support_freedom/join_fsf?"
-#~ "referrer=2442\">Junte-se à FSF ainda hoje!</a>"
-
-# type: Attribute 'alt' of: <body><div><div><a><img>
-#~ msgid "Be 1 of 750 Free Software Supporters in our year end fundraiser"
-#~ msgstr ""
-#~ "Seja um de 750 Apoiadores de Programas Livres na nossa arrecadação de fim "
-#~ "de ano"
-
-# type: Content of: <body><div><div><div><ul><li>
-#~ msgid "<a href=\"/\">Home</a>"
-#~ msgstr "<a href=\"/\">Início</a>"
-
-# type: Content of: <body><div><div><div><ul><li>
-#~ msgid "<a href=\"http://shop.fsf.org/\">Store</a>"
-#~ msgstr "<a href=\"http://shop.fsf.org/\">Loja</a>"
-
-# type: Content of: <body><div><div><div><ul><li>
-#~ msgid "<a href=\"/server/sitemap.html\">Sitemap</a>"
-#~ msgstr "<a href=\"/server/sitemap.html\">Mapa do site</a>"
+#~ msgid "<a href=\"#fsf-links\">More&nbsp;&#9660;</a>"
+#~ msgstr "<a href=\"#fsf-links\">Mais&nbsp;&#9660;</a>"

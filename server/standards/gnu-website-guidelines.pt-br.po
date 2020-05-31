@@ -1,12 +1,12 @@
 # Brazilian Portuguese translation of https://www.gnu.org/server/standards/gnu-website-guidelines.html
-# Copyright (C) 2019 Free Software Foundation, Inc.
+# Copyright (C) 2020 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2019.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2019-2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: gnu-website-guidelines.html\n"
-"POT-Creation-Date: 2019-06-26 12:55+0000\n"
-"PO-Revision-Date: 2019-06-27 03:15-0200\n"
+"POT-Creation-Date: 2020-03-03 10:25+0000\n"
+"PO-Revision-Date: 2020-03-04 11:07-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -243,6 +243,15 @@ msgid "Pages should not load CSS from servers other than those run by the FSF."
 msgstr ""
 "As páginas não devem carregar CSS de servidores que não sejam aqueles "
 "executados pela FSF."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Generally, the use of JavaScript is not allowed.  Exceptions to this need to "
+"be reviewed and approved by the Chief GNUisance on a case-by-case basis."
+msgstr ""
+"Geralmente, o uso de JavaScript não é permitido. Exceções a isso precisam "
+"ser revisadas e aprovadas pelo <i lang=\"en\">Cheif GNUisance</i>, caso a "
+"caso."
 
 #. type: Content of: <h3>
 msgid "Copyright Guidelines"
@@ -588,6 +597,28 @@ msgstr ""
 "podem usar sem voltar ao navegador web. Se a pessoa não tiver uma página "
 "web, deixe o nome sem a âncora."
 
+#. type: Content of: <ul><li>
+msgid ""
+"When embedding static resources like videos that are not in the <code>www</"
+"code> CVS repository along with the rest of the www.gnu.org pages, it's "
+"important that the URL used to embed the asset be a subdomain of gnu.org, so "
+"that the Third-party Request Blocker add-on shipped with GNU IceCat would "
+"not consider it a third-party asset which it would prevent from being "
+"loaded.  For example, when embedding videos from FSF campaigns on www.gnu."
+"org, use <code>static.gnu.org</code> rather than <code>static.fsf.org</"
+"code>.  Both of these addresses have been set to point to the same machine, "
+"so they can be used interchangeably."
+msgstr ""
+"Ao incorporar recursos estáticos, como vídeos que não estão no repositório "
+"CVS <code>www</code>, juntamente com o restante das páginas www.gnu.org, é "
+"importante que a URL usada para incorporar o ativo seja um subdomínio do gnu."
+"org, para que o complemento Third-party Request Blocker enviado com o GNU "
+"IceCat não o considere um ativo de terceiros que impediria de ser carregado. "
+"Por exemplo, ao incorporar vídeos das campanhas da FSF em www.gnu.org, use "
+"<code>static.gnu.org</code> em vez de <code>static.fsf.org</code>. Ambos os "
+"endereços foram configurados para apontar para a mesma máquina, para que "
+"possam ser usados de forma intercambiável."
+
 #. type: Content of: <h3>
 msgid "HTML Guidelines"
 msgstr "Diretrizes de HTML"
@@ -741,14 +772,14 @@ msgid ""
 "Screen reader software used by most blind people reads the text from left to "
 "right, ignoring any tables that you make. If you use tables, you should make "
 "sure that reading a whole page left to right doesn't confuse such software.  "
-"Please follow the <a href=\"https://www.w3c.org/wai\">W3C web accessibility "
+"Please follow the <a href=\"https://www.w3.org/WAI/\">W3C web accessibility "
 "guidelines</a> to ensure that tables are properly marked for accessibility."
 msgstr ""
 "Softwares de leitura de tela usados pela maioria das pessoas com deficiência "
 "visuais lê o texto da esquerda para a direita, ignorando qualquer tabela que "
 "você faça. Se você usa tabelas, você deve se certificar que ler uma página "
 "inteira da esquerda para a direita não confunda tal software. Siga as <a "
-"href=\"https://www.w3c.org/wai\">diretrizes de acessibilidade na web do W3C</"
+"href=\"https://www.w3.org/WAI/\">diretrizes de acessibilidade na web do W3C</"
 "a> para garantir que as tabelas sejam marcadas adequadamente para fins de "
 "acessibilidade."
 
@@ -2045,19 +2076,19 @@ msgid ""
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
-"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
 "\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas desse site."
+"envio de traduções das páginas deste site."
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2010, 2013, 2014, 2015, 2016, 2017, 2018, 2019 Free "
+"Copyright &copy; 2010, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020 Free "
 "Software Foundation, Inc."
 msgstr ""
-"Copyright &copy; 2010, 2013, 2014, 2015, 2016, 2017, 2018, 2019 Free "
+"Copyright &copy; 2010, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020 Free "
 "Software Foundation, Inc."
 
 #. type: Content of: <div><p>
@@ -2075,7 +2106,7 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
-"rafaelff@gnome.org&gt;</a>, 2019."
+"rafaelff@gnome.org&gt;</a>, 2019-2020"
 
 #.  timestamp start 
 #. type: Content of: <div><p>

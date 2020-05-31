@@ -2,10 +2,11 @@
 # Copyright (C) 2019 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Rafael Fontenelle <rafaelff@gnome.org>, 2016, 2018, 2019.
+# May 2020: update to new layout (T. Godefroy).
 msgid ""
 msgstr ""
 "Project-Id-Version: edu-cases-india-irimpanam.html\n"
-"POT-Creation-Date: 2019-11-21 07:55+0000\n"
+"POT-Creation-Date: 2020-05-27 11:13+0200\n"
 "PO-Revision-Date: 2019-11-26 22:52-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -24,23 +25,45 @@ msgstr ""
 "Escola de Ensino Profissionalizante de Irimpanam - Projeto GNU - Free "
 "Software Foundation"
 
-#. type: Content of: <p>
-msgid ""
-"<a href=\"/education/education.html\">Education</a> &rarr; <a href=\"/"
-"education/edu-cases.html\">Case Studies</a> &rarr; <a href=\"/education/edu-"
-"cases-india.html\">India</a> &rarr; Vocational Higher Secondary School "
-"Irimpanam"
-msgstr ""
-"<a href=\"/education/education.html\">Educação</a> &rarr; <a href=\"/"
-"education/edu-cases.html\">Estudos de Casos</a> &rarr; <a href=\"/education/"
-"edu-cases-india.html\">Índia</a> &rarr; Escola de Ensino Profissionalizante "
-"de Irimpanam"
+#. type: Content of: <div><a>
+msgid "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+msgstr "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
 
-#. type: Content of: <h2>
+#. type: Attribute 'title' of: <div><a><img>
+msgid "Education Contents"
+msgstr "Índice da Seção"
+
+#. type: Attribute 'alt' of: <div><a><img>
+msgid "&nbsp;[Education Contents]&nbsp;"
+msgstr "&nbsp;[Índice da Seção]&nbsp;"
+
+#. type: Content of: <div><div><div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><p><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><p><a><img>
+msgid "GNU Home"
+msgstr "Página inicial do GNU"
+
+#. type: Content of: <div><p>
+msgid ""
+"</a>&nbsp;/ <a href=\"/education/education.html\">Education</a>&nbsp;/ <a "
+"href=\"/education/edu-cases.html\">Case&nbsp;Studies</a>&nbsp;/ <a href=\"/"
+"education/edu-cases-india.html\">India</a>&nbsp;/"
+msgstr ""
+"</a>&nbsp;/ <a href=\"/education/education.html\">Educação</a>&nbsp;/ <a "
+"href=\"/education/edu-cases.html\">Estudos&nbsp;de&nbsp;Caso</a>&nbsp;/ <a "
+"href=\"/education/edu-cases-india.html\">Índia</a>&nbsp;/"
+
+#. type: Content of: <div><h2>
 msgid "Vocational Higher Secondary School Irimpanam"
 msgstr "Escola de Ensino Profissionalizante de Irimpanam"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The following report is based on information provided to us by the school's "
 "staff."
@@ -48,11 +71,11 @@ msgstr ""
 "O relatório a seguir baseou-se na informação que nos foi fornecida pela "
 "equipe da escola."
 
-#. type: Content of: <div><h3>
+#. type: Content of: <div><div><h3>
 msgid "Location"
 msgstr "Local"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The school is located in Irimpanam, an area close to the city of "
 "Tripunithura, in the Ernakulam district of the <a href=\"http://en.wikipedia."
@@ -62,13 +85,13 @@ msgstr ""
 "Tripunithura, no distrito de Ernakulam do <a href=\"http://en.wikipedia.org/"
 "wiki/Kerala#Education\">estado da Kerala</a>, Índia."
 
-#. type: Content of: <div><h3>
+#. type: Content of: <div><div><h3>
 msgid "About"
 msgstr "Sobre"
 
 #. a href="http://vhssirimpanam.org/"
 #. /a
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Founded in 1940, the Vocational Higher Secondary School Irimpanam is a "
 "privately owned school aided by the State. It offers instruction from Upper "
@@ -81,11 +104,11 @@ msgstr ""
 "médio (5ª a 7ª série e 8ª a 10ª série, respectivamente). Aproximadamente "
 "1.000 estudantes entre 10 a 15 anos estudam lá."
 
-#. type: Content of: <div><h3>
+#. type: Content of: <div><div><h3>
 msgid "Motivation"
 msgstr "Motivação"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Our institution took special interest in promoting the main aspects of the "
 "philosophy of the GNU Project, such as the freedom to share knowledge and "
@@ -108,11 +131,11 @@ msgstr ""
 "também nos ajudou a trabalhar em ligação estreita com a comunidade de "
 "Software Livre."
 
-#. type: Content of: <div><h3>
+#. type: Content of: <div><div><h3>
 msgid "How We Did It"
 msgstr "Como Nós Fizemos Isso"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The migration to Free Software in our school was the result of a project "
 "designed and established by the Government of Kerala, called <a href="
@@ -126,25 +149,21 @@ msgstr ""
 "iniciado em 2001, envolveu milhares de escolas em Kerala e, em 2006, foi "
 "completamente migrado para Software Livre."
 
-#. type: Content of: <div><div><a>
+#. type: Content of: <div><div><div><a>
 msgid "<a href=\"/education/misc/irimpanam-school.jpg\">"
 msgstr "<a href=\"/education/misc/irimpanam-school.jpg\">"
 
-#. type: Attribute 'alt' of: <div><div><a><img>
+#. type: Attribute 'alt' of: <div><div><div><a><img>
 msgid "Image of students at a Free Software event."
 msgstr "Imagem de estudantes em um evento de Software Livre."
 
-#. type: Content of: <div><div>
-msgid "</a>"
-msgstr "</a>"
-
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><div><div><p>
 msgid "Students at a Free Software event organized by SSK VHSS Irimpanam."
 msgstr ""
 "Os estudantes em um evento de Software Livre organizado por SSK VHSS "
 "Irimpanam."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Training courses for teachers were implemented by the government to teach us "
 "the basics of the new Free Operating System and how to install it. The new "
@@ -166,7 +185,7 @@ msgstr ""
 "professores. Um dos workshops organizados pela SPACE nos ajudou a construir "
 "um site para nossa escola usando Software Livre."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Training was not limited to software, it also included teaching the basics "
 "of hardware maintenance to teachers and students. In our school, 10 years "
@@ -176,7 +195,7 @@ msgstr ""
 "básicos de manutenção de hardware a professores e estudantes. Em nossa "
 "escola, estudantes de 10 anos de idade sabem como montar um PC."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The use of Free programs in the classroom was facilitated by the "
 "implementation of training modules aimed at instructing teachers on the use "
@@ -195,7 +214,7 @@ msgstr ""
 "moléculas orgânicas usando <a href=\"http://directory.fsf.org/wiki/Chemtool"
 "\">Chemtool</a>, e muitos outros."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Other training activities were conducted jointly by the school and ILUG-"
 "Cochin to teach us the use of different Free Software applications such as "
@@ -205,7 +224,7 @@ msgstr ""
 "e ILUG-Cochin para nos ensinar o uso de diferentes aplicativos de Software "
 "Livre, tal como Blender, Inkscape e a interface de linha de comando."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The school has also opened an <a href=\"http://en.wikipedia.org/wiki/"
 "Internet_Relay_Chat\">IRC</a> channel where students can ask questions about "
@@ -215,11 +234,11 @@ msgstr ""
 "Internet_Relay_Chat\">IRC</a> no qual estudantes podem tirar dúvidas sobre "
 "questões que eles podem encontrar."
 
-#. type: Content of: <div><h3>
+#. type: Content of: <div><div><h3>
 msgid "Commitment to Free Software"
 msgstr "Compromisso com o Software Livre"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "At the beginning the new system was used on a dual-boot basis, because we "
 "teachers were not familiar with Free Software, but we soon got acquainted "
@@ -235,7 +254,7 @@ msgstr ""
 "usado. Apenas Software Livre está sendo usado nas salas de aula e nos "
 "escritórios da administração."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "We use a wide range of free programs in the classroom, such as <a href= "
 "\"http://directory.fsf.org/wiki/GIMP/\">GIMP</a>, <a href= \"http://"
@@ -251,7 +270,7 @@ msgstr ""
 "wiki/GPeriodic\">GPeriodic</a> e <a href=\"http://www.libreoffice.org/"
 "\">LibreOffice</a>, mas há muitos outros."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Students are also introduced to the programming language Python as from "
 "grade 8 (13 years old)."
@@ -259,15 +278,15 @@ msgstr ""
 "Estudantes também são apresentados à linguagem de programação Python desde a "
 "8ª série (13 anos de idade)."
 
-#. type: Content of: <div><h3>
+#. type: Content of: <div><div><h3>
 msgid "Results"
 msgstr "Resultados"
 
-#. type: Content of: <div><div><a>
+#. type: Content of: <div><div><div><a>
 msgid "<a href=\"/education/misc/tuxpaint.jpg\">"
 msgstr "<a href=\"/education/misc/tuxpaint.jpg\">"
 
-#. type: Attribute 'alt' of: <div><div><a><img>
+#. type: Attribute 'alt' of: <div><div><div><a><img>
 msgid ""
 "Image of the TuxPaint interface in Malayalam showing the stamp for the "
 "Adeenia flower."
@@ -275,7 +294,7 @@ msgstr ""
 "Imagem da interface do TuxPaint em Malaiala mostrando o carimbo para a flor "
 "Adeenia."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><div><div><p>
 msgid ""
 "<a href=\"/education/misc/adeenia.ogg\">Listen</a> to a student pronounce "
 "the name of the Adeenia flower in Malayalam."
@@ -283,12 +302,13 @@ msgstr ""
 "<a href=\"/education/misc/adeenia.ogg\">Ouça</a> a um aluno pronunciar o "
 "nome da flor Adeenia em Malaiala."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
-"Education in the State of Kerala has become \"IT-enabled\", meaning that "
-"students are getting first hand technology knowledge while learning regular "
-"curriculum subjects outside the IT Lab. This is possible due to the large "
-"number of high quality educational applications available in GNU/Linux."
+"Education in the State of Kerala has become &ldquo;IT-enabled,&rdquo; "
+"meaning that students are getting first hand technology knowledge while "
+"learning regular curriculum subjects outside the IT Lab. This is possible "
+"due to the large number of high quality educational applications available "
+"in GNU/Linux."
 msgstr ""
 "Educação no estado de Kerala se tornou “capacitada em TI”, o que significa "
 "que estudantes estão obtendo conhecimento tecnológico em primeira mão "
@@ -296,7 +316,7 @@ msgstr ""
 "Isso é possível por causa do grande número de aplicativos educacionais de "
 "alta qualidade disponível no GNU/Linux."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The transparency and the cooperative method of Free Software helped students "
 "and teachers to dive deep into technology and made them capable of "
@@ -310,7 +330,7 @@ msgstr ""
 "localização da interface do <a href=\"/education/edu-software-tuxpaint.html"
 "\">Tux Paint</a> em Malaiala, nosso idioma nativo."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Another contribution was the addition of new stamps in TuxPaint. Native "
 "flowers were photographed and the pictures edited by 6th and 7th grade "
@@ -334,7 +354,7 @@ msgstr ""
 #.  a link to the video with subtitles in your language, if it exists. Likewise, 
 #.  modify the link to SubRip subtitles accordingly, and replace the word "English" 
 #.  with the name of your language. 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "<a href=\"http://audio-video.gnu.org/video/irimpanam-high-sub.en.ogv\">Watch "
 "and download the video</a>. <a href=\"/education/misc/irimpanam.en.srt"
@@ -344,7 +364,7 @@ msgstr ""
 "\">Assista e baixe o vídeo</a>. <a href=\"/education/misc/irimpanam.pt-br.srt"
 "\">Leia e baixe as legendas em inglês no formato SubRip</a>."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Both activities were promoted by Swathanthra Software Koottayma of VHSS "
 "Irimpanam <a href=\"http://sskvhssirimpanam.wordpress.com/\"> (SSK VHSS "
@@ -365,7 +385,7 @@ msgstr ""
 "experimentar a explorar o Software Livre de forma a colocar em prática as "
 "liberdades que ele fornece."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "As a way of keeping in touch and sharing experiences with other schools and "
 "with the Free Software community, teachers and students each year "
@@ -378,7 +398,7 @@ msgstr ""
 "(National Free Software Conference) e Dia da Segurança Cibernética (Cyber "
 "Safe Day)."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The commitment and the collaboration of teachers, students and local groups "
 "was essential to the success of this large scale government project."
@@ -387,19 +407,16 @@ msgstr ""
 "locais foi essencial para o sucesso neste projeto governamental de larga "
 "escala."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
-"(1) <a id=\"swathanthra\"></a>Swathanthra is the Sanskrit word for \"free\" "
-"as in freedom."
-msgstr ""
-"(1) <a id=\"swathanthra\"></a>Swathanthra é a palavra sânscrita para “livre” "
-"como em liberdade."
+"(1) Swathanthra is the Sanskrit word for &ldquo;free&rdquo; as in freedom."
+msgstr "(1) Swathanthra é a palavra sânscrita para “livre” como em liberdade."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><div><h3>
 msgid "Credits"
 msgstr "Créditos"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Credits for both images shown on this page, as well as for the audio file, "
 "go to Swathanthra Software Koottayma of VHSS Irimpanam, who released them "
@@ -412,19 +429,8 @@ msgstr ""
 "creativecommons.org/licenses/by-sa/3.0/deed.pt_BR\">Atribuição-"
 "CompartilhaIgual 3.0 Não Adaptada</a>."
 
-#. type: Content of: <p>
-msgid ""
-"<a href=\"/education/edu-cases-india.html\">More Case Studies in India</a>"
-msgstr ""
-"<a href=\"/education/edu-cases-india.html\">Mais Estudos de Casos na Índia</"
-"a>"
-
-#. type: Content of: <p>
-msgid "<a href=\"/education/edu-cases.html\">Back to Case Studies</a>"
-msgstr "<a href=\"/education/edu-cases.html\">Voltar aos Estudos de Casos</a>"
-
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
-#. type: Content of: <div>
+#. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr " "
 
@@ -449,29 +455,29 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
-"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas desse site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2011, 2012, 2016, 2018, 2019 Free Software Foundation, Inc."
+"Copyright &copy; 2011, 2012, 2016, 2018, 2020 Free Software Foundation, Inc."
 msgstr ""
-"Copyright &copy; 2011, 2012, 2016, 2018, 2019 Free Software Foundation, Inc."
+"Copyright &copy; 2011, 2012, 2016, 2018, 2020 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -495,5 +501,12 @@ msgstr ""
 msgid "Updated:"
 msgstr "Última atualização:"
 
-#~ msgid "Copyright &copy; 2011, 2012, 2016 Free Software Foundation, Inc."
-#~ msgstr "Copyright &copy; 2011, 2012, 2016 Free Software Foundation, Inc."
+#~ msgid ""
+#~ "<a href=\"/education/edu-cases-india.html\">More Case Studies in India</a>"
+#~ msgstr ""
+#~ "<a href=\"/education/edu-cases-india.html\">Mais Estudos de Casos na "
+#~ "Índia</a>"
+
+#~ msgid "<a href=\"/education/edu-cases.html\">Back to Case Studies</a>"
+#~ msgstr ""
+#~ "<a href=\"/education/edu-cases.html\">Voltar aos Estudos de Casos</a>"

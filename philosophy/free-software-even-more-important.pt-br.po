@@ -1,14 +1,14 @@
 # Brazilian Portuguese translation of http://www.gnu.org/philosophy/free-software-even-more-important.html
-# Copyright (C) 2019 Free Software Foundation, Inc.
+# Copyright (C) 2020 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Bruno Félix Rezende Ribeiro <oitofelix@gnu.org>, 2015.
 # André Phellip Ferreira <werewolf@cyberdude.com>, 2018. (proofread).
-# Rafael Fontenelle <rafaelff@gnome.org>, 2017-2019.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017-2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: free-software-even-more-important.html\n"
-"POT-Creation-Date: 2019-05-24 10:26+0000\n"
-"PO-Revision-Date: 2019-05-25 04:50-0200\n"
+"POT-Creation-Date: 2020-01-20 18:26+0000\n"
+"PO-Revision-Date: 2020-01-24 20:46-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -87,16 +87,16 @@ msgid ""
 "<em>malware</em>.  That is, both have functionalities designed to mistreat "
 "the user.  Proprietary software nowadays is often malware because <a href=\"/"
 "proprietary/proprietary.html\">the developers' power corrupts them</a>.  "
-"That directory lists around 400 different malicious functionalities (as of "
-"April, 2019), but it is surely just the tip of the iceberg."
+"That directory lists around 450 different malicious functionalities (as of "
+"January, 2020), but it is surely just the tip of the iceberg."
 msgstr ""
 "Esses dois programas não livres têm algo mais em comum: ambos são "
 "<em>malwares</em>. Ou seja, ambos têm funcionalidades concebidas para "
 "maltratar o usuário.  O software proprietário hoje em dia é muitas vezes "
 "malware porque <a href=\"/proprietary/proprietary.html\">o poder dos "
-"desenvolvedores os corrompem</a>. Este diretório lista cerca de 400 "
-"funcionalidades maliciosas diferentes (até abril de 2019), mas com certeza é "
-"apenas a ponta do iceberg."
+"desenvolvedores os corrompem</a>. Este diretório lista cerca de 450 "
+"funcionalidades maliciosas diferentes (até janeiro de 2020), mas com certeza "
+"é apenas a ponta do iceberg."
 
 #. type: Content of: <p>
 msgid ""
@@ -716,16 +716,16 @@ msgid ""
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
-"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
 "\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas desse site."
+"envio de traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2015, 2017, 2018, 2019 Richard Stallman"
-msgstr "Copyright &copy; 2015, 2017, 2018, 2019 Richard Stallman"
+msgid "Copyright &copy; 2015, 2017, 2018, 2019, 2020 Richard Stallman"
+msgstr "Copyright &copy; 2015, 2017, 2018, 2019, 2020 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -747,7 +747,7 @@ msgstr ""
 "Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome."
 "org&gt;</a>, 2017-2019.<br/>\n"
 "Revisado por: André Phellip Ferreira <a href=\"mailto:werewolf@cyberdude.com"
-"\">&lt;werewolf@cyberdude.com&gt;</a>, 2018."
+"\">&lt;werewolf@cyberdude.com&gt;</a>, 2018-2020."
 
 #.  timestamp start 
 #. type: Content of: <div><p>

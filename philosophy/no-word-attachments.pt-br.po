@@ -1,14 +1,14 @@
 # Brazilian Portuguese translation of https://www.gnu.org/philosophy/no-word-attachments.html
-# Copyright (C) 2017 Free Software Foundation, Inc.
+# Copyright (C) 2020 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Fernando Lozano, 2002.
 # Jan 2014: GNUNify and trivially update a few strings (T. Godefroy).
-# Rafael Fontenelle <rafaelff@gnome.org>, 2017, 2019.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017-2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: no-word-attachments.html\n"
-"POT-Creation-Date: 2019-07-24 12:25+0000\n"
-"PO-Revision-Date: 2019-07-29 10:16-0200\n"
+"POT-Creation-Date: 2020-01-07 17:25+0000\n"
+"PO-Revision-Date: 2020-01-07 15:04-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -382,19 +382,29 @@ msgstr ""
 #. type: Content of: <p>
 msgid ""
 "<em>Microsoft is already starting to make Word users switch to a new version "
-"of Word format, based on OOXML.  Its specs are 6000 pages long--so complex "
-"that probably no one else can ever implement it--and Microsoft can sue you "
-"for patent infringement if you try.  If you don't wish to join in this "
-"attack against interoperability, the way to avoid it is by deciding not to "
-"use Word format for interchange.</em>"
+"of Word format, based on OOXML.  Its specs are 6000 pages long&mdash;so "
+"complex that probably no one else can ever fully implement it&mdash;and "
+"Microsoft can sue you for patent infringement if you try.  If you don't wish "
+"to join in this attack against interoperability, the way to avoid it is by "
+"deciding not to use Word format for interchange.</em>"
 msgstr ""
 "<em>Microsoft já começou a fazer os usuários do Word trocarem para uma nova "
 "versão do formato Word, baseado no OOXML. Sua especificação possui 6000 "
-"páginas -- tão complexo que provavelmente ninguém mais poderá implementá-lo "
-"-- e a Microsoft pode lhe processar por violação de patente, se você tentar. "
-"Se você não deseja se juntar a este ataque contra a interoperabilidade, a "
-"forma de evitar isso é decidindo por não usar o formato Word para troca de "
-"arquivos.</em>"
+"páginas &ndash; tão complexo que provavelmente ninguém mais poderá "
+"implementá-lo por completo &ndash; e a Microsoft pode lhe processar por "
+"violação de patente, se você tentar. Se você não deseja se juntar a este "
+"ataque contra a interoperabilidade, a forma de evitar isso é decidindo por "
+"não usar o formato Word para troca de arquivos.</em>"
+
+#. type: Content of: <p>
+msgid ""
+"<em>Both versions of Word format allow <a href=\"https://outflank.nl/"
+"blog/2019/05/05/evil-clippy-ms-office-maldoc-assistant/\">incorporation of "
+"malware</a>.</em>"
+msgstr ""
+"<em>Ambas versões do formato do Word permitem <a href=\"https://outflank.nl/"
+"blog/2019/05/05/evil-clippy-ms-office-maldoc-assistant/\">incorporação de "
+"malware</a>.</em>"
 
 #. type: Content of: <p>
 msgid ""
@@ -558,16 +568,16 @@ msgid ""
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
-"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
 "\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas desse site."
+"envio de traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2002, 2007, 2019 Richard M. Stallman"
-msgstr "Copyright &copy; 2002, 2007, 2019 Richard M. Stallman"
+msgid "Copyright &copy; 2002, 2007, 2019, 2020 Richard M. Stallman"
+msgstr "Copyright &copy; 2002, 2007, 2019, 2020 Richard M. Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -586,7 +596,7 @@ msgstr ""
 "Traduzido por: Fernando Lozano <a href=\"mailto:fernando@lozano.eti.br\">&lt;"
 "fernando@lozano.eti.br&gt;</a>, 2002;\n"
 "Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome."
-"org&gt;</a>, 2017, 2019"
+"org&gt;</a>, 2017-2020"
 
 #.  timestamp start 
 #. type: Content of: <div><p>

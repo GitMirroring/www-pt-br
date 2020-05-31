@@ -1,0 +1,234 @@
+# Brazilian Portuguese translation of https://www.gnu.org/fry/happy-birthday-to-gnu-in-your-language.html
+# Copyright (C) 2020 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2020.
+# Cassiano Reinert Novais dos Santos <caco@posteo.net>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: happy-birthday-to-gnu-in-your-language.html\n"
+"POT-Creation-Date: 2019-01-05 17:56+0000\n"
+"PO-Revision-Date: 2020-01-12 21:05-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid "Stephen Fry - GNU Project - Free Software Foundation"
+msgstr "Stephen Fry - Projeto GNU - Free Software Foundation"
+
+#. type: Attribute 'content' of: <meta>
+msgid ""
+"GNU, FSF, Free Software Foundation, Linux, Emacs, GCC, Unix, Free Software, "
+"Operating System, GNU Kernel, HURD, GNU HURD, Hurd"
+msgstr ""
+"GNU, FSF, Free Software Foundation, Linux, Emacs, GCC, Unix, Software Livre, "
+"Sistema Operacional, GNU Kernel, HURD, GNU HURD, Hurd"
+
+#. type: Attribute 'content' of: <meta>
+msgid ""
+"Since 1983, developing the free Unix style operating system GNU, so that "
+"computer users can have the freedom to share and improve the software they "
+"use."
+msgstr ""
+"Desde 1983, desenvolvendo o GNU, sistema operacional livre tipo Unix, para "
+"que usuários de computador possam ter a liberdade de compartilhar e melhorar "
+"o software que usam."
+
+#. type: Content of: <h2>
+msgid ""
+"&ldquo;<a href=\"/fry/\">Happy Birthday to GNU</a>&rdquo; in your language"
+msgstr "“<a href=\"/fry/\">Feliz aniversário para o GNU</a>” em seu idioma"
+
+#. type: Content of: <p>
+msgid ""
+"We have translated subtitles of the film in <a href=\"happy-birthday-to-gnu-"
+"translation.html\">over 20 languages</a>, available for you to show on "
+"Software Freedom Day or at your local user group meetings."
+msgstr ""
+"Traduzimos legendas do filme em <a href=\"happy-birthday-to-gnu-translation."
+"html\">mais de 20 idiomas</a>, disponíveis para exibição no Dia da Liberdade "
+"de Software ou nas reuniões locais de grupos de usuários."
+
+#. type: Content of: <p>
+msgid ""
+"We're using the <a href=\"http://en.wikipedia.org/wiki/Subrip\">SubRip "
+"format</a> for subtitles, which is compatible with all the major free "
+"software video players."
+msgstr ""
+"Estamos usando o <a href=\"http://en.wikipedia.org/wiki/Subrip\">formato "
+"SubRip</a> para legendas, compatível com todos os principais reprodutores de "
+"vídeo de software livre."
+
+#. type: Content of: <h3>
+msgid "What player are you using?"
+msgstr "Qual reprodutor você está usando?"
+
+#. type: Content of: <p><a>
+msgid ""
+"<a href=\"happy-birthday-to-gnu-sfd-vlc.html\" title=\"Videolan Client\">"
+msgstr ""
+"<a href=\"happy-birthday-to-gnu-sfd-vlc.html\" title=\"Videolan Client\">"
+
+#. type: Attribute 'alt' of: <p><a><img>
+msgid "&nbsp;[VLC icon]&nbsp;"
+msgstr "&nbsp;[Ícone do VLC]&nbsp;"
+
+#. type: Content of: <p><a>
+msgid ""
+"</a>&nbsp;&nbsp;<a href=\"happy-birthday-to-gnu-sfd-totem.html\" title="
+"\"&nbsp;[Totem]&nbsp;\">"
+msgstr ""
+"</a>&nbsp;&nbsp;<a href=\"happy-birthday-to-gnu-sfd-totem.html\" title="
+"\"&nbsp;[Totem]&nbsp;\">"
+
+#. type: Attribute 'alt' of: <p><a><img>
+msgid "&nbsp;[Totem icon]&nbsp;"
+msgstr "&nbsp;[Ícone do Totem]&nbsp;"
+
+#. type: Content of: <p><a>
+msgid ""
+"</a>&nbsp;&nbsp;<a href=\"happy-birthday-to-gnu-sfd-mplayer.html\" title="
+"\"Mplayer Client\">"
+msgstr ""
+"</a>&nbsp;&nbsp;<a href=\"happy-birthday-to-gnu-sfd-mplayer.html\" title="
+"\"Mplayer Client\">"
+
+#. type: Attribute 'alt' of: <p><a><img>
+msgid "&nbsp;[MPlayer icon]&nbsp;"
+msgstr "&nbsp;[Ícone do MPlayer]&nbsp;"
+
+#. type: Content of: <p><a>
+msgid ""
+"</a>&nbsp;&nbsp;<a href=\"happy-birthday-to-gnu-sfd-xine.html\" title=\"Xine "
+"Client\">"
+msgstr ""
+"</a>&nbsp;&nbsp;<a href=\"happy-birthday-to-gnu-sfd-xine.html\" title=\"Xine "
+"Client\">"
+
+#. type: Attribute 'alt' of: <p><a><img>
+msgid "&nbsp;[Xine icon]&nbsp;"
+msgstr "&nbsp;[Ícone do Xine]&nbsp;"
+
+#. type: Content of: <p><a>
+msgid ""
+"</a>&nbsp;&nbsp;<a href=\"happy-birthday-to-gnu-sfd-kaffeine.html\" title="
+"\"Kaffeine Client\">"
+msgstr ""
+"</a>&nbsp;&nbsp;<a href=\"happy-birthday-to-gnu-sfd-kaffeine.html\" title="
+"\"Kaffeine Client\">"
+
+#. type: Attribute 'alt' of: <p><a><img>
+msgid "&nbsp;[Kaffeine icon]&nbsp;"
+msgstr "&nbsp;[ícone do Kaffeine]&nbsp;"
+
+#. type: Content of: <p>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"happy-birthday-to-gnu-sfd-totem.html\">Totem</a>"
+msgstr "<a href=\"happy-birthday-to-gnu-sfd-totem.html\">Totem</a>"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"happy-birthday-to-gnu-sfd-xine.html\">Xine</a>"
+msgstr "<a href=\"happy-birthday-to-gnu-sfd-xine.html\">Xine</a>"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"happy-birthday-to-gnu-sfd-mplayer.html\">Mplayer</a>"
+msgstr "<a href=\"happy-birthday-to-gnu-sfd-mplayer.html\">Mplayer</a>"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"happy-birthday-to-gnu-sfd-vlc.html\">VLC</a>"
+msgstr "<a href=\"happy-birthday-to-gnu-sfd-vlc.html\">VLC</a>"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"happy-birthday-to-gnu-sfd-kaffeine.html\">Kaffeine</a>"
+msgstr "<a href=\"happy-birthday-to-gnu-sfd-kaffeine.html\">Kaffeine</a>"
+
+#. type: Content of: <h4>
+msgid ""
+"Please send your photos and extra translations to <a href=\"mailto:"
+"campaigns@fsf.org\">&lt;campaigns@fsf.org&gt;</a>."
+msgstr ""
+"Envie suas fotos e traduções extras para <a href=\"mailto:campaigns@fsf.org"
+"\">&lt;campaigns@fsf.org&gt;</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas deste site."
+
+#. type: Content of: <div><p>
+msgid ""
+"Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, "
+"2006, 2007, 2008, 2009, 2013, 2014, 2019 Free Software Foundation, Inc."
+msgstr ""
+"Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, "
+"2006, 2007, 2008, 2009, 2013, 2014, 2019 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2020.Revisado por: Cassiano Reinert Novais dos "
+"Santos <a href=\"mailto:caco@posteo.net\">&lt;caco@posteo.net&gt;</a>, 2020."
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização:"

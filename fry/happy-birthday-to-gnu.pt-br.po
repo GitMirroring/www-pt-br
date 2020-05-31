@@ -1,0 +1,464 @@
+# Brazilian Portuguese translation of https://www.gnu.org/fry/happy-birthday-to-gnu.html
+# Copyright (C) 2020 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2020.
+# Cassiano Reinert Novais dos Santos <caco@posteo.net>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: happy-birthday-to-gnu.html\n"
+"POT-Creation-Date: 2019-01-05 17:56+0000\n"
+"PO-Revision-Date: 2020-01-12 21:05-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid ""
+"Stephen Fry - Happy birthday to GNU - GNU Project - Free Software Foundation"
+msgstr ""
+"Stephen Fry - Feliz aniversário para o GNU - Projeto GNU - Free Software "
+"Foundation"
+
+#. type: Attribute 'content' of: <meta>
+msgid ""
+"GNU, FSF, Free Software Foundation, Linux, Emacs, GCC, Unix, Free Software, "
+"Operating System, GNU Kernel, HURD, GNU HURD, Hurd"
+msgstr ""
+"GNU, FSF, Free Software Foundation, Linux, Emacs, GCC, Unix, Software Livre, "
+"Sistema Operacional, GNU Kernel, HURD, GNU HURD, Hurd"
+
+#. type: Attribute 'content' of: <meta>
+msgid ""
+"Since 1983, developing the free Unix style operating system GNU, so that "
+"computer users can have the freedom to share and improve the software they "
+"use."
+msgstr ""
+"Desde 1983, desenvolvendo o GNU, sistema operacional livre tipo Unix, para "
+"que usuários de computador possam ter a liberdade de compartilhar e melhorar "
+"o software que usam."
+
+#. type: Content of: <style>
+#, no-wrap
+msgid ""
+".inline {text-align: center; line-height: 4em; padding: 0; margin: 0 !important;  margin-bottom: 1em !important;}\n"
+"\n"
+".inline li{list-style: none; display: inline; }\n"
+"\n"
+"#download li a{background-color:#1ea410; padding: 1em 3em 1em 3em; -moz-border-radius: 8px; color: white; font-weight: bold; margin: 0.4em; text-decoration: none; width: 23%; text-align: center;}\n"
+"\n"
+"#download a:hover{background-color: #b1ef0b; color: black;}\n"
+"\n"
+".title{font-size: 180%;}\n"
+"\n"
+"td p{padding-left: 1em; padding-right: 1em;}\n"
+"\n"
+"td li, td p{font-size: 0.8em;}\n"
+"\n"
+".formHelp{text-align: center; color: #666; font-size: 90%;}\n"
+"\n"
+"table{margin-bottom: 0.8em !important;}\n"
+"\n"
+"#sjf{width: 600px; margin: 0 auto 1em auto;}\n"
+"\n"
+msgstr ""
+".inline {text-align: center; line-height: 4em; padding: 0; margin: 0 !important;  margin-bottom: 1em !important;}\n"
+"\n"
+".inline li{list-style: none; display: inline; }\n"
+"\n"
+"#download li a{background-color:#1ea410; padding: 1em 3em 1em 3em; -moz-border-radius: 8px; color: white; font-weight: bold; margin: 0.4em; text-decoration: none; width: 23%; text-align: center;}\n"
+"\n"
+"#download a:hover{background-color: #b1ef0b; color: black;}\n"
+"\n"
+".title{font-size: 180%;}\n"
+"\n"
+"td p{padding-left: 1em; padding-right: 1em;}\n"
+"\n"
+"td li, td p{font-size: 0.8em;}\n"
+"\n"
+".formHelp{text-align: center; color: #666; font-size: 90%;}\n"
+"\n"
+"table{margin-bottom: 0.8em !important;}\n"
+"\n"
+"#sjf{width: 600px; margin: 0 auto 1em auto;}\n"
+"\n"
+
+#. type: Content of: <h2>
+msgid "Freedom Fry &mdash; &ldquo;Happy birthday to GNU&rdquo;"
+msgstr "Freedom Fry &ndash; “Feliz aniversário para o GNU”"
+
+#. type: Content of: <p>
+msgid ""
+"Mr. Stephen Fry introduces you to free software, and reminds you of a very "
+"special birthday."
+msgstr ""
+"O Sr. Stephen Fry apresenta o Software Livre e lembra um aniversário muito "
+"especial."
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"happy-birthday-to-gnu-download.html\">Download video</a>"
+msgstr "<a href=\"happy-birthday-to-gnu-download.html\">Baixar o vídeo</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://www.gnu.org/distros/free-distros.html\">Download GNU</a>"
+msgstr ""
+"<a href=\"http://www.gnu.org/distros/free-distros.html\">Baixar o GNU</a>"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"http://www.fsf.org/news/freedom-fry/\">Press release</a>"
+msgstr ""
+"<a href=\"http://www.fsf.org/news/freedom-fry/\">Comunicados de imprensa</a>"
+
+#. type: Content of: <h4>
+msgid ""
+"<a href=\"happy-birthday-to-gnu-in-your-language.html\">Over 20 translations "
+"of the film now available</a>"
+msgstr ""
+"<a href=\"happy-birthday-to-gnu-in-your-language.html\">Mais de 20 traduções "
+"do filme estão agora disponíveis</a>"
+
+#. type: Content of: <p>
+msgid ""
+"<a href=\"happy-birthday-to-gnu-translation.html\">Help translate the video "
+"into your own language</a> and <a href=\"happy-birthday-to-gnu-credits.html"
+"\">full credits</a>"
+msgstr ""
+"<a href=\"happy-birthday-to-gnu-translation.html\">Ajude a traduzir o vídeo "
+"para seu próprio idioma</a> e <a href=\"happy-birthday-to-gnu-credits.html"
+"\">créditos completos</a>"
+
+#. type: Content of: <p>
+msgid ""
+"<small>Licensed under a <a rel=\"license\" href=\"http://creativecommons.org/"
+"licenses/by-nd/3.0/us/\">Creative Commons Attribution-No Derivative Works "
+"3.0 United States License</a>.</small>"
+msgstr ""
+"<small>Licenciado sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 3.0 Estados Unidos</a>.</small>"
+
+#. type: Content of: <p>
+msgid ""
+"<a style=\"font-weight: bold;\" href=\"#signup\"><span style=\" padding: 5px;"
+"\" class=\"highlight\">Sign up for the Free Software Supporter, a monthly "
+"update on GNU and the FSF</span></a>"
+msgstr ""
+"<a style=\"font-weight: bold;\" href=\"#signup\"><span style=\" padding: 5px;"
+"\" class=\"highlight\">Inscreva-se no Free Software Supporter, uma "
+"atualização mensal sobre o GNU e a FSF</span></a>"
+
+#. type: Content of: <table><tr><td><h2>
+msgid "Get involved with GNU!"
+msgstr "Participe com o GNU!"
+
+#. type: Content of: <table><tr><td><p>
+msgid ""
+"We started the GNU Project with a specific overall goal: to create a free "
+"software operating system, the GNU System.  The scope of GNU is far-"
+"reaching: any job that computer users want to do <a href=\"http://www.gnu."
+"org/gnu/gnu-history.html\">should be doable by free software</a>, and is "
+"thus a potential part of GNU.  For instance, any program found in a typical "
+"<a href=\"/distros\">GNU/Linux distribution</a> is a candidate."
+msgstr ""
+"Iniciamos o Projeto GNU com um objetivo geral específico: criar um sistema "
+"operacional de Software Livre, o Sistema GNU. O escopo do GNU é abrangente: "
+"qualquer trabalho que os usuários de computador desejem fazer <a href="
+"\"http://www.gnu.org/gnu/gnu-history.html\">deve ser realizável por Software "
+"Livre</a> e é, portanto, uma parte potencial do GNU. Por exemplo, qualquer "
+"programa encontrado em uma <a href=\"/distros\">distribuição GNU/Linux</a> "
+"típica é candidato."
+
+#. type: Content of: <table><tr><td><p>
+msgid ""
+"So we welcome new packages in GNU, to further our common cause of free "
+"software.  If you want to join in and may have a suitable package, please "
+"fill out this <a href=\"/help/evaluation.html\">short questionnaire</a> to "
+"get started, and see the background information there.  The <a href=\"http://"
+"directory.fsf.org/\">Free Software Directory</a> holds the <a href=\"http://"
+"directory.fsf.org/wiki/GNU/\">list of all current GNU packages</a>."
+msgstr ""
+"Portanto, convidamos novos pacotes a participar do GNU, para promover nossa "
+"causa comum do Software Livre. Se você deseja participar e pode ter um "
+"pacote adequado, preencha este <a href=\"/help/evaluation.html\">pequeno "
+"questionário</a> para começar, e consulte as informações básicas. O <a href="
+"\"http://directory.fsf.org/\">Diretório de Software Livre</a> contém a <a "
+"href=\"http://directory.fsf.org/wiki/GNU/\">lista de todos os pacotes GNU "
+"atuais</a>."
+
+#. type: Content of: <table><tr><td><p>
+msgid ""
+"Another important way to help GNU is by contributing to the existing GNU "
+"projects. The <a href=\"http://savannah.gnu.org/people/?type_id=1\">GNU Help "
+"Wanted</a> list is the general task list for GNU software.  You might also "
+"consider taking over one of the <a href=\"/server/takeaction.html#unmaint"
+"\">unmaintained GNU packages</a>.  The general <a href=\"/help/help.html"
+"\">Help GNU</a> page includes many non-technical ways to contribute, too."
+msgstr ""
+"Outra maneira importante de ajudar o GNU é contribuindo com os projetos "
+"existentes do GNU. A lista <a href=\"http://savannah.gnu.org/people/?"
+"type_id=1\">Procura-se Ajuda ao GNU</a> é a lista de tarefas geral de "
+"<em>software</em> GNU. Você também pode considerar assumir um dos <a href=\"/"
+"server/takeaction.html#unmaint\">pacotes GNU não mantidos</a>. A página "
+"geral <a href=\"/help/help.html\">Ajude o GNU</a> inclui também muitas "
+"maneiras não técnicas de contribuir."
+
+#. type: Content of: <table><tr><td><p>
+msgid ""
+"If you possess the skills of a webmaster, you might like to consider helping "
+"on this website &mdash; <a href=\"/server/standards/webmaster-quiz.html"
+"\">please take our webmaster quiz</a>."
+msgstr ""
+"Se você possui as habilidades de um <em>webmaster</em>, considere ajudar "
+"neste <em>website</em> — <a href=\"/server/standards/webmaster-quiz.html"
+"\">responda nosso questionário para webmasters</a>."
+
+#. type: Content of: <table><tr><td><p>
+msgid ""
+"Our server <a href=\"http://savannah.gnu.org/\">savannah.gnu.org</a> is a "
+"central point for development and maintenance of free software, and many <a "
+"href=\"https://savannah.nongnu.org/search/?type_of_search=soft&amp;words=%%"
+"%&amp;type=1\">GNU projects are hosted at savannah</a>.  Savannah also "
+"welcomes and supports free software projects that are not official GNU "
+"packages, so feel free to use it for any of your free software work; unlike "
+"other hosting sites, <a href=\"http://www.fsf.org/blogs/community/savannah"
+"\">savannah is firmly based on free software ideals</a>."
+msgstr ""
+"Nosso servidor <a href=\"http://savannah.gnu.org/\">savannah.gnu.org</a> é "
+"um ponto central para o desenvolvimento e manutenção de Software Livre, e "
+"muitos <a href=\"https://savannah.nongnu.org/search/?type_of_search=soft&amp;"
+"words=%%%&amp;type=1\">projetos GNU estão hospedados no savannah</a>. "
+"Savannah também dá boas-vindas e suporta projetos de Software Livre que não "
+"são pacotes oficiais do GNU; portanto, fique à vontade para usá-lo em "
+"qualquer um dos seus trabalhos de Software Livre; ao contrário de outros "
+"<em>sites</em> de hospedagem, o <a href=\"http://www.fsf.org/blogs/community/"
+"savannah\">savannah é baseado firmemente nos ideais de Software Livre</a>."
+
+#. type: Content of: <table><tr><td><h3>
+msgid "Support the FSF"
+msgstr "Apoie a FSF"
+
+#. type: Attribute 'alt' of: <table><tr><td><p><img>
+msgid "&nbsp;[FSF logo]&nbsp;"
+msgstr "&nbsp;[logo da FSF]&nbsp;"
+
+#. type: Content of: <table><tr><td><p>
+msgid ""
+"Your <a href=\"https://www.fsf.org/associate/support_freedom?\">charitable "
+"donation</a> to the FSF helps to support, promote, and develop free software:"
+msgstr ""
+"Sua <a href=\"https://www.fsf.org/associate/support_freedom?\">doação de "
+"caridade</a> para a FSF ajuda a apoiar, promover e desenvolver Software "
+"Livre:"
+
+#. type: Content of: <table><tr><td><ul><li>
+msgid ""
+"<a href=\"http://www.gnu.org/\">GNU Project</a> &mdash; Developing a "
+"complete free software operating system"
+msgstr ""
+"<a href=\"http://www.gnu.org/\">Projeto GNU</a> &ndash; Desenvolvendo um "
+"sistema operacional completo de Software Livre"
+
+#. type: Content of: <table><tr><td><ul><li>
+msgid ""
+"<a href=\"http://www.fsf.org/licensing/\">Licensing &amp; Compliance Lab</a> "
+"&mdash; Stewardship and enforcement of the GNU General Public License"
+msgstr ""
+"<a href=\"http://www.fsf.org/licensing/\">Laboratório de Licenciamento &amp; "
+"Conformidade</a> &mdash; Administração e aplicação da Licença Pública Geral "
+"GNU"
+
+#. type: Content of: <table><tr><td><ul><li>
+msgid ""
+"<a href=\"http://directory.fsf.org/\">Free Software Directory</a> &mdash; "
+"Cataloging the world of free software"
+msgstr ""
+"<a href=\"http://directory.fsf.org/\">Diretório de Software Livre</a> "
+"&ndash; Catalogando o mundo do Software Livre"
+
+#. type: Content of: <table><tr><td><ul><li>
+msgid ""
+"<a href=\"http://savannah.gnu.org/\">Savannah Community</a> &mdash; "
+"Supporting free software developers"
+msgstr ""
+"<a href=\"http://savannah.gnu.org/\">Comunidade Savannah</a> &ndash; "
+"Apoiando desenvolvedores de Software Livre"
+
+#. type: Content of: <table><tr><td><ul><li>
+msgid ""
+"<a href=\"http://www.fsf.org/campaigns/\">Campaigns for Freedom</a> &mdash; "
+"Earning mindshare in support of free software"
+msgstr ""
+"<a href=\"http://www.fsf.org/campaigns/\">Campanhas para liberdade</a> "
+"&ndash; Ganhando conscientização em apoio do Software Livre"
+
+#. type: Content of: <h2>
+msgid ""
+"<a href=\"http://www.fsf.org/register_form?referrer=2442\">Join the FSF "
+"today!</a> or <a href=\"https://www.fsf.org/associate/support_freedom/donate"
+"\">Make a donation</a>"
+msgstr ""
+"<a href=\"http://www.fsf.org/register_form?referrer=2442\">Junte-se à FSF "
+"hoje!</a> ou <a href=\"https://www.fsf.org/associate/support_freedom/donate"
+"\">Faça uma doação</a>"
+
+#. type: Content of: <table><tr><td><h3>
+msgid "Philosophy"
+msgstr "Filosofia"
+
+#. type: Content of: <table><tr><td><p>
+msgid "Learn more about the philosophy behind free software."
+msgstr "Saiba mais sobre a filosofia por trás do Software Livre."
+
+#. type: Content of: <table><tr><td><ul><li>
+msgid "<a href=\"/philosophy/free-sw.html\">What is free software?</a>"
+msgstr "<a href=\"/philosophy/free-sw.html\">O que é Software Livre?</a>"
+
+#. type: Content of: <table><tr><td><ul><li>
+msgid ""
+"<a href=\"/philosophy/open-source-misses-the-point.html\">Why \"open source"
+"\" misses the point</a>"
+msgstr ""
+"<a href=\"/philosophy/open-source-misses-the-point.html\">Por que o chamado "
+"“código aberto” não compartilha dos objetivos do Software Livre”</a>"
+
+#. type: Content of: <table><tr><td><p>
+msgid "<strong>Sign up for the <em>Free Software Supporter</em></strong>"
+msgstr "<strong>Inscreva-se no <em>Suporte ao Software Livre</em></strong>"
+
+#. type: Content of: <table><tr><td><p>
+msgid "A monthly update on GNU and the Free Software Foundation"
+msgstr "Uma atualização mensal sobre o GNU e a Free Software Foundation"
+
+#. type: Content of: <table><tr><td><form><p>
+msgid ""
+"<input type=\"text\" name=\"email\" size=\"30\" maxlength=\"80\" value="
+"\"you@example.com\" onfocus=\"this.value=''\" />&nbsp;<input type=\"submit\" "
+"value=\"Subscribe me\" />"
+msgstr ""
+"<input type=\"text\" name=\"email\" size=\"30\" maxlength=\"80\" value="
+"\"you@example.com\" onfocus=\"this.value=''\" />&nbsp;<input type=\"submit\" "
+"value=\"Subscribe me\" />"
+
+#. type: Content of: <table><tr><td><h3>
+msgid "Download"
+msgstr "Baixar"
+
+#. type: Content of: <table><tr><td><ul><li>
+msgid ""
+"<a href=\"http://www.gnewsense.org/\">gNewSense</a>, a GNU/Linux "
+"distribution based on Debian and Ubuntu, with sponsorship from the FSF."
+msgstr ""
+"<a href=\"http://www.gnewsense.org/\">gNewSense</a>, uma distribuição GNU/"
+"Linux baseada no Debian e Ubuntu, com patrocínio da FSF."
+
+#. type: Content of: <table><tr><td><ul><li>
+msgid ""
+"<a href=\"http://www.blagblagblag.org/\">BLAG</a>, BLAG Linux and GNU, a GNU/"
+"Linux distribution based on Fedora."
+msgstr ""
+"<a href=\"http://www.blagblagblag.org/\">BLAG</a>, BLAG Linux e GNU, uma "
+"distribuição GNU/Linux baseada no Fedora."
+
+#. type: Content of: <table><tr><td><p>
+msgid ""
+"<a href=\"/distros\">More GNU distributions</a> and a <a href=\"http://"
+"directory.fsf.org/wiki/GNU/\">complete list of GNU packages</a>"
+msgstr ""
+"<a href=\"/distros\">Mais distribuições GNU</a> e uma <a href=\"http://"
+"directory.fsf.org/wiki/GNU/\">lista completa dos pacotes GNU</a>"
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas deste site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2008, 2014, 2018, 2019 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2008, 2014, 2018, 2019 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
+
+#. type: Content of: <div><p>
+msgid ""
+"&ldquo;<a href=\"/fry/happy-birthday-to-gnu.html\">Happy Birthday to GNU</"
+"a>&rdquo; is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-No "
+"Derivative Works 3.0 United States License</a>."
+msgstr ""
+"“<a href=\"/fry/happy-birthday-to-gnu.html\">Feliz aniversário para o GNU</"
+"a>” está licenciado sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+
+#. type: Content of: <div><p>
+msgid ""
+"Please <a href=\"http://www.fsf.org/about/contact.html\">contact us</a> for "
+"further permissions, including derived works."
+msgstr ""
+"Por favor, <a href=\"http://www.fsf.org/about/contact.html\">nos contate</a> "
+"para mais permissões, incluindo trabalhos derivados."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2020.Revisado por: Cassiano Reinert Novais dos "
+"Santos <a href=\"mailto:caco@posteo.net\">&lt;caco@posteo.net&gt;</a>, 2020."
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização:"

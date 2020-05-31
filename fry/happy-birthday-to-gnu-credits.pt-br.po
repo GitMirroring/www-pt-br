@@ -1,0 +1,1419 @@
+# Brazilian Portuguese translation of https://www.gnu.org/fry/happy-birthday-to-gnu-credits.html
+# Copyright (C) 2020 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2020.
+# Cassiano Reinert Novais dos Santos <caco@posteo.net>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: happy-birthday-to-gnu-credits.html\n"
+"POT-Creation-Date: 2020-01-08 15:25+0000\n"
+"PO-Revision-Date: 2020-01-12 21:05-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid "Stephen Fry - GNU Project - Free Software Foundation"
+msgstr "Stephen Fry - Projeto GNU - Free Software Foundation"
+
+#. type: Attribute 'content' of: <meta>
+msgid ""
+"GNU, FSF, Free Software Foundation, Linux, Emacs, GCC, Unix, Free Software, "
+"Operating System, GNU Kernel, HURD, GNU HURD, Hurd"
+msgstr ""
+"GNU, FSF, Free Software Foundation, Linux, Emacs, GCC, Unix, Software Livre, "
+"Sistema Operacional, GNU Kernel, HURD, GNU HURD, Hurd"
+
+#. type: Attribute 'content' of: <meta>
+msgid ""
+"Since 1983, developing the free Unix style operating system GNU, so that "
+"computer users can have the freedom to share and improve the software they "
+"use."
+msgstr ""
+"Desde 1983, desenvolvendo o GNU, sistema operacional livre tipo Unix, para "
+"que usuários de computador possam ter a liberdade de compartilhar e melhorar "
+"o software que usam."
+
+#. type: Content of: <style>
+#, no-wrap
+msgid ""
+".inline {text-align: center; line-height: 4em; padding: 0; margin: 0 !important;  margin-bottom: 1em !important;}\n"
+"\n"
+".inline li{list-style: none; display: inline; }\n"
+"\n"
+"#download li a{background-color:#1ea410; padding: 1em 3em 1em 3em; -moz-border-radius: 8px; color: white; font-weight: bold; margin: 0.4em; text-decoration: none; width: 23%; text-align: center;}\n"
+"\n"
+"#download a:hover{background-color: #b1ef0b; color: black;}\n"
+"\n"
+".title{font-size: 180%;}\n"
+"\n"
+"h2{color: black !important; border: 0 !important; text-align: center;}\n"
+"\n"
+"h3{color: black !important; border: 0 !important; text-align: center; font-size: 1.2em !important;}\n"
+"\n"
+"h4{color: black !important; border: 0 !important; text-align: center; font-size: 1em !important;}\n"
+"\n"
+"ul{text-align: center;}\n"
+"\n"
+"li{list-style: none !important;}\n"
+"\n"
+"td p{padding-left: 1em; padding-right: 1em;}\n"
+"\n"
+"td li, td p{font-size: 0.8em;}\n"
+"\n"
+".formHelp{text-align: center; color: #666; font-size: 90%;}\n"
+"\n"
+"table{margin-bottom: 0.8em !important;}\n"
+"\n"
+"#sjf{width: 600px; margin: 0 auto 1em auto;}\n"
+"\n"
+msgstr ""
+".inline {text-align: center; line-height: 4em; padding: 0; margin: 0 !important;  margin-bottom: 1em !important;}\n"
+"\n"
+".inline li{list-style: none; display: inline; }\n"
+"\n"
+"#download li a{background-color:#1ea410; padding: 1em 3em 1em 3em; -moz-border-radius: 8px; color: white; font-weight: bold; margin: 0.4em; text-decoration: none; width: 23%; text-align: center;}\n"
+"\n"
+"#download a:hover{background-color: #b1ef0b; color: black;}\n"
+"\n"
+".title{font-size: 180%;}\n"
+"\n"
+"h2{color: black !important; border: 0 !important; text-align: center;}\n"
+"\n"
+"h3{color: black !important; border: 0 !important; text-align: center; font-size: 1.2em !important;}\n"
+"\n"
+"h4{color: black !important; border: 0 !important; text-align: center; font-size: 1em !important;}\n"
+"\n"
+"ul{text-align: center;}\n"
+"\n"
+"li{list-style: none !important;}\n"
+"\n"
+"td p{padding-left: 1em; padding-right: 1em;}\n"
+"\n"
+"td li, td p{font-size: 0.8em;}\n"
+"\n"
+".formHelp{text-align: center; color: #666; font-size: 90%;}\n"
+"\n"
+"table{margin-bottom: 0.8em !important;}\n"
+"\n"
+"#sjf{width: 600px; margin: 0 auto 1em auto;}\n"
+"\n"
+
+#. type: Content of: <h2>
+msgid "&ldquo;Happy Birthday to GNU&rdquo;"
+msgstr "“Feliz aniversário para o GNU”"
+
+#. type: Content of: <h3>
+msgid "Thank you to Stephen Fry for his participation in this film."
+msgstr "Obrigado a Stephen Fry por sua participação neste filme."
+
+#. type: Content of: <h4>
+msgid "Image credits"
+msgstr "Créditos de imagem"
+
+#. type: Content of: <p>
+msgid ""
+"<a href=\"http://flickr.com/photos/mwichary/2189550035/\">&lsquo;IBM "
+"PC&rsquo; by Marcin Wichary</a> &mdash; <a href=\"http://creativecommons.org/"
+"licenses/by/2.0/\">CC-BY</a>"
+msgstr ""
+"<a href=\"http://flickr.com/photos/mwichary/2189550035/\">“IBM PC” por "
+"Marcin Wichary</a> &mdash; <a href=\"http://creativecommons.org/licenses/"
+"by/2.0/\">CC-BY</a>"
+
+#. type: Content of: <p>
+msgid ""
+"<a href=\"https://web.archive.org/web/20160801025137/https://www.flickr.com/"
+"photos/cote/60644354/\">&lsquo;Computer Museum&rsquo; by Michael Cot&eacute;"
+"</a> &mdash; <a href=\"http://creativecommons.org/licenses/by/2.0/\">CC-BY</"
+"a>"
+msgstr ""
+"<a href=\"https://web.archive.org/web/20160801025137/https://www.flickr.com/"
+"photos/cote/60644354/\">“Computer Museum” por Michael Coté</a> &mdash; <a "
+"href=\"http://creativecommons.org/licenses/by/2.0/\">CC-BY</a>"
+
+#. type: Content of: <p>
+msgid ""
+"<a href=\"http://flickr.com/photos/mskogly/2578131935/\">&lsquo;New bathroom "
+"project&rsquo; by Morten Skogly</a> &mdash; <a href=\"http://creativecommons."
+"org/licenses/by/2.0/\">CC-BY</a>"
+msgstr ""
+"<a href=\"http://flickr.com/photos/mskogly/2578131935/\">“New bathroom "
+"project” por orten Skogly</a> &mdash; <a href=\"http://creativecommons.org/"
+"licenses/by/2.0/\">CC-BY</a>"
+
+#. type: Content of: <p>
+msgid ""
+"&lsquo;GNU&rsquo; by Jochen St&auml;rk &mdash; <a href=\"http://"
+"creativecommons.org/licenses/by/2.0/\">CC-BY</a>"
+msgstr ""
+"“GNU” por Jochen Stärk &mdash; <a href=\"http://creativecommons.org/licenses/"
+"by/2.0/\">CC-BY</a>"
+
+#. type: Content of: <h4>
+msgid "Music &mdash; Song for Emma by furny (Lee/Cousens) http://furny.co.uk"
+msgstr ""
+"Música &mdash; Canção para Emma por furny (Lee/Cousens) http://furny.co.uk"
+
+#. type: Content of: <h2>
+msgid "Thank GNUs"
+msgstr "Agradecimentos do GNU"
+
+#. type: Content of: <p>
+msgid "For their contributions to GNU over the last 25 years, we thank&hellip;"
+msgstr ""
+"Por suas contribuições para o GNU ao longo dos últimos 25 anos, nós "
+"agradecemos…"
+
+#. TRANSLATORS: Be careful when transliterating names; see '(gettext)Names'
+#. type: Content of: <ul><li>
+msgid "Adam Fedor"
+msgstr "Adam Fedor"
+
+#. type: Content of: <ul><li>
+msgid "Adrienne Thompson"
+msgstr "Adrienne Thompson"
+
+#. type: Content of: <ul><li>
+msgid "Akim Demaille"
+msgstr "Akim Demaille"
+
+#. type: Content of: <ul><li>
+msgid "Al Davis"
+msgstr "Al Davis"
+
+#. type: Content of: <ul><li>
+msgid "Aleksandar Samardzic"
+msgstr "Aleksandar Samardzic"
+
+#. type: Content of: <ul><li>
+msgid "Ales Cepek"
+msgstr "Ales Cepek"
+
+#. type: Content of: <ul><li>
+msgid "Alessandro Rubini"
+msgstr "Alessandro Rubini"
+
+#. type: Content of: <ul><li>
+msgid "Alex Muntada"
+msgstr "Alex Muntada"
+
+#. type: Content of: <ul><li>
+msgid "Alexandre Oliva"
+msgstr "Alexandre Oliva"
+
+#. type: Content of: <ul><li>
+msgid "Allin Cottrell"
+msgstr "Allin Cottrell"
+
+#. type: Content of: <ul><li>
+msgid "Anand Babu"
+msgstr "Anand Babu"
+
+#. type: Content of: <ul><li>
+msgid "Andias T. Wira Alam"
+msgstr "Andias T. Wira Alam"
+
+#. type: Content of: <ul><li>
+msgid "Andrew Makhorin"
+msgstr "Andrew Makhorin"
+
+#. type: Content of: <ul><li>
+msgid "Antonio Cisternino"
+msgstr "Antonio Cisternino"
+
+#. type: Content of: <ul><li>
+msgid "Antonio Diaz"
+msgstr "Antonio Diaz"
+
+#. type: Content of: <ul><li>
+msgid "Anuradha Ratnaweera"
+msgstr "Anuradha Ratnaweera"
+
+#. type: Content of: <ul><li>
+msgid "Arnold Robbins"
+msgstr "Arnold Robbins"
+
+#. type: Content of: <ul><li>
+msgid "Aubrey Jaffer"
+msgstr "Aubrey Jaffer"
+
+#. type: Content of: <ul><li>
+msgid "Aurelio A. Heckert"
+msgstr "Aurelio A. Heckert"
+
+#. type: Content of: <ul><li>
+msgid "Aymeric Moizard"
+msgstr "Aymeric Moizard"
+
+#. type: Content of: <ul><li>
+msgid "Baishampayan Ghose"
+msgstr "Baishampayan Ghose"
+
+#. type: Content of: <ul><li>
+msgid "Behroze Nejaati"
+msgstr "Behroze Nejaati"
+
+#. type: Content of: <ul><li>
+msgid "Ben Elliston"
+msgstr "Ben Elliston"
+
+#. type: Content of: <ul><li>
+msgid "Ben Pfaff"
+msgstr "Ben Pfaff"
+
+#. type: Content of: <ul><li>
+msgid "Benjamin Mako Hill"
+msgstr "Benjamin Mako Hill"
+
+#. type: Content of: <ul><li>
+msgid "Bernhard Rosenkr&auml;nzer"
+msgstr "Bernhard Rosenkränzer"
+
+#. type: Content of: <ul><li>
+msgid "Bob Glickstein"
+msgstr "Bob Glickstein"
+
+#. type: Content of: <ul><li>
+msgid "Bradley M. Kuhn"
+msgstr "Bradley M. Kuhn"
+
+#. type: Content of: <ul><li>
+msgid "Brendon Gleeson"
+msgstr "Brendon Gleeson"
+
+#. type: Content of: <ul><li>
+msgid "Brett Smith"
+msgstr "Brett Smith"
+
+#. type: Content of: <ul><li>
+msgid "Brian J. Fox"
+msgstr "Brian J. Fox"
+
+#. type: Content of: <ul><li>
+msgid "Carlo Wood"
+msgstr "Carlo Wood"
+
+#. type: Content of: <ul><li>
+msgid "Cesar J. Alaniz"
+msgstr "Cesar J. Alaniz"
+
+#. type: Content of: <ul><li>
+msgid "Chad C. Walstrom"
+msgstr "Chad C. Walstrom"
+
+#. type: Content of: <ul><li>
+msgid "Charles Henry Schoonover"
+msgstr "Charles Henry Schoonover"
+
+#. type: Content of: <ul><li>
+msgid "Chet Ramey"
+msgstr "Chet Ramey"
+
+#. type: Content of: <ul><li>
+msgid "Chris Allegretta"
+msgstr "Chris Allegretta"
+
+#. type: Content of: <ul><li>
+msgid "Chris M. Simon"
+msgstr "Chris M. Simon"
+
+#. type: Content of: <ul><li>
+msgid "Christian Grothoff"
+msgstr "Christian Grothoff"
+
+#. type: Content of: <ul><li>
+msgid "Christian Mauduit"
+msgstr "Christian Mauduit"
+
+#. type: Content of: <ul><li>
+msgid "Christiano Anderson"
+msgstr "Christiano Anderson"
+
+#. type: Content of: <ul><li>
+msgid "Christopher Gutteridge"
+msgstr "Christopher Gutteridge"
+
+#. type: Content of: <ul><li>
+msgid "Claude Simon"
+msgstr "Claude Simon"
+
+#. type: Content of: <ul><li>
+msgid "Claudio Fontana"
+msgstr "Claudio Fontana"
+
+#. type: Content of: <ul><li>
+msgid "Corey Goldberg"
+msgstr "Corey Goldberg"
+
+#. type: Content of: <ul><li>
+msgid "Craig Schock"
+msgstr "Craig Schock"
+
+#. type: Content of: <ul><li>
+msgid "D E Evans"
+msgstr "D E Evans"
+
+#. type: Content of: <ul><li>
+msgid "DJ Delorie"
+msgstr "DJ Delorie"
+
+#. type: Content of: <ul><li>
+msgid "Dale Mellor"
+msgstr "Dale Mellor"
+
+#. type: Content of: <ul><li>
+msgid "Daniel Bump"
+msgstr "Daniel Bump"
+
+#. type: Content of: <ul><li>
+msgid "Daniel Valentine"
+msgstr "Daniel Valentine"
+
+#. type: Content of: <ul><li>
+msgid "Danny Clark"
+msgstr "Danny Clark"
+
+#. type: Content of: <ul><li>
+msgid "David C. Niemi"
+msgstr "David C. Niemi"
+
+#. type: Content of: <ul><li>
+msgid "David MacKenzie"
+msgstr "David MacKenzie"
+
+#. type: Content of: <ul><li>
+msgid "David R. Hill"
+msgstr "David R. Hill"
+
+#. type: Content of: <ul><li>
+msgid "David Sugar"
+msgstr "David Sugar"
+
+#. type: Content of: <ul><li>
+msgid "Debarshi Ray"
+msgstr "Debarshi Ray"
+
+#. type: Content of: <ul><li>
+msgid "Deborah Nicholson"
+msgstr "Deborah Nicholson"
+
+#. type: Content of: <ul><li>
+msgid "Dennis Clarke"
+msgstr "Dennis Clarke"
+
+#. type: Content of: <ul><li>
+msgid "Denver Gingerich"
+msgstr "Denver Gingerich"
+
+#. type: Content of: <ul><li>
+msgid "Dmitri Alenitchev"
+msgstr "Dmitri Alenitchev"
+
+#. type: Content of: <ul><li>
+msgid "Eben Moglen"
+msgstr "Eben Moglen"
+
+#. type: Content of: <ul><li>
+msgid "Edward Alfert"
+msgstr "Edward Alfert"
+
+#. type: Content of: <ul><li>
+msgid "Emmanuel Medernach"
+msgstr "Emmanuel Medernach"
+
+#. type: Content of: <ul><li>
+msgid "Eric Blake"
+msgstr "Eric Blake"
+
+#. type: Content of: <ul><li>
+msgid "Etienne Suvasa"
+msgstr "Etienne Suvasa"
+
+#. type: Content of: <ul><li>
+msgid "Exal de Jesus Garcia Carrillo"
+msgstr "Exal de Jesus Garcia Carrillo"
+
+#. type: Content of: <ul><li>
+msgid "Filippo Rusconi"
+msgstr "Filippo Rusconi"
+
+#. type: Content of: <ul><li>
+msgid "Francesco Potort&igrave;"
+msgstr "Francesco Potort&igrave;"
+
+#. type: Content of: <ul><li>
+msgid "Franco Iacomella"
+msgstr "Franco Iacomella"
+
+#. type: Content of: <ul><li>
+msgid "Frank de Lange"
+msgstr "Frank de Lange"
+
+#. type: Content of: <ul><li>
+msgid "Franklin R. Jones"
+msgstr "Franklin R. Jones"
+
+#. type: Content of: <ul><li>
+msgid "Gaz Collins"
+msgstr "Gaz Collins"
+
+#. type: Content of: <ul><li>
+msgid "Geoffrey Knauth"
+msgstr "Geoffrey Knauth"
+
+#. type: Content of: <ul><li>
+msgid "Georg Bahlon"
+msgstr "Georg Bahlon"
+
+#. type: Content of: <ul><li>
+msgid "Georg C. F. Greve"
+msgstr "Georg C. F. Greve"
+
+#. type: Content of: <ul><li>
+msgid "Gerald Pfeifer"
+msgstr "Gerald Pfeifer"
+
+#. type: Content of: <ul><li>
+msgid "Gerald Sussman"
+msgstr "Gerald Sussman"
+
+#. type: Content of: <ul><li>
+msgid "Gordon Matzigkeit"
+msgstr "Gordon Matzigkeit"
+
+#. type: Content of: <ul><li>
+msgid "Gregory Casamento"
+msgstr "Gregory Casamento"
+
+#. type: Content of: <ul><li>
+msgid "Guillaume Morin"
+msgstr "Guillaume Morin"
+
+#. type: Content of: <ul><li>
+msgid "Hal Abelson"
+msgstr "Hal Abelson"
+
+#. type: Content of: <ul><li>
+msgid "Han-Wen Nienhuys"
+msgstr "Han-Wen Nienhuys"
+
+#. type: Content of: <ul><li>
+msgid "Henning K&ouml;ster"
+msgstr "Henning Köster"
+
+#. type: Content of: <ul><li>
+msgid "Henri Poole"
+msgstr "Henri Poole"
+
+#. type: Content of: <ul><li>
+msgid "Henrik Abelsson"
+msgstr "Henrik Abelsson"
+
+#. type: Content of: <ul><li>
+msgid "Henrik Sandklef"
+msgstr "Henrik Sandklef"
+
+#. type: Content of: <ul><li>
+msgid "Hicham Yamout"
+msgstr "Hicham Yamout"
+
+#. type: Content of: <ul><li>
+msgid "Hilaire L. S. Fernandes"
+msgstr "Hilaire L. S. Fernandes"
+
+#. type: Content of: <ul><li>
+msgid "Hossam Hossny"
+msgstr "Hossam Hossny"
+
+#. type: Content of: <ul><li>
+msgid "Hugo Gayosso"
+msgstr "Hugo Gayosso"
+
+#. type: Content of: <ul><li>
+msgid "IIDA Yosiaki"
+msgstr "IIDA Yosiaki"
+
+#. type: Content of: <ul><li>
+msgid "Ian Lance Taylor"
+msgstr "Ian Lance Taylor"
+
+#. type: Content of: <ul><li>
+msgid "Ian Murdock"
+msgstr "Ian Murdock"
+
+#. type: Content of: <ul><li>
+msgid "Igor T&aacute;mara Pati&ntilde;o"
+msgstr "Igor T&aacute;mara Pati&ntilde;o"
+
+#. type: Content of: <ul><li>
+msgid "J. Abelardo Gutierrez"
+msgstr "J. Abelardo Gutierrez"
+
+#. type: Content of: <ul><li>
+msgid "James Craig Burley"
+msgstr "James Craig Burley"
+
+#. type: Content of: <ul><li>
+msgid "Jan Nieuwenhuizen"
+msgstr "Jan Nieuwenhuizen"
+
+#. type: Content of: <ul><li>
+msgid "Jason Kitcat"
+msgstr "Jason Kitcat"
+
+#. type: Content of: <ul><li>
+msgid "Jason M. Felice"
+msgstr "Jason M. Felice"
+
+#. type: Content of: <ul><li>
+msgid "Jean-loup Gailly"
+msgstr "Jean-loup Gailly"
+
+#. type: Content of: <ul><li>
+msgid "Jeanne Rasata"
+msgstr "Jeanne Rasata"
+
+#. type: Content of: <ul><li>
+msgid "Jeff Binder"
+msgstr "Jeff Binder"
+
+#. type: Content of: <ul><li>
+msgid "Jeffrey B. Siegal"
+msgstr "Jeffrey B. Siegal"
+
+#. type: Content of: <ul><li>
+msgid "Jia Wang"
+msgstr "Jia Wang"
+
+#. type: Content of: <ul><li>
+msgid "Jim Blandy"
+msgstr "Jim Blandy"
+
+#. type: Content of: <ul><li>
+msgid "Jim Lowe"
+msgstr "Jim Lowe"
+
+#. type: Content of: <ul><li>
+msgid "Jim Meyering"
+msgstr "Jim Meyering"
+
+#. type: Content of: <ul><li>
+msgid "Joakim Olsson"
+msgstr "Joakim Olsson"
+
+#. type: Content of: <ul><li>
+msgid "Joel N. Weber II"
+msgstr "Joel N. Weber II"
+
+#. type: Content of: <ul><li>
+msgid "Johan Vromans"
+msgstr "Johan Vromans"
+
+#. type: Content of: <ul><li>
+msgid "John Bokma"
+msgstr "John Bokma"
+
+#. type: Content of: <ul><li>
+msgid "John Catherino"
+msgstr "John Catherino"
+
+#. type: Content of: <ul><li>
+msgid "John Paul Wallington"
+msgstr "John Paul Wallington"
+
+#. type: Content of: <ul><li>
+msgid "John Sullivan"
+msgstr "John Sullivan"
+
+#. type: Content of: <ul><li>
+msgid "John W. Eaton"
+msgstr "John W. Eaton"
+
+#. type: Content of: <ul><li>
+msgid "Jonas Jacobson"
+msgstr "Jonas Jacobson"
+
+#. type: Content of: <ul><li>
+msgid "Jonas K&ouml;lker"
+msgstr "Jonas Kölker"
+
+#. type: Content of: <ul><li>
+msgid "Jonas Öberg"
+msgstr "Jonas Öberg"
+
+#. type: Content of: <ul><li>
+msgid "Jonathan Tuttle"
+msgstr "Jonathan Tuttle"
+
+#. type: Content of: <ul><li>
+msgid "Jorge Barrera Grandon"
+msgstr "Jorge Barrera Grandon"
+
+#. type: Content of: <ul><li>
+msgid "Joris van der Hoeven"
+msgstr "Joris van der Hoeven"
+
+#. type: Content of: <ul><li>
+msgid "Jose Antonio Ortega Ruiz"
+msgstr "Jose Antonio Ortega Ruiz"
+
+#. type: Content of: <ul><li>
+msgid "Jose E. Marchesi"
+msgstr "Jose E. Marchesi"
+
+#. type: Content of: <ul><li>
+msgid "Jose M. Moya"
+msgstr "Jose M. Moya"
+
+#. type: Content of: <ul><li>
+msgid "Joseph W. Reiss"
+msgstr "Joseph W. Reiss"
+
+#. type: Content of: <ul><li>
+msgid "Joshua Gay"
+msgstr "Joshua Gay"
+
+#. type: Content of: <ul><li>
+msgid "Joshua Ginsberg"
+msgstr "Joshua Ginsberg"
+
+#. type: Content of: <ul><li>
+msgid "Juan Bidini"
+msgstr "Juan Bidini"
+
+#. type: Content of: <ul><li>
+msgid "Justin Baugh"
+msgstr "Justin Baugh"
+
+#. type: Content of: <ul><li>
+msgid "Justin Pence"
+msgstr "Justin Pence"
+
+#. type: Content of: <ul><li>
+msgid "Karl Berry"
+msgstr "Karl Berry"
+
+#. type: Content of: <ul><li>
+msgid "Karl Heuer"
+msgstr "Karl Heuer"
+
+#. type: Content of: <ul><li>
+msgid "Kathryn Ann Hargreaves"
+msgstr "Kathryn Ann Hargreaves"
+
+#. type: Content of: <ul><li>
+msgid "Kelly Hopkins"
+msgstr "Kelly Hopkins"
+
+#. type: Content of: <ul><li>
+msgid "Klaus Treichel"
+msgstr "Klaus Treichel"
+
+#. type: Content of: <ul><li>
+msgid "Kresten Krab Thorup"
+msgstr "Kresten Krab Thorup"
+
+#. type: Content of: <ul><li>
+msgid "Krishna Padmasola"
+msgstr "Krishna Padmasola"
+
+#. type: Content of: <ul><li>
+msgid "Kyle Winkler"
+msgstr "Kyle Winkler"
+
+#. type: Content of: <ul><li>
+msgid "L. Peter Deutsch"
+msgstr "L. Peter Deutsch"
+
+#. type: Content of: <ul><li>
+msgid "Lalo Martins"
+msgstr "Lalo Martins"
+
+#. type: Content of: <ul><li>
+msgid "Lars Brinkhoff"
+msgstr "Lars Brinkhoff"
+
+#. type: Content of: <ul><li>
+msgid "Lars Magne Ingebrigtsen"
+msgstr "Lars Magne Ingebrigtsen"
+
+#. type: Content of: <ul><li>
+msgid "Laurence Finston"
+msgstr "Laurence Finston"
+
+#. type: Content of: <ul><li>
+msgid "Lawrence Lessig"
+msgstr "Lawrence Lessig"
+
+#. type: Content of: <ul><li>
+msgid "Leonard Manzara"
+msgstr "Leonard Manzara"
+
+#. type: Content of: <ul><li>
+msgid "Les Kopari"
+msgstr "Les Kopari"
+
+#. type: Content of: <ul><li>
+msgid "Lezz Giles"
+msgstr "Lezz Giles"
+
+#. type: Content of: <ul><li>
+msgid "Lisa M. Opus Goldstein"
+msgstr "Lisa M. Opus Goldstein"
+
+#. type: Content of: <ul><li>
+msgid "Loic Dachary"
+msgstr "Loic Dachary"
+
+#. type: Content of: <ul><li>
+msgid "Lorenzo Bettini"
+msgstr "Lorenzo Bettini"
+
+#. type: Content of: <ul><li>
+msgid "Lorenzo Hern&aacute;ndez Garcia-Hierro"
+msgstr "Lorenzo Hernández Garcia-Hierro"
+
+#. type: Content of: <ul><li>
+msgid "Luca Saiu"
+msgstr "Luca Saiu"
+
+#. type: Content of: <ul><li>
+msgid "Luis F. Araujo"
+msgstr "Luis F. Araujo"
+
+#. type: Content of: <ul><li>
+msgid "Luis M. Arteaga"
+msgstr "Luis M. Arteaga"
+
+#. type: Content of: <ul><li>
+msgid "Marc Tardif"
+msgstr "Marc Tardif"
+
+#. type: Content of: <ul><li>
+msgid "Marcos Serrou do Amaral"
+msgstr "Marcos Serrou do Amaral"
+
+#. type: Content of: <ul><li>
+msgid "Mark Adler"
+msgstr "Mark Adler"
+
+#. type: Content of: <ul><li>
+msgid "Mark H. Weaver"
+msgstr "Mark H. Weaver"
+
+#. type: Content of: <ul><li>
+msgid "Mark Par"
+msgstr "Mark Par"
+
+#. type: Content of: <ul><li>
+msgid "Markus Gerwinski"
+msgstr "Markus Gerwinski"
+
+#. type: Content of: <ul><li>
+msgid "Markus Steinborn"
+msgstr "Markus Steinborn"
+
+#. type: Content of: <ul><li>
+msgid "Masayuki Hatta"
+msgstr "Masayuki Hatta"
+
+#. type: Content of: <ul><li>
+msgid "Mats Lidell"
+msgstr "Mats Lidell"
+
+#. type: Content of: <ul><li>
+msgid "Matt Lee"
+msgstr "Matt Lee"
+
+#. type: Content of: <ul><li>
+msgid "Matthew Hiller"
+msgstr "Matthew Hiller"
+
+#. type: Content of: <ul><li>
+msgid "Maurizio Boriani"
+msgstr "Maurizio Boriani"
+
+#. type: Content of: <ul><li>
+msgid "Melissa Weisshaus"
+msgstr "Melissa Weisshaus"
+
+#. type: Content of: <ul><li>
+msgid "Michael Haardt"
+msgstr "Michael Haardt"
+
+#. type: Content of: <ul><li>
+msgid "Michael J. Flickinger"
+msgstr "Michael J. Flickinger"
+
+#. type: Content of: <ul><li>
+msgid "Michael Opdenacker"
+msgstr "Michael Opdenacker"
+
+#. type: Content of: <ul><li>
+msgid "Michael Presley"
+msgstr "Michael Presley"
+
+#. type: Content of: <ul><li>
+msgid "Miguel Vazquez Gocobachi"
+msgstr "Miguel Vazquez Gocobachi"
+
+#. type: Content of: <ul><li>
+msgid "Mikael Djurfeldt"
+msgstr "Mikael Djurfeldt"
+
+#. type: Content of: <ul><li>
+msgid "Mike Vanier"
+msgstr "Mike Vanier"
+
+#. type: Content of: <ul><li>
+msgid "Miquel Puigpelat"
+msgstr "Miquel Puigpelat"
+
+#. type: Content of: <ul><li>
+msgid "Moises Martinez"
+msgstr "Moises Martinez"
+
+#. type: Content of: <ul><li>
+msgid "Musawir Ali"
+msgstr "Musawir Ali"
+
+#. type: Content of: <ul><li>
+msgid "Neelakanth Nadgir"
+msgstr "Neelakanth Nadgir"
+
+#. type: Content of: <ul><li>
+msgid "Nicolas Rougier"
+msgstr "Nicolas Rougier"
+
+#. type: Content of: <ul><li>
+msgid "Nikos Mavroyanopoulos"
+msgstr "Nikos Mavroyanopoulos"
+
+#. type: Content of: <ul><li>
+msgid "Noah Friedman"
+msgstr "Noah Friedman"
+
+#. type: Content of: <ul><li>
+msgid "Ofer Waldman"
+msgstr "Ofer Waldman"
+
+#. type: Content of: <ul><li>
+msgid "Pablo Palazon"
+msgstr "Pablo Palazon"
+
+#. type: Content of: <ul><li>
+msgid "Paolo Bonzini"
+msgstr "Paolo Bonzini"
+
+#. type: Content of: <ul><li>
+msgid "Paul D. Smith"
+msgstr "Paul D. Smith"
+
+#. type: Content of: <ul><li>
+msgid "Paul Eggert"
+msgstr "Paul Eggert"
+
+#. type: Content of: <ul><li>
+msgid "Paul Goins"
+msgstr "Paul Goins"
+
+#. type: Content of: <ul><li>
+msgid "Paul Visscher"
+msgstr "Paul Visscher"
+
+#. type: Content of: <ul><li>
+msgid "Peter Brown"
+msgstr "Peter Brown"
+
+#. type: Content of: <ul><li>
+msgid "Peter Gerwinski"
+msgstr "Peter Gerwinski"
+
+#. type: Content of: <ul><li>
+msgid "Peter Miller"
+msgstr "Peter Miller"
+
+#. type: Content of: <ul><li>
+msgid "Phil Maker"
+msgstr "Phil Maker"
+
+#. type: Content of: <ul><li>
+msgid "Phil Nelson"
+msgstr "Phil Nelson"
+
+#. type: Content of: <ul><li>
+msgid "Phillip Rulon"
+msgstr "Phillip Rulon"
+
+#. type: Content of: <ul><li>
+msgid "Prashant Srinivasan"
+msgstr "Prashant Srinivasan"
+
+#. type: Content of: <ul><li>
+msgid "Prof. Masayuki Ida"
+msgstr "Prof. Masayuki Ida"
+
+#. type: Content of: <ul><li>
+msgid "Raif S. Naffah"
+msgstr "Raif S. Naffah"
+
+#. type: Content of: <ul><li>
+msgid "Rajesh Vaidheeswarran"
+msgstr "Rajesh Vaidheeswarran"
+
+#. type: Content of: <ul><li>
+msgid "Ralf S. Engelschall"
+msgstr "Ralf S. Engelschall"
+
+#. type: Content of: <ul><li>
+msgid "Ramakrishnan Muthukrishnan"
+msgstr "Ramakrishnan Muthukrishnan"
+
+#. type: Content of: <ul><li>
+msgid "Ramprasad B"
+msgstr "Ramprasad B"
+
+#. type: Content of: <ul><li>
+msgid "Ray P. Soucy"
+msgstr "Ray P. Soucy"
+
+#. type: Content of: <ul><li>
+msgid "Ra&uacute;l Silva."
+msgstr "Ra&uacute;l Silva."
+
+#. type: Content of: <ul><li>
+msgid "Reed Loden"
+msgstr "Reed Loden"
+
+#. type: Content of: <ul><li>
+msgid "Remco Bras"
+msgstr "Remco Bras"
+
+#. type: Content of: <ul><li>
+msgid "Reuben Thomas"
+msgstr "Reuben Thomas"
+
+#. type: Content of: <ul><li>
+msgid "Rick Crelia"
+msgstr "Rick Crelia"
+
+#. type: Content of: <ul><li>
+msgid "Rob Myers"
+msgstr "Rob Myers"
+
+#. type: Content of: <ul><li>
+msgid "Rob Savoye"
+msgstr "Rob Savoye"
+
+#. type: Content of: <ul><li>
+msgid "Robert J. Chassell"
+msgstr "Robert J. Chassell"
+
+#. type: Content of: <ul><li>
+msgid "Robert Maier"
+msgstr "Robert Maier"
+
+#. type: Content of: <ul><li>
+msgid "Roland McGrath"
+msgstr "Roland McGrath"
+
+#. type: Content of: <ul><li>
+msgid "Roland Stigge"
+msgstr "Roland Stigge"
+
+#. type: Content of: <ul><li>
+msgid "Sam Marx"
+msgstr "Sam Marx"
+
+#. type: Content of: <ul><li>
+msgid "Sam Steingold"
+msgstr "Sam Steingold"
+
+#. type: Content of: <ul><li>
+msgid "Sarah Katzenell Rabkin"
+msgstr "Sarah Katzenell Rabkin"
+
+#. type: Content of: <ul><li>
+msgid "Sebastian Wieseler"
+msgstr "Sebastian Wieseler"
+
+#. type: Content of: <ul><li>
+msgid "Sergey Poznyakoff"
+msgstr "Sergey Poznyakoff"
+
+#. type: Content of: <ul><li>
+msgid "Shawn Ewald"
+msgstr "Shawn Ewald"
+
+#. type: Content of: <ul><li>
+msgid "Shigio Yamaguchi"
+msgstr "Shigio Yamaguchi"
+
+#. type: Content of: <ul><li>
+msgid "Stein Krogdahl"
+msgstr "Stein Krogdahl"
+
+#. type: Content of: <ul><li>
+msgid "Stephen F. Booth"
+msgstr "Stephen F. Booth"
+
+#. type: Content of: <ul><li>
+msgid "Steve Hoeg"
+msgstr "Steve Hoeg"
+
+#. type: Content of: <ul><li>
+msgid "Steve Kemp"
+msgstr "Steve Kemp"
+
+#. type: Content of: <ul><li>
+msgid "Steve Oualline"
+msgstr "Steve Oualline"
+
+#. type: Content of: <ul><li>
+msgid "Steven M. Rubin"
+msgstr "Steven M. Rubin"
+
+#. type: Content of: <ul><li>
+msgid "Susan Bassein"
+msgstr "Susan Bassein"
+
+#. type: Content of: <ul><li>
+msgid "Sverre Hvammen Johansen"
+msgstr "Sverre Hvammen Johansen"
+
+#. type: Content of: <ul><li>
+msgid "Sylvain Beucler"
+msgstr "Sylvain Beucler"
+
+#. type: Content of: <ul><li>
+msgid "Terje Mjøs"
+msgstr "Terje Mjøs"
+
+#. type: Content of: <ul><li>
+msgid "Thomas Bushnell"
+msgstr "Thomas Bushnell"
+
+#. type: Content of: <ul><li>
+msgid "Thorsten Sauter"
+msgstr "Thorsten Sauter"
+
+#. type: Content of: <ul><li>
+msgid "Tim Retout"
+msgstr "Tim Retout"
+
+#. type: Content of: <ul><li>
+msgid "Tom Cato Amundsen"
+msgstr "Tom Cato Amundsen"
+
+#. type: Content of: <ul><li>
+msgid "Vivek Varghese Cherian"
+msgstr "Vivek Varghese Cherian"
+
+#. type: Content of: <ul><li>
+msgid "W. G. Krebs"
+msgstr "W. G. Krebs"
+
+#. type: Content of: <ul><li>
+msgid "Ward Vandewege"
+msgstr "Ward Vandewege"
+
+#. type: Content of: <ul><li>
+msgid "Werner Koch"
+msgstr "Werner Koch"
+
+#. type: Content of: <ul><li>
+msgid "William M. Perry"
+msgstr "William M. Perry"
+
+#. type: Content of: <ul><li>
+msgid "Wojciech Polak"
+msgstr "Wojciech Polak"
+
+#. type: Content of: <ul><li>
+msgid "Yavor Doganov"
+msgstr "Yavor Doganov"
+
+#. type: Content of: <ul><li>
+msgid "Yngve Svendsen"
+msgstr "Yngve Svendsen"
+
+#. type: Content of: <ul><li>
+msgid "Zak Greant"
+msgstr "Zak Greant"
+
+#. type: Content of: <p>
+msgid ""
+"(<a href=\"mailto:campaigns@fsf.org\">Are you missing? We'll add you!</a>)"
+msgstr ""
+"(<a href=\"mailto:campaigns@fsf.org\">Está faltando você? Vamos te adicionar!"
+"</a>)"
+
+#. type: Content of: <h3>
+msgid ""
+"&hellip;and of course, Richard Stallman, and the millions of GNU users and "
+"contributors."
+msgstr ""
+"…e, é claro, Richard Stallman e os milhões de usuários e contribuidores do "
+"GNU."
+
+#. type: Content of: <h4>
+msgid "rsync Army"
+msgstr "Equipe do rsync"
+
+#. type: Content of: <ul><li>
+msgid "Asheesh Laroia"
+msgstr "Asheesh Laroia"
+
+#. type: Content of: <ul><li>
+msgid "Tim Dobson"
+msgstr "Tim Dobson"
+
+#. type: Content of: <ul><li>
+msgid "Steve Pomeroy"
+msgstr "Steve Pomeroy"
+
+#. type: Content of: <ul><li>
+msgid "Matt Mullenweg"
+msgstr "Matt Mullenweg"
+
+#. type: Content of: <ul><li>
+msgid "Jason Hoffman"
+msgstr "Jason Hoffman"
+
+#. type: Content of: <ul><li>
+msgid "Matthew Bloch"
+msgstr "Matthew Bloch"
+
+#. type: Content of: <ul><li>
+msgid "Paul Robinson"
+msgstr "Paul Robinson"
+
+#. type: Content of: <h4>
+msgid "Ogg Theora enablers"
+msgstr "Implementadores de Ogg Theora"
+
+#. type: Content of: <ul><li>
+msgid "Gregory Maxwell"
+msgstr "Gregory Maxwell"
+
+#. type: Content of: <h4>
+msgid "Translation superstars"
+msgstr "Superstars de tradução"
+
+#. type: Content of: <ul><li>
+msgid "rob.dk"
+msgstr "rob.dk"
+
+#. type: Content of: <ul><li>
+msgid "Ali Servet D&ouml;nmez"
+msgstr "Ali Servet Dönmez"
+
+#. type: Content of: <ul><li>
+msgid "G&uuml;imi"
+msgstr "Güimi"
+
+#. type: Content of: <ul><li>
+msgid "Leon &ldquo;Letifer&rdquo; Taussig"
+msgstr "Leon “Letifer” Taussig"
+
+#. type: Content of: <ul><li>
+msgid "Jose Luis Rodilla"
+msgstr "Jose Luis Rodilla"
+
+#. type: Content of: <ul><li>
+msgid "Pablo Mach&oacute;n"
+msgstr "Pablo Machón"
+
+#. type: Content of: <ul><li>
+msgid "Tim Morley"
+msgstr "Tim Morley"
+
+#. type: Content of: <ul><li>
+msgid "Alfonso E. Romero"
+msgstr "Alfonso E. Romero"
+
+#. type: Content of: <ul><li>
+msgid "Jesus del Rio"
+msgstr "Jesus del Rio"
+
+#. type: Content of: <ul><li>
+msgid "Alejandro Ruiz"
+msgstr "Alejandro Ruiz"
+
+#. type: Content of: <ul><li>
+msgid "Amir Masoud Pourmoosa"
+msgstr "Amir Masoud Pourmoosa"
+
+#. type: Content of: <ul><li>
+msgid "Andr&eacute; Nunes Batista"
+msgstr "André Nunes Batista"
+
+#. type: Content of: <ul><li>
+msgid "Abinoam P. Marques Jr."
+msgstr "Abinoam P. Marques Jr."
+
+#. type: Content of: <ul><li>
+msgid "Marcos Manoni"
+msgstr "Marcos Manoni"
+
+#. type: Content of: <ul><li>
+msgid "Ignasi Labastida"
+msgstr "Ignasi Labastida"
+
+#. type: Content of: <ul><li>
+msgid "Leonardo G. De Luca"
+msgstr "Leonardo G. De Luca"
+
+#. type: Content of: <ul><li>
+msgid "Maria Zaitseva"
+msgstr "Maria Zaitseva"
+
+#. type: Content of: <ul><li>
+msgid "Bj&ouml;rn Schie&szlig;le"
+msgstr "Björn Schießle"
+
+#. type: Content of: <ul><li>
+msgid "seven"
+msgstr "seven"
+
+#. type: Content of: <ul><li>
+msgid "Sumit Sinha"
+msgstr "Sumit Sinha"
+
+#. type: Content of: <ul><li>
+msgid "Ruben"
+msgstr "Ruben"
+
+#. type: Content of: <ul><li>
+msgid "Stefan Gustavson"
+msgstr "Stefan Gustavson"
+
+#. type: Content of: <ul><li>
+msgid "Alex Kapranoff"
+msgstr "Alex Kapranoff"
+
+#. type: Content of: <ul><li>
+msgid "Yousef Shajrawi"
+msgstr "Yousef Shajrawi"
+
+#. type: Content of: <ul><li>
+msgid "Osama Khaled"
+msgstr "Osama Khaled"
+
+#. type: Content of: <h2>
+msgid "Production credits"
+msgstr "Créditos da produção"
+
+#. type: Content of: <h2>
+msgid "&ldquo;Happy Birthday To GNU&hellip;&rdquo;"
+msgstr "“Feliz aniversário para o GNU…”"
+
+#. type: Content of: <h4>
+msgid "Written by Matt Lee"
+msgstr "Escrito por Matt Lee"
+
+#. type: Content of: <h4>
+msgid "Executive Producer &mdash; Matt Lee"
+msgstr "Produtor Executivo &mdash; Matt Lee"
+
+#. type: Content of: <h4>
+msgid "Producer &mdash; Andrew Sampson"
+msgstr "Produtor &mdash; Andrew Sampson"
+
+#. type: Content of: <h3>
+msgid "Copyright &copy; 2008 Free Software Foundation Inc"
+msgstr "Copyright &copy; 2008 Free Software Foundation Inc"
+
+#. type: Content of: <h4>
+msgid "Production by The Sampsonian Company"
+msgstr "Produção por The Sampsonian Company"
+
+#. type: Content of: <p>
+msgid ""
+"Released under a <a href=\"http://creativecommons.org/licenses/by-nd/3.0/us/"
+"\">Creative Commons Attribution-NoDerivs 3.0 License</a>."
+msgstr ""
+"Lançado sob uma licença <a rel=\"license\" href=\"http://creativecommons.org/"
+"licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons Atribuição-SemDerivações "
+"3.0</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas deste site."
+
+#. type: Content of: <div><p>
+msgid ""
+"Copyright &copy; 2008, 2013, 2014, 2017, 2018, 2020 Free Software "
+"Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2008, 2013, 2014, 2017, 2018, 2020 Free Software "
+"Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2020.Revisado por: Cassiano Reinert Novais dos "
+"Santos <a href=\"mailto:caco@posteo.net\">&lt;caco@posteo.net&gt;</a>, 2020."
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização:"

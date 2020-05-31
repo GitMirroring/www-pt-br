@@ -2,10 +2,11 @@
 # Copyright (C) 2019 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Rafael Fontenelle <rafaelff@gnome.org>, 2018, 2019.
+# May 2020: update to new layout (T. Godefroy).
 msgid ""
 msgstr ""
 "Project-Id-Version: edu-projects.html\n"
-"POT-Creation-Date: 2019-11-21 07:55+0000\n"
+"POT-Creation-Date: 2020-05-27 11:14+0200\n"
 "PO-Revision-Date: 2019-11-26 22:47-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -16,25 +17,50 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Virtaal 1.0.0-beta1\n"
 
+# TODO: needs reviewing.
 #. type: Content of: <title>
-msgid "Groups and Projects - GNU Project - Free Software Foundation"
-msgstr "Grupos e projetos - Projeto GNU - Free Software Foundation"
-
-#. type: Content of: <p>
 msgid ""
-"<a href=\"/education/education.html\">Education</a> &rarr; <a href=\"/"
-"education/edu-resources.html\">Educational Resources</a> &rarr; Groups and "
-"Projects"
+"Educational Groups and Projects - GNU Project - Free Software Foundation"
 msgstr ""
-"<a href=\"/education/education.html\">Educação</a> &rarr; <a href=\"/"
-"education/edu-resources.html\">Recursos Educacionais</a> &rarr; Grupos e "
-"projetos"
+"Grupos e projetos educacionais - Projeto GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><a>
+msgid "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+msgstr "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+
+#. type: Attribute 'title' of: <div><a><img>
+msgid "Education Contents"
+msgstr "Índice da Seção"
+
+#. type: Attribute 'alt' of: <div><a><img>
+msgid "&nbsp;[Education Contents]&nbsp;"
+msgstr "&nbsp;[Índice da Seção]&nbsp;"
+
+#. type: Content of: <div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><p><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><p><a><img>
+msgid "GNU Home"
+msgstr "Página inicial do GNU"
+
+#. type: Content of: <div><p>
+msgid ""
+"</a>&nbsp;/ <a href=\"/education/education.html\">Education</a>&nbsp;/ <a "
+"href=\"/education/edu-resources.html\">Resources</a>&nbsp;/"
+msgstr ""
+"</a>&nbsp;/ <a href=\"/education/education.html\">Educação</a>&nbsp;/ <a "
+"href=\"/education/edu-resources.html\">Recursos</a>&nbsp;/"
+
+#. type: Content of: <div><h2>
 msgid "Groups and Projects"
 msgstr "Grupos e projetos"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "There are several groups and organizations around the world who follow the "
 "GNU philosophy and are working on projects aimed at bringing free software "
@@ -50,7 +76,7 @@ msgstr ""
 "entre em contato conosco pelo e-mail <a href=\"mailto:education@gnu.org\"> "
 "&lt;education@gnu.org&gt;</a> para nos informar."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "<a href=\"http://fsfeurope.org/projects/education/education.en.html\"> FSFE "
 "Education Project</a>"
@@ -58,7 +84,7 @@ msgstr ""
 "<a href=\"http://fsfeurope.org/projects/education/education.pt.html\"> "
 "Projeto Educacional da FSFE</a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "&ldquo;The FSFE's Education Team exists to raise awareness and bring the "
 "benefits of free software to all groups involved in education. It aims for a "
@@ -70,11 +96,11 @@ msgstr ""
 "educação. Seu objetivo é uma estrutura legal que proíba a discriminação "
 "contra o software livre e seus usuários.”"
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid "<a href=\"http://guri.hipatia.net/\">GURI</a>"
 msgstr "<a href=\"http://guri.hipatia.net/\">GURI</a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "Guri is a group which was born inside an Italian High School as the result "
 "of a program carried out by NGO Hipatia to raise awareness about the role of "
@@ -95,7 +121,7 @@ msgstr ""
 "patentes de software, leis de direitos autorais injustas e a adoção de "
 "softwares proprietários e subjugados."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "The goals of the Guri project are to convert the educational system so that "
 "it is based exclusively on free software and to extend the freedoms it "
@@ -114,7 +140,7 @@ msgstr ""
 "a humanidade, um sistema no qual todos podem participar ativamente e acessar "
 "o conhecimento sem restrições."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "To achieve its goals, the group takes action mainly in High School and "
 "University environments, organizing workshops and courses to promote "
@@ -125,11 +151,11 @@ msgstr ""
 "cursos para promover a conscientização sobre os princípios éticos do "
 "software livre."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid "<a href=\"http://hipatia.net/\">Hipatia</a>"
 msgstr "<a href=\"http://hipatia.net/\">Hipatia</a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "Hipatia is an international NGO (non-governmental organization)  that "
 "upholds the right of all human beings to access, use, create, modify and "
@@ -149,7 +175,7 @@ msgstr ""
 "oficinas em instituições de ensino, especialmente em escolas de nível "
 "primário e médio."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "The name of the group refers to the Greek philosopher <a href=\"http://en."
 "wikipedia.org/wiki/Hypatia\">Hypatia.</a>"
@@ -157,11 +183,11 @@ msgstr ""
 "O nome do grupo se refere à filósofa grega <a href=\"https://pt.wikipedia."
 "org/wiki/Hipátia\">Hipátia</a>."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid "<a href=\"https://itschool.gov.in/otherprograms.php\">IT@School</a>"
 msgstr "<a href=\"https://itschool.gov.in/otherprograms.php\">IT@School</a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "IT@School is a project of the government of Kerala, India, started in 2001 "
 "to introduce Information Communication Technologies into the State's "
@@ -177,7 +203,7 @@ msgstr ""
 "estado. O treinamento no uso do Software Livre foi ministrado a milhares de "
 "professores, coordenadores escolares e estudantes."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "<a href=\"https://web.archive.org/web/20150420025426/http://www.ofset.org/"
 "tiki-index.php\">OFSET</a>"
@@ -185,7 +211,7 @@ msgstr ""
 "<a href=\"https://web.archive.org/web/20150420025426/http://www.ofset.org/"
 "tiki-index.php\">OFSET</a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "OFSET promotes the development and enhancement of Free Software for the "
 "educational system and the classroom. It was born in France but its members "
@@ -201,7 +227,7 @@ msgstr ""
 "entre professores, desenvolvedores de software, tradutores e autores sempre "
 "foi a chave para o sucesso das atividades do OFSET."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "One important achievement of the OFSET group is <a href=\"/software/dr-geo/"
 "\">Dr. Geo</a>, a program widely used for teaching geometry. OFSET has also "
@@ -214,11 +240,11 @@ msgstr ""
 "Freeduc-USB</a>, um dispositivo USB inicializável que contém aplicativos "
 "úteis para a sala de aula."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid "<a href=\"http://www.sugarlabs.org/\">Sugar Labs</a>"
 msgstr "<a href=\"http://www.sugarlabs.org/\">Sugar Labs</a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "Sugar Labs is a project that provides the <a href=\"http://wiki.sugarlabs."
 "org/go/What_is_Sugar\">Sugar learning platform</a>, an interface specially "
@@ -231,7 +257,7 @@ msgstr ""
 "com um foco especial em seu uso em ambientes educacionais."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
-#. type: Content of: <div>
+#. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr " "
 
@@ -256,27 +282,27 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
-"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas desse site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2011, 2016, 2018, 2019 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2011, 2016, 2018, 2019 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2011, 2016, 2018-2020 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2011, 2016, 2018-2020 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -299,6 +325,3 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
-
-#~ msgid "Copyright &copy; 2011, 2016 Free Software Foundation, Inc."
-#~ msgstr "Copyright &copy; 2011, 2016 Free Software Foundation, Inc."

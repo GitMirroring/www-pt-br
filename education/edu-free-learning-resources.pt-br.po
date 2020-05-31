@@ -1,12 +1,13 @@
 # Brazilian Portuguese translation of https://www.gnu.org/education/edu-free-learning-resources.html
 # Copyright (C) 2019 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2019.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2019, 2020.
+# May 2020: update to new layout (T. Godefroy).
 msgid ""
 msgstr ""
 "Project-Id-Version: edu-free-learning-resources.html\n"
-"POT-Creation-Date: 2019-05-01 00:27+0000\n"
-"PO-Revision-Date: 2019-05-02 07:42-0300\n"
+"POT-Creation-Date: 2020-05-27 11:14+0200\n"
+"PO-Revision-Date: 2020-03-01 09:51-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -21,21 +22,43 @@ msgid "Free Learning Resources - GNU Project - Free Software Foundation"
 msgstr ""
 "Recursos de aprendizagem livres - Projeto GNU - Free Software Foundation"
 
-#. type: Content of: <p>
-msgid ""
-"<a href=\"/education/education.html\">Education</a> &rarr; <a href=\"/"
-"education/edu-resources.html\">Educational Resources</a> &rarr; Free "
-"Learning Resources"
-msgstr ""
-"<a href=\"/education/education.html\">Educação</a> &rarr; <a href=\"/"
-"education/edu-resources.html\">Recursos Educacionais</a> &rarr; Recursos de "
-"aprendizagem livres"
+#. type: Content of: <div><a>
+msgid "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+msgstr "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
 
-#. type: Content of: <h2>
+#. type: Attribute 'title' of: <div><a><img>
+msgid "Education Contents"
+msgstr "Índice da Seção"
+
+#. type: Attribute 'alt' of: <div><a><img>
+msgid "&nbsp;[Education Contents]&nbsp;"
+msgstr "&nbsp;[Índice da Seção]&nbsp;"
+
+#. type: Content of: <div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><p><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><p><a><img>
+msgid "GNU Home"
+msgstr "Página inicial do GNU"
+
+#. type: Content of: <div><p>
+msgid ""
+"</a>&nbsp;/ <a href=\"/education/education.html\">Education</a>&nbsp;/ <a "
+"href=\"/education/edu-resources.html\">Resources</a>&nbsp;/"
+msgstr ""
+"</a>&nbsp;/ <a href=\"/education/education.html\">Educação</a>&nbsp;/ <a "
+"href=\"/education/edu-resources.html\">Recursos</a>&nbsp;/"
+
+#. type: Content of: <div><h2>
 msgid "Free Learning Resources"
 msgstr "Recursos de aprendizagem livres"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Free learning resources, like free software, is a matter of freedom, not "
 "price. It's about bringing the principles of free software to general "
@@ -61,7 +84,7 @@ msgstr ""
 "medida para impedir que as pessoas acessem, utilizem ou compartilhem "
 "conhecimento, é uma conspiração para inibir o progresso humano."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "These principles on the freedom of knowledge have always been in the spirit "
 "of the GNU Project. In 1999, it formally introduced the concept of a <a href="
@@ -73,11 +96,11 @@ msgstr ""
 "<a href=\"/encyclopedia/free-encyclopedia.html\">enciclopédia universal e "
 "recurso de aprendizagem livres</a>, que foi cumprido pelo projeto Wikipédia."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid "<a href=\"http://www.wikipedia.org\">Wikipedia</a>"
 msgstr "<a href=\"http://www.wikipedia.org\">Wikipédia</a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "Written in collaboration by thousands of volunteers from all over the world, "
 "Wikipedia is nowadays the best example of knowledge made available to and "
@@ -93,13 +116,13 @@ msgstr ""
 "que eventuais trabalhos derivados sejam lançados sob os mesmos termos (veja "
 "<a href=\"/licenses/copyleft.html\">Copyleft</a>)."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "<a href=\"http://www.gutenberg.org/wiki/Main_Page\">Project Gutenberg</a>"
 msgstr ""
 "<a href=\"http://www.gutenberg.org/wiki/Main_Page\">Projeto Gutenberg</a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "This project offers general knowledge books that are free as in freedom.  It "
 "publishes plain text digital versions of public-domain works. If you are "
@@ -110,7 +133,7 @@ msgstr ""
 "público. Se você está procurando uma cópia de um livro clássico, sua "
 "pesquisa deve começar aqui."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "They have a very clear explanation about the <a href=\"http://www.gutenberg."
 "org/wiki/Gutenberg:No_Cost_or_Freedom%3f\"> difference between free as in "
@@ -121,11 +144,11 @@ msgstr ""
 "\">free</i> como em preço e <i lang=\"en\">free</i> como em liberdade</a> "
 "relacionada a materiais impressos."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid "GNU Project"
 msgstr "Projeto GNU"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "We maintain a list of <a href=\"/doc/other-free-books.html\">free books</a> "
 "mainly related to free software documentation, and we make <a href=\"/manual/"
@@ -139,11 +162,11 @@ msgstr ""
 "Todos os livros publicados pela <a href=\"http://shop.fsf.org/category/books/"
 "\">Free Software Foundation</a> são livres como em liberdade."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid "<a href=\"http://ftacademy.org/\">Free Technology Academy</a>"
 msgstr "<a href=\"http://ftacademy.org/\">Free Technology Academy</a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "The Free Technology Academy (FTA) is a joint initiative from several "
 "educational institutions in various countries. It aims to contribute to a "
@@ -163,7 +186,7 @@ msgstr ""
 "estrutura de interoperabilidade do <i lang=\"en\">Campus Project</i> "
 "(Projeto Campus)."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "The FTA is a collaboration between the Free Knowledge Institute, the Open "
 "University of Catalonia (Spain) and the Open University of the Netherlands. "
@@ -183,7 +206,7 @@ msgstr ""
 "colaborações e encoraja indivíduos e organizações a contribuírem para a "
 "comunidade."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><div><p>
 msgid ""
 "We are looking for free educational games, or information about free games "
 "that can be used for educational purposes. Contact <a href=\"mailto:"
@@ -193,7 +216,7 @@ msgstr ""
 "education@gnu.org\">&lt;education@gnu.org&gt;</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
-#. type: Content of: <div>
+#. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr " "
 
@@ -218,27 +241,27 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
-"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas desse site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2019 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2019 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2019, 2020 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2019, 2020 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -255,9 +278,12 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
-"rafaelff@gnome.org&gt;</a>, 2019."
+"rafaelff@gnome.org&gt;</a>, 2019, 2020."
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid "Copyright &copy; 2019 Free Software Foundation, Inc."
+#~ msgstr "Copyright &copy; 2019 Free Software Foundation, Inc."

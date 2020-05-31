@@ -1,12 +1,12 @@
 # Brazilian Portuguese translation of https://www.gnu.org/philosophy/latest-articles.html
-# Copyright (C) 2019 Free Software Foundation, Inc.
+# Copyright (C) 2020 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2019.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2019-2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: latest-articles.html\n"
-"POT-Creation-Date: 2019-04-19 08:56+0000\n"
-"PO-Revision-Date: 2019-12-27 11:37-0300\n"
+"POT-Creation-Date: 2020-05-04 19:25+0000\n"
+"PO-Revision-Date: 2020-05-09 07:31-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -31,6 +31,18 @@ msgid ""
 msgstr ""
 "Aqui estão os artigos publicados mais recentemente sobre software livre e o "
 "projeto GNU."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/philosophy/saying-no-even-once.html\">Saying No to unjust "
+"computing even once is help</a>"
+msgstr ""
+"<a href=\"/philosophy/saying-no-even-once.html\">Dizer não à computação "
+"injusta mesmo uma vez é ajudar</a>"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"/philosophy/posting-videos.html\">Posting Videos</a>"
+msgstr "<a href=\"/philosophy/posting-videos.html\">Publicando vídeos</a>"
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -144,66 +156,6 @@ msgstr ""
 "<a href=\"/philosophy/loyal-computers.html\"> O que significa para você que "
 "seu computador seja leal?</a>"
 
-#. type: Content of: <ul><li>
-msgid ""
-"<a href=\"/philosophy/technological-neutrality.html\"> Technological "
-"Neutrality and Free Software</a>"
-msgstr ""
-"<a href=\"/philosophy/technological-neutrality.html\"> Neutralidade "
-"tecnológica e Software Livre</a>"
-
-#. type: Content of: <ul><li>
-msgid ""
-"<a href=\"/philosophy/imperfection-isnt-oppression.html\"> Imperfection is "
-"not the same as oppression</a>"
-msgstr ""
-"<a href=\"/philosophy/imperfection-isnt-oppression.html\"> Imperfeição não é "
-"o mesmo que opressão</a>"
-
-#. type: Content of: <ul><li>
-msgid "<a href=\"/philosophy/floss-and-foss.html\"> FLOSS and FOSS</a>"
-msgstr "<a href=\"/philosophy/floss-and-foss.html\"> FLOSS e FOSS</a>"
-
-#. type: Content of: <ul><li>
-msgid ""
-"<a href=\"/philosophy/free-software-even-more-important.html\"> Free "
-"Software Is Even More Important Now</a>"
-msgstr ""
-"<a href=\"/philosophy/free-software-even-more-important.html\"> Software "
-"Livre é Ainda Mais Importante Agora</a>"
-
-#. type: Content of: <ul><li>
-msgid ""
-"<a href=\"/philosophy/surveillance-vs-democracy.html\">How Much Surveillance "
-"Can Democracy Withstand?</a>"
-msgstr ""
-"<a href=\"/philosophy/surveillance-vs-democracy.html\">Qual o Nível de "
-"Vigilância Que a Democracia Pode Suportar?</a>"
-
-#. type: Content of: <ul><li>
-msgid ""
-"<a href=\"/philosophy/why-call-it-the-swindle.html\"> Why call it the "
-"Swindle</a>"
-msgstr ""
-"<a href=\"/philosophy/why-call-it-the-swindle.html\"> Por que chamá-lo de "
-"Swindle?</a>"
-
-#. type: Content of: <ul><li>
-msgid ""
-"<a href=\"/philosophy/is-ever-good-use-nonfree-program.html\"> Is It Ever a "
-"Good Thing to Use a Nonfree Program?</a>"
-msgstr ""
-"<a href=\"/philosophy/is-ever-good-use-nonfree-program.html\"> Alguma vez é "
-"uma boa ideia usar um programa não livre?</a>"
-
-#. type: Content of: <ul><li>
-msgid ""
-"<a href=\"/philosophy/funding-art-vs-funding-software.html\"> Funding Art vs "
-"Funding Software</a>"
-msgstr ""
-"<a href=\"/philosophy/funding-art-vs-funding-software.html\"> Financiamento "
-"de arte vs. Financiamento de software</a>"
-
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
@@ -241,22 +193,22 @@ msgid ""
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
-"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
 "\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas desse site."
+"envio de traduções das páginas deste site."
 
 #. type: Content of: <div><p>
 msgid ""
 "Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, "
-"2006, 2007, 2008, 2009, 2010, 2013, 2014, 2015, 2016, 2017, 2018, 2019 Free "
-"Software Foundation, Inc."
+"2006, 2007, 2008, 2009, 2010, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020 "
+"Free Software Foundation, Inc."
 msgstr ""
 "Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, "
-"2006, 2007, 2008, 2009, 2010, 2013, 2014, 2015, 2016, 2017, 2018, 2019 Free "
-"Software Foundation, Inc."
+"2006, 2007, 2008, 2009, 2010, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020 "
+"Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -273,9 +225,58 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
-"rafaelff@gnome.org&gt;</a>, 2019."
+"rafaelff@gnome.org&gt;</a>, 2019-2020."
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid ""
+#~ "<a href=\"/philosophy/technological-neutrality.html\"> Technological "
+#~ "Neutrality and Free Software</a>"
+#~ msgstr ""
+#~ "<a href=\"/philosophy/technological-neutrality.html\"> Neutralidade "
+#~ "tecnológica e Software Livre</a>"
+
+#~ msgid ""
+#~ "<a href=\"/philosophy/imperfection-isnt-oppression.html\"> Imperfection "
+#~ "is not the same as oppression</a>"
+#~ msgstr ""
+#~ "<a href=\"/philosophy/imperfection-isnt-oppression.html\"> Imperfeição "
+#~ "não é o mesmo que opressão</a>"
+
+#~ msgid ""
+#~ "<a href=\"/philosophy/free-software-even-more-important.html\"> Free "
+#~ "Software Is Even More Important Now</a>"
+#~ msgstr ""
+#~ "<a href=\"/philosophy/free-software-even-more-important.html\"> Software "
+#~ "Livre é Ainda Mais Importante Agora</a>"
+
+#~ msgid ""
+#~ "<a href=\"/philosophy/surveillance-vs-democracy.html\">How Much "
+#~ "Surveillance Can Democracy Withstand?</a>"
+#~ msgstr ""
+#~ "<a href=\"/philosophy/surveillance-vs-democracy.html\">Qual o Nível de "
+#~ "Vigilância Que a Democracia Pode Suportar?</a>"
+
+#~ msgid ""
+#~ "<a href=\"/philosophy/why-call-it-the-swindle.html\"> Why call it the "
+#~ "Swindle</a>"
+#~ msgstr ""
+#~ "<a href=\"/philosophy/why-call-it-the-swindle.html\"> Por que chamá-lo de "
+#~ "Swindle?</a>"
+
+#~ msgid ""
+#~ "<a href=\"/philosophy/is-ever-good-use-nonfree-program.html\"> Is It Ever "
+#~ "a Good Thing to Use a Nonfree Program?</a>"
+#~ msgstr ""
+#~ "<a href=\"/philosophy/is-ever-good-use-nonfree-program.html\"> Alguma vez "
+#~ "é uma boa ideia usar um programa não livre?</a>"
+
+#~ msgid ""
+#~ "<a href=\"/philosophy/funding-art-vs-funding-software.html\"> Funding Art "
+#~ "vs Funding Software</a>"
+#~ msgstr ""
+#~ "<a href=\"/philosophy/funding-art-vs-funding-software.html\"> "
+#~ "Financiamento de arte vs. Financiamento de software</a>"

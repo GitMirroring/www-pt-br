@@ -6,10 +6,11 @@
 # Rafael Beraldo <rberaldo@cabaladada.org>, 2012.
 # May 2014: update copyright year and unfuzzify (T. Godefroy)
 # Rafael Fontenelle <rafaelff@gnome.org>, 2016, 2017.
+# May 2020: update to new layout (T. Godefroy).
 msgid ""
 msgstr ""
 "Project-Id-Version: edu-software-tuxpaint.html\n"
-"POT-Creation-Date: 2016-09-13 15:56+0000\n"
+"POT-Creation-Date: 2020-05-27 11:14+0200\n"
 "PO-Revision-Date: 2017-02-27 19:09-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -24,38 +25,49 @@ msgstr ""
 msgid "Tux Paint - GNU Project - Free Software Foundation"
 msgstr "Tux Paint - Projeto GNU - Free Software Foundation"
 
-#. type: Content of: <p>
-msgid ""
-"<a href=\"/education/education.html\">Education</a> &rarr; <a href=\"/"
-"education/edu-resources.html\">Educational Resources</a> &rarr; <a href=\"/"
-"education/edu-software.html\">Educational Free Software</a> &rarr; Tux Paint"
-msgstr ""
-"<a href=\"/education/education.html\">Educação</a> &rarr; <a href=\"/"
-"education/edu-resources.html\">Recursos Educacionais</a> &rarr; <a href=\"/"
-"education/edu-software.html\">Software Livre Educacional</a> &rarr; Tux Paint"
-
-#. type: Content of: <h2>
-msgid "Tux Paint"
-msgstr "Tux Paint"
-
-#. type: Content of: <h3>
-msgid "Description"
-msgstr "Descrição"
-
-#.  GNUN: localize URL /education/misc/tuxpaint-start-sm.png, /education/misc/tuxpaint-start.png 
 #. type: Content of: <div><a>
-msgid "<a href=\"/education/misc/tuxpaint-start.png\">"
-msgstr "<a href=\"/education/misc/tuxpaint-start.png\">"
+msgid "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+msgstr "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+
+#. type: Attribute 'title' of: <div><a><img>
+msgid "Education Contents"
+msgstr "Índice da Seção"
 
 #. type: Attribute 'alt' of: <div><a><img>
-msgid "Screenshot of the Tux Paint interface."
-msgstr "Screenshot da interface do Tux Paint."
+msgid "&nbsp;[Education Contents]&nbsp;"
+msgstr "&nbsp;[Índice da Seção]&nbsp;"
 
-#. type: Content of: <div><div>
+#. type: Content of: <div><div><div><div>
 msgid "</a>"
 msgstr "</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><p><a><img>
+msgid "GNU Home"
+msgstr "Página inicial do GNU"
+
+#. type: Content of: <div><p>
+msgid ""
+"</a>&nbsp;/ <a href=\"/education/education.html\">Education</a>&nbsp;/ <a "
+"href=\"/education/edu-resources.html\">Resources</a>&nbsp;/ <a href=\"/"
+"education/edu-software.html\">Educational&nbsp;software</a>&nbsp;/"
+msgstr ""
+"</a>&nbsp;/ <a href=\"/education/education.html\">Educação</a>&nbsp;/ <a "
+"href=\"/education/edu-resources.html\">Recursos</a>&nbsp;/ <a href=\"/"
+"education/edu-software.html\">Software&nbsp;Educational</a>&nbsp;/"
+
+#. type: Content of: <div><h2>
+msgid "Tux Paint"
+msgstr "Tux Paint"
+
+#. type: Content of: <div><div><h3>
+msgid "Description"
+msgstr "Descrição"
+
+#. type: Content of: <div><div><p>
 msgid ""
 "Tux Paint is a cross-platform drawing program created specifically for "
 "children. Little kids as young as 3 years old have no difficulty in finding "
@@ -75,36 +87,45 @@ msgstr ""
 "ferramentas e pincéis. Como ponto de partida, a criança pode carregar "
 "desenhos lineares para pintar, como num livro para colorir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The program includes all of the most common drawing tools such as lines and "
 "brushes for free-hand drawing and coloring, geometric shapes, sizing, an "
-"eraser, the \"Redo\" and \"Undo\" options, plus sound that plays while "
-"painting and a special tool called \"Magic\" for impressive effects: "
-"rainbow, glitter, chalk, blur, flip, and more."
+"eraser, the &ldquo;Redo&rdquo; and &ldquo;Undo&rdquo; options, plus sound "
+"that plays while painting and a special tool called &ldquo;Magic&rdquo; for "
+"impressive effects: rainbow, glitter, chalk, blur, flip, and more."
 msgstr ""
 "O programa inclui todas as ferramentas necessárias e mais comuns de desenho, "
 "tais como linhas e pincéis para desenho à mão livre e colorido, formas "
-"geométricas, dimensionamento, uma borracha, opções \"Refazer\" e \"Desfazer"
-"\", além do som que toca durante a pintura e uma ferramenta especial chamada "
-"\"Magic\" para efeitos impressionantes como: arco-íris, brilho, giz, borrão, "
+"geométricas, dimensionamento, uma borracha, opções “Refazer” e “Desfazer”, "
+"além do som que toca durante a pintura e uma ferramenta especial chamada "
+"“Magic” para efeitos impressionantes como: arco-íris, brilho, giz, borrão, "
 "rotacionar, e muito mais."
 
-#. type: Content of: <p>
+#.  GNUN: localize URL /education/misc/tuxpaint-start-sm.png, /education/misc/tuxpaint-start.png 
+#. type: Content of: <div><div><div><a>
+msgid "<a href=\"/education/misc/tuxpaint-start.png\">"
+msgstr "<a href=\"/education/misc/tuxpaint-start.png\">"
+
+#. type: Attribute 'alt' of: <div><div><div><a><img>
+msgid "Screenshot of the Tux Paint interface."
+msgstr "Screenshot da interface do Tux Paint."
+
+#. type: Content of: <div><div><p>
 msgid ""
 "Along with the Magic tool, the other popular feature among children is "
-"\"Stamp\", which contains loads of pictures and clip art that can be "
-"\"stamped\" on the canvas, such as plants and flowers, animals, holiday art, "
-"planets, and much more. Many of these stamps are provided with the program "
-"out of the box, and others are available as separate collections to be "
-"installed. Many users contribute their own art work to be included as stamps "
-"in the program; here we are going to see an example of how this was done by "
-"a group of children from a school in India, thus putting into practice the "
-"software freedom that the program guarantees."
+"&ldquo;Stamp,&rdquo; which contains loads of pictures and clip art that can "
+"be &ldquo;stamped&rdquo; on the canvas, such as plants and flowers, animals, "
+"holiday art, planets, and much more. Many of these stamps are provided with "
+"the program out of the box, and others are available as separate collections "
+"to be installed. Many users contribute their own art work to be included as "
+"stamps in the program; here we are going to see an example of how this was "
+"done by a group of children from a school in India, thus putting into "
+"practice the software freedom that the program guarantees."
 msgstr ""
 "Junto com a ferramenta Mágicas, a outra característica popular entre as "
-"crianças é o \"Carimbo\", que contém várias fotos e clip-arts que podem ser "
-"\"carimbados\" na tela, tais como plantas e flores, animais, dia da arte, "
+"crianças é o “Carimbo”, que contém várias fotos e clip-arts que podem ser "
+"“carimbados” na tela, tais como plantas e flores, animais, dia da arte, "
 "planetas e muito mais. Muitos destes selos são fornecidos juntos com o "
 "programa, e outros estão disponíveis para ser instalados como coleções "
 "separadas. Muitos usuários contribuem com o sua própria arte para ser "
@@ -112,7 +133,7 @@ msgstr ""
 "por um grupo de crianças de uma escola na Índia, colocando em prática a "
 "liberdade de software que o programa garante."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Tux Paint is available in more than 80 languages, including minority and "
 "right-to-left languages. Such a large number of languages is the result of "
@@ -123,7 +144,7 @@ msgstr ""
 "de línguas é o resultado de contribuições feitas por usuários de todo o "
 "mundo."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "To learn more: <a href=\"http://directory.fsf.org/project/TuxPaint/\"> FSF "
 "Directory</a>, <a href=\"http://tuxpaint.org\"> Tux Paint Official Website</"
@@ -133,20 +154,11 @@ msgstr ""
 "\">Diretório da FSF</a>, <a href=\"http://tuxpaint.org\"> Site Oficial do "
 "Tux Paint</a>"
 
-#. type: Content of: <h3>
+#. type: Content of: <div><div><h3>
 msgid "Who's Using It and How"
 msgstr "Quem o está Usando e Como"
 
-#. type: Content of: <div><a>
-msgid "<a href=\"/education/misc/tuxpaint-stamps.jpg\">"
-msgstr "<a href=\"/education/misc/tuxpaint-stamps.jpg\">"
-
-#. type: Attribute 'alt' of: <div><a><img>
-msgid "Screenshot of the Tux Paint interface in Malayalam with native flowers."
-msgstr ""
-"Screenshot da interface do Tux Paint com flores nativas na língua Malaiala."
-
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Comments by <a href=\"http://tuxpaint.org/comments/\">home users</a> and "
 "stories from <a href=\"http://tuxpaint.org/schools/\">schools</a> using Tux "
@@ -174,7 +186,16 @@ msgstr ""
 "estações de trabalho quantas forem necessárias, o que é especialmente "
 "importante para escolas."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><div><a>
+msgid "<a href=\"/education/misc/tuxpaint-stamps.jpg\">"
+msgstr "<a href=\"/education/misc/tuxpaint-stamps.jpg\">"
+
+#. type: Attribute 'alt' of: <div><div><div><a><img>
+msgid "Screenshot of the Tux Paint interface in Malayalam with native flowers."
+msgstr ""
+"Screenshot da interface do Tux Paint com flores nativas na língua Malaiala."
+
+#. type: Content of: <div><div><p>
 msgid ""
 "Another significant freedom that Free Software guarantees is the freedom to "
 "modify the program so as to adapt it to the user's needs and to redistribute "
@@ -197,31 +218,15 @@ msgstr ""
 "mercado não é suficientemente grande para garantir o lucro, então geralmente "
 "elas são relutantes em investir nele."
 
-#. type: Content of: <div><div><a>
-msgid "<a href=\"/education/misc/appooppanthaady.jpg\">"
-msgstr "<a href=\"/education/misc/appooppanthaady.jpg\">"
-
-#. type: Attribute 'alt' of: <div><div><a><img>
-msgid "Image of the Appooppan Thaady flower."
-msgstr "Imagem da flor Appooppan Thaady."
-
-#. type: Content of: <div><div><p>
-msgid ""
-"<a href=\"/education/misc/appooppanthady.ogg\">Listen</a> to a student "
-"pronounce the name of the Appooppan Thaady flower in Malayalam."
-msgstr ""
-"<a href=\"/education/misc/appooppanthady.ogg\">Ouça</a> a um aluno "
-"pronunciar o nome da flor Thaady Appooppan na língua Malaiala."
-
-#. type: Content of: <div><div><a>
+#. type: Content of: <div><div><div><div><a>
 msgid "<a href=\"/education/misc/anthoorium.jpg\">"
 msgstr "<a href=\"/education/misc/anthoorium.jpg\">"
 
-#. type: Attribute 'alt' of: <div><div><a><img>
+#. type: Attribute 'alt' of: <div><div><div><div><a><img>
 msgid "Image of the Anthoorium flower."
 msgstr "Imagem da flor Anthoorium."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><div><div><div><p>
 msgid ""
 "<a href=\"/education/misc/anthoorium.ogg\">Listen</a> to a student pronounce "
 "the name of the Anthoorium flower in Malayalam."
@@ -229,7 +234,23 @@ msgstr ""
 "<a href=\"/education/misc/anthoorium.ogg\">Ouça</a> a um aluno pronunciar o "
 "nome da flor Anthoorium na língua Malaiala."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><div><div><a>
+msgid "<a href=\"/education/misc/appooppanthaady.jpg\">"
+msgstr "<a href=\"/education/misc/appooppanthaady.jpg\">"
+
+#. type: Attribute 'alt' of: <div><div><div><div><a><img>
+msgid "Image of the Appooppan Thaady flower."
+msgstr "Imagem da flor Appooppan Thaady."
+
+#. type: Content of: <div><div><div><div><p>
+msgid ""
+"<a href=\"/education/misc/appooppanthady.ogg\">Listen</a> to a student "
+"pronounce the name of the Appooppan Thaady flower in Malayalam."
+msgstr ""
+"<a href=\"/education/misc/appooppanthady.ogg\">Ouça</a> a um aluno "
+"pronunciar o nome da flor Thaady Appooppan na língua Malaiala."
+
+#. type: Content of: <div><div><p>
 msgid ""
 "A good example of how software freedom can be applied in Tux Paint is the "
 "work done by 11 and 12 years old students from the <a href=\"/education/edu-"
@@ -264,7 +285,7 @@ msgstr ""
 "sub.pt-br.ogv\">Assista e baixe o vídeo</a> e <a href=\"/education/misc/"
 "irimpanam.pt-br.srt\">as legendas no formato SubRip</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "An additional useful activity done by this school by applying the freedom to "
 "modify the program, was the translation of the Tux Paint interface into "
@@ -274,11 +295,11 @@ msgstr ""
 "liberdade de modificar o programa, foi a tradução da interface do Tux Paint "
 "em Malaiala, a língua falada no estado de Kerala."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><div><h3>
 msgid "Why"
 msgstr "Por Que"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The freedom to modify the program is an important resource that was used by "
 "the school to reach beyond the scope of teaching basic computer graphical "
@@ -294,7 +315,7 @@ msgstr ""
 "ser imposto ao usuário; pelo contrário, deve ser um instrumento para atendê-"
 "los de acordo com as suas necessidades."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The freedom to install the program in all computers in the Lab was also "
 "important, since the school has limited economical resources to invest in "
@@ -308,11 +329,11 @@ msgstr ""
 "original e modificada do programa, a escola prestou assistência às famílias "
 "que passam por dificuldades econômicas."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><div><h3>
 msgid "Results"
 msgstr "Resultados"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Adding stamps to Tux Paint was an exciting and enriching experience for the "
 "students. First, they analyzed how the program works and discovered the "
@@ -338,11 +359,11 @@ msgstr ""
 "aprimorar a tecnologia da informação quando a liberdade de software é "
 "garantida."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><div><div><h3>
 msgid "Credits"
 msgstr "Créditos"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><div><p>
 msgid ""
 "Images of the Tux Paint interface in Malayalam with native flowers, of the "
 "Appooppan Thaady and Anthoorium flowers, as well as both sound files are "
@@ -359,7 +380,7 @@ msgstr ""
 "3.0 Não Adaptada</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
-#. type: Content of: <div>
+#. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr " "
 
@@ -384,27 +405,29 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
-"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas desse site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2011, 2012, 2014, 2016 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2011, 2012, 2014, 2016 Free Software Foundation, Inc."
+msgid ""
+"Copyright &copy; 2011, 2012, 2014, 2016, 2020 Free Software Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2011, 2012, 2014, 2016, 2020 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

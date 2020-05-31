@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: home.html\n"
-"POT-Creation-Date: 2020-01-01 05:26+0000\n"
-"PO-Revision-Date: 2020-01-01 10:49-0300\n"
+"POT-Creation-Date: 2020-04-26 06:25+0000\n"
+"PO-Revision-Date: 2020-02-26 13:44-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -52,14 +52,6 @@ msgstr ""
 "GNU é o único sistema operacional desenvolvido especificamente para dar "
 "liberdade aos seus usuários. O que é GNU, e qual liberdade está em jogo?"
 
-#. type: Content of: <div><div><p>
-msgid ""
-"<a href=\"https://www.fsf.org/blogs/community/presenting-shoetool-happy-"
-"holidays-from-the-fsf\"> ShoeTool &mdash; HAPPY HOLIDAYS FROM THE FSF!</a>"
-msgstr ""
-"<a href=\"https://www.fsf.org/blogs/community/presenting-shoetool-happy-"
-"holidays-from-the-fsf\"> ShoeTool &mdash; BOAS FESTAS DA FSF!</a>"
-
 #. type: Content of: <div><div><h2>
 msgid "What is GNU?"
 msgstr "O que é GNU?"
@@ -92,7 +84,7 @@ msgstr ""
 "totalmente software livre. <a href=\"#More-GNU\">Mais sobre GNU\n"
 "abaixo</a>."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><div><div>
 msgid "<a href=\"/distros/free-distros.html\">Try GNU/Linux</a>"
 msgstr "<a href=\"/distros/free-distros.html\">Teste o GNU/Linux</a>"
 
@@ -272,7 +264,7 @@ msgstr "<small>PureOS / GNOME3</small>"
 msgid "<small>Trisquel / MATE</small>"
 msgstr "<small>Trisquel / MATE</small>"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><div><div>
 msgid ""
 "... or <a href=\"https://directory.fsf.org/wiki/Free_Software_Directory:"
 "Free_software_replacements\"> Try parts of GNU</a>"
@@ -561,15 +553,15 @@ msgstr ""
 
 #. type: Content of: <div><div><div><ul><li>
 msgid ""
-"<a href=\"/software/cfengine/\">cfengine</a>, <a href=\"/software/freetalk/"
-"\">freetalk</a>, <a href=\"/software/halifax/\">halifax</a>, <a href=\"/"
-"software/mcron/\">mcron</a>, <a href=\"/software/quickthreads/"
-"\">quickthreads</a>"
+"<a href=\"/software/cfengine/\">cfengine</a>, <a href=\"/software/freedink/"
+"\">freedink</a>, <a href=\"/software/freetalk/\">freetalk</a>, <a href=\"/"
+"software/halifax/\">halifax</a>, <a href=\"/software/mcron/\">mcron</a>, <a "
+"href=\"/software/quickthreads/\">quickthreads</a>"
 msgstr ""
-"<a href=\"/software/cfengine/\">cfengine</a>, <a href=\"/software/freetalk/"
-"\">freetalk</a>, <a href=\"/software/halifax/\">halifax</a>, <a href=\"/"
-"software/mcron/\">mcron</a>, <a href=\"/software/quickthreads/"
-"\">quickthreads</a>"
+"<a href=\"/software/cfengine/\">cfengine</a>, <a href=\"/software/freedink/"
+"\">freedink</a>, <a href=\"/software/freetalk/\">freetalk</a>, <a href=\"/"
+"software/halifax/\">halifax</a>, <a href=\"/software/mcron/\">mcron</a>, <a "
+"href=\"/software/quickthreads/\">quickthreads</a>"
 
 #. type: Content of: <div><div><div><ul><li>
 msgid ", are all looking for maintainers."
@@ -672,12 +664,12 @@ msgid ""
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
-"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
 "\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas desse site."
+"envio de traduções das páginas deste site."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -711,6 +703,22 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid ""
+#~ "<a href=\"https://www.fsf.org/blogs/community/presenting-shoetool-happy-"
+#~ "holidays-from-the-fsf\"> ShoeTool &mdash; HAPPY HOLIDAYS FROM THE FSF!</a>"
+#~ msgstr ""
+#~ "<a href=\"https://www.fsf.org/blogs/community/presenting-shoetool-happy-"
+#~ "holidays-from-the-fsf\"> ShoeTool &mdash; BOAS FESTAS DA FSF!</a>"
+
+#~ msgid ""
+#~ "The GNU Project and the Free Software Foundation are <a href=\"/gnu/2020-"
+#~ "announcement-1.html\">defining how these two groups cooperate</a>.  "
+#~ "Please send any further input by February 13."
+#~ msgstr ""
+#~ "O Projeto GNU e a Free Software Foundation estão <a href=\"/gnu/2020-"
+#~ "announcement-1.html\">definindo como esses dois grupos cooperam</a>. "
+#~ "Envie qualquer informação até 13 de fevereiro."
 
 #~ msgid ""
 #~ "&nbsp;[Screenshot of GuixSD&nbsp;0.15 with GNOME&nbsp;3 desktop]&nbsp;"

@@ -1,0 +1,434 @@
+# Brazilian Portuguese translation of https://www.gnu.org/people/webmeisters.html
+# Copyright (C) 2020 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2020.
+# Cassiano Reinert Novais dos Santos <caco@posteo.net>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: webmeisters.html\n"
+"POT-Creation-Date: 2020-04-29 20:55+0000\n"
+"PO-Revision-Date: 2020-05-28 10:44-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid "GNU's Webmasters - GNU Project - Free Software Foundation"
+msgstr "Webmasters do GNU - Projeto GNU - Free Software Foundation"
+
+#. type: Content of: <h2>
+msgid "We are the GNU Webmasters!"
+msgstr "Somos os Webmasters do GNU!"
+
+#. type: Content of: <h3>
+msgid "Jason Self, GNU Chief Webmaster"
+msgstr "Jason Self, GNU Chief Webmaster"
+
+#. type: Content of: <p>
+msgid "Jason Self is the GNU Chief Webmaster from October 2010 onwards."
+msgstr "Jason Self é o Chief Webmaster do GNU a partir de outubro de 2010."
+
+#. type: Content of: <h3>
+msgid "Pavel Kharitonov, GNU Translations Manager"
+msgstr "Pavel Kharitonov, Gerente de Traduções do GNU"
+
+#. type: Content of: <p>
+msgid ""
+"Pavel is responsible for all the translations of the GNU website, and is a "
+"developer of <a href=\"https://www.gnu.org/software/gnun/\">GNUnited "
+"Nations</a>, the translation tool used on gnu.org."
+msgstr ""
+"Pavel é responsável por todas as traduções do <em>site</em> do GNU e é "
+"desenvolvedor do <a href=\"https://www.gnu.org/software/gnun/\">GNUnited "
+"Nations</a>, a ferramenta de tradução usada no gnu.org."
+
+#. type: Content of: <h3>
+msgid "Yavor Doganov, GNU Translations Manager"
+msgstr "Yavor Doganov, Gerente de Traduções do GNU"
+
+#. type: Content of: <p>
+msgid ""
+"Yavor is responsible for all the translations of the GNU website, and is the "
+"author of <a href=\"https://www.gnu.org/software/gnun/\">GNUnited Nations</"
+"a>, the translation tool used on gnu.org."
+msgstr ""
+"Yavor é responsável por todas as traduções do <em>site</em> do GNU e é o "
+"autor do <a href=\"https://www.gnu.org/software/gnun/\">GNUnited Nations</"
+"a>, a ferramenta de tradução usada no gnu.org."
+
+#. type: Content of: <h3>
+msgid ""
+"<a href=\"http://wjsullivan.net/\">John Sullivan</a>, FSF Executive Director"
+msgstr ""
+"<a href=\"http://wjsullivan.net/\">John Sullivan</a>, Diretor Executivo da "
+"FSF"
+
+#. type: Content of: <p>
+msgid ""
+"John is currently the Executive Director of the Free Software Foundation, "
+"where he has worked since early 2003.  John was the previous chief "
+"webmaster, and worked closely with Matt Lee on the gnu.org redesign work.  "
+"He helps with design and development work for all FSF web sites, and is also "
+"a <a href=\"/people/speakers.html\">speaker for the GNU Project</a>."
+msgstr ""
+"Atualmente, John é o diretor executivo da Free Software Foundation, onde "
+"trabalha desde o início de 2003. John foi o <i lang=\"en\">chief webmaster</"
+"i> anterior e trabalhou em estreita colaboração com Matt Lee no trabalho de "
+"reformulação do gnu.org. Ele ajuda no trabalho de design e desenvolvimento "
+"de todos os <em>sites</em> da FSF e também é um <a href=\"/people/speakers."
+"html\">palestrante do Projeto GNU</a>."
+
+#. type: Content of: <h3>
+msgid ""
+"<a href=\"http://www.stallman.org/\">Richard Stallman</a>, Chief GNUisance "
+"and founder of the GNU Project"
+msgstr ""
+"<a href=\"http://www.stallman.org/\">Richard Stallman</a>, <cite>Cheif "
+"GNUisance</cite> e fundador do Projeto GNU"
+
+#. type: Content of: <p>
+msgid ""
+"Founded the GNU Project in 1984. In 1985 he founded the Free Software "
+"Foundation, and served as its president until 2019.  He is the principal or "
+"initial author of <a href=\"/software/emacs/emacs.html\"> GNU Emacs</a>, the "
+"<a href=\"/software/gcc/gcc.html\">GNU C Compiler</a>, the GNU Debugger GDB "
+"and parts of other packages."
+msgstr ""
+"Fundou o Projeto GNU em 1984. Em 1985, ele fundou a Free Software Foundation "
+"onde atuou como presidente até 2019. Ele é o autor principal ou inicial do "
+"<a href=\"/software/emacs/emacs.html\"> GNU Emacs</a>, do <a href=\"/"
+"software/gcc/gcc.html\">GNU C Compiler</a>, do GNU Debugger GDB e de partes "
+"de outros pacotes."
+
+#. type: Content of: <h3>
+msgid ""
+"<a href=\"http://freefriends.org/~karl/\">Karl Berry</a>, Assistant Chief "
+"GNUisance"
+msgstr ""
+"<a href=\"http://freefriends.org/~karl/\">Karl Berry</a>, <cite>Cheif "
+"GNUisance</cite> Assistente"
+
+#. type: Content of: <p>
+msgid ""
+"Has been involved with GNU since rms visited his home in 1986 or so.  He co-"
+"authored the <a href=\"/software/fontutils/\">GNU font utilities</a>, and is "
+"currently the volunteer maintainer of <a href=\"/software/texinfo/"
+"\">Texinfo</a> and <a href=\"/software/hello/\">Hello</a>, and is co-leading "
+"the <a href=\"/help/evaluation.html\">GNU Evaluation Team</a>, among other "
+"infrastructure projects.  He also does a number of volunteer tasks relating "
+"to TeX distributions, notably a project leader for TeX Live, and co-authored "
+"<a href=\"http://savannah.gnu.org/projects/teximpatient/\">TeX for the "
+"Impatient</a>."
+msgstr ""
+"Esteve envolvido com o GNU desde que o rms visitou sua casa em 1986. Ele foi "
+"co-autor dos <a href=\"/software/fontutils/\">utilitários de fontes do GNU</"
+"a> e atualmente é o mantenedor voluntário do <a href=\"/software/texinfo/"
+"\">Texinfo</a> e <a href=\"/software/hello/\">Hello</a>, e é co-líder da <a "
+"href=\"/help/evaluation.html\">Equipe de Avaliação do GNU</a>, entre outros "
+"projetos de infraestrutura. Ele também realiza várias tarefas voluntárias "
+"relacionadas às distribuições do TeX, notadamente um líder de projeto do TeX "
+"Live, e co-autor de <a href=\"http://savannah.gnu.org/projects/teximpatient/"
+"\">TeX for the Impatient</a>."
+
+#. type: Content of: <h2>
+msgid "GNU Webmasters"
+msgstr "Webmasters do GNU"
+
+#. type: Content of: <h3>
+msgid "<a href=\"mailto:bandali@gnu.org\">Amin Bandali</a>"
+msgstr "<a href=\"mailto:bandali@gnu.org\">Amin Bandali</a>"
+
+#. type: Content of: <p>
+msgid ""
+"<a href=\"https://bandali.eu.org\">Amin</a> is a <a href=\"http://www.gnu."
+"org/philosophy/free-sw.html\">free software</a> activist and a GNU webmaster "
+"since early 2016."
+msgstr ""
+"<a href=\"https://bandali.eu.org\">Amin</a> é um ativista de <a href="
+"\"http://www.gnu.org/philosophy/free-sw.html\">Software Livre</a> e um "
+"<em>webmaster</em> do GNU desde o início de 2016."
+
+#. type: Content of: <h3>
+msgid "<a href=\"mailto:brettg@gnu.org\">Brett Gilio</a>"
+msgstr "<a href=\"mailto:brettg@gnu.org\">Brett Gilio</a>"
+
+#. type: Content of: <p>
+msgid ""
+"Brett joined the GNU webmastering team in late 2019. He is also a regular "
+"contributor to GNU Guix, GNU Guile, and does research in formal methods."
+msgstr ""
+"Brett ingressou na equipe de webmasters do GNU no final de 2019. Ele também "
+"é colaborador regular do GNU Guix, GNU Guile e faz pesquisa em métodos "
+"formais."
+
+#. type: Content of: <h3>
+msgid "Dora Scilipoti"
+msgstr "Dora Scilipoti"
+
+#. type: Content of: <p>
+msgid ""
+"Leader of the <a href=\"/education/\">GNU Education Team</a> and the <a href="
+"\"http://savannah.gnu.org/projects/www-es\">GNU Spanish Translation Team</a>."
+msgstr ""
+"Líder da <a href=\"/education/\">Equipe de Educação do GNU</a> e da <a href="
+"\"http://savannah.gnu.org/projects/www-es\">Equipe de Tradução para Espanhol "
+"do GNU</a>."
+
+#. type: Content of: <h3>
+msgid "<a href=\"mailto:lorenzoancora@gnu.org\">Lorenzo L. Ancora</a>"
+msgstr "<a href=\"mailto:lorenzoancora@gnu.org\">Lorenzo L. Ancora</a>"
+
+#. type: Content of: <p>
+msgid ""
+"<a href=\"https://www.lorenzoancora.info\">Lorenzo</a> is a web and desktop "
+"developer. He's a <a href=\"https://directory.fsf.org\">FSD</a> "
+"administrator and a <a href=\"/\">GNU</a> webmaster since 2018."
+msgstr ""
+"<a href=\"https://www.lorenzoancora.info\">Lorenzo</a> é um desenvolvedor de "
+"web e desktop. Ele é um administrador do <a href=\"https://directory.fsf.org"
+"\">FSD</a> e um <a href=\"/\">GNU</a> <em>webmaster</em> desde 2018."
+
+#. type: Content of: <h3>
+msgid "<a href=\"mailto:rmmm@gnu.org\">Robert Musial</a>"
+msgstr "<a href=\"mailto:rmmm@gnu.org\">Robert Musial</a>"
+
+#. type: Content of: <p>
+msgid ""
+"Rob is a <a href=\"/\">GNU</a> Webmaster, an <a href=\"http://www.fsf.org/"
+"associate/\">Associate Member</a> of the <a href=\"http://www.fsf.org/"
+"\">FSF</a> since 2003, and a programmer of <a href=\"/philosophy/free-sw.html"
+"\">free software</a>."
+msgstr ""
+"Rob é um Webmaster do <a href=\"/\">GNU</a>, um <a href=\"http://www.fsf.org/"
+"associate/\">membro associado</a> da <a href=\"http://www.fsf.org/\">FSF</a> "
+"desde 2003 e um programador de <a href=\"/philosophy/free-sw.html\">Software "
+"Livre</a>."
+
+#. type: Content of: <h3>
+msgid "<a href=\"//ricketyspace.net\">rsiddharth</a>"
+msgstr "<a href=\"//ricketyspace.net\">rsiddharth</a>"
+
+#. type: Content of: <p>
+msgid ""
+"rsiddharth's been a GNU Webmaster since 2012.  He designed <a href=\"/"
+"gnu30\">GNU's 30<sup>th</sup> anniversary celebration section</a>.  He "
+"designed and maintained the LibrePlanet conference website between 2013 and "
+"2017.  He also wrote and currently maintains <a href=\"https://ricketyspace."
+"net/lpschedule-generator/\">lpschedule-generator</a> that enables the FSF to "
+"write the LibrePlanet conference schedule in Markdown."
+msgstr ""
+"rsiddharth é um <em>webmaster</em> do GNU desde 2012. Ele criou a <a href=\"/"
+"gnu30\">seção de comemoração do 30º aniversário do GNU</a>. Ele projetou e "
+"manteve o <em>site</em> da conferência LibrePlanet entre 2013 e 2017. Ele "
+"também escreveu e atualmente mantém <a href=\"https://ricketyspace.net/"
+"lpschedule-generator/\">lpschedule-generator</a> que permite à FSF escrever "
+"a programação da conferência LibrePlanet em Markdown."
+
+#. type: Content of: <h2>
+msgid "GNU Web Translators"
+msgstr "Tradutores <em>web</em> do GNU"
+
+#. type: Content of: <p>
+msgid ""
+"If you have translation skills and are willing to help in our effort to "
+"translate gnu.org essays, please contact the <a href=\"/server/standards/"
+"README.translations.html#TranslationsUnderway\"> respective translation "
+"team</a>.  If there is no established team for your language (or there is "
+"but it lacks team co-ordinator), please contact <a href=\"mailto:web-"
+"translators@gnu.org\"> &lt;web-translators@gnu.org&gt;</a> after reading <a "
+"href=\"/server/standards/README.translations.html\">README for translations</"
+"a> and the documentation it refers to."
+msgstr ""
+"Se você tiver habilidades de tradução e está interessado em ajudar em nosso "
+"esforço de traduzir os artigos do gnu.org, contate a <a href=\"/server/"
+"standards/README.translations.html#TranslationsUnderway\"> respectiva equipe "
+"de tradução</a>. Se não houver uma equipe estabelecida para seu idioma (ou "
+"se houver, mas ela carece de um coordenador de equipe), contate <a href="
+"\"mailto:web-translators@gnu.org\"> &lt;web-translators@gnu.org&gt;</a> após "
+"ler o <a href=\"/server/standards/README.translations.html\">README para "
+"traduções</a> e a documentação a qual ele faz referência."
+
+#. type: Content of: <h2>
+msgid "Volunteer"
+msgstr "Voluntário"
+
+#. type: Content of: <p>
+msgid ""
+"If you'd like to join us as a webmaster, <a href=\"/server/standards/"
+"webmaster-quiz.html\">please complete the webmaster quiz</a>."
+msgstr ""
+"Se você gostaria de se juntar a nós como <em>webmaster</em>, <a href=\"/"
+"server/standards/webmaster-quiz.html\">preencha o questionário de "
+"<em>webmaster</em></a>."
+
+#. type: Content of: <h3>
+msgid "Past and present webmasters and translators"
+msgstr "Webmasters e tradutores anteriores e presentes"
+
+#. type: Content of: <p>
+msgid ""
+"<a href=\"/people/past-webmasters.html\">An exhaustive list of GNU "
+"webmasters and GNU Web Translators</a> is also available."
+msgstr ""
+"<a href=\"/people/past-webmasters.html\">Uma lista exaustiva de "
+"<em>webmasters</em> do GNU e Tradutores da <em>web</em> do GNU</a> também "
+"está disponível."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas deste site."
+
+#. type: Content of: <div><p>
+msgid ""
+"Copyright &copy; 2014, 2015, 2016, 2017, 2018, 2019, 2020 Free Software "
+"Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2014, 2015, 2016, 2017, 2018, 2019, 2020 Free Software "
+"Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2020.Revisado por: Cassiano Reinert Novais dos "
+"Santos <a href=\"mailto:caco@posteo.net\">&lt;caco@posteo.net&gt;</a>, 2020."
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização:"
+
+#~ msgid "Alex Patel"
+#~ msgstr "Alex Patel"
+
+#~ msgid ""
+#~ "Alex is a volunteer GNU webmaster and a 2014 Summer <a href=\"http://www."
+#~ "fsf.org/blogs/community/introducing-alex-patel-our-summer-campaigns-intern"
+#~ "\">campaigns intern</a> at the FSF."
+#~ msgstr ""
+#~ "Alex é um <em>webmaster</em> voluntário do GNU e um <a href=\"http://www."
+#~ "fsf.org/blogs/community/introducing-alex-patel-our-summer-campaigns-intern"
+#~ "\">estagiário da campanha</a> de verão de 2014 da FSF."
+
+#~ msgid "Avdesh Kr Singh"
+#~ msgstr "Avdesh Kr Singh"
+
+#~ msgid "Avdesh is a GNU webmaster, joined the team in September 2014."
+#~ msgstr ""
+#~ "Avdesh é um <em>webmaster</em> do GNU, tendo se juntado à equipe em "
+#~ "setembro de 2014."
+
+#~ msgid "<a href=\"mailto:dma@gnu.org\">David Allen</a>"
+#~ msgstr "<a href=\"mailto:dma@gnu.org\">David Allen</a>"
+
+#~ msgid ""
+#~ "David is a volunteer GNU webmaster and an advocate for <a href=\"http://"
+#~ "www.gnu.org/philosophy/free-sw.html\">free software</a>. He joined the "
+#~ "team late 2015."
+#~ msgstr ""
+#~ "David é um <em>webmaster</em> voluntário do GNU e um defensor do <a href="
+#~ "\"http://www.gnu.org/philosophy/free-sw.html\">Software Livre</a>. Ele "
+#~ "ingressou na equipe no final de 2015."
+
+#~ msgid "<a href=\"mailto:hellekin@gnu.org\">hellekin</a>"
+#~ msgstr "<a href=\"mailto:hellekin@gnu.org\">hellekin</a>"
+
+#~ msgid ""
+#~ "Joined the team in October 2012. GPG key: <a href=\"http://hkps.pool.sks-"
+#~ "keyservers.net/pks/lookup?search=hellekin%40gnu.org&amp;op=index&amp;"
+#~ "fingerprint=on&amp;exact=on\">0x386361391CA24A13</a>"
+#~ msgstr ""
+#~ "Ingressou na equipe em outubro de 2012. Chave GPG: <a href=\"http://hkps."
+#~ "pool.sks-keyservers.net/pks/lookup?search=hellekin%40gnu.org&amp;"
+#~ "op=index&amp;fingerprint=on&amp;exact=on\">0x386361391CA24A13</a>"
+
+#~ msgid "<a href=\"mailto:jturner@gnu.org\">James Turner</a>"
+#~ msgstr "<a href=\"mailto:jturner@gnu.org\">James Turner</a>"
+
+#~ msgid "James is a volunteer GNU webmaster and free software advocate."
+#~ msgstr ""
+#~ "James é um <em>webmaster</em> voluntário do GNU e defensor do Software "
+#~ "Livre."
+
+#~ msgid "<a href=\"mailto:luiji@users.sourceforge.net\">Luiji Maryo</a>"
+#~ msgstr "<a href=\"mailto:luiji@users.sourceforge.net\">Luiji Maryo</a>"
+
+#~ msgid ""
+#~ "Luiji is a volunteer GNU Webmaster and a hacker of many a program "
+#~ "designed to distract him from actually working. He's also massively "
+#~ "paranoid."
+#~ msgstr ""
+#~ "Luiji é um <em>webmaster</em> voluntário do GNU e um <em>hacker</em> de "
+#~ "muitos programas criados para distraí-lo de realmente trabalhar. Ele "
+#~ "também é massivamente paranoico."
+
+#~ msgid "<a href=\"mailto:navaneeth@gnu.org\">Navaneeth</a>"
+#~ msgstr "<a href=\"mailto:navaneeth@gnu.org\">Navaneeth</a>"
+
+#~ msgid "GNU Webmaster, developer and GNU Malayalam translator."
+#~ msgstr "Webmaster do GNU, desenvolvedor e tradutor para malaiala do GNU."
+
+#~ msgid "rsiddharth"
+#~ msgstr "rsiddharth"
+
+#~ msgid "<a href=\"mailto:wwj@gnu.org\">Waclaw Jacek</a>"
+#~ msgstr "<a href=\"mailto:wwj@gnu.org\">Waclaw Jacek</a>"
+
+#~ msgid "Webmastering the GNU since 2010."
+#~ msgstr "Atuando como <em>webmaster</em> do GNU desde 2010."

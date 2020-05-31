@@ -1,13 +1,13 @@
 # Brazilian Portuguese translation of https://www.gnu.org/manual/allgnupkgs.html
 # Copyright (C) 2019 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2019.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2019, 2020.
 # Cassiano Reinert Novais dos Santos <caco@posteo.net>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: allgnupkgs.html\n"
-"POT-Creation-Date: 2019-10-30 14:26+0000\n"
-"PO-Revision-Date: 2019-11-01 04:18-0200\n"
+"POT-Creation-Date: 2020-04-23 04:56+0000\n"
+"PO-Revision-Date: 2020-04-30 08:33-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -1466,9 +1466,11 @@ msgstr ""
 
 #. type: Content of: <table><tr><td>
 msgid ""
-"* <a href=\"http://wiki.gnumed.de/bin/view/Gnumed/GnumedManual\">GNUmed</a>"
+"* <a href=\"https://www.gnumed.de/documentation/GNUmedManual.html\">GNUmed</"
+"a>"
 msgstr ""
-"* <a href=\"http://wiki.gnumed.de/bin/view/Gnumed/GnumedManual\">GNUmed</a>"
+"* <a href=\"https://www.gnumed.de/documentation/GNUmedManual.html\">GNUmed</"
+"a>"
 
 #. type: Content of: <table><tr><td>
 msgid ""
@@ -3740,7 +3742,7 @@ msgstr ""
 msgid ""
 "* <a href=\"/software/mit-scheme/#Documentation\">MIT/GNU Scheme</a> <small>"
 "(<a href=\"https://www.gnu.org/software/mit-scheme/documentation/mit-scheme-"
-"imail.html\">mit-scheme-imail</a> <a href=\"https://www.gnu.org/software/mit-"
+"imail/\">mit-scheme-imail</a> <a href=\"https://www.gnu.org/software/mit-"
 "scheme/documentation/mit-scheme-ref/\">mit-scheme-ref</a> <a href=\"https://"
 "www.gnu.org/software/mit-scheme/documentation/mit-scheme-sos/\">sos</a> <a "
 "href=\"https://www.gnu.org/software/mit-scheme/documentation/mit-scheme-user/"
@@ -3748,7 +3750,7 @@ msgid ""
 msgstr ""
 "* <a href=\"/software/mit-scheme/#Documentation\">MIT/GNU Scheme</a> <small>"
 "(<a href=\"https://www.gnu.org/software/mit-scheme/documentation/mit-scheme-"
-"imail.html\">mit-scheme-imail</a> <a href=\"https://www.gnu.org/software/mit-"
+"imail/\">mit-scheme-imail</a> <a href=\"https://www.gnu.org/software/mit-"
 "scheme/documentation/mit-scheme-ref/\">mit-scheme-ref</a> <a href=\"https://"
 "www.gnu.org/software/mit-scheme/documentation/mit-scheme-sos/\">sos</a> <a "
 "href=\"https://www.gnu.org/software/mit-scheme/documentation/mit-scheme-user/"
@@ -3808,6 +3810,18 @@ msgid ""
 msgstr ""
 "Supervisor de invocação e execução de programas.  [<a href=\"/software/pies/"
 "\">página&nbsp;do&nbsp;pies</a>]"
+
+#. type: Content of: <table><tr><td>
+msgid "* <a href=\"/software/poke/#documentation\">Poke</a>"
+msgstr "* <a href=\"/software/poke/#documentation\">Poke</a>"
+
+#. type: Content of: <table><tr><td>
+msgid ""
+"Editing of arbitrary binary data.  [<a href=\"/software/poke/\">poke&nbsp;"
+"home</a>]"
+msgstr ""
+"Edição de dados binários arbitrários.  [<a href=\"/software/poke/"
+"\">página&nbsp;do&nbsp;poke</a>]"
 
 #. type: Content of: <table><tr><td>
 msgid "* <a href=\"/software/pyconfigure/manual/\">Pyconfigure</a>"
@@ -5425,6 +5439,13 @@ msgid ""
 msgstr ""
 "XML simples para definição e implementação de linguages de marcação.  [<a "
 "href=\"/software/xmlat/\">página&nbsp;do&nbsp;xmlat</a>]"
+
+#~ msgid ""
+#~ "* <a href=\"http://wiki.gnumed.de/bin/view/Gnumed/GnumedManual\">GNUmed</"
+#~ "a>"
+#~ msgstr ""
+#~ "* <a href=\"http://wiki.gnumed.de/bin/view/Gnumed/GnumedManual\">GNUmed</"
+#~ "a>"
 
 #~ msgid ""
 #~ "* <a href=\"https://www.gnu.org/software/gsl/manual/html_node/\">GNU "

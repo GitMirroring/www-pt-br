@@ -1,0 +1,303 @@
+# Brazilian Portuguese translation of https://www.gnu.org/fry/happy-birthday-to-gnu-sfd-totem.html
+# Copyright (C) 2020 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2020.
+# Cassiano Reinert Novais dos Santos <caco@posteo.net>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: happy-birthday-to-gnu-sfd-totem.html\n"
+"POT-Creation-Date: 2019-01-05 17:56+0000\n"
+"PO-Revision-Date: 2020-01-12 21:05-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
+
+#. type: Content of: <title>
+msgid ""
+"How to play the video with Totem - GNU Project - Free Software Foundation"
+msgstr ""
+"Como reproduzir o vídeo com o Totem - Projeto GNU - Free Software Foundation"
+
+#. type: Attribute 'content' of: <meta>
+msgid ""
+"GNU, FSF, Free Software Foundation, Linux, Emacs, GCC, Unix, Free Software, "
+"Operating System, GNU Kernel, HURD, GNU HURD, Hurd"
+msgstr ""
+"GNU, FSF, Free Software Foundation, Linux, Emacs, GCC, Unix, Software Livre, "
+"Sistema Operacional, GNU Kernel, HURD, GNU HURD, Hurd"
+
+#. type: Attribute 'content' of: <meta>
+msgid ""
+"Since 1983, developing the free Unix style operating system GNU, so that "
+"computer users can have the freedom to share and improve the software they "
+"use."
+msgstr ""
+"Desde 1983, desenvolvendo o GNU, sistema operacional livre tipo Unix, para "
+"que usuários de computador possam ter a liberdade de compartilhar e melhorar "
+"o software que usam."
+
+#. type: Content of: <style>
+#, no-wrap
+msgid ""
+".inline {text-align: center; line-height: 4em; padding: 0; margin: 0 !important;  margin-bottom: 1em !important;}\n"
+"\n"
+".inline li{list-style: none; display: inline; }\n"
+"\n"
+"#download li a{background-color:#1ea410; padding: 1em 3em 1em 3em; -moz-border-radius: 8px; color: white; font-weight: bold; margin: 0.4em; text-decoration: none; width: 23%; text-align: center;}\n"
+"\n"
+"#download a:hover{background-color: #b1ef0b; color: black;}\n"
+"\n"
+".title{font-size: 180%;}\n"
+"\n"
+"h2{color: black !important; border: 0 !important; text-align: center;}\n"
+"\n"
+"h3{color: black !important; border: 0 !important; text-align: center; font-size: 1.2em !important;}\n"
+"\n"
+"td p{padding-left: 1em; padding-right: 1em;}\n"
+"\n"
+"td li, td p{font-size: 0.8em;}\n"
+"\n"
+".formHelp{text-align: center; color: #666; font-size: 90%;}\n"
+"\n"
+"table{margin-bottom: 0.8em !important;}\n"
+"\n"
+"#sjf{width: 600px; margin: 0 auto 1em auto;}\n"
+"\n"
+msgstr ""
+".inline {text-align: center; line-height: 4em; padding: 0; margin: 0 !important;  margin-bottom: 1em !important;}\n"
+"\n"
+".inline li{list-style: none; display: inline; }\n"
+"\n"
+"#download li a{background-color:#1ea410; padding: 1em 3em 1em 3em; -moz-border-radius: 8px; color: white; font-weight: bold; margin: 0.4em; text-decoration: none; width: 23%; text-align: center;}\n"
+"\n"
+"#download a:hover{background-color: #b1ef0b; color: black;}\n"
+"\n"
+".title{font-size: 180%;}\n"
+"\n"
+"h2{color: black !important; border: 0 !important; text-align: center;}\n"
+"\n"
+"h3{color: black !important; border: 0 !important; text-align: center; font-size: 1.2em !important;}\n"
+"\n"
+"td p{padding-left: 1em; padding-right: 1em;}\n"
+"\n"
+"td li, td p{font-size: 0.8em;}\n"
+"\n"
+".formHelp{text-align: center; color: #666; font-size: 90%;}\n"
+"\n"
+"table{margin-bottom: 0.8em !important;}\n"
+"\n"
+"#sjf{width: 600px; margin: 0 auto 1em auto;}\n"
+"\n"
+
+#. type: Content of: <h2>
+msgid "How to play the film with subtitles in Totem"
+msgstr "Como reproduzir o filme com legendas no Totem"
+
+#. type: Attribute 'alt' of: <img>
+msgid "&nbsp;[large Totem icon]&nbsp;"
+msgstr "&nbsp;[ícone grande do Totem]&nbsp;"
+
+#. type: Content of: <p>
+msgid ""
+"With Software Freedom Day approaching, we've put together this little guide "
+"on how to play the film, Happy Birthday to GNU (starring Mr Stephen Fry), "
+"with subtitles for your local language."
+msgstr ""
+"Com o Dia da Liberdade de Software se aproximando, reunimos este pequeno "
+"guia sobre como reproduzir o filme “Feliz aniversário para o GNU” (estrelado "
+"pelo sr. Stephen Fry) com legendas para o seu idioma local."
+
+#. type: Content of: <p>
+msgid ""
+"It's pretty easy, so let's get started! This guide assumes you're using "
+"Totem, if you're using <a href=\"happy-birthday-to-gnu-sfd-vlc.html\">VLC</"
+"a>, <a href=\"happy-birthday-to-gnu-sfd-xine.html\">Xine</a>, <a href="
+"\"happy-birthday-to-gnu-sfd-mplayer.html\">Mplayer</a> or <a href=\"happy-"
+"birthday-to-gnu-sfd-kaffeine.html\">Kaffeine</a>, we have help for you as "
+"well."
+msgstr ""
+"É muito fácil, então vamos começar! Esse guia presume que você está usando o "
+"Totem. Se você estiver usando <a href=\"happy-birthday-to-gnu-sfd-vlc.html"
+"\">VLC</a>, <a href=\"happy-birthday-to-gnu-sfd-xine.html\">Xine</a>, <a "
+"href=\"happy-birthday-to-gnu-sfd-mplayer.html\">Mplayer</a> ou <a href="
+"\"happy-birthday-to-gnu-sfd-kaffeine.html\">Kaffeine</a>, nós temos ajuda "
+"para você também."
+
+#. type: Content of: <p>
+msgid ""
+"All these instructions are for GNU/Linux systems only, so if you're using "
+"Windows or Mac OS X, they may work for you too, but we don't know."
+msgstr ""
+"Todas essas instruções são apenas para sistemas GNU/Linux; portanto, se você "
+"estiver usando o Windows ou o Mac OS X, elas também podem funcionar para "
+"você, mas não sabemos."
+
+#. type: Content of: <h2>
+msgid "Three steps to subtitled Stephen"
+msgstr "Três etapas para Stephen legendado"
+
+#. type: Content of: <ol><li>
+msgid ""
+"<a href=\"happy-birthday-to-gnu-download.html\">Download the video</a> (get "
+"the highest quality version, it's about 127 MB)"
+msgstr ""
+"<a href=\"happy-birthday-to-gnu-download.html\">Baixe o vídeo</a> (obtenha a "
+"versão de maior qualidade, tem cerca de 127 MB)"
+
+#. type: Content of: <ol><li>
+msgid ""
+"<a href=\"happy-birthday-to-gnu-translation.html\">Download the subtitles "
+"you want to play</a>"
+msgstr ""
+"<a href=\"happy-birthday-to-gnu-translation.html\">Baixe as legendas que "
+"você deseja reproduzir</a>"
+
+#. type: Content of: <ol><li>
+msgid "Rename the files below (optional)"
+msgstr "Renomeie os arquivos abaixo (opcional)"
+
+#. type: Content of: <h3>
+msgid "Rename the files for automatic subtitling"
+msgstr "Renomeie os arquivos para legendagem automática"
+
+#. type: Content of: <p>
+msgid ""
+"Once you've got both of files downloaded, make sure they're in the same "
+"folder, and that the filenames match."
+msgstr ""
+"Depois de baixar os dois arquivos, verifique se estão na mesma pasta e se os "
+"nomes dos arquivos correspondem."
+
+#. type: Content of: <p>
+msgid ""
+"<b>For example, the video can be renamed <tt>fry.ogv</tt> and the subtitle "
+"<tt>fry.srt</tt>.</b>"
+msgstr ""
+"<b>Por exemplo, o vídeo pode ser renomeado para <tt>fry.ogv</tt> e a legenda "
+"para <tt>fry.srt</tt>.</b>"
+
+#. type: Content of: <p>
+msgid ""
+"Now, you need to tell Totem to load subtitles when you open a video.  Click "
+"Edit, Preferences&hellip;"
+msgstr ""
+"Agora, você precisa dizer ao Totem para carregar as legendas quando abrir o "
+"vídeo. Clique em Editar, Preferências…"
+
+#. type: Attribute 'alt' of: <p><img>
+msgid "Totem Preferences"
+msgstr "Preferências do Totem"
+
+#. type: Content of: <p>
+msgid ""
+"Now just open the video in Totem.  If you're doing it from the terminal, the "
+"subtitles should just play.  From the GUI&hellip; click, File, Open "
+"File&hellip;"
+msgstr ""
+"Agora, é só abrir o vídeo no Totem. Se você está fazendo isso do terminal, "
+"as legendas devem ser simplesmente reproduzidas. A partir da interface "
+"gráfica de usuário… clique em Arquivo, Abrir arquivo…"
+
+#. type: Content of: <p>
+msgid "Click Ok, and the video will play&hellip;"
+msgstr "Clique em Ok, e o vídeo vai reproduzir…"
+
+#. type: Attribute 'alt' of: <p><img>
+msgid "Totem"
+msgstr "Totem"
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas deste site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2008, 2014, 2019 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2008, 2014, 2019 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
+
+#. type: Content of: <div><p>
+msgid ""
+"&ldquo;<a href=\"/fry/happy-birthday-to-gnu.html\">Happy Birthday to GNU</"
+"a>&rdquo; is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-No "
+"Derivative Works 3.0 United States License</a>."
+msgstr ""
+"“<a href=\"/fry/happy-birthday-to-gnu.html\">Feliz aniversário para o GNU</"
+"a>” está licenciado sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+
+#. type: Content of: <div><p>
+msgid ""
+"Please <a href=\"http://www.fsf.org/about/contact.html\">contact us</a> for "
+"further permissions, including derived works."
+msgstr ""
+"Por favor, <a href=\"http://www.fsf.org/about/contact.html\">nos contate</a> "
+"para mais permissões, incluindo obras derivadas."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2020.Revisado por: Cassiano Reinert Novais dos "
+"Santos <a href=\"mailto:caco@posteo.net\">&lt;caco@posteo.net&gt;</a>, 2020."
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização:"

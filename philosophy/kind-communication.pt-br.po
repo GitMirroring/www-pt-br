@@ -1,13 +1,13 @@
 # Brazilian Portuguese translation of https://www.gnu.org/philosophy/kind-communication.html
-# Copyright (C) 2019 Free Software Foundation, Inc.
+# Copyright (C) 2020 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2018, 2019.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018-2020.
 # André N Batista <nandre@riseup.net>, 2018. (proofread)
 msgid ""
 msgstr ""
 "Project-Id-Version: kind-communication.html\n"
-"POT-Creation-Date: 2019-10-26 16:55+0000\n"
-"PO-Revision-Date: 2019-11-01 04:22-0200\n"
+"POT-Creation-Date: 2020-01-07 13:25+0000\n"
+"PO-Revision-Date: 2020-01-07 14:18-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -177,10 +177,10 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li><p>
 msgid ""
-"By contrast, to suggest that others use nonfree software opposes the basic "
+"By contrast, to suggest that others run a nonfree program opposes the basic "
 "principles of GNU, so it is not allowed in GNU Project discussions."
 msgstr ""
-"Em contrapartida, sugerir que outros usem software não livre se opõe aos "
+"Em contrapartida, sugerir que outros usem um programa não livre se opõe aos "
 "princípios básicos do GNU, por isso não é permitido nas discussões do "
 "Projeto GNU."
 
@@ -245,6 +245,19 @@ msgstr ""
 "Por favor, não argumente incessantemente o seu curso de ação preferido "
 "quando uma decisão para algum outro curso já foi tomada. Isso tende a "
 "bloquear o progresso da atividade."
+
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"If others have irritated you, perhaps by disregarding these guidelines, "
+"please don't excoriate them, and especially please don't hold a grudge "
+"against them.  The constructive approach is to encourage and help other "
+"people to do better.  When they are trying to learn to do better, please "
+"give them plenty of chances."
+msgstr ""
+"Se outras pessoas o irritarem, talvez por desconsiderar essas diretrizes, "
+"por favor, não as censure e, especialmente, não guarde rancor delas. A "
+"abordagem construtiva é incentivar e ajudar outras pessoas a fazerem melhor. "
+"Quando elas estão tentando aprender a melhorar, dê a elas muitas chances."
 
 #. type: Content of: <div><div><ul><li>
 msgid ""
@@ -366,16 +379,16 @@ msgid ""
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
-"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
 "\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas desse site."
+"envio de traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2018, 2019 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2018, 2019 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2018, 2019, 2020 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2018, 2019, 2020 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -392,7 +405,7 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
-"rafaelff@gnome.org&gt;</a>, 2018, 2019.<br/>\n"
+"rafaelff@gnome.org&gt;</a>, 2018-2020.<br/>\n"
 "Revisado por: André N Batista <a href=\"mailto:nandre@riseup.net\">&lt;"
 "nandre@riseup.net&gt;</a>, 2018."
 
