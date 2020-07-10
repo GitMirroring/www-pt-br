@@ -49,9 +49,9 @@ if [ ! -d "$teamdir" ]; then
     exit 1
 fi
 
-wwwpofiles=$(find "$wwwdir/" -type f -name '*.pt-br.po' | sed "s|$wwwdir/||g;s|po/||g" | sort)
+wwwpofiles=$(find "$wwwdir/" -type f -name '*pt-br.po' | sed "s|$wwwdir/||g;s|po/||g" | sort)
 
-teampofiles=$(find "$teamdir/" -type f -name '*.pt-br.po' | sed "s|$teamdir/||g" | sort)
+teampofiles=$(find "$teamdir/" -type f -name '*pt-br.po' | sed "s|$teamdir/||g" | sort)
 
 allmissing=$(echo "$wwwpofiles $teampofiles" | tr ' ' '\n' | sort | uniq -u | tr '\n' ' ')
 missingwww=""
@@ -71,7 +71,7 @@ echo ""
 echo "*** Arquivos PO disponíveis no teamdir, mas faltando no wwwdir:"
 
 if [ -z "$missingwww" ]; then
-    echo "Nada, tudo ok aqui."
+    echo -e "Nada, tudo ok aqui.\n"
 else
     echo "$missingwww" | tr ' ' '\n'
 fi
@@ -80,7 +80,7 @@ echo ""
 echo "*** Arquivos PO disponíveis no wwwdir, mas faltando no teamdir:"
 
 if [ -z "$missingteam" ]; then
-    echo "Nada, tudo ok aqui."
+    echo -e "Nada, tudo ok aqui.\n"
 else
     echo "$missingteam" | tr ' ' '\n'
     echo ""
