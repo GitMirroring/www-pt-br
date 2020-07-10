@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary-menu.html\n"
-"POT-Creation-Date: 2019-11-18 14:58+0000\n"
+"POT-Creation-Date: 2020-06-19 22:37+0200\n"
 "PO-Revision-Date: 2020-02-07 06:53-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -16,198 +16,177 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Virtaal 1.0.0-beta1\n"
 
-#. type: Content of: <div><p>
-msgid "<a href=\"#main-heading\">Skip menu</a>"
-msgstr "<a href=\"#main-heading\">Pular menu</a>"
+#. type: Content of: <div><div>
+msgid "<a href=\"#content\"><span>BACK TO TOP </span>&#11165;</a>"
+msgstr "<a href=\"#content\"><span>VOLTAR AO TOPO </span>&#11165;</a>"
 
-#. type: Content of: <div><h3>
+#. type: Content of: <div><div><h3>
 msgid "Proprietary malware"
 msgstr "Malware proprietário"
 
-#. type: Content of: <div><h4>
-msgid "By type:"
-msgstr "Por tipo:"
+#. type: Content of: <div><div><dl><dt>
+msgid "By type"
+msgstr "Por tipo"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><dl><dd><ul><li>
 msgid ""
-"<a href=\"/proprietary/proprietary-addictions.html#main-heading"
-"\">Addictions</a>"
+"<a href=\"/proprietary/proprietary-addictions.html#content\">Addictions</a>"
 msgstr ""
-"<a href=\"/proprietary/proprietary-addictions.html#main-heading\">Vícios</a>"
+"<a href=\"/proprietary/proprietary-addictions.html#content\">Vícios</a>"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><dl><dd><ul><li>
 msgid ""
-"<a href=\"/proprietary/proprietary-back-doors.html#main-heading\">Back "
-"doors</a>"
+"<a href=\"/proprietary/proprietary-back-doors.html#content\">Back doors</a>"
 msgstr ""
-"<a href=\"/proprietary/proprietary-back-doors.html#main-heading\">Back "
-"doors</a>"
+"<a href=\"/proprietary/proprietary-back-doors.html#content\">Back doors</a>"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><dl><dd><ul><li>
 msgid ""
-"<a href=\"/proprietary/proprietary-censorship.html#main-heading"
-"\">Censorship</a>"
+"<a href=\"/proprietary/proprietary-censorship.html#content\">Censorship</a>"
 msgstr ""
-"<a href=\"/proprietary/proprietary-censorship.html#main-heading\">Censura</a>"
+"<a href=\"/proprietary/proprietary-censorship.html#content\">Censura</a>"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><dl><dd><ul><li>
+msgid "<a href=\"/proprietary/proprietary-coverups.html#content\">Coverups</a>"
+msgstr ""
+"<a href=\"/proprietary/proprietary-coverups.html#content\">Encobrimentos</a>"
+
+#. type: Content of: <div><div><dl><dd><ul><li>
 msgid ""
-"<a href=\"/proprietary/proprietary-coverups.html#main-heading\">Coverups</a>"
-msgstr ""
-"<a href=\"/proprietary/proprietary-coverups.html#main-heading"
-"\">Encobrimentos</a>"
+"<a href=\"/proprietary/proprietary-deception.html#content\">Deception</a>"
+msgstr "<a href=\"/proprietary/proprietary-deception.html#content\">Engano</a>"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><dl><dd><ul><li>
+msgid "<a href=\"/proprietary/proprietary-drm.html#content\">DRM</a>"
+msgstr "<a href=\"/proprietary/proprietary-drm.html#content\">DRM</a>"
+
+#. type: Content of: <div><div><dl><dd><ul><li>
+msgid "<a href=\"/proprietary/proprietary-fraud.html#content\">Fraud</a>"
+msgstr "<a href=\"/proprietary/proprietary-fraud.html#content\">Fraude</a>"
+
+#. type: Content of: <div><div><dl><dd><ul><li>
 msgid ""
-"<a href=\"/proprietary/proprietary-deception.html#main-heading\">Deception</"
-"a>"
-msgstr ""
-"<a href=\"/proprietary/proprietary-deception.html#main-heading\">Engano</a>"
-
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/proprietary/proprietary-drm.html#main-heading\">DRM</a>"
-msgstr "<a href=\"/proprietary/proprietary-drm.html#main-heading\">DRM</a>"
-
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/proprietary/proprietary-fraud.html#main-heading\">Fraud</a>"
-msgstr ""
-"<a href=\"/proprietary/proprietary-fraud.html#main-heading\">Fraude</a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/proprietary/proprietary-incompatibility.html#main-heading"
+"<a href=\"/proprietary/proprietary-incompatibility.html#content"
 "\">Incompatibility</a>"
 msgstr ""
-"<a href=\"/proprietary/proprietary-incompatibility.html#main-heading"
+"<a href=\"/proprietary/proprietary-incompatibility.html#content"
 "\">Incompatibilidade</a>"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><dl><dd><ul><li>
 msgid ""
-"<a href=\"/proprietary/proprietary-insecurity.html#main-heading"
-"\">Insecurity</a>"
+"<a href=\"/proprietary/proprietary-insecurity.html#content\">Insecurity</a>"
 msgstr ""
-"<a href=\"/proprietary/proprietary-insecurity.html#main-heading"
-"\">Insegurança</a>"
+"<a href=\"/proprietary/proprietary-insecurity.html#content\">Insegurança</a>"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><dl><dd><ul><li>
 msgid ""
-"<a href=\"/proprietary/proprietary-interference.html#main-heading"
-"\">Interference</a>"
+"<a href=\"/proprietary/proprietary-interference.html#content\">Interference</"
+"a>"
 msgstr ""
-"<a href=\"/proprietary/proprietary-interference.html#main-heading"
+"<a href=\"/proprietary/proprietary-interference.html#content"
 "\">Interferência</a>"
 
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/proprietary/proprietary-jails.html#main-heading\">Jails</a>"
-msgstr ""
-"<a href=\"/proprietary/proprietary-jails.html#main-heading\">Prisões</a>"
+#. type: Content of: <div><div><dl><dd><ul><li>
+msgid "<a href=\"/proprietary/proprietary-jails.html#content\">Jails</a>"
+msgstr "<a href=\"/proprietary/proprietary-jails.html#content\">Prisões</a>"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><dl><dd><ul><li>
 msgid ""
-"<a href=\"/proprietary/proprietary-manipulation.html#main-heading"
-"\">Manipulation</a>"
+"<a href=\"/proprietary/proprietary-manipulation.html#content\">Manipulation</"
+"a>"
 msgstr ""
-"<a href=\"/proprietary/proprietary-manipulation.html#main-heading"
-"\">Manipulação</a>"
+"<a href=\"/proprietary/proprietary-manipulation.html#content\">Manipulação</"
+"a>"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><dl><dd><ul><li>
 msgid ""
-"<a href=\"/proprietary/proprietary-obsolescence.html#main-heading"
-"\">Obsolescence</a>"
+"<a href=\"/proprietary/proprietary-obsolescence.html#content\">Obsolescence</"
+"a>"
 msgstr ""
-"<a href=\"/proprietary/proprietary-obsolescence.html#main-heading"
+"<a href=\"/proprietary/proprietary-obsolescence.html#content"
 "\">Obsolescência</a>"
 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/proprietary/proprietary-sabotage.html#main-heading\">Sabotage</a>"
+#. type: Content of: <div><div><dl><dd><ul><li>
+msgid "<a href=\"/proprietary/proprietary-sabotage.html#content\">Sabotage</a>"
 msgstr ""
-"<a href=\"/proprietary/proprietary-sabotage.html#main-heading\">Sabotagem</a>"
+"<a href=\"/proprietary/proprietary-sabotage.html#content\">Sabotagem</a>"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><dl><dd><ul><li>
 msgid ""
-"<a href=\"/proprietary/proprietary-subscriptions.html#main-heading"
+"<a href=\"/proprietary/proprietary-subscriptions.html#content"
 "\">Subscriptions</a>"
 msgstr ""
-"<a href=\"/proprietary/proprietary-subscriptions.html#main-heading"
-"\">Assinaturas</a>"
+"<a href=\"/proprietary/proprietary-subscriptions.html#content\">Assinaturas</"
+"a>"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><dl><dd><ul><li>
 msgid ""
-"<a href=\"/proprietary/proprietary-surveillance.html#main-heading"
-"\">Surveillance</a>"
+"<a href=\"/proprietary/proprietary-surveillance.html#content\">Surveillance</"
+"a>"
 msgstr ""
-"<a href=\"/proprietary/proprietary-surveillance.html#main-heading"
-"\">Vigilância</a>"
+"<a href=\"/proprietary/proprietary-surveillance.html#content\">Vigilância</a>"
 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/proprietary/proprietary-tethers.html#main-heading\">Tethers</a>"
+#. type: Content of: <div><div><dl><dd><ul><li>
+msgid "<a href=\"/proprietary/proprietary-tethers.html#content\">Tethers</a>"
 msgstr ""
-"<a href=\"/proprietary/proprietary-tethers.html#main-heading\">Amarrações</a>"
+"<a href=\"/proprietary/proprietary-tethers.html#content\">Amarrações</a>"
 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/proprietary/proprietary-tyrants.html#main-heading\">Tyrants</a>"
+#. type: Content of: <div><div><dl><dd><ul><li>
+msgid "<a href=\"/proprietary/proprietary-tyrants.html#content\">Tyrants</a>"
+msgstr "<a href=\"/proprietary/proprietary-tyrants.html#content\">Tiranos</a>"
+
+#. type: Content of: <div><div><dl><dd><ul><li>
+msgid "<a href=\"/proprietary/potential-malware.html#content\">In the pipe</a>"
+msgstr "<a href=\"/proprietary/potential-malware.html#content\">No fluxo</a>"
+
+#. type: Content of: <div><div><dl><dt>
+msgid "By product"
+msgstr "Por produto"
+
+#. type: Content of: <div><div><dl><dd><ul><li>
+msgid "<a href=\"/proprietary/malware-appliances.html#content\">Appliances</a>"
 msgstr ""
-"<a href=\"/proprietary/proprietary-tyrants.html#main-heading\">Tiranos</a>"
+"<a href=\"/proprietary/malware-appliances.html#content\">Appliances</a>"
 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/proprietary/potential-malware.html#main-heading\">In the pipe</a>"
-msgstr ""
-"<a href=\"/proprietary/potential-malware.html#main-heading\">No fluxo</a>"
+#. type: Content of: <div><div><dl><dd><ul><li>
+msgid "<a href=\"/proprietary/malware-cars.html#content\">Cars</a>"
+msgstr "<a href=\"/proprietary/malware-cars.html#content\">Carros</a>"
 
-#. type: Content of: <div><h4>
-msgid "By product:"
-msgstr "Por produto:"
+#. type: Content of: <div><div><dl><dd><ul><li>
+msgid "<a href=\"/proprietary/malware-games.html#content\">Games</a>"
+msgstr "<a href=\"/proprietary/malware-games.html#content\">Jogos</a>"
 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/proprietary/malware-appliances.html#main-heading\">Appliances</a>"
-msgstr ""
-"<a href=\"/proprietary/malware-appliances.html#main-heading\">Appliances</a>"
+#. type: Content of: <div><div><dl><dd><ul><li>
+msgid "<a href=\"/proprietary/malware-mobiles.html#content\">Mobiles</a>"
+msgstr "<a href=\"/proprietary/malware-mobiles.html#content\">Móveis</a>"
 
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/proprietary/malware-cars.html#main-heading\">Cars</a>"
-msgstr "<a href=\"/proprietary/malware-cars.html#main-heading\">Carros</a>"
+#. type: Content of: <div><div><dl><dd><ul><li>
+msgid "<a href=\"/proprietary/malware-webpages.html#content\">Webpages</a>"
+msgstr "<a href=\"/proprietary/malware-webpages.html#content\">Páginas web</a>"
 
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/proprietary/malware-games.html#main-heading\">Games</a>"
-msgstr "<a href=\"/proprietary/malware-games.html#main-heading\">Jogos</a>"
+#. type: Content of: <div><div><dl><dt>
+msgid "By company"
+msgstr "Por empresa"
 
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/proprietary/malware-mobiles.html#main-heading\">Mobiles</a>"
-msgstr "<a href=\"/proprietary/malware-mobiles.html#main-heading\">Móveis</a>"
+#. type: Content of: <div><div><dl><dd><ul><li>
+msgid "<a href=\"/proprietary/malware-adobe.html#content\">Adobe</a>"
+msgstr "<a href=\"/proprietary/malware-adobe.html#content\">Adobe</a>"
 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/proprietary/malware-webpages.html#main-heading\">Webpages</a>"
-msgstr ""
-"<a href=\"/proprietary/malware-webpages.html#main-heading\">Páginas web</a>"
+#. type: Content of: <div><div><dl><dd><ul><li>
+msgid "<a href=\"/proprietary/malware-amazon.html#content\">Amazon</a>"
+msgstr "<a href=\"/proprietary/malware-amazon.html#content\">Amazon</a>"
 
-#. type: Content of: <div><h4>
-msgid "By company:"
-msgstr "Por empresa:"
+#. type: Content of: <div><div><dl><dd><ul><li>
+msgid "<a href=\"/proprietary/malware-apple.html#content\">Apple</a>"
+msgstr "<a href=\"/proprietary/malware-apple.html#content\">Apple</a>"
 
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/proprietary/malware-adobe.html#main-heading\">Adobe</a>"
-msgstr "<a href=\"/proprietary/malware-adobe.html#main-heading\">Adobe</a>"
+#. type: Content of: <div><div><dl><dd><ul><li>
+msgid "<a href=\"/proprietary/malware-google.html#content\">Google</a>"
+msgstr "<a href=\"/proprietary/malware-google.html#content\">Google</a>"
 
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/proprietary/malware-amazon.html#main-heading\">Amazon</a>"
-msgstr "<a href=\"/proprietary/malware-amazon.html#main-heading\">Amazon</a>"
+#. type: Content of: <div><div><dl><dd><ul><li>
+msgid "<a href=\"/proprietary/malware-microsoft.html#content\">Microsoft</a>"
+msgstr "<a href=\"/proprietary/malware-microsoft.html#content\">Microsoft</a>"
 
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/proprietary/malware-apple.html#main-heading\">Apple</a>"
-msgstr "<a href=\"/proprietary/malware-apple.html#main-heading\">Apple</a>"
-
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/proprietary/malware-google.html#main-heading\">Google</a>"
-msgstr "<a href=\"/proprietary/malware-google.html#main-heading\">Google</a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/proprietary/malware-microsoft.html#main-heading\">Microsoft</a>"
-msgstr ""
-"<a href=\"/proprietary/malware-microsoft.html#main-heading\">Microsoft</a>"
+#~ msgid "<a href=\"#content\">Skip menu</a>"
+#~ msgstr "<a href=\"#content\">Pular menu</a>"

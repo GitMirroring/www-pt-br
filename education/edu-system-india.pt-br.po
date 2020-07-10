@@ -1,16 +1,16 @@
 # Brazilian Portuguese translation of https://www.gnu.org/education/edu-system-india.html
 # Copyright (C) 2018 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2018.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018, 2020.
 # André N Batista <nandre@riseup.net>, 2018.
 # May 2020: update to new layout; mark some strings TODO instead of
 # fuzzy (T. Godefroy).
 msgid ""
 msgstr ""
 "Project-Id-Version: edu-system-india.html\n"
-"POT-Creation-Date: 2020-05-28 14:02+0200\n"
-"PO-Revision-Date: 2018-12-13 07:23-0200\n"
-"Last-Translator: André N Batista <nandre@riseup.net>\n"
+"POT-Creation-Date: 2020-06-25 09:56+0000\n"
+"PO-Revision-Date: 2020-06-30 08:32-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -61,8 +61,10 @@ msgid "The Education System in India"
 msgstr "O sistema educacional na Índia"
 
 #. type: Content of: <div><p>
-msgid "by Dr. V. Sasi Kumar <a href=\"#sasi\">(1)</a>"
-msgstr "por Dr. V. Sasi Kumar <a href=\"#sasi\">(1)</a>"
+msgid ""
+"by Dr. V. Sasi Kumar <a href=\"#sasi\" id=\"sasi-rev\"><sup>[1]</sup></a>"
+msgstr ""
+"por Dr. V. Sasi Kumar <a href=\"#sasi\" id=\"sasi-rev\"><sup>[1]</sup></a>"
 
 #. type: Content of: <div><div><h3>
 msgid "In the Beginning"
@@ -716,15 +718,17 @@ msgstr ""
 msgid "Footnote"
 msgstr "Nota de rodapé"
 
-#. type: Content of: <div><div><ol><li>
+#. type: Content of: <div><div><p>
 msgid ""
-"<a href=\"http://swatantryam.blogspot.com/\">V. Sasi Kumar</a> is a doctor "
-"in physics and a member of the FSF India Board of Directors.  He advocates "
-"for Free Software and freedom of knowledge."
+"<a href=\"#sasi-rev\" id=\"sasi\">[1]</a> <a href=\"http://swatantryam."
+"blogspot.com/\">V. Sasi Kumar</a> is a doctor in physics and a member of the "
+"FSF India Board of Directors.  He advocates for Free Software and freedom of "
+"knowledge."
 msgstr ""
-"<a href=\"http://swatantryam.blogspot.com/\">V. Sasi Kumar</a> é um doutor "
-"em física e um membro do conselho de administração da FSF Índia. Ele defende "
-"o Software Livre e a liberdade do conhecimento."
+"<a href=\"#sasi-rev\" id=\"sasi\">[1]</a> <a href=\"http://swatantryam."
+"blogspot.com/\">V. Sasi Kumar</a> é um doutor em física e um membro do "
+"conselho de administração da FSF Índia. Ele defende o Software Livre e a "
+"liberdade do conhecimento."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div><div>

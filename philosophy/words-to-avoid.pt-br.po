@@ -9,7 +9,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: words-to-avoid.html\n"
-"POT-Creation-Date: 2020-01-07 13:25+0000\n"
+"POT-Creation-Date: 2020-07-07 11:55+0000\n"
 "PO-Revision-Date: 2020-03-08 17:46-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -1973,13 +1973,28 @@ msgid "&ldquo;PowerPoint&rdquo;"
 msgstr "“PowerPoint”"
 
 #. type: Content of: <p>
+# | Please avoid using the term &ldquo;PowerPoint&rdquo; to mean any kind of
+# | slide presentation.  &ldquo;PowerPoint&rdquo; is just the name of one
+# | particular proprietary program to make presentations.  For your freedom's
+# | sake, you should use only free software to make your
+# | presentations&mdash;which means, <em>not PowerPoint</em>.  Recommended
+# | options include [-TeX's <tt>beamer</tt>-] {+LaTeX's <code>beamer</code>+}
+# | class and [-LibreOffice.org's-] {+LibreOffice+} Impress.
+#, fuzzy
+#| msgid ""
+#| "Please avoid using the term &ldquo;PowerPoint&rdquo; to mean any kind of "
+#| "slide presentation.  &ldquo;PowerPoint&rdquo; is just the name of one "
+#| "particular proprietary program to make presentations.  For your freedom's "
+#| "sake, you should use only free software to make your presentations&mdash;"
+#| "which means, <em>not PowerPoint</em>.  Recommended options include TeX's "
+#| "<tt>beamer</tt> class and LibreOffice.org's Impress."
 msgid ""
 "Please avoid using the term &ldquo;PowerPoint&rdquo; to mean any kind of "
 "slide presentation.  &ldquo;PowerPoint&rdquo; is just the name of one "
 "particular proprietary program to make presentations.  For your freedom's "
 "sake, you should use only free software to make your presentations&mdash;"
-"which means, <em>not PowerPoint</em>.  Recommended options include TeX's "
-"<tt>beamer</tt> class and LibreOffice.org's Impress."
+"which means, <em>not PowerPoint</em>.  Recommended options include LaTeX's "
+"<code>beamer</code> class and LibreOffice Impress."
 msgstr ""
 "Por favor, evite uso o termo “PowerPoint” para indicar qualquer tipo de "
 "apresentação de slides. “PowerPoint” é apenas o nome de um programa "

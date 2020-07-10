@@ -8,7 +8,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: compromise.html\n"
-"POT-Creation-Date: 2019-04-11 12:56+0000\n"
+"POT-Creation-Date: 2020-07-01 15:25+0000\n"
 "PO-Revision-Date: 2019-04-13 14:21-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -130,15 +130,34 @@ msgstr ""
 "mesmo quando não concordamos totalmente com os grupos por trás delas."
 
 #. type: Content of: <p>
+# | But we reject certain compromises even though many others in our community
+# | are willing to make them.  For instance, we <a
+# | href=\"/distros/free-system-distribution-guidelines.html\"> endorse only
+# | the GNU/Linux distributions</a> that have policies not to include nonfree
+# | software or lead users to install it.  To endorse nonfree distributions
+# | would be a [-<acronym-] {+<abbr+} title=\"ruinous
+# | (r&#363;'&#601;-n&#601;s) adj. 1. Causing or apt to cause ruin;
+# | destructive.  2. Falling to ruin; dilapidated or
+# | [-decayed.\">ruinous</acronym>-] {+decayed.\">ruinous</abbr>+} compromise.
+#, fuzzy
+#| msgid ""
+#| "But we reject certain compromises even though many others in our "
+#| "community are willing to make them.  For instance, we <a href=\"/distros/"
+#| "free-system-distribution-guidelines.html\"> endorse only the GNU/Linux "
+#| "distributions</a> that have policies not to include nonfree software or "
+#| "lead users to install it.  To endorse nonfree distributions would be a "
+#| "<acronym title=\"ruinous (r&#363;'&#601;-n&#601;s) adj. 1. Causing or apt "
+#| "to cause ruin; destructive.  2. Falling to ruin; dilapidated or decayed."
+#| "\">ruinous</acronym> compromise."
 msgid ""
 "But we reject certain compromises even though many others in our community "
 "are willing to make them.  For instance, we <a href=\"/distros/free-system-"
 "distribution-guidelines.html\"> endorse only the GNU/Linux distributions</a> "
 "that have policies not to include nonfree software or lead users to install "
-"it.  To endorse nonfree distributions would be a <acronym title=\"ruinous "
+"it.  To endorse nonfree distributions would be a <abbr title=\"ruinous "
 "(r&#363;'&#601;-n&#601;s) adj. 1. Causing or apt to cause ruin; "
-"destructive.  2. Falling to ruin; dilapidated or decayed.\">ruinous</"
-"acronym> compromise."
+"destructive.  2. Falling to ruin; dilapidated or decayed.\">ruinous</abbr> "
+"compromise."
 msgstr ""
 "Mas nós rejeitamos certos compromissos, embora muitos outros em nossa "
 "comunidade estejam dispostos a aceitá-los. Por exemplo, nós <a href=\"/"
@@ -452,9 +471,15 @@ msgstr ""
 "envio de traduções das páginas deste site."
 
 #. type: Content of: <div><p>
+# | Copyright &copy; 2008, 2009, 2014, 2015, 2017, 2018, [-2019-] {+2019,
+# | 2020+} <a href=\"http://www.stallman.org/\">Richard Stallman</a>.
+#, fuzzy
+#| msgid ""
+#| "Copyright &copy; 2008, 2009, 2014, 2015, 2017, 2018, 2019 <a href="
+#| "\"http://www.stallman.org/\">Richard Stallman</a>."
 msgid ""
-"Copyright &copy; 2008, 2009, 2014, 2015, 2017, 2018, 2019 <a href=\"http://"
-"www.stallman.org/\">Richard Stallman</a>."
+"Copyright &copy; 2008, 2009, 2014, 2015, 2017, 2018, 2019, 2020 <a href="
+"\"http://www.stallman.org/\">Richard Stallman</a>."
 msgstr ""
 "Copyright &copy; 2008, 2009, 2014, 2015, 2017, 2018, 2019 <a href=\"http://"
 "www.stallman.org/\">Richard Stallman</a>."

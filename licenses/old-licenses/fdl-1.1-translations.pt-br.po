@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: fdl-1.1-translations.html\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-09 09:56+0000\n"
+"POT-Creation-Date: 2020-07-09 11:26+0000\n"
 "PO-Revision-Date: 2019-01-09 11:45-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -157,10 +157,19 @@ msgstr ""
 "correta."
 
 #. type: Content of: <p>
+# | To label your translations as unofficial, please add the following text at
+# | the beginning, both in English and in the language of the translation. 
+# | Replace [-<tt>language</tt>-] {+&ldquo;<var>language</var>&rdquo;+} with
+# | the name of that language:
+#, fuzzy
+#| msgid ""
+#| "To label your translations as unofficial, please add the following text "
+#| "at the beginning, both in English and in the language of the "
+#| "translation.  Replace <tt>language</tt> with the name of that language:"
 msgid ""
 "To label your translations as unofficial, please add the following text at "
 "the beginning, both in English and in the language of the translation.  "
-"Replace <tt>language</tt> with the name of that language:"
+"Replace &ldquo;<var>language</var>&rdquo; with the name of that language:"
 msgstr ""
 "Para rotular suas traduções como não oficiais, por favor adicione o seguinte "
 "texto no início, tanto em inglês como no idioma da tradução. Substitua "
@@ -174,12 +183,27 @@ msgstr ""
 #. you *must* put your translation within
 #. </p><p dir="rtl" style="text-align:right">......</p><p> 
 #. type: Content of: <blockquote><p>
+# | This is an unofficial translation of the GNU Free Documentation License
+# | into [-<tt>language</tt>.-] {+<var>language</var>.+}  It was not published
+# | by the Free Software Foundation, and does not legally state the
+# | distribution terms for documentation that uses the GNU FDL&mdash;only the
+# | original English text of the GNU FDL does that.  However, we hope that
+# | this translation will help [-<tt>language</tt>-] {+<var>language</var>+}
+# | speakers understand the GNU FDL better.
+#, fuzzy
+#| msgid ""
+#| "This is an unofficial translation of the GNU Free Documentation License "
+#| "into <tt>language</tt>.  It was not published by the Free Software "
+#| "Foundation, and does not legally state the distribution terms for "
+#| "documentation that uses the GNU FDL&mdash;only the original English text "
+#| "of the GNU FDL does that.  However, we hope that this translation will "
+#| "help <tt>language</tt> speakers understand the GNU FDL better."
 msgid ""
 "This is an unofficial translation of the GNU Free Documentation License into "
-"<tt>language</tt>.  It was not published by the Free Software Foundation, "
+"<var>language</var>.  It was not published by the Free Software Foundation, "
 "and does not legally state the distribution terms for documentation that "
 "uses the GNU FDL&mdash;only the original English text of the GNU FDL does "
-"that.  However, we hope that this translation will help <tt>language</tt> "
+"that.  However, we hope that this translation will help <var>language</var> "
 "speakers understand the GNU FDL better."
 msgstr ""
 "This is an unofficial translation of the GNU Free Documentation License into "
@@ -287,9 +311,16 @@ msgstr ""
 "envio de traduções das páginas deste site."
 
 #. type: Content of: <div><p>
+# | Copyright &copy; 1996, 1997, 1998, 1999, 2004, 2005, 2006, 2007, 2008,
+# | 2009, 2013, 2014, 2015, 2017, 2018, [-2019-] {+2019, 2020+} Free Software
+# | Foundation, Inc.
+#, fuzzy
+#| msgid ""
+#| "Copyright &copy; 1996, 1997, 1998, 1999, 2004, 2005, 2006, 2007, 2008, "
+#| "2009, 2013, 2014, 2015, 2017, 2018, 2019 Free Software Foundation, Inc."
 msgid ""
 "Copyright &copy; 1996, 1997, 1998, 1999, 2004, 2005, 2006, 2007, 2008, 2009, "
-"2013, 2014, 2015, 2017, 2018, 2019 Free Software Foundation, Inc."
+"2013, 2014, 2015, 2017, 2018, 2019, 2020 Free Software Foundation, Inc."
 msgstr ""
 "Copyright &copy; 1996, 1997, 1998, 1999, 2004, 2005, 2006, 2007, 2008, 2009, "
 "2013, 2014, 2015, 2017, 2018, 2019 Free Software Foundation, Inc."

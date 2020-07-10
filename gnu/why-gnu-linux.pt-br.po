@@ -12,7 +12,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: why-gnu-linux.html\n"
-"POT-Creation-Date: 2016-11-18 06:57+0000\n"
+"POT-Creation-Date: 2020-07-01 15:25+0000\n"
 "PO-Revision-Date: 2018-12-13 07:23-0200\n"
 "Last-Translator: André N Batista <nandre@riseup.net>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -172,29 +172,38 @@ msgstr ""
 "anunciam escandalosamente sistemas “Linux” que são licenciados "
 "individualmente, dando ao usuário tanta liberdade quanto o Microsoft Windows."
 
+#. type: Content of: <p>
 # | People try to justify adding nonfree software in the name of the
 # | &ldquo;popularity of Linux&rdquo;&mdash;in effect, valuing popularity
 # | above freedom.  Sometimes this is openly admitted.  For instance, Wired
 # | Magazine said that Robert McMillan, editor of Linux Magazine, &ldquo;feels
 # | that the move toward open source software should be fueled by technical,
-# | rather than political, decisions.&rdquo; And Caldera's <acronym
-# | title=\"Chief Executive Officer\">CEO</acronym> openly urged users to
-# | [-drop-] {+<a
-# | href=\"http://www.zdnet.com/article/stallman-love-is-not-free/\">drop+}
-# | the goal of freedom and work instead for the &ldquo;popularity of
-# | [-Linux&rdquo;.  <a
-# | href=\"http://www.zdnet.com/stallman-love-is-not-free-3002091004/\">
-# | (http://www.zdnet.com/stallman-love-is-not-free-3002091004/)  </a>-]
-# | {+Linux&rdquo;</a>.+}
-#. type: Content of: <p>
+# | rather than political, decisions.&rdquo; And Caldera's [-<acronym-]
+# | {+<abbr+} title=\"Chief Executive [-Officer\">CEO</acronym>-]
+# | {+Officer\">CEO</abbr>+} openly urged users to <a
+# | href=\"http://www.zdnet.com/article/stallman-love-is-not-free/\">drop the
+# | goal of freedom and work instead for the &ldquo;popularity of
+# | Linux&rdquo;</a>.
+#, fuzzy
+#| msgid ""
+#| "People try to justify adding nonfree software in the name of the &ldquo;"
+#| "popularity of Linux&rdquo;&mdash;in effect, valuing popularity above "
+#| "freedom.  Sometimes this is openly admitted.  For instance, Wired "
+#| "Magazine said that Robert McMillan, editor of Linux Magazine, &ldquo;"
+#| "feels that the move toward open source software should be fueled by "
+#| "technical, rather than political, decisions.&rdquo; And Caldera's "
+#| "<acronym title=\"Chief Executive Officer\">CEO</acronym> openly urged "
+#| "users to <a href=\"http://www.zdnet.com/article/stallman-love-is-not-free/"
+#| "\">drop the goal of freedom and work instead for the &ldquo;popularity of "
+#| "Linux&rdquo;</a>."
 msgid ""
 "People try to justify adding nonfree software in the name of the &ldquo;"
 "popularity of Linux&rdquo;&mdash;in effect, valuing popularity above "
 "freedom.  Sometimes this is openly admitted.  For instance, Wired Magazine "
 "said that Robert McMillan, editor of Linux Magazine, &ldquo;feels that the "
 "move toward open source software should be fueled by technical, rather than "
-"political, decisions.&rdquo; And Caldera's <acronym title=\"Chief Executive "
-"Officer\">CEO</acronym> openly urged users to <a href=\"http://www.zdnet.com/"
+"political, decisions.&rdquo; And Caldera's <abbr title=\"Chief Executive "
+"Officer\">CEO</abbr> openly urged users to <a href=\"http://www.zdnet.com/"
 "article/stallman-love-is-not-free/\">drop the goal of freedom and work "
 "instead for the &ldquo;popularity of Linux&rdquo;</a>."
 msgstr ""
@@ -267,15 +276,37 @@ msgstr ""
 "falhado."
 
 #. type: Content of: <p>
+# | If releasing free alternatives were simply a matter of programming,
+# | solving future problems might become easier as our community's development
+# | resources increase.  But we face obstacles that threaten to make this
+# | harder: laws that prohibit free software.  As software patents mount up,
+# | and as laws like the [-<acronym-] {+<abbr+} title=\"Digital Millennium
+# | Copyright [-Act\">DMCA</acronym>-] {+Act\">DMCA</abbr>+} are used to
+# | prohibit the development of free software for important jobs such as
+# | viewing a DVD or listening to a RealAudio stream, we will find ourselves
+# | with no clear way to fight the patented and secret data formats except to
+# | <strong>reject the nonfree programs that use them</strong>.
+#, fuzzy
+#| msgid ""
+#| "If releasing free alternatives were simply a matter of programming, "
+#| "solving future problems might become easier as our community's "
+#| "development resources increase.  But we face obstacles that threaten to "
+#| "make this harder: laws that prohibit free software.  As software patents "
+#| "mount up, and as laws like the <acronym title=\"Digital Millennium "
+#| "Copyright Act\">DMCA</acronym> are used to prohibit the development of "
+#| "free software for important jobs such as viewing a DVD or listening to a "
+#| "RealAudio stream, we will find ourselves with no clear way to fight the "
+#| "patented and secret data formats except to <strong>reject the nonfree "
+#| "programs that use them</strong>."
 msgid ""
 "If releasing free alternatives were simply a matter of programming, solving "
 "future problems might become easier as our community's development resources "
 "increase.  But we face obstacles that threaten to make this harder: laws "
 "that prohibit free software.  As software patents mount up, and as laws like "
-"the <acronym title=\"Digital Millennium Copyright Act\">DMCA</acronym> are "
-"used to prohibit the development of free software for important jobs such as "
-"viewing a DVD or listening to a RealAudio stream, we will find ourselves "
-"with no clear way to fight the patented and secret data formats except to "
+"the <abbr title=\"Digital Millennium Copyright Act\">DMCA</abbr> are used to "
+"prohibit the development of free software for important jobs such as viewing "
+"a DVD or listening to a RealAudio stream, we will find ourselves with no "
+"clear way to fight the patented and secret data formats except to "
 "<strong>reject the nonfree programs that use them</strong>."
 msgstr ""
 "Se a liberação de alternativas livres fosse apenas uma questão de "
@@ -447,10 +478,13 @@ msgstr ""
 "\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
 "envio de traduções das páginas deste site."
 
-# | Copyright &copy; 2000, 2006, 2007, [-2014-] {+2014, 2015, 2016+} Richard
-# | Stallman
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2000, 2006, 2007, 2014, 2015, 2016 Richard Stallman"
+# | Copyright &copy; 2000, 2006, 2007, 2014, 2015, [-2016-] {+2016, 2020+}
+# | Richard Stallman
+#, fuzzy
+#| msgid "Copyright &copy; 2000, 2006, 2007, 2014, 2015, 2016 Richard Stallman"
+msgid ""
+"Copyright &copy; 2000, 2006, 2007, 2014, 2015, 2016, 2020 Richard Stallman"
 msgstr "Copyright &copy; 2000, 2006, 2007, 2014, 2015, 2016 Richard Stallman"
 
 #. type: Content of: <div><p>

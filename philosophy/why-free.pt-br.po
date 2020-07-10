@@ -8,7 +8,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: why-free.html\n"
-"POT-Creation-Date: 2014-03-31 06:29+0000\n"
+"POT-Creation-Date: 2020-07-01 15:26+0000\n"
 "PO-Revision-Date: 2018-12-13 07:23-0200\n"
 "Last-Translator: André N Batista <nandre@riseup.net>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -122,12 +122,25 @@ msgstr ""
 "pessoas que elas precisam provar que são inocentes de cópia ilegal."
 
 #. type: Content of: <ul><li>
+# | Prosecution (by the US government, at the SPA's request) of people such as
+# | [-<acronym-] {+<abbr+} title=\"Massachusetts Institute of
+# | [-Technology\">MIT</acronym>'s-] {+Technology\">MIT</abbr>'s+} David
+# | LaMacchia, not for copying software (he is not accused of copying any),
+# | but merely for leaving copying facilities unguarded and failing to censor
+# | their use.<a href=\"#footnote1\">[1]</a>
+#, fuzzy
+#| msgid ""
+#| "Prosecution (by the US government, at the SPA's request) of people such "
+#| "as <acronym title=\"Massachusetts Institute of Technology\">MIT</"
+#| "acronym>'s David LaMacchia, not for copying software (he is not accused "
+#| "of copying any), but merely for leaving copying facilities unguarded and "
+#| "failing to censor their use.<a href=\"#footnote1\">[1]</a>"
 msgid ""
 "Prosecution (by the US government, at the SPA's request) of people such as "
-"<acronym title=\"Massachusetts Institute of Technology\">MIT</acronym>'s "
-"David LaMacchia, not for copying software (he is not accused of copying "
-"any), but merely for leaving copying facilities unguarded and failing to "
-"censor their use.<a href=\"#footnote1\">[1]</a>"
+"<abbr title=\"Massachusetts Institute of Technology\">MIT</abbr>'s David "
+"LaMacchia, not for copying software (he is not accused of copying any), but "
+"merely for leaving copying facilities unguarded and failing to censor their "
+"use.<a href=\"#footnote1\">[1]</a>"
 msgstr ""
 "Acusação (pelo governo dos EUA, a pedido da SPA) de pessoas como David "
 "LaMacchia, do <abbr title=\"Massachusetts Institute of Technology\">MIT</"
@@ -656,14 +669,27 @@ msgstr ""
 "envio de traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 1994, 2009 Richard Stallman"
+# | Copyright &copy; 1994, [-2009-] {+2009, 2020+} Richard Stallman
+#, fuzzy
+#| msgid "Copyright &copy; 1994, 2009 Richard Stallman"
+msgid "Copyright &copy; 1994, 2009, 2020 Richard Stallman"
 msgstr "Copyright &copy; 1994, 2009 Richard Stallman"
 
 #. type: Content of: <div><p>
+# | This page is licensed under a <a rel=\"license\"
+# | [-href=\"http://creativecommons.org/licenses/by-nd/3.0/us/\">Creative-]
+# | {+href=\"http://creativecommons.org/licenses/by-nd/4.0/\">Creative+}
+# | Commons [-Attribution-NoDerivs 3.0 United States-]
+# | {+Attribution-NoDerivatives 4.0 International+} License</a>.
+#, fuzzy
+#| msgid ""
+#| "This page is licensed under a <a rel=\"license\" href=\"http://"
+#| "creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+#| "NoDerivs 3.0 United States License</a>."
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
 "creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "

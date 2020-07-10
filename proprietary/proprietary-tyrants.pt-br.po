@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary-tyrants.html\n"
-"POT-Creation-Date: 2020-02-06 16:26+0000\n"
+"POT-Creation-Date: 2020-06-20 10:30+0200\n"
 "PO-Revision-Date: 2020-02-06 21:14-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -21,13 +21,37 @@ msgstr ""
 msgid "Proprietary Tyrants - GNU Project - Free Software Foundation"
 msgstr "Tiranos proprietários - Projeto GNU - Free Software Foundation"
 
+#. type: Content of: <div><a>
+msgid "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+msgstr "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+
+#. type: Attribute 'title' of: <div><a><img>
+msgid "Section contents"
+msgstr "Índice da Seção"
+
+#. type: Attribute 'alt' of: <div><a><img>
+msgid "&nbsp;[Section contents]&nbsp;"
+msgstr "&nbsp;[Índice da Seção]&nbsp;"
+
+#. type: Content of: <div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><p><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><p><a><img>
+msgid "GNU Home"
+msgstr "Página inicial do GNU"
+
 #. type: Content of: <div><p>
 msgid ""
-"<a href=\"/proprietary/proprietary.html\">Proprietary malware</a> &rarr; "
-"Tyrants"
+"</a>&nbsp;/ <a href=\"/proprietary/proprietary.html\">Malware</a>&nbsp;/ By "
+"type&nbsp;/"
 msgstr ""
-"<a href=\"/proprietary/proprietary.html\"><em>Malware</em> proprietário</a> "
-"&rarr; Tiranos"
+"</a>&nbsp;/ <a href=\"/proprietary/proprietary.html\"><em>Malware</em> "
+"proprietário</a>&nbsp;/ Por tipo&nbsp;/"
 
 #. type: Content of: <div><h2>
 msgid "Proprietary Tyrants"
@@ -53,7 +77,7 @@ msgstr ""
 msgid "This typically takes the form of malicious functionalities."
 msgstr "Isso geralmente assume a forma de funcionalidades maliciosas."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><div><div><p>
 msgid ""
 "A <em>tyrant</em> is a malicious device that refuses to allow users to "
 "install a different operating system or a modified operating system.  These "
@@ -67,7 +91,7 @@ msgstr ""
 "execução de qualquer coisa que não seja uma versão de sistema “aprovada”. "
 "Também nos referimos a essa prática como <em>tivoização</em>."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><div><div><p>
 msgid ""
 "If you know of an example that ought to be in this page but isn't here, "
 "please write to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
@@ -79,7 +103,7 @@ msgstr ""
 "webmasters@gnu.org&gt;</a> para nos informar. Por favor, inclua a URL ou "
 "duas de uma referência confiável para servir como comprovação específica."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Microsoft accidentally left a way for users to install GNU/Linux on Windows "
 "RT tablets, but now it has <a href=\"http://www.securitynewspaper."
@@ -97,7 +121,7 @@ msgstr ""
 "instalação do “Linux”, mas o contexto mostra que ele é realmente o <a href="
 "\"/gnu/linux-and-gnu.html\">GNU/Linux</a> que os usuários instalam."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Apple arbitrarily <a href=\"http://9to5mac.com/2014/12/01/ios-8-1-signing-"
 "window-closed/\">blocks users from installing old versions of iOS</a>."
@@ -106,7 +130,7 @@ msgstr ""
 "signing-window-closed/\">bloqueia usuários de instalar versões antigas do "
 "iOS</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "<a href=\"http://soylentnews.org/article.pl?sid=14/03/15/1912255\"> Intel "
 "processors will have tyrant software built in</a>."
@@ -114,7 +138,7 @@ msgstr ""
 "<a href=\"http://soylentnews.org/article.pl?sid=14/03/15/1912255\"> "
 "Processadores da Intel terão software tirano embutido</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Motorola, then owned by Google, made <a href=\"http://blog.azimuthsecurity."
 "com/2013/04/unlocking-motorola-bootloader.html\"> Android phones that are "
@@ -125,7 +149,7 @@ msgstr ""
 "Android que são tiranos</a> (embora alguém tenha encontrado uma maneira de "
 "quebrar a restrição)."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Samsung &ldquo;Smart&rdquo; TVs have <a href=\"https://wiki.samygo.tv/index."
 "php?title=SamyGO_for_DUMMIES#What_are_Restricted_Firmwares.3F\"> turned "
@@ -141,7 +165,7 @@ msgstr ""
 "2, <a href=\"/licenses/rms-why-gplv3.html\">não a versão 3</a>, juntamente "
 "com uma interpretação fraca da GPL versão 2."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Some LG TVs <a href=\"https://web.archive.org/web/20190917164647/http://"
 "openlgtv.org.ru/wiki/index.php/Achievements\"> are tyrants</a>."
@@ -149,7 +173,7 @@ msgstr ""
 "Algumas TVs da LG <a href=\"https://web.archive.org/web/20190917164647/"
 "http://openlgtv.org.ru/wiki/index.php/Achievements\"> são tiranas</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The Apple iThings are tyrant devices.  There is a port of Android to the "
 "iThings, but installing it requires <a href=\"https://web.archive.org/"
@@ -163,7 +187,7 @@ msgstr ""
 "erro ou <i lang=\"en\">“exploit”</i></a> para possibilitar a instalação de "
 "um sistema diferente."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "<a href=\"https://fsf.org/campaigns/secure-boot-vs-restricted-boot/\"> "
 "Mobile devices that come with Windows 8 are tyrants</a>."
@@ -171,7 +195,7 @@ msgstr ""
 "<a href=\"https://fsf.org/campaigns/secure-boot-vs-restricted-boot/\"> "
 "Dispositivos móveis que vêm com o Windows 8 são tiranos</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "<a href=\"https://www.defectivebydesign.org/sony\">The Playstation 3 is a "
 "tyrant</a>."
@@ -180,7 +204,7 @@ msgstr ""
 "tirano</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
-#. type: Content of: <div>
+#. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr " "
 
@@ -205,14 +229,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
@@ -220,16 +244,12 @@ msgstr ""
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas deste site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid ""
-"Copyright &copy; 2014, 2015, 2016, 2017, 2018, 2019, 2020 Free Software "
-"Foundation, Inc."
-msgstr ""
-"Copyright &copy; 2014, 2015, 2016, 2017, 2018, 2019, 2020 Free Software "
-"Foundation, Inc."
+msgid "Copyright &copy; 2014-2020 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2014-2020 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

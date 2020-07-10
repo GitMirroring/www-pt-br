@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: index.html\n"
-"POT-Creation-Date: 2020-02-17 03:55+0000\n"
+"POT-Creation-Date: 2020-07-09 08:25+0000\n"
 "PO-Revision-Date: 2020-02-18 07:08-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -218,10 +218,20 @@ msgstr ""
 "aqui em /prep está agora obsoleto.)</small>"
 
 #. type: Content of: <p>
+# | By the way, the [-<tt>prep</tt>-] {+<code>prep</code>+} directory name
+# | here refers to [-<tt>prep.ai.mit.edu</tt>,-]
+# | {+<code>prep.ai.mit.edu</code>,+} one of the first hosts used by GNU for
+# | distributing GNU software, and project information like the above, over
+# | the Internet.
+#, fuzzy
+#| msgid ""
+#| "By the way, the <tt>prep</tt> directory name here refers to <tt>prep.ai."
+#| "mit.edu</tt>, one of the first hosts used by GNU for distributing GNU "
+#| "software, and project information like the above, over the Internet."
 msgid ""
-"By the way, the <tt>prep</tt> directory name here refers to <tt>prep.ai.mit."
-"edu</tt>, one of the first hosts used by GNU for distributing GNU software, "
-"and project information like the above, over the Internet."
+"By the way, the <code>prep</code> directory name here refers to <code>prep."
+"ai.mit.edu</code>, one of the first hosts used by GNU for distributing GNU "
+"software, and project information like the above, over the Internet."
 msgstr ""
 "A propósito, o nome do diretório <tt>prep</tt> aqui se refere a <tt>prep.ai."
 "mit.edu</tt>, um dos primeiros hosts usados pelo GNU para distribuir "

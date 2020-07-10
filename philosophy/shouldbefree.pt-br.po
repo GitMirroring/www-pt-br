@@ -9,7 +9,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: shouldbefree.html\n"
-"POT-Creation-Date: 2018-01-01 05:59+0000\n"
+"POT-Creation-Date: 2020-07-01 15:25+0000\n"
 "PO-Revision-Date: 2018-12-13 07:23-0200\n"
 "Last-Translator: André N Batista <nandre@riseup.net>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -1016,12 +1016,28 @@ msgid "It Does Not Matter How Sharing Is Restricted"
 msgstr "Não Importa Como o Compartilhamento Seja Restringido"
 
 #. type: Content of: <p>
+# | I have been discussing the effects of preventing people from copying,
+# | changing, and building on a program.  I have not specified how this
+# | obstruction is carried out, because that doesn't affect the conclusion. 
+# | Whether it is done by copy protection, or copyright, or licenses, or
+# | encryption, or [-<acronym-] {+<abbr+} title=\"Read-only
+# | [-Memory\">ROM</acronym>-] {+Memory\">ROM</abbr>+} cards, or hardware
+# | serial numbers, if it <em>succeeds</em> in preventing use, it does harm.
+#, fuzzy
+#| msgid ""
+#| "I have been discussing the effects of preventing people from copying, "
+#| "changing, and building on a program.  I have not specified how this "
+#| "obstruction is carried out, because that doesn't affect the conclusion.  "
+#| "Whether it is done by copy protection, or copyright, or licenses, or "
+#| "encryption, or <acronym title=\"Read-only Memory\">ROM</acronym> cards, "
+#| "or hardware serial numbers, if it <em>succeeds</em> in preventing use, it "
+#| "does harm."
 msgid ""
 "I have been discussing the effects of preventing people from copying, "
 "changing, and building on a program.  I have not specified how this "
 "obstruction is carried out, because that doesn't affect the conclusion.  "
 "Whether it is done by copy protection, or copyright, or licenses, or "
-"encryption, or <acronym title=\"Read-only Memory\">ROM</acronym> cards, or "
+"encryption, or <abbr title=\"Read-only Memory\">ROM</abbr> cards, or "
 "hardware serial numbers, if it <em>succeeds</em> in preventing use, it does "
 "harm."
 msgstr ""
@@ -1896,9 +1912,15 @@ msgstr ""
 "envio de traduções das páginas deste site."
 
 #. type: Content of: <div><p>
+# | Copyright &copy; 1991, 1992, 1998, 2000, 2001, 2006, 2007, 2010, 2017,
+# | [-2018-] {+2018, 2020+} Free Software Foundation, Inc.
+#, fuzzy
+#| msgid ""
+#| "Copyright &copy; 1991, 1992, 1998, 2000, 2001, 2006, 2007, 2010, 2017, "
+#| "2018 Free Software Foundation, Inc."
 msgid ""
-"Copyright &copy; 1991, 1992, 1998, 2000, 2001, 2006, 2007, 2010, 2017, 2018 "
-"Free Software Foundation, Inc."
+"Copyright &copy; 1991, 1992, 1998, 2000, 2001, 2006, 2007, 2010, 2017, 2018, "
+"2020 Free Software Foundation, Inc."
 msgstr ""
 "Copyright &copy; 1991, 1992, 1998, 2000, 2001, 2006, 2007, 2010, 2017, 2018 "
 "Free Software Foundation, Inc."

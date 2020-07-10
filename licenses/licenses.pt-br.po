@@ -9,7 +9,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: licenses.html\n"
-"POT-Creation-Date: 2018-04-19 02:56+0000\n"
+"POT-Creation-Date: 2020-07-09 11:25+0000\n"
 "PO-Revision-Date: 2018-07-18 08:24-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -496,12 +496,27 @@ msgid "License URLs"
 msgstr "URLs das licenças"
 
 #. type: Content of: <p>
+# | When linking to our licenses, it's usually best to link to the latest
+# | version; hence the standard URLs such as
+# | [-<tt>http://www.gnu.org/licenses/gpl.html</tt>-]
+# | {+<code>http://www.gnu.org/licenses/gpl.html</code>+} have no version
+# | number.  Occasionally, however, you may want to link to a specific version
+# | of a given license.  In those situations, you can use the following links
+# | [<a href=\"#urlskip\">skip links</a>]:
+#, fuzzy
+#| msgid ""
+#| "When linking to our licenses, it's usually best to link to the latest "
+#| "version; hence the standard URLs such as <tt>http://www.gnu.org/licenses/"
+#| "gpl.html</tt> have no version number.  Occasionally, however, you may "
+#| "want to link to a specific version of a given license.  In those "
+#| "situations, you can use the following links [<a href=\"#urlskip\">skip "
+#| "links</a>]:"
 msgid ""
 "When linking to our licenses, it's usually best to link to the latest "
-"version; hence the standard URLs such as <tt>http://www.gnu.org/licenses/gpl."
-"html</tt> have no version number.  Occasionally, however, you may want to "
-"link to a specific version of a given license.  In those situations, you can "
-"use the following links [<a href=\"#urlskip\">skip links</a>]:"
+"version; hence the standard URLs such as <code>http://www.gnu.org/licenses/"
+"gpl.html</code> have no version number.  Occasionally, however, you may want "
+"to link to a specific version of a given license.  In those situations, you "
+"can use the following links [<a href=\"#urlskip\">skip links</a>]:"
 msgstr ""
 "Quando ligamos para nossas licenças, usualmente é melhor ligar para a última "
 "versão; consequentemente as URLs padrões como <tt>http://www.gnu.org/"
@@ -697,8 +712,17 @@ msgid "What Is Copyleft?"
 msgstr "O que é copyleft?"
 
 #. type: Content of: <p>
+# | <a [-href=\"/copyleft/copyleft.html\"><em>Copyleft</em></a>-]
+# | {+href=\"/licenses/copyleft.html\"><em>Copyleft</em></a>+} is a general
+# | method for making a program free software and requiring all modified and
+# | extended versions of the program to be free software as well.
+#, fuzzy
+#| msgid ""
+#| "<a href=\"/copyleft/copyleft.html\"><em>Copyleft</em></a> is a general "
+#| "method for making a program free software and requiring all modified and "
+#| "extended versions of the program to be free software as well."
 msgid ""
-"<a href=\"/copyleft/copyleft.html\"><em>Copyleft</em></a> is a general "
+"<a href=\"/licenses/copyleft.html\"><em>Copyleft</em></a> is a general "
 "method for making a program free software and requiring all modified and "
 "extended versions of the program to be free software as well."
 msgstr ""
@@ -966,7 +990,13 @@ msgstr ""
 "envio de traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2014, 2015, 2016, 2018 Free Software Foundation, Inc."
+# | Copyright &copy; 2014, 2015, 2016, [-2018-] {+2018, 2020+} Free Software
+# | Foundation, Inc.
+#, fuzzy
+#| msgid ""
+#| "Copyright &copy; 2014, 2015, 2016, 2018 Free Software Foundation, Inc."
+msgid ""
+"Copyright &copy; 2014, 2015, 2016, 2018, 2020 Free Software Foundation, Inc."
 msgstr "Copyright &copy; 2014, 2015, 2016, 2018 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>

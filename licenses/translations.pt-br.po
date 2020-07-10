@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: translations.html\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-04-11 13:25+0000\n"
+"POT-Creation-Date: 2020-07-09 11:25+0000\n"
 "PO-Revision-Date: 2020-04-11 11:14-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -164,12 +164,26 @@ msgstr ""
 "correta."
 
 #. type: Content of: <p>
+# | To label your translations as unofficial, please add the following text at
+# | the beginning, both in English and in the language of the translation. 
+# | Replace [-<tt>language</tt>-] {+&ldquo;<var>language</var>&rdquo;+} with
+# | the name of that language, and &ldquo;GNU General Public License&rdquo;
+# | and &ldquo;GPL&rdquo; with the name and abbreviation of the license you're
+# | translating, if it's not the GPL:
+#, fuzzy
+#| msgid ""
+#| "To label your translations as unofficial, please add the following text "
+#| "at the beginning, both in English and in the language of the "
+#| "translation.  Replace <tt>language</tt> with the name of that language, "
+#| "and &ldquo;GNU General Public License&rdquo; and &ldquo;GPL&rdquo; with "
+#| "the name and abbreviation of the license you're translating, if it's not "
+#| "the GPL:"
 msgid ""
 "To label your translations as unofficial, please add the following text at "
 "the beginning, both in English and in the language of the translation.  "
-"Replace <tt>language</tt> with the name of that language, and &ldquo;GNU "
-"General Public License&rdquo; and &ldquo;GPL&rdquo; with the name and "
-"abbreviation of the license you're translating, if it's not the GPL:"
+"Replace &ldquo;<var>language</var>&rdquo; with the name of that language, "
+"and &ldquo;GNU General Public License&rdquo; and &ldquo;GPL&rdquo; with the "
+"name and abbreviation of the license you're translating, if it's not the GPL:"
 msgstr ""
 "Para rotular suas traduções como não oficiais, adicione o seguinte texto no "
 "início, tanto em inglês como no idioma da tradução. Substitua <tt>language</"
@@ -185,13 +199,28 @@ msgstr ""
 #. you *must* put your translation within
 #. </p><p dir="rtl" style="text-align:right">......</p><p> 
 #. type: Content of: <blockquote><p>
+# | This is an unofficial translation of the GNU General Public License into
+# | [-<tt>language</tt>.-] {+<var>language</var>.+}  It was not published by
+# | the Free Software Foundation, and does not legally state the distribution
+# | terms for software that uses the GNU GPL&mdash;only the original English
+# | text of the GNU GPL does that.  However, we hope that this translation
+# | will help [-<tt>language</tt>-] {+<var>language</var>+} speakers
+# | understand the GNU GPL better.
+#, fuzzy
+#| msgid ""
+#| "This is an unofficial translation of the GNU General Public License into "
+#| "<tt>language</tt>.  It was not published by the Free Software Foundation, "
+#| "and does not legally state the distribution terms for software that uses "
+#| "the GNU GPL&mdash;only the original English text of the GNU GPL does "
+#| "that.  However, we hope that this translation will help <tt>language</tt> "
+#| "speakers understand the GNU GPL better."
 msgid ""
 "This is an unofficial translation of the GNU General Public License into "
-"<tt>language</tt>.  It was not published by the Free Software Foundation, "
+"<var>language</var>.  It was not published by the Free Software Foundation, "
 "and does not legally state the distribution terms for software that uses the "
 "GNU GPL&mdash;only the original English text of the GNU GPL does that.  "
-"However, we hope that this translation will help <tt>language</tt> speakers "
-"understand the GNU GPL better."
+"However, we hope that this translation will help <var>language</var> "
+"speakers understand the GNU GPL better."
 msgstr ""
 "This is an unofficial translation of the GNU General Public License into "
 "<tt>language</tt>.  It was not published by the Free Software Foundation, "
@@ -280,14 +309,6 @@ msgstr ""
 "eu_def/adjuntos/gnu-gpl-v3.eu.pdf\"> PDF</a>, <a href=\"//www.euskadi.eus/"
 "contenidos/informacion/software_lizentziak_2018/eu_def/adjuntos/gnu-gpl-v3."
 "eu.odt\"> ODT</a>)"
-
-#. type: Content of: <ul><li>
-msgid ""
-"<code>[fr]</code> <a href=\"http://dachary.org/loic/gpl-french.pdf\"> "
-"French</a> translation of the GPL (PDF)"
-msgstr ""
-"<code>[fr]</code> tradução para <a href=\"http://dachary.org/loic/gpl-french."
-"pdf\">francês</a> da GPL (PDF)"
 
 #.  RT #1316961 
 #. type: Content of: <ul><li>
@@ -759,6 +780,13 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid ""
+#~ "<code>[fr]</code> <a href=\"http://dachary.org/loic/gpl-french.pdf\"> "
+#~ "French</a> translation of the GPL (PDF)"
+#~ msgstr ""
+#~ "<code>[fr]</code> tradução para <a href=\"http://dachary.org/loic/gpl-"
+#~ "french.pdf\">francês</a> da GPL (PDF)"
 
 #~ msgid ""
 #~ "<code>[da]</code> Danish translation of the GPL - <a href=\"http://"

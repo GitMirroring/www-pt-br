@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: contact.html\n"
-"POT-Creation-Date: 2018-04-13 14:26+0000\n"
+"POT-Creation-Date: 2020-07-08 16:56+0000\n"
 "PO-Revision-Date: 2018-04-13 13:11-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -92,10 +92,22 @@ msgstr ""
 "ajuda com softwares GNU</a>."
 
 #. type: Content of: <ul><li>
+# | The home page for each GNU package is
+# | [-<tt>http://www.gnu.org/software/<i>pkgname</i></tt>;-]
+# | {+<code>http://www.gnu.org/software/<var>pkgname</var></code>;+} for
+# | example, <a
+# | [-href=\"/software/emacs/\"><tt>http://www.gnu.org/software/emacs</tt></a>-]
+# | {+href=\"/software/emacs/\"><code>http://www.gnu.org/software/emacs</code></a>+}
+# | for GNU Emacs.
+#, fuzzy
+#| msgid ""
+#| "The home page for each GNU package is <tt>http://www.gnu.org/software/"
+#| "<i>pkgname</i></tt>; for example, <a href=\"/software/emacs/\"><tt>http://"
+#| "www.gnu.org/software/emacs</tt></a> for GNU Emacs."
 msgid ""
-"The home page for each GNU package is <tt>http://www.gnu.org/software/"
-"<i>pkgname</i></tt>; for example, <a href=\"/software/emacs/\"><tt>http://"
-"www.gnu.org/software/emacs</tt></a> for GNU Emacs."
+"The home page for each GNU package is <code>http://www.gnu.org/software/"
+"<var>pkgname</var></code>; for example, <a href=\"/software/emacs/"
+"\"><code>http://www.gnu.org/software/emacs</code></a> for GNU Emacs."
 msgstr ""
 "A página inicial para cada pacote GNU é <tt>http://www.gnu.org/software/"
 "<i>nome-pacote</i></tt>; por exemplo, <a href=\"/software/emacs/"
@@ -155,8 +167,8 @@ msgid ""
 "For pages of specific GNU packages, <a href=\"/help/gethelp.html\">contact "
 "the particular package maintainer(s).</a>"
 msgstr ""
-"Para páginas de pacotes específicos, <a href=\"/help/gethelp.html\">contate o"
-"(s) mantenedor(es) específicos daqueles pacotes</a>."
+"Para páginas de pacotes específicos, <a href=\"/help/gethelp.html\">contate "
+"o(s) mantenedor(es) específicos daqueles pacotes</a>."
 
 #. type: Content of: <h3>
 msgid "For memberships, donations, t-shirts, books, GNU toys, &hellip;"
@@ -406,7 +418,11 @@ msgstr ""
 "envio de traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2014, 2018 Free Software Foundation, Inc."
+# | Copyright &copy; 2014, [-2018-] {+2018, 2020+} Free Software Foundation,
+# | Inc.
+#, fuzzy
+#| msgid "Copyright &copy; 2014, 2018 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2014, 2018, 2020 Free Software Foundation, Inc."
 msgstr "Copyright &copy; 2014, 2018 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>

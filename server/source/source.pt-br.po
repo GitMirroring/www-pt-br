@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: source.html\n"
-"POT-Creation-Date: 2019-08-16 22:25+0000\n"
+"POT-Creation-Date: 2020-07-08 16:56+0000\n"
 "PO-Revision-Date: 2019-08-24 14:41-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -229,11 +229,25 @@ msgstr ""
 "incluídas nos arquivos “.symlinks”."
 
 #. type: Content of: <p>
+# | This script is no longer used on the live web site.  Instead, the
+# | [-<tt>.symlinks</tt>-] {+<code>.symlinks</code>+} files are transformed
+# | into RewriteRule directives.  More information about
+# | [-<tt>.symlinks</tt>-] {+<code>.symlinks</code>+} files can be found in
+# | the <a
+# | href=\"/server/standards/README.webmastering.html#symlinks\">Symbolic
+# | Links</a> section of the GNU Webmaster Guidelines.
+#, fuzzy
+#| msgid ""
+#| "This script is no longer used on the live web site.  Instead, the <tt>."
+#| "symlinks</tt> files are transformed into RewriteRule directives.  More "
+#| "information about <tt>.symlinks</tt> files can be found in the <a href=\"/"
+#| "server/standards/README.webmastering.html#symlinks\">Symbolic Links</a> "
+#| "section of the GNU Webmaster Guidelines."
 msgid ""
-"This script is no longer used on the live web site.  Instead, the <tt>."
-"symlinks</tt> files are transformed into RewriteRule directives.  More "
-"information about <tt>.symlinks</tt> files can be found in the <a href=\"/"
-"server/standards/README.webmastering.html#symlinks\">Symbolic Links</a> "
+"This script is no longer used on the live web site.  Instead, the <code>."
+"symlinks</code> files are transformed into RewriteRule directives.  More "
+"information about <code>.symlinks</code> files can be found in the <a href="
+"\"/server/standards/README.webmastering.html#symlinks\">Symbolic Links</a> "
 "section of the GNU Webmaster Guidelines."
 msgstr ""
 "Este script não é mais usado no site atual. Em vez disso, os arquivos <tt>."
@@ -328,7 +342,13 @@ msgstr ""
 "envio de traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2014, 2015, 2017, 2019 Free Software Foundation, Inc."
+# | Copyright &copy; 2014, 2015, 2017, [-2019-] {+2019, 2020+} Free Software
+# | Foundation, Inc.
+#, fuzzy
+#| msgid ""
+#| "Copyright &copy; 2014, 2015, 2017, 2019 Free Software Foundation, Inc."
+msgid ""
+"Copyright &copy; 2014, 2015, 2017, 2019, 2020 Free Software Foundation, Inc."
 msgstr "Copyright &copy; 2014, 2015, 2017, 2019 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>

@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: planetfeeds.html\n"
-"POT-Creation-Date: 2020-05-30 19:26+0000\n"
+"POT-Creation-Date: 2020-07-09 04:56+0000\n"
 "PO-Revision-Date: 2020-05-31 11:42-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -17,50 +17,94 @@ msgstr ""
 "X-Generator: Virtaal 1.0.0-beta1\n"
 
 #. type: Content of: <p>
-msgid "May GNU Spotlight with Mike Gerwitz: 12 new releases!"
-msgstr "Holofote GNU de maio com Mike Gerwitz: 12 novos lançamentos!"
+msgid "Aktualizace: 2020-07-07"
+msgstr ""
 
 #.  TRANSLATORS: 
-#. http://www.fsf.org/blogs/community/may-gnu-spotlight-with-mike-gerwitz-12-new-releases 
+#. http://savannah.gnu.org/forum/forum.php?forum_id=9772 
 #. type: Content of: <p>
 msgid ""
-": * bison-3.6.2 * denemo-2.4.0 * emms-5.4 * freeipmi-1.6.5 * gcc-10.1.0 * "
-"gdb-9.2 * gnuastro-0.12 * gnuhealth-3.6.4 * mediagoblin-0.10.0 *..."
+": Ahoj, aktualizoval jsem několik českých překladů: * https://www.gnu.org/"
+"gnu/about-gnu.html * https://www.gnu.org/gnu/gnu-history.html * https://www."
+"gnu.org/philosophy..."
 msgstr ""
-": * bison-3.6.2 * denemo-2.4.0 * emms-5.4 * freeipmi-1.6.5 * gcc-10.1.0 * "
-"gdb-9.2 * gnuastro-0.12 * gnuhealth-3.6.4 * mediagoblin-0.10.0 *..."
 
 #. type: Content of: <p>
-msgid ""
-"Don’t miss your chance to win fabulous prizes: Get your friends to join the "
-"FSF!"
+msgid "GNUnet 0.13.0"
 msgstr ""
-"Não perca sua chance de ganhar prêmios fabulosos: Faça seus amigos se "
-"juntarem à FSF!"
 
 #.  TRANSLATORS: 
-#. http://www.fsf.org/blogs/community/don2019t-miss-your-chance-to-win-fabulous-prizes-get-your-friends-to-join-the-fsf 
+#. https://gnunet.org/en/news/2020-07-0.13.0.html 
 #. type: Content of: <p>
+# | : [-2019-10-30:-] GNUnet [-0.11.8-] {+0.13.0+} released We are pleased to
+# | announce the release of GNUnet [-0.11.8.-] {+0.13.0.+} This is a [-hotfix
+# | release for 0.11.7. <i>As always:</i> In terms of usabilit...-] {+new
+# | major release. It breaks protocol compatibility with the 0.12.x versions.
+# | Please b...+}
+#, fuzzy
+#| msgid ""
+#| ": 2019-10-30: GNUnet 0.11.8 released We are pleased to announce the "
+#| "release of GNUnet 0.11.8. This is a hotfix release for 0.11.7. <i>As "
+#| "always:</i> In terms of usabilit..."
 msgid ""
-": As you may already know, every associate member is incredibly valuable to "
-"the Free Software Foundation (FSF)..."
+": GNUnet 0.13.0 released We are pleased to announce the release of GNUnet "
+"0.13.0. This is a new major release. It breaks protocol compatibility with "
+"the 0.12.x versions. Please b..."
 msgstr ""
-": Como você já deve saber, todo membro associado é incrivelmente valioso "
-"para a Free Software Foundation (FSF)..."
+": 2019-10-30: GNUnet 0.11.8 lançado Temos o prazer de anunciar o lançamento "
+"do GNUnet 0.11.8. Esse é um lançamento de correção de erros para 0.11.7. "
+"<i>Como sempre:</i> em..."
 
 #. type: Content of: <p>
-msgid "GNU Parallel 20200522 (&#39;Kraftwerk&#39;) released"
-msgstr "GNU Parallel 20200522 (&#39;Kraftwerk&#39;) lançado"
+# | GNU Health [-GTK CLient 3.6.8 released-] {+Control Center 3.6.5 supports
+# | Weblate+}
+#, fuzzy
+#| msgid "GNU Health GTK CLient 3.6.8 released"
+msgid "GNU Health Control Center 3.6.5 supports Weblate"
+msgstr "GNU Health GTK CLient 3.6.8 lançado"
 
 #.  TRANSLATORS: 
-#. http://savannah.gnu.org/forum/forum.php?forum_id=9748 
+#. http://savannah.gnu.org/forum/forum.php?forum_id=9768 
 #. type: Content of: <p>
 msgid ""
-": GNU Parallel 20200522 (&#39;Kraftwerk&#39;) has been released. It is "
-"available for download at: http://ftpmirror.gnu.org/parallel/ Quote..."
+": Dear community As you may know, GNU Health HMIS has migrated its "
+"translation server to Weblate. (see news https://savannah.gnu.org/forum/"
+"foru..."
 msgstr ""
-": GNU Parallel 20200522 (&#39;Kraftwerk&#39;) foi lançado. Está disponível "
-"para download em: http://ftpmirror.gnu.org/parallel/ ..."
+
+#~ msgid "May GNU Spotlight with Mike Gerwitz: 12 new releases!"
+#~ msgstr "Holofote GNU de maio com Mike Gerwitz: 12 novos lançamentos!"
+
+#~ msgid ""
+#~ ": * bison-3.6.2 * denemo-2.4.0 * emms-5.4 * freeipmi-1.6.5 * gcc-10.1.0 * "
+#~ "gdb-9.2 * gnuastro-0.12 * gnuhealth-3.6.4 * mediagoblin-0.10.0 *..."
+#~ msgstr ""
+#~ ": * bison-3.6.2 * denemo-2.4.0 * emms-5.4 * freeipmi-1.6.5 * gcc-10.1.0 * "
+#~ "gdb-9.2 * gnuastro-0.12 * gnuhealth-3.6.4 * mediagoblin-0.10.0 *..."
+
+#~ msgid ""
+#~ "Don’t miss your chance to win fabulous prizes: Get your friends to join "
+#~ "the FSF!"
+#~ msgstr ""
+#~ "Não perca sua chance de ganhar prêmios fabulosos: Faça seus amigos se "
+#~ "juntarem à FSF!"
+
+#~ msgid ""
+#~ ": As you may already know, every associate member is incredibly valuable "
+#~ "to the Free Software Foundation (FSF)..."
+#~ msgstr ""
+#~ ": Como você já deve saber, todo membro associado é incrivelmente valioso "
+#~ "para a Free Software Foundation (FSF)..."
+
+#~ msgid "GNU Parallel 20200522 (&#39;Kraftwerk&#39;) released"
+#~ msgstr "GNU Parallel 20200522 (&#39;Kraftwerk&#39;) lançado"
+
+#~ msgid ""
+#~ ": GNU Parallel 20200522 (&#39;Kraftwerk&#39;) has been released. It is "
+#~ "available for download at: http://ftpmirror.gnu.org/parallel/ Quote..."
+#~ msgstr ""
+#~ ": GNU Parallel 20200522 (&#39;Kraftwerk&#39;) foi lançado. Está "
+#~ "disponível para download em: http://ftpmirror.gnu.org/parallel/ ..."
 
 #~ msgid ""
 #~ "Remote education does not require giving up rights to freedom and privacy"
@@ -389,9 +433,6 @@ msgstr ""
 #~ ": As pessoas sabem que cada pacote GNU tem um ou mais mantenedores "
 #~ "nomeados pelo Projeto GNU. As pessoas não sabem principalmente sobre os "
 #~ "comitês..."
-
-#~ msgid "GNU Health GTK CLient 3.6.8 released"
-#~ msgstr "GNU Health GTK CLient 3.6.8 lançado"
 
 #~ msgid ""
 #~ ": Dear all The GH GTK client 3.6.8 fixes several bugs, specially related "
@@ -934,15 +975,6 @@ msgstr ""
 #~ msgstr ""
 #~ ": O período de nomeação para o prêmio anual da Free Software Foundation "
 #~ "(FSF) está chegando ao fim em Novembro..."
-
-#~ msgid ""
-#~ ": 2019-10-30: GNUnet 0.11.8 released We are pleased to announce the "
-#~ "release of GNUnet 0.11.8. This is a hotfix release for 0.11.7. <i>As "
-#~ "always:</i> In terms of usabilit..."
-#~ msgstr ""
-#~ ": 2019-10-30: GNUnet 0.11.8 lançado Temos o prazer de anunciar o "
-#~ "lançamento do GNUnet 0.11.8. Esse é um lançamento de correção de erros "
-#~ "para 0.11.7. <i>Como sempre:</i> em..."
 
 #~ msgid "IDAD 2019: Thank you for defending the right to read!"
 #~ msgstr "IDAD 2019: Obrigado por defender o direito de ler!"
@@ -2920,8 +2952,8 @@ msgstr ""
 #~ "* Renamed SORTENTST..."
 #~ msgstr ""
 #~ ": Veja as  https://www.gnu.org/software/libredwg/ Mudanças com quebra de "
-#~ "API: * Removido dwg_obj_proxy_get_reactors(), use dwg_obj_get_reactors"
-#~ "()..."
+#~ "API: * Removido dwg_obj_proxy_get_reactors(), use "
+#~ "dwg_obj_get_reactors()..."
 
 #~ msgid "Stop Supreme Court nominee Kavanaugh to protect free software!"
 #~ msgstr ""

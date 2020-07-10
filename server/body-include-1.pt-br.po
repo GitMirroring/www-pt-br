@@ -10,7 +10,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: body-include-1.html\n"
-"POT-Creation-Date: 2020-04-26 06:25+0000\n"
+"POT-Creation-Date: 2020-06-18 12:55+0000\n"
 "PO-Revision-Date: 2020-04-30 08:36-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -34,7 +34,7 @@ msgstr ""
 "<a href=\"https://www.fsf.org/associate/support_freedom?"
 "referrer=4052\">JUNTE-SE&nbsp;À&nbsp;FSF!</a>"
 
-#. type: Content of: <div><form><fieldset>
+#. type: Content of: <div><form><div>
 msgid ""
 "<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden\" "
 "name=\"group[25]\" value=\"1\" /> <input name=\"cancelURL\" type=\"hidden\" "
@@ -46,11 +46,11 @@ msgstr ""
 "value=\"https://crm.fsf.org/civicrm/profile?reset=1&amp;gid=31\" /> <input "
 "name=\"_qf_default\" type=\"hidden\" value=\"Edit:cancel\" />"
 
-#. type: Content of: <div><form><fieldset><label>
+#. type: Content of: <div><form><div><label>
 msgid "<a href=\"//www.fsf.org/fss\">Free Software Supporter</a>:"
 msgstr "<a href=\"//www.fsf.org/fss\">Suporte ao Software Livre</a>:"
 
-#. type: Content of: <div><form><fieldset><div>
+#. type: Content of: <div><form><div>
 msgid ""
 "<input type=\"text\" id=\"frmEmail\" name=\"email-Primary\" size=\"18\" "
 "maxlength=\"80\" value=\"email address\" onfocus=\"this.value=''\"/> <input "

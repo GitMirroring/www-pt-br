@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: linking-gnu.html\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-05 00:01+0000\n"
+"POT-Creation-Date: 2020-07-06 13:55+0000\n"
 "PO-Revision-Date: 2018-05-30 13:14-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -75,9 +75,16 @@ msgstr ""
 "para fazer links para nossas páginas</span>."
 
 #. type: Content of: <p>
+# | To create a link to our home page, you can use the following XHTML code,
+# | replacing the graphics [-<tt>src</tt>-] {+<code>src</code>+} with whatever
+# | art you choose:
+#, fuzzy
+#| msgid ""
+#| "To create a link to our home page, you can use the following XHTML code, "
+#| "replacing the graphics <tt>src</tt> with whatever art you choose:"
 msgid ""
 "To create a link to our home page, you can use the following XHTML code, "
-"replacing the graphics <tt>src</tt> with whatever art you choose:"
+"replacing the graphics <code>src</code> with whatever art you choose:"
 msgstr ""
 "Para criar um link para nossa página inicial, você pode usar o seguinte "
 "código XHTML, substituindo os gráficos <tt>src </tt> com qualquer arte que "
@@ -170,18 +177,35 @@ msgstr ""
 "envio de traduções das páginas deste site."
 
 #. type: Content of: <div><p>
+# | Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004,
+# | 2005, 2006, 2007, 2009, 2013, [-2014-] {+2014, 2020+} Free Software
+# | Foundation, Inc.
+#, fuzzy
+#| msgid ""
+#| "Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, "
+#| "2005, 2006, 2007, 2009, 2013, 2014 Free Software Foundation, Inc."
 msgid ""
 "Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, "
-"2006, 2007, 2009, 2013, 2014 Free Software Foundation, Inc."
+"2006, 2007, 2009, 2013, 2014, 2020 Free Software Foundation, Inc."
 msgstr ""
 "Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, "
 "2006, 2007, 2009, 2013, 2014 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
+# | This page is licensed under a <a rel=\"license\"
+# | [-href=\"http://creativecommons.org/licenses/by-nd/3.0/us/\">Creative-]
+# | {+href=\"http://creativecommons.org/licenses/by-nd/4.0/\">Creative+}
+# | Commons [-Attribution-NoDerivs 3.0 United States-]
+# | {+Attribution-NoDerivatives 4.0 International+} License</a>.
+#, fuzzy
+#| msgid ""
+#| "This page is licensed under a <a rel=\"license\" href=\"http://"
+#| "creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+#| "NoDerivs 3.0 United States License</a>."
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
 "creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "

@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ftp.html\n"
-"POT-Creation-Date: 2020-04-26 16:25+0000\n"
+"POT-Creation-Date: 2020-07-09 16:55+0000\n"
 "PO-Revision-Date: 2020-04-30 08:34-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -831,6 +831,38 @@ msgid "China"
 msgstr "China"
 
 #. type: Content of: <ul><li><ul><li>
+# | <a rel=\"nofollow\"
+# | [-href=\"https://mirrors.sarata.com/gnu/\">https://mirrors.sarata.com/gnu/</a>-]
+# | {+href=\"https://mirrors.aliyun.com/gnu/\">https://mirrors.aliyun.com/gnu/<
+# | /a>+}
+#, fuzzy
+#| msgid ""
+#| "<a rel=\"nofollow\" href=\"https://mirrors.sarata.com/gnu/\">https://"
+#| "mirrors.sarata.com/gnu/</a>"
+msgid ""
+"<a rel=\"nofollow\" href=\"https://mirrors.aliyun.com/gnu/\">https://mirrors."
+"aliyun.com/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://mirrors.sarata.com/gnu/\">https://mirrors."
+"sarata.com/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+# | <a rel=\"nofollow\"
+# | [-href=\"http://mirrors.mivocloud.com/gnu/\">http://mirrors.mivocloud.com/gnu/</a>-]
+# | {+href=\"http://mirrors.aliyun.com/gnu/\">http://mirrors.aliyun.com/gnu/</a
+# | >+}
+#, fuzzy
+#| msgid ""
+#| "<a rel=\"nofollow\" href=\"http://mirrors.mivocloud.com/gnu/\">http://"
+#| "mirrors.mivocloud.com/gnu/</a>"
+msgid ""
+"<a rel=\"nofollow\" href=\"http://mirrors.aliyun.com/gnu/\">http://mirrors."
+"aliyun.com/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://mirrors.mivocloud.com/gnu/\">http://"
+"mirrors.mivocloud.com/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
 msgid ""
 "<a rel=\"nofollow\" href=\"https://mirrors.ustc.edu.cn/gnu/\">https://"
 "mirrors.ustc.edu.cn/gnu/</a>"
@@ -890,6 +922,38 @@ msgstr ""
 msgid ""
 "<a rel=\"nofollow\" href=\"http://mirrors.nju.edu.cn/gnu/\">http://mirrors."
 "nju.edu.cn/gnu/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://mirrors.nju.edu.cn/gnu/\">http://mirrors."
+"nju.edu.cn/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+# | {+(alpha)+}  <a rel=\"nofollow\"
+# | [-href=\"https://mirrors.nju.edu.cn/gnu/\">https://mirrors.nju.edu.cn/gnu/</a>-]
+# | {+href=\"https://mirrors.nju.edu.cn/gnu-alpha/\">https://mirrors.nju.edu.cn
+# | /gnu-alpha/</a>+}
+#, fuzzy
+#| msgid ""
+#| "<a rel=\"nofollow\" href=\"https://mirrors.nju.edu.cn/gnu/\">https://"
+#| "mirrors.nju.edu.cn/gnu/</a>"
+msgid ""
+"(alpha)  <a rel=\"nofollow\" href=\"https://mirrors.nju.edu.cn/gnu-alpha/"
+"\">https://mirrors.nju.edu.cn/gnu-alpha/</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://mirrors.nju.edu.cn/gnu/\">https://mirrors."
+"nju.edu.cn/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+# | {+(alpha)+}  <a rel=\"nofollow\"
+# | [-href=\"http://mirrors.nju.edu.cn/gnu/\">http://mirrors.nju.edu.cn/gnu/</a>-]
+# | {+href=\"http://mirrors.nju.edu.cn/gnu-alpha/\">http://mirrors.nju.edu.cn/g
+# | nu-alpha/</a>+}
+#, fuzzy
+#| msgid ""
+#| "<a rel=\"nofollow\" href=\"http://mirrors.nju.edu.cn/gnu/\">http://"
+#| "mirrors.nju.edu.cn/gnu/</a>"
+msgid ""
+"(alpha)  <a rel=\"nofollow\" href=\"http://mirrors.nju.edu.cn/gnu-alpha/"
+"\">http://mirrors.nju.edu.cn/gnu-alpha/</a>"
 msgstr ""
 "<a rel=\"nofollow\" href=\"http://mirrors.nju.edu.cn/gnu/\">http://mirrors."
 "nju.edu.cn/gnu/</a>"
@@ -1041,26 +1105,6 @@ msgid ""
 msgstr ""
 "<a rel=\"nofollow\" href=\"http://ftp.twaren.net/Unix/GNU/gnu/\">http://ftp."
 "twaren.net/Unix/GNU/gnu/</a>"
-
-#. type: Content of: <ul><li><ul><li>
-msgid ""
-"<a rel=\"nofollow\" href=\"https://ftp.cse.yzu.edu.tw/gnu/\">https://ftp.cse."
-"yzu.edu.tw/gnu/</a>"
-msgstr ""
-"<a rel=\"nofollow\" href=\"https://ftp.cse.yzu.edu.tw/gnu/\">https://ftp.cse."
-"yzu.edu.tw/gnu/</a>"
-
-#. type: Content of: <ul><li><ul><li>
-msgid ""
-"<a rel=\"nofollow\" href=\"http://ftp.cse.yzu.edu.tw/gnu/\">http://ftp.cse."
-"yzu.edu.tw/gnu/</a>"
-msgstr ""
-"<a rel=\"nofollow\" href=\"http://ftp.cse.yzu.edu.tw/gnu/\">http://ftp.cse."
-"yzu.edu.tw/gnu/</a>"
-
-#. type: Content of: <ul><li><ul><li>
-msgid "rsync://ftp.cse.yzu.edu.tw/pub/gnu/"
-msgstr "rsync://ftp.cse.yzu.edu.tw/pub/gnu/"
 
 #. type: Content of: <ul><li>
 msgid "Thailand"
@@ -2119,26 +2163,6 @@ msgid "rsync://mirror.sbb.rs/gnu/"
 msgstr "rsync://mirror.sbb.rs/gnu/"
 
 #. type: Content of: <ul><li>
-msgid "Slovenia"
-msgstr "Eslovênia"
-
-#. type: Content of: <ul><li><ul><li>
-msgid ""
-"<a rel=\"nofollow\" href=\"http://mirror.lihnidos.org/GNU/ftp/gnu/\">http://"
-"mirror.lihnidos.org/GNU/ftp/gnu/</a>"
-msgstr ""
-"<a rel=\"nofollow\" href=\"http://mirror.lihnidos.org/GNU/ftp/gnu/\">http://"
-"mirror.lihnidos.org/GNU/ftp/gnu/</a>"
-
-#. type: Content of: <ul><li><ul><li>
-msgid ""
-"(alpha)  <a rel=\"nofollow\" href=\"http://mirror.lihnidos.org/GNU/alpha/gnu/"
-"\">http://mirror.lihnidos.org/GNU/alpha/gnu/</a>"
-msgstr ""
-"(alpha)  <a rel=\"nofollow\" href=\"http://mirror.lihnidos.org/GNU/alpha/gnu/"
-"\">http://mirror.lihnidos.org/GNU/alpha/gnu/</a>"
-
-#. type: Content of: <ul><li>
 msgid "Spain"
 msgstr "Espanha"
 
@@ -2225,6 +2249,46 @@ msgstr ""
 #. type: Content of: <ul><li>
 msgid "UK"
 msgstr "Reino Unido"
+
+#. type: Content of: <ul><li><ul><li>
+# | <a rel=\"nofollow\"
+# | [-href=\"https://mirrors.ustc.edu.cn/gnu/\">https://mirrors.ustc.edu.cn/gnu/</a>-]
+# | {+href=\"https://mirrors.gethosted.online/gnu\">https://mirrors.gethosted.o
+# | nline/gnu</a>+}
+#, fuzzy
+#| msgid ""
+#| "<a rel=\"nofollow\" href=\"https://mirrors.ustc.edu.cn/gnu/\">https://"
+#| "mirrors.ustc.edu.cn/gnu/</a>"
+msgid ""
+"<a rel=\"nofollow\" href=\"https://mirrors.gethosted.online/gnu\">https://"
+"mirrors.gethosted.online/gnu</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://mirrors.ustc.edu.cn/gnu/\">https://"
+"mirrors.ustc.edu.cn/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+# | <a rel=\"nofollow\"
+# | [-href=\"http://mirrors.ustc.edu.cn/gnu/\">http://mirrors.ustc.edu.cn/gnu/</a>-]
+# | {+href=\"http://mirrors.gethosted.online/gnu\">http://mirrors.gethosted.onl
+# | ine/gnu</a>+}
+#, fuzzy
+#| msgid ""
+#| "<a rel=\"nofollow\" href=\"http://mirrors.ustc.edu.cn/gnu/\">http://"
+#| "mirrors.ustc.edu.cn/gnu/</a>"
+msgid ""
+"<a rel=\"nofollow\" href=\"http://mirrors.gethosted.online/gnu\">http://"
+"mirrors.gethosted.online/gnu</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://mirrors.ustc.edu.cn/gnu/\">http://mirrors."
+"ustc.edu.cn/gnu/</a>"
+
+#. type: Content of: <ul><li><ul><li>
+# | [-rsync://mirrors.ustc.edu.cn/gnu/-]{+rsync://mirrors.gethosted.online/gnu+
+# | }
+#, fuzzy
+#| msgid "rsync://mirrors.ustc.edu.cn/gnu/"
+msgid "rsync://mirrors.gethosted.online/gnu"
+msgstr "rsync://mirrors.ustc.edu.cn/gnu/"
 
 #. type: Content of: <ul><li><ul><li>
 msgid ""
@@ -2426,6 +2490,40 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid ""
+#~ "<a rel=\"nofollow\" href=\"https://ftp.cse.yzu.edu.tw/gnu/\">https://ftp."
+#~ "cse.yzu.edu.tw/gnu/</a>"
+#~ msgstr ""
+#~ "<a rel=\"nofollow\" href=\"https://ftp.cse.yzu.edu.tw/gnu/\">https://ftp."
+#~ "cse.yzu.edu.tw/gnu/</a>"
+
+#~ msgid ""
+#~ "<a rel=\"nofollow\" href=\"http://ftp.cse.yzu.edu.tw/gnu/\">http://ftp."
+#~ "cse.yzu.edu.tw/gnu/</a>"
+#~ msgstr ""
+#~ "<a rel=\"nofollow\" href=\"http://ftp.cse.yzu.edu.tw/gnu/\">http://ftp."
+#~ "cse.yzu.edu.tw/gnu/</a>"
+
+#~ msgid "rsync://ftp.cse.yzu.edu.tw/pub/gnu/"
+#~ msgstr "rsync://ftp.cse.yzu.edu.tw/pub/gnu/"
+
+#~ msgid "Slovenia"
+#~ msgstr "Eslovênia"
+
+#~ msgid ""
+#~ "<a rel=\"nofollow\" href=\"http://mirror.lihnidos.org/GNU/ftp/gnu/"
+#~ "\">http://mirror.lihnidos.org/GNU/ftp/gnu/</a>"
+#~ msgstr ""
+#~ "<a rel=\"nofollow\" href=\"http://mirror.lihnidos.org/GNU/ftp/gnu/"
+#~ "\">http://mirror.lihnidos.org/GNU/ftp/gnu/</a>"
+
+#~ msgid ""
+#~ "(alpha)  <a rel=\"nofollow\" href=\"http://mirror.lihnidos.org/GNU/alpha/"
+#~ "gnu/\">http://mirror.lihnidos.org/GNU/alpha/gnu/</a>"
+#~ msgstr ""
+#~ "(alpha)  <a rel=\"nofollow\" href=\"http://mirror.lihnidos.org/GNU/alpha/"
+#~ "gnu/\">http://mirror.lihnidos.org/GNU/alpha/gnu/</a>"
 
 #~ msgid ""
 #~ "<a rel=\"nofollow\" href=\"ftp://gnuftp.uib.no/pub/gnuftp/\">ftp://gnuftp."

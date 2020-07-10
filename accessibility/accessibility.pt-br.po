@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: accessibility.html\n"
-"POT-Creation-Date: 2020-02-01 15:26+0000\n"
+"POT-Creation-Date: 2020-07-01 15:25+0000\n"
 "PO-Revision-Date: 2020-02-03 20:28-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -101,13 +101,32 @@ msgstr ""
 "profissionais ou escolares."
 
 #. type: Content of: <p>
+# | Proprietary file formats that require proprietary reading programs are
+# | poison to both accessibility and to the freedoms that we as free software
+# | activists hope to establish.  The biggest offender is Flash format; it
+# | usually requires proprietary software that doesn't cooperate with
+# | accessibility.  Microsoft Silverlight is similar.  [-<acronym-]  {+<abbr+}
+# | title=\"Portable Document [-Format\">PDF</acronym>-]
+# | {+Format\">PDF</abbr>+} is also difficult; though there is free software
+# | to view it, it does not support free access technology software. 
+# | Improving this is an important project.
+#, fuzzy
+#| msgid ""
+#| "Proprietary file formats that require proprietary reading programs are "
+#| "poison to both accessibility and to the freedoms that we as free software "
+#| "activists hope to establish.  The biggest offender is Flash format; it "
+#| "usually requires proprietary software that doesn't cooperate with "
+#| "accessibility.  Microsoft Silverlight is similar.  <acronym title="
+#| "\"Portable Document Format\">PDF</acronym> is also difficult; though "
+#| "there is free software to view it, it does not support free access "
+#| "technology software.  Improving this is an important project."
 msgid ""
 "Proprietary file formats that require proprietary reading programs are "
 "poison to both accessibility and to the freedoms that we as free software "
 "activists hope to establish.  The biggest offender is Flash format; it "
 "usually requires proprietary software that doesn't cooperate with "
-"accessibility.  Microsoft Silverlight is similar.  <acronym title=\"Portable "
-"Document Format\">PDF</acronym> is also difficult; though there is free "
+"accessibility.  Microsoft Silverlight is similar.  <abbr title=\"Portable "
+"Document Format\">PDF</abbr> is also difficult; though there is free "
 "software to view it, it does not support free access technology software.  "
 "Improving this is an important project."
 msgstr ""
@@ -203,10 +222,19 @@ msgid "Recommendations"
 msgstr "Recomendações"
 
 #. type: Content of: <ul><li>
+# | Application software developers should learn how to use the accessibility
+# | features of the [-<acronym-] {+<abbr+} title=\"Integrated Development
+# | [-Environment\">IDE</acronym>-] {+Environment\">IDE</abbr>+} or toolkit
+# | they employ to build their user interface.
+#, fuzzy
+#| msgid ""
+#| "Application software developers should learn how to use the accessibility "
+#| "features of the <acronym title=\"Integrated Development Environment"
+#| "\">IDE</acronym> or toolkit they employ to build their user interface."
 msgid ""
 "Application software developers should learn how to use the accessibility "
-"features of the <acronym title=\"Integrated Development Environment\">IDE</"
-"acronym> or toolkit they employ to build their user interface."
+"features of the <abbr title=\"Integrated Development Environment\">IDE</"
+"abbr> or toolkit they employ to build their user interface."
 msgstr ""
 "Desenvolvedores de aplicativo de software devem aprender como usar os "
 "recursos de acessibilidade do <abbr title=\"Ambiente Integrado de "
@@ -214,17 +242,42 @@ msgstr ""
 "construir sua interface de usuário."
 
 #. type: Content of: <ul><li>
+# | Programmers who need to implement access technology, or work on a desktop
+# | or OS-level accessibility problem, will need to understand the appropriate
+# | accessibility [-<acronym-] {+<abbr+} title=\"Application Programming
+# | [-Interface\">API</acronym>,-] {+Interface\">API</abbr>,+} and should
+# | choose the one that is compatible with free OS/desktops.  These include
+# | the <a
+# | href=\"http://library.gnome.org/devel/accessibility-devel-guide/stable/index.html.en\">GNOME
+# | accessibility API</a> (GNU/Linux platforms only), the <a
+# | href=\"http://docs.oracle.com/javase/7/docs/technotes/guides/access/jaapi.html\">Java
+# | accessibility API</a> (GNU/Linux and Windows) and <a
+# | href=\"https://wiki.linuxfoundation.org/accessibility/iaccessible2/start\">iAccessible2</a>
+# | (GNU/Linux and Windows).
+#, fuzzy
+#| msgid ""
+#| "Programmers who need to implement access technology, or work on a desktop "
+#| "or OS-level accessibility problem, will need to understand the "
+#| "appropriate accessibility <acronym title=\"Application Programming "
+#| "Interface\">API</acronym>, and should choose the one that is compatible "
+#| "with free OS/desktops.  These include the <a href=\"http://library.gnome."
+#| "org/devel/accessibility-devel-guide/stable/index.html.en\">GNOME "
+#| "accessibility API</a> (GNU/Linux platforms only), the <a href=\"http://"
+#| "docs.oracle.com/javase/7/docs/technotes/guides/access/jaapi.html\">Java "
+#| "accessibility API</a> (GNU/Linux and Windows) and <a href=\"https://wiki."
+#| "linuxfoundation.org/accessibility/iaccessible2/start\">iAccessible2</a> "
+#| "(GNU/Linux and Windows)."
 msgid ""
 "Programmers who need to implement access technology, or work on a desktop or "
 "OS-level accessibility problem, will need to understand the appropriate "
-"accessibility <acronym title=\"Application Programming Interface\">API</"
-"acronym>, and should choose the one that is compatible with free OS/"
-"desktops.  These include the <a href=\"http://library.gnome.org/devel/"
-"accessibility-devel-guide/stable/index.html.en\">GNOME accessibility API</a> "
-"(GNU/Linux platforms only), the <a href=\"http://docs.oracle.com/javase/7/"
-"docs/technotes/guides/access/jaapi.html\">Java accessibility API</a> (GNU/"
-"Linux and Windows) and <a href=\"https://wiki.linuxfoundation.org/"
-"accessibility/iaccessible2/start\">iAccessible2</a> (GNU/Linux and Windows)."
+"accessibility <abbr title=\"Application Programming Interface\">API</abbr>, "
+"and should choose the one that is compatible with free OS/desktops.  These "
+"include the <a href=\"http://library.gnome.org/devel/accessibility-devel-"
+"guide/stable/index.html.en\">GNOME accessibility API</a> (GNU/Linux "
+"platforms only), the <a href=\"http://docs.oracle.com/javase/7/docs/"
+"technotes/guides/access/jaapi.html\">Java accessibility API</a> (GNU/Linux "
+"and Windows) and <a href=\"https://wiki.linuxfoundation.org/accessibility/"
+"iaccessible2/start\">iAccessible2</a> (GNU/Linux and Windows)."
 msgstr ""
 "Os programadores que precisam implementar tecnologia de acesso ou trabalhar "
 "em um problema de acessibilidade no computador ou em nível de sistema "

@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: home.html\n"
-"POT-Creation-Date: 2020-04-26 06:25+0000\n"
-"PO-Revision-Date: 2020-02-26 13:44-0300\n"
+"POT-Creation-Date: 2020-06-18 18:25+0000\n"
+"PO-Revision-Date: 2020-06-04 11:09-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -92,7 +92,7 @@ msgstr "<a href=\"/distros/free-distros.html\">Teste o GNU/Linux</a>"
 msgid "<a href=\"/distros/screenshots/dragora-ice.png\">"
 msgstr "<a href=\"/distros/screenshots/dragora-ice.png\">"
 
-#. type: Attribute 'alt' of: <div><div><table><tr><td><a><img>
+#. type: Attribute 'alt' of: <div><div><div><div><a><img>
 msgid ""
 "&nbsp;[Screenshot of Dragora&nbsp;3.0-beta1 with IceWM window manager]&nbsp;"
 msgstr ""
@@ -117,7 +117,7 @@ msgstr ""
 msgid "<a href=\"/distros/screenshots/guixSD-gnome3.jpg\">"
 msgstr "<a href=\"/distros/screenshots/guixSD-gnome3.jpg\">"
 
-#. type: Attribute 'alt' of: <div><div><table><tr><td><a><img>
+#. type: Attribute 'alt' of: <div><div><div><div><a><img>
 msgid "&nbsp;[Screenshot of Guix&nbsp;0.15 with GNOME&nbsp;3 desktop]&nbsp;"
 msgstr ""
 "&nbsp;[Captura de tela do Guix&nbsp;0.15 com GNOME&nbsp;3 desktop]&nbsp;"
@@ -164,16 +164,16 @@ msgstr "&nbsp;[Captura de tela de Parabola com LXDE desktop]&nbsp;"
 #. type: Content of: <div><div><div><p>
 msgid ""
 "<small><a href=\"https://www.parabola.nu\">Parabola&nbsp;2020</a> with <a "
-"href=\"https://lxde.org/\">LXDE desktop</a></small>"
+"href=\"http://lxde.sourceforge.net/about.html\">LXDE desktop</a></small>"
 msgstr ""
 "<small><a href=\"https://www.parabola.nu\">Parabola&nbsp;2020</a> com <a "
-"href=\"https://lxde.org/\">LXDE desktop</a></small>"
+"href=\"http://lxde.sourceforge.net/about.html\">LXDE desktop</a></small>"
 
 #. type: Content of: <div><div><div><div><a>
 msgid "<a href=\"/distros/screenshots/pureos8-gnome3.jpg\">"
 msgstr "<a href=\"/distros/screenshots/pureos8-gnome3.jpg\">"
 
-#. type: Attribute 'alt' of: <div><div><table><tr><td><a><img>
+#. type: Attribute 'alt' of: <div><div><div><div><a><img>
 msgid "&nbsp;[Screenshot of PureOS&nbsp;8 with GNOME&nbsp;3 desktop]&nbsp;"
 msgstr ""
 "&nbsp;[Captura de tela do PureOS&nbsp;8 com GNOME&nbsp;3 desktop]&nbsp;"
@@ -192,7 +192,7 @@ msgstr ""
 msgid "<a href=\"/distros/screenshots/trisquel8-mate.jpg\">"
 msgstr "<a href=\"/distros/screenshots/trisquel8-mate.jpg\">"
 
-#. type: Attribute 'alt' of: <div><div><table><tr><td><a><img>
+#. type: Attribute 'alt' of: <div><div><div><div><a><img>
 msgid "&nbsp;[Screenshot of Trisquel&nbsp;8 with MATE desktop]&nbsp;"
 msgstr "&nbsp;[Captura de tela de Trisquel&nbsp;8 com o MATE desktop]&nbsp;"
 
@@ -206,61 +206,61 @@ msgstr ""
 "\"https://mate-desktop.org/\">MATE</a> desktop, Abrowser (navegador web) e "
 "Inkscape (editor de gráficos vetoriais)</small>"
 
-#. type: Content of: <div><div><table><tr><td><a>
+#. type: Content of: <div><div><div><div><a>
 msgid "<a href=\"/home.html?distro=dragora#gnu-linux\">"
 msgstr "<a href=\"/home.html?distro=dragora#gnu-linux\">"
 
-#. type: Content of: <div><div><table><tr><td><a>
+#. type: Content of: <div><div><div><div>
+msgid "<small>Dragora / IceWM</small>"
+msgstr "<small>Dragora / IceWM</small>"
+
+#. type: Content of: <div><div><div><div><a>
 msgid "<a href=\"/home.html?distro=guix#gnu-linux\">"
 msgstr "<a href=\"/home.html?distro=guix#gnu-linux\">"
 
-#. type: Content of: <div><div><table><tr><td><a>
+#. type: Content of: <div><div><div><div>
+msgid "<small>Guix / GNOME3</small>"
+msgstr "<small>Guix / GNOME3</small>"
+
+#. type: Content of: <div><div><div><div><a>
 msgid "<a href=\"/home.html?distro=hyperbola#gnu-linux\">"
 msgstr "<a href=\"/home.html?distro=hyperbola#gnu-linux\">"
 
-#. type: Attribute 'alt' of: <div><div><table><tr><td><a><img>
+#. type: Attribute 'alt' of: <div><div><div><div><a><img>
 msgid "&nbsp;[Screenshot of Hyperbola&nbsp;0.3 with i3 window manager]&nbsp;"
 msgstr ""
 "&nbsp;[Captura de tela de Hyberbola&nbsp;0.3 com o gerenciador de janela i3]"
 "&nbsp;"
 
-#. type: Content of: <div><div><table><tr><td><a>
-msgid "<a href=\"/home.html?distro=parabola#gnu-linux\">"
-msgstr "<a href=\"/home.html?distro=parabola#gnu-linux\">"
-
-#. type: Attribute 'alt' of: <div><div><table><tr><td><a><img>
-msgid "&nbsp;[Screenshot of Parabola&nbsp;2020 with LXDE desktop]&nbsp;"
-msgstr "&nbsp;[Captura de tela de Parabola&nbsp;2020 com LXDE desktop]&nbsp;"
-
-#. type: Content of: <div><div><table><tr><td><a>
-msgid "<a href=\"/home.html?distro=pureos#gnu-linux\">"
-msgstr "<a href=\"/home.html?distro=pureos#gnu-linux\">"
-
-#. type: Content of: <div><div><table><tr><td><a>
-msgid "<a href=\"/home.html?distro=trisquel#gnu-linux\">"
-msgstr "<a href=\"/home.html?distro=trisquel#gnu-linux\">"
-
-#. type: Content of: <div><div><table><tr><td>
-msgid "<small>Dragora / IceWM</small>"
-msgstr "<small>Dragora / IceWM</small>"
-
-#. type: Content of: <div><div><table><tr><td>
-msgid "<small>Guix / GNOME3</small>"
-msgstr "<small>Guix / GNOME3</small>"
-
-#. type: Content of: <div><div><table><tr><td>
+#. type: Content of: <div><div><div><div>
 msgid "<small>Hyperbola / i3</small>"
 msgstr "<small>Hyperbola / i3</small>"
 
-#. type: Content of: <div><div><table><tr><td>
+#. type: Content of: <div><div><div><div><a>
+msgid "<a href=\"/home.html?distro=parabola#gnu-linux\">"
+msgstr "<a href=\"/home.html?distro=parabola#gnu-linux\">"
+
+#. type: Attribute 'alt' of: <div><div><div><div><a><img>
+msgid "&nbsp;[Screenshot of Parabola&nbsp;2020 with LXDE desktop]&nbsp;"
+msgstr "&nbsp;[Captura de tela de Parabola&nbsp;2020 com LXDE desktop]&nbsp;"
+
+#. type: Content of: <div><div><div><div>
 msgid "<small>Parabola / LXDE</small>"
 msgstr "<small>Parabola / LXDE</small>"
 
-#. type: Content of: <div><div><table><tr><td>
+#. type: Content of: <div><div><div><div><a>
+msgid "<a href=\"/home.html?distro=pureos#gnu-linux\">"
+msgstr "<a href=\"/home.html?distro=pureos#gnu-linux\">"
+
+#. type: Content of: <div><div><div><div>
 msgid "<small>PureOS / GNOME3</small>"
 msgstr "<small>PureOS / GNOME3</small>"
 
-#. type: Content of: <div><div><table><tr><td>
+#. type: Content of: <div><div><div><div><a>
+msgid "<a href=\"/home.html?distro=trisquel#gnu-linux\">"
+msgstr "<a href=\"/home.html?distro=trisquel#gnu-linux\">"
+
+#. type: Content of: <div><div><div><div>
 msgid "<small>Trisquel / MATE</small>"
 msgstr "<small>Trisquel / MATE</small>"
 

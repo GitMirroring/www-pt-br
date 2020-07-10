@@ -1,14 +1,14 @@
 # Brazilian Portuguese translation of https://www.gnu.org/education/education-menu.html
-# Copyright (C) 2019 Free Software Foundation, Inc.
+# Copyright (C) 2020 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Thérèse Godefroy <godef.th AT free.fr>, 2016. (Copied from educationl.pt-br.po)
-# Rafael Fontenelle <rafaelff@gnome.org>, 2018, 2019.
 # May 2020: update to new layout (T. Godefroy).
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018-2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: education-menu.html\n"
-"POT-Creation-Date: 2020-05-27 09:23+0200\n"
-"PO-Revision-Date: 2019-05-02 06:54-0200\n"
+"POT-Creation-Date: 2020-06-06 11:57+0000\n"
+"PO-Revision-Date: 2020-06-06 18:06-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -102,6 +102,22 @@ msgstr ""
 "aprendizagem livres</a>"
 
 #. type: Content of: <div><div><dl><dd><ul><dt><dd><dt>
+msgid ""
+"<a href=\"/education/resisting-proprietary-software.html#content"
+"\">Resistance</a>"
+msgstr ""
+"<a href=\"/education/resisting-proprietary-software.html#content"
+"\">Resistência</a>"
+
+#. type: Content of: <div><div><dl><dd><ul><dt><dd><dd><ul><li>
+msgid ""
+"<a href=\"/education/successful-resistance-against-nonfree-software."
+"html#content\">Successful resistance</a>"
+msgstr ""
+"<a href=\"/education/successful-resistance-against-nonfree-software."
+"html#content\">Resistência bem-sucedida</a>"
+
+#. type: Content of: <div><div><dl><dd><ul><dt><dd><dt>
 msgid "<a href=\"/education/edu-faq.html#content\">FAQ</a>"
 msgstr "<a href=\"/education/edu-faq.html#content\">Perguntas frequentes</a>"
 
@@ -139,7 +155,7 @@ msgstr ""
 
 #. type: Content of: <div><div><dl><dd><ul><dt><dd><dt>
 msgid ""
-"<a href=\"/education/misc/misc.html#content\">Miscellaneous materials</a>"
+"<a href=\"/education/misc/edu-misc.html#content\">Miscellaneous materials</a>"
 msgstr ""
 "<a href=\"/education/misc/edu-misc.html#content\">Materiais diversos</a>"
 

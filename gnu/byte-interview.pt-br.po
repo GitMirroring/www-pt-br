@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: byte-interview.html\n"
-"POT-Creation-Date: 2014-04-04 23:59+0000\n"
+"POT-Creation-Date: 2020-07-01 15:25+0000\n"
 "PO-Revision-Date: 2018-12-13 07:23-0200\n"
 "Last-Translator: André N Batista <nandre@riseup.net>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -140,23 +140,59 @@ msgid "<strong>BYTE</strong>: What about the kernel?"
 msgstr "<strong>BYTE</strong>: E sobre o kernel?"
 
 #. type: Content of: <p>
+# | <strong>Stallman</strong>: I'm currently planning to start with the kernel
+# | that was written at [-<abbr>MIT</abbr>-] {+MIT+} and was released to the
+# | public recently with the idea that I would use it.  This kernel is called
+# | TRIX; it's based on remote procedure call.  I still need to add
+# | compatibility for a lot of the features of Unix which it doesn't have
+# | currently.  I haven't started to work on that yet.  I'm finishing the
+# | compiler before I go to work on the kernel.  I am also going to have to
+# | rewrite the file system.  I intend to make it failsafe just by having it
+# | write blocks in the proper order so that the disk structure is always
+# | consistent.  Then I want to add version numbers.  I have a complicated
+# | scheme to reconcile version numbers with the way people usually use Unix. 
+# | You have to be able to specify filenames without version numbers, but you
+# | also have to be able to specify them with explicit version numbers, and
+# | these both need to work with ordinary Unix programs that have not been
+# | modified in any way to deal with the existence of this feature.  I think I
+# | have a scheme for doing this, and only trying it will show me whether it
+# | really does the job.
+#, fuzzy
+#| msgid ""
+#| "<strong>Stallman</strong>: I'm currently planning to start with the "
+#| "kernel that was written at <abbr>MIT</abbr> and was released to the "
+#| "public recently with the idea that I would use it.  This kernel is called "
+#| "TRIX; it's based on remote procedure call.  I still need to add "
+#| "compatibility for a lot of the features of Unix which it doesn't have "
+#| "currently.  I haven't started to work on that yet.  I'm finishing the "
+#| "compiler before I go to work on the kernel.  I am also going to have to "
+#| "rewrite the file system.  I intend to make it failsafe just by having it "
+#| "write blocks in the proper order so that the disk structure is always "
+#| "consistent.  Then I want to add version numbers.  I have a complicated "
+#| "scheme to reconcile version numbers with the way people usually use "
+#| "Unix.  You have to be able to specify filenames without version numbers, "
+#| "but you also have to be able to specify them with explicit version "
+#| "numbers, and these both need to work with ordinary Unix programs that "
+#| "have not been modified in any way to deal with the existence of this "
+#| "feature.  I think I have a scheme for doing this, and only trying it will "
+#| "show me whether it really does the job."
 msgid ""
 "<strong>Stallman</strong>: I'm currently planning to start with the kernel "
-"that was written at <abbr>MIT</abbr> and was released to the public recently "
-"with the idea that I would use it.  This kernel is called TRIX; it's based "
-"on remote procedure call.  I still need to add compatibility for a lot of "
-"the features of Unix which it doesn't have currently.  I haven't started to "
-"work on that yet.  I'm finishing the compiler before I go to work on the "
-"kernel.  I am also going to have to rewrite the file system.  I intend to "
-"make it failsafe just by having it write blocks in the proper order so that "
-"the disk structure is always consistent.  Then I want to add version "
-"numbers.  I have a complicated scheme to reconcile version numbers with the "
-"way people usually use Unix.  You have to be able to specify filenames "
-"without version numbers, but you also have to be able to specify them with "
-"explicit version numbers, and these both need to work with ordinary Unix "
-"programs that have not been modified in any way to deal with the existence "
-"of this feature.  I think I have a scheme for doing this, and only trying it "
-"will show me whether it really does the job."
+"that was written at MIT and was released to the public recently with the "
+"idea that I would use it.  This kernel is called TRIX; it's based on remote "
+"procedure call.  I still need to add compatibility for a lot of the features "
+"of Unix which it doesn't have currently.  I haven't started to work on that "
+"yet.  I'm finishing the compiler before I go to work on the kernel.  I am "
+"also going to have to rewrite the file system.  I intend to make it failsafe "
+"just by having it write blocks in the proper order so that the disk "
+"structure is always consistent.  Then I want to add version numbers.  I have "
+"a complicated scheme to reconcile version numbers with the way people "
+"usually use Unix.  You have to be able to specify filenames without version "
+"numbers, but you also have to be able to specify them with explicit version "
+"numbers, and these both need to work with ordinary Unix programs that have "
+"not been modified in any way to deal with the existence of this feature.  I "
+"think I have a scheme for doing this, and only trying it will show me "
+"whether it really does the job."
 msgstr ""
 "<strong>Stallman</strong>: No momento, estou planejando começar com o kernel "
 "que foi escrito no <abbr>MIT</abbr> e foi lançado para o público "
@@ -962,12 +998,25 @@ msgstr ""
 "distribuição oficial do GNU?"
 
 #. type: Content of: <p>
+# | <strong>Stallman</strong>: Right now the tape contains GNU EMACS (one
+# | version fits all computers); Bison, a program that replaces [-<acronym-]
+# | {+<abbr+} title=\"Yet Another Compiler [-Compiler\">YACC</acronym>;
+# | <abbr>MIT</abbr>-] {+Compiler\">YACC</abbr>; MIT+} Scheme, which is
+# | Professor Sussman's super-simplified dialect of LISP; and Hack, a
+# | dungeon-exploring game similar to Rogue.
+#, fuzzy
+#| msgid ""
+#| "<strong>Stallman</strong>: Right now the tape contains GNU EMACS (one "
+#| "version fits all computers); Bison, a program that replaces <acronym "
+#| "title=\"Yet Another Compiler Compiler\">YACC</acronym>; <abbr>MIT</abbr> "
+#| "Scheme, which is Professor Sussman's super-simplified dialect of LISP; "
+#| "and Hack, a dungeon-exploring game similar to Rogue."
 msgid ""
 "<strong>Stallman</strong>: Right now the tape contains GNU EMACS (one "
-"version fits all computers); Bison, a program that replaces <acronym title="
-"\"Yet Another Compiler Compiler\">YACC</acronym>; <abbr>MIT</abbr> Scheme, "
-"which is Professor Sussman's super-simplified dialect of LISP; and Hack, a "
-"dungeon-exploring game similar to Rogue."
+"version fits all computers); Bison, a program that replaces <abbr title="
+"\"Yet Another Compiler Compiler\">YACC</abbr>; MIT Scheme, which is "
+"Professor Sussman's super-simplified dialect of LISP; and Hack, a dungeon-"
+"exploring game similar to Rogue."
 msgstr ""
 "<strong>Stallman</strong>: Neste momento a fita contém o GNU EMACS (uma "
 "versão serve para todos os computadores); Bison, um programa que substitui "
@@ -1091,18 +1140,34 @@ msgstr ""
 "envio de traduções das páginas deste site."
 
 #. type: Content of: <div><p>
+# | Copyright &copy; 1999, 2000, 2001, 2002, 2007, 2013, [-2014-] {+2014,
+# | 2020+} Free Software Foundation, Inc.
+#, fuzzy
+#| msgid ""
+#| "Copyright &copy; 1999, 2000, 2001, 2002, 2007, 2013, 2014 Free Software "
+#| "Foundation, Inc."
 msgid ""
-"Copyright &copy; 1999, 2000, 2001, 2002, 2007, 2013, 2014 Free Software "
-"Foundation, Inc."
+"Copyright &copy; 1999, 2000, 2001, 2002, 2007, 2013, 2014, 2020 Free "
+"Software Foundation, Inc."
 msgstr ""
 "Copyright &copy; 1999, 2000, 2001, 2002, 2007, 2013, 2014 Free Software "
 "Foundation, Inc."
 
 #. type: Content of: <div><p>
+# | This page is licensed under a <a rel=\"license\"
+# | [-href=\"http://creativecommons.org/licenses/by-nd/3.0/us/\">Creative-]
+# | {+href=\"http://creativecommons.org/licenses/by-nd/4.0/\">Creative+}
+# | Commons [-Attribution-NoDerivs 3.0 United States-]
+# | {+Attribution-NoDerivatives 4.0 International+} License</a>.
+#, fuzzy
+#| msgid ""
+#| "This page is licensed under a <a rel=\"license\" href=\"http://"
+#| "creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+#| "NoDerivs 3.0 United States License</a>."
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
 "creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
