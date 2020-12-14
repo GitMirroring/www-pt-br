@@ -1,12 +1,12 @@
 # Master Compendium for Brazilian Portuguese translations of gnu.org articles.
-# Copyright (C) 2019 Free Software Foundation, Inc.
+# Copyright (C) 2020 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 msgid ""
 msgstr ""
 "Project-Id-Version: master\n"
 "POT-Creation-Date: 2010-11-22 12:25-0500\n"
-"PO-Revision-Date: 2019-04-28 16:19-0300\n"
+"PO-Revision-Date: 2020-05-22 18:43:19-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -14,6 +14,24 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. type: Content of: <p>
+msgid ""
+"You can earn your own Thank GNU by <a href=\"https://crm.fsf.org/donate/"
+"\">donating through the FSF</a>."
+msgstr ""
+"Você pode receber seus próprios agradecimentos do GNU <a href=\"https://crm."
+"fsf.org/donate/\">doando por meio da FSF</a>."
+
+#. type: Content of: <p>
+msgid ""
+"Please note that <a href=\"https://my.fsf.org/donate/patron\">Corporate "
+"Patrons</a> are listed on the <a href=\"https://www.fsf.org/patrons"
+"\">Corporate Patronage area</a> of our website."
+msgstr ""
+"Por favor, note que <a href=\"https://my.fsf.org/donate/patron\">Patronos "
+"Corporativos</a> são listados na <a href=\"https://www.fsf.org/patrons"
+"\">área de Patrocínio Corporativo</a> de nosso site."
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -104,12 +122,12 @@ msgid ""
 "README</a>."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
-"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
 "\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas desse site."
+"envio de traduções das páginas deste site."
 
 #.  TRANSLATORS: Ignore the original text in this paragraph,
 #.         replace it with the translation of these two:
@@ -129,12 +147,37 @@ msgid ""
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
-"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
 "\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas desse site."
+"envio de traduções das páginas deste site."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and contributing translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and contributing "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -225,3 +268,7 @@ msgid ""
 msgstr ""
 "por <a href=\"http://www.stallman.org/\"><strong>Richard Stallman</strong></"
 "a>"
+
+#. type: Content of: <p>
+msgid "by Richard Stallman"
+msgstr "por Richard Stallman"
