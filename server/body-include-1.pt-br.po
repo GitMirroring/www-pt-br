@@ -7,58 +7,64 @@
 # Bruno Félix Rezende Ribeiro <oitofelix@gnu.org>, 2015.
 # April 2020: reorganize includes to fit new layout.
 # Rafael Fontenelle <rafaelff@gnome.org>, 2020.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: body-include-1.html\n"
-"POT-Creation-Date: 2020-06-18 12:55+0000\n"
-"PO-Revision-Date: 2020-04-30 08:36-0300\n"
+"POT-Creation-Date: 2020-11-20 20:25+0000\n"
+"PO-Revision-Date: 2020-12-12 18:39-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
-"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language-Team: Brazilian Portuguese <ldpbr-translation@lists.sourceforge."
+"net>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 1.0.0-beta1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 3.38.0\n"
 
 #. type: Content of: <div>
 msgid "<a class=\"skip\" href=\"#content\"><b>Skip to main text</b></a>"
 msgstr ""
 "<a class=\"skip\" href=\"#content\"><b>Pular para o texto principal</b></a>"
 
+#. type: Content of: <div><div><p>
+msgid ""
+"<a href=\"https://fsf.org/appeal?pk_campaign=fall20&amp;pk_kwd=banner\"> "
+"Your membership fuels the voyage forward, and will help us reach our "
+"ultimate destination: full software freedom.  Become an associate member by "
+"December 31st.  <span class=\"highlight\">Read more &gt;</span></a>"
+msgstr ""
+"<a href=\"https://fsf.org/appeal?pk_campaign=fall20&amp;pk_kwd=banner\"> Sua "
+"associação impulsiona a viagem adiante e nos ajudará a alcançar nosso "
+"destino final: liberdade total de software. Torne-se um membro associado até "
+"31 de dezembro. <span class=\"highlight\">Leia mais &gt;</span></a>"
+
+#. type: Content of: <div><div><div><div><a>
+msgid ""
+"<a href=\"https://my.fsf.org/join?pk_campaign=frfall2020&amp;pk_source=banner"
+"\">"
+msgstr ""
+"<a href=\"https://my.fsf.org/join?pk_campaign=frfall2020&amp;pk_source=banner"
+"\">"
+
+#. #endif 
 #. type: Content of: <div><div>
-msgid ""
-"<a href=\"https://www.fsf.org/associate/support_freedom?"
-"referrer=4052\">JOIN&nbsp;THE&nbsp;FSF</a>"
-msgstr ""
-"<a href=\"https://www.fsf.org/associate/support_freedom?"
-"referrer=4052\">JUNTE-SE&nbsp;À&nbsp;FSF!</a>"
+msgid "</a>"
+msgstr "</a>"
 
-#. type: Content of: <div><form><div>
-msgid ""
-"<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden\" "
-"name=\"group[25]\" value=\"1\" /> <input name=\"cancelURL\" type=\"hidden\" "
-"value=\"https://crm.fsf.org/civicrm/profile?reset=1&amp;gid=31\" /> <input "
-"name=\"_qf_default\" type=\"hidden\" value=\"Edit:cancel\" />"
-msgstr ""
-"<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden\" "
-"name=\"group[25]\" value=\"1\" /> <input name=\"cancelURL\" type=\"hidden\" "
-"value=\"https://crm.fsf.org/civicrm/profile?reset=1&amp;gid=31\" /> <input "
-"name=\"_qf_default\" type=\"hidden\" value=\"Edit:cancel\" />"
+#. type: Content of: <div><div><div><div><span>
+msgid "</a> <span class=\"percentage\">"
+msgstr "</a> <span class=\"percentage\">"
 
-#. type: Content of: <div><form><div><label>
-msgid "<a href=\"//www.fsf.org/fss\">Free Software Supporter</a>:"
-msgstr "<a href=\"//www.fsf.org/fss\">Suporte ao Software Livre</a>:"
+#. #echo var="joined" 
+#. type: Content of: <div><div><div><div>
+msgid "</span>"
+msgstr "</span>"
 
-#. type: Content of: <div><form><div>
-msgid ""
-"<input type=\"text\" id=\"frmEmail\" name=\"email-Primary\" size=\"18\" "
-"maxlength=\"80\" value=\"email address\" onfocus=\"this.value=''\"/> <input "
-"type=\"submit\" name=\"_qf_Edit_next\" value=\"Sign up\" />"
-msgstr ""
-"<input type=\"text\" id=\"frmEmail\" name=\"email-Primary\" size=\"18\" "
-"maxlength=\"80\" value=\"Endereço de e-mail\" onfocus=\"this.value=''\"/> "
-"<input type=\"submit\" name=\"_qf_Edit_next\" value=\"Inscreva-se\" />"
+#. type: Content of: <div><div><div>
+msgid "<span class=\"goal\">500 members</span>"
+msgstr "<span class=\"goal\">500 membros</span>"
 
 #. type: Content of: <div><p><a>
 msgid "<a href=\"/\">"
@@ -105,10 +111,55 @@ msgstr ""
 msgid "&nbsp;[Languages]&nbsp;"
 msgstr "&nbsp;[Languages - Idiomas]&nbsp;"
 
-#. #endif 
-#. type: Content of: <div><div>
-msgid "</a>"
-msgstr "</a>"
+#~ msgid ""
+#~ "<a href=\"https://www.fsf.org/associate/support_freedom?"
+#~ "referrer=4052\">JOIN&nbsp;THE&nbsp;FSF</a>"
+#~ msgstr ""
+#~ "<a href=\"https://www.fsf.org/associate/support_freedom?"
+#~ "referrer=4052\">JUNTE-SE&nbsp;À&nbsp;FSF!</a>"
+
+#~ msgid ""
+#~ "<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden"
+#~ "\" name=\"group[25]\" value=\"1\" /> <input name=\"cancelURL\" type="
+#~ "\"hidden\" value=\"https://crm.fsf.org/civicrm/profile?reset=1&amp;"
+#~ "gid=31\" /> <input name=\"_qf_default\" type=\"hidden\" value=\"Edit:"
+#~ "cancel\" />"
+#~ msgstr ""
+#~ "<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden"
+#~ "\" name=\"group[25]\" value=\"1\" /> <input name=\"cancelURL\" type="
+#~ "\"hidden\" value=\"https://crm.fsf.org/civicrm/profile?reset=1&amp;"
+#~ "gid=31\" /> <input name=\"_qf_default\" type=\"hidden\" value=\"Edit:"
+#~ "cancel\" />"
+
+#~ msgid "<a href=\"//www.fsf.org/fss\">Free Software Supporter</a>:"
+#~ msgstr "<a href=\"//www.fsf.org/fss\">Suporte ao Software Livre</a>:"
+
+#~ msgid ""
+#~ "<input type=\"text\" id=\"frmEmail\" name=\"email-Primary\" size=\"18\" "
+#~ "maxlength=\"80\" value=\"email address\" onfocus=\"this.value=''\"/> "
+#~ "<input type=\"submit\" name=\"_qf_Edit_next\" value=\"Sign up\" />"
+#~ msgstr ""
+#~ "<input type=\"text\" id=\"frmEmail\" name=\"email-Primary\" size=\"18\" "
+#~ "maxlength=\"80\" value=\"Endereço de e-mail\" onfocus=\"this.value=''\"/> "
+#~ "<input type=\"submit\" name=\"_qf_Edit_next\" value=\"Inscreva-se\" />"
+
+#~ msgid ""
+#~ "<strong>We can't live<span class=\"hide\">, work, or learn</span> in "
+#~ "freedom unless the software we use is free.</strong>"
+#~ msgstr ""
+#~ "<strong>Não podemos viver<span class=\"hide\">, trabalhar ou aprender</"
+#~ "span> em liberdade a menos que o software que usamos seja livre.</strong>"
+
+#~ msgid ""
+#~ "Become an associate member <span class=\"hide\">and join the free "
+#~ "software movement in defending your freedoms</span> before August 7th! "
+#~ "<em><a href=\"https://fsf.org/appeal?pk_campaign=spring20&amp;"
+#~ "pk_kwd=banner\">Read more&nbsp;></a></em>"
+#~ msgstr ""
+#~ "Torne-se um membro associado <span class=\"hide\">e junte-se ao movimento "
+#~ "de software livre na defesa de suas liberdades</span> antes de 7 de "
+#~ "agosto! <em><a href=\"https://fsf.org/appeal?pk_campaign=spring20&amp;"
+#~ "pk_kwd=banner\">Leia mais&nbsp;></a></em>"
 
 #~ msgid ""
 #~ "<input name=\"phrase\" id=\"phrase\" type=\"text\" size=\"18\" accesskey="
@@ -210,22 +261,6 @@ msgstr "</a>"
 #~ "de janeiro</b> por <b>US $10 por mês</b> (US $5 por mês para estudantes). "
 #~ "<b><a href=\"https://fsf.org/appeal?pk_campaign=fall18&amp;pk_kwd=banner"
 #~ "\">Leia mais</a></b>."
-
-#~ msgid "<span class=\"percentage\">"
-#~ msgstr "<span class=\"percentage\">"
-
-#~ msgid "</span>"
-#~ msgstr "</span>"
-
-#~ msgid ""
-#~ "<a class=\"join\" href=\"https://my.fsf.org/join?pk_campaign=fall18&amp;"
-#~ "pk_kwd=ban\"> Join</a>"
-#~ msgstr ""
-#~ "<a class=\"join\" href=\"https://my.fsf.org/join?pk_campaign=fall18&amp;"
-#~ "pk_kwd=ban\"> Participe</a>"
-
-#~ msgid "<span class=\"goal\">400</span>"
-#~ msgstr "<span class=\"goal\">400</span>"
 
 #~ msgid ""
 #~ "<span dir=\"ltr\">The&nbsp; <strong><a href=\"/ghm/upcoming.html\">9th "

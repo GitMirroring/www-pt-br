@@ -1,13 +1,13 @@
 # Brazilian Portuguese translation of http://www.gnu.org/help/linking-gnu.html
-# Copyright (C) 2018 Free Software Foundation, Inc.
+# Copyright (C) 2020 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2018.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018-2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: linking-gnu.html\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-06 13:55+0000\n"
-"PO-Revision-Date: 2018-05-30 13:14-0300\n"
+"PO-Revision-Date: 2020-07-26 16:48-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -75,20 +75,13 @@ msgstr ""
 "para fazer links para nossas páginas</span>."
 
 #. type: Content of: <p>
-# | To create a link to our home page, you can use the following XHTML code,
-# | replacing the graphics [-<tt>src</tt>-] {+<code>src</code>+} with whatever
-# | art you choose:
-#, fuzzy
-#| msgid ""
-#| "To create a link to our home page, you can use the following XHTML code, "
-#| "replacing the graphics <tt>src</tt> with whatever art you choose:"
 msgid ""
 "To create a link to our home page, you can use the following XHTML code, "
 "replacing the graphics <code>src</code> with whatever art you choose:"
 msgstr ""
 "Para criar um link para nossa página inicial, você pode usar o seguinte "
-"código XHTML, substituindo os gráficos <tt>src </tt> com qualquer arte que "
-"você escolher:"
+"código XHTML, substituindo os gráficos <code>src</code> com qualquer arte "
+"que você escolher:"
 
 #. type: Content of: <pre>
 #, no-wrap
@@ -177,46 +170,29 @@ msgstr ""
 "envio de traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-# | Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004,
-# | 2005, 2006, 2007, 2009, 2013, [-2014-] {+2014, 2020+} Free Software
-# | Foundation, Inc.
-#, fuzzy
-#| msgid ""
-#| "Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, "
-#| "2005, 2006, 2007, 2009, 2013, 2014 Free Software Foundation, Inc."
 msgid ""
 "Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, "
 "2006, 2007, 2009, 2013, 2014, 2020 Free Software Foundation, Inc."
 msgstr ""
 "Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, "
-"2006, 2007, 2009, 2013, 2014 Free Software Foundation, Inc."
+"2006, 2007, 2009, 2013, 2014, 2020 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
-# | This page is licensed under a <a rel=\"license\"
-# | [-href=\"http://creativecommons.org/licenses/by-nd/3.0/us/\">Creative-]
-# | {+href=\"http://creativecommons.org/licenses/by-nd/4.0/\">Creative+}
-# | Commons [-Attribution-NoDerivs 3.0 United States-]
-# | {+Attribution-NoDerivatives 4.0 International+} License</a>.
-#, fuzzy
-#| msgid ""
-#| "This page is licensed under a <a rel=\"license\" href=\"http://"
-#| "creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-#| "NoDerivs 3.0 United States License</a>."
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
 "creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
 "NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
-"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
-"rafaelff@gnome.org&gt;</a>, 2018."
+"rafaelff@gnome.org&gt;</a>, 2018-2020."
 
 #.  timestamp start 
 #. type: Content of: <div><p>

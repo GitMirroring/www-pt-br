@@ -1,14 +1,14 @@
 # Brazilian Portuguese translation of http://www.gnu.org/philosophy/why-copyleft.html
-# Copyright (C) 2018 Free Software Foundation, Inc.
+# Copyright (C) 2020 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2017, 2018.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017-2020.
 # André N Batista <nandre@riseup.net>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: why-copyleft.html\n"
 "POT-Creation-Date: 2020-07-01 15:26+0000\n"
-"PO-Revision-Date: 2018-12-13 07:23-0200\n"
-"Last-Translator: André N Batista <nandre@riseup.net>\n"
+"PO-Revision-Date: 2020-07-26 08:22-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -34,24 +34,6 @@ msgstr ""
 "fazer nada é um ato de fraqueza, e não de humildade.”</cite>"
 
 #. type: Content of: <p>
-# | In the GNU Project we usually recommend people use <a
-# | [-href=\"/copyleft/copyleft.html\">copyleft</a>-]
-# | {+href=\"/licenses/copyleft.html\">copyleft</a>+} licenses like GNU GPL,
-# | rather than permissive non-copyleft free software licenses.  We don't
-# | argue harshly against the non-copyleft licenses&mdash;in fact, we
-# | occasionally recommend them in special circumstances&mdash;but the
-# | advocates of those licenses show a pattern of arguing harshly against the
-# | [-<acronym-] {+<abbr+} title=\"General Public [-License\">GPL</acronym>.-]
-# | {+License\">GPL</abbr>.+}
-#, fuzzy
-#| msgid ""
-#| "In the GNU Project we usually recommend people use <a href=\"/copyleft/"
-#| "copyleft.html\">copyleft</a> licenses like GNU GPL, rather than "
-#| "permissive non-copyleft free software licenses.  We don't argue harshly "
-#| "against the non-copyleft licenses&mdash;in fact, we occasionally "
-#| "recommend them in special circumstances&mdash;but the advocates of those "
-#| "licenses show a pattern of arguing harshly against the <acronym title="
-#| "\"General Public License\">GPL</acronym>."
 msgid ""
 "In the GNU Project we usually recommend people use <a href=\"/licenses/"
 "copyleft.html\">copyleft</a> licenses like GNU GPL, rather than permissive "
@@ -62,7 +44,7 @@ msgid ""
 "abbr>."
 msgstr ""
 "No Projeto GNU, geralmente recomendamos que as pessoas usem licenças "
-"protegidas por <a href=\"/copyleft/copyleft.html\">copyleft</a>, como a GNU "
+"protegidas por <a href=\"/licenses/copyleft.html\">copyleft</a>, como a GNU "
 "GPL, em vez de licenças de software livre sem copyleft. Não argumentamos "
 "duramente contra as licenças sem copyleft &ndash; na verdade, ocasionalmente "
 "nós as recomendamos em circunstâncias especiais &ndash;, mas os que advogam "
@@ -198,17 +180,11 @@ msgstr ""
 "envio de traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-# | Copyright &copy; 2003, 2007, 2008, 2013, 2017, [-2018-] {+2018, 2020+}
-# | Free Software Foundation, Inc.
-#, fuzzy
-#| msgid ""
-#| "Copyright &copy; 2003, 2007, 2008, 2013, 2017, 2018 Free Software "
-#| "Foundation, Inc."
 msgid ""
 "Copyright &copy; 2003, 2007, 2008, 2013, 2017, 2018, 2020 Free Software "
 "Foundation, Inc."
 msgstr ""
-"Copyright &copy; 2003, 2007, 2008, 2013, 2017, 2018 Free Software "
+"Copyright &copy; 2003, 2007, 2008, 2013, 2017, 2018, 2020 Free Software "
 "Foundation, Inc."
 
 #. type: Content of: <div><p>
@@ -226,7 +202,7 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
-"rafaelff@gnome.org&gt;</a>, 2017, 2018"
+"rafaelff@gnome.org&gt;</a>, 2017-2020"
 
 #.  timestamp start 
 #. type: Content of: <div><p>

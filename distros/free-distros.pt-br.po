@@ -7,20 +7,21 @@
 # Dec 2014: update links (T. Godefroy).
 # Yuri da Silva <yuri.silva.31.charles AT gmail.com>, 2014 (RT #967994).
 # Rafael Fontenelle <rafaelff@gnome.org>, 2016-2020.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: free-distros.html\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-06 15:55+0000\n"
-"PO-Revision-Date: 2020-02-06 21:14-0300\n"
+"POT-Creation-Date: 2020-12-12 13:55+0000\n"
+"PO-Revision-Date: 2020-12-13 11:46-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 1.0.0-beta1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 3.38.0\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -32,6 +33,30 @@ msgstr ""
 #. type: Content of: <h2>
 msgid "Free GNU/Linux distributions"
 msgstr "Distribuições GNU/Linux livres"
+
+#. type: Content of: <div><p>
+msgid ""
+"This page lists the <a href=\"/gnu/linux-and-gnu.html\">GNU/Linux</a> "
+"distributions that are entirely <a href=\"/philosophy/free-sw.html\">free</"
+"a> as in freedom.  <a href=\"/distros/free-non-gnu-distros.html\">Non-GNU-"
+"based free system distributions</a> are listed separately."
+msgstr ""
+"Esta página lista as distribuições <a href=\"/gnu/linux-and-gnu.html\">GNU/"
+"Linux</a> que são completamente <a href=\"/philosophy/free-sw.html\">livres</"
+"a> como em liberdade. <a href=\"/distros/free-non-gnu-distros.html\">As "
+"distribuições livres não baseadas no GNU</a> são listadas separadamente."
+
+#. type: Content of: <div><p>
+msgid ""
+"The Free Software Foundation recommends and endorses these GNU/Linux "
+"distros, although <strong>we do not try to judge or compare them based on "
+"any criterion other than freedom</strong>; therefore, we list them in "
+"alphabetical order."
+msgstr ""
+"A Free Software Foundation recomenda e aprova essas distros GNU/Linux, "
+"apesar de <strong>nós não tentarmos julgá-los ou compará-los com base em "
+"qualquer critério que não seja a liberdade</strong>;; por isso, nós as "
+"listamos em ordem alfabética."
 
 #. type: Content of: <div><h3>
 msgid "Table of Contents"
@@ -68,34 +93,6 @@ msgid ""
 msgstr ""
 "<em>A <a href=\"http://www.fsf.org/\">Free Software Foundation</a> não é "
 "responsável por outros sites, ou o quão atualizada a informação está.</em>"
-
-#. type: Content of: <h3>
-msgid "Introduction"
-msgstr "Introdução"
-
-#. type: Content of: <p>
-msgid ""
-"This page lists the <a href=\"/gnu/linux-and-gnu.html\">GNU/Linux</a> "
-"distributions that are entirely <a href=\"/philosophy/free-sw.html\">free</"
-"a> as in freedom.  <a href=\"/distros/free-non-gnu-distros.html\">Non-GNU-"
-"based free system distributions</a> are listed separately."
-msgstr ""
-"Esta página lista as distribuições <a href=\"/gnu/linux-and-gnu.html\">GNU/"
-"Linux</a> que são completamente <a href=\"/philosophy/free-sw.html\">livres</"
-"a> como em liberdade. <a href=\"/distros/free-non-gnu-distros.html\">As "
-"distribuições livres não baseadas no GNU</a> são listadas separadamente."
-
-#. type: Content of: <p>
-msgid ""
-"The Free Software Foundation recommends and endorses these GNU/Linux "
-"distros, although <strong>we do not try to judge or compare them based on "
-"any criterion other than freedom</strong>; therefore, we list them in "
-"alphabetical order."
-msgstr ""
-"A Free Software Foundation recomenda e aprova essas distros GNU/Linux, "
-"apesar de <strong>nós não tentarmos julgá-los ou compará-los com base em "
-"qualquer critério que não seja a liberdade</strong>;; por isso, nós as "
-"listamos em ordem alfabética."
 
 #. type: Content of: <p>
 msgid ""
@@ -209,11 +206,11 @@ msgstr "</a>"
 
 #. type: Content of: <table><tr><td>
 msgid ""
-"Dragora GNU/Linux-Libre, an independent GNU/Linux distribution based on "
-"concepts of simplicity."
+"<em>Dragora GNU/Linux-Libre</em>, an independent GNU/Linux distribution "
+"based on concepts of simplicity."
 msgstr ""
-"Dragora GNU/Linux-Libre, uma distribuição de GNU/Linux independente baseada "
-"em conceitos de simplicidade."
+"<em>Dragora GNU/Linux-Libre</em>, uma distribuição de GNU/Linux independente "
+"baseada em conceitos de simplicidade."
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"https://www.dyne.org/software/dynebolic/\">"
@@ -225,15 +222,15 @@ msgstr "Dyne:bolic"
 
 #. type: Content of: <table><tr><td>
 msgid ""
-"Dyne:bolic, a GNU/Linux distribution with special emphasis on audio and "
-"video editing. This is a &ldquo;static&rdquo; distro, normally run from a "
-"live CD. Since it will not receive security updates, it should be used "
+"<em>Dyne:bolic</em>, a GNU/Linux distribution with special emphasis on audio "
+"and video editing. This is a &ldquo;static&rdquo; distro, normally run from "
+"a live CD. Since it will not receive security updates, it should be used "
 "offline."
 msgstr ""
-"Dyne:bolic, uma distribuição GNU/Linux com ênfase especial na edição de "
-"áudio e vídeo. Essa é uma distro “estática”, normalmente executada a partir "
-"de um “live CD”. Como ele não receberá atualizações de segurança, ele deve "
-"ser usado desconectado."
+"<em>Dyne:bolic</em>, uma distribuição GNU/Linux com ênfase especial na "
+"edição de áudio e vídeo. Essa é uma distro “estática”, normalmente executada "
+"a partir de um “live CD”. Como ele não receberá atualizações de segurança, "
+"ele deve ser usado desconectado."
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"http://www.gnewsense.org/\">"
@@ -245,11 +242,11 @@ msgstr "gNewSense"
 
 #. type: Content of: <table><tr><td>
 msgid ""
-"gNewSense, a GNU/Linux distribution based on Debian, with sponsorship from "
-"the FSF."
+"<em>gNewSense</em>, a GNU/Linux distribution based on Debian, with "
+"sponsorship from the FSF."
 msgstr ""
-"gNewSense, uma distribuição de GNU/Linux baseada no Debian, patrocinada pela "
-"FSF."
+"<em>gNewSense</em>, uma distribuição de GNU/Linux baseada no Debian, "
+"patrocinada pela FSF."
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/software/guix/\">"
@@ -261,13 +258,13 @@ msgstr "guix"
 
 #. type: Content of: <table><tr><td>
 msgid ""
-"Guix System, an advanced GNU/Linux distro built on top of GNU Guix "
+"<em>Guix System</em>, an advanced GNU/Linux distro built on top of GNU Guix "
 "(pronounced &ldquo;geeks&rdquo;), a purely functional package manager for "
 "the GNU system."
 msgstr ""
-"Guix System, uma distro GNU/Linux avançada construída sobre o GNU Guix "
-"(pronunciado “geeks”), um gerenciador de pacotes puramente funcional para o "
-"sistema GNU."
+"<em>Guix System</em>, uma distro GNU/Linux avançada construída sobre o GNU "
+"Guix (pronunciado “geeks”), um gerenciador de pacotes puramente funcional "
+"para o sistema GNU."
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"https://www.hyperbola.info/\">"
@@ -279,11 +276,11 @@ msgstr "Hyperbola"
 
 #. type: Content of: <table><tr><td>
 msgid ""
-"Hyperbola GNU/Linux-libre, a long-term support simplicity-focused "
+"<em>Hyperbola GNU/Linux-libre</em>, a long-term support simplicity-focused "
 "distribution based on Arch GNU/Linux."
 msgstr ""
-"Hyperbola GNU/Linux-libre, uma distribuição com foco na simplicidade e "
-"suporte de longo prazo baseada no Arch GNU/Linux."
+"<em>Hyperbola GNU/Linux-libre</em>, uma distribuição com foco na "
+"simplicidade e suporte de longo prazo baseada no Arch GNU/Linux."
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"https://www.parabola.nu\">"
@@ -295,11 +292,11 @@ msgstr "Parabola GNU/Linux-libre"
 
 #. type: Content of: <table><tr><td>
 msgid ""
-"Parabola GNU/Linux-libre, a distribution based on Arch that prioritizes "
-"simple package and system management."
+"<em>Parabola GNU/Linux-libre</em>, a distribution based on Arch that "
+"prioritizes simple package and system management."
 msgstr ""
-"Parabola GNU/Linux-libre, uma distribuição baseada no Arch que prioriza o "
-"fácil gerenciamento de pacotes e do sistema."
+"<em>Parabola GNU/Linux-libre</em>, uma distribuição baseada no Arch que "
+"prioriza o fácil gerenciamento de pacotes e do sistema."
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"https://pureos.net/\">"
@@ -311,10 +308,10 @@ msgstr "PureOS"
 
 #. type: Content of: <table><tr><td>
 msgid ""
-"PureOS, a GNU distribution based on Debian with a focus on privacy, "
+"<em>PureOS</em>, a GNU distribution based on Debian with a focus on privacy, "
 "security, and convenience."
 msgstr ""
-"PureOS, uma distribuição de GNU baseada no Debian com um foco na "
+"<em>PureOS</em>, uma distribuição de GNU baseada no Debian com um foco na "
 "privacidade, segurança e conveniência."
 
 #. type: Content of: <table><tr><td><a>
@@ -327,11 +324,11 @@ msgstr "Trisquel"
 
 #. type: Content of: <table><tr><td>
 msgid ""
-"Trisquel, a GNU/Linux distribution based on Ubuntu that's oriented toward "
-"small enterprises, domestic users and educational centers."
+"<em>Trisquel</em>, a GNU/Linux distribution based on Ubuntu that's oriented "
+"toward small enterprises, domestic users and educational centers."
 msgstr ""
-"Trisquel, uma distribuição de GNU/Linux baseada no Ubuntu que é destinada a "
-"pequenas empresas, usuários domésticos e centros educacionais."
+"<em>Trisquel</em>, uma distribuição de GNU/Linux baseada no Ubuntu que é "
+"destinada a pequenas empresas, usuários domésticos e centros educacionais."
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"http://www.ututo.org/\">"
@@ -343,11 +340,11 @@ msgstr "Ututo"
 
 #. type: Content of: <table><tr><td>
 msgid ""
-"Ututo S, a GNU/Linux 100% free distribution.  It was the first fully free "
-"GNU/Linux system recognized by the GNU Project."
+"<em>Ututo S</em>, a GNU/Linux 100% free distribution.  It was the first "
+"fully free GNU/Linux system recognized by the GNU Project."
 msgstr ""
-"Ututo S, uma distribuição 100% livre de GNU/Linux. Foi o primeiro sistema "
-"GNU/Linux totalmente livre reconhecido pelo Projeto GNU."
+"<em>Ututo S</em>, uma distribuição 100% livre de GNU/Linux. Foi o primeiro "
+"sistema GNU/Linux totalmente livre reconhecido pelo Projeto GNU."
 
 #. type: Content of: <h3>
 msgid "Small GNU/Linux distros"
@@ -379,14 +376,15 @@ msgstr "libreCMC"
 
 #. type: Content of: <table><tr><td>
 msgid ""
-"libreCMC is an embedded GNU/Linux distro for devices with very limited "
-"resources. While primarily targeting routers, it offers support for a wide "
-"range of devices and use cases. In 2015, LibreWRT merged with libreCMC."
-msgstr ""
-"libreCMC é uma distribuição GNU/Linux embarcada para dispositivos com "
-"recursos bastante limitados. Apensar de ser projetada para roteadores, ela "
-"oferece suporte a vários dispositivos e usos. Em 2015, LibreWRT se juntou ao "
+"<em>libreCMC</em> is an embedded GNU/Linux distro for devices with very "
+"limited resources. While primarily targeting routers, it offers support for "
+"a wide range of devices and use cases. In 2015, LibreWRT merged with "
 "libreCMC."
+msgstr ""
+"<em>libreCMC</em> é uma distribuição GNU/Linux embarcada para dispositivos "
+"com recursos bastante limitados. Apensar de ser projetada para roteadores, "
+"ela oferece suporte a vários dispositivos e usos. Em 2015, LibreWRT se "
+"juntou ao libreCMC."
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"http://proteanos.com/\">"
@@ -398,14 +396,14 @@ msgstr "ProteanOS"
 
 #. type: Content of: <table><tr><td>
 msgid ""
-"ProteanOS is a new, small, and fast distribution for embedded devices. Its "
-"platform configuration feature allows binary packages to be configured at "
-"build-time and run-time for different hardware and use cases."
+"<em>ProteanOS</em> is a new, small, and fast distribution for embedded "
+"devices. Its platform configuration feature allows binary packages to be "
+"configured at build-time and run-time for different hardware and use cases."
 msgstr ""
-"ProteanOS é uma distribuição nova, pequena e rápida para dispositivos "
-"embarcados. Os recursos de configuração de plataforma permitem que pacotes "
-"binários sejam configurados em tempo de compilação e de execução para "
-"hardwares e casos de uso diferentes."
+"<em>ProteanOS</em> é uma distribuição nova, pequena e rápida para "
+"dispositivos embarcados. Os recursos de configuração de plataforma permitem "
+"que pacotes binários sejam configurados em tempo de compilação e de execução "
+"para hardwares e casos de uso diferentes."
 
 #. type: Content of: <h3>
 msgid "How to get free GNU/Linux distros"
@@ -506,24 +504,29 @@ msgid "Retirement Info"
 msgstr "Circunstâncias de retirada"
 
 #. type: Content of: <table><tr><td><a>
-msgid "<a href=\"http://www.blagblagblag.org/\">"
-msgstr "<a href=\"http://www.blagblagblag.org/\">"
+msgid ""
+"<a href=\"https://web.archive.org/web/20200620205430/http://www.blagblagblag."
+"org/\">"
+msgstr ""
+"<a href=\"https://web.archive.org/web/20200620205430/http://www.blagblagblag."
+"org/\">"
 
 #. type: Attribute 'alt' of: <table><tr><td><a><img>
 msgid "BLAG Linux and GNU"
 msgstr "BLAG Linux e GNU"
 
 #. type: Content of: <table><tr><td>
-msgid "BLAG Linux and GNU, a GNU/Linux distribution based on Fedora."
-msgstr "BLAG Linux e GNU, uma distribuição de GNU/Linux baseada no Fedora."
+msgid "<em>BLAG Linux and GNU</em>, a GNU/Linux distribution based on Fedora."
+msgstr ""
+"<em>BLAG Linux e GNU</em>, uma distribuição de GNU/Linux baseada no Fedora."
 
 #. type: Content of: <table><tr><td>
 msgid ""
-"<em>Removed June 2018</em>. Removed at the request of the maintainers, as "
-"they had stopped maintaining it."
+"<em>Removed June 2018</em> at the request of the maintainers, as they had "
+"stopped maintaining it."
 msgstr ""
-"<em>Removido em junho de 2018</em>. Removido a pedido dos mantenedores, pois "
-"eles pararam de dar manutenção a ela."
+"<em>Removida em junho de 2018</em> a pedido dos mantenedores, pois eles "
+"pararam de dar manutenção a ela."
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"https://musixdistro.wordpress.com/\">"
@@ -535,23 +538,23 @@ msgstr "Musix GNU+Linux"
 
 #. type: Content of: <table><tr><td>
 msgid ""
-"Musix, a GNU+Linux distribution based on Knoppix, with special emphasis on "
-"audio production. This is a &ldquo;static&rdquo; distro, normally run from a "
-"live CD. Since it will not receive security updates, it should be used "
-"offline."
+"<em>Musix</em>, a GNU+Linux distribution based on Knoppix, with special "
+"emphasis on audio production. This is a &ldquo;static&rdquo; distro, "
+"normally run from a live CD. Since it will not receive security updates, it "
+"should be used offline."
 msgstr ""
-"Musix, uma distribuição GNU+Linux com ênfase especial na produção de áudio. "
-"Essa é uma distro “estática”, normalmente executada a partir de um “live "
-"CD”. Como ele não receberá atualizações de segurança, ele deve ser usado "
-"desconectado."
+"<em>Musix</em>, uma distribuição GNU+Linux com ênfase especial na produção "
+"de áudio. Essa é uma distro “estática”, normalmente executada a partir de um "
+"“live CD”. Como ele não receberá atualizações de segurança, ele deve ser "
+"usado desconectado."
 
 #. type: Content of: <table><tr><td>
 msgid ""
-"<em>Removed March 2019</em>. Removed at the request of the maintainer, as "
-"they had stopped maintaining it."
+"<em>Removed March 2019</em> at the request of the maintainer, as they had "
+"stopped maintaining it."
 msgstr ""
-"<em>Removido em março de 2019</em>. Removido a pedido do mantenedor, pois "
-"ele parou de dar manutenção a ela."
+"<em>Removida em março de 2019</em> a pedido do mantenedor, pois ele parou de "
+"dar manutenção a ela."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -586,7 +589,7 @@ msgstr ""
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
@@ -594,8 +597,8 @@ msgstr ""
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas deste site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -633,78 +636,3 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
-
-#~ msgid "<a href=\"https://www.hyperbola.info/?gnu-free-stros-page\">"
-#~ msgstr "<a href=\"https://www.hyperbola.info/?gnu-free-stros-page\">"
-
-#~ msgid ""
-#~ "Copyright &copy; 2014, 2015, 2016, 2017, 2018 Free Software Foundation, "
-#~ "Inc."
-#~ msgstr ""
-#~ "Copyright &copy; 2014, 2015, 2016, 2017, 2018 Free Software Foundation, "
-#~ "Inc."
-
-#~ msgid ""
-#~ "<strong>All of the distributions that follow are installable to a "
-#~ "computer's hard drive; most can be run live.  Not all hardware works in "
-#~ "the free world; each distro's site should say which hardware it supports."
-#~ "</strong>"
-#~ msgstr ""
-#~ "<strong>Todas as distribuições relacionadas abaixo podem ser instaladas "
-#~ "no disco rígido de um computador; muitas delas operam sem a necessidade "
-#~ "de instalação. Nem todo hardware funciona em um mundo livre; o site de "
-#~ "cada distro deve dizer qual hardware ela suporta.</strong>"
-
-#~ msgid ""
-#~ "We endorse these distros only for freedom.  We do not try to judge or "
-#~ "compare these distros based on any other criterion; therefore, we list "
-#~ "them in alphabetical order.  We suggest you consult their respective web "
-#~ "sites and other information to judge which one is most convenient for you."
-#~ msgstr ""
-#~ "Nós aprovamos essas distros apenas pela liberdade. Não tentamos julgar ou "
-#~ "comparar as distribuições se baseando em qualquer outro critério; "
-#~ "portanto, as listamos em ordem alfabética. Nós sugerimos que você "
-#~ "consulte seus respectivos sites e outras informações para escolher qual "
-#~ "delas é a melhor para você."
-
-#~ msgid ""
-#~ "Dynebolic, a GNU/Linux distribution with special emphasis on audio and "
-#~ "video editing."
-#~ msgstr ""
-#~ "Dynebolic, uma distribuição de GNU/Linux com ênfase especial na edição de "
-#~ "áudio e vídeo."
-
-#~ msgid ""
-#~ "Musix, a GNU+Linux distribution based on Knoppix, with special emphasis "
-#~ "on audio production."
-#~ msgstr ""
-#~ "Musix GNU+Linux, uma distribuição de GNU/Linux baseada no Knoppix, com "
-#~ "ênfase especial na produção de áudio."
-
-#~ msgid ""
-#~ "Non-GNU-based free system distributions are listed in <a href=\"/distros/"
-#~ "free-non-gnu-distros.html\">a separate file</a>."
-#~ msgstr ""
-#~ "Distribuições não GNU estão listadas em <a href=\"/distros/free-non-gnu-"
-#~ "distros.html\">um arquivo separado</a>."
-
-#~ msgid ""
-#~ "Copyright &copy; 2014, 2015, 2016, 2017 Free Software Foundation, Inc."
-#~ msgstr ""
-#~ "Copyright &copy; 2014, 2015, 2016, 2017 Free Software Foundation, Inc."
-
-#~ msgid "<a href=\"http://www.dynebolic.org\">"
-#~ msgstr "<a href=\"http://www.dynebolic.org\">"
-
-#~ msgid "Dragora"
-#~ msgstr "Dragora"
-
-#~ msgid ""
-#~ "Dragora, an independent GNU/Linux distribution based on concepts of "
-#~ "simplicity."
-#~ msgstr ""
-#~ "Dragora, uma distribuição de GNU/Linux independente baseada em conceitos "
-#~ "de simplicidade."
-
-#~ msgid "Copyright &copy; 2014, 2015, 2016 Free Software Foundation, Inc."
-#~ msgstr "Copyright &copy; 2014, 2015, 2016 Free Software Foundation, Inc."

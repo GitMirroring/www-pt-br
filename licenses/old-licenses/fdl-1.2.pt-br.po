@@ -1,20 +1,21 @@
 # Brazilian Portuguese translation of https://www.gnu.org/licenses/old-licenses/fdl-1.2.html
-# Copyright (C) 2018 Free Software Foundation, Inc.
+# Copyright (C) 2020 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2018.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018-2020.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: fdl-1.2.html\n"
-"POT-Creation-Date: 2016-08-07 06:27+0000\n"
-"PO-Revision-Date: 2018-05-30 14:45-0300\n"
+"POT-Creation-Date: 2020-12-08 11:55+0000\n"
+"PO-Revision-Date: 2020-12-13 17:38-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 1.0.0-beta1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 3.38.0\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -48,8 +49,8 @@ msgid ""
 "<a href=\"/licenses/gpl-violation.html\">What to do if you see a possible "
 "GFDL violation</a>"
 msgstr ""
-"<a href=\"/licenses/gpl-violation.html\">E se você vir uma possível violação "
-"da GFDL</a>"
+"<a href=\"/licenses/gpl-violation.html\">O que fazer se você encontrar uma "
+"possível violação da GFDL</a>"
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -136,19 +137,17 @@ msgstr "Conteúdo"
 
 #. type: Content of: <ul><li>
 msgid ""
-"<a name=\"TOC1\" href=\"#SEC1\">Current version of the GNU Free "
-"Documentation License</a>"
+"<a id=\"TOC1\" href=\"#SEC1\">Current version of the GNU Free Documentation "
+"License</a>"
 msgstr ""
-"<a name=\"TOC1\" href=\"#SEC1\">Versão atual da Licença de Documentação "
-"Livre GNU</a>"
+"<a id=\"TOC1\" href=\"#SEC1\">Versão atual da Licença de Documentação Livre "
+"GNU</a>"
 
 #. type: Content of: <ul><li>
 msgid ""
-"<a name=\"TOC4\" href=\"#SEC4\">How to use this License for your documents</"
-"a>"
+"<a id=\"TOC4\" href=\"#SEC4\">How to use this License for your documents</a>"
 msgstr ""
-"<a name=\"TOC4\" href=\"#SEC4\">Como usar essa Licença para seus documentos</"
-"a>"
+"<a id=\"TOC4\" href=\"#SEC4\">Como usar essa Licença para seus documentos</a>"
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -211,7 +210,7 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
-"rafaelff@gnome.org&gt;</a>, 2018."
+"rafaelff@gnome.org&gt;</a>, 2018-2020."
 
 #.  timestamp start 
 #. type: Content of: <div><p>

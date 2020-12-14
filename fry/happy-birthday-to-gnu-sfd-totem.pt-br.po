@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: happy-birthday-to-gnu-sfd-totem.html\n"
 "POT-Creation-Date: 2020-07-09 09:25+0000\n"
-"PO-Revision-Date: 2020-01-12 21:05-0300\n"
+"PO-Revision-Date: 2020-07-26 16:20-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -174,19 +174,12 @@ msgstr ""
 "nomes dos arquivos correspondem."
 
 #. type: Content of: <p>
-# | <b>For example, the video can be renamed [-<tt>fry.ogv</tt>-]
-# | {+<code>fry.ogv</code>+} and the subtitle [-<tt>fry.srt</tt>.</b>-]
-# | {+<code>fry.srt</code>.</b>+}
-#, fuzzy
-#| msgid ""
-#| "<b>For example, the video can be renamed <tt>fry.ogv</tt> and the "
-#| "subtitle <tt>fry.srt</tt>.</b>"
 msgid ""
 "<b>For example, the video can be renamed <code>fry.ogv</code> and the "
 "subtitle <code>fry.srt</code>.</b>"
 msgstr ""
-"<b>Por exemplo, o vídeo pode ser renomeado para <tt>fry.ogv</tt> e a legenda "
-"para <tt>fry.srt</tt>.</b>"
+"<b>Por exemplo, o vídeo pode ser renomeado para <code>fry.ogv</code> e a "
+"legenda para <code>fry.srt</code>.</b>"
 
 #. type: Content of: <p>
 msgid ""
@@ -263,12 +256,8 @@ msgstr ""
 "envio de traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-# | Copyright &copy; 2008, 2014, [-2019-] {+2019, 2020+} Free Software
-# | Foundation, Inc.
-#, fuzzy
-#| msgid "Copyright &copy; 2008, 2014, 2019 Free Software Foundation, Inc."
 msgid "Copyright &copy; 2008, 2014, 2019, 2020 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2008, 2014, 2019 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2008, 2014, 2019, 2020 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -305,8 +294,9 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
-"rafaelff@gnome.org&gt;</a>, 2020.Revisado por: Cassiano Reinert Novais dos "
-"Santos <a href=\"mailto:caco@posteo.net\">&lt;caco@posteo.net&gt;</a>, 2020."
+"rafaelff@gnome.org&gt;</a>, 2020.<br/>\n"
+"Revisado por: Cassiano Reinert Novais dos Santos <a href=\"mailto:"
+"caco@posteo.net\">&lt;caco@posteo.net&gt;</a>, 2020."
 
 #.  timestamp start 
 #. type: Content of: <div><p>

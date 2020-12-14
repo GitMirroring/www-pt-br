@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: translations.html\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-09 11:25+0000\n"
-"PO-Revision-Date: 2020-04-11 11:14-0300\n"
+"PO-Revision-Date: 2020-07-26 08:07-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -164,20 +164,6 @@ msgstr ""
 "correta."
 
 #. type: Content of: <p>
-# | To label your translations as unofficial, please add the following text at
-# | the beginning, both in English and in the language of the translation. 
-# | Replace [-<tt>language</tt>-] {+&ldquo;<var>language</var>&rdquo;+} with
-# | the name of that language, and &ldquo;GNU General Public License&rdquo;
-# | and &ldquo;GPL&rdquo; with the name and abbreviation of the license you're
-# | translating, if it's not the GPL:
-#, fuzzy
-#| msgid ""
-#| "To label your translations as unofficial, please add the following text "
-#| "at the beginning, both in English and in the language of the "
-#| "translation.  Replace <tt>language</tt> with the name of that language, "
-#| "and &ldquo;GNU General Public License&rdquo; and &ldquo;GPL&rdquo; with "
-#| "the name and abbreviation of the license you're translating, if it's not "
-#| "the GPL:"
 msgid ""
 "To label your translations as unofficial, please add the following text at "
 "the beginning, both in English and in the language of the translation.  "
@@ -186,10 +172,10 @@ msgid ""
 "name and abbreviation of the license you're translating, if it's not the GPL:"
 msgstr ""
 "Para rotular suas traduções como não oficiais, adicione o seguinte texto no "
-"início, tanto em inglês como no idioma da tradução. Substitua <tt>language</"
-"tt> e <tt>idioma</tt> com o nome do idioma, “GNU General Public "
-"License” (Licença Pública Geral GNU) e “GPL” com o nome e abreviação da "
-"licença que você está traduzindo, se não for a GPL:"
+"início, tanto em inglês como no idioma da tradução. Substitua "
+"“<var>language</var>” e “<var>idioma</var>” com o nome do idioma, “GNU "
+"General Public License” (Licença Pública Geral GNU) e “GPL” com o nome e "
+"abreviação da licença que você está traduzindo, se não for a GPL:"
 
 #. TRANSLATORS: If you translate this paragraph, retain the English
 #. text and put your translation below.  The entire <blockquote>
@@ -199,21 +185,6 @@ msgstr ""
 #. you *must* put your translation within
 #. </p><p dir="rtl" style="text-align:right">......</p><p> 
 #. type: Content of: <blockquote><p>
-# | This is an unofficial translation of the GNU General Public License into
-# | [-<tt>language</tt>.-] {+<var>language</var>.+}  It was not published by
-# | the Free Software Foundation, and does not legally state the distribution
-# | terms for software that uses the GNU GPL&mdash;only the original English
-# | text of the GNU GPL does that.  However, we hope that this translation
-# | will help [-<tt>language</tt>-] {+<var>language</var>+} speakers
-# | understand the GNU GPL better.
-#, fuzzy
-#| msgid ""
-#| "This is an unofficial translation of the GNU General Public License into "
-#| "<tt>language</tt>.  It was not published by the Free Software Foundation, "
-#| "and does not legally state the distribution terms for software that uses "
-#| "the GNU GPL&mdash;only the original English text of the GNU GPL does "
-#| "that.  However, we hope that this translation will help <tt>language</tt> "
-#| "speakers understand the GNU GPL better."
 msgid ""
 "This is an unofficial translation of the GNU General Public License into "
 "<var>language</var>.  It was not published by the Free Software Foundation, "
@@ -223,18 +194,18 @@ msgid ""
 "speakers understand the GNU GPL better."
 msgstr ""
 "This is an unofficial translation of the GNU General Public License into "
-"<tt>language</tt>.  It was not published by the Free Software Foundation, "
+"<var>language</var>.  It was not published by the Free Software Foundation, "
 "and does not legally state the distribution terms for software that uses the "
 "GNU GPL&mdash;only the original English text of the GNU GPL does that.  "
-"However, we hope that this translation will help <tt>language</tt> speakers "
-"understand the GNU GPL better.</p>\n"
+"However, we hope that this translation will help <var>language</var> "
+"speakers understand the GNU GPL better.</p>\n"
 "\n"
 "<p>Essa é uma tradução não oficial da Licença Pública Geral GNU para "
-"<tt>idioma</tt>. Ela não foi publicada pela Free Software Foundation e não "
+"<var>idioma</var>. Ela não foi publicada pela Free Software Foundation e não "
 "estabelece legalmente os termos de distribuição para software que usa a GNU "
 "GPL &mdash; apenas o texto original em inglês da GNU GPL faz isso. Porém, "
-"esperamos que essa tradução venha a ajudar so falantes do <tt>idioma</tt> a "
-"melhor entender a GNU GPL."
+"esperamos que essa tradução venha a ajudar so falantes do <var>idioma</var> "
+"a melhor entender a GNU GPL."
 
 #. type: Content of: <p>
 msgid ""
@@ -780,19 +751,3 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
-
-#~ msgid ""
-#~ "<code>[fr]</code> <a href=\"http://dachary.org/loic/gpl-french.pdf\"> "
-#~ "French</a> translation of the GPL (PDF)"
-#~ msgstr ""
-#~ "<code>[fr]</code> tradução para <a href=\"http://dachary.org/loic/gpl-"
-#~ "french.pdf\">francês</a> da GPL (PDF)"
-
-#~ msgid ""
-#~ "<code>[da]</code> Danish translation of the GPL - <a href=\"http://"
-#~ "netkoder.dk/licenser/gpl-3.0.da.html\">HTML</a>, <a href=\"http://"
-#~ "netkoder.dk/licenser/gpl-3.0.da.txt\">plain text</a>"
-#~ msgstr ""
-#~ "<code>[da]</code> tradução para dinamarquês da GPL - <a href=\"http://"
-#~ "netkoder.dk/licenser/gpl-3.0.da.html\">HTML</a>, <a href=\"http://"
-#~ "netkoder.dk/licenser/gpl-3.0.da.txt\">texto simples</a>"

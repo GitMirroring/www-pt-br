@@ -1,22 +1,25 @@
 # Brazilian Portuguese translation of http://www.gnu.org/philosophy/software-literary-patents.html
-# Copyright (C) 2009 Free Software Foundation, Inc.
+# Copyright (C) 2020 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnu.org article.
 # Alexandre Oliva <lxoliva@fsfla.org>, 2009.
 # Rodrigo Macedo <rodrigomacedo@rmsolucoeseminformatica.com>, 2012.
 # Rafael Beraldo <rberaldo@cabaladada.org>, 2012.
 # May 2014: trivial update (T. Godefroy).
+# Rafael Fontenelle <rafaelff@gnome.org>, 2020.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: software-literary-patents.html\n"
-"POT-Creation-Date: 2014-04-04 21:25+0000\n"
-"PO-Revision-Date: 2017-05-20 16:20-0300\n"
+"POT-Creation-Date: 2020-10-26 13:25+0000\n"
+"PO-Revision-Date: 2020-12-13 18:26-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 3.38.0\n"
 
 # type: Content of: <title>
 #. type: Content of: <title>
@@ -500,26 +503,26 @@ msgstr ""
 
 # type: Content of: <div><p>
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2005, 2007, 2008 Richard Stallman"
-msgstr "Copyright &copy; 2005, 2007, 2008 Richard Stallman"
+msgid "Copyright &copy; 2005, 2007, 2008, 2020 Richard Stallman"
+msgstr "Copyright &copy; 2005, 2007, 2008, 2020 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
-"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
 
 # type: Content of: <div><div>
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"<strong>Tradução</strong>: <a href=\"/people/speakers.html#Oliva\">Alexandre "
-"Oliva</a>, 2012"
+"Traduzido por: <a href=\"/people/speakers.html#Oliva\">Alexandre Oliva</a>, "
+"2012"
 
 #.  timestamp start 
 #. type: Content of: <div><p>

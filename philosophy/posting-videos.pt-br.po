@@ -1,0 +1,182 @@
+# Brazilian Portuguese translation of https://www.gnu.org/philosophy/posting-videos.html
+# Copyright (C) 2020 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: posting-videos.html\n"
+"POT-Creation-Date: 2020-10-06 08:28+0000\n"
+"PO-Revision-Date: 2020-12-13 19:54-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 3.38.0\n"
+
+#. type: Content of: <title>
+msgid "Posting Videos - GNU Project - Free Software Foundation"
+msgstr "Publicando vídeos - Projeto GNU - Free Software Foundation"
+
+#. type: Content of: <h2>
+msgid "Posting Videos"
+msgstr "Publicando vídeos"
+
+#. type: Content of: <address>
+msgid "by Richard Stallman"
+msgstr "por Richard Stallman"
+
+#. type: Content of: <p>
+msgid ""
+"You don't need a &ldquo;free software based streaming platform&rdquo; to "
+"post a video for streaming."
+msgstr ""
+"Você não precisa de uma “plataforma de streaming baseada em software livre” "
+"para postar um vídeo em um streaming."
+
+#. type: Content of: <p>
+msgid ""
+"Someone asked me where to upload a video recording on some &ldquo;free "
+"software based streaming platform.&rdquo; Here's how I responded."
+msgstr ""
+"Alguém me perguntou onde fazer upload de uma gravação de vídeo em alguma "
+"“plataforma de streaming baseada em software livre”. Aqui está como eu "
+"respondi."
+
+#. type: Content of: <ul><li>
+msgid ""
+"What software the <em>platform</em> is based on is not crucial, because that "
+"has no effect on the people who use that site.  They don't run that "
+"software. What they do is talk with the site."
+msgstr ""
+"O software em que a <em>plataforma</em> se baseia não é crucial porque isso "
+"não afeta as pessoas que usam esse site. Eles não executam esse software. O "
+"que eles fazem é conversar com o site."
+
+#. type: Content of: <ul><li>
+msgid ""
+"The crucial question for the users' freedom is whether the site requires "
+"them, or leads them, to run any nonfree software, including nonfree "
+"JavaScript code."
+msgstr ""
+"A questão crucial para a liberdade dos usuários é se o site exige ou os leva "
+"a executar qualquer software não livre, incluindo código JavaScript não "
+"livre."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Any web site can host a file of video in such a way that any browser can "
+"view it without <em>any</em> JavaScript. Just put the file of video onto the "
+"site, and tell people its URL. Any modern graphical browser, when it "
+"encounters a file of video, will stream it."
+msgstr ""
+"Qualquer site pode hospedar um arquivo de vídeo de forma que qualquer "
+"navegador possa visualizá-lo sem <em>nenhum</em> JavaScript. Basta colocar o "
+"arquivo de vídeo no site e informar o URL da pessoa. Qualquer navegador "
+"gráfico moderno, quando encontra um arquivo de vídeo, o transmite."
+
+#. type: Content of: <ul><li>
+msgid ""
+"The only special thing about &ldquo;video platform&rdquo; sites is that they "
+"have other auxiliary facilities, such as making accounts, uploading videos, "
+"tracking users who watch them, and restricting those users. You don't need "
+"those things."
+msgstr ""
+"A única coisa especial nos sites de “plataforma de vídeo” é que eles têm "
+"outros recursos auxiliares, como criar contas, fazer upload de vídeos, "
+"rastrear usuários que os assistem e restringir esses usuários. Você não "
+"precisa dessas coisas."
+
+#. type: Content of: <ul><li>
+msgid ""
+"To distribute the URL of the video and enable users to watch it, all you do "
+"need is a site that you can post the file on.  It could be your own web "
+"site, either running on your own server or hosted elsewhere."
+msgstr ""
+"Para distribuir o URL do vídeo e permitir que os usuários o assistam, tudo o "
+"que você precisa é de um site no qual você possa postar o arquivo. Pode ser "
+"o seu próprio site, funcionando em seu próprio servidor ou hospedado em "
+"outro lugar."
+
+#. type: Content of: <p>
+msgid ""
+"Depending on the rest of that site, it may have other flaws or moral "
+"problems, but it will at least avoid directly mistreating users who watch "
+"the video."
+msgstr ""
+"Dependendo do restante do site, ele pode ter outras falhas ou problemas "
+"morais, mas pelo menos evitará maltratar diretamente os usuários que "
+"assistem ao vídeo."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas deste site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2020 Richard Stallman"
+msgstr "Copyright &copy; 2020 Richard Stallman"
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2020."
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização:"

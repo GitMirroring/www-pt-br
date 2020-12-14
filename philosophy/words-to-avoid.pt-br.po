@@ -6,19 +6,20 @@
 # Rafael Beraldo, <rberaldo@cabaladada.org>, 2015.
 # Bruno Félix Rezende Ribeiro <oitofelix@gnu.org>, 2015.
 # Rafael Fontenelle <rafaelff@gnome.org>, 2016-2020.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: words-to-avoid.html\n"
-"POT-Creation-Date: 2020-07-07 11:55+0000\n"
-"PO-Revision-Date: 2020-03-08 17:46-0300\n"
+"POT-Creation-Date: 2020-11-24 12:55+0000\n"
+"PO-Revision-Date: 2020-12-13 17:49-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 1.0.0-beta1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 3.38.0\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -446,17 +447,17 @@ msgstr "“Alternativa”"
 
 #. type: Content of: <p>
 msgid ""
-"We don't describe free software as an &ldquo;alternative&rdquo; to "
-"proprietary, because that word presumes all the &ldquo;alternatives&rdquo; "
-"are legitimate and each additional one makes users better off.  In effect, "
-"it assumes that free software ought to coexist with software that does not "
-"respect users' freedom."
+"We don't describe free software in general as an &ldquo;alternative&rdquo; "
+"to proprietary, because that word presumes all the &ldquo;"
+"alternatives&rdquo; are legitimate and each additional one makes users "
+"better off.  In effect, it assumes that free software ought to coexist with "
+"software that does not respect users' freedom."
 msgstr ""
-"Não descrevemos o software livre como uma “alternativa” ao software "
-"proprietário, pois a palavra presume que todas as “alternativas” são "
-"legítimas e que cada nova “alternativa” disponível deixa os usuários numa "
-"posição melhor. De fato, a palavra presume que o software livre deve "
-"coexistir com aquele que não respeita a liberdade dos usuários."
+"Não descrevemos o software livre em geral como uma “alternativa” ao software "
+"proprietário, pois tal palavra presume que todas as “alternativas” são "
+"legítimas e que cada “alternativa” adicional deixa os usuários numa posição "
+"melhor. De fato, a palavra presume que o software livre deve coexistir com "
+"aquele que não respeita a liberdade dos usuários."
 
 #. type: Content of: <p>
 msgid ""
@@ -473,6 +474,21 @@ msgstr ""
 "a> e <a href=\"/philosophy/who-does-that-server-really-serve.html\">Serviço "
 "como Substituto do Software</a> subjugam seus usuários. Não acreditamos que "
 "seja bom oferecer aos usuários essas “alternativas” ao software livre."
+
+#. type: Content of: <p>
+msgid ""
+"Special circumstances can drive users toward running one particular program "
+"for a certain job.  For instance, when a web page sends JavaScript client "
+"code to the user's browser, that drives users toward running that specific "
+"client program rather than any possible other.  In such a case, there is a "
+"reason to describe any other code for that job as an alternative."
+msgstr ""
+"Circunstâncias especiais podem levar os usuários a executar um programa "
+"específico para um determinado trabalho. Por exemplo, quando uma página web "
+"envia o código JavaScript cliente para o navegador do usuário, isso leva os "
+"usuários a executar aquele programa cliente específico em vez de qualquer "
+"outro possível. Nesse caso, há um motivo para descrever qualquer outro "
+"código para esse trabalho como alternativa."
 
 #. type: Content of: <h3>
 msgid "&ldquo;Assets&rdquo;"
@@ -1634,18 +1650,18 @@ msgid ""
 "Experience shows that these products often do <a href=\"http://www.locusmag."
 "com/Perspectives/2015/09/cory-doctorow-what-if-people-were-sensors-not-"
 "things-to-be-sensed/\"> spy on their users</a>.  They are also tailor-made "
-"for <a href=\"http://ieet.org/index.php/IEET/more/rinesi20150806\">giving "
+"for <a href=\"https://archive.ieet.org/articles/rinesi20150806.html\">giving "
 "people biased advice</a>.  In addition, the manufacturer can <a href=\"/"
 "proprietary/proprietary-sabotage.html\"> sabotage the product</a> by turning "
 "off the server it depends on."
 msgstr ""
-"A experiência mostra que esses produtos, de fato, costumam <a href=\"http://"
-"www.locusmag.com/Perspectives/2015/09/cory-doctorow-what-if-people-were-"
-"sensors-not-things-to-be-sensed/\">espionar seus usuários</a>. Eles também "
-"são feitos sob medida para <a href=\"http://ieet.org/index.php/IEET/more/"
-"rinesi20150806\">dar conselhos tendenciosos às pessoas</a>. Além disso, o "
-"fabricante pode <a href=\"/proprietary/proprietary-sabotage.html\">sabotar o "
-"produto</a> desativando o servidor do qual depende."
+"A experiência mostra que esses produtos frequentemente <a href=\"http://www."
+"locusmag.com/Perspectives/2015/09/cory-doctorow-what-if-people-were-sensors-"
+"not-things-to-be-sensed/\">espionam seus usuários</a>. Eles também são "
+"feitos sob medida para <a href=\"https://archive.ieet.org/articles/"
+"rinesi20150806.html\">dar conselhos tendenciosos às pessoas</a>. Além disso, "
+"o fabricante pode <a href=\"/proprietary/proprietary-sabotage.html\"> "
+"sabotar o produto</a> desativando o servidor do qual depende."
 
 #. type: Content of: <p>
 msgid "We call them the &ldquo;Internet of Stings.&rdquo;"
@@ -1973,21 +1989,6 @@ msgid "&ldquo;PowerPoint&rdquo;"
 msgstr "“PowerPoint”"
 
 #. type: Content of: <p>
-# | Please avoid using the term &ldquo;PowerPoint&rdquo; to mean any kind of
-# | slide presentation.  &ldquo;PowerPoint&rdquo; is just the name of one
-# | particular proprietary program to make presentations.  For your freedom's
-# | sake, you should use only free software to make your
-# | presentations&mdash;which means, <em>not PowerPoint</em>.  Recommended
-# | options include [-TeX's <tt>beamer</tt>-] {+LaTeX's <code>beamer</code>+}
-# | class and [-LibreOffice.org's-] {+LibreOffice+} Impress.
-#, fuzzy
-#| msgid ""
-#| "Please avoid using the term &ldquo;PowerPoint&rdquo; to mean any kind of "
-#| "slide presentation.  &ldquo;PowerPoint&rdquo; is just the name of one "
-#| "particular proprietary program to make presentations.  For your freedom's "
-#| "sake, you should use only free software to make your presentations&mdash;"
-#| "which means, <em>not PowerPoint</em>.  Recommended options include TeX's "
-#| "<tt>beamer</tt> class and LibreOffice.org's Impress."
 msgid ""
 "Please avoid using the term &ldquo;PowerPoint&rdquo; to mean any kind of "
 "slide presentation.  &ldquo;PowerPoint&rdquo; is just the name of one "
@@ -2001,8 +2002,8 @@ msgstr ""
 "proprietário para fazer apresentações específico. Para o bem de sua "
 "liberdade, você deve usar apenas software livre para fazer suas "
 "apresentações &mdash; o que significa <em>não PowerPoint</em>. Opções "
-"recomendadas incluem a classe <tt>beamer</tt> do TeX e o Impress, do "
-"LibreOffice.org."
+"recomendadas incluem a classe <code>beamer</code> do LaTeX e o LibreOffice "
+"Impress."
 
 #. type: Content of: <h3>
 msgid "&ldquo;Product&rdquo;"
@@ -2607,7 +2608,7 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"<b>Traduzido por</b>:\n"
+"Traduzido por:\n"
 "Ricardo Grützmacher <a href=\"mailto:grutz@terra.com.br\">&lt;grutz@terra."
 "com.br&gt;</a>, 2002;\n"
 "Rafael Beraldo <a href=\"mailto:rberaldo@cabaladada.org\">&lt;"

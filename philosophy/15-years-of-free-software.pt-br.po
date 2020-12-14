@@ -1,12 +1,12 @@
 # Brazilian Portuguese translation of http://www.gnu.org/philosophy/15-years-of-free-software.html
-# Copyright (C) 2019 Free Software Foundation, Inc.
+# Copyright (C) 2020 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2019.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2019-2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: 15-years-of-free-software.html\n"
 "POT-Creation-Date: 2020-07-01 14:25+0000\n"
-"PO-Revision-Date: 2019-12-27 11:06-0300\n"
+"PO-Revision-Date: 2020-07-26 08:11-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -107,23 +107,6 @@ msgstr ""
 "humanidade."
 
 #. type: Content of: <p>
-# | In 1991, the last major essential component of a Unix-like system was
-# | developed: Linux, the free kernel written by Linus Torvalds. Today, the
-# | combination of GNU and Linux is used by millions of people around the
-# | world, and its popularity is growing. This month, we announced release 1.0
-# | of [-<acronym-] {+<abbr+} title=\"GNU Network Object Model
-# | [-Environment\">GNOME</acronym>,-] {+Environment\">GNOME</abbr>,+} the GNU
-# | graphical desktop, which we hope will make the GNU/Linux system as easy to
-# | use as any other operating system.
-#, fuzzy
-#| msgid ""
-#| "In 1991, the last major essential component of a Unix-like system was "
-#| "developed: Linux, the free kernel written by Linus Torvalds. Today, the "
-#| "combination of GNU and Linux is used by millions of people around the "
-#| "world, and its popularity is growing. This month, we announced release "
-#| "1.0 of <acronym title=\"GNU Network Object Model Environment\">GNOME</"
-#| "acronym>, the GNU graphical desktop, which we hope will make the GNU/"
-#| "Linux system as easy to use as any other operating system."
 msgid ""
 "In 1991, the last major essential component of a Unix-like system was "
 "developed: Linux, the free kernel written by Linus Torvalds. Today, the "
@@ -136,10 +119,10 @@ msgstr ""
 "Em 1991, o último grande componente essencial de um sistema similar ao Unix "
 "foi desenvolvido: Linux, o kernel livre escrito por Linus Torvalds. Hoje, a "
 "combinação de GNU e Linux é usada por milhões de pessoas em todo o mundo, e "
-"sua popularidade está crescendo. Este mês, anunciamos a versão 1.0 do "
-"<acronym title=\"GNU Network Object Model Environment\">GNOME</acronym>, o "
-"ambiente gráfico do GNU, que esperamos que torne o sistema GNU/Linux tão "
-"fácil de usar quanto qualquer outro sistema operacional."
+"sua popularidade está crescendo. Este mês, anunciamos a versão 1.0 do <abbr "
+"title=\"GNU Network Object Model Environment\">GNOME</abbr>, o ambiente "
+"gráfico do GNU, que esperamos que torne o sistema GNU/Linux tão fácil de "
+"usar quanto qualquer outro sistema operacional."
 
 #. type: Content of: <p>
 msgid ""
@@ -216,38 +199,25 @@ msgstr ""
 "envio de traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-# | Copyright &copy; 1999, [-2014-] {+2014, 2020+} Richard M. Stallman
-#, fuzzy
-#| msgid "Copyright &copy; 1999, 2014 Richard M. Stallman"
 msgid "Copyright &copy; 1999, 2014, 2020 Richard M. Stallman"
-msgstr "Copyright &copy; 1999, 2014 Richard M. Stallman"
+msgstr "Copyright &copy; 1999, 2014, 2020 Richard M. Stallman"
 
 #. type: Content of: <div><p>
-# | This page is licensed under a <a rel=\"license\"
-# | [-href=\"http://creativecommons.org/licenses/by-nd/3.0/us/\">Creative-]
-# | {+href=\"http://creativecommons.org/licenses/by-nd/4.0/\">Creative+}
-# | Commons [-Attribution-NoDerivs 3.0 United States-]
-# | {+Attribution-NoDerivatives 4.0 International+} License</a>.
-#, fuzzy
-#| msgid ""
-#| "This page is licensed under a <a rel=\"license\" href=\"http://"
-#| "creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-#| "NoDerivs 3.0 United States License</a>."
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
 "creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
 "NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
-"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
-"rafaelff@gnome.org&gt;</a>, 2019."
+"rafaelff@gnome.org&gt;</a>, 2019-2020."
 
 #.  timestamp start 
 #. type: Content of: <div><p>

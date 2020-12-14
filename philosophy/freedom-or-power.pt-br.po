@@ -1,20 +1,23 @@
 # Brazilian Portuguese translation of http://www.gnu.org/philosophy/freedom-or-power.html
-# Copyright (C) 2001 Free Software Foundation, Inc.
+# Copyright (C) 2020 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Fernando Lozano, 2001.
 # Jan 2015: GNUNify; trivial update; licensa > licença (T. Godefroy).
+# Rafael Fontenelle <rafaelff@gnome.org>, 2020.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: freedom-or-power.html\n"
-"POT-Creation-Date: 2014-03-31 06:29+0000\n"
-"PO-Revision-Date: 2015-01-20 21:20+0100\n"
-"Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
+"POT-Creation-Date: 2020-10-26 13:25+0000\n"
+"PO-Revision-Date: 2020-12-13 18:14-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 3.38.0\n"
 
 #. type: Content of: <title>
 msgid "Freedom Or Power? - GNU Project - Free Software Foundation"
@@ -304,8 +307,10 @@ msgstr ""
 "envio de traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2001, 2009 Bradley M. Kuhn and Richard M. Stallman"
-msgstr "Copyright &copy; 2001, 2009 Bradley M. Kuhn and Richard M. Stallman"
+msgid ""
+"Copyright &copy; 2001, 2009, 2020 Bradley M. Kuhn and Richard M. Stallman"
+msgstr ""
+"Copyright &copy; 2001, 2009, 2020 Bradley M. Kuhn and Richard M. Stallman"
 
 #. type: Content of: <div><p>
 msgid ""

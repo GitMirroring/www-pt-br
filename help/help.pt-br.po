@@ -2,19 +2,20 @@
 # Copyright (C) 2020 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Rafael Fontenelle <rafaelff@gnome.org>, 2017-2020.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: help.html\n"
-"POT-Creation-Date: 2020-06-21 07:55+0000\n"
-"PO-Revision-Date: 2020-06-22 00:29-0300\n"
+"POT-Creation-Date: 2020-10-16 14:26+0000\n"
+"PO-Revision-Date: 2020-12-13 12:06-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 1.0.0-beta1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 3.38.0\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -27,6 +28,28 @@ msgstr ""
 #. type: Content of: <h2>
 msgid "Helping the GNU Project and the Free Software Movement"
 msgstr "Ajudando o Projeto GNU e o Movimento Software Livre"
+
+#. type: Content of: <p>
+msgid ""
+"Saying no to the use of a nonfree program or an online disservice <a href=\"/"
+"philosophy/saying-no-even-once.html\">on even one occasion</a> helps the "
+"cause of software freedom.  Saying no to using it <em>with others</em> helps "
+"even more.  And if you tell them it is for defense of your freedom, that "
+"helps even more."
+msgstr ""
+"Dizer não ao uso de um programa não livre ou a um desserviço online <a href="
+"\"/philosophy/saying-no-even-once.html\">em até mesmo uma ocasião</a> ajuda "
+"a causa da liberdade do software. Dizer não para usá-lo <em>com outras "
+"pessoas</em> ajuda ainda mais. E se você disser que é pela defesa de sua "
+"liberdade, isso ajuda ainda mais."
+
+#. type: Content of: <p>
+msgid ""
+"Beyond that, you can also help by volunteering to do work.  This page lists "
+"many kinds of work we need."
+msgstr ""
+"Além disso, você também pode ajudar oferecendo-se para trabalhar. Esta "
+"página lista muitos tipos de trabalho de que precisamos."
 
 #. type: Content of: <div><h3>
 msgid "Table of Contents"
@@ -303,15 +326,19 @@ msgstr ""
 msgid ""
 "We need native English speakers with a good command of the language to "
 "proofread English text written by GNU package maintainers and other "
-"volunteers. To help with this, please subscribe to the low-traffic <a href="
-"\"https://lists.gnu.org/mailman/listinfo/proofreaders\">GNU documentation "
-"proofreaders list</a>."
+"volunteers. These texts can be articles on various subjects related to free "
+"software, documentation, or sometimes GNU manuals that need to be prepared "
+"for printing. To help with this task, please subscribe to the low-traffic <a "
+"href=\"https://lists.gnu.org/mailman/listinfo/proofreaders\">GNU "
+"documentation proofreaders list</a>."
 msgstr ""
 "Precisamos de falantes nativos de inglês com um bom domínio do idioma para "
 "revisar o texto em inglês escrito por mantenedores de pacotes GNU e outros "
-"voluntários. Para ajudar com isso, assine a <a href=\"https://lists.gnu.org/"
-"mailman/listinfo/proofreaders\">lista de revisores de documentação do GNU</"
-"a>."
+"voluntários. Estes textos podem ser artigos sobre vários assuntos "
+"relacionados a software livre, documentação ou, em alguns casos, manuais do "
+"GNU para serem preparados para impressão. Para ajudar com isso, assine a <a "
+"href=\"https://lists.gnu.org/mailman/listinfo/proofreaders\">lista de "
+"revisores de documentação do GNU</a>."
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -342,16 +369,6 @@ msgstr ""
 "frequência nas categorias apropriadas. Se você tiver interesses em nos "
 "ajudar com essa tarefa, por favor contate os Coordenadores de Voluntários "
 "GNU <a href=\"mailto:gvc@gnu.org\">&lt;gvc@gnu.org&gt;</a>."
-
-#. type: Content of: <ul><li>
-msgid ""
-"Volunteer for proofreading of new and revised GNU manuals.  Write to <a href="
-"\"mailto:campaigns@fsf.org\">&lt;campaigns@fsf.org&gt;</a> to be added to "
-"the proofreaders list."
-msgstr ""
-"Voluntarie-se para a revisão de manuais GNU novos e revisados. Escreva para "
-"<a href=\"mailto:campaigns@fsf.org\">&lt;campaigns@fsf.org&gt;</a> para ser "
-"adicionar à lista de revisores."
 
 #. type: Content of: <ul><li>
 msgid "Donate <a href=\"/help/help-hardware.html\">hardware</a> to the FSF."
@@ -645,6 +662,15 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid ""
+#~ "Volunteer for proofreading of new and revised GNU manuals.  Write to <a "
+#~ "href=\"mailto:campaigns@fsf.org\">&lt;campaigns@fsf.org&gt;</a> to be "
+#~ "added to the proofreaders list."
+#~ msgstr ""
+#~ "Voluntarie-se para a revisão de manuais GNU novos e revisados. Escreva "
+#~ "para <a href=\"mailto:campaigns@fsf.org\">&lt;campaigns@fsf.org&gt;</a> "
+#~ "para ser adicionar à lista de revisores."
 
 #~ msgid ""
 #~ "Each translation team needs several members that are native speakers of "

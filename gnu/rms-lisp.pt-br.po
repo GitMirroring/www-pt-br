@@ -1,15 +1,15 @@
 # Brazilian Portuguese translation of http://www.gnu.org/gnu/rms-lisp.html
-# Copyright (C) 2018 Free Software Foundation, Inc.
+# Copyright (C) 2020 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2018. (#15003)
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018. (#15003), 2020.
 # André N Batista <nandre@riseup.net>, 2018. (#55220)
 # Cassiano R Novais dos Santos <caco@member.fsf.org>, 2019. (#15003)
 msgid ""
 msgstr ""
 "Project-Id-Version: rms-lisp.html\n"
-"POT-Creation-Date: 2020-07-07 11:55+0000\n"
-"PO-Revision-Date: 2019-01-03 13:12-0200\n"
-"Last-Translator: Cassiano R Novais dos Santos <caco@member.fsf.org>\n"
+"POT-Creation-Date: 2020-09-21 18:55+0000\n"
+"PO-Revision-Date: 2020-07-25 16:32-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -139,33 +139,6 @@ msgstr ""
 "vivemos no AI Lab que levou ao Emacs e fez dele o que se tornou."
 
 #. type: Content of: <p>
-# | The original Emacs did not have Lisp in it. The lower level language, the
-# | non-interpreted language &mdash; was [-<abbr>PDP</abbr>-10-] {+PDP-10+}
-# | Assembler. The interpreter we wrote in that actually wasn't written for
-# | Emacs, it was written for [-<acronym-] {+<abbr+} title=\"Text Editor and
-# | [-COrrector\">TECO</acronym>.-] {+COrrector\">TECO</abbr>.+} It was our
-# | text editor, and was an extremely ugly programming language, as ugly as
-# | could possibly be. The reason was that it wasn't designed to be a
-# | programming language, it was designed to be an editor and command
-# | language. There were commands like &lsquo;5l&rsquo;, meaning &lsquo;move
-# | five lines&rsquo;, or &lsquo;i&rsquo; and then a string and then an ESC to
-# | insert that string. You would type a string that was a series of commands,
-# | which was called a command string. You would end it with ESC ESC, and it
-# | would get executed.
-#, fuzzy
-#| msgid ""
-#| "The original Emacs did not have Lisp in it. The lower level language, the "
-#| "non-interpreted language &mdash; was <abbr>PDP</abbr>-10 Assembler. The "
-#| "interpreter we wrote in that actually wasn't written for Emacs, it was "
-#| "written for <acronym title=\"Text Editor and COrrector\">TECO</acronym>. "
-#| "It was our text editor, and was an extremely ugly programming language, "
-#| "as ugly as could possibly be. The reason was that it wasn't designed to "
-#| "be a programming language, it was designed to be an editor and command "
-#| "language. There were commands like &lsquo;5l&rsquo;, meaning &lsquo;move "
-#| "five lines&rsquo;, or &lsquo;i&rsquo; and then a string and then an ESC "
-#| "to insert that string. You would type a string that was a series of "
-#| "commands, which was called a command string. You would end it with ESC "
-#| "ESC, and it would get executed."
 msgid ""
 "The original Emacs did not have Lisp in it. The lower level language, the "
 "non-interpreted language &mdash; was PDP-10 Assembler. The interpreter we "
@@ -180,7 +153,7 @@ msgid ""
 "would end it with ESC ESC, and it would get executed."
 msgstr ""
 "O Emacs original não tinha Lisp nele. A linguagem de baixo nível, a "
-"linguagem não interpretada &ndash; era o Assembler de <abbr>PDP</abbr>-10. O "
+"linguagem não interpretada &ndash; era o Assembler de PDP-10. O "
 "interpretador que escrevemos na verdade não foi escrito para o Emacs, foi "
 "escrito para o <abbr title=\"Text Editor and COrrector\">TECO</abbr>. Era o "
 "nosso editor de texto, e era uma linguagem de programação extremamente feia, "
@@ -193,30 +166,6 @@ msgstr ""
 "ESC ESC, e o comando seria executado."
 
 #. type: Content of: <p>
-# | Well, people wanted to extend this language with programming facilities,
-# | so they added some. For instance, one of the first was a looping
-# | construct, which was &lt; &gt;. You would put those around things and it
-# | would loop. There were other cryptic commands that could be used to
-# | conditionally exit the loop.  To make Emacs, we <a
-# | href=\"#foot-1\">(1)</a> added facilities to have subroutines with names.
-# | Before that, it was sort of like Basic, and the subroutines could only
-# | have single letters as their names. That was hard to program big programs
-# | with, so we added code so they could have longer names. Actually, there
-# | were some rather sophisticated facilities; I think that Lisp got its
-# | unwind-protect facility from [-<acronym>TECO</acronym>.-] {+TECO.+}
-#, fuzzy
-#| msgid ""
-#| "Well, people wanted to extend this language with programming facilities, "
-#| "so they added some. For instance, one of the first was a looping "
-#| "construct, which was &lt; &gt;. You would put those around things and it "
-#| "would loop. There were other cryptic commands that could be used to "
-#| "conditionally exit the loop.  To make Emacs, we <a href=\"#foot-1\">(1)</"
-#| "a> added facilities to have subroutines with names. Before that, it was "
-#| "sort of like Basic, and the subroutines could only have single letters as "
-#| "their names. That was hard to program big programs with, so we added code "
-#| "so they could have longer names. Actually, there were some rather "
-#| "sophisticated facilities; I think that Lisp got its unwind-protect "
-#| "facility from <acronym>TECO</acronym>."
 msgid ""
 "Well, people wanted to extend this language with programming facilities, so "
 "they added some. For instance, one of the first was a looping construct, "
@@ -240,29 +189,9 @@ msgstr ""
 "desenvolver programas grandes, então adicionamos código para que eles "
 "pudessem ter nomes mais longos. Na verdade, havia algumas instalações "
 "bastante sofisticadas; eu acho que o Lisp obteve seu mecanismo de <i>unwind-"
-"protect</i> do <abbr>TECO</abbr>."
+"protect</i> do TECO."
 
 #. type: Content of: <p>
-# | We started putting in rather sophisticated facilities, all with the
-# | ugliest syntax you could ever think of, and it worked &mdash; people were
-# | able to write large programs in it anyway. The obvious lesson was that a
-# | language like [-<acronym>TECO</acronym>,-] {+TECO,+} which wasn't designed
-# | to be a programming language, was the wrong way to go. The language that
-# | you build your extensions on shouldn't be thought of as a programming
-# | language in afterthought; it should be designed as a programming language.
-# | In fact, we discovered that the best programming language for that purpose
-# | was Lisp.
-#, fuzzy
-#| msgid ""
-#| "We started putting in rather sophisticated facilities, all with the "
-#| "ugliest syntax you could ever think of, and it worked &mdash; people were "
-#| "able to write large programs in it anyway. The obvious lesson was that a "
-#| "language like <acronym>TECO</acronym>, which wasn't designed to be a "
-#| "programming language, was the wrong way to go. The language that you "
-#| "build your extensions on shouldn't be thought of as a programming "
-#| "language in afterthought; it should be designed as a programming "
-#| "language. In fact, we discovered that the best programming language for "
-#| "that purpose was Lisp."
 msgid ""
 "We started putting in rather sophisticated facilities, all with the ugliest "
 "syntax you could ever think of, and it worked &mdash; people were able to "
@@ -276,9 +205,9 @@ msgstr ""
 "Começamos a colocar instalações bastante sofisticadas, todas com a sintaxe "
 "mais feia que você poderia imaginar, e funcionou &ndash; as pessoas eram "
 "capazes de escrever programas grandes de qualquer maneira. A lição óbvia foi "
-"que uma linguagem como <abbr>TECO</abbr>, que não foi projetada para ser uma "
-"linguagem de programação, era o caminho errado a seguir. A linguagem na qual "
-"você constrói suas extensões não deve ser pensada como uma linguagem de "
+"que uma linguagem como TECO, que não foi projetada para ser uma linguagem de "
+"programação, era o caminho errado a seguir. A linguagem na qual você "
+"constrói suas extensões não deve ser pensada como uma linguagem de "
 "programação na reflexão posterior; deve ser projetada como uma linguagem de "
 "programação. De fato, descobrimos que a melhor linguagem de programação para "
 "esse propósito era Lisp."
@@ -328,56 +257,6 @@ msgstr ""
 "até chegarem ao ponto em que são programadores."
 
 #. type: Content of: <p>
-# | At that point, people began to wonder how they could get something like
-# | this on a platform where they didn't have full service Lisp
-# | implementation. Multics MacLisp had a compiler as well as an interpreter
-# | &mdash; it was a full-fledged Lisp system &mdash; but people wanted to
-# | implement something like that on other systems where they had not already
-# | written a Lisp compiler. Well, if you didn't have the Lisp compiler you
-# | couldn't write the whole editor in Lisp &mdash; it would be too slow,
-# | especially redisplay, if it had to run interpreted Lisp.  So we developed
-# | a hybrid technique. The idea was to write a Lisp interpreter and the lower
-# | level parts of the editor together, so that parts of the editor were
-# | built-in Lisp facilities. Those would be whatever parts we felt we had to
-# | optimize. This was a technique that we had already consciously practiced
-# | in the original Emacs, because there were certain fairly high level
-# | features which we re-implemented in machine language, making them into
-# | [-<acronym>TECO</acronym>-] {+TECO+} primitives. For instance, there was a
-# | [-<acronym>TECO</acronym>-] {+TECO+} primitive to fill a paragraph
-# | (actually, to do most of the work of filling a paragraph, because some of
-# | the less time-consuming parts of the job would be done at the higher level
-# | by a [-<acronym>TECO</acronym>-] {+TECO+} program). You could do the whole
-# | job by writing a [-<acronym>TECO</acronym>-] {+TECO+} program, but that
-# | was too slow, so we optimized it by putting part of it in machine
-# | language. We used the same idea here (in the hybrid technique), that most
-# | of the editor would be written in Lisp, but certain parts of it that had
-# | to run particularly fast would be written at a lower level.
-#, fuzzy
-#| msgid ""
-#| "At that point, people began to wonder how they could get something like "
-#| "this on a platform where they didn't have full service Lisp "
-#| "implementation. Multics MacLisp had a compiler as well as an interpreter "
-#| "&mdash; it was a full-fledged Lisp system &mdash; but people wanted to "
-#| "implement something like that on other systems where they had not already "
-#| "written a Lisp compiler. Well, if you didn't have the Lisp compiler you "
-#| "couldn't write the whole editor in Lisp &mdash; it would be too slow, "
-#| "especially redisplay, if it had to run interpreted Lisp.  So we developed "
-#| "a hybrid technique. The idea was to write a Lisp interpreter and the "
-#| "lower level parts of the editor together, so that parts of the editor "
-#| "were built-in Lisp facilities. Those would be whatever parts we felt we "
-#| "had to optimize. This was a technique that we had already consciously "
-#| "practiced in the original Emacs, because there were certain fairly high "
-#| "level features which we re-implemented in machine language, making them "
-#| "into <acronym>TECO</acronym> primitives. For instance, there was a "
-#| "<acronym>TECO</acronym> primitive to fill a paragraph (actually, to do "
-#| "most of the work of filling a paragraph, because some of the less time-"
-#| "consuming parts of the job would be done at the higher level by a "
-#| "<acronym>TECO</acronym> program). You could do the whole job by writing a "
-#| "<acronym>TECO</acronym> program, but that was too slow, so we optimized "
-#| "it by putting part of it in machine language. We used the same idea here "
-#| "(in the hybrid technique), that most of the editor would be written in "
-#| "Lisp, but certain parts of it that had to run particularly fast would be "
-#| "written at a lower level."
 msgid ""
 "At that point, people began to wonder how they could get something like this "
 "on a platform where they didn't have full service Lisp implementation. "
@@ -416,16 +295,16 @@ msgstr ""
 "partes que sentimos que precisávamos otimizar. Esta foi uma técnica que já "
 "tínhamos praticado conscientemente no Emacs original, porque havia certos "
 "recursos de alto nível que reimplementamos em linguagem de máquina, "
-"transformando-os em primitivas do <abbr>TECO</abbr>. Por exemplo, havia uma "
-"primitiva do <abbr>TECO</abbr> para preencher um parágrafo (na verdade, para "
-"fazer a maior parte do trabalho de preencher um parágrafo, porque algumas "
-"das partes menos demoradas do trabalho seriam feitas em um nível mais alto "
-"por um programa do <abbr>TECO</abbr>). Você poderia fazer o trabalho inteiro "
-"escrevendo um programa do <abbr>TECO</abbr>, mas isso era muito lento, então "
-"otimizamos isso colocando parte dele em linguagem de máquina. Usamos a mesma "
-"ideia aqui (na técnica híbrida), que a maior parte do editor seria escrita "
-"em Lisp, mas certas partes dele que tinham que rodar particularmente rápido "
-"seriam escritas em um nível mais baixo."
+"transformando-os em primitivas do TECO. Por exemplo, havia uma primitiva do "
+"TECO para preencher um parágrafo (na verdade, para fazer a maior parte do "
+"trabalho de preencher um parágrafo, porque algumas das partes menos "
+"demoradas do trabalho seriam feitas em um nível mais alto por um programa do "
+"TECO). Você poderia fazer o trabalho inteiro escrevendo um programa do TECO, "
+"mas isso era muito lento, então otimizamos isso colocando parte dele em "
+"linguagem de máquina. Usamos a mesma ideia aqui (na técnica híbrida), que a "
+"maior parte do editor seria escrita em Lisp, mas certas partes dele que "
+"tinham que rodar particularmente rápido seriam escritas em um nível mais "
+"baixo."
 
 #. type: Content of: <p>
 msgid ""
@@ -448,33 +327,6 @@ msgstr ""
 "tela, gerenciamento de janelas do editor."
 
 #. type: Content of: <p>
-# | Now, this was not the first Emacs that was written in C and ran on Unix.
-# | The first was written by James Gosling, and was referred to as GosMacs. A
-# | strange thing happened with him. In the beginning, he seemed to be
-# | influenced by the same spirit of sharing and cooperation of the original
-# | Emacs. I first released the original Emacs to people at
-# | [-<abbr>MIT</abbr>.-] {+MIT.+} Someone wanted to port it to run on Twenex
-# | &mdash; it originally only ran on the Incompatible Timesharing System we
-# | used at [-<abbr>MIT</abbr>.-] {+MIT.+} They ported it to Twenex, which
-# | meant that there were a few hundred installations around the world that
-# | could potentially use it. We started distributing it to them, with the
-# | rule that &ldquo;you had to send back all of your improvements&rdquo; so
-# | we could all benefit. No one ever tried to enforce that, but as far as I
-# | know people did cooperate.
-#, fuzzy
-#| msgid ""
-#| "Now, this was not the first Emacs that was written in C and ran on Unix. "
-#| "The first was written by James Gosling, and was referred to as GosMacs. A "
-#| "strange thing happened with him. In the beginning, he seemed to be "
-#| "influenced by the same spirit of sharing and cooperation of the original "
-#| "Emacs. I first released the original Emacs to people at <abbr>MIT</abbr>. "
-#| "Someone wanted to port it to run on Twenex &mdash; it originally only ran "
-#| "on the Incompatible Timesharing System we used at <abbr>MIT</abbr>. They "
-#| "ported it to Twenex, which meant that there were a few hundred "
-#| "installations around the world that could potentially use it. We started "
-#| "distributing it to them, with the rule that &ldquo;you had to send back "
-#| "all of your improvements&rdquo; so we could all benefit. No one ever "
-#| "tried to enforce that, but as far as I know people did cooperate."
 msgid ""
 "Now, this was not the first Emacs that was written in C and ran on Unix. The "
 "first was written by James Gosling, and was referred to as GosMacs. A "
@@ -493,15 +345,15 @@ msgstr ""
 "primeiro foi escrito por James Gosling e foi referido como GosMacs. Uma "
 "coisa estranha aconteceu com ele. No começo, ele parecia influenciado pelo "
 "mesmo espírito de compartilhamento e cooperação do Emacs original. Eu lancei "
-"pela primeira vez o Emacs original ao público no <abbr>MIT</abbr>. Alguém "
-"queria portá-lo para rodar no Twenex &ndash; originalmente rodava apenas no "
-"Sistema de Compartilhamento de Tempo Incompatível (<abbr title="
-"\"Incompatible Timesharing System\">ITS</abbr>) que usávamos no <abbr>MIT</"
-"abbr>. Eles o levaram para o Twenex, o que significava que havia algumas "
-"centenas de instalações em todo o mundo que poderiam usá-lo. Nós começamos a "
-"distribuí-lo para eles, com a regra de que “você tinha que mandar de volta "
-"todos os seus aprimoramentos” para que todos pudéssemos nos beneficiar. "
-"Ninguém nunca tentou impor isso, mas até onde eu sei, as pessoas cooperaram."
+"pela primeira vez o Emacs original ao público no MIT. Alguém queria portá-lo "
+"para rodar no Twenex &ndash; originalmente rodava apenas no Sistema de "
+"Compartilhamento de Tempo Incompatível (<abbr title=\"Incompatible "
+"Timesharing System\">ITS</abbr>) que usávamos no MIT. Eles o levaram para o "
+"Twenex, o que significava que havia algumas centenas de instalações em todo "
+"o mundo que poderiam usá-lo. Nós começamos a distribuí-lo para eles, com a "
+"regra de que “você tinha que mandar de volta todos os seus aprimoramentos” "
+"para que todos pudéssemos nos beneficiar. Ninguém nunca tentou impor isso, "
+"mas até onde eu sei, as pessoas cooperaram."
 
 #. type: Content of: <p>
 msgid ""
@@ -578,32 +430,11 @@ msgstr ""
 "reexibição. É uma coisa bastante conveniente."
 
 #. type: Content of: <p>
-# | This second Emacs program was &lsquo;free software&rsquo; in the modern
-# | sense of the term &mdash; it was part of an explicit political campaign to
-# | make software free. The essence of this campaign was that everybody should
-# | be free to do the things we did in the old days at [-<abbr>MIT</abbr>,-]
-# | {+MIT>,+} working together on software and working with whomever wanted to
-# | work with us.  That is the basis for the free software movement &mdash;
-# | the experience I had, the life that I've lived at the [-<abbr>MIT</abbr>-]
-# | {+MIT+} AI lab &mdash; to be working on human knowledge, and not be
-# | standing in the way of anybody's further using and further disseminating
-# | human knowledge.
-#, fuzzy
-#| msgid ""
-#| "This second Emacs program was &lsquo;free software&rsquo; in the modern "
-#| "sense of the term &mdash; it was part of an explicit political campaign "
-#| "to make software free. The essence of this campaign was that everybody "
-#| "should be free to do the things we did in the old days at <abbr>MIT</"
-#| "abbr>, working together on software and working with whomever wanted to "
-#| "work with us.  That is the basis for the free software movement &mdash; "
-#| "the experience I had, the life that I've lived at the <abbr>MIT</abbr> AI "
-#| "lab &mdash; to be working on human knowledge, and not be standing in the "
-#| "way of anybody's further using and further disseminating human knowledge."
 msgid ""
 "This second Emacs program was &lsquo;free software&rsquo; in the modern "
 "sense of the term &mdash; it was part of an explicit political campaign to "
 "make software free. The essence of this campaign was that everybody should "
-"be free to do the things we did in the old days at MIT>, working together on "
+"be free to do the things we did in the old days at MIT, working together on "
 "software and working with whomever wanted to work with us.  That is the "
 "basis for the free software movement &mdash; the experience I had, the life "
 "that I've lived at the MIT AI lab &mdash; to be working on human knowledge, "
@@ -613,32 +444,14 @@ msgstr ""
 "Este segundo programa Emacs era “software livre” no sentido moderno do termo "
 "&ndash; foi parte de uma campanha política explícita para desenvolver "
 "software livre. A essência dessa campanha era que todos deveriam ser livres "
-"para fazer as coisas que fazíamos antigamente no <abbr>MIT</abbr>, "
-"trabalhando juntos em software e trabalhando com quem quisesse trabalhar "
-"conosco. Essa é a base para o movimento do software livre &ndash; a "
-"experiência que tive, a vida que vivi no AI Lab do <abbr>MIT</abbr> de estar "
-"trabalhando no conhecimento humano, e não estar no caminho impedindo as "
-"pessoas de usar e disseminar ainda mais o conhecimento humano."
+"para fazer as coisas que fazíamos antigamente no MIT, trabalhando juntos em "
+"software e trabalhando com quem quisesse trabalhar conosco. Essa é a base "
+"para o movimento do software livre &ndash; a experiência que tive, a vida "
+"que vivi no AI Lab do MIT de estar trabalhando no conhecimento humano, e não "
+"estar no caminho impedindo as pessoas de usar e disseminar ainda mais o "
+"conhecimento humano."
 
 #. type: Content of: <p>
-# | At the time, you could make a computer that was about the same price range
-# | as other computers that weren't meant for Lisp, except that it would run
-# | Lisp much faster than they would, and with full type checking in every
-# | operation as well. Ordinary computers typically forced you to choose
-# | between execution speed and good typechecking.  So yes, you could have a
-# | Lisp compiler and run your programs fast, but when they tried to take
-# | [-<tt>car</tt>-] {+<code>car</code>+} of a number, it got nonsensical
-# | results and eventually crashed at some point.
-#, fuzzy
-#| msgid ""
-#| "At the time, you could make a computer that was about the same price "
-#| "range as other computers that weren't meant for Lisp, except that it "
-#| "would run Lisp much faster than they would, and with full type checking "
-#| "in every operation as well. Ordinary computers typically forced you to "
-#| "choose between execution speed and good typechecking.  So yes, you could "
-#| "have a Lisp compiler and run your programs fast, but when they tried to "
-#| "take <tt>car</tt> of a number, it got nonsensical results and eventually "
-#| "crashed at some point."
 msgid ""
 "At the time, you could make a computer that was about the same price range "
 "as other computers that weren't meant for Lisp, except that it would run "
@@ -655,29 +468,30 @@ msgstr ""
 "tipo completa em todas as operações também. Computadores comuns normalmente "
 "o forçavam a optar pela velocidade de execução e boa verificação da "
 "digitação. Então, sim, você poderia ter um compilador Lisp e rodar seus "
-"programas rapidamente, mas quando eles tentavam pegar o <tt>car</tt> de um "
-"número, ele obtinha resultados absurdos e eventualmente falhava em algum "
+"programas rapidamente, mas quando eles tentavam pegar o <code>car</code> de "
+"um número, ele obtinha resultados absurdos e eventualmente falhava em algum "
 "ponto."
 
 #. type: Content of: <p>
 msgid ""
 "The Lisp machine was able to execute instructions about as fast as those "
-"other machines, but each instruction &mdash; a car instruction would do data "
-"typechecking &mdash; so when you tried to get the car of a number in a "
-"compiled program, it would give you an immediate error. We built the machine "
-"and had a Lisp operating system for it. It was written almost entirely in "
-"Lisp, the only exceptions being parts written in the microcode. People "
-"became interested in manufacturing them, which meant they should start a "
-"company."
+"other machines, but each instruction &mdash; a <code>car</code> instruction "
+"would do data typechecking &mdash; so when you tried to get the <code>car</"
+"code> of a number in a compiled program, it would give you an immediate "
+"error. We built the machine and had a Lisp operating system for it. It was "
+"written almost entirely in Lisp, the only exceptions being parts written in "
+"the microcode. People became interested in manufacturing them, which meant "
+"they should start a company."
 msgstr ""
 "A máquina Lisp era capaz de executar instruções tão rápido quanto as outras "
-"máquinas, mas cada instrução &ndash; uma instrução <tt>car</tt> &ndash; "
+"máquinas, mas cada instrução &ndash; uma instrução <code>car</code> &ndash; "
 "faria uma verificação de tipo de dados de forma que quando se tentava obter "
-"o <tt>car</tt> de um número em um programa compilado, ele causaria um erro "
-"imediato. Nós construímos a máquina e tínhamos um sistema operacional Lisp "
-"para ela. Ele foi escrito quase inteiramente em Lisp, as únicas exceções "
-"sendo partes escritas no microcódigo. As pessoas ficaram interessadas em "
-"fabricá-las, o que significava que deveriam abrir uma empresa."
+"o <code>car</code> de um número em um programa compilado, ele causaria um "
+"erro imediato. Nós construímos a máquina e tínhamos um sistema operacional "
+"Lisp para ela. Ele foi escrito quase inteiramente em Lisp, as únicas "
+"exceções sendo partes escritas no microcódigo. As pessoas ficaram "
+"interessadas em fabricá-las, o que significava que deveriam abrir uma "
+"empresa."
 
 #. type: Content of: <p>
 msgid ""
@@ -771,34 +585,6 @@ msgstr ""
 "de cara no chão, eles começaram a procurar maneiras de destruí-la."
 
 #. type: Content of: <p>
-# | Thus, the abandonment of our lab was followed by &ldquo;war&rdquo; in our
-# | lab.  The abandonment happened when Symbolics hired away all the hackers,
-# | except me and the few who worked at LMI part-time. Then they invoked a
-# | rule and eliminated people who worked part-time for [-<abbr>MIT</abbr>,-]
-# | {+MIT,+} so they had to leave entirely, which left only me. The AI lab was
-# | now helpless.  And [-<abbr>MIT</abbr>-] {+MIT+} had made a very foolish
-# | arrangement with these two companies.  It was a three-way contract where
-# | both companies licensed the use of Lisp machine system sources. These
-# | companies were required to let [-<abbr>MIT</abbr>-] {+MIT+} use their
-# | changes. But it didn't say in the contract that [-<abbr>MIT</abbr>-]
-# | {+MIT+} was entitled to put them into the [-<abbr>MIT</abbr>-] {+MIT+}
-# | Lisp machine systems that both companies had licensed. Nobody had
-# | envisioned that the AI lab's hacker group would be wiped out, but it was.
-#, fuzzy
-#| msgid ""
-#| "Thus, the abandonment of our lab was followed by &ldquo;war&rdquo; in our "
-#| "lab.  The abandonment happened when Symbolics hired away all the hackers, "
-#| "except me and the few who worked at LMI part-time. Then they invoked a "
-#| "rule and eliminated people who worked part-time for <abbr>MIT</abbr>, so "
-#| "they had to leave entirely, which left only me. The AI lab was now "
-#| "helpless.  And <abbr>MIT</abbr> had made a very foolish arrangement with "
-#| "these two companies.  It was a three-way contract where both companies "
-#| "licensed the use of Lisp machine system sources. These companies were "
-#| "required to let <abbr>MIT</abbr> use their changes. But it didn't say in "
-#| "the contract that <abbr>MIT</abbr> was entitled to put them into the "
-#| "<abbr>MIT</abbr> Lisp machine systems that both companies had licensed. "
-#| "Nobody had envisioned that the AI lab's hacker group would be wiped out, "
-#| "but it was."
 msgid ""
 "Thus, the abandonment of our lab was followed by &ldquo;war&rdquo; in our "
 "lab.  The abandonment happened when Symbolics hired away all the hackers, "
@@ -816,30 +602,16 @@ msgstr ""
 "laboratório. O abandono aconteceu quando a Symbolics contratou todos os "
 "hackers, exceto eu e os poucos que trabalhavam na LMI em meio período. Então "
 "eles invocaram uma regra e eliminaram pessoas que trabalhavam em meio "
-"período para o <abbr>MIT</abbr>, então tiveram que sair completamente, "
-"restando apenas eu. O AI Lab estava agora indefeso. E o <abbr>MIT</abbr> fez "
-"um acordo muito tolo com essas duas empresas. Foi um contrato de três vias "
-"em que ambas as empresas licenciaram o uso de fontes do sistema de máquinas "
-"Lisp. Essas empresas foram obrigadas a deixar o <abbr>MIT</abbr> usar suas "
-"mudanças. Mas não disse no contrato que o <abbr>MIT</abbr> tinha o direito "
-"de colocá-los nos sistemas de máquinas <abbr>MIT</abbr> Lisp que ambas as "
-"empresas tinham licenciado. Ninguém previra que o grupo de hackers do AI Lab "
-"seria aniquilado, mas foi."
+"período para o MIT, então tiveram que sair completamente, restando apenas "
+"eu. O AI Lab estava agora indefeso. E o MIT fez um acordo muito tolo com "
+"essas duas empresas. Foi um contrato de três vias em que ambas as empresas "
+"licenciaram o uso de fontes do sistema de máquinas Lisp. Essas empresas "
+"foram obrigadas a deixar o MIT usar suas mudanças. Mas não disse no contrato "
+"que o MIT tinha o direito de colocá-los nos sistemas de máquinas MIT Lisp "
+"que ambas as empresas tinham licenciado. Ninguém previra que o grupo de "
+"hackers do AI Lab seria aniquilado, mas foi."
 
 #. type: Content of: <p>
-# | So Symbolics came up with a plan <a href=\"#foot-4\">(4)</a>.  They said
-# | to the lab, &ldquo;We will continue making our changes to the system
-# | available for you to use, but you can't put it into the
-# | [-<abbr>MIT</abbr>-] {+MIT+} Lisp machine system. Instead, we'll give you
-# | access to Symbolics' Lisp machine system, and you can run it, but that's
-# | all you can do.&rdquo;
-#, fuzzy
-#| msgid ""
-#| "So Symbolics came up with a plan <a href=\"#foot-4\">(4)</a>.  They said "
-#| "to the lab, &ldquo;We will continue making our changes to the system "
-#| "available for you to use, but you can't put it into the <abbr>MIT</abbr> "
-#| "Lisp machine system. Instead, we'll give you access to Symbolics' Lisp "
-#| "machine system, and you can run it, but that's all you can do.&rdquo;"
 msgid ""
 "So Symbolics came up with a plan <a href=\"#foot-4\">(4)</a>.  They said to "
 "the lab, &ldquo;We will continue making our changes to the system available "
@@ -850,31 +622,10 @@ msgstr ""
 "Então, a Symbolics criou um plano <a href=\"#foot-4\">(4)</a>. Eles disseram "
 "para o laboratório, “Continuaremos a disponibilizar nossas alterações no "
 "sistema para você usar, mas você não pode colocá-las no sistema da máquina "
-"Lisp do <abbr>MIT</abbr>. Em vez disso, daremos acesso ao sistema de máquina "
-"Lisp da Symbolics e você poderá executá-lo, mas isso é tudo que você pode "
-"fazer.”"
+"Lisp do MIT. Em vez disso, daremos acesso ao sistema de máquina Lisp da "
+"Symbolics e você poderá executá-lo, mas isso é tudo que você pode fazer.”"
 
 #. type: Content of: <p>
-# | This, in effect, meant that they demanded that we had to choose a side,
-# | and use either the [-<abbr>MIT</abbr>-] {+MIT+} version of the system or
-# | the Symbolics version.  Whichever choice we made determined which system
-# | our improvements went to. If we worked on and improved the Symbolics
-# | version, we would be supporting Symbolics alone. If we used and improved
-# | the [-<abbr>MIT</abbr>-] {+MIT+} version of the system, we would be doing
-# | work available to both companies, but Symbolics saw that we would be
-# | supporting LMI because we would be helping them continue to exist. So we
-# | were not allowed to be neutral anymore.
-#, fuzzy
-#| msgid ""
-#| "This, in effect, meant that they demanded that we had to choose a side, "
-#| "and use either the <abbr>MIT</abbr> version of the system or the "
-#| "Symbolics version.  Whichever choice we made determined which system our "
-#| "improvements went to. If we worked on and improved the Symbolics version, "
-#| "we would be supporting Symbolics alone. If we used and improved the "
-#| "<abbr>MIT</abbr> version of the system, we would be doing work available "
-#| "to both companies, but Symbolics saw that we would be supporting LMI "
-#| "because we would be helping them continue to exist. So we were not "
-#| "allowed to be neutral anymore."
 msgid ""
 "This, in effect, meant that they demanded that we had to choose a side, and "
 "use either the MIT version of the system or the Symbolics version.  "
@@ -886,14 +637,13 @@ msgid ""
 "So we were not allowed to be neutral anymore."
 msgstr ""
 "Isso, na verdade, significava que eles precisavam escolher um lado e, ou "
-"usar a versão <abbr>MIT</abbr> do sistema ou a versão da Symbolics. A "
-"depender da escolha que fizéssemos, seria determinado para qual sistema "
-"nossas melhorias iriam. Se trabalhássemos e melhorássemos a versão da "
-"Symbolics, estaríamos apoiando a Symbolics sozinha. Se usássemos e "
-"melhorássemos a versão do sistema do <abbr>MIT</abbr>, estaríamos "
-"disponibilizando o trabalho para ambas as empresas, mas a Symbolics viu que "
-"estaríamos apoiando a LMI porque estaríamos ajudando-a a continuar "
-"existindo. Então não nos permitiram mais ser neutros."
+"usar a versão MIT do sistema ou a versão da Symbolics. A depender da escolha "
+"que fizéssemos, seria determinado para qual sistema nossas melhorias iriam. "
+"Se trabalhássemos e melhorássemos a versão da Symbolics, estaríamos apoiando "
+"a Symbolics sozinha. Se usássemos e melhorássemos a versão do sistema do "
+"MIT, estaríamos disponibilizando o trabalho para ambas as empresas, mas a "
+"Symbolics viu que estaríamos apoiando a LMI porque estaríamos ajudando-a a "
+"continuar existindo. Então não nos permitiram mais ser neutros."
 
 #. type: Content of: <p>
 msgid ""
@@ -932,9 +682,9 @@ msgid ""
 "Incorporated, and the two companies went on. But, I didn't want to spend "
 "years and years punishing someone, just thwarting an evil deed. I figured "
 "they had been punished pretty thoroughly because they were stuck with "
-"competition that was not leaving or going to disappear <a href="
-"\"#foot-7\">(7)</a>. Meanwhile, it was time to start building a new "
-"community to replace the one that their actions and others had wiped out."
+"competition that was not leaving or going to disappear <a href=\"#foot-7\">"
+"(7)</a>. Meanwhile, it was time to start building a new community to replace "
+"the one that their actions and others had wiped out."
 msgstr ""
 "Desta forma, por dois anos, eu os impedi de eliminar a Lisp Machines "
 "Incorporated, e as duas empresas sobreviveram. Mas eu não queria passar anos "
@@ -945,19 +695,6 @@ msgstr ""
 "as ações da Symbolics e outros haviam eliminado."
 
 #. type: Content of: <p>
-# | The Lisp community in the 70s was not limited to the [-<abbr>MIT</abbr>-]
-# | {+MIT+} AI Lab, and the hackers were not all at [-<abbr>MIT</abbr>.-]
-# | {+MIT.+} The war that Symbolics started was what wiped out
-# | [-<abbr>MIT</abbr>,-] {+MIT,+} but there were other events going on then.
-# | There were people giving up on cooperation, and together this wiped out
-# | the community and there wasn't much left.
-#, fuzzy
-#| msgid ""
-#| "The Lisp community in the 70s was not limited to the <abbr>MIT</abbr> AI "
-#| "Lab, and the hackers were not all at <abbr>MIT</abbr>. The war that "
-#| "Symbolics started was what wiped out <abbr>MIT</abbr>, but there were "
-#| "other events going on then. There were people giving up on cooperation, "
-#| "and together this wiped out the community and there wasn't much left."
 msgid ""
 "The Lisp community in the 70s was not limited to the MIT AI Lab, and the "
 "hackers were not all at MIT. The war that Symbolics started was what wiped "
@@ -965,11 +702,11 @@ msgid ""
 "up on cooperation, and together this wiped out the community and there "
 "wasn't much left."
 msgstr ""
-"A comunidade Lisp nos anos 70 não se limitou ao AI Lab do <abbr>MIT</abbr>, "
-"e os hackers não estavam todos no <abbr>MIT</abbr>. A guerra que a Symbolics "
-"iniciou foi o que acabou com o <abbr>MIT</abbr>, mas havia outros eventos "
-"acontecendo na época. Havia pessoas desistindo da cooperação, e juntos eles "
-"acabaram com a comunidade e não sobrou muito."
+"A comunidade Lisp nos anos 70 não se limitou ao AI Lab do MIT, e os hackers "
+"não estavam todos no MIT. A guerra que a Symbolics iniciou foi o que acabou "
+"com o MIT, mas havia outros eventos acontecendo na época. Havia pessoas "
+"desistindo da cooperação, e juntos eles acabaram com a comunidade e não "
+"sobrou muito."
 
 #. type: Content of: <p>
 msgid ""
@@ -1049,9 +786,9 @@ msgstr ""
 "<i>while</i>, o que era extremamente simples. Não havia maneira de sair da "
 "declaração <i>while</i>, você tinha que fazer um <i>catch</i> e um <i>throw</"
 "i>, ou testar uma variável que estava no <em>loop</em>. Isso mostra até onde "
-"eu estava indo para manter as coisas pequenas. Nós não tínhamos <tt>“caar”</"
-"tt> e <tt>“car”</tt> e assim por diante; “espremer tudo o que for possível” "
-"era o espírito do GNU Emacs, o espírito do Emacs Lisp, desde o começo."
+"eu estava indo para manter as coisas pequenas. Nós não tínhamos “caar” e "
+"“cadr” e assim por diante; “espremer tudo o que for possível” era o espírito "
+"do GNU Emacs, o espírito do Emacs Lisp, desde o começo."
 
 #. type: Content of: <p>
 msgid ""
@@ -1088,36 +825,6 @@ msgstr ""
 "facilmente extensível, como o editor. A questão era o que deveria ser."
 
 #. type: Content of: <p>
-# | At the time, [-<acronym-] {+<abbr+} title=\"Tool Command
-# | [-Language\">TCL</acronym>-] {+Language\">TCL</abbr>+} was being pushed
-# | heavily for this purpose. I had a very low opinion of
-# | [-<acronym>TCL</acronym>,-] {+TCL,+} basically because it wasn't Lisp. It
-# | looks a tiny bit like Lisp, but semantically it isn't, and it's not as
-# | clean.  Then someone showed me an ad where Sun was trying to hire somebody
-# | to work on [-<acronym>TCL</acronym>-] {+TCL+} to make it the
-# | &ldquo;de-facto standard extension language&rdquo; of the world. And I
-# | thought, &ldquo;We've got to stop that from happening.&rdquo; So we
-# | started to make Scheme the standard extensibility language for GNU. Not
-# | Common Lisp, because it was too large. The idea was that we would have a
-# | Scheme interpreter designed to be linked into applications in the same way
-# | [-<acronym>TCL</acronym>-] {+TCL+} was linked into applications. We would
-# | then recommend that as the preferred extensibility package for all GNU
-# | programs.
-#, fuzzy
-#| msgid ""
-#| "At the time, <acronym title=\"Tool Command Language\">TCL</acronym> was "
-#| "being pushed heavily for this purpose. I had a very low opinion of "
-#| "<acronym>TCL</acronym>, basically because it wasn't Lisp. It looks a tiny "
-#| "bit like Lisp, but semantically it isn't, and it's not as clean.  Then "
-#| "someone showed me an ad where Sun was trying to hire somebody to work on "
-#| "<acronym>TCL</acronym> to make it the &ldquo;de-facto standard extension "
-#| "language&rdquo; of the world. And I thought, &ldquo;We've got to stop "
-#| "that from happening.&rdquo; So we started to make Scheme the standard "
-#| "extensibility language for GNU. Not Common Lisp, because it was too "
-#| "large. The idea was that we would have a Scheme interpreter designed to "
-#| "be linked into applications in the same way <acronym>TCL</acronym> was "
-#| "linked into applications. We would then recommend that as the preferred "
-#| "extensibility package for all GNU programs."
 msgid ""
 "At the time, <abbr title=\"Tool Command Language\">TCL</abbr> was being "
 "pushed heavily for this purpose. I had a very low opinion of TCL, basically "
@@ -1134,45 +841,18 @@ msgid ""
 msgstr ""
 "Na época, a <abbr title=\"Tool Command Language\">TCL</abbr> estava sendo "
 "intensamente utilizada para essa finalidade. Eu tinha uma opinião muito ruim "
-"sobre a <abbr>TCL</abbr>, basicamente porque não era Lisp. Se parece um "
-"pouco com Lisp, mas semanticamente não é, e não é tão limpa. Então, alguém "
-"me mostrou um anúncio em que a Sun estava tentando contratar alguém para "
-"trabalhar em <abbr>TCL</abbr> para torná-la a “linguagem de extensão padrão "
-"de fato” do mundo. E eu pensei: “Temos que impedir que isso aconteça”. Então "
-"começamos a fazer do Scheme a linguagem de extensibilidade padrão do GNU. "
-"Não Common Lisp, porque era muito grande. A ideia era que teríamos um "
-"interpretador Scheme projetado para ser vinculado a aplicativos da mesma "
-"forma que a <abbr>TCL</abbr> estava vinculada a aplicativos. Recomendaríamos "
-"então que ela fosse o pacote de extensibilidade preferido para todos os "
-"programas GNU."
+"sobre a TCL, basicamente porque não era Lisp. Se parece um pouco com Lisp, "
+"mas semanticamente não é, e não é tão limpa. Então, alguém me mostrou um "
+"anúncio em que a Sun estava tentando contratar alguém para trabalhar em TCL "
+"para torná-la a “linguagem de extensão padrão de fato” do mundo. E eu "
+"pensei: “Temos que impedir que isso aconteça”. Então começamos a fazer do "
+"Scheme a linguagem de extensibilidade padrão do GNU. Não Common Lisp, porque "
+"era muito grande. A ideia era que teríamos um interpretador Scheme projetado "
+"para ser vinculado a aplicativos da mesma forma que a TCL estava vinculada a "
+"aplicativos. Recomendaríamos então que ela fosse o pacote de extensibilidade "
+"preferido para todos os programas GNU."
 
 #. type: Content of: <p>
-# | There's an interesting benefit you can get from using such a powerful
-# | language as a version of Lisp as your primary extensibility language.  You
-# | can implement other languages by translating them into your primary
-# | language. If your primary language is [-<acronym>TCL</acronym>,-] {+TCL,+}
-# | you can't very easily implement Lisp by translating it into
-# | [-<acronym>TCL</acronym>.-] {+TCL.+} But if your primary language is Lisp,
-# | it's not that hard to implement other things by translating them. Our idea
-# | was that if each extensible application supported Scheme, you could write
-# | an implementation of [-<acronym>TCL</acronym>-] {+TCL+} or Python or Perl
-# | in Scheme that translates that program into Scheme. Then you could load
-# | that into any application and customize it in your favorite language and
-# | it would work with other customizations as well.
-#, fuzzy
-#| msgid ""
-#| "There's an interesting benefit you can get from using such a powerful "
-#| "language as a version of Lisp as your primary extensibility language.  "
-#| "You can implement other languages by translating them into your primary "
-#| "language. If your primary language is <acronym>TCL</acronym>, you can't "
-#| "very easily implement Lisp by translating it into <acronym>TCL</acronym>. "
-#| "But if your primary language is Lisp, it's not that hard to implement "
-#| "other things by translating them. Our idea was that if each extensible "
-#| "application supported Scheme, you could write an implementation of "
-#| "<acronym>TCL</acronym> or Python or Perl in Scheme that translates that "
-#| "program into Scheme. Then you could load that into any application and "
-#| "customize it in your favorite language and it would work with other "
-#| "customizations as well."
 msgid ""
 "There's an interesting benefit you can get from using such a powerful "
 "language as a version of Lisp as your primary extensibility language.  You "
@@ -1189,15 +869,14 @@ msgstr ""
 "Há um benefício interessante que você pode obter usando uma linguagem tão "
 "poderosa quanto uma versão do Lisp como sua principal linguagem de "
 "extensibilidade. Você pode implementar outras linguagens traduzindo-as em "
-"sua linguagem principal. Se a sua linguagem principal é a <abbr>TCL</abbr>, "
-"você não pode implementar facilmente o Lisp traduzindo-o para o <abbr>TCL</"
-"abbr>. Mas se a sua linguagem principal é o Lisp, não é tão difícil "
-"implementar outras coisas traduzindo-as. Nossa ideia era que, se cada "
-"aplicativo extensível suportasse o Scheme, você poderia escrever uma "
-"implementação da <abbr>TCL</abbr> ou Python ou Perl no Scheme que traduz "
-"esse programa em Scheme. Em seguida, você poderia carregá-lo em qualquer "
-"aplicativo e personalizá-lo em seu idioma favorito e também funcionaria com "
-"outras personalizações."
+"sua linguagem principal. Se a sua linguagem principal é a TCL, você não pode "
+"implementar facilmente o Lisp traduzindo-o para o TCL. Mas se a sua "
+"linguagem principal é o Lisp, não é tão difícil implementar outras coisas "
+"traduzindo-as. Nossa ideia era que, se cada aplicativo extensível suportasse "
+"o Scheme, você poderia escrever uma implementação da TCL ou Python ou Perl "
+"no Scheme que traduz esse programa em Scheme. Em seguida, você poderia "
+"carregá-lo em qualquer aplicativo e personalizá-lo em seu idioma favorito e "
+"também funcionaria com outras personalizações."
 
 #. type: Content of: <p>
 msgid ""
@@ -1471,42 +1150,30 @@ msgstr ""
 "envio de traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-# | Copyright &copy; 2003, 2007, 2013, [-2014-] {+2014, 2020+} Free Software
-# | Foundation, Inc.
-#, fuzzy
-#| msgid ""
-#| "Copyright &copy; 2003, 2007, 2013, 2014 Free Software Foundation, Inc."
 msgid ""
 "Copyright &copy; 2003, 2007, 2013, 2014, 2020 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2003, 2007, 2013, 2014 Free Software Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2003, 2007, 2013, 2014, 2020 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
-# | This page is licensed under a <a rel=\"license\"
-# | [-href=\"http://creativecommons.org/licenses/by-nd/3.0/us/\">Creative-]
-# | {+href=\"http://creativecommons.org/licenses/by-nd/4.0/\">Creative+}
-# | Commons [-Attribution-NoDerivs 3.0 United States-]
-# | {+Attribution-NoDerivatives 4.0 International+} License</a>.
-#, fuzzy
-#| msgid ""
-#| "This page is licensed under a <a rel=\"license\" href=\"http://"
-#| "creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-#| "NoDerivs 3.0 United States License</a>."
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
 "creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
 "NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
-"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
-"rafaelff@gnome.org&gt;</a>, 2018.Revisão: Cassiano Reinert Novais dos Santos "
-"<a href=\"mailto:caco@member.fsf.org\">&lt;caco@member.fsf.org&gt;</a>, 2019."
+"Traduzido por:\n"
+"Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome."
+"org&gt;</a>, 2018-2020<br />\n"
+"Revisado por: Cassiano Reinert Novais dos Santos <a href=\"mailto:"
+"caco@member.fsf.org\">&lt;caco@member.fsf.org&gt;</a>, 2019."
 
 #.  timestamp start 
 #. type: Content of: <div><p>

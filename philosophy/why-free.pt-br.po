@@ -1,22 +1,25 @@
 # Brazilian Portuguese translation of http://www.gnu.org/philosophy/why-free.html
-# Copyright (C) 2012 Free Software Foundation, Inc.
+# Copyright (C) 2020 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnu.org article.
 # Aslan Carlos <aslancarlos@gmail.com>, 2012.
 # Rafael Beraldo <rberaldo@cabaladada.org>, 2012.
 # May 2014: trivial update (T. Godefroy).
 # André N Batista <nandre@riseup.net>, 2018.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2020.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: why-free.html\n"
 "POT-Creation-Date: 2020-07-01 15:26+0000\n"
-"PO-Revision-Date: 2018-12-13 07:23-0200\n"
-"Last-Translator: André N Batista <nandre@riseup.net>\n"
+"PO-Revision-Date: 2020-07-25 08:41-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 3.36.0\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -75,12 +78,12 @@ msgid ""
 "press, could copy books only with pen and ink, and few readers were sued for "
 "that."
 msgstr ""
-"O sistema de copyright foi criado com a impresa &mdash; uma tecnologia para "
-"produção em massa de cópias. O copyright se encaixa bem nessa tecnologia "
-"porque ele restringe apenas os produtores de cópias em massa. Ele não tirava "
-"a liberdade dos leitores de livros. Um leitor comum, que não possuísse uma "
-"máquina impressora, poderia copiar livros apenas com caneta e tinta, e "
-"poucos leitores foram processados por isso."
+"O sistema de copyright foi criado com a impressão &mdash; uma tecnologia "
+"para produção em massa de cópias. O copyright se encaixa bem nessa "
+"tecnologia porque ele restringe apenas os produtores de cópias em massa. Ele "
+"não tirava a liberdade dos leitores de livros. Um leitor comum, que não "
+"possuísse uma máquina impressora, poderia copiar livros apenas com caneta e "
+"tinta, e poucos leitores foram processados por isso."
 
 #. type: Content of: <p>
 msgid ""
@@ -122,19 +125,6 @@ msgstr ""
 "pessoas que elas precisam provar que são inocentes de cópia ilegal."
 
 #. type: Content of: <ul><li>
-# | Prosecution (by the US government, at the SPA's request) of people such as
-# | [-<acronym-] {+<abbr+} title=\"Massachusetts Institute of
-# | [-Technology\">MIT</acronym>'s-] {+Technology\">MIT</abbr>'s+} David
-# | LaMacchia, not for copying software (he is not accused of copying any),
-# | but merely for leaving copying facilities unguarded and failing to censor
-# | their use.<a href=\"#footnote1\">[1]</a>
-#, fuzzy
-#| msgid ""
-#| "Prosecution (by the US government, at the SPA's request) of people such "
-#| "as <acronym title=\"Massachusetts Institute of Technology\">MIT</"
-#| "acronym>'s David LaMacchia, not for copying software (he is not accused "
-#| "of copying any), but merely for leaving copying facilities unguarded and "
-#| "failing to censor their use.<a href=\"#footnote1\">[1]</a>"
 msgid ""
 "Prosecution (by the US government, at the SPA's request) of people such as "
 "<abbr title=\"Massachusetts Institute of Technology\">MIT</abbr>'s David "
@@ -669,40 +659,30 @@ msgstr ""
 "envio de traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-# | Copyright &copy; 1994, [-2009-] {+2009, 2020+} Richard Stallman
-#, fuzzy
-#| msgid "Copyright &copy; 1994, 2009 Richard Stallman"
 msgid "Copyright &copy; 1994, 2009, 2020 Richard Stallman"
-msgstr "Copyright &copy; 1994, 2009 Richard Stallman"
+msgstr "Copyright &copy; 1994, 2009, 2020 Richard Stallman"
 
 #. type: Content of: <div><p>
-# | This page is licensed under a <a rel=\"license\"
-# | [-href=\"http://creativecommons.org/licenses/by-nd/3.0/us/\">Creative-]
-# | {+href=\"http://creativecommons.org/licenses/by-nd/4.0/\">Creative+}
-# | Commons [-Attribution-NoDerivs 3.0 United States-]
-# | {+Attribution-NoDerivatives 4.0 International+} License</a>.
-#, fuzzy
-#| msgid ""
-#| "This page is licensed under a <a rel=\"license\" href=\"http://"
-#| "creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-#| "NoDerivs 3.0 United States License</a>."
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
 "creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
 "NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
-"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"<b>Tradução</b>: Aslan Carlos\n"
-"<a href=\"mailto:aslancarlos@gmail.com\">&lt;aslancarlos@gmail.com&gt;</a>, "
-"2012 e Rafael Beraldo <a href=\"mailto:rberaldo@cabaladada.org\">&lt;"
-"rberaldo@cabaladada.org&gt;</a>, 2012"
+"Traduzido por:\n"
+"Aslan Carlos <a href=\"mailto:aslancarlos@gmail.com\">&lt;aslancarlos@gmail."
+"com&gt;</a>, 2012; \n"
+"Rafael Beraldo <a href=\"mailto:rberaldo@cabaladada.org\">&lt;"
+"rberaldo@cabaladada.org&gt;</a>, 2012; e\n"
+"Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome."
+"org&gt;</a>, 2020"
 
 #.  timestamp start 
 #. type: Content of: <div><p>

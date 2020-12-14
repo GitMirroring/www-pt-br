@@ -1,23 +1,24 @@
 # Brazilian Portuguese translation of https://www.gnu.org/philosophy/university.html
-# Copyright (C) 2019 Free Software Foundation, Inc.
+# Copyright (C) 2020 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Cláudio Machado, 2002.
 # Jan 2015: GNUNify. It seems that this translation was from a version of the
 # article which is not in the CVS.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2018-2019.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018-2020.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: university.html\n"
-"POT-Creation-Date: 2014-03-31 06:29+0000\n"
-"PO-Revision-Date: 2019-10-26 03:27-0200\n"
+"POT-Creation-Date: 2020-10-26 13:26+0000\n"
+"PO-Revision-Date: 2020-12-13 17:50-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 1.0.0-beta1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 3.38.0\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -318,18 +319,18 @@ msgstr ""
 "envio de traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2002 Richard Stallman"
-msgstr "Copyright &copy; 2002 Richard Stallman"
+msgid "Copyright &copy; 2002, 2020 Richard Stallman"
+msgstr "Copyright &copy; 2002, 2020 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
-"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
@@ -337,7 +338,7 @@ msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Cláudio Machado <a href=\"mailto:claudio.machado@bol.com.br"
 "\">&lt;claudio.machado@bol.com.br&gt;</a>, 2002. Rafael Fontenelle <a href="
-"\"mailto:rafaelff@gnome.org\"> &lt;rafaelff@gnome.org&gt;</a>, 2018-2019."
+"\"mailto:rafaelff@gnome.org\"> &lt;rafaelff@gnome.org&gt;</a>, 2018-2020."
 
 #.  timestamp start 
 #. type: Content of: <div><p>

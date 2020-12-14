@@ -2,19 +2,20 @@
 # Copyright (C) 2020 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Rafael Fontenelle <rafaelff@gnome.org>, 2019-2020.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: latest-articles.html\n"
-"POT-Creation-Date: 2020-05-04 19:25+0000\n"
-"PO-Revision-Date: 2020-05-09 07:31-0300\n"
+"POT-Creation-Date: 2020-10-05 18:56+0000\n"
+"PO-Revision-Date: 2020-12-13 17:55-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 1.0.0-beta1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 3.38.0\n"
 
 #. type: Content of: <title>
 msgid "Latest Articles - GNU Project - Free Software Foundation"
@@ -31,6 +32,14 @@ msgid ""
 msgstr ""
 "Aqui estão os artigos publicados mais recentemente sobre software livre e o "
 "projeto GNU."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/philosophy/free-software-rocket.html\">Should Rockets Have Only "
+"Free Software? Free Software and Appliances</a>"
+msgstr ""
+"<a href=\"/philosophy/free-software-rocket.html\">Foguetes devem ter apenas "
+"software livre? Software e applicances livres</a>"
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -245,13 +254,6 @@ msgstr "Última atualização:"
 #~ msgstr ""
 #~ "<a href=\"/philosophy/imperfection-isnt-oppression.html\"> Imperfeição "
 #~ "não é o mesmo que opressão</a>"
-
-#~ msgid ""
-#~ "<a href=\"/philosophy/free-software-even-more-important.html\"> Free "
-#~ "Software Is Even More Important Now</a>"
-#~ msgstr ""
-#~ "<a href=\"/philosophy/free-software-even-more-important.html\"> Software "
-#~ "Livre é Ainda Mais Importante Agora</a>"
 
 #~ msgid ""
 #~ "<a href=\"/philosophy/surveillance-vs-democracy.html\">How Much "

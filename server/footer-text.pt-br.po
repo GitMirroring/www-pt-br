@@ -7,28 +7,29 @@
 # André Phellip Ferreira <werewolf@cyberdude.com>, 2018. (proofread)
 # April 2020: reorganize includes to fit new layout.
 # Rafael Fontenelle <rafaelff@gnome.org>, 2016-2020.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: footer-text.html\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-04-13 16:42+0200\n"
-"PO-Revision-Date: 2020-04-30 08:38-0300\n"
+"POT-Creation-Date: 2020-11-09 22:25+0000\n"
+"PO-Revision-Date: 2020-12-12 18:44-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 1.0.0-beta1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 3.38.0\n"
 
 #. type: Content of: <div><div>
-msgid "<a href=\"#\" class=\"close\"></a>"
-msgstr "<a href=\"#\" class=\"close\"></a>"
+msgid "<a href=\"#top\"><b>&#11165;</b></a>"
+msgstr "<a href=\"#top\"><b>&#11165;</b></a>"
 
-#. type: Content of: <div><div>
-msgid "<a href=\"#header\"><span>BACK TO TOP </span>&#11165;</a>"
-msgstr "<a href=\"#header\"><span>VOLTAR AO TOPO </span>&#11165;</a>"
+#. type: Content of: <div><div><div>
+msgid "<a href=\"#top\" class=\"close\"><span>BACK TO TOP</span></a>"
+msgstr "<a href=\"#top\" class=\"close\"><span>VOLTAR AO TOPO</span></a>"
 
 #. #echo encoding="none" var="language_selector" 
 #. type: Content of: <div><div><div>
@@ -38,6 +39,10 @@ msgstr "Escolha o idioma"
 #. type: Content of: <div><div><p>
 msgid "Available for this page:"
 msgstr "Disponível para esta página:"
+
+#. type: Content of: <div><div>
+msgid "<a href=\"#header\"><span>BACK TO TOP </span>&#11165;</a>"
+msgstr "<a href=\"#header\"><span>VOLTAR AO TOPO </span>&#11165;</a>"
 
 #. type: Content of: <div><blockquote><p><a>
 msgid "<a href=\"//www.fsf.org\">"
@@ -66,6 +71,9 @@ msgstr ""
 "<a class=\"join\" href=\"//www.fsf.org/associate/support_freedom?"
 "referrer=4052\">PARTICIPE</a> <a class=\"donate\" href=\"//donate.fsf.org/"
 "\">DOE</a> <a class=\"shop\" href=\"//shop.fsf.org/\">COMPRE</a>"
+
+#~ msgid "<a href=\"#\" class=\"close\"></a>"
+#~ msgstr "<a href=\"#\" class=\"close\"></a>"
 
 #~ msgid ""
 #~ "The <a href=\"//www.fsf.org\">Free Software Foundation</a> is the "

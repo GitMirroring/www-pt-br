@@ -1,14 +1,14 @@
 # Brazilian Portuguese translation of https://www.gnu.org/gnu/byte-interview.html
-# Copyright (C) 2018 Free Software Foundation, Inc.
+# Copyright (C) 2020 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2018.
 # André N Batista <nandre@riseup.net>, 2018.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018-2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: byte-interview.html\n"
 "POT-Creation-Date: 2020-07-01 15:25+0000\n"
-"PO-Revision-Date: 2018-12-13 07:23-0200\n"
-"Last-Translator: André N Batista <nandre@riseup.net>\n"
+"PO-Revision-Date: 2020-07-25 16:03-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -140,42 +140,6 @@ msgid "<strong>BYTE</strong>: What about the kernel?"
 msgstr "<strong>BYTE</strong>: E sobre o kernel?"
 
 #. type: Content of: <p>
-# | <strong>Stallman</strong>: I'm currently planning to start with the kernel
-# | that was written at [-<abbr>MIT</abbr>-] {+MIT+} and was released to the
-# | public recently with the idea that I would use it.  This kernel is called
-# | TRIX; it's based on remote procedure call.  I still need to add
-# | compatibility for a lot of the features of Unix which it doesn't have
-# | currently.  I haven't started to work on that yet.  I'm finishing the
-# | compiler before I go to work on the kernel.  I am also going to have to
-# | rewrite the file system.  I intend to make it failsafe just by having it
-# | write blocks in the proper order so that the disk structure is always
-# | consistent.  Then I want to add version numbers.  I have a complicated
-# | scheme to reconcile version numbers with the way people usually use Unix. 
-# | You have to be able to specify filenames without version numbers, but you
-# | also have to be able to specify them with explicit version numbers, and
-# | these both need to work with ordinary Unix programs that have not been
-# | modified in any way to deal with the existence of this feature.  I think I
-# | have a scheme for doing this, and only trying it will show me whether it
-# | really does the job.
-#, fuzzy
-#| msgid ""
-#| "<strong>Stallman</strong>: I'm currently planning to start with the "
-#| "kernel that was written at <abbr>MIT</abbr> and was released to the "
-#| "public recently with the idea that I would use it.  This kernel is called "
-#| "TRIX; it's based on remote procedure call.  I still need to add "
-#| "compatibility for a lot of the features of Unix which it doesn't have "
-#| "currently.  I haven't started to work on that yet.  I'm finishing the "
-#| "compiler before I go to work on the kernel.  I am also going to have to "
-#| "rewrite the file system.  I intend to make it failsafe just by having it "
-#| "write blocks in the proper order so that the disk structure is always "
-#| "consistent.  Then I want to add version numbers.  I have a complicated "
-#| "scheme to reconcile version numbers with the way people usually use "
-#| "Unix.  You have to be able to specify filenames without version numbers, "
-#| "but you also have to be able to specify them with explicit version "
-#| "numbers, and these both need to work with ordinary Unix programs that "
-#| "have not been modified in any way to deal with the existence of this "
-#| "feature.  I think I have a scheme for doing this, and only trying it will "
-#| "show me whether it really does the job."
 msgid ""
 "<strong>Stallman</strong>: I'm currently planning to start with the kernel "
 "that was written at MIT and was released to the public recently with the "
@@ -195,22 +159,22 @@ msgid ""
 "whether it really does the job."
 msgstr ""
 "<strong>Stallman</strong>: No momento, estou planejando começar com o kernel "
-"que foi escrito no <abbr>MIT</abbr> e foi lançado para o público "
-"recentemente com a ideia de que eu o usaria. Este kernel é chamado TRIX; é "
-"baseado em chamada de procedimento remoto. Eu ainda preciso adicionar "
-"compatibilidade para muitos dos recursos do Unix que ele não tem atualmente. "
-"Eu não comecei a trabalhar nisso ainda. Eu estou terminando o compilador "
-"antes de ir trabalhar no kernel. Eu também vou ter que reescrever o sistema "
-"de arquivos. Eu pretendo torná-lo à prova de falhas apenas por ter que "
-"escrever blocos na ordem correta para que a estrutura do disco seja sempre "
-"consistente. Então eu quero adicionar números de versão. Eu tenho um esquema "
-"complicado para reconciliar números de versão com o modo como as pessoas "
-"geralmente usam o Unix. Você tem que ser capaz de especificar nomes de "
-"arquivos sem números de versão, mas você também tem que ser capaz de "
-"especificá-los com números de versão explícitos, e ambos precisam trabalhar "
-"com programas Unix comuns que não foram modificados de forma alguma para "
-"lidar com a existência deste recurso. Eu acho que tenho um esquema para "
-"fazer isso, e apenas tentar me mostrará se ele realmente faz o trabalho."
+"que foi escrito no MIT e foi lançado para o público recentemente com a ideia "
+"de que eu o usaria. Este kernel é chamado TRIX; é baseado em chamada de "
+"procedimento remoto. Eu ainda preciso adicionar compatibilidade para muitos "
+"dos recursos do Unix que ele não tem atualmente. Eu não comecei a trabalhar "
+"nisso ainda. Eu estou terminando o compilador antes de ir trabalhar no "
+"kernel. Eu também vou ter que reescrever o sistema de arquivos. Eu pretendo "
+"torná-lo à prova de falhas apenas por ter que escrever blocos na ordem "
+"correta para que a estrutura do disco seja sempre consistente. Então eu "
+"quero adicionar números de versão. Eu tenho um esquema complicado para "
+"reconciliar números de versão com o modo como as pessoas geralmente usam o "
+"Unix. Você tem que ser capaz de especificar nomes de arquivos sem números de "
+"versão, mas você também tem que ser capaz de especificá-los com números de "
+"versão explícitos, e ambos precisam trabalhar com programas Unix comuns que "
+"não foram modificados de forma alguma para lidar com a existência deste "
+"recurso. Eu acho que tenho um esquema para fazer isso, e apenas tentar me "
+"mostrará se ele realmente faz o trabalho."
 
 #. type: Content of: <p>
 msgid ""
@@ -998,19 +962,6 @@ msgstr ""
 "distribuição oficial do GNU?"
 
 #. type: Content of: <p>
-# | <strong>Stallman</strong>: Right now the tape contains GNU EMACS (one
-# | version fits all computers); Bison, a program that replaces [-<acronym-]
-# | {+<abbr+} title=\"Yet Another Compiler [-Compiler\">YACC</acronym>;
-# | <abbr>MIT</abbr>-] {+Compiler\">YACC</abbr>; MIT+} Scheme, which is
-# | Professor Sussman's super-simplified dialect of LISP; and Hack, a
-# | dungeon-exploring game similar to Rogue.
-#, fuzzy
-#| msgid ""
-#| "<strong>Stallman</strong>: Right now the tape contains GNU EMACS (one "
-#| "version fits all computers); Bison, a program that replaces <acronym "
-#| "title=\"Yet Another Compiler Compiler\">YACC</acronym>; <abbr>MIT</abbr> "
-#| "Scheme, which is Professor Sussman's super-simplified dialect of LISP; "
-#| "and Hack, a dungeon-exploring game similar to Rogue."
 msgid ""
 "<strong>Stallman</strong>: Right now the tape contains GNU EMACS (one "
 "version fits all computers); Bison, a program that replaces <abbr title="
@@ -1020,9 +971,9 @@ msgid ""
 msgstr ""
 "<strong>Stallman</strong>: Neste momento a fita contém o GNU EMACS (uma "
 "versão serve para todos os computadores); Bison, um programa que substitui "
-"<abbr title=\"Yet Another Compiler Compiler\">YACC</abbr>; <abbr>MIT</abbr> "
-"Scheme, que é o dialeto super simplificado do LISP do professor Sussman; e "
-"Hack, um jogo de exploração de masmorras semelhante ao Rogue."
+"<abbr title=\"Yet Another Compiler Compiler\">YACC</abbr>; MIT Scheme, que é "
+"o dialeto super simplificado do LISP do professor Sussman; e Hack, um jogo "
+"de exploração de masmorras semelhante ao Rogue."
 
 #. type: Content of: <p>
 msgid ""
@@ -1140,45 +1091,29 @@ msgstr ""
 "envio de traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-# | Copyright &copy; 1999, 2000, 2001, 2002, 2007, 2013, [-2014-] {+2014,
-# | 2020+} Free Software Foundation, Inc.
-#, fuzzy
-#| msgid ""
-#| "Copyright &copy; 1999, 2000, 2001, 2002, 2007, 2013, 2014 Free Software "
-#| "Foundation, Inc."
 msgid ""
 "Copyright &copy; 1999, 2000, 2001, 2002, 2007, 2013, 2014, 2020 Free "
 "Software Foundation, Inc."
 msgstr ""
-"Copyright &copy; 1999, 2000, 2001, 2002, 2007, 2013, 2014 Free Software "
-"Foundation, Inc."
+"Copyright &copy; 1999, 2000, 2001, 2002, 2007, 2013, 2014, 2020 Free "
+"Software Foundation, Inc."
 
 #. type: Content of: <div><p>
-# | This page is licensed under a <a rel=\"license\"
-# | [-href=\"http://creativecommons.org/licenses/by-nd/3.0/us/\">Creative-]
-# | {+href=\"http://creativecommons.org/licenses/by-nd/4.0/\">Creative+}
-# | Commons [-Attribution-NoDerivs 3.0 United States-]
-# | {+Attribution-NoDerivatives 4.0 International+} License</a>.
-#, fuzzy
-#| msgid ""
-#| "This page is licensed under a <a rel=\"license\" href=\"http://"
-#| "creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-#| "NoDerivs 3.0 United States License</a>."
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
 "creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
 "NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
-"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
-"rafaelff@gnome.org&gt;</a>, 2018."
+"rafaelff@gnome.org&gt;</a>, 2018-2020."
 
 #.  timestamp start 
 #. type: Content of: <div><p>

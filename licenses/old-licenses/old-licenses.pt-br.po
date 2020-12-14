@@ -1,12 +1,12 @@
 # Brazilian Portuguese translation of http://www.gnu.org/licenses/old-licenses/old-licenses.html
-# Copyright (C) 2018 Free Software Foundation, Inc.
+# Copyright (C) 2020 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2018.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018-2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: old-licenses.html\n"
 "POT-Creation-Date: 2020-07-09 11:55+0000\n"
-"PO-Revision-Date: 2018-05-30 14:37-0300\n"
+"PO-Revision-Date: 2020-07-26 08:01-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -106,24 +106,15 @@ msgstr ""
 "Livre GNU, versão 1.1</a>"
 
 #. type: Content of: <p>
-# | The old licenses are also available with URLs under
-# | [-<tt>/licenses</tt>.-] {+<code>/licenses</code>.+}  Please see the <a
-# | href=\"/licenses/licenses.html#LicenseURLs\">license URLs section</a> of
-# | the main licensing page for more information.
-#, fuzzy
-#| msgid ""
-#| "The old licenses are also available with URLs under <tt>/licenses</tt>.  "
-#| "Please see the <a href=\"/licenses/licenses.html#LicenseURLs\">license "
-#| "URLs section</a> of the main licensing page for more information."
 msgid ""
 "The old licenses are also available with URLs under <code>/licenses</code>.  "
 "Please see the <a href=\"/licenses/licenses.html#LicenseURLs\">license URLs "
 "section</a> of the main licensing page for more information."
 msgstr ""
-"As licenças antigas também estão disponíveis com URLs sob <tt>/licenses</"
-"tt>. Por favor, veja a <a href=\"/licenses/licenses.html#LicenseURLs\">seção "
-"de URLs de licenças</a> da página principal de licenciamento para mais "
-"informações."
+"As licenças antigas também estão disponíveis com URLs sob <code>/licenses</"
+"code>. Por favor, veja a <a href=\"/licenses/licenses.html#LicenseURLs"
+"\">seção de URLs de licenças</a> da página principal de licenciamento para "
+"mais informações."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -170,45 +161,29 @@ msgstr ""
 "envio de traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-# | Copyright &copy; 1996, 1997, 1998, 1999, 2006, 2007, 2008, 2009, 2013,
-# | [-2014-] {+2014, 2020+} Free Software Foundation, Inc.
-#, fuzzy
-#| msgid ""
-#| "Copyright &copy; 1996, 1997, 1998, 1999, 2006, 2007, 2008, 2009, 2013, "
-#| "2014 Free Software Foundation, Inc."
 msgid ""
 "Copyright &copy; 1996, 1997, 1998, 1999, 2006, 2007, 2008, 2009, 2013, 2014, "
 "2020 Free Software Foundation, Inc."
 msgstr ""
-"Copyright &copy; 1996, 1997, 1998, 1999, 2006, 2007, 2008, 2009, 2013, 2014 "
-"Free Software Foundation, Inc."
+"Copyright &copy; 1996, 1997, 1998, 1999, 2006, 2007, 2008, 2009, 2013, 2014, "
+"2020 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
-# | This page is licensed under a <a rel=\"license\"
-# | [-href=\"http://creativecommons.org/licenses/by-nd/3.0/us/\">Creative-]
-# | {+href=\"http://creativecommons.org/licenses/by-nd/4.0/\">Creative+}
-# | Commons [-Attribution-NoDerivs 3.0 United States-]
-# | {+Attribution-NoDerivatives 4.0 International+} License</a>.
-#, fuzzy
-#| msgid ""
-#| "This page is licensed under a <a rel=\"license\" href=\"http://"
-#| "creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-#| "NoDerivs 3.0 United States License</a>."
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
 "creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
 "NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
-"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
-"rafaelff@gnome.org&gt;</a>, 2018."
+"rafaelff@gnome.org&gt;</a>, 2018-2020."
 
 #.  timestamp start 
 #. type: Content of: <div><p>

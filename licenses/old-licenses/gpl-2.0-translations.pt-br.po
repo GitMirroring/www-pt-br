@@ -1,12 +1,12 @@
 # Brazilian Portuguese translation of https://www.gnu.org/licenses/old-licenses/gpl-2.0-translations.html
-# Copyright (C) 2019 Free Software Foundation, Inc.
+# Copyright (C) 2020 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2018, 2019.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018-2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: gpl-2.0-translations.html\n"
 "POT-Creation-Date: 2020-07-09 11:55+0000\n"
-"PO-Revision-Date: 2019-01-09 11:44-0200\n"
+"PO-Revision-Date: 2020-07-26 07:43-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -156,16 +156,6 @@ msgstr ""
 "correta."
 
 #. type: Content of: <p>
-# | To label your translations as unofficial we want you to add the following
-# | text at the beginning, both in English and in the language of the
-# | translation&mdash;replacing [-<tt>language</tt>-]
-# | {+&ldquo;<var>language</var>&rdquo;+} with the name of that language:
-#, fuzzy
-#| msgid ""
-#| "To label your translations as unofficial we want you to add the following "
-#| "text at the beginning, both in English and in the language of the "
-#| "translation&mdash;replacing <tt>language</tt> with the name of that "
-#| "language:"
 msgid ""
 "To label your translations as unofficial we want you to add the following "
 "text at the beginning, both in English and in the language of the "
@@ -174,10 +164,9 @@ msgid ""
 msgstr ""
 "Para rotular suas traduções como não oficiais, queremos que você adicione o "
 "seguinte texto no início, tanto em inglês como em português, da tradução "
-"&ndash; substituindo <tt>language</tt> e <tt>idioma</tt> com o nome daquele "
-"idioma:"
+"&ndash; substituindo “<var>language</var>” e “<var>idioma</var>” com o nome "
+"daquele idioma:"
 
-# A frase parece precisar ficar sem
 #. TRANSLATORS: If you translate this paragraph, retain the English
 #. text and put your translation below.  The entire <blockquote>
 #.  element
@@ -186,21 +175,6 @@ msgstr ""
 #. you *must* put your translation within
 #. </p><p dir="rtl" style="text-align:right">......</p><p> 
 #. type: Content of: <blockquote><p>
-# | This is an unofficial translation of the GNU General Public License into
-# | [-<tt>language</tt>.-] {+<var>language</var>.+}  It was not published by
-# | the Free Software Foundation, and does not legally state the distribution
-# | terms for software that uses the GNU GPL&mdash;only the original English
-# | text of the GNU GPL does that.  However, we hope that this translation
-# | will help [-<tt>language</tt>-] {+<var>language</var>+} speakers
-# | understand the GNU GPL better.
-#, fuzzy
-#| msgid ""
-#| "This is an unofficial translation of the GNU General Public License into "
-#| "<tt>language</tt>.  It was not published by the Free Software Foundation, "
-#| "and does not legally state the distribution terms for software that uses "
-#| "the GNU GPL&mdash;only the original English text of the GNU GPL does "
-#| "that.  However, we hope that this translation will help <tt>language</tt> "
-#| "speakers understand the GNU GPL better."
 msgid ""
 "This is an unofficial translation of the GNU General Public License into "
 "<var>language</var>.  It was not published by the Free Software Foundation, "
@@ -210,18 +184,18 @@ msgid ""
 "speakers understand the GNU GPL better."
 msgstr ""
 "This is an unofficial translation of the GNU General Public License into "
-"<tt>language</tt>.  It was not published by the Free Software Foundation, "
+"<var>language</var>.  It was not published by the Free Software Foundation, "
 "and does not legally state the distribution terms for software that uses the "
 "GNU GPL&mdash;only the original English text of the GNU GPL does that.  "
-"However, we hope that this translation will help <tt>language</tt> speakers "
-"understand the GNU GPL better.</p>\n"
+"However, we hope that this translation will help <var>language</var> "
+"speakers understand the GNU GPL better.</p>\n"
 "\n"
 "<p>Essa é uma tradução não oficial da Licença Pública Geral GNU para "
-"<tt>idioma</tt>. Ela não foi publicada pela Free Software Foundation e não "
+"<var>idioma</var>. Ela não foi publicada pela Free Software Foundation e não "
 "estabelece legalmente os termos de distribuição para software que usa a GNU "
 "GPL &ndash; apenas o texto original em inglês da GNU GPL faz isso. Porém, "
-"esperamos que essa tradução venha a ajudar os falantes do <tt>idioma</tt> a "
-"melhor entender a GNU GPL</p><p>"
+"esperamos que essa tradução venha a ajudar os falantes do <var>idioma</var> "
+"a melhor entender a GNU GPL</p><p>"
 
 #. type: Content of: <p>
 msgid ""
@@ -364,20 +338,12 @@ msgstr ""
 "envio de traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-# | Copyright &copy; 1996, 1997, 1998, 1999, 2004, 2005, 2006, 2007, 2008,
-# | 2009, 2011, 2013, 2014, 2015, 2017, 2018, [-2019-] {+2019, 2020+} Free
-# | Software Foundation, Inc.
-#, fuzzy
-#| msgid ""
-#| "Copyright &copy; 1996, 1997, 1998, 1999, 2004, 2005, 2006, 2007, 2008, "
-#| "2009, 2011, 2013, 2014, 2015, 2017, 2018, 2019 Free Software Foundation, "
-#| "Inc."
 msgid ""
 "Copyright &copy; 1996, 1997, 1998, 1999, 2004, 2005, 2006, 2007, 2008, 2009, "
 "2011, 2013, 2014, 2015, 2017, 2018, 2019, 2020 Free Software Foundation, Inc."
 msgstr ""
 "Copyright &copy; 1996, 1997, 1998, 1999, 2004, 2005, 2006, 2007, 2008, 2009, "
-"2011, 2013, 2014, 2015, 2017, 2018, 2019 Free Software Foundation, Inc."
+"2011, 2013, 2014, 2015, 2017, 2018, 2019, 2020 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -394,8 +360,8 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Rafael Fontenelle\n"
-"<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, 2018, "
-"2019."
+"<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, "
+"2018-2020."
 
 #.  timestamp start 
 #. type: Content of: <div><p>

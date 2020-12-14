@@ -1,21 +1,22 @@
 # Brazilian Portuguese translation of https://www.gnu.org/proprietary/proprietary-tethers.html
 # Copyright (C) 2019 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2019, 2020.
 # Cassiano Reinert Novais dos Santos <caco@posteo.net>, 2019. (proofread, #15219)
+# Rafael Fontenelle <rafaelff@gnome.org>, 2019-2020.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary-tethers.html\n"
-"POT-Creation-Date: 2020-06-24 05:26+0000\n"
-"PO-Revision-Date: 2020-06-30 08:28-0300\n"
+"POT-Creation-Date: 2020-11-23 14:26+0000\n"
+"PO-Revision-Date: 2020-12-13 12:28-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 1.0.0-beta1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 3.38.0\n"
 
 #. type: Content of: <title>
 msgid "Proprietary Tethers - GNU Project - Free Software Foundation"
@@ -77,7 +78,7 @@ msgstr ""
 msgid "This typically takes the form of malicious functionalities."
 msgstr "Isso geralmente assume a forma de funcionalidades maliciosas."
 
-#. type: Content of: <div><div><div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Tethering a product or program means designing it to work only by "
 "communicating with a specific server.  That is always an injustice since it "
@@ -90,7 +91,7 @@ msgstr ""
 "servidor. Também é uma injustiça secundária se você não puder se comunicar "
 "com o servidor de outra maneira."
 
-#. type: Content of: <div><div><div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "In some cases, tethering is used to do specific nasty things to the users.  "
 "This page reports instances where tethering was used to harm the users "
@@ -111,6 +112,48 @@ msgstr ""
 "aqui, por favor escreva para <a href=\"mailto:webmasters@gnu.org\">&lt;"
 "webmasters@gnu.org&gt;</a> para nos informar. Por favor, inclua a URL de uma "
 "ou duas referências confiáveis para servir como comprovação específica."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"The Focals eyeglass display, with snooping microphone, has been eliminated.  "
+"Google eliminated it by buying the manufacturer and shutting it down.  It "
+"also <a href=\"https://www.ctvnews.ca/sci-tech/canadian-smart-glasses-going-"
+"offline-weeks-after-company-bought-by-google-1.5042010\">shut down the "
+"server these devices depend on</a>, which caused the ones already sold to "
+"cease to function."
+msgstr ""
+"O visor dos óculos Focals, com microfone de bisbilhotamento, foi eliminado. "
+"O Google o eliminou comprando o fabricante e fechando-o. Ele também <a href="
+"\"https://www.ctvnews.ca/sci-tech/canadian-smart-glasses-going-offline-weeks-"
+"after-company-bought-by-google-1.5042010\">desligou o servidor do qual esses "
+"dispositivos dependem</a>, o que fez com que os já vendidos parassem de "
+"funcionar."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"It may be a good thing to wipe out this product&mdash;for &ldquo;smart,"
+"&rdquo; read &ldquo;snoop&rdquo;&mdash;but Google didn't do that for the "
+"sake of privacy.  Rather, it was eliminating competition for its own "
+"snooping product."
+msgstr ""
+"Pode ser uma boa coisa eliminar este produto – pois “smart” significa "
+"“espionagem” –, mas o Google não fez isso por uma questão de privacidade. Em "
+"vez disso, estava eliminando a competição de seu próprio produto de "
+"espionagem."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"The Mellow sous-vide cooker is tethered to a server. The company suddenly <a "
+"href=\"https://www.slashgear.com/mellow-sous-vide-owners-get-unwelcome-"
+"subscription-surprise-27630842/\"> turned this tethering into a "
+"subscription</a>, forbidding users from taking advantage of the &ldquo;"
+"advanced features&rdquo; of the cooker unless they pay a monthly fee."
+msgstr ""
+"O fogão <i lang=\"fr\">sous-vide</i> Mellow está amarrado a um servidor. A "
+"empresa repentinamente <a href=\"https://www.slashgear.com/mellow-sous-vide-"
+"owners-get-unwelcome-subscription-surprise-27630842/\"> transformou essa "
+"amarração em uma assinatura</a>, proibindo os usuários aproveitem os "
+"“recursos avançados\"> do fogão, a menos que pagassem uma taxa mensal."
 
 #. type: Content of: <div><div><ul><li><p>
 msgid ""
@@ -301,16 +344,15 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li><p>
 msgid ""
-"Sony has brought back its robotic pet Aibo, this time <a href=\"https://"
-"motherboard.vice.com/en_us/article/bj778v/sony-wants-to-sell-you-a-"
-"subscription-to-a-robot-dog-aibo-90s-pet\"> with a universal back door, and "
-"tethered to a server that requires a subscription</a>."
+"Sony has brought back its robotic pet Aibo, this time <a href=\"https://www."
+"vice.com/en/article/bj778v/sony-wants-to-sell-you-a-subscription-to-a-robot-"
+"dog-aibo-90s-pet\"> with a universal back door, and tethered to a server "
+"that requires a subscription</a>."
 msgstr ""
 "A Sony trouxe de volta seu animal de estimação robótico Aibo, dessa vez <a "
-"href=\"https://motherboard.vice.com/en_us/article/bj778v/sony-wants-to-sell-"
-"you-a-subscription-to-a-robot-dog-aibo-90s-pet\"> com uma <i lang=\"en"
-"\">back door</i> universal e amarrado a um servidor que requer assinatura</"
-"a>."
+"href=\"https://www.vice.com/en/article/bj778v/sony-wants-to-sell-you-a-"
+"subscription-to-a-robot-dog-aibo-90s-pet\"> com uma <i lang=\"en\">back "
+"door</i> universal e amarrado a um servidor que requer assinatura</a>."
 
 #. type: Content of: <div><div><ul><li><p>
 msgid ""
@@ -533,7 +575,7 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
-"rafaelff@gnome.org&gt;</a>, 2019.<br/>\n"
+"rafaelff@gnome.org&gt;</a>, 2019-2020.<br/>\n"
 "Revisado por: Cassiano Reinert Novais dos Santos <a href=\"mailto:"
 "caco@posteo.net\">&lt;caco@posteo.net&gt;</a>, 2019."
 

@@ -1,12 +1,12 @@
 # Brazilian Portuguese translation of https://www.gnu.org/server/source/source.html
-# Copyright (C) 2018 Free Software Foundation, Inc.
+# Copyright (C) 2020 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2018, 2019.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018-2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: source.html\n"
 "POT-Creation-Date: 2020-07-08 16:56+0000\n"
-"PO-Revision-Date: 2019-08-24 14:41-0200\n"
+"PO-Revision-Date: 2020-07-27 04:26-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -229,20 +229,6 @@ msgstr ""
 "incluídas nos arquivos “.symlinks”."
 
 #. type: Content of: <p>
-# | This script is no longer used on the live web site.  Instead, the
-# | [-<tt>.symlinks</tt>-] {+<code>.symlinks</code>+} files are transformed
-# | into RewriteRule directives.  More information about
-# | [-<tt>.symlinks</tt>-] {+<code>.symlinks</code>+} files can be found in
-# | the <a
-# | href=\"/server/standards/README.webmastering.html#symlinks\">Symbolic
-# | Links</a> section of the GNU Webmaster Guidelines.
-#, fuzzy
-#| msgid ""
-#| "This script is no longer used on the live web site.  Instead, the <tt>."
-#| "symlinks</tt> files are transformed into RewriteRule directives.  More "
-#| "information about <tt>.symlinks</tt> files can be found in the <a href=\"/"
-#| "server/standards/README.webmastering.html#symlinks\">Symbolic Links</a> "
-#| "section of the GNU Webmaster Guidelines."
 msgid ""
 "This script is no longer used on the live web site.  Instead, the <code>."
 "symlinks</code> files are transformed into RewriteRule directives.  More "
@@ -250,11 +236,11 @@ msgid ""
 "\"/server/standards/README.webmastering.html#symlinks\">Symbolic Links</a> "
 "section of the GNU Webmaster Guidelines."
 msgstr ""
-"Este script não é mais usado no site atual. Em vez disso, os arquivos <tt>."
-"symlinks</tt> são transformados em diretivas RewriteRule. Mais informações "
-"sobre os arquivos <tt>.symlinks</tt> podem ser encontradas na seção <a href="
-"\"/server/standards/README.webmastering.html#symlinks\">Links simbólicos</a> "
-"das diretrizes para webmasters da GNU."
+"Este script não é mais usado no site atual. Em vez disso, os arquivos <code>."
+"symlinks</code> são transformados em diretivas RewriteRule. Mais informações "
+"sobre os arquivos <code>.symlinks</code> podem ser encontradas na seção <a "
+"href=\"/server/standards/README.webmastering.html#symlinks\">Links "
+"simbólicos</a> das diretrizes para webmasters do GNU."
 
 #. type: Content of: <h3>
 msgid "<a id=\"update-license\">update-license.php</a>"
@@ -342,14 +328,10 @@ msgstr ""
 "envio de traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-# | Copyright &copy; 2014, 2015, 2017, [-2019-] {+2019, 2020+} Free Software
-# | Foundation, Inc.
-#, fuzzy
-#| msgid ""
-#| "Copyright &copy; 2014, 2015, 2017, 2019 Free Software Foundation, Inc."
 msgid ""
 "Copyright &copy; 2014, 2015, 2017, 2019, 2020 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2014, 2015, 2017, 2019 Free Software Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2014, 2015, 2017, 2019, 2020 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -366,7 +348,7 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
-"rafaelff@gnome.org&gt;</a>, 2018, 2019."
+"rafaelff@gnome.org&gt;</a>, 2018-2020."
 
 #.  timestamp start 
 #. type: Content of: <div><p>

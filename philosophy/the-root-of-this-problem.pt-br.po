@@ -1,23 +1,24 @@
 # Brazilian Portuguese translation of http://www.gnu.org/philosophy/the-root-of-this-problem.html
-# Copyright (C) 2018 Free Software Foundation, Inc.
+# Copyright (C) 2020 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnu.org article.
 # Hudson Flavio Meneses Lacerda, 2013
 # Dec 2014: add a missing link (T. Godefroy).
-# Rafael Fontenelle <rafaelff@gnome.org>, 2017-2019.
 # André Phellip Ferreira <werewolf@cyberdude.com>, 2018. (proofread)
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017-2020.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: the-root-of-this-problem.html\n"
-"POT-Creation-Date: 2019-05-19 18:26+0000\n"
-"PO-Revision-Date: 2019-05-20 00:18-0200\n"
+"POT-Creation-Date: 2020-10-06 08:28+0000\n"
+"PO-Revision-Date: 2020-12-13 17:53-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 1.0.0-beta1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 3.38.0\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -31,7 +32,7 @@ msgstr ""
 msgid "The Problem Is Software Controlled By Its Developer"
 msgstr "O Problema é o Software Controlado pelo seu Desenvolvedor"
 
-#. type: Content of: <p>
+#. type: Content of: <address>
 msgid "by Richard Stallman"
 msgstr "por Richard Stallman"
 
@@ -424,8 +425,9 @@ msgstr ""
 "envio de traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2008, 2010, 2017, 2018, 2019 Richard M. Stallman"
-msgstr "Copyright &copy; 2008, 2010, 2017, 2018, 2019 Richard M. Stallman"
+msgid "Copyright &copy; 2008, 2010, 2017, 2018, 2019, 2020 Richard M. Stallman"
+msgstr ""
+"Copyright &copy; 2008, 2010, 2017, 2018, 2019, 2020 Richard M. Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -441,9 +443,10 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduzido por: Hudson Flávio Meneses Lacerda, 2013;\n"
+"Traduzido por:\n"
+"Hudson Flávio Meneses Lacerda, 2013;\n"
 "Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome."
-"org&gt;</a>, 2017, 2018\n"
+"org&gt;</a>, 2017-2020\n"
 "<br/>\n"
 "Revisado por: André Phellip Ferreira <a href=\"mailto:werewolf@cyberdude.com"
 "\">&lt;email@andrephellip.com&gt;</a>, 2018"

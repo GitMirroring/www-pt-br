@@ -4,19 +4,20 @@
 # André Phellip Ferreira <werewolf@cyberdude.com>, 2017.
 # Daniel Pimentel <d4n1@d4n1.org>, 2017. (proofread)
 # Rafael Fontenelle <rafaelff@gnome.org>, 2018-2020.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: home.html\n"
-"POT-Creation-Date: 2020-06-18 18:25+0000\n"
-"PO-Revision-Date: 2020-06-04 11:09-0300\n"
+"POT-Creation-Date: 2020-11-10 21:25+0000\n"
+"PO-Revision-Date: 2020-12-13 11:51-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 1.0.0-beta1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 3.38.0\n"
 
 #. type: Content of: <title>
 msgid "The GNU Operating System and the Free Software Movement"
@@ -51,6 +52,30 @@ msgid ""
 msgstr ""
 "GNU é o único sistema operacional desenvolvido especificamente para dar "
 "liberdade aos seus usuários. O que é GNU, e qual liberdade está em jogo?"
+
+#. type: Attribute 'label' of: <div><div><div><video><track>
+msgid "English"
+msgstr "Inglês"
+
+#. type: Attribute 'label' of: <div><div><div><video><track>
+msgid "German"
+msgstr "Alemão"
+
+#. type: Attribute 'label' of: <div><div><div><video><track>
+msgid "Spanish"
+msgstr "Espanhol"
+
+#. type: Attribute 'label' of: <div><div><div><video><track>
+msgid "Persian"
+msgstr "Persa"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"<a href=\"https://www.fsf.org/blogs/community/watch-and-share-rewind-to-help-"
+"explain-free-software\"> Rewind: A video from the FSF</a>"
+msgstr ""
+"<a href=\"https://www.fsf.org/blogs/community/watch-and-share-rewind-to-help-"
+"explain-free-software\"> Rewind: Um vídeo da FSF</a>"
 
 #. type: Content of: <div><div><h2>
 msgid "What is GNU?"
@@ -189,22 +214,21 @@ msgstr ""
 "web) e Gimp (editor de imagem)</small>"
 
 #. type: Content of: <div><div><div><div><a>
-msgid "<a href=\"/distros/screenshots/trisquel8-mate.jpg\">"
-msgstr "<a href=\"/distros/screenshots/trisquel8-mate.jpg\">"
+msgid "<a href=\"https://trisquel.info/files/screenshots/etiona-media.jpg\">"
+msgstr "<a href=\"https://trisquel.info/files/screenshots/etiona-media.jpg\">"
 
 #. type: Attribute 'alt' of: <div><div><div><div><a><img>
-msgid "&nbsp;[Screenshot of Trisquel&nbsp;8 with MATE desktop]&nbsp;"
-msgstr "&nbsp;[Captura de tela de Trisquel&nbsp;8 com o MATE desktop]&nbsp;"
+msgid "&nbsp;[Screenshot of Trisquel&nbsp;9 with MATE desktop]&nbsp;"
+msgstr "&nbsp;[Captura de tela de Trisquel&nbsp;9 com o MATE desktop]&nbsp;"
 
 #. type: Content of: <div><div><div><p>
 msgid ""
-"<small><a href=\"https://trisquel.info\">Trisquel&nbsp;8</a> with <a href="
-"\"https://mate-desktop.org/\">MATE</a> desktop, Abrowser (web browser), and "
-"Inkscape (vector graphics editor)</small>"
+"<small><a href=\"https://trisquel.info\">Trisquel&nbsp;9</a> with <a href="
+"\"https://mate-desktop.org/\">MATE</a> desktop, and VLC media player</small>"
 msgstr ""
-"<small><a href=\"https://trisquel.info\">Trisquel&nbsp;8</a> com <a href="
-"\"https://mate-desktop.org/\">MATE</a> desktop, Abrowser (navegador web) e "
-"Inkscape (editor de gráficos vetoriais)</small>"
+"<small><a href=\"https://trisquel.info\">Trisquel&nbsp;9</a> com <a href="
+"\"https://mate-desktop.org/\">MATE</a> desktop e o reprodutor de mídias VLC</"
+"small>"
 
 #. type: Content of: <div><div><div><div><a>
 msgid "<a href=\"/home.html?distro=dragora#gnu-linux\">"
@@ -444,6 +468,19 @@ msgstr "<a href=\"/gnu/gnu.html\">Mais informação</a>"
 
 #. type: Content of: <div><div><div><p>
 msgid ""
+"<strong>The GNU Project supports the Free Software Foundation's petition to "
+"call on school administrators around the world to stop requiring students to "
+"run nonfree software. <a href=\"https://my.fsf.org/give-students-userfreedom"
+"\">Sign the petition for freedom in the classroom</a></strong>."
+msgstr ""
+"<strong>O Projeto GNU apoia a petição da Free Software Foundation de "
+"convidar os administradores de escolas de todo o mundo a parar de exigir que "
+"os alunos usem softwares não livres. <a href=\"https://my.fsf.org/give-"
+"students-userfreedom\">Assine a petição por liberdade na sala de aula</a></"
+"strong>."
+
+#. type: Content of: <div><div><div><p>
+msgid ""
 "<strong>The GNU Project strongly urges the community to communicate in ways "
 "that are friendly, welcoming and kind. See the <a href=\"/philosophy/kind-"
 "communication.html\"> GNU Kind Communications Guidelines</a></strong>."
@@ -454,8 +491,12 @@ msgstr ""
 "GNU</a></strong>."
 
 #. type: Content of: <div><div><div><h3><a>
-msgid "Planet GNU <a href=\"https://planet.gnu.org/rss20.xml\">"
-msgstr "Planet GNU <a href=\"https://planet.gnu.org/rss20.xml\">"
+msgid ""
+"<a href=\"https://planet.gnu.org/\">Planet GNU</a> <a href=\"https://planet."
+"gnu.org/rss20.xml\">"
+msgstr ""
+"<a href=\"https://planet.gnu.org/\">Planet GNU</a> <a href=\"https://planet."
+"gnu.org/rss20.xml\">"
 
 #. type: Attribute 'alt' of: <div><div><div><h3><a><img>
 msgid "RSS Feed"
@@ -703,13 +744,6 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
-
-#~ msgid ""
-#~ "<a href=\"https://www.fsf.org/blogs/community/presenting-shoetool-happy-"
-#~ "holidays-from-the-fsf\"> ShoeTool &mdash; HAPPY HOLIDAYS FROM THE FSF!</a>"
-#~ msgstr ""
-#~ "<a href=\"https://www.fsf.org/blogs/community/presenting-shoetool-happy-"
-#~ "holidays-from-the-fsf\"> ShoeTool &mdash; BOAS FESTAS DA FSF!</a>"
 
 #~ msgid ""
 #~ "The GNU Project and the Free Software Foundation are <a href=\"/gnu/2020-"

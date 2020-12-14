@@ -1,12 +1,12 @@
 # Brazilian Portuguese translation of https://www.gnu.org/philosophy/amazon.html
-# Copyright (C) 2019 Free Software Foundation, Inc.
+# Copyright (C) 2020 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2019.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2019-2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: amazon.html\n"
 "POT-Creation-Date: 2020-07-01 15:25+0000\n"
-"PO-Revision-Date: 2019-12-27 11:26-0300\n"
+"PO-Revision-Date: 2020-07-26 08:16-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -381,19 +381,6 @@ msgstr ""
 "falta de vontade de parar de fazer negócios com eles."
 
 #. type: Content of: <p>
-# | <a href=\"http://www.stallman.org/\">Richard M. Stallman</a> has written a
-# | <a href=\"/philosophy/amazon-rms-tim.html\">letter to Tim O'Reilly</a> in
-# | regard to the statement by Jeff Bezos, [-<acronym-] {+<abbr+}
-# | title=\"Chief Executive [-Officer\">CEO</acronym>-]
-# | {+Officer\">CEO</abbr>+} of Amazon, which called for software patents to
-# | last just 3 or 5 years.
-#, fuzzy
-#| msgid ""
-#| "<a href=\"http://www.stallman.org/\">Richard M. Stallman</a> has written "
-#| "a <a href=\"/philosophy/amazon-rms-tim.html\">letter to Tim O'Reilly</a> "
-#| "in regard to the statement by Jeff Bezos, <acronym title=\"Chief "
-#| "Executive Officer\">CEO</acronym> of Amazon, which called for software "
-#| "patents to last just 3 or 5 years."
 msgid ""
 "<a href=\"http://www.stallman.org/\">Richard M. Stallman</a> has written a "
 "<a href=\"/philosophy/amazon-rms-tim.html\">letter to Tim O'Reilly</a> in "
@@ -403,9 +390,9 @@ msgid ""
 msgstr ""
 "<a href=\"http://www.stallman.org/\">Richard M. Stallman</a> escreveu uma <a "
 "href=\"/philosophy/amazon-rms-tim.html\">carta a Tim O'Reilly</a> a respeito "
-"da declaração por Jeff Bezos, <acronym title=\"Chief Executive Officer"
-"\">CEO</acronym> da Amazon, na qual pediu que patentes de software durassem "
-"apenas 3 a 5 anos."
+"da declaração por Jeff Bezos, <abbr title=\"Chief Executive Officer\">CEO</"
+"abbr> da Amazon, na qual pediu que patentes de software durassem apenas 3 a "
+"5 anos."
 
 #. type: Content of: <p>
 msgid ""
@@ -502,18 +489,12 @@ msgstr ""
 "envio de traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-# | Copyright &copy; 1999, 2001, 2007, 2008, 2013, 2014, 2015, 2018, [-2019-]
-# | {+2019, 2020+} Free Software Foundation, Inc.
-#, fuzzy
-#| msgid ""
-#| "Copyright &copy; 1999, 2001, 2007, 2008, 2013, 2014, 2015, 2018, 2019 "
-#| "Free Software Foundation, Inc."
 msgid ""
 "Copyright &copy; 1999, 2001, 2007, 2008, 2013, 2014, 2015, 2018, 2019, 2020 "
 "Free Software Foundation, Inc."
 msgstr ""
-"Copyright &copy; 1999, 2001, 2007, 2008, 2013, 2014, 2015, 2018, 2019 Free "
-"Software Foundation, Inc."
+"Copyright &copy; 1999, 2001, 2007, 2008, 2013, 2014, 2015, 2018, 2019, 2020 "
+"Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -530,7 +511,7 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
-"rafaelff@gnome.org&gt;</a>, 2019."
+"rafaelff@gnome.org&gt;</a>, 2019-2020."
 
 #.  timestamp start 
 #. type: Content of: <div><p>

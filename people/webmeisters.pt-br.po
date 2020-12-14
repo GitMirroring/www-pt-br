@@ -1,21 +1,22 @@
 # Brazilian Portuguese translation of https://www.gnu.org/people/webmeisters.html
 # Copyright (C) 2020 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2020.
 # Cassiano Reinert Novais dos Santos <caco@posteo.net>, 2020.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2020.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: webmeisters.html\n"
-"POT-Creation-Date: 2020-04-29 20:55+0000\n"
-"PO-Revision-Date: 2020-05-28 10:44-0300\n"
+"POT-Creation-Date: 2020-09-20 23:55+0000\n"
+"PO-Revision-Date: 2020-12-13 12:09-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 1.0.0-beta1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 3.38.0\n"
 
 #. type: Content of: <title>
 msgid "GNU's Webmasters - GNU Project - Free Software Foundation"
@@ -145,13 +146,14 @@ msgstr "<a href=\"mailto:bandali@gnu.org\">Amin Bandali</a>"
 
 #. type: Content of: <p>
 msgid ""
-"<a href=\"https://bandali.eu.org\">Amin</a> is a <a href=\"http://www.gnu."
-"org/philosophy/free-sw.html\">free software</a> activist and a GNU webmaster "
-"since early 2016."
+"<a href=\"https://bndl.org\">Amin</a> is a <a href=\"/philosophy/free-sw.html"
+"\">free software</a> activist, a <a href=\"/people/people.html#bandali\">GNU "
+"maintainer</a>, and a GNU webmaster since early 2016."
 msgstr ""
-"<a href=\"https://bandali.eu.org\">Amin</a> é um ativista de <a href="
-"\"http://www.gnu.org/philosophy/free-sw.html\">Software Livre</a> e um "
-"<em>webmaster</em> do GNU desde o início de 2016."
+"<a href=\"https://bndl.org\">Amin</a> é um ativista de <a href=\"/philosophy/"
+"free-sw.html\">Software Livre</a>, um <a href=\"/people/people.html#bandali"
+"\">mantenedor do GNU</a> e um <em>webmaster</em> do GNU desde o início de "
+"2016."
 
 #. type: Content of: <h3>
 msgid "<a href=\"mailto:brettg@gnu.org\">Brett Gilio</a>"
@@ -159,12 +161,15 @@ msgstr "<a href=\"mailto:brettg@gnu.org\">Brett Gilio</a>"
 
 #. type: Content of: <p>
 msgid ""
-"Brett joined the GNU webmastering team in late 2019. He is also a regular "
-"contributor to GNU Guix, GNU Guile, and does research in formal methods."
+"<a href=\"https://brettgilio.com/\">Brett</a> joined the GNU webmastering "
+"team in late 2019. In addition to free software advocacy, he also champions "
+"functional programming, formal mathematics in software design, as well as "
+"hygienic and ethical computing practices."
 msgstr ""
-"Brett ingressou na equipe de webmasters do GNU no final de 2019. Ele também "
-"é colaborador regular do GNU Guix, GNU Guile e faz pesquisa em métodos "
-"formais."
+"<a href=\"https://brettgilio.com/\">Brett</a> juntou-se à equipe de "
+"webmastering GNU no final de 2019. Além de defender o software livre, ele "
+"também defende a programação funcional, matemática formal em design de "
+"software, bem como práticas de computação éticas e higiênicas."
 
 #. type: Content of: <h3>
 msgid "Dora Scilipoti"
@@ -346,13 +351,22 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
-"rafaelff@gnome.org&gt;</a>, 2020.Revisado por: Cassiano Reinert Novais dos "
-"Santos <a href=\"mailto:caco@posteo.net\">&lt;caco@posteo.net&gt;</a>, 2020."
+"rafaelff@gnome.org&gt;</a>, 2020.<br/>\n"
+"Revisado por: Cassiano Reinert Novais dos Santos <a href=\"mailto:"
+"caco@posteo.net\">&lt;caco@posteo.net&gt;</a>, 2020."
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid ""
+#~ "Brett joined the GNU webmastering team in late 2019. He is also a regular "
+#~ "contributor to GNU Guix, GNU Guile, and does research in formal methods."
+#~ msgstr ""
+#~ "Brett ingressou na equipe de webmasters do GNU no final de 2019. Ele "
+#~ "também é colaborador regular do GNU Guix, GNU Guile e faz pesquisa em "
+#~ "métodos formais."
 
 #~ msgid "Alex Patel"
 #~ msgstr "Alex Patel"

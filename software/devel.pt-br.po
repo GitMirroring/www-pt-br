@@ -1,0 +1,528 @@
+# Brazilian Portuguese translation of https://www.gnu.org/software/devel.html
+# Copyright (C) 2020 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: devel.html\n"
+"POT-Creation-Date: 2020-07-08 16:56+0000\n"
+"PO-Revision-Date: 2020-12-13 20:09-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 3.38.0\n"
+
+#. type: Content of: <title>
+msgid "GNU Development Resources - GNU Project - Free Software Foundation"
+msgstr ""
+"Recursos de desenvolvimento do GNU - Projeto GNU - Free Software Foundation"
+
+#. type: Content of: <h2>
+msgid "GNU Development Resources"
+msgstr "Recursos de desenvolvimento do GNU"
+
+#. type: Content of: <p>
+msgid ""
+"This page describes many of the development resources available for GNU "
+"developers on GNU Project machines.  For full details of the privileges and "
+"responsibilities of GNU maintainers, please see the <a href=\"/prep/maintain/"
+"\">Information for GNU Maintainers</a> document, and also follow the <a href="
+"\"/prep/standards/\">GNU Coding Standards</a>.  Also interesting to review "
+"may be the <a href=\"/software/maintainer-tips.html\">tips for GNU "
+"maintainers</a> and <a href=\"/help/evaluation.html#whatmeans\">overview of "
+"what it means to be a GNU package</a>."
+msgstr ""
+"Esta página descreve muitos dos recursos de desenvolvimento disponíveis para "
+"desenvolvedores GNU em máquinas do Projeto GNU. Para obter detalhes "
+"completos sobre os privilégios e responsabilidades dos mantenedores do GNU, "
+"consulte o documento <a href=\"/prep/maintain/\">Informações para os "
+"mantenedores do GNU</a> e siga também o <a href=\"/prep/standards/\">Padrão "
+"de Codificação GNU</a>. Também é interessante revisar as <a href=\"/software/"
+"maintainer-tips.html\">dicas para mantenedores do GNU</a> e <a href=\"/help/"
+"evaluation.html#whatmeans\">visão geral do que é significa ser um pacote "
+"GNU</a>."
+
+#. type: Content of: <p>
+msgid ""
+"With the abundance of inexpensive computers that can run <a href=\"/gnu/"
+"linux-and-gnu.html\">GNU/Linux</a>, as well as the greater availability of "
+"Internet access, many GNU volunteers today have all the computer facilities "
+"they need. However, there are still advantages to having central computers "
+"where GNU volunteers can work together without having to make their own "
+"machines accessible to others."
+msgstr ""
+"Com a abundância de computadores baratos que podem executar o <a href=\"/gnu/"
+"linux-and-gnu.html\">GNU/Linux</a>, bem como a maior disponibilidade de "
+"acesso à Internet, muitos voluntários do GNU hoje têm todas as instalações "
+"de computadores de que precisam. No entanto, ainda existem vantagens em ter "
+"computadores centrais onde os voluntários do GNU podem trabalhar juntos sem "
+"precisar tornar suas próprias máquinas acessíveis a outras pessoas."
+
+#. type: Content of: <p>
+msgid ""
+"For that reason, the Free Software Foundation strongly encourages GNU "
+"software projects to use the machines at <code>gnu.org</code> as a home "
+"base.  Using these machines also benefits the GNU Project indirectly, by "
+"increasing public awareness of GNU, and spreading the idea of working "
+"together for the benefit of everyone."
+msgstr ""
+"Por esse motivo, a Free Software Foundation incentiva fortemente os projetos "
+"de software GNU a usar as máquinas em <code>gnu.org</code> como base. O uso "
+"dessas máquinas também beneficia o Projeto GNU indiretamente, aumentando a "
+"conscientização do público sobre o GNU e difundindo a ideia de trabalhar em "
+"conjunto para o benefício de todos."
+
+#. type: Content of: <h3>
+msgid "Savannah and version control"
+msgstr "Savannah e controle de versão"
+
+#. type: Content of: <p>
+msgid ""
+"If you are developing an official GNU package, we strongly recommend using a "
+"public source control repository on <a href=\"http://savannah.gnu.org/"
+"\">Savannah</a>, the GNU hosting server.  To do this, first <a href="
+"\"https://savannah.gnu.org/account/register.php\">create yourself an "
+"account</a> and then <a href=\"http://savannah.gnu.org/register/\">register "
+"your GNU package</a>.  After it is created, you will be able to choose a "
+"version control system, create web pages for your package, manage "
+"permissions for contributors to the pages, and many other features."
+msgstr ""
+"Se você estiver desenvolvendo um pacote oficial do GNU, é altamente "
+"recomendável usar um repositório de controle de código-fonte pública em <a "
+"href=\"http://savannah.gnu.org/\">Savannah</a>, o servidor de hospedagem "
+"GNU. Para fazer isso, primeiro <a href=\"https://savannah.gnu.org/account/"
+"register.php\">crie uma conta para você</a> e depois <a href=\"http://"
+"savannah.gnu.org/register/\">registre seu pacote GNU</a>. Após a criação, "
+"você poderá escolher um sistema de controle de versão, criar páginas web "
+"para o seu pacote, gerenciar permissões para colaboradores das páginas e "
+"muitos outros recursos."
+
+#. type: Content of: <h3>
+msgid "Mailing lists"
+msgstr "Listas de discussão"
+
+#. type: Content of: <p>
+msgid ""
+"We operate mailing lists for GNU software packages as needed, including both "
+"hand-managed lists and automatically managed lists."
+msgstr ""
+"Operamos listas de discussão para pacotes de software GNU, conforme "
+"necessário, incluindo listas gerenciadas manualmente e gerenciadas "
+"automaticamente."
+
+#. type: Content of: <p>
+msgid ""
+"When a GNU package is registered on <a href=\"http://savannah.gnu.org/"
+"\">Savannah</a>, a web interface allows developers to create and manage "
+"mailing lists dedicated to their package."
+msgstr ""
+"Quando um pacote GNU é registrado em <a href=\"http://savannah.gnu.org/"
+"\">Savannah</a>, uma interface web permite que os desenvolvedores criem e "
+"gerenciem listas de discussão dedicadas ao seu pacote."
+
+#. type: Content of: <p>
+msgid ""
+"Each GNU package <em>name</em> ought to have at least a bug-reporting list "
+"with the canonical name <code>bug-<var>pkgname</var>@gnu.org</code>, plus "
+"any aliases that may be useful. Using Savannah, you can create lists for "
+"your package with names like this.  Some packages share the list bug-gnu-"
+"utils@gnu.org but we now encourage packages to set up their own individual "
+"lists."
+msgstr ""
+"Cada pacote GNU <em>nome</em> deve ter pelo menos uma lista de relatórios de "
+"erros com o nome canônico <code>bug-<var>nomepacote</var>@gnu.org</code>, "
+"além de aliases que podem ser úteis. Usando Savannah, você pode criar listas "
+"para o seu pacote com nomes como este. Alguns pacotes compartilham a lista "
+"bug-gnu-utils@gnu.org, mas agora incentivamos os pacotes a configurar suas "
+"próprias listas individuais."
+
+#. type: Content of: <p>
+msgid ""
+"Packages can have other lists for announcements, asking for help, posting "
+"source code, for discussion among users, or whatever the package maintainer "
+"finds to be useful."
+msgstr ""
+"Os pacotes podem ter outras listas de anúncios, pedindo ajuda, publicando o "
+"código-fonte, discutindo os usuários ou o que o mantenedor do pacote achar "
+"útil."
+
+#. type: Content of: <p>
+msgid ""
+"Mailing list archives for automatically-managed lists are available at <a "
+"href=\"https://lists.gnu.org/\">lists.gnu.org</a> (mbox archives can be "
+"downloaded by <a href=\"https://lists.gnu.org/archive/mbox/\">HTTPS</a>), as "
+"well as through the list manager. Archives for hand-maintained lists are "
+"generally kept in <code>/com/archive</code> on the GNU machines."
+msgstr ""
+"Os arquivos da lista de discussão para listas gerenciadas automaticamente "
+"estão disponíveis em <a href=\"https://lists.gnu.org/\">lists.gnu.org</a> "
+"(os arquivos mbox podem ser baixados por <a href=\"https://lists.gnu.org/"
+"archive/mbox/\">HTTPS</a>), bem como por meio do gerenciador de listas. "
+"Arquivos para listas mantidas à mão geralmente são mantidos em <code>/com/"
+"archive</code> nas máquinas GNU."
+
+#. type: Content of: <p>
+msgid ""
+"When a mailing list becomes large enough to justify it, we can set up a "
+"<code>gnu.*</code> newsgroup with a two-way link to the mailing list."
+msgstr ""
+"Quando uma lista de discussão se torna grande o suficiente para justificá-"
+"la, podemos configurar um grupo de notícias <code>gnu.*</code> com um link "
+"bidirecional para a lista de discussão."
+
+#. type: Content of: <h3>
+msgid "Web pages"
+msgstr "Páginas web"
+
+#. type: Content of: <p>
+msgid ""
+"The master GNU web server is <a href=\"/home.html\">http://www.gnu.org/</"
+"a>.  We very strongly recommend that GNU packages use <code>http://www.gnu."
+"org/software/<var>pkgname</var></code> as their primary home page."
+msgstr ""
+"O servidor web principal do GNU é <a href=\"/home.html\">http://www.gnu.org/"
+"</a>. É altamente recomendável que os pacotes GNU usem <code>http://www.gnu."
+"org/software/<var>nomepacote</var></code> como sua página inicial principal."
+
+#. type: Content of: <p>
+msgid ""
+"Using Savannah, developers can create and maintain their own pages at that "
+"url via a CVS &ldquo;web repository&rdquo;, separate from the package's main "
+"source repository (which can use any supported version control system).  <a "
+"href=\"/prep/maintain/maintain.html#Web-Pages\">More information on "
+"maintaining GNU web pages</a>."
+msgstr ""
+"Usando Savannah, os desenvolvedores podem criar e manter suas próprias "
+"páginas nesse URL por meio de um “repositório web” do CVS, separado do "
+"repositório de origem principal do pacote (que pode usar qualquer sistema de "
+"controle de versão suportado). <a href=\"/prep/maintain/maintain.html#Web-"
+"Pages\"> Mais informações sobre como manter páginas web do GNU</a>."
+
+#. type: Content of: <h3>
+msgid "FTP"
+msgstr "FTP"
+
+#. type: Content of: <p>
+msgid ""
+"The primary ftp site for GNU software on <a href=\"http://ftp.gnu.org/gnu"
+"\"><code>http://ftp.gnu.org/</code></a>, which is <a href=\"/prep/ftp.html"
+"\">mirrored worldwide</a>.  We very strongly recommend that all GNU packages "
+"upload their releases here (in addition to any other location you find "
+"convenient)."
+msgstr ""
+"O site FTP principal para o softwares do GNU em <a href=\"http://ftp.gnu.org/"
+"gnu\"><code>http://ftp.gnu.org/</code></a>, o qual é <a href=\"/prep/ftp.html"
+"\">espelhado em todo o mundo</a>. É altamente recomendável que todos os "
+"pacotes GNU carreguem seus lançamentos aqui (além de qualquer outro local "
+"que você achar conveniente)."
+
+#. type: Content of: <p>
+msgid ""
+"We use a different server for test releases, so that people won't install "
+"them thinking they are ready for prime time. This server is <a href=\"ftp://"
+"alpha.gnu.org/\"><code>ftp://alpha.gnu.org/</code></a>."
+msgstr ""
+"Usamos um servidor diferente para lançamentos de teste, para que as pessoas "
+"não os instalem pensando que estão prontos para o horário nobre. Este "
+"servidor é <a href=\"ftp://alpha.gnu.org/\"><code>ftp://alpha.gnu.org/</"
+"code></a>."
+
+#. type: Content of: <p>
+msgid ""
+"The <a href=\"/prep/maintain/maintain.html#Automated-FTP-Uploads"
+"\">Information for GNU Maintainers</a> document has complete details on the "
+"ftp upload process, which is the same for both servers."
+msgstr ""
+"O documento <a href=\"/prep/maintain/maintain.html#Automated-FTP-Uploads"
+"\">Informações para mantenedores do GNU</a> possui detalhes completos sobre "
+"o processo de envio por ftp, que é o mesmo para os dois servidores."
+
+#. type: Content of: <h3>
+msgid "Login accounts"
+msgstr "Contas de login"
+
+#. type: Content of: <p>
+msgid ""
+"We provide shell login access to GNU machines to people who need them for "
+"work on GNU software.  Having a login account is both a privilege and a "
+"responsibility, and they should be used only for your work on GNU.  <a href="
+"\"README.accounts.html\">Instructions for obtaining an account machines</a> "
+"are written separately."
+msgstr ""
+"Fornecemos acesso de login do shell às máquinas GNU para pessoas que "
+"precisam delas para trabalhar no software GNU. Ter uma conta de login é um "
+"privilégio e uma responsabilidade, e elas devem ser usadas apenas para o seu "
+"trabalho no GNU. <a href=\"README.accounts.html\">Instruções para obter "
+"máquinas de uma conta</a> estão escritas separadamente."
+
+#. type: Content of: <p>
+msgid ""
+"On the general login machine, the <a href=\"/software/gsrc/\">gsrc</a> "
+"package developers maintain a hierarchy of the current GNU package releases "
+"(<code>/gd/gnu/gnusys/live</code>), compiled from the original sources.  To "
+"use it, source <code>/gd/gnu/gnusys/live/setup</code>."
+msgstr ""
+"Na máquina de login geral, os desenvolvedores do pacote <a href=\"/software/"
+"gsrc/\">gsrc</a> mantêm uma hierarquia das versões atuais de pacotes GNU "
+"(<code>/gd/gnu/gnusys/live</code>), compilada a partir dos fontes originais. "
+"Para usá-lo, carregue <code>/gd/gnu/gnusys/live/setup</code>."
+
+#. type: Content of: <p>
+msgid ""
+"You can also <a href=\"http://www.fsf.org/about/systems/sending-mail-via-"
+"fencepost\">use a GNU account for email</a>."
+msgstr ""
+"Você também pode <a href=\"http://www.fsf.org/about/systems/sending-mail-via-"
+"fencepost\">usar uma conta GNU para e-mail</a>."
+
+#. type: Content of: <h3>
+msgid "Hydra: Continuous builds and portability testing"
+msgstr "Hydra: Compilações contínuas e testes de portabilidade"
+
+#. type: Content of: <p>
+msgid ""
+"Continuous build tools (often referred to as continuous integration tools) "
+"allow programming errors to be spotted soon after they are introduced in a "
+"software project, which is particularly useful for cooperatively developed "
+"software."
+msgstr ""
+"As ferramentas de compilação contínua (geralmente chamadas de ferramentas de "
+"integração contínua) permitem detectar erros de programação logo após serem "
+"introduzidos em um projeto de software, o que é particularmente útil para "
+"software desenvolvido em cooperação."
+
+#. type: Content of: <p>
+msgid ""
+"<a href=\"http://nixos.org/hydra/\">Hydra</a> is a free continuous build "
+"tool based on the <a href=\"http://nixos.org/nix/\">Nix</a> package "
+"manager.  Administrators of the <a href=\"http://hydra.nixos.org/\">Hydra "
+"instance at the Delft University of Technology</a> have generously offered "
+"<a href=\"http://hydra.nixos.org/project/gnu\">slots for the GNU Project</"
+"a>.  Projects on Hydra get re-built <em>at each commit</em> or change in "
+"their dependencies, whichever comes first (dependencies <em>include</em> the "
+"standard build environment being used, which itself contains recent released "
+"versions of GCC, GNU&nbsp;make, etc.)"
+msgstr ""
+"<a href=\"http://nixos.org/hydra/\">Hydra</a> é uma ferramenta de compilação "
+"contínua livre com base no gerenciador de pacote <a href=\"http://nixos.org/"
+"nix/\">Nix</a>. Administradores da <a href=\"http://hydra.nixos.org/"
+"\">instância Hydra na Universidade Técnica de Delft</a> ofereceram "
+"generosamente <a href=\"http://hydra.nixos.org/project/gnu\">slots para o "
+"Projeto GNU</a>. Projetos na Hydra são recompiladas <em>em cada commit</em> "
+"ou alteração em suas dependências, o que vier primeiro (dependências "
+"<em>incluem</em> o ambiente de compilação padrão sendo usado,o qual em si "
+"contém versões de lançamento recentes do GCC, GNU&nbsp;make etc.)"
+
+#. type: Content of: <p>
+msgid ""
+"Currently it can build software on GNU/Linux (<code>i686</code> and "
+"<code>x86_64</code>) as well as FreeBSD, Darwin, Solaris, and Cygwin, and "
+"can cross-build for GNU/Hurd, GNU/Linux on other architectures, and MinGW.  "
+"It can provide code coverage reports produced using LCOV.  In addition to "
+"source tarballs and Nix packages, it can build packages for <code>deb</"
+"code>- and <code>RPM</code>-based distributions.  Packages can be built "
+"against the latest versions of their dependencies; for instance, GnuTLS is "
+"built using GNU&nbsp;libtasn1 and GNU&nbsp;libgcrypt builds corresponding to "
+"their latest revision."
+msgstr ""
+"Atualmente, ela pode compilar software no GNU/Linux (<code>i686</code> e "
+"<code>x86_64</code>), bem como no FreeBSD, Darwin, Solaris e Cygwin, e pode "
+"fazer compilação cruzada de versões para o GNU/Hurd, GNU/Linux em outras "
+"arquiteturas e MinGW. Ele pode fornecer relatórios de cobertura de código "
+"produzidos usando LCOV. Além de tarballs de fontes e pacotes Nix, ela pode "
+"construir pacotes para distribuições baseadas em <code>deb</code> e "
+"<code>RPM</code>. Os pacotes podem ser criados com base nas versões mais "
+"recentes de suas dependências; por exemplo, o GnuTLS é compilado usando as "
+"versões GNU&nbsp;libtasn1 e GNU&nbsp;libgcrypt correspondentes à sua última "
+"revisão."
+
+#. type: Content of: <p>
+msgid ""
+"In addition to the <a href=\"http://hydra.nixos.org/project/gnu\">web "
+"interface</a>, Hydra can send notifications by email when the build status "
+"of a project changes&mdash;e.g., from <code>SUCCEEDED</code> to "
+"<code>FAILED</code>.  When a build fails, its log and build tree are "
+"accessible from the web interface; the latter allows generated files (for "
+"example, <code>config.log</code> or <code>testsuite.log</code>) to be "
+"inspected, which provides debugging hints."
+msgstr ""
+"Além da <a href=\"http://hydra.nixos.org/project/gnu\">interface web</a>, a "
+"Hydra pode enviar notificações por e-mail quando o status da compilação de "
+"um projeto for alterado — por exemplo, de <code>SUCCEED</code> a "
+"<code>FAILED</code>. Quando uma compilação falha, seu log e a árvore de "
+"compilação são acessíveis a partir da interface web; o último permite que os "
+"arquivos gerados (por exemplo, <code>config.log</code> ou <code>testsuite."
+"log</code>) sejam inspecionados, o que fornece dicas de depuração."
+
+#. type: Content of: <p>
+msgid ""
+"Any GNU software package can request a slot on Hydra.  Each package must "
+"provide its own &ldquo;build recipe&rdquo; written in the Nix language (a "
+"<em>Nix expression</em>, in Nix parlance).  <a href=\"http://git.savannah."
+"gnu.org/cgit/hydra-recipes.git\">Nix expressions for GNU projects</a> are "
+"available via Git.  For simple projects using standard GNU build tools such "
+"as Automake and Autoconf, the recipe is usually fairly simple.  For example, "
+"see the <a href=\"http://git.savannah.gnu.org/cgit/hydra-recipes.git/tree/"
+"patch/release.nix\">recipe for GNU&nbsp;Patch</a>.  You are welcome to ask "
+"for guidance on <a href=\"mailto:hydra-users@gnu.org\">hydra-users@gnu.org</"
+"a>."
+msgstr ""
+"Qualquer pacote de software GNU pode solicitar um slot na Hydra. Cada pacote "
+"deve fornecer sua própria “receita de compilação” escrita na linguagem Nix "
+"(uma <em>expressão Nix</em>, na linguagem Nix). <a href=\"http://git."
+"savannah.gnu.org/cgit/hydra-recipes.git\"> Expressões Nix para projetos GNU</"
+"a> estão disponíveis no Git. Para projetos simples usando ferramentas de "
+"compilação padrão do GNU, como Automake e Autoconf, a receita geralmente é "
+"bastante simples. Por exemplo, consulte a <a href=\"http://git.savannah.gnu."
+"org/cgit/hydra-recipes.git/tree/patch/release.nix\">receita para o GNU "
+"Patch</a>. Você pode pedir orientação em <a href=\"mailto:hydra-users@gnu.org"
+"\">hydra-users@gnu.org</a>."
+
+#. type: Content of: <p>
+msgid ""
+"After constructing your build recipe, email <a href=\"http://lists.gnu.org/"
+"mailman/listinfo/hydra-users\">hydra-users@gnu.org</a> and ask to be "
+"included in Hydra.  Also make sure to become a member of the <a href="
+"\"https://savannah.gnu.org/projects/hydra-recipes/\"><code>hydra-recipes</"
+"code> project at Savannah</a>.  This will allow you to customize your "
+"project's build job directly."
+msgstr ""
+"Após criar sua receita de compilação, envie um e-mail para <a href=\"http://"
+"lists.gnu.org/mailman/listinfo/hydra-users\">hydra-users@gnu.org</a> e peça "
+"para ser incluída na Hydra. Certifique-se também de se tornar um membro do "
+"projeto <a href=\"https://savannah.gnu.org/projects/hydra-recipes/"
+"\"><code>hydra-recipes</code> no Savannah</a>. Isso permitirá que você "
+"personalize o trabalho de compilação do seu projeto diretamente."
+
+#. type: Content of: <p>
+msgid ""
+"For technical information about Hydra, please consult the <a href=\"https://"
+"hydra.nixos.org/job/hydra/master/manual/latest/download-by-type/doc/manual"
+"\"> manual of Hydra</a>.  For more details, please refer to the <a href="
+"\"http://hydra.nixos.org/job/nix/trunk/tarball/latest/download/1/nix/manual."
+"html\">Nix manual</a>."
+msgstr ""
+"Para informações técnicas sobre a Hydra, consulte o <a href=\"https://hydra."
+"nixos.org/job/hydra/master/manual/latest/download-by-type/doc/manual\"> "
+"manual da Hydra</a>. Para mais detalhes, confira o <a href=\"http://hydra."
+"nixos.org/job/nix/trunk/tarball/latest/download/1/nix/manual.html\">manual "
+"do Nix</a>."
+
+#. type: Content of: <h3>
+msgid "platform-testers: Manual portability testing"
+msgstr "platform-testers: Testes de portabilidade manuais"
+
+#. type: Content of: <p>
+msgid ""
+"Another useful option for pre-release testing is the <a href=\"http://lists."
+"gnu.org/mailman/listinfo/platform-testers\">platform-testers mailing list</"
+"a>.  Time permitting, the people on this list build pre-releases on a wide "
+"variety of platforms upon request.  (Volunteers to handle testing requests "
+"are needed! Just subscribe to the list and start participating.)"
+msgstr ""
+"Outra opção útil para testes de pré-lançamento é a <a href=\"http://lists."
+"gnu.org/mailman/listinfo/platform-testers\">lista de discussão de platform-"
+"testers</a>. Se houver tempo, as pessoas nesta lista criam pré-lançamentos "
+"em uma ampla variedade de plataformas, mediante solicitação. (São "
+"necessários voluntários para lidar com solicitações de teste! Basta se "
+"inscrever na lista e começar a participar.)"
+
+#. type: Content of: <p>
+msgid ""
+"In contrast to the Hydra tool described above, the platform-testers list "
+"works essentially by hand, so each method has its advantages and "
+"disadvantages.  Also, the platform-testers crew has access to a wider "
+"variety of platforms and compilers than the Hydra setup."
+msgstr ""
+"Ao contrário da ferramenta Hydra descrita acima, a lista de platform-testers "
+"funciona essencialmente à mão, portanto cada método tem suas vantagens e "
+"desvantagens. Além disso, a equipe de platform-testers tem acesso a uma "
+"variedade maior de plataformas e compiladores do que a configuração da Hydra."
+
+#. type: Content of: <p>
+msgid ""
+"So, if you have a pre-release, you can write to the mailing list, providing "
+"(1)&nbsp;the url to the tarball, (2)&nbsp;the planned date of the release, "
+"and (3)&nbsp;the email address to which build reports should be sent.  The "
+"builds and reports are made by hand by the volunteers on the list."
+msgstr ""
+"Portanto, se você tiver um pré-lançamento, poderá escrever para a lista de "
+"discussão, fornecendo (1)&nbsp;o URL para o tarball, (2)&nbsp;a data "
+"planejada do lançamento e (3)&nbsp;o endereço de e-mail para o qual os "
+"relatórios de compilação devem ser enviado. As compilações e relatórios são "
+"feitos à mão pelos voluntários da lista."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas deste site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2014, 2019, 2020 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2014, 2019, 2020 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2020."
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização:"

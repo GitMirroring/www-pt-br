@@ -5,15 +5,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: blurbs.html\n"
-"POT-Creation-Date: 2014-03-14 04:32+0000\n"
-"PO-Revision-Date: 2020-01-05 00:05-0300\n"
+"POT-Creation-Date: 2020-07-17 19:55+0000\n"
+"PO-Revision-Date: 2020-07-26 17:11-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
-"Language: pt-br\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
 
 #. type: Content of: <title>
 msgid "GNU Package Blurbs - GNU Project - Free Software Foundation"
@@ -82,18 +83,18 @@ msgstr ""
 "envio de traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2014 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2014 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2014, 2020 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2014, 2020 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
-"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
@@ -106,3 +107,6 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid "Copyright &copy; 2014 Free Software Foundation, Inc."
+#~ msgstr "Copyright &copy; 2014 Free Software Foundation, Inc."

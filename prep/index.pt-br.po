@@ -1,12 +1,12 @@
 # Brazilian Portuguese translation of https://www.gnu.org/prep/index.html
 # Copyright (C) 2020 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2019, 2020.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2019-2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: index.html\n"
-"POT-Creation-Date: 2020-07-09 08:25+0000\n"
-"PO-Revision-Date: 2020-02-18 07:08-0300\n"
+"POT-Creation-Date: 2020-09-21 18:55+0000\n"
+"PO-Revision-Date: 2020-07-26 17:30-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -218,39 +218,30 @@ msgstr ""
 "aqui em /prep está agora obsoleto.)</small>"
 
 #. type: Content of: <p>
-# | By the way, the [-<tt>prep</tt>-] {+<code>prep</code>+} directory name
-# | here refers to [-<tt>prep.ai.mit.edu</tt>,-]
-# | {+<code>prep.ai.mit.edu</code>,+} one of the first hosts used by GNU for
-# | distributing GNU software, and project information like the above, over
-# | the Internet.
-#, fuzzy
-#| msgid ""
-#| "By the way, the <tt>prep</tt> directory name here refers to <tt>prep.ai."
-#| "mit.edu</tt>, one of the first hosts used by GNU for distributing GNU "
-#| "software, and project information like the above, over the Internet."
 msgid ""
 "By the way, the <code>prep</code> directory name here refers to <code>prep."
 "ai.mit.edu</code>, one of the first hosts used by GNU for distributing GNU "
 "software, and project information like the above, over the Internet."
 msgstr ""
-"A propósito, o nome do diretório <tt>prep</tt> aqui se refere a <tt>prep.ai."
-"mit.edu</tt>, um dos primeiros hosts usados pelo GNU para distribuir "
-"software GNU e informações de projetos como acima, pela Internet."
+"A propósito, o nome do diretório <code>prep</code> aqui se refere a "
+"<code>prep.ai.mit.edu</code>, um dos primeiros hosts usados pelo GNU para "
+"distribuir software GNU e informações de projetos como acima, pela Internet."
 
 #. type: Content of: <p>
 msgid ""
-"prep was in the MIT artificial intelligence lab at the time; today, the "
-"hostname is an alias for ftp.gnu.org. It still works for ftp, mail, and even "
-"web access (although the web had not been invented at the time prep was "
-"originally used). Even today, references to prep survive in documentation, "
-"mail archives, essays&mdash;and the name of this directory."
+"<code>prep</code> was in the MIT artificial intelligence lab at the time; "
+"today, the hostname is an alias for ftp.gnu.org. It still works for ftp, "
+"mail, and even web access (although the web had not been invented at the "
+"time <code>prep</code> was originally used). Even today, references to "
+"<code>prep</code> survive in documentation, mail archives, essays&mdash;and "
+"the name of this directory."
 msgstr ""
-"o <tt>prep</tt> estava no laboratório de inteligência artificial do MIT na "
-"época; hoje, o nome do host é um apelido para ftp.gnu.org. Ele ainda "
+"o <code>prep</code> estava no laboratório de inteligência artificial do MIT "
+"na época; hoje, o nome do host é um apelido para ftp.gnu.org. Ele ainda "
 "funciona para FTP, correio e até acesso à Web (embora a Web não tivesse sido "
-"inventada no momento em que o <tt>prep</tt> foi usado originalmente). Ainda "
-"hoje, as referências ao <tt>prep</tt> sobrevivem em documentação, em "
-"arquivos de correio, em ensaios &ndash; e no nome desse diretório."
+"inventada no momento em que o <code>prep</code> foi usado originalmente). "
+"Ainda hoje, as referências ao <code>prep</code> sobrevivem em documentação, "
+"em arquivos de correio, em ensaios &ndash; e no nome desse diretório."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>

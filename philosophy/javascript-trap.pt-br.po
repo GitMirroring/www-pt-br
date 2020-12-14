@@ -1,7 +1,7 @@
 # Brazilian Portuguese translation of http://www.gnu.org/philosophy/javascript-trap.html
-# Copyright (C) 2019 Free Software Foundation, Inc.
+# Copyright (C) 2020 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original articles.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2016-2019.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2016-2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: javascript-trap.html\n"
@@ -102,8 +102,8 @@ msgstr ""
 "forma compactada é feita a partir do código-fonte, excluindo os espaços "
 "extras que tornam o código legível e as observações explicativas que o "
 "tornam compreensível e substituindo cada nome significativo no código por um "
-"nome arbitrário abreviado, para que seja possível dizer qual é seu suposto "
-"significado."
+"nome arbitrário abreviado, para que não seja possível dizer qual é seu "
+"suposto significado."
 
 #. type: Content of: <p>
 msgid ""
@@ -559,7 +559,7 @@ msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "<b>Tradução:</b> Rafael Fontenelle \n"
 "<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, "
-"2017-2019"
+"2017-2020"
 
 #.  timestamp start 
 #. type: Content of: <div><p>

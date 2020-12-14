@@ -3,19 +3,20 @@
 # This file is distributed under the same license as the gnu.org article.
 # Rafael Beraldo <rberaldo@cabaladada.org>, 2012.
 # Rafael Fontenelle <rafaelff@gnome.org>, 2016-2020.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: other-free-books.html\n"
-"POT-Creation-Date: 2020-06-21 08:55+0000\n"
-"PO-Revision-Date: 2020-06-21 23:55-0300\n"
+"POT-Creation-Date: 2020-12-08 11:55+0000\n"
+"PO-Revision-Date: 2020-12-13 11:59-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 1.0.0-beta1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 3.38.0\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -826,10 +827,10 @@ msgstr "978-84-09-01157-5"
 
 #. type: Content of: <dl><dt>
 msgid ""
-"<a href=\"#ALP_ENTRY\" name=\"ALP_NOTE\"><strong>Note on Advanced Linux "
+"<a href=\"#ALP_ENTRY\" id=\"ALP_NOTE\"><strong>Note on Advanced Linux "
 "Programming, First Edition:</strong></a>"
 msgstr ""
-"<a href=\"#ALP_ENTRY\" name=\"ALP_NOTE\"><strong>Nota sobre Advanced Linux "
+"<a href=\"#ALP_ENTRY\" id=\"ALP_NOTE\"><strong>Nota sobre Advanced Linux "
 "Programming, First Edition:</strong></a>"
 
 #. type: Content of: <dl><dd>

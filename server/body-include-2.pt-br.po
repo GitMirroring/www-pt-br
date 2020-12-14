@@ -8,27 +8,29 @@
 # Bruno Félix Rezende Ribeiro <oitofelix@gnu.org>, 2015.
 # April 2020: reorganize includes to fit new layout.
 # Rafael Fontenelle <rafaelff@gnome.org>, 2016-2020.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: body-include-2.html\n"
-"POT-Creation-Date: 2020-04-26 06:25+0000\n"
-"PO-Revision-Date: 2020-04-30 08:38-0300\n"
+"POT-Creation-Date: 2020-11-09 22:25+0000\n"
+"PO-Revision-Date: 2020-12-12 18:37-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
-"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language-Team: Brazilian Portuguese <ldpbr-translation@lists.sourceforge."
+"net>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 1.0.0-beta1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 3.38.0\n"
 
 #. type: Content of: <div>
 msgid ""
-"<a id=\"more-links\" href=\"#navigation\"></a> <a id=\"less-links\" href="
-"\"#tabAboutGNU\"></a>"
+"<a id=\"more-links\" href=\"#navigation\" title=\"More...\"> <span>Site "
+"navigation</span></a> <a id=\"less-links\" href=\"#content\"><b>Skip</b></a>"
 msgstr ""
-"<a id=\"more-links\" href=\"#navigation\"></a> <a id=\"less-links\" href="
-"\"#tabAboutGNU\"></a>"
+"<a id=\"more-links\" href=\"#navigation\" title=\"More...\"> <span>Navegação "
+"do site</span></a> <a id=\"less-links\" href=\"#content\"><b>Pular</b></a>"
 
 #. type: Content of: <div><ul><li>
 msgid "<a href=\"/gnu/gnu.html\">ABOUT&nbsp;GNU</a>"

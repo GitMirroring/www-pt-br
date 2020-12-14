@@ -1,12 +1,12 @@
 # Brazilian Portuguese translation of https://www.gnu.org/manual/manual.html
-# Copyright (C) 2018 Free Software Foundation, Inc.
+# Copyright (C) 2020 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2018.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018-2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: manual.html\n"
-"POT-Creation-Date: 2018-09-10 08:26+0000\n"
-"PO-Revision-Date: 2019-02-02 09:57-0200\n"
+"POT-Creation-Date: 2020-08-30 07:55+0000\n"
+"PO-Revision-Date: 2020-07-26 16:58-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -96,14 +96,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
@@ -111,12 +111,12 @@ msgstr ""
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas deste site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2014, 2018 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2014, 2018 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2014, 2018, 2020 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2014, 2018, 2020 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -133,10 +133,14 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
-"rafaelff@gnome.org&gt;</a>, 2018.Revisado por: Cassiano Reinert Novais dos "
-"Santos <a href=\"mailto:caco@posteo.net\">&lt;caco@posteo.net&gt;</a>, 2018."
+"rafaelff@gnome.org&gt;</a>, 2018-2020.<br/>\n"
+"Revisado por: Cassiano Reinert Novais dos Santos <a href=\"mailto:"
+"caco@posteo.net\">&lt;caco@posteo.net&gt;</a>, 2018."
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid "Copyright &copy; 2014, 2018 Free Software Foundation, Inc."
+#~ msgstr "Copyright &copy; 2014, 2018 Free Software Foundation, Inc."

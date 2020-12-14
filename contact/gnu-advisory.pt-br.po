@@ -2,12 +2,12 @@
 # Copyright (C) 2020 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Rafael Fontenelle <rafaelff@gnome.org>, 2020.
-# Cassiano Reinert Novais dos Santos <caco@posteo.net>, 2020
+# Cassiano Reinert Novais dos Santos <caco@posteo.net>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: gnu-advisory.html\n"
-"POT-Creation-Date: 2019-12-02 16:55+0000\n"
-"PO-Revision-Date: 2020-01-12 15:59-0300\n"
+"POT-Creation-Date: 2020-07-20 07:55+0000\n"
+"PO-Revision-Date: 2020-07-26 16:00-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -189,14 +189,14 @@ msgid ""
 "Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
 "\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
 "to contact</a> the FSF.  Broken links and other corrections or suggestions "
-"can be sent to <a href=\"mailto:gnu-advisory@gnu.org\">&lt;gnu-advisory@gnu."
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
 "org&gt;</a>."
 msgstr ""
 "Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
 "org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
 "meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
-"podem ser enviadas para <a href=\"mailto:gnu-advisory@gnu.org\">&lt;gnu-"
-"advisory@gnu.org&gt;</a>."
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
 
 #.  TRANSLATORS: Ignore the original text in this paragraph,
 #.         replace it with the translation of these two:
@@ -224,8 +224,8 @@ msgstr ""
 "envio de traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2014, 2015, 2019 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2014, 2015, 2019 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2014, 2015, 2019, 2020 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2014, 2015, 2019, 2020 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -249,3 +249,39 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#, fuzzy
+#~| msgid ""
+#~| "Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu."
+#~| "org\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/"
+#~| "\">other ways to contact</a> the FSF.  Broken links and other "
+#~| "corrections or suggestions can be sent to <a href=\"mailto:"
+#~| "webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>."
+#~ msgid ""
+#~ "Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu."
+#~ "org\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/"
+#~ "\">other ways to contact</a> the FSF.  Broken links and other corrections "
+#~ "or suggestions can be sent to <a href=\"mailto:webmsters@gnu.org\">&lt;"
+#~ "webmasters@gnu.org&gt;</a>."
+#~ msgstr ""
+#~ "Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:"
+#~ "gnu@gnu.org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/"
+#~ "\">outros meios de contatar</a> a FSF. Links quebrados e outras correções "
+#~ "ou sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org"
+#~ "\">&lt;webmasters@gnu.org&gt;</a>."
+
+#~ msgid ""
+#~ "Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu."
+#~ "org\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/"
+#~ "\">other ways to contact</a> the FSF.  Broken links and other corrections "
+#~ "or suggestions can be sent to <a href=\"mailto:gnu-advisory@gnu.org\">&lt;"
+#~ "gnu-advisory@gnu.org&gt;</a>."
+#~ msgstr ""
+#~ "Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:"
+#~ "gnu@gnu.org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/"
+#~ "\">outros meios de contatar</a> a FSF. Links quebrados e outras correções "
+#~ "ou sugestões podem ser enviadas para <a href=\"mailto:gnu-advisory@gnu.org"
+#~ "\">&lt;gnu-advisory@gnu.org&gt;</a>."
+
+#~ msgid "Copyright &copy; 2014, 2015, 2019 Free Software Foundation, Inc."
+#~ msgstr "Copyright &copy; 2014, 2015, 2019 Free Software Foundation, Inc."

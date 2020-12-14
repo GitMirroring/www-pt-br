@@ -1,21 +1,22 @@
 # Brazilian Portuguese translation of http://www.gnu.org/licenses/gpl-3.0.html
-# Copyright (C) 2016 Free Software Foundation, Inc.
+# Copyright (C) 2020 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2016, 2017.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2016-2020.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: gpl-3.0.html\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-08-07 02:55+0000\n"
-"PO-Revision-Date: 2017-02-27 19:20-0200\n"
+"POT-Creation-Date: 2020-11-10 10:25+0000\n"
+"PO-Revision-Date: 2020-12-13 12:40-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 1.0.0-beta1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 3.38.0\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -68,16 +69,17 @@ msgid ""
 "tex\">LaTeX</a>, <a href=\"/licenses/gpl-3.0-standalone.html\">standalone "
 "HTML</a>, <a href=\"/licenses/gpl-3.0.odt\">ODF</a>, Docbook <a href=\"/"
 "licenses/gpl-3.0.dbk\">v4</a> or <a href=\"/licenses/gpl-3.0.xml\">v5</a>, "
-"<a href=\"/licenses/gpl-3.0.md\">Markdown</a>, and <a href=\"/licenses/"
-"gpl-3.0.rtf\">RTF</a>."
+"<a href=\"/licenses/gpl-3.0.rst\">reStructuredText</a>, <a href=\"/licenses/"
+"gpl-3.0.md\">Markdown</a>, and <a href=\"/licenses/gpl-3.0.rtf\">RTF</a>."
 msgstr ""
 "A GPL em outros formatos: <a href=\"/licenses/gpl-3.0.txt\">texto simples</"
 "a>, <a href=\"/licenses/gpl-3.0.texi\">Texinfo</a>, <a href=\"/licenses/"
 "gpl-3.0.tex\">LaTeX</a>, <a href=\"/licenses/gpl-3.0-standalone.html\">HTML "
 "independente</a>, <a href=\"/licenses/gpl-3.0.odt\">ODF</a>, Docbook <a href="
 "\"/licenses/gpl-3.0.dbk\">v4</a> ou <a href=\"/licenses/gpl-3.0.xml\">v5</"
-"a>, <a href=\"/licenses/gpl-3.0.md\">Markdown</a> e <a href=\"/licenses/"
-"gpl-3.0.rtf\">RTF</a>."
+"a>, <a href=\"/licenses/gpl-3.0.rst\">reStructuredText</a>, <a href=\"/"
+"licenses/gpl-3.0.md\">Markdown</a> e <a href=\"/licenses/gpl-3.0.rtf\">RTF</"
+"a>."
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -164,7 +166,7 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
-"rafaelff@gnome.org&gt;</a>"
+"rafaelff@gnome.org&gt;</a>, 2016-2020"
 
 #.  timestamp start 
 #. type: Content of: <div><p>

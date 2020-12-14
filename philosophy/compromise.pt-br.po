@@ -1,23 +1,24 @@
 # Brazilian Portuguese translation of http://www.gnu.org/philosophy/compromise.html
-# Copyright (C) 2019 Free Software Foundation, Inc.
+# Copyright (C) 2020 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnu.org article.
 # Rafael Beraldo <rberaldo@cabaladada.org>, 2012.
 # Dec 2014, Jan 2015: trivial update (T. Godefroy).
-# Rafael Fontenelle <rafaelff@gnome.org>, 2017-2019.
 # André N Batista <nandre@riseup.net>, 2018.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017-2020.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: compromise.html\n"
-"POT-Creation-Date: 2020-07-01 15:25+0000\n"
-"PO-Revision-Date: 2019-04-13 14:21-0200\n"
+"POT-Creation-Date: 2020-10-27 08:55+0000\n"
+"PO-Revision-Date: 2020-11-01 06:56-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 1.0.0-beta1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 3.38.0\n"
 
 #. type: Content of: <title>
 msgid "Avoiding Ruinous Compromises - GNU Project - Free Software Foundation"
@@ -28,7 +29,7 @@ msgstr ""
 msgid "Avoiding Ruinous Compromises"
 msgstr "Evitando Compromissos Ruinosos"
 
-#. type: Content of: <p>
+#. type: Content of: <address>
 msgid "by Richard Stallman"
 msgstr "por Richard Stallman"
 
@@ -39,22 +40,22 @@ msgid ""
 "operating system called GNU&mdash;for &lsquo;GNU's Not Unix&rsquo;.  As part "
 "of the 25th anniversary of the GNU system, I have written this article on "
 "how our community can avoid ruinous compromises.  In addition to avoiding "
-"such compromises, there are many ways you can <a href=\"/help/help.html"
-"\">help GNU</a> and free software.  One basic way is to <a href=\"https://"
-"www.fsf.org/associate/support_freedom/join_fsf?referrer=4052\"> join the "
-"Free Software Foundation</a> as an Associate Member.&rdquo;&mdash;<b>Richard "
-"Stallman</b>"
+"such compromises, there are many ways you can <a href=\"/help/help.html\"> "
+"help GNU</a> and free software.  One way is to say no to the use of a "
+"nonfree program or an online disservice as often as you can or <a href=\"/"
+"philosophy/saying-no-even-once.html\"> even once.</a>&rdquo;&mdash;"
+"<b>Richard Stallman</b>"
 msgstr ""
 "“Vinte cinco anos atrás, <a href=\"/gnu/initial-announcement.html\">em 27 de "
 "setembro de 1983, anunciei um plano</a> para criar um sistema operacional "
-"completamente livre chamado GNU &mdash; sigla para &lsquo;GNU's Not "
-"Unix&rsquo; (GNU Não é Unix);.  Como parte do vigésimo quinto aniversário do "
-"sistema GNU, escrevi este artigo sobre como nossa comunidade pode evitar "
-"compromissos ruinosos.  Além de evitar tais compromissos, existe muitas "
-"maneiras para <a href=\"/help/help.html\">ajudar o GNU</a> e o software "
-"livre.  Uma forma básica é <a href=\"https://www.fsf.org/associate/"
-"support_freedom/join_fsf?referrer=4052\"> juntar-se à Free Software "
-"Foundation</a> como um Membro Associado.” &mdash;<b>Richard Stallman</b>"
+"completamente livre chamado GNU – acrônimo para ‘GNU's Not Unix’ (GNU Não é "
+"Unix);. Como parte do 25º aniversário do sistema GNU, escrevi este artigo "
+"sobre como nossa comunidade pode evitar compromissos ruinosos. Além de "
+"evitar tais compromissos, existe muitas maneiras por meio das quais você "
+"pode <a href=\"/help/help.html\">ajudar o GNU</a> e o software livre. Uma "
+"maneira é dizer não para o uso de um programa não livre ou um desserviço "
+"online com a maior frequência possível, ou <a href=\"/philosophy/saying-no-"
+"even-once.html\"> até mesmo uma vez.</a>” — <b>Richard Stallman</b>"
 
 #. type: Content of: <p>
 msgid ""
@@ -130,25 +131,6 @@ msgstr ""
 "mesmo quando não concordamos totalmente com os grupos por trás delas."
 
 #. type: Content of: <p>
-# | But we reject certain compromises even though many others in our community
-# | are willing to make them.  For instance, we <a
-# | href=\"/distros/free-system-distribution-guidelines.html\"> endorse only
-# | the GNU/Linux distributions</a> that have policies not to include nonfree
-# | software or lead users to install it.  To endorse nonfree distributions
-# | would be a [-<acronym-] {+<abbr+} title=\"ruinous
-# | (r&#363;'&#601;-n&#601;s) adj. 1. Causing or apt to cause ruin;
-# | destructive.  2. Falling to ruin; dilapidated or
-# | [-decayed.\">ruinous</acronym>-] {+decayed.\">ruinous</abbr>+} compromise.
-#, fuzzy
-#| msgid ""
-#| "But we reject certain compromises even though many others in our "
-#| "community are willing to make them.  For instance, we <a href=\"/distros/"
-#| "free-system-distribution-guidelines.html\"> endorse only the GNU/Linux "
-#| "distributions</a> that have policies not to include nonfree software or "
-#| "lead users to install it.  To endorse nonfree distributions would be a "
-#| "<acronym title=\"ruinous (r&#363;'&#601;-n&#601;s) adj. 1. Causing or apt "
-#| "to cause ruin; destructive.  2. Falling to ruin; dilapidated or decayed."
-#| "\">ruinous</acronym> compromise."
 msgid ""
 "But we reject certain compromises even though many others in our community "
 "are willing to make them.  For instance, we <a href=\"/distros/free-system-"
@@ -471,18 +453,12 @@ msgstr ""
 "envio de traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-# | Copyright &copy; 2008, 2009, 2014, 2015, 2017, 2018, [-2019-] {+2019,
-# | 2020+} <a href=\"http://www.stallman.org/\">Richard Stallman</a>.
-#, fuzzy
-#| msgid ""
-#| "Copyright &copy; 2008, 2009, 2014, 2015, 2017, 2018, 2019 <a href="
-#| "\"http://www.stallman.org/\">Richard Stallman</a>."
 msgid ""
 "Copyright &copy; 2008, 2009, 2014, 2015, 2017, 2018, 2019, 2020 <a href="
 "\"http://www.stallman.org/\">Richard Stallman</a>."
 msgstr ""
-"Copyright &copy; 2008, 2009, 2014, 2015, 2017, 2018, 2019 <a href=\"http://"
-"www.stallman.org/\">Richard Stallman</a>."
+"Copyright &copy; 2008, 2009, 2014, 2015, 2017, 2018, 2019, 2020 <a href="
+"\"http://www.stallman.org/\">Richard Stallman</a>."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -498,15 +474,13 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduzido por: Rafael Beraldo\n"
-"<a href=\"mailto:rberaldo@cabaladada.org\">&lt;rberaldo@cabaladada.org&gt;</"
-"a>, 2012 e Amanda Onishi <a href=\"mailto:amandaonishi@gmail.com\">&lt;"
+"Traduzido por:\n"
+"Rafael Beraldo <a href=\"mailto:rberaldo@cabaladada.org\">&lt;"
+"rberaldo@cabaladada.org&gt;</a>, 2012; e\n"
+"Amanda Onishi <a href=\"mailto:amandaonishi@gmail.com\">&lt;"
 "amandaonishi@gmail.com&gt;</a>, 2012"
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
-
-#~ msgid "by <strong>Richard Stallman</strong>"
-#~ msgstr "por <strong>Richard Stallman</strong>"

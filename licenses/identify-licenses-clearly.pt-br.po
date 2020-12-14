@@ -1,13 +1,13 @@
 # Brazilian Portuguese translation of https://www.gnu.org/licenses/identify-licenses-clearly.html
-# Copyright (C) 2018 Free Software Foundation, Inc.
+# Copyright (C) 2020 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2018.
 # André Phellip Ferreira <werewolf@cyberdude.com>, 2018. (proofread)
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: identify-licenses-clearly.html\n"
-"POT-Creation-Date: 2018-02-18 21:56+0000\n"
-"PO-Revision-Date: 2018-02-18 19:32-0300\n"
+"POT-Creation-Date: 2020-07-24 07:25+0000\n"
+"PO-Revision-Date: 2020-07-25 17:54-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -326,18 +326,21 @@ msgid ""
 "created a complexity that we would be better off without. Meanwhile, several "
 "licenses that unconditionally give users the choice to upgrade to later "
 "license versions have become widely accepted. These include the Mozilla "
-"Public License, the Eclipse Public License, and all the Creative Commons "
-"licenses. Each version says that a user is free to use the work under later "
-"versions, if any, of the same license."
+"Public License and the Eclipse Public License.  Each version says that a "
+"user is free to use the work under later versions, if any, of the same "
+"license.  The Creative Commons copyleft license, CC BY-SA, permits users to "
+"upgrade the license version when they modify the work."
 msgstr ""
 "Dar aos desenvolvedores a escolha da GPL versão “1 apenas” ou GPL versão “1 "
 "ou posterior” parecia obrigatório em 1989, mas criou uma complexidade sem a "
 "qual estaríamos melhores. Enquanto isso, várias licenças que "
 "incondicionalmente dão aos usuários a opção de atualizar para versões "
 "posteriores da licença tornaram-se amplamente aceitas. Estas incluem a "
-"Licença Pública Mozilla, a Licença Pública Eclipse e todas as licenças da "
-"Creative Commons. Cada versão diz que um usuário é livre para usar o "
-"trabalho em versões posteriores, se houver, da mesma licença."
+"Licença Pública Mozilla, a Licença Pública Eclipse. Cada versão diz que um "
+"usuário é livre para usar o trabalho em versões posteriores, se houver, da "
+"mesma licença. A licença da Creative Commons que é protegida por copyleft, a "
+"CC BY-SA, permite que os usuários atualizem a versão da licença quando elas "
+"modificam o trabalho."
 
 #. type: Content of: <p>
 msgid ""
@@ -426,8 +429,8 @@ msgstr ""
 "envio de traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2017, 2018 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2017, 2018 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2017, 2018, 2020 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2017, 2018, 2020 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -443,8 +446,9 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
-"rafaelff@gnome.org&gt;</a>, 2018.<br/>\n"
+"Traduzido por:\n"
+"Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome."
+"org&gt;</a>, 2018-2020.<br/>\n"
 "Revisado por: André Phellip Ferreira <a href=\"mailto:werewolf@cyberdude.com"
 "\">&lt;werewolf@cyberdude.com&gt;</a>, 2018."
 
@@ -452,6 +456,3 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
-
-#~ msgid "Copyright &copy; 2017 Free Software Foundation, Inc."
-#~ msgstr "Copyright &copy; 2017 Free Software Foundation, Inc."

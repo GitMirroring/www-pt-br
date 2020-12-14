@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: head-include-2.html\n"
-"POT-Creation-Date: 2020-04-14 13:41+0200\n"
+"POT-Creation-Date: 2020-11-20 19:25+0000\n"
 "PO-Revision-Date: 2015-09-01 14:32-0300\n"
 "Last-Translator: Bruno Félix Rezende Ribeiro <oitofelix@gnu.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -20,18 +20,32 @@ msgstr ""
 msgid "width=device-width, initial-scale=1"
 msgstr "width=device-width, initial-scale=1"
 
+#.  TRANSLATORS: Change direction to rtl if you translate
+#.      the fundraiser and your script is right-to-left.  
 #. type: Content of: <style>
 #, no-wrap
 msgid ""
-"@media (min-width: 0) {\n"
-"   a#more-links:after { content: \"More\\00A0\\002B9F\"; }\n"
-"   a#less-links:after { content: \"\\002B9D\"; }\n"
+"\n"
+".fundraiser {\n"
+"  direction: ltr;\n"
 "}\n"
 msgstr ""
-"@media (min-width: 0) {\n"
-"   a#more-links:after { content: \"Mais\\00A0\\002B9F\"; }\n"
-"   a#less-links:after { content: \"\\002B9D\"; }\n"
+"\n"
+".fundraiser {\n"
+"  direction: ltr;\n"
 "}\n"
+
+#, no-wrap
+#~ msgid ""
+#~ "@media (min-width: 0) {\n"
+#~ "   a#more-links:after { content: \"More\\00A0\\002B9F\"; }\n"
+#~ "   a#less-links:after { content: \"\\002B9D\"; }\n"
+#~ "}\n"
+#~ msgstr ""
+#~ "@media (min-width: 0) {\n"
+#~ "   a#more-links:after { content: \"Mais\\00A0\\002B9F\"; }\n"
+#~ "   a#less-links:after { content: \"\\002B9D\"; }\n"
+#~ "}\n"
 
 #~ msgid "<a href=\"#fsf-links\">More&nbsp;&#9660;</a>"
 #~ msgstr "<a href=\"#fsf-links\">Mais&nbsp;&#9660;</a>"
