@@ -125,10 +125,8 @@ getstats() {
     potfiles=${potcount%% *}
     potstrings=${potcount##* }
 
-    column=2; echo "files..."
-    [ $orderbystring -eq 1 ] && ( column=4; echo "strings...";)
-
-    printf "Collecting statistics from PO files, and ordering by translated "
+    column=2;
+    [ $orderbystring -eq 1 ] && column=4
 
     printf "   %-6s %-10s %s\n" "Langs" "Files" "Strings"
     for l in $LANGS; do
