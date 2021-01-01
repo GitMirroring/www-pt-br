@@ -1,13 +1,13 @@
 # Brazilian Portuguese translation of https://www.gnu.org/software/recent-releases-include.html
 # Copyright (C) 2020 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2018-2020.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018-2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: recent-releases-include.html\n"
-"POT-Creation-Date: 2020-12-08 22:56+0000\n"
-"PO-Revision-Date: 2020-12-13 19:37-0300\n"
+"POT-Creation-Date: 2020-12-31 18:26+0000\n"
+"PO-Revision-Date: 2021-01-01 07:32-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -16,6 +16,148 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1)\n"
 "X-Generator: Gtranslator 3.38.0\n"
+
+#. type: Content of: <ul><li>
+msgid "<strong>December 31, 2020</strong>"
+msgstr "<strong>31 de dezembro de 2020</strong>"
+
+#. #set var="LINK" 
+#. value='<a href="//lists.gnu.org/archive/html/info-gnu/2020-12/msg00013.html">' 
+#. #echo 
+#. encoding="none" var="LINK" 
+#. type: Content of: <ul><li><ul><li>
+msgid "wget-1.21 released [stable]"
+msgstr "wget-1.21 lançado [estável]"
+
+#. #echo 
+#. encoding="none" var="LINK_CLOSE" 
+#. type: Content of: <ul><li><ul><li>
+msgid "Darshit Shah"
+msgstr "Darshit Shah"
+
+#. type: Content of: <ul><li>
+msgid "<strong>December 28, 2020</strong>"
+msgstr "<strong>28 de dezembro de 2020</strong>"
+
+#. #set var="LINK" 
+#. value='<a href="//lists.gnu.org/archive/html/info-gnu/2020-12/msg00012.html">' 
+#. #echo 
+#. encoding="none" var="LINK" 
+#. type: Content of: <ul><li><ul><li>
+msgid "GNU libmicrohttpd 0.9.72 released"
+msgstr "GNU libmicrohttpd 0.9.72 lançado"
+
+#. #echo 
+#. encoding="none" var="LINK_CLOSE" 
+#. type: Content of: <ul><li><ul><li>
+msgid "Evgeny Grin"
+msgstr "Evgeny Grin"
+
+#. type: Content of: <ul><li>
+msgid "<strong>December 24, 2020</strong>"
+msgstr "<strong>24 de dezembro de 2020</strong>"
+
+#. #set var="LINK" 
+#. value='<a href="//lists.gnu.org/archive/html/info-gnu/2020-12/msg00011.html">' 
+#. #echo 
+#. encoding="none" var="LINK" 
+#. type: Content of: <ul><li><ul><li>
+msgid "Release of GnuCOBOL 3.1.2"
+msgstr "Lançamento do GnuCOBOL 3.1.2"
+
+#. #echo 
+#. encoding="none" var="LINK_CLOSE" 
+#. type: Content of: <ul><li><ul><li>
+msgid "Simon Sobisch"
+msgstr "Simon Sobisch"
+
+#. type: Content of: <ul><li>
+msgid "<strong>December 23, 2020</strong>"
+msgstr "<strong>23 de dezembro de 2020</strong>"
+
+#. #set var="LINK" 
+#. value='<a href="//lists.gnu.org/archive/html/info-gnu/2020-12/msg00010.html">' 
+#. #echo 
+#. encoding="none" var="LINK" 
+#. type: Content of: <ul><li><ul><li>
+msgid "mailutils-3.11 released [stable]"
+msgstr "mailutils-3.11 lançado [estável]"
+
+#. #echo 
+#. encoding="none" var="LINK_CLOSE" 
+#. type: Content of: <ul><li><ul><li>
+msgid "Sergey Poznyakoff"
+msgstr "Sergey Poznyakoff"
+
+#. #set var="LINK" 
+#. value='<a href="//lists.gnu.org/archive/html/info-gnu/2020-12/msg00009.html">' 
+#. #echo 
+#. encoding="none" var="LINK" 
+#. type: Content of: <ul><li><ul><li>
+msgid "gdbm-1.19 released [stable]"
+msgstr "gdbm-1.19 lançado [estável]"
+
+#. type: Content of: <ul><li>
+msgid "<strong>December 21, 2020</strong>"
+msgstr "<strong>21 de dezembro de 2020</strong>"
+
+#. #set var="LINK" 
+#. value='<a href="//lists.gnu.org/archive/html/info-gnu/2020-12/msg00008.html">' 
+#. #echo 
+#. encoding="none" var="LINK" 
+#. type: Content of: <ul><li><ul><li>
+msgid "GnuPG 2.2.26 released"
+msgstr "GnuPG 2.2.26 lançado"
+
+#. #echo 
+#. encoding="none" var="LINK_CLOSE" 
+#. type: Content of: <ul><li><ul><li>
+msgid "Werner Koch"
+msgstr "Werner Koch"
+
+#. type: Content of: <ul><li>
+msgid "<strong>December 16, 2020</strong>"
+msgstr "<strong>16 de dezembro de 2020</strong>"
+
+#. #set var="LINK" 
+#. value='<a href="//lists.gnu.org/archive/html/info-gnu/2020-12/msg00007.html">' 
+#. #echo 
+#. encoding="none" var="LINK" 
+#. type: Content of: <ul><li><ul><li>
+msgid "glpk 5.0 release information"
+msgstr "Informações de lançamento do glpk 5.0"
+
+#. #echo 
+#. encoding="none" var="LINK_CLOSE" 
+#. type: Content of: <ul><li><ul><li>
+msgid "Andrew Makhorin"
+msgstr "Andrew Makhorin"
+
+#. type: Content of: <ul><li>
+msgid "<strong>December 14, 2020</strong>"
+msgstr "<strong>14 de dezembro de 2020</strong>"
+
+#. #set var="LINK" 
+#. value='<a href="//lists.gnu.org/archive/html/info-gnu/2020-12/msg00006.html">' 
+#. #echo 
+#. encoding="none" var="LINK" 
+#. type: Content of: <ul><li><ul><li>
+msgid "pies-1.5 released [stable]"
+msgstr "pies-1.5 lançado [estável]"
+
+#. #set var="LINK" 
+#. value='<a href="//lists.gnu.org/archive/html/info-gnu/2020-12/msg00005.html">' 
+#. #echo 
+#. encoding="none" var="LINK" 
+#. type: Content of: <ul><li><ul><li>
+msgid "GNU Linux-libre 5.10-gnu"
+msgstr "GNU Linux-libre 5.10-gnu"
+
+#. #echo 
+#. encoding="none" var="LINK_CLOSE" 
+#. type: Content of: <ul><li><ul><li>
+msgid "Alexandre Oliva"
+msgstr "Alexandre Oliva"
 
 #. type: Content of: <ul><li>
 msgid "<strong>December 08, 2020</strong>"
@@ -140,12 +282,6 @@ msgstr "<strong>23 de novembro de 2020</strong>"
 #. type: Content of: <ul><li><ul><li>
 msgid "GnuPG 2.2.25 released"
 msgstr "GnuPG 2.2.25 lançado"
-
-#. #echo 
-#. encoding="none" var="LINK_CLOSE" 
-#. type: Content of: <ul><li><ul><li>
-msgid "Werner Koch"
-msgstr "Werner Koch"
 
 #. #set var="LINK" 
 #. value='<a href="//lists.gnu.org/archive/html/info-gnu/2020-11/msg00006.html">' 
@@ -339,14 +475,6 @@ msgstr "rrt"
 #~ msgstr "<strong>15 de outubro de 2019</strong>"
 
 #, fuzzy
-#~| msgid "GNU Linux-libre 5.8-gnu"
-#~ msgid "GNU Linux-libre 5.9-gnu"
-#~ msgstr "GNU Linux-libre 5.8-gnu"
-
-#~ msgid "Alexandre Oliva"
-#~ msgstr "Alexandre Oliva"
-
-#, fuzzy
 #~| msgid "<strong>October 15, 2019</strong>"
 #~ msgid "<strong>October 07, 2020</strong>"
 #~ msgstr "<strong>15 de outubro de 2019</strong>"
@@ -421,9 +549,6 @@ msgstr "rrt"
 #~ msgid "dico-2.10 released"
 #~ msgstr "dico-2.10 lançado"
 
-#~ msgid "Sergey Poznyakoff"
-#~ msgstr "Sergey Poznyakoff"
-
 #~ msgid "<strong>September 03, 2020</strong>"
 #~ msgstr "<strong>03 de setembro de 2020</strong>"
 
@@ -445,17 +570,11 @@ msgstr "rrt"
 #~ msgid "<strong>August 18, 2020</strong>"
 #~ msgstr "<strong>18 de agosto de 2020</strong>"
 
-#~ msgid "Release of GNU MPC 1.2.0"
-#~ msgstr "Lançamento do GNU MPC 1.2.0"
-
 #~ msgid "Andreas Enge"
 #~ msgstr "Andreas Enge"
 
 #~ msgid "<strong>August 15, 2020</strong>"
 #~ msgstr "<strong>15 de agosto de 2020</strong>"
-
-#~ msgid "pspp-1.4.0 released [stable]"
-#~ msgstr "pspp-1.4.0 lançado [estável]"
 
 #~ msgid "<strong>August 14, 2020</strong>"
 #~ msgstr "<strong>14 de agosto de 2020</strong>"
@@ -594,9 +713,6 @@ msgstr "rrt"
 
 #~ msgid "fredomatic"
 #~ msgstr "fredomatic"
-
-#~ msgid "GNU Shepherd 0.8.1 released"
-#~ msgstr "GNU Shepherd 0.8.1 lançado"
 
 #~ msgid "<strong>May 31, 2020</strong>"
 #~ msgstr "<strong>31 de maio de 2020</strong>"

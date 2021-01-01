@@ -17,6 +17,8 @@ msgstr ""
 "X-Generator: Virtaal 1.0.0-beta1\n"
 
 #. type: Content of: <title>
+# | [-Proprietary-]{+Adobe's+} Software {+Is Malware+} - GNU Project - Free
+# | Software Foundation
 #, fuzzy
 #| msgid "Proprietary Software - GNU Project - Free Software Foundation"
 msgid "Adobe's Software Is Malware - GNU Project - Free Software Foundation"
@@ -47,6 +49,8 @@ msgid "GNU Home"
 msgstr "Página inicial do GNU"
 
 #. type: Content of: <div><p>
+# | </a>&nbsp;/ <a href=\"/proprietary/proprietary.html\">Malware</a>&nbsp;/
+# | By [-type&nbsp;/-] {+company&nbsp;/+}
 #, fuzzy
 #| msgid ""
 #| "</a>&nbsp;/ <a href=\"/proprietary/proprietary.html\">Malware</a>&nbsp;/ "
@@ -59,12 +63,19 @@ msgstr ""
 "proprietário</a>&nbsp;/ Por tipo&nbsp;/"
 
 #. type: Content of: <div><h2>
+# | [-Proprietary-]{+Adobe's+} Software [-Is Often-] {+is+} Malware
 #, fuzzy
 #| msgid "Proprietary Software Is Often Malware"
 msgid "Adobe's Software is Malware"
 msgstr "Software proprietário frequentemente é malware"
 
 #. type: Content of: <div><div><p>
+# | Nonfree (proprietary) software is very often malware (designed to mistreat
+# | the user). Nonfree software is controlled by its developers, which puts
+# | them in a position of power over the users; <a
+# | href=\"/philosophy/free-software-even-more-important.html\">that is the
+# | basic injustice</a>. The developers {+and manufacturers+} often exercise
+# | that power to the detriment of the users they ought to serve.
 #, fuzzy
 #| msgid ""
 #| "Nonfree (proprietary) software is very often malware (designed to "
@@ -105,6 +116,12 @@ msgstr ""
 "ou duas referências confiáveis para servir como comprovação específica."
 
 #. type: Content of: <div><div><ul><li><p>
+# | Adobe has <a
+# | [-href=\"https://helpx.adobe.com/x-productkb/policy-pricing/executive-order-venezuela.html\">-]
+# | {+href=\"https://www.bleepingcomputer.com/news/software/adobe-to-ban-users-from-venezuela-due-to-us-executive-order/\">+}
+# | cancelled the software subscriptions of all users in Venezuela</a>. This
+# | demonstrates [-that-] {+how+} a [-subscription-] requirement [-is-] {+for
+# | subscription can be turned into+} a [-potential-] tool for sabotage.
 #, fuzzy
 #| msgid ""
 #| "Adobe has <a href=\"https://helpx.adobe.com/x-productkb/policy-pricing/"
@@ -234,12 +251,19 @@ msgstr ""
 "contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
+# | Copyright &copy; [-2016-2019-] {+2016, 2018-2020+} Free Software
+# | Foundation, Inc.
 #, fuzzy
 #| msgid "Copyright &copy; 2016-2019 Free Software Foundation, Inc."
 msgid "Copyright &copy; 2016, 2018-2020 Free Software Foundation, Inc."
 msgstr "Copyright &copy; 2016-2019 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
+# | This page is licensed under a <a rel=\"license\"
+# | [-href=\"http://creativecommons.org/licenses/by-nd/4.0/\">Creative-]
+# | {+href=\"http://creativecommons.org/licenses/by/4.0/\">Creative+} Commons
+# | [-Attribution-NoDerivatives-] {+Attribution+} 4.0 International
+# | License</a>.
 #, fuzzy
 #| msgid ""
 #| "This page is licensed under a <a rel=\"license\" href=\"http://"
@@ -268,12 +292,15 @@ msgid "Updated:"
 msgstr "Última atualização: "
 
 #. type: Content of: <title>
+# | [-Proprietary-]{+Amazon's+} Software {+Is Malware+} - GNU Project - Free
+# | Software Foundation
 #, fuzzy
 #| msgid "Proprietary Software - GNU Project - Free Software Foundation"
 msgid "Amazon's Software Is Malware - GNU Project - Free Software Foundation"
 msgstr "Software proprietário - Projeto GNU - Free Software Foundation"
 
 #. type: Content of: <div><h2>
+# | [-Proprietary-]{+Amazon's+} Software Is [-Often-] Malware
 #, fuzzy
 #| msgid "Proprietary Software Is Often Malware"
 msgid "Amazon's Software Is Malware"
@@ -284,6 +311,9 @@ msgid "&nbsp;<a href=\"#swindle\">Kindle&nbsp;Swindle</a>&nbsp;"
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li>
+# | [-<a
+# | href=\"/proprietary/proprietary-deception.html\">Deception</a>-]{+&nbsp;<a
+# | href=\"#echo\">Echo</a>&nbsp;+}
 #, fuzzy
 #| msgid "<a href=\"/proprietary/proprietary-deception.html\">Deception</a>"
 msgid "&nbsp;<a href=\"#echo\">Echo</a>&nbsp;"
@@ -502,6 +532,12 @@ msgid "Other products"
 msgstr ""
 
 #. type: Content of: <div><div><ul><li><p>
+# | Some security breakers (wrongly referred in this article as <a
+# | [-href=\"https://www.gnu.org/philosophy/words-to-avoid.html#Hacker\">&ldquo;hackers&rdquo;</a>)-]
+# | {+href=\"/philosophy/words-to-avoid.html#Hacker\">&ldquo;hackers&rdquo;</a>)+}
+# |  managed to interfere the Amazon Ring proprietary system, and <a
+# | href=\"https://www.theguardian.com/technology/2019/dec/13/ring-hackers-reportedly-watching-talking-strangers-in-home-cameras\">access
+# | its camera, speakers and microphones</a>.
 #, fuzzy
 #| msgid ""
 #| "Some security breakers (wrongly referred in this article as <a href="
@@ -526,6 +562,11 @@ msgstr ""
 "câmera, alto-falantes e microfones</a>."
 
 #. type: Content of: <div><div><ul><li><p>
+# | The Ring (now Amazon) doorbell camera is designed so that the manufacturer
+# | (now Amazon) can watch all the time. Now it turns out that <a
+# | [-href=\"https://dojo.bullguard.com/dojo-by-bullguard/blog/ring/\">-]
+# | {+href=\"https://web.archive.org/web/20190918024432/https://dojo.bullguard.com/dojo-by-bullguard/blog/ring/\">+}
+# | anyone else can also watch, and fake videos too</a>.
 #, fuzzy
 #| msgid ""
 #| "The Ring (now Amazon) doorbell camera is designed so that the "
@@ -544,6 +585,11 @@ msgstr ""
 "pessoa também pode assistir, e falsificar vídeos também</a>."
 
 #. type: Content of: <div><div><ul><li><p>
+# | The third party vulnerability is presumably unintentional and [-I
+# | suppose-] Amazon will {+probably+} fix it. [-I-] {+However, we+} do not
+# | expect Amazon to change the design that <a
+# | href=\"/proprietary/proprietary-surveillance.html#M201901100\">allows
+# | Amazon to watch</a>.
 #, fuzzy
 #| msgid ""
 #| "The third party vulnerability is presumably unintentional and I suppose "
@@ -562,6 +608,10 @@ msgstr ""
 "html#M201901100\"> permite que a Amazon assista</a>."
 
 #. type: Content of: <div><div><ul><li><p>
+# | Amazon Ring &ldquo;security&rdquo; devices <a
+# | href=\"https://www.engadget.com/2019/01/10/ring-gave-employees-access-customer-video-feeds/\">
+# | send the video they capture to Amazon servers</a>{+,+} which save it
+# | [-permanently.-] {+long-term.+}
 #, fuzzy
 #| msgid ""
 #| "Amazon Ring &ldquo;security&rdquo; devices <a href=\"https://www.engadget."
@@ -607,6 +657,8 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <div><p>
+# | Copyright &copy; [-2013, 2014, 2015, 2016, 2017, 2018-] {+2014-2020+} Free
+# | Software Foundation, Inc.
 #, fuzzy
 #| msgid ""
 #| "Copyright &copy; 2013, 2014, 2015, 2016, 2017, 2018 Free Software "
@@ -617,6 +669,8 @@ msgstr ""
 "Foundation, Inc."
 
 #. type: Content of: <title>
+# | [-Proprietary Software-]{+Apple's Operating Systems are Malware+} - GNU
+# | Project - Free Software Foundation
 #, fuzzy
 #| msgid "Proprietary Software - GNU Project - Free Software Foundation"
 msgid ""
@@ -629,30 +683,40 @@ msgid "Apple's Operating Systems Are Malware"
 msgstr ""
 
 #. type: Content of: <div><div><div><h3>
+# | [-Type&nbsp;of&nbsp;malware-]{+Types of Apple malware+}
 #, fuzzy
 #| msgid "Type&nbsp;of&nbsp;malware"
 msgid "Types of Apple malware"
 msgstr "Tipo&nbsp;de&nbsp;malware"
 
 #. type: Content of: <div><div><div><ul><li>
+# | <a [-href=\"#latest\">Latest additions</a>-] {+href=\"#back-doors\">Back
+# | doors</a>+}
 #, fuzzy
 #| msgid "<a href=\"#latest\">Latest additions</a>"
 msgid "<a href=\"#back-doors\">Back doors</a>"
 msgstr "<a href=\"#latest\">Últimas adições</a>"
 
 #. type: Content of: <div><div><div><ul><li>
+# | <a [-href=\"/proprietary/proprietary-censorship.html\">Censorship</a>-]
+# | {+href=\"#censorship\">Censorship</a>+}
 #, fuzzy
 #| msgid "<a href=\"/proprietary/proprietary-censorship.html\">Censorship</a>"
 msgid "<a href=\"#censorship\">Censorship</a>"
 msgstr "<a href=\"/proprietary/proprietary-censorship.html\">Censura</a>"
 
 #. type: Content of: <div><div><div><ul><li>
+# | <a [-href=\"/proprietary/proprietary-deception.html\">Deception</a>-]
+# | {+href=\"#drm\">DRM</a>+}
 #, fuzzy
 #| msgid "<a href=\"/proprietary/proprietary-deception.html\">Deception</a>"
 msgid "<a href=\"#drm\">DRM</a>"
 msgstr "<a href=\"/proprietary/proprietary-deception.html\">Engano</a>"
 
 #. type: Content of: <div><div><div><ul><li>
+# | <a
+# | [-href=\"/proprietary/proprietary-incompatibility.html\">Incompatibility</a>-]
+# | {+href=\"#incompatibility\">Incompatibility</a>+}
 #, fuzzy
 #| msgid ""
 #| "<a href=\"/proprietary/proprietary-incompatibility.html"
@@ -663,12 +727,17 @@ msgstr ""
 "a>"
 
 #. type: Content of: <div><div><div><ul><li>
+# | <a [-href=\"/proprietary/proprietary-insecurity.html\">Insecurity</a>-]
+# | {+href=\"#insecurity\">Insecurity</a>+}
 #, fuzzy
 #| msgid "<a href=\"/proprietary/proprietary-insecurity.html\">Insecurity</a>"
 msgid "<a href=\"#insecurity\">Insecurity</a>"
 msgstr "<a href=\"/proprietary/proprietary-insecurity.html\">Insegurança</a>"
 
 #. type: Content of: <div><div><div><ul><li>
+# | <a
+# | [-href=\"/proprietary/proprietary-interference.html\">Interference</a>-]
+# | {+href=\"#interference\">Interference</a>+}
 #, fuzzy
 #| msgid ""
 #| "<a href=\"/proprietary/proprietary-interference.html\">Interference</a>"
@@ -677,12 +746,16 @@ msgstr ""
 "<a href=\"/proprietary/proprietary-interference.html\">Interferência</a>"
 
 #. type: Content of: <div><div><div><ul><li>
+# | <a [-href=\"/proprietary/malware-mobiles.html\">Mobiles</a>-]
+# | {+href=\"#jails\">Jails</a>+}
 #, fuzzy
 #| msgid "<a href=\"/proprietary/malware-mobiles.html\">Mobiles</a>"
 msgid "<a href=\"#jails\">Jails</a>"
 msgstr "<a href=\"/proprietary/malware-mobiles.html\">Móveis</a>"
 
 #. type: Content of: <div><div><div><ul><li>
+# | <a [-href=\"/proprietary/proprietary-addictions.html\">Addictions</a>-]
+# | {+href=\"#manipulation\">Manipulation</a>+}
 #, fuzzy
 #| msgid "<a href=\"/proprietary/proprietary-addictions.html\">Addictions</a>"
 msgid "<a href=\"#manipulation\">Manipulation</a>"
@@ -693,12 +766,17 @@ msgid "<a href=\"#pressuring\">Pressuring</a>"
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li>
+# | <a [-href=\"/proprietary/proprietary-sabotage.html\">Sabotage</a>-]
+# | {+href=\"#sabotage\">Sabotage</a>+}
 #, fuzzy
 #| msgid "<a href=\"/proprietary/proprietary-sabotage.html\">Sabotage</a>"
 msgid "<a href=\"#sabotage\">Sabotage</a>"
 msgstr "<a href=\"/proprietary/proprietary-sabotage.html\">Sabotagem</a>"
 
 #. type: Content of: <div><div><div><ul><li>
+# | <a
+# | [-href=\"/proprietary/proprietary-subscriptions.html\">Subscriptions</a>-]
+# | {+href=\"#subscriptions\">Subscriptions</a>+}
 #, fuzzy
 #| msgid ""
 #| "<a href=\"/proprietary/proprietary-subscriptions.html\">Subscriptions</a>"
@@ -707,6 +785,9 @@ msgstr ""
 "<a href=\"/proprietary/proprietary-subscriptions.html\">Assinaturas</a>"
 
 #. type: Content of: <div><div><div><ul><li>
+# | <a
+# | [-href=\"/proprietary/proprietary-surveillance.html\">Surveillance</a>-]
+# | {+href=\"#surveillance\">Surveillance</a>+}
 #, fuzzy
 #| msgid ""
 #| "<a href=\"/proprietary/proprietary-surveillance.html\">Surveillance</a>"
@@ -714,6 +795,8 @@ msgid "<a href=\"#surveillance\">Surveillance</a>"
 msgstr "<a href=\"/proprietary/proprietary-surveillance.html\">Vigilância</a>"
 
 #. type: Content of: <div><div><div><ul><li>
+# | <a [-href=\"/proprietary/malware-games.html\">Games</a>-]
+# | {+href=\"#tyrants\">Tyrants</a>+}
 #, fuzzy
 #| msgid "<a href=\"/proprietary/malware-games.html\">Games</a>"
 msgid "<a href=\"#tyrants\">Tyrants</a>"
@@ -784,6 +867,10 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <div><div><p>
+# | [-<em>Digital-]{+Digital+} restrictions management, or
+# | [-&ldquo;DRM&rdquo;:</em>&nbsp;-] {+&ldquo;DRM,&rdquo; refers to+}
+# | functionalities designed to restrict what users can do with the data in
+# | their computers.
 #, fuzzy
 #| msgid ""
 #| "<em>Digital restrictions management, or &ldquo;DRM&rdquo;:</em>&nbsp; "
@@ -902,6 +989,18 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li><p>
 msgid ""
+"Commercial crackware can <a href=\"https://www.theguardian.com/"
+"technology/2020/dec/20/iphones-vulnerable-to-hacking-tool-for-months-"
+"researchers-say\"> get passwords out of an iMonster</a>, use the microphone "
+"and camera, and other things."
+msgstr ""
+"Crackware comercial pode <a href=\"https://www.theguardian.com/"
+"technology/2020/dec/20/iphones-vulnerable-to-hacking-tool-for-months-"
+"researchers-say\"> obter senhas de um iMonstros</a>, usar o microfone e a "
+"câmera, entre outras coisas."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
 "Apple has <a href=\"https://sneak.berlin/20201112/your-computer-isnt-yours"
 "\">implemented a malware in its computers that imposes surveillance</a> on "
 "users and reports users' computing to Apple."
@@ -921,6 +1020,11 @@ msgstr ""
 "a que horas. Também dá à Apple o poder de sabotar a computação dos usuários."
 
 #. type: Content of: <div><div><ul><li><p>
+# | A series of vulnerabilities <a
+# | href=\"https://www.forbes.com/sites/gordonkelly/2019/08/31/apple-iphone-ipad-security-ios-upgrade-iphone-xs-max-xr-update/\">found
+# | in iOS allowed attackers to gain access to sensitive information including
+# | private messages, passwords, [-photos,-] {+photos and+} contacts stored on
+# | the user's iMonster</a>.
 #, fuzzy
 #| msgid ""
 #| "A series of vulnerabilities <a href=\"https://www.forbes.com/sites/"
@@ -994,6 +1098,11 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <div><div><ul><li><p>
+# | Apple is putting DRM on iPhone batteries, and the system proprietary
+# | software <a
+# | [-href=\"https://www.vice.com/en_us/article/59nz3k/apple-is-locking-batteries-to-specific-iphones-a-nightmare-for-diy-repair\">turns-]
+# | {+href=\"https://www.vice.com/en/article/59nz3k/apple-is-locking-batteries-to-specific-iphones-a-nightmare-for-diy-repair\">turns+}
+# | off certain features when batteries are replaced other than by Apple.</a>
 #, fuzzy
 #| msgid ""
 #| "Apple is putting DRM on iPhone batteries, and the system proprietary "
@@ -1017,6 +1126,8 @@ msgid "Jails"
 msgstr ""
 
 #. type: Content of: <div><div><p>
+# | [-<em>Jail:</em>&nbsp; system-]{+Jails are systems+} that impose[-s-]
+# | censorship on application programs.
 #, fuzzy
 #| msgid ""
 #| "<em>Jail:</em>&nbsp; system that imposes censorship on application "
@@ -1025,6 +1136,10 @@ msgid "Jails are systems that impose censorship on application programs."
 msgstr "<em>Prisões:</em>&nbsp; sistemas queimpõem cenura a programas."
 
 #. type: Content of: <div><div><ul><li><p>
+# | Apple plans to require that <a
+# | [-href=\"https://www.cultofmac.com/618378/apple-will-soon-require-all-macos-apps-to-be-notarized/\">-]
+# | {+href=\"https://www.macrumors.com/2019/04/08/mac-apps-notarization-macos-10-14-5/\">+}
+# | all application software for MacOS be approved by Apple first</a>.
 #, fuzzy
 #| msgid ""
 #| "Apple plans to require that <a href=\"https://www.cultofmac.com/618378/"
@@ -1583,6 +1698,11 @@ msgstr ""
 "operacional da Apple”."
 
 #. type: Content of: <div><div><ul><li><p>
+# | In spite of Apple's supposed commitment to privacy, iPhone apps contain
+# | trackers that are busy at night <a
+# | [-href=\"https://freediggz.com/2019/05/28/perspective-its-the-middle-of-the-night-do-you-know-who-your-iphone-is-talking-to/\">-]
+# | {+href=\"https://www.oregonlive.com/opinion/2019/05/its-3-am-do-you-know-who-your-iphone-is-talking-to.html\">+}
+# | sending users' personal information to third parties</a>.
 #, fuzzy
 #| msgid ""
 #| "In spite of Apple's supposed commitment to privacy, iPhone apps contain "
@@ -1831,6 +1951,8 @@ msgid "Tyrants"
 msgstr ""
 
 #. type: Content of: <div><div><p>
+# | [-<em>Tyrant:</em>&nbsp; system-]{+Tyrants are systems+} that reject[-s-]
+# | any operating system not &ldquo;authorized&rdquo; by the manufacturer.
 #, fuzzy
 #| msgid ""
 #| "<em>Tyrant:</em>&nbsp; system that rejects any operating system not "
@@ -1866,6 +1988,8 @@ msgstr ""
 "um sistema diferente."
 
 #. type: Content of: <div><p>
+# | Copyright &copy; [-2013, 2014, 2015, 2016, 2017, 2018-] {+2015-2020+} Free
+# | Software Foundation, Inc.
 #, fuzzy
 #| msgid ""
 #| "Copyright &copy; 2013, 2014, 2015, 2016, 2017, 2018 Free Software "
@@ -1876,12 +2000,16 @@ msgstr ""
 "Foundation, Inc."
 
 #. type: Content of: <title>
+# | [-Proprietary Software-]{+Malware in Appliances+} - GNU Project - Free
+# | Software Foundation
 #, fuzzy
 #| msgid "Proprietary Software - GNU Project - Free Software Foundation"
 msgid "Malware in Appliances - GNU Project - Free Software Foundation"
 msgstr "Software proprietário - Projeto GNU - Free Software Foundation"
 
 #. type: Content of: <div><p>
+# | </a>&nbsp;/ <a href=\"/proprietary/proprietary.html\">Malware</a>&nbsp;/
+# | By [-type&nbsp;/-] {+product&nbsp;/+}
 #, fuzzy
 #| msgid ""
 #| "</a>&nbsp;/ <a href=\"/proprietary/proprietary.html\">Malware</a>&nbsp;/ "
@@ -1896,6 +2024,48 @@ msgstr ""
 #. type: Content of: <div><h2>
 msgid "Malware in Appliances"
 msgstr ""
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Some Wavelink and JetStream wifi routers have universal back doors that "
+"enable unauthenticated users to remotely control not only the routers, but "
+"also any devices connected to the network. There is evidence that <a href="
+"\"https://cybernews.com/security/walmart-exclusive-routers-others-made-in-"
+"china-contain-backdoors-to-control-devices/\"> this vulnerability is "
+"actively exploited</a>."
+msgstr ""
+"Alguns roteadores wi-fi Wavelink e JetStream têm portas traseiras universais "
+"que permitem que usuários não autenticados controlem remotamente não apenas "
+"os roteadores, mas também quaisquer dispositivos conectados à rede. Há "
+"evidências de que <a href=\"https://cybernews.com/security/walmart-exclusive-"
+"routers-others-made-in-china-contain-backdoors-to-control-devices/\"> esta "
+"vulnerabilidade é explorada ativamente</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"If you consider buying a router, we encourage you to get one that <a href="
+"\"https://ryf.fsf.org/categories/routers\">runs on free software</a>. Any "
+"attempts at introducing malicious functionalities in it (e.g., through a "
+"firmware update) will be detected by the community, and soon corrected."
+msgstr ""
+"Se você considerar a compra de um roteador, recomendamos que compre um que "
+"<a href=\"https://ryf.fsf.org/categories/routers\">execute software livre </"
+"a>. Qualquer tentativa de introdução de funcionalidades maliciosas nele (por "
+"exemplo, por meio de uma atualização de firmware) será detectada pela "
+"comunidade e logo corrigida."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"If unfortunately you own a router that runs on proprietary software, don't "
+"panic! You may be able to replace its firmware with a free operating system "
+"such as <a href=\"https://librecmc.org\">libreCMC</a>. If you don't know "
+"how, you can get help from a nearby GNU/Linux user group."
+msgstr ""
+"Se, infelizmente, você possui um roteador que executa software proprietário, "
+"não entre em pânico! Você pode substituir seu firmware por um sistema "
+"operacional livre, como o <a href=\"https://librecmc.org\">libreCMC </a>. Se "
+"você não sabe como, pode obter ajuda de um grupo de usuários GNU/Linux "
+"próximo."
 
 #. type: Content of: <div><div><ul><li><p>
 msgid ""
@@ -2123,14 +2293,33 @@ msgstr ""
 "de que todas as atualizações futuras deixarão as configurações inalteradas."
 
 #. type: Content of: <div><div><ul><li><p>
+# | If you already own a Vizio [-smart-] {+&ldquo;smart&rdquo;+} TV (or any
+# | [-smart-] {+&ldquo;smart&rdquo;+} TV, for that matter), the easiest way to
+# | make sure it isn't spying on you is to disconnect it from the Internet,
+# | and use a terrestrial antenna instead. Unfortunately, this is not always
+# | possible. Another option, if you are technically oriented, is to get your
+# | own router (which can be an old computer running completely free
+# | software), and set up a firewall to block connections to Vizio's servers.
+# | Or, as a last resort, you can replace your TV with another model.
+#, fuzzy
+#| msgid ""
+#| "If you already own a Vizio smart TV (or any smart TV, for that matter), "
+#| "the easiest way to make sure it isn't spying on you is to disconnect it "
+#| "from the Internet, and use a terrestrial antenna instead. Unfortunately, "
+#| "this is not always possible. Another option, if you are technically "
+#| "oriented, is to get your own router (which can be an old computer running "
+#| "completely free software), and set up a firewall to block connections to "
+#| "Vizio's servers. Or, as a last resort, you can replace your TV with "
+#| "another model."
 msgid ""
-"If you already own a Vizio smart TV (or any smart TV, for that matter), the "
-"easiest way to make sure it isn't spying on you is to disconnect it from the "
-"Internet, and use a terrestrial antenna instead. Unfortunately, this is not "
-"always possible. Another option, if you are technically oriented, is to get "
-"your own router (which can be an old computer running completely free "
-"software), and set up a firewall to block connections to Vizio's servers. "
-"Or, as a last resort, you can replace your TV with another model."
+"If you already own a Vizio &ldquo;smart&rdquo; TV (or any &ldquo;"
+"smart&rdquo; TV, for that matter), the easiest way to make sure it isn't "
+"spying on you is to disconnect it from the Internet, and use a terrestrial "
+"antenna instead. Unfortunately, this is not always possible. Another option, "
+"if you are technically oriented, is to get your own router (which can be an "
+"old computer running completely free software), and set up a firewall to "
+"block connections to Vizio's servers. Or, as a last resort, you can replace "
+"your TV with another model."
 msgstr ""
 "Se você já possui uma smart TV da Vizio (ou qualquer smart TV, a propósito), "
 "a maneira mais fácil de garantir que não está espionando você é desconectá-"
@@ -2164,6 +2353,12 @@ msgstr ""
 "câmera."
 
 #. type: Content of: <div><div><ul><li><p>
+# | Printer manufacturers are very innovative&mdash;at blocking the use of
+# | independent replacement ink cartridges. Their &ldquo;security
+# | upgrades&rdquo; occasionally impose new forms of cartridge DRM. <a
+# | [-href=\"https://motherboard.vice.com/en_us/article/pa98ab/printer-makers-are-crippling-cheap-ink-cartridges-via-bogus-security-updates\">-]
+# | {+href=\"https://www.vice.com/en/article/pa98ab/printer-makers-are-crippling-cheap-ink-cartridges-via-bogus-security-updates\">+}
+# | HP and Epson have done this</a>.
 #, fuzzy
 #| msgid ""
 #| "Printer manufacturers are very innovative&mdash;at blocking the use of "
@@ -2240,6 +2435,11 @@ msgstr ""
 "para sempre</a>."
 
 #. type: Content of: <div><div><ul><li><p>
+# | The article focuses on a further nasty fillip, that sales of the broken
+# | devices continued. But [-I-] {+we+} think that is a secondary issue; it
+# | made the nasty consequences extend to some additional people.  The
+# | fundamental wrong was to design the devices to depend on something else
+# | that didn't respect users' freedom.
 #, fuzzy
 #| msgid ""
 #| "The article focuses on a further nasty fillip, that sales of the broken "
@@ -2343,6 +2543,9 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <div><div><ul><li><p>
+# | <a [-href=\"/proprietary/proprietary-coverups.html\">Coverups</a>-]
+# | {+href=\"/proprietary/proprietary-tethers.html\">More about proprietary
+# | tethering</a>.+}
 #, fuzzy
 #| msgid "<a href=\"/proprietary/proprietary-coverups.html\">Coverups</a>"
 msgid ""
@@ -2365,6 +2568,12 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <div><div><ul><li><p>
+# | [-Unfortunately, the-]{+<small>(Note that this+} article {+misuses the
+# | term+} <a [-href=\"/philosophy/words-to-avoid.html#Hacker\">improperly
+# | refers-]
+# | {+href=\"/philosophy/words-to-avoid.html#Hacker\">&ldquo;hackers&rdquo;</a>
+# | referring+} to [-crackers as &ldquo;hackers&rdquo;</a>.-]
+# | {+crackers.)</small>+}
 #, fuzzy
 #| msgid ""
 #| "Unfortunately, the article <a href=\"/philosophy/words-to-avoid."
@@ -2390,6 +2599,11 @@ msgid "Don't be a sucker&mdash;reject all the stings."
 msgstr ""
 
 #. type: Content of: <div><div><ul><li><p>
+# | [-Unfortunately,-]{+<small>(It is unfortunate that+} the article {+uses
+# | the term+} <a [-href=\"/philosophy/words-to-avoid.html#Hacker\">improperly
+# | refers to crackers as &ldquo;hackers&rdquo;</a>.-]
+# | {+href=\"/philosophy/words-to-avoid.html#Monetize\">&ldquo;monetize&rdquo;<
+# | /a>.)</small>+}
 #, fuzzy
 #| msgid ""
 #| "Unfortunately, the article <a href=\"/philosophy/words-to-avoid."
@@ -2600,6 +2814,10 @@ msgstr ""
 "câmeras espiãs</a> após invadir o computador no qual eles estão conectados."
 
 #. type: Content of: <div><div><ul><li><p>
+# | [-Unfortunately,-]{+<small>(Unfortunately,+} the article <a
+# | href=\"/philosophy/words-to-avoid.html#Hacker\">improperly refers to
+# | crackers as [-&ldquo;hackers&rdquo;</a>.-]
+# | {+&ldquo;hackers&rdquo;</a>.)</small>+}
 #, fuzzy
 #| msgid ""
 #| "Unfortunately, the article <a href=\"/philosophy/words-to-avoid."
@@ -3138,6 +3356,10 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <div><div><ul><li><p>
+# | Some LG TVs <a
+# | [-href=\"http://openlgtv.org.ru/wiki/index.php/Achievements\">are-]
+# | {+href=\"https://web.archive.org/web/20190917164647/http://openlgtv.org.ru/wiki/index.php/Achievements\">
+# | are+} tyrants</a>.
 #, fuzzy
 #| msgid ""
 #| "Some LG TVs <a href=\"http://openlgtv.org.ru/wiki/index.php/Achievements"
@@ -3150,12 +3372,15 @@ msgstr ""
 "Achievements\">são tiranas</a>."
 
 #. type: Content of: <div><p>
+# | Copyright &copy; [-2016-2019-] {+2016-2020+} Free Software Foundation, Inc.
 #, fuzzy
 #| msgid "Copyright &copy; 2016-2019 Free Software Foundation, Inc."
 msgid "Copyright &copy; 2016-2020 Free Software Foundation, Inc."
 msgstr "Copyright &copy; 2016-2019 Free Software Foundation, Inc."
 
 #. type: Content of: <title>
+# | [-Proprietary Software-]{+Malware In Cars+} - GNU Project - Free Software
+# | Foundation
 #, fuzzy
 #| msgid "Proprietary Software - GNU Project - Free Software Foundation"
 msgid "Malware In Cars - GNU Project - Free Software Foundation"
@@ -3543,6 +3768,8 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <div><p>
+# | Copyright &copy; [-2013, 2014, 2015, 2016, 2017, 2018-] {+2017-2020+} Free
+# | Software Foundation, Inc.
 #, fuzzy
 #| msgid ""
 #| "Copyright &copy; 2013, 2014, 2015, 2016, 2017, 2018 Free Software "
@@ -3553,6 +3780,8 @@ msgstr ""
 "Foundation, Inc."
 
 #. type: Content of: <title>
+# | [-Proprietary Software-]{+Malware in Games+} - GNU Project - Free Software
+# | Foundation
 #, fuzzy
 #| msgid "Proprietary Software - GNU Project - Free Software Foundation"
 msgid "Malware in Games - GNU Project - Free Software Foundation"
@@ -3617,6 +3846,10 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <div><div><ul><li><p>
+# | Microsoft recorded users of Xboxes and had <a
+# | [-href=\"https://www.vice.com/en_us/article/43kv4q/microsoft-human-contractors-listened-to-xbox-owners-homes-kinect-cortana\">-]
+# | {+href=\"https://www.vice.com/en/article/43kv4q/microsoft-human-contractors-listened-to-xbox-owners-homes-kinect-cortana\">+}
+# | human workers listen to the recordings</a>.
 #, fuzzy
 #| msgid ""
 #| "Microsoft recorded users of Xboxes and had <a href=\"https://www.vice.com/"
@@ -3632,6 +3865,9 @@ msgstr ""
 "homes-kinect-cortana\"> trabalhadores humanos ouvindo às gravações</a>."
 
 #. type: Content of: <div><div><ul><li><p>
+# | [-Morally I-]{+Morally, we+} see no difference between having human
+# | workers listen and having speech-recognition systems listen.  Both intrude
+# | on privacy.
 #, fuzzy
 #| msgid ""
 #| "Morally I see no difference between having human workers listen and "
@@ -3681,6 +3917,12 @@ msgstr ""
 "para o desenvolvimento de software livre."
 
 #. type: Content of: <div><div><ul><li><p>
+# | C{+l+}ash of Clans is a good example of a gratis mobile game that its
+# | developers <a href=\"https://gamerant.com/clash-of-clans-addiction/\">
+# | made very addictive</a> for a large proportion of its users&mdash;and
+# | turned into a cash machine for themselves&mdash;by using <a
+# | href=\"/proprietary/proprietary-addictions.html#addictiveness\">
+# | psychological manipulation techniques</a>.
 #, fuzzy
 #| msgid ""
 #| "Cash of Clans is a good example of a gratis mobile game that its "
@@ -3705,6 +3947,10 @@ msgstr ""
 "técnicas de manipulação psicológica</a>."
 
 #. type: Content of: <div><div><ul><li><p>
+# | [-Unfortunately, the-]{+<small>(The+} article uses &ldquo;free&rdquo; to
+# | mean &ldquo;zero [-price.&rdquo;-] {+price,&rdquo; which is a usage we
+# | should avoid.+} We recommend saying &ldquo;gratis&rdquo; [-instead.-]
+# | {+instead.)</small>+}
 #, fuzzy
 #| msgid ""
 #| "Unfortunately, the article uses &ldquo;free&rdquo; to mean &ldquo;zero "
@@ -3759,6 +4005,11 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <div><div><ul><li><p>
+# | Learn how <a
+# | [-href=\"https://www.huffingtonpost.com/joseph-farrell/the-fascinating-psycholog_b_6076502.html\">-]
+# | {+href=\"https://web.archive.org/web/20170319013045/https://www.huffingtonpost.com/joseph-farrell/the-fascinating-psycholog_b_6076502.html\">+}
+# | gratis-to-play-and-not-win-much games manipulate their useds
+# | psychologically</a>.
 #, fuzzy
 #| msgid ""
 #| "Learn how <a href=\"https://www.huffingtonpost.com/joseph-farrell/the-"
@@ -4014,18 +4265,22 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <title>
+# | [-Proprietary-]{+Google's+} Software {+Is Malware+} - GNU Project - Free
+# | Software Foundation
 #, fuzzy
 #| msgid "Proprietary Software - GNU Project - Free Software Foundation"
 msgid "Google's Software Is Malware - GNU Project - Free Software Foundation"
 msgstr "Software proprietário - Projeto GNU - Free Software Foundation"
 
 #. type: Content of: <div><h2>
+# | [-Proprietary-]{+Google's+} Software [-Is Often-] {+is+} Malware
 #, fuzzy
 #| msgid "Proprietary Software Is Often Malware"
 msgid "Google's Software is Malware"
 msgstr "Software proprietário frequentemente é malware"
 
 #. type: Content of: <div><div><div><h3>
+# | [-Type&nbsp;of&nbsp;malware-]{+Types of Google malware+}
 #, fuzzy
 #| msgid "Type&nbsp;of&nbsp;malware"
 msgid "Types of Google malware"
@@ -4366,6 +4621,10 @@ msgstr ""
 "para proteger a privacidade dos usuários."
 
 #. type: Content of: <div><div><ul><li><p>
+# | Google tracks the movements of Android [-phones,-] {+phones and iPhones
+# | running Google apps,+} and sometimes <a
+# | href=\"https://www.nytimes.com/interactive/2019/04/13/us/google-location-tracking-police.html\">
+# | saves the data for years</a>.
 #, fuzzy
 #| msgid ""
 #| "Google tracks the movements of Android phones, and sometimes <a href="
@@ -4598,6 +4857,10 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <div><div><ul><li><p>
+# | Motorola, then owned by Google, made <a
+# | href=\"http://blog.azimuthsecurity.com/2013/04/unlocking-motorola-bootloader.html\">
+# | Android phones that are tyrants</a> (though someone found a way to crack
+# | the restriction).  [-Fortunately, most Android devices are not tyrants.-]
 #, fuzzy
 #| msgid ""
 #| "Motorola, then owned by Google, made <a href=\"http://blog."
@@ -4616,6 +4879,8 @@ msgstr ""
 "tiranos."
 
 #. type: Content of: <title>
+# | [-Proprietary Software-]{+Malware in Online Conferencing+} - GNU Project -
+# | Free Software Foundation
 #, fuzzy
 #| msgid "Proprietary Software - GNU Project - Free Software Foundation"
 msgid "Malware in Online Conferencing - GNU Project - Free Software Foundation"
@@ -4624,6 +4889,28 @@ msgstr "Software proprietário - Projeto GNU - Free Software Foundation"
 #. type: Content of: <div><h2>
 msgid "Malware in Online Conferencing"
 msgstr ""
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"<a href=\"https://www.washingtonpost.com/technology/2020/12/18/zoom-helped-"
+"china-surveillance/\"> A Zoom executive carried out snooping and censorship "
+"for China</a>."
+msgstr ""
+"<a href=\"https://www.washingtonpost.com/technology/2020/12/18/zoom-helped-"
+"china-surveillance/\"> Um executivo da Zoom realizou espionagem e censura "
+"para a China</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"This abuse of Zoom's power shows how dangerous that power is. The root "
+"problem is not the surveillance and censorship, but rather the power that "
+"Zoom has. It gets that power partly from the use of its server, but also "
+"partly from the nonfree client program."
+msgstr ""
+"Esse abuso do poder do Zoom mostra o quão perigoso é esse poder. A raiz do "
+"problema não é a vigilância e a censura, mas sim o poder que o Zoom tem. Ele "
+"obtém esse poder em parte do uso de seu servidor, mas também em parte do "
+"programa cliente não livre."
 
 #. type: Content of: <div><div><ul><li><p>
 msgid ""
@@ -4691,6 +4978,8 @@ msgstr ""
 "próprios termos."
 
 #. type: Content of: <div><p>
+# | Copyright &copy; [-2013, 2014, 2015, 2016, 2017, 2018-] {+2020+} Free
+# | Software Foundation, Inc.
 #, fuzzy
 #| msgid ""
 #| "Copyright &copy; 2013, 2014, 2015, 2016, 2017, 2018 Free Software "
@@ -4701,6 +4990,8 @@ msgstr ""
 "Foundation, Inc."
 
 #. type: Content of: <title>
+# | [-Proprietary-]{+Microsoft's+} Software {+Is Malware+} - GNU Project -
+# | Free Software Foundation
 #, fuzzy
 #| msgid "Proprietary Software - GNU Project - Free Software Foundation"
 msgid ""
@@ -4708,18 +4999,22 @@ msgid ""
 msgstr "Software proprietário - Projeto GNU - Free Software Foundation"
 
 #. type: Content of: <div><h2>
+# | [-Proprietary-]{+Microsoft's+} Software [-Is Often-] {+is+} Malware
 #, fuzzy
 #| msgid "Proprietary Software Is Often Malware"
 msgid "Microsoft's Software is Malware"
 msgstr "Software proprietário frequentemente é malware"
 
 #. type: Content of: <div><div><div><h3>
+# | [-Type&nbsp;of&nbsp;malware-]{+Types of Microsoft malware+}
 #, fuzzy
 #| msgid "Type&nbsp;of&nbsp;malware"
 msgid "Types of Microsoft malware"
 msgstr "Tipo&nbsp;de&nbsp;malware"
 
 #. type: Content of: <div><div><div><ul><li>
+# | <a [-href=\"/proprietary/malware-mobiles.html\">Mobiles</a>-]
+# | {+href=\"#tethers\">Tethers</a>+}
 #, fuzzy
 #| msgid "<a href=\"/proprietary/malware-mobiles.html\">Mobiles</a>"
 msgid "<a href=\"#tethers\">Tethers</a>"
@@ -4963,6 +5258,20 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <div><div><ul><li><p>
+# | Microsoft has been <a
+# | href=\"https://borncity.com/win/2019/01/17/windows-10-update-kb4023057-re-released-1-16-2019/\">
+# | force-installing a &ldquo;remediation&rdquo; program</a> on computers
+# | running certain versions of Windows 10. Remediation, in Microsoft's view,
+# | means <a
+# | [-href=\"https://support.microsoft.com/en-us/help/4023057/update-to-windows-10-versions-1507-1511-1607-1703-1709-and-1803-for-up2019-04-04\">-]
+# | {+href=\"https://support.microsoft.com/en-us/help/4023057/update-reliability\">+}
+# | tampering with users' settings and files</a>, notably to
+# | &ldquo;repair&rdquo; any components of the updating system that users may
+# | have intentionally disabled, and thus regain full power over them.
+# | Microsoft repeatedly pushed faulty versions of this program to users'
+# | machines, causing numerous problems, some of which <a
+# | href=\"https://www.windowsmode.com/microsoft-suspends-windows-10-october-2018-update-rollout-due-to-critical-bugs/\">
+# | critical</a>.
 #, fuzzy
 #| msgid ""
 #| "Microsoft has been <a href=\"https://borncity.com/win/2019/01/17/"
@@ -5215,8 +5524,8 @@ msgid ""
 "windows-diagnostic-data-in-your-organization#full-level\"> &ldquo;"
 "Full&rdquo; telemetry mode</a> allows Microsoft Windows engineers to access, "
 "among other things, registry keys <a href=\"https://docs.microsoft.com/en-us/"
-"previous-versions/windows/it-pro/windows-2000-server/cc939702"
-"(v=technet.10)\"> which can contain sensitive information like "
+"previous-versions/windows/it-pro/windows-2000-server/"
+"cc939702(v=technet.10)\"> which can contain sensitive information like "
 "administrator's login password</a>."
 msgstr ""
 
@@ -5372,6 +5681,9 @@ msgid "Tethers"
 msgstr ""
 
 #. type: Content of: <div><div><p>
+# | [-<em>Tether:</em>&nbsp; functionality-]{+Tethers are functionalities+}
+# | that [-requires permanent-] {+require constant+} (or very frequent) 
+# | connection to a server.
 #, fuzzy
 #| msgid ""
 #| "<em>Tether:</em>&nbsp; functionality that requires permanent (or very "
@@ -5453,6 +5765,8 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <title>
+# | [-Proprietary Software-]{+Malware in Mobile Devices+} - GNU Project - Free
+# | Software Foundation
 #, fuzzy
 #| msgid "Proprietary Software - GNU Project - Free Software Foundation"
 msgid "Malware in Mobile Devices - GNU Project - Free Software Foundation"
@@ -5536,12 +5850,16 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <div><div><div><h3>
+# | [-Type&nbsp;of&nbsp;malware-]{+Types of malware in mobiles+}
 #, fuzzy
 #| msgid "Type&nbsp;of&nbsp;malware"
 msgid "Types of malware in mobiles"
 msgstr "Tipo&nbsp;de&nbsp;malware"
 
 #. type: Content of: <div><div><div><ul><li>
+# | <a
+# | [-href=\"/proprietary/proprietary-subscriptions.html\">Subscriptions</a>-]
+# | {+href=\"#deception\">Deception</a>+}
 #, fuzzy
 #| msgid ""
 #| "<a href=\"/proprietary/proprietary-subscriptions.html\">Subscriptions</a>"
@@ -5716,6 +6034,10 @@ msgstr ""
 "100 aplicativos mais populares para Android."
 
 #. type: Content of: <div><div><ul><li><p>
+# | [-Unfortunately,-]{+<small>(Note that+} the article [-uses
+# | &ldquo;free&rdquo;-] {+refers+} to [-mean &ldquo;zero price.&rdquo; We
+# | recommend saying-] {+these proprietary apps as &ldquo;free&rdquo;. It
+# | should have said+} &ldquo;gratis&rdquo; [-instead.-] {+instead.)</small>+}
 #, fuzzy
 #| msgid ""
 #| "Unfortunately, the article uses &ldquo;free&rdquo; to mean &ldquo;zero "
@@ -5881,6 +6203,12 @@ msgstr ""
 "permanente de que o aplicativo será ativado por uma atualização automática."
 
 #. type: Content of: <div><div><ul><li><p>
+# | Preloading crapware along with a nonfree operating system is common
+# | practice, but by making the crapware undeletable, Facebook and Samsung (<a
+# | {+class=\"not-a-duplicate\"+}
+# | href=\"https://www.bloomberg.com/news/articles/2019-01-08/samsung-phone-users-get-a-shock-they-can-t-delete-facebook\">among
+# | others</a>)  are going one step further in their hijacking of users'
+# | devices.
 #, fuzzy
 #| msgid ""
 #| "Preloading crapware along with a nonfree operating system is common "
@@ -5962,6 +6290,48 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <div><div><ul><li><p>
+# | Baidu apps {+were+} <a
+# | href=\"https://www.zdnet.com/article/baidus-android-apps-caught-collecting-sensitive-user-details/\">caught
+# | collecting sensitive personal data</a> that can be used for lifetime
+# | tracking of users and putting them in danger. More than 1.4 billion people
+# | worldwide are affected by these proprietary apps and users' privacy is
+# | jeopardized by this surveillance tool. Data collected by Baidu may be
+# | shared with Chinese government, possibly putting Chinese people in danger.
+#, fuzzy
+#| msgid ""
+#| "Baidu apps <a href=\"https://www.zdnet.com/article/baidus-android-apps-"
+#| "caught-collecting-sensitive-user-details/\">caught collecting sensitive "
+#| "personal data</a> that can be used for lifetime tracking of users and "
+#| "putting them in danger. More than 1.4 billion people worldwide are "
+#| "affected by these proprietary apps and users' privacy is jeopardized by "
+#| "this surveillance tool. Data collected by Baidu may be shared with "
+#| "Chinese government, possibly putting Chinese people in danger."
+msgid ""
+"Baidu apps were <a href=\"https://www.zdnet.com/article/baidus-android-apps-"
+"caught-collecting-sensitive-user-details/\">caught collecting sensitive "
+"personal data</a> that can be used for lifetime tracking of users and "
+"putting them in danger. More than 1.4 billion people worldwide are affected "
+"by these proprietary apps and users' privacy is jeopardized by this "
+"surveillance tool. Data collected by Baidu may be shared with Chinese "
+"government, possibly putting Chinese people in danger."
+msgstr ""
+"Aplicativos do Baidu <a href=\"https://www.zdnet.com/article/baidus-android-"
+"apps-caught-collecting-sensitive-user-details/\">foram pegos coletando dados "
+"pessoais confidenciais</a> que podem ser usados para rastreamento vitalício "
+"de usuários e colocá-los em perigo. Mais de 1,4 bilhão de pessoas em todo o "
+"mundo são afetadas por esses aplicativos proprietários e a privacidade dos "
+"usuários é ameaçada por esta ferramenta de vigilância. Os dados coletados "
+"pelo Baidu podem ser compartilhados com o governo chinês, possivelmente "
+"colocando o povo chinês em perigo."
+
+#. type: Content of: <div><div><ul><li><p>
+# | Most apps are malware, but Trump's campaign app, like Modi's campaign app,
+# | is <a
+# | [-href=\"https://www.technologyreview.com/2020/06/21/1004228/trumps-data-hungry-invasive-app-is-a-voter-surveillance-tool-of-extraordinary-scope/
+# | \">especially-]
+# | {+href=\"https://www.technologyreview.com/2020/06/21/1004228/trumps-data-hungry-invasive-app-is-a-voter-surveillance-tool-of-extraordinary-scope/\">
+# | especially+} nasty malware, helping companies snoop on users as well as
+# | snooping on them itself</a>.
 #, fuzzy
 #| msgid ""
 #| "Most apps are malware, but Trump's campaign app, like Modi's campaign "
@@ -6053,6 +6423,10 @@ msgstr ""
 "pode estar fazendo isso, e esse é um bom motivo para usar o software livre."
 
 #. type: Content of: <div><div><ul><li><p>
+# | [-Note that the-]{+<small>Note: this+} article [-refers to these
+# | proprietary apps as &ldquo;free&rdquo;. It should have said
+# | &ldquo;gratis&rdquo; instead.-] {+uses the word &ldquo;free&rdquo; in the
+# | sense of &ldquo;gratis.&rdquo;</small>+}
 #, fuzzy
 #| msgid ""
 #| "Note that the article refers to these proprietary apps as &ldquo;"
@@ -6190,6 +6564,14 @@ msgstr ""
 "mulher que usa o aplicativo."
 
 #. type: Content of: <div><div><ul><li><p>
+# | This has harmful implications for women's rights to equal employment and
+# | freedom to make their own pregnancy choices. Don't use these apps, even if
+# | someone offers you a reward to do so. A free-software app that does more
+# | or less the same thing without spying on you is available from <a
+# | href=\"https://search.f-droid.org/?q=menstr\">F-Droid</a>, and <a
+# | [-href=\"https://www.bloomberg.com/news/audio/2019-04-10/building-a-better-period-tracking-app-podcast\">-]
+# | {+href=\"https://dcs.megaphone.fm/BLM6228935164.mp3?key=7e4b8f7018d13cdc2b5ea6e5772b6b8f\">+}
+# | a new one is being developed</a>.
 #, fuzzy
 #| msgid ""
 #| "This has harmful implications for women's rights to equal employment and "
@@ -6236,6 +6618,13 @@ msgstr ""
 "vigilância maciça na qual o usuário não tem absolutamente nenhum controle."
 
 #. type: Content of: <div><div><ul><li><p>
+# | A study of 24 [-health-] {+&ldquo;health&rdquo;+} apps found that 19 of
+# | them <a [-href=\"
+# | https://motherboard.vice.com/en_us/article/pan9e8/health-apps-can-share-your-data-everywhere-new-study-shows\">-]
+# | {+href=\"https://www.vice.com/en/article/pan9e8/health-apps-can-share-your-data-everywhere-new-study-shows\">+}
+# | send sensitive personal data to third parties</a>, which can use it for
+# | invasive advertising or discriminating against people in poor [-health-]
+# | {+medical+} condition.
 #, fuzzy
 #| msgid ""
 #| "A study of 24 health apps found that 19 of them <a href=\" https://"
@@ -6354,6 +6743,10 @@ msgstr ""
 "e mais populares de VPN tinham péssimas políticas de privacidade</a>."
 
 #. type: Content of: <div><div><ul><li><p>
+# | [-It-]{+<small>(It+} is unfortunate that these articles talk about
+# | &ldquo;free apps.&rdquo; These apps are gratis, but they are <em>not</em>
+# | <a href=\"/philosophy/free-sw.html\">free [-software</a>.-]
+# | {+software</a>.)</small>+}
 #, fuzzy
 #| msgid ""
 #| "It is unfortunate that these articles talk about &ldquo;free apps.&rdquo; "
@@ -6382,6 +6775,9 @@ msgstr ""
 "com os dados."
 
 #. type: Content of: <div><div><ul><li><p>
+# | [-I-]{+We+} think that lawsuit is about a side issue. What the company
+# | does with the data is a secondary issue. The principal wrong here is that
+# | the company gets that data at all.
 #, fuzzy
 #| msgid ""
 #| "I think that lawsuit is about a side issue. What the company does with "
@@ -6397,6 +6793,11 @@ msgstr ""
 "empresa obtém esses dados."
 
 #. type: Content of: <div><div><ul><li><p>
+# | <a
+# | [-href=\"https://motherboard.vice.com/en_us/article/gy77wy/stop-using-third-party-weather-apps\">-]
+# | {+href=\"https://www.vice.com/en/article/gy77wy/stop-using-third-party-weather-apps\">+}
+# | Other weather apps</a>, including Accuweather and WeatherBug, are tracking
+# | people's locations.
 #, fuzzy
 #| msgid ""
 #| "<a href=\"https://motherboard.vice.com/en_us/article/gy77wy/stop-using-"
@@ -6556,8 +6957,8 @@ msgstr ""
 #. type: Content of: <div><div><ul><li><p>
 msgid ""
 "<small>(Note that this article misuses the words &ldquo;<a href=\"/"
-"philosophy/free-sw.html\">free software</a>&rdquo; referring to zero price.)"
-"</small>"
+"philosophy/free-sw.html\">free software</a>&rdquo; referring to zero "
+"price.)</small>"
 msgstr ""
 
 #. type: Content of: <div><div><ul><li><p>
@@ -6948,6 +7349,10 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <div><div><ul><li><p>
+# | <a [-href=\"/proprietary/proprietary-back-doors.html\">Back
+# | doors</a>&nbsp;(<a href=\"#f1\">1</a>)-]
+# | {+href=\"/proprietary/proprietary-back-doors.html#samsung\"> Samsung's
+# | back door</a> provides access to any file on the system.+}
 #, fuzzy
 #| msgid ""
 #| "<a href=\"/proprietary/proprietary-back-doors.html\">Back doors</a>&nbsp;"
@@ -7015,6 +7420,8 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <title>
+# | [-Proprietary Software-]{+Malware in Webpages+} - GNU Project - Free
+# | Software Foundation
 #, fuzzy
 #| msgid "Proprietary Software - GNU Project - Free Software Foundation"
 msgid "Malware in Webpages - GNU Project - Free Software Foundation"
@@ -7077,6 +7484,14 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <div><div><ul><li><p>
+# | A cracker used an exploit in outdated software to <a
+# | href=\"https://www.pcmag.com/news/360968/400-websites-secretly-served-cryptocurrency-miners-to-visito\">
+# | inject a &ldquo;miner&rdquo; in web pages</a> served to visitors. This
+# | type of malware hijacks the computer's processor to mine a cryptocurrency.
+# | [-(Note that the article refers to the infected software as &ldquo;content
+# | management system&rdquo;. A better term would be &ldquo;<a
+# | href=\"/philosophy/words-to-avoid.html#Content\">website revision
+# | system</a>&rdquo;.)-]
 #, fuzzy
 #| msgid ""
 #| "A cracker used an exploit in outdated software to <a href=\"https://www."
@@ -7107,8 +7522,8 @@ msgstr ""
 msgid ""
 "<small>(Note that the article refers to the infected software as &ldquo;"
 "content management system&rdquo;. A better term would be &ldquo;<a href=\"/"
-"philosophy/words-to-avoid.html#Content\">website revision system</a>&rdquo;.)"
-"</small>"
+"philosophy/words-to-avoid.html#Content\">website revision system</"
+"a>&rdquo;.)</small>"
 msgstr ""
 
 #. type: Content of: <div><div><ul><li><p>
@@ -7216,6 +7631,8 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <title>
+# | [-Proprietary Software-]{+Potential Malware+} - GNU Project - Free
+# | Software Foundation
 #, fuzzy
 #| msgid "Proprietary Software - GNU Project - Free Software Foundation"
 msgid "Potential Malware - GNU Project - Free Software Foundation"
@@ -7359,6 +7776,8 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <title>
+# | Proprietary [-Software-] {+Addictions+} - GNU Project - Free Software
+# | Foundation
 #, fuzzy
 #| msgid "Proprietary Software - GNU Project - Free Software Foundation"
 msgid "Proprietary Addictions - GNU Project - Free Software Foundation"
@@ -7402,6 +7821,9 @@ msgid "The Skinner Box"
 msgstr "A Caixa de Skinner"
 
 #. type: Content of: <div><div><dl><dd>
+# | An environment in which the [-rat&hellip; sorry, the-] user is trained to
+# | &ldquo;push the lever&ldquo;, i.e. do a certain action over and over again
+# | in order to get a reward. {+This is also known as &ldquo;grinding.&rdquo;+}
 #, fuzzy
 #| msgid ""
 #| "An environment in which the rat&hellip; sorry, the user is trained to "
@@ -7495,6 +7917,15 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <div><div><ul><li>
+# | The {+developers of gratis mobile games apply the techniques described
+# | above to <a
+# | href=\"https://www.psychguides.com/interact/the-psychology-of-freemium/\">
+# | turn their products into slot machines</a>. This is clearly described in
+# | an infographic. The+} revenue generated by these games is directly related
+# | to the number of strongly addicted gamers (called &ldquo;whales&rdquo;)
+# | and to the amount of money they are willing to spend. Thus developers
+# | carefully study the behavior of millions of users to increase the
+# | addictiveness of their games.
 #, fuzzy
 #| msgid ""
 #| "The revenue generated by these games is directly related to the number of "
@@ -7519,14 +7950,17 @@ msgstr ""
 "o vício em seus jogos."
 
 #. type: Content of: <div><div><p>
+# | [-Unfortunately,-]{+<small>(Unfortunately,+} the [-article uses-] {+last
+# | two articles use+} &ldquo;free&rdquo; to mean &ldquo;zero price.&rdquo; We
+# | recommend saying &ldquo;gratis&rdquo; [-instead.-] {+instead.)</small>+}
 #, fuzzy
 #| msgid ""
 #| "Unfortunately, the article uses &ldquo;free&rdquo; to mean &ldquo;zero "
 #| "price.&rdquo; We recommend saying &ldquo;gratis&rdquo; instead."
 msgid ""
 "<small>(Unfortunately, the last two articles use &ldquo;free&rdquo; to mean "
-"&ldquo;zero price.&rdquo; We recommend saying &ldquo;gratis&rdquo; instead.)"
-"</small>"
+"&ldquo;zero price.&rdquo; We recommend saying &ldquo;gratis&rdquo; "
+"instead.)</small>"
 msgstr ""
 "Infelizmente, o artigo usa “<i lang=\"en\">free</i>” no sentido de “preço "
 "zero”. Nós recomendamos dizer “grátis”."
@@ -7546,6 +7980,11 @@ msgstr ""
 "prazo, leva a uma vida ainda pior."
 
 #. type: Content of: <div><div><p>
+# | [-<em>Note:</em>&nbsp;-]{+<small><em>Note:</em>&nbsp;+} We are not gamers.
+# | If you think we have misunderstood some point, or have suggestions for
+# | making this text clearer or more correct, please send them to &lt;<a
+# | [-href=\"mailto:webmasters@gnu.org\">webmasters@gnu.org</a>&gt;.-]
+# | {+href=\"mailto:webmasters@gnu.org\">webmasters@gnu.org</a>&gt;.</small>+}
 #, fuzzy
 #| msgid ""
 #| "<em>Note:</em>&nbsp; We are not gamers. If you think we have "
@@ -7568,6 +8007,10 @@ msgid "Online gambling"
 msgstr ""
 
 #. type: Content of: <div><div><p>
+# | On[---]line gambling services (and their nonfree client programs) are <a
+# | href=\"https://www.theguardian.com/society/2019/feb/22/gambling-apps-more-dangerous-than-fobts-study-finds\">
+# | designed to be addictive</a>, much like on-line games. They achieve this
+# | with various different malfunctionalities, often in combination.
 #, fuzzy
 #| msgid ""
 #| "On-line gambling services (and their nonfree client programs) are <a href="
@@ -7589,6 +8032,12 @@ msgstr ""
 "com várias disfunções diferentes, muitas vezes em combinação."
 
 #. type: Content of: <div><div><p>
+# | Many of these malfunctionalities are implemented by the server and the
+# | client program together. In some cases, there is no honest way that the
+# | client program could counteract the nastiness&mdash;for instance, when the
+# | server manipulates amounts won in order to get the user addicted, the only
+# | way the client program could block that is to pretend the win did not
+# | [-happen, and-] {+happen. But+} users would not want that modification.
 #, fuzzy
 #| msgid ""
 #| "Many of these malfunctionalities are implemented by the server and the "
@@ -7625,6 +8074,16 @@ msgid "Social networks"
 msgstr ""
 
 #. type: Content of: <div><div><p>
+# | Some [-<span>social networking</span>-] {+social networking+} apps are <a
+# | href=\"https://www.jeffbullas.com/facebook-creates-addiction/\"> designed
+# | to get users addicted</a>. These try to merge into your daily routine by
+# | exploiting social pressure and your natural desire for socialization,
+# | converting habitual gestures into thorough addiction. As already noted for
+# | games, addictiveness is essentially based on random rewards. In the
+# | present case, the rewards are messages from friends and followers,
+# | &ldquo;likes,&rdquo; news, interesting videos, etc. The software is
+# | designed to trigger users' desire for these rewards, and keep this desire
+# | alive as long as possible.
 #, fuzzy
 #| msgid ""
 #| "Some <span>social networking</span> apps are <a href=\"https://www."
@@ -7745,6 +8204,8 @@ msgid "Examples of addictive software"
 msgstr ""
 
 #. type: Content of: <div><p>
+# | Copyright &copy; [-2013, 2014, 2015, 2016, 2017, 2018-] {+2019, 2020+}
+# | Free Software Foundation, Inc.
 #, fuzzy
 #| msgid ""
 #| "Copyright &copy; 2013, 2014, 2015, 2016, 2017, 2018 Free Software "
@@ -7755,6 +8216,8 @@ msgstr ""
 "Foundation, Inc."
 
 #. type: Content of: <title>
+# | Proprietary [-Software-] {+Back Doors+} - GNU Project - Free Software
+# | Foundation
 #, fuzzy
 #| msgid "Proprietary Software - GNU Project - Free Software Foundation"
 msgid "Proprietary Back Doors - GNU Project - Free Software Foundation"
@@ -7778,12 +8241,16 @@ msgid "Back-door functionalities"
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li>
+# | <a [-href=\"/proprietary/proprietary-deception.html\">Deception</a>-]
+# | {+href=\"#spy\">Spying</a>+}
 #, fuzzy
 #| msgid "<a href=\"/proprietary/proprietary-deception.html\">Deception</a>"
 msgid "<a href=\"#spy\">Spying</a>"
 msgstr "<a href=\"/proprietary/proprietary-deception.html\">Engano</a>"
 
 #. type: Content of: <div><div><div><ul><li>
+# | <a [-href=\"#latest\">Latest additions</a>-]
+# | {+href=\"#alter-data\">Altering user's data or settings</a>+}
 #, fuzzy
 #| msgid "<a href=\"#latest\">Latest additions</a>"
 msgid "<a href=\"#alter-data\">Altering user's data or settings</a>"
@@ -7795,6 +8262,9 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li>
+# | <a
+# | [-href=\"/proprietary/proprietary-surveillance.html\">Surveillance</a>-]
+# | {+href=\"#universal\">Full control</a>+}
 #, fuzzy
 #| msgid ""
 #| "<a href=\"/proprietary/proprietary-surveillance.html\">Surveillance</a>"
@@ -7802,6 +8272,9 @@ msgid "<a href=\"#universal\">Full control</a>"
 msgstr "<a href=\"/proprietary/proprietary-surveillance.html\">Vigilância</a>"
 
 #. type: Content of: <div><div><div><ul><li>
+# | <a
+# | [-href=\"/proprietary/proprietary-interference.html\">Interference</a>-]
+# | {+href=\"#other\">Other/undefined</a>+}
 #, fuzzy
 #| msgid ""
 #| "<a href=\"/proprietary/proprietary-interference.html\">Interference</a>"
@@ -7952,6 +8425,11 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <div><div><ul><li><p>
+# | Sony has brought back its robotic pet Aibo, this time <a
+# | [-href=\"https://motherboard.vice.com/en_us/article/bj778v/sony-wants-to-sell-you-a-subscription-to-a-robot-dog-aibo-90s-pet\">-]
+# | {+href=\"https://www.vice.com/en/article/bj778v/sony-wants-to-sell-you-a-subscription-to-a-robot-dog-aibo-90s-pet\">+}
+# | with a universal back door, and tethered to a server that requires a
+# | subscription</a>.
 #, fuzzy
 #| msgid ""
 #| "Sony has brought back its robotic pet Aibo, this time <a href=\"https://"
@@ -8037,6 +8515,8 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <title>
+# | Proprietary [-Software-] {+Censorship+} - GNU Project - Free Software
+# | Foundation
 #, fuzzy
 #| msgid "Proprietary Software - GNU Project - Free Software Foundation"
 msgid "Proprietary Censorship - GNU Project - Free Software Foundation"
@@ -8093,6 +8573,8 @@ msgid "Online conferencing"
 msgstr ""
 
 #. type: Content of: <title>
+# | Proprietary [-Software-] {+Coverups+} - GNU Project - Free Software
+# | Foundation
 #, fuzzy
 #| msgid "Proprietary Software - GNU Project - Free Software Foundation"
 msgid "Proprietary Coverups - GNU Project - Free Software Foundation"
@@ -8118,6 +8600,8 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <title>
+# | Proprietary [-Software-] {+Deception+} - GNU Project - Free Software
+# | Foundation
 #, fuzzy
 #| msgid "Proprietary Software - GNU Project - Free Software Foundation"
 msgid "Proprietary Deception - GNU Project - Free Software Foundation"
@@ -8137,6 +8621,19 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li><p>
 msgid ""
+"HP tricked users into installing a mischievous update in their printers that "
+"<a href=\"https://www.eff.org/deeplinks/2020/11/ink-stained-wretches-battle-"
+"soul-digital-freedom-taking-place-inside-your-printer\">made the devices "
+"reject all third-party ink cartridges</a>."
+msgstr ""
+"A HP enganou os usuários para que instalassem uma atualização maliciosa em "
+"suas impressoras que <a href=\"https://www.eff.org/deeplinks/2020/11/ink-"
+"stained-wretches-battle-soul-digital-freedom-taking-place-inside-your-printer"
+"\">fez com que os dispositivos rejeitassem todos os cartuchos de tinta de "
+"terceiros</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
 "OfficeMax cheated customers by <a href=\"https://arstechnica.com/tech-"
 "policy/2019/03/office-depot-tricked-people-into-buying-pc-support-with-fake-"
 "virus-scans/\"> using proprietary &ldquo;PC Health Check&rdquo; software</a> "
@@ -8151,6 +8648,15 @@ msgstr ""
 "desnecessários da empresa."
 
 #. type: Content of: <div><div><ul><li><p>
+# | Twenty nine &ldquo;beauty camera&rdquo; apps that used to be on Google
+# | Play had one or more malicious functionalities, such as {+<a
+# | href=\"https://www.teleanalysis.com/these-29-beauty-camera-apps-steal-private-photo/\">+}
+# | stealing users' photos instead of &ldquo;beautifying&rdquo; [-them, <a
+# | href=\"https://www.teleanalysis.com/news/national/these-29-beauty-camera-apps-steal-private-photo-29923\">pushing-]
+# | {+them</a>, pushing+} unwanted and often malicious ads on users, and
+# | redirecting them to phishing [-sites</a>-] {+sites+} that stole their
+# | credentials. Furthermore, the user interface of most of them was designed
+# | to make uninstallation difficult.
 #, fuzzy
 #| msgid ""
 #| "Twenty nine &ldquo;beauty camera&rdquo; apps that used to be on Google "
@@ -8204,6 +8710,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <title>
+# | Proprietary [-Software-] {+DRM+} - GNU Project - Free Software Foundation
 #, fuzzy
 #| msgid "Proprietary Software - GNU Project - Free Software Foundation"
 msgid "Proprietary DRM - GNU Project - Free Software Foundation"
@@ -8291,12 +8798,14 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <title>
+# | Proprietary [-Software-] {+Fraud+} - GNU Project - Free Software Foundation
 #, fuzzy
 #| msgid "Proprietary Software - GNU Project - Free Software Foundation"
 msgid "Proprietary Fraud - GNU Project - Free Software Foundation"
 msgstr "Software proprietário - Projeto GNU - Free Software Foundation"
 
 #. type: Content of: <div><h2>
+# | Proprietary [-Tyrants-] {+Fraud+}
 #, fuzzy
 #| msgid "Proprietary Tyrants"
 msgid "Proprietary Fraud"
@@ -8321,6 +8830,8 @@ msgstr ""
 "de seus pais sem explicá-lo para elas."
 
 #. type: Content of: <title>
+# | Proprietary [-Software-] {+Incompatibility+} - GNU Project - Free Software
+# | Foundation
 #, fuzzy
 #| msgid "Proprietary Software - GNU Project - Free Software Foundation"
 msgid "Proprietary Incompatibility - GNU Project - Free Software Foundation"
@@ -8370,6 +8881,8 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <div><p>
+# | Copyright &copy; [-2013, 2014, 2015, 2016, 2017, 2018-] {+2018-2020+} Free
+# | Software Foundation, Inc.
 #, fuzzy
 #| msgid ""
 #| "Copyright &copy; 2013, 2014, 2015, 2016, 2017, 2018 Free Software "
@@ -8380,6 +8893,8 @@ msgstr ""
 "Foundation, Inc."
 
 #. type: Content of: <title>
+# | Proprietary [-Software-] {+Insecurity+} - GNU Project - Free Software
+# | Foundation
 #, fuzzy
 #| msgid "Proprietary Software - GNU Project - Free Software Foundation"
 msgid "Proprietary Insecurity - GNU Project - Free Software Foundation"
@@ -8405,6 +8920,41 @@ msgid ""
 "to fix any security problems that arise</em>.  Keeping the users helpless is "
 "what's culpable about proprietary software."
 msgstr ""
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"United States officials are facing one of biggest crackings against them in "
+"years, when <a href=\"https://www.theguardian.com/technology/2020/dec/15/"
+"orion-hack-solar-winds-explained-us-treasury-commerce-department\">malicious "
+"code was sneaked into SolarWinds' proprietary software named Orion</a>. "
+"Crackers got access to networks when users downloaded a tainted software "
+"update. Crackers were able to monitor internal emails at some of the top "
+"agencies in the US."
+msgstr ""
+"As autoridades dos Estados Unidos estão enfrentando uma das maiores "
+"violações contra eles em anos, quando um <a href=\"https://www.theguardian."
+"com/technology/2020/dec/15/orion-hack-solar-winds-explained-us-treasury-"
+"commerce-department\">código malicioso foi inserido sorrateiramente no "
+"software proprietário da SolarWinds chamado Orion</a>. Os <em>crackers</em> "
+"tiveram acesso às redes quando os usuários baixaram uma atualização de "
+"software contaminada. Os <em>crackers</em> conseguiram monitorar e-mails "
+"internos em algumas das principais agências dos Estados Unidos."
+
+#. type: Content of: <div><div><ul><li><p>
+# | [-Unfortunately,-]{+<small>(Please note that+} the article [-<a
+# | href=\"/philosophy/words-to-avoid.html#Hacker\">improperly-] {+wrongly+}
+# | refers to crackers as [-&ldquo;hackers&rdquo;</a>.-] {+\"<a
+# | href=\"/philosophy/words-to-avoid.html#Hacker\">hackers</a>\".)</small>+}
+#, fuzzy
+#| msgid ""
+#| "Unfortunately, the article <a href=\"/philosophy/words-to-avoid."
+#| "html#Hacker\">improperly refers to crackers as &ldquo;hackers&rdquo;</a>."
+msgid ""
+"<small>(Please note that the article wrongly refers to crackers as \"<a href="
+"\"/philosophy/words-to-avoid.html#Hacker\">hackers</a>\".)</small>"
+msgstr ""
+"Infelizmente, o artigo <a href=\"/philosophy/words-to-avoid.html#Hacker"
+"\">inadequadamente se refere a <em>crackers</em> como “hackers”</a>."
 
 #. type: Content of: <div><div><ul><li><p>
 msgid ""
@@ -8488,6 +9038,8 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <div><p>
+# | Copyright &copy; 2013, [-2014, 2015, 2016, 2017, 2018-] {+2015-2020+} Free
+# | Software Foundation, Inc.
 #, fuzzy
 #| msgid ""
 #| "Copyright &copy; 2013, 2014, 2015, 2016, 2017, 2018 Free Software "
@@ -8498,6 +9050,8 @@ msgstr ""
 "Foundation, Inc."
 
 #. type: Content of: <title>
+# | Proprietary [-Software-] {+Interference+} - GNU Project - Free Software
+# | Foundation
 #, fuzzy
 #| msgid "Proprietary Software - GNU Project - Free Software Foundation"
 msgid "Proprietary Interference - GNU Project - Free Software Foundation"
@@ -8557,6 +9111,7 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <title>
+# | Proprietary [-Software-] {+Jails+} - GNU Project - Free Software Foundation
 #, fuzzy
 #| msgid "Proprietary Software - GNU Project - Free Software Foundation"
 msgid "Proprietary Jails - GNU Project - Free Software Foundation"
@@ -8593,6 +9148,9 @@ msgid "&nbsp;<a href=\"#apple\">Apple</a>&nbsp;"
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li>
+# | [-<a
+# | href=\"/proprietary/malware-microsoft.html\">Microsoft</a>-]{+&nbsp;<a
+# | href=\"#microsoft\">Microsoft</a>&nbsp;+}
 #, fuzzy
 #| msgid "<a href=\"/proprietary/malware-microsoft.html\">Microsoft</a>"
 msgid "&nbsp;<a href=\"#microsoft\">Microsoft</a>&nbsp;"
@@ -8603,6 +9161,7 @@ msgid "&nbsp;<a href=\"#consoles\">Game&nbsp;consoles</a>&nbsp;"
 msgstr ""
 
 #. type: Content of: <div><div><h3>
+# | [-Proprietary Tethers-]{+Microsoft+}
 #, fuzzy
 #| msgid "Proprietary Tethers"
 msgid "Microsoft"
@@ -8616,6 +9175,8 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <title>
+# | Proprietary [-Software-] {+Manipulation+} - GNU Project - Free Software
+# | Foundation
 #, fuzzy
 #| msgid "Proprietary Software - GNU Project - Free Software Foundation"
 msgid "Proprietary Manipulation - GNU Project - Free Software Foundation"
@@ -8640,12 +9201,15 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <title>
+# | Proprietary [-Software-] {+Obsolescence+} - GNU Project - Free Software
+# | Foundation
 #, fuzzy
 #| msgid "Proprietary Software - GNU Project - Free Software Foundation"
 msgid "Proprietary Obsolescence - GNU Project - Free Software Foundation"
 msgstr "Software proprietário - Projeto GNU - Free Software Foundation"
 
 #. type: Content of: <div><h2>
+# | Proprietary [-Tethers-] {+Obsolescence+}
 #, fuzzy
 #| msgid "Proprietary Tethers"
 msgid "Proprietary Obsolescence"
@@ -8690,6 +9254,7 @@ msgid "Proprietary Software - GNU Project - Free Software Foundation"
 msgstr "Software proprietário - Projeto GNU - Free Software Foundation"
 
 #. type: Content of: <style>
+# | [-#TOC-]  {+.reduced-width+} { width: 55em; }\\n
 #, fuzzy, no-wrap
 #| msgid "#TOC { width: 55em; }\n"
 msgid "  .reduced-width { width: 55em; }\n"
@@ -8754,14 +9319,18 @@ msgstr ""
 "de ser mal."
 
 #. type: Content of: <div><p>
+# | As of [-July,-] {+December,+} 2020, the pages in this directory list
+# | around 450 instances of malicious functionalities (with more than
+# | 5[-2-]{+6+}0 references to back them up), but there are surely thousands
+# | more we don't know about.
 #, fuzzy
 #| msgid ""
 #| "As of July, 2020, the pages in this directory list around 450 instances "
 #| "of malicious functionalities (with more than 520 references to back them "
 #| "up), but there are surely thousands more we don't know about."
 msgid ""
-"As of November, 2020, the pages in this directory list around 450 instances "
-"of malicious functionalities (with more than 550 references to back them "
+"As of December, 2020, the pages in this directory list around 450 instances "
+"of malicious functionalities (with more than 560 references to back them "
 "up), but there are surely thousands more we don't know about."
 msgstr ""
 "Até janeiro de 2020, as páginas neste diretório listam quase 450 exemplos de "
@@ -8777,6 +9346,8 @@ msgid "Products or companies"
 msgstr "Produtos ou empresas"
 
 #. type: Content of: <div><table><tr><td><ul><li>
+# | <a [-href=\"/proprietary/proprietary-deception.html\">Deception</a>-]
+# | {+href=\"/proprietary/proprietary-addictions.html\">Addictions</a>+}
 #, fuzzy
 #| msgid "<a href=\"/proprietary/proprietary-deception.html\">Deception</a>"
 msgid "<a href=\"/proprietary/proprietary-addictions.html\">Addictions</a>"
@@ -8811,6 +9382,8 @@ msgstr ""
 "\"#f2\">2</a>)"
 
 #. type: Content of: <div><table><tr><td><ul><li>
+# | <a [-href=\"/proprietary/proprietary-coverups.html\">Coverups</a>-]
+# | {+href=\"/proprietary/proprietary-fraud.html\">Fraud</a>+}
 #, fuzzy
 #| msgid "<a href=\"/proprietary/proprietary-coverups.html\">Coverups</a>"
 msgid "<a href=\"/proprietary/proprietary-fraud.html\">Fraud</a>"
@@ -8841,12 +9414,16 @@ msgstr ""
 "\"#f3\">3</a>)"
 
 #. type: Content of: <div><table><tr><td><ul><li>
+# | <a [-href=\"/proprietary/proprietary-addictions.html\">Addictions</a>-]
+# | {+href=\"/proprietary/proprietary-manipulation.html\">Manipulation</a>+}
 #, fuzzy
 #| msgid "<a href=\"/proprietary/proprietary-addictions.html\">Addictions</a>"
 msgid "<a href=\"/proprietary/proprietary-manipulation.html\">Manipulation</a>"
 msgstr "<a href=\"/proprietary/proprietary-addictions.html\">Vícios</a>"
 
 #. type: Content of: <div><table><tr><td><ul><li>
+# | <a [-href=\"/proprietary/proprietary-deception.html\">Deception</a>-]
+# | {+href=\"/proprietary/proprietary-obsolescence.html\">Obsolescence</a>+}
 #, fuzzy
 #| msgid "<a href=\"/proprietary/proprietary-deception.html\">Deception</a>"
 msgid "<a href=\"/proprietary/proprietary-obsolescence.html\">Obsolescence</a>"
@@ -8907,6 +9484,9 @@ msgid "<a href=\"/proprietary/malware-webpages.html\">Webpages</a>"
 msgstr "<a href=\"/proprietary/malware-webpages.html\">Páginas web</a>"
 
 #. type: Content of: <div><table><tr><td><ul><li>
+# | <a [-href=\"/proprietary/malware-cars.html\">Cars</a>-]
+# | {+href=\"/proprietary/malware-in-online-conferencing.html\">Conferencing</a
+# | >+}
 #, fuzzy
 #| msgid "<a href=\"/proprietary/malware-cars.html\">Cars</a>"
 msgid ""
@@ -9019,6 +9599,8 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
+# | Copyright &copy; 2013, 2014, 2015, 2016, 2017, 2018, [-2019-] {+2019,
+# | 2020+} Free Software Foundation, Inc.
 #, fuzzy
 #| msgid ""
 #| "Copyright &copy; 2013, 2014, 2015, 2016, 2017, 2018, 2019 Free Software "
@@ -9031,6 +9613,8 @@ msgstr ""
 "Foundation, Inc."
 
 #. type: Content of: <title>
+# | Proprietary [-Software-] {+Sabotage+} - GNU Project - Free Software
+# | Foundation
 #, fuzzy
 #| msgid "Proprietary Software - GNU Project - Free Software Foundation"
 msgid "Proprietary Sabotage - GNU Project - Free Software Foundation"
@@ -9161,6 +9745,8 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <title>
+# | Proprietary [-Software-] {+Subscriptions+} - GNU Project - Free Software
+# | Foundation
 #, fuzzy
 #| msgid "Proprietary Software - GNU Project - Free Software Foundation"
 msgid "Proprietary Subscriptions - GNU Project - Free Software Foundation"
@@ -9187,6 +9773,8 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <title>
+# | Proprietary [-Software-] {+Surveillance+} - GNU Project - Free Software
+# | Foundation
 #, fuzzy
 #| msgid "Proprietary Software - GNU Project - Free Software Foundation"
 msgid "Proprietary Surveillance - GNU Project - Free Software Foundation"
@@ -9228,12 +9816,15 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <div><div><div><h3>
+# | [-<a href=\"#TOC\">Table-]{+Table+} of [-contents</a>-] {+Contents+}
 #, fuzzy
 #| msgid "<a href=\"#TOC\">Table of contents</a>"
 msgid "Table of Contents"
 msgstr "<a href=\"#TOC\">Conteúdo</a>"
 
 #. type: Content of: <div><div><div><h4>
+# | <a [-href=\"#latest\">Latest additions</a>-]
+# | {+href=\"#Introduction\">Introduction</a>+}
 #, fuzzy
 #| msgid "<a href=\"#latest\">Latest additions</a>"
 msgid "<a href=\"#Introduction\">Introduction</a>"
@@ -9256,6 +9847,8 @@ msgid "<a href=\"#SpywareInBIOS\">BIOS</a>"
 msgstr ""
 
 #. type: Content of: <div><div><div><h4>
+# | <a [-href=\"/proprietary/malware-mobiles.html\">Mobiles</a>-]
+# | {+href=\"#SpywareOnMobiles\">Spyware on Mobiles</a>+}
 #, fuzzy
 #| msgid "<a href=\"/proprietary/malware-mobiles.html\">Mobiles</a>"
 msgid "<a href=\"#SpywareOnMobiles\">Spyware on Mobiles</a>"
@@ -9282,12 +9875,16 @@ msgid "<a href=\"#SpywareInApplications\">Spyware in Applications</a>"
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li>
+# | <a [-href=\"/proprietary/malware-mobiles.html\">Mobiles</a>-]
+# | {+href=\"#SpywareInDesktopApps\">Desktop Apps</a>+}
 #, fuzzy
 #| msgid "<a href=\"/proprietary/malware-mobiles.html\">Mobiles</a>"
 msgid "<a href=\"#SpywareInDesktopApps\">Desktop Apps</a>"
 msgstr "<a href=\"/proprietary/malware-mobiles.html\">Móveis</a>"
 
 #. type: Content of: <div><div><div><ul><li>
+# | <a [-href=\"/proprietary/malware-mobiles.html\">Mobiles</a>-]
+# | {+href=\"#SpywareInMobileApps\">Mobile Apps</a>+}
 #, fuzzy
 #| msgid "<a href=\"/proprietary/malware-mobiles.html\">Mobiles</a>"
 msgid "<a href=\"#SpywareInMobileApps\">Mobile Apps</a>"
@@ -9298,6 +9895,8 @@ msgid "<a href=\"#SpywareInSkype\">Skype</a>"
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li>
+# | <a [-href=\"/proprietary/malware-games.html\">Games</a>-]
+# | {+href=\"#SpywareInGames\">Games</a>+}
 #, fuzzy
 #| msgid "<a href=\"/proprietary/malware-games.html\">Games</a>"
 msgid "<a href=\"#SpywareInGames\">Games</a>"
@@ -9312,6 +9911,8 @@ msgid "<a href=\"#SpywareInTVSets\">TV Sets</a>"
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li>
+# | <a [-href=\"/proprietary/malware-games.html\">Games</a>-]
+# | {+href=\"#SpywareInCameras\">Cameras</a>+}
 #, fuzzy
 #| msgid "<a href=\"/proprietary/malware-games.html\">Games</a>"
 msgid "<a href=\"#SpywareInCameras\">Cameras</a>"
@@ -9326,12 +9927,16 @@ msgid "<a href=\"#SpywareInDrones\">Drones</a>"
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li>
+# | <a [-href=\"/proprietary/malware-appliances.html\">Appliances</a>-]
+# | {+href=\"#SpywareAtHome\">Other Appliances</a>+}
 #, fuzzy
 #| msgid "<a href=\"/proprietary/malware-appliances.html\">Appliances</a>"
 msgid "<a href=\"#SpywareAtHome\">Other Appliances</a>"
 msgstr "<a href=\"/proprietary/malware-appliances.html\">Appliances</a>"
 
 #. type: Content of: <div><div><div><ul><li>
+# | <a [-href=\"/proprietary/malware-webpages.html\">Webpages</a>-]
+# | {+href=\"#SpywareOnWearables\">Wearables</a>+}
 #, fuzzy
 #| msgid "<a href=\"/proprietary/malware-webpages.html\">Webpages</a>"
 msgid "<a href=\"#SpywareOnWearables\">Wearables</a>"
@@ -9342,6 +9947,8 @@ msgid "<a href=\"#SpywareOnSmartWatches\">&ldquo;Smart&rdquo; Watches</a>"
 msgstr ""
 
 #. type: Content of: <div><div><div><ul><li>
+# | <a [-href=\"/proprietary/malware-mobiles.html\">Mobiles</a>-]
+# | {+href=\"#SpywareInVehicles\">Vehicles</a>+}
 #, fuzzy
 #| msgid "<a href=\"/proprietary/malware-mobiles.html\">Mobiles</a>"
 msgid "<a href=\"#SpywareInVehicles\">Vehicles</a>"
@@ -9626,6 +10233,16 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <div><div><ul><li><p>
+# | Twenty nine &ldquo;beauty camera&rdquo; apps that used to be on Google
+# | Play had one or more malicious functionalities, such as {+<a
+# | href=\"https://www.teleanalysis.com/these-29-beauty-camera-apps-steal-private-photo/\">+}
+# | stealing users' [-photos-] {+photos</a>+} instead of
+# | &ldquo;beautifying&rdquo; them, [-<a
+# | href=\"https://www.teleanalysis.com/news/national/these-29-beauty-camera-apps-steal-private-photo-29923\">pushing-]
+# | {+pushing+} unwanted and often malicious ads on users, and redirecting
+# | them to phishing [-sites</a>-] {+sites+} that stole their credentials.
+# | Furthermore, the user interface of most of them was designed to make
+# | uninstallation difficult.
 #, fuzzy
 #| msgid ""
 #| "Twenty nine &ldquo;beauty camera&rdquo; apps that used to be on Google "
@@ -9854,6 +10471,11 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <div><div><ul><li><p>
+# | [-<small>Note:-]{+<small>(Note that+} this article [-uses-] {+misuses+}
+# | the word [-&ldquo;free&rdquo; in the sense of
+# | &ldquo;gratis.&rdquo;</small>-] {+&ldquo;<a
+# | href=\"/philosophy/words-to-avoid.html#Hacker\">hackers</a>&rdquo; to mean
+# | &ldquo;crackers.&rdquo;)</small>+}
 #, fuzzy
 #| msgid ""
 #| "<small>Note: this article uses the word &ldquo;free&rdquo; in the sense "
@@ -9926,6 +10548,14 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <div><div><ul><li><p>
+# | As of April 2019, it is <a
+# | href=\"https://www.bleepingcomputer.com/news/software/major-browsers-to-prevent-disabling-of-click-tracking-privacy-risk{+/+}\">no
+# | longer possible to disable an unscrupulous tracking anti-feature</a> that
+# | <a
+# | href=\"https://html.spec.whatwg.org/multipage/links.html#hyperlink-auditing\">reports
+# | users when they follow ping links</a> in Apple Safari, Google Chrome,
+# | Opera, Microsoft Edge and also in the upcoming Microsoft Edge that {+is+}
+# | going to be based on Chromium.
 #, fuzzy
 #| msgid ""
 #| "As of April 2019, it is <a href=\"https://www.bleepingcomputer.com/news/"
@@ -10019,6 +10649,8 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <title>
+# | Proprietary [-Software-] {+Tethers+} - GNU Project - Free Software
+# | Foundation
 #, fuzzy
 #| msgid "Proprietary Software - GNU Project - Free Software Foundation"
 msgid "Proprietary Tethers - GNU Project - Free Software Foundation"
@@ -10042,6 +10674,10 @@ msgstr ""
 "com o servidor de outra maneira."
 
 #. type: Content of: <div><div><p>
+# | [-Tethering a product or program-]{+In some cases, tethering is used+} to
+# | [-a-] {+do+} specific [-server is an injustice in itself.-] {+nasty things
+# | to the users.+}  This page reports instances where tethering was used to
+# | harm the users directly.
 #, fuzzy
 #| msgid ""
 #| "Tethering a product or program to a specific server is an injustice in "
@@ -10057,6 +10693,8 @@ msgstr ""
 "usuários diretamente."
 
 #. type: Content of: <title>
+# | Proprietary [-Software-] {+Tyrants+} - GNU Project - Free Software
+# | Foundation
 #, fuzzy
 #| msgid "Proprietary Software - GNU Project - Free Software Foundation"
 msgid "Proprietary Tyrants - GNU Project - Free Software Foundation"
@@ -10067,6 +10705,11 @@ msgid "Proprietary Tyrants"
 msgstr "Tiranos proprietários"
 
 #. type: Content of: <div><div><p>
+# | A <em>tyrant</em> [-device-] is [-one-] {+a malicious device+} that
+# | refuses to allow users to install a different operating system or a
+# | modified operating system.  These devices have measures to block execution
+# | of anything other than the &ldquo;approved&rdquo; system versions.  We
+# | also refer to this practice as <em>tivoization</em>.
 #, fuzzy
 #| msgid ""
 #| "A <em>tyrant</em> device is one that refuses to allow users to install a "
@@ -10100,6 +10743,7 @@ msgid "<a href=\"#content\"><span>BACK TO TOP </span>&#11165;</a>"
 msgstr "<a href=\"#content\"><span>VOLTAR AO TOPO </span>&#11165;</a>"
 
 #. type: Content of: <div><div><h3>
+# | Proprietary [-Tyrants-] {+malware+}
 #, fuzzy
 #| msgid "Proprietary Tyrants"
 msgid "Proprietary malware"
@@ -10246,6 +10890,9 @@ msgid "<a href=\"/proprietary/malware-webpages.html#content\">Webpages</a>"
 msgstr "<a href=\"/proprietary/malware-webpages.html#content\">Páginas web</a>"
 
 #. type: Content of: <div><div><dl><dd><ul><li>
+# | <a [-href=\"/proprietary/malware-cars.html#content\">Cars</a>-]
+# | {+href=\"/proprietary/malware-in-online-conferencing.html#content\">Confere
+# | ncing</a>+}
 #, fuzzy
 #| msgid "<a href=\"/proprietary/malware-cars.html#content\">Cars</a>"
 msgid ""
@@ -10283,8 +10930,8 @@ msgstr "<a href=\"/proprietary/malware-microsoft.html#content\">Microsoft</a>"
 #~| "of malicious functionalities (with more than 520 references to back them "
 #~| "up), but there are surely thousands more we don't know about."
 #~ msgid ""
-#~ "As of September, 2020, the pages in this directory list around 450 "
-#~ "instances of malicious functionalities (with more than 540 references to "
+#~ "As of November, 2020, the pages in this directory list around 450 "
+#~ "instances of malicious functionalities (with more than 550 references to "
 #~ "back them up), but there are surely thousands more we don't know about."
 #~ msgstr ""
 #~ "Até janeiro de 2020, as páginas neste diretório listam quase 450 exemplos "

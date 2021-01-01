@@ -1,21 +1,22 @@
 # Brazilian Portuguese translation of https://www.gnu.org/philosophy/government-free-software.html
-# Copyright (C) 2019 Free Software Foundation, Inc.
+# Copyright (C) 2020 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2019.
 # Adonay Felipe Nogueira <adfeno@hyperbola.info>, 2019. (#15503)
+# Rafael Fontenelle <rafaelff@gnome.org>, 2019-2020.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: government-free-software.html\n"
-"POT-Creation-Date: 2018-01-01 05:58+0000\n"
-"PO-Revision-Date: 2019-12-31 10:46-0300\n"
+"POT-Creation-Date: 2020-12-26 14:55+0000\n"
+"PO-Revision-Date: 2020-12-29 11:53-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 1.0.0-beta1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 3.38.0\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -161,14 +162,16 @@ msgid ""
 "Laws and public sector practices must be changed so that they never require "
 "or pressure individuals or organizations to use a nonfree program.  They "
 "should also discourage communication and publication practices that imply "
-"such consequences (including <a href=\"http://www.defectivebydesign.org/"
-"what_is_drm\">Digital Restrictions Management</a>)."
+"such consequences (including <a href=\"https://www.defectivebydesign.org/"
+"what_is_drm_digital_restrictions_management\">Digital Restrictions "
+"Management</a>)."
 msgstr ""
 "As leis e práticas do setor público devem ser alteradas para que nunca "
 "exijam ou pressionem indivíduos ou organizações a usar um programa não "
 "livre. Elas também devem desencorajar práticas de comunicação e publicação "
-"que impliquem tais consequências (incluindo <a href=\"http://www."
-"defectivebydesign.org/what_is_drm\">Gestão Digital de Restrições</a>)."
+"que impliquem tais consequências (incluindo <a href=\"https://www."
+"defectivebydesign.org/what_is_drm_digital_restrictions_management\">Gestão "
+"Digital de Restrições</a>)."
 
 #. type: Content of: <ul><li><p>
 msgid "<b>Distribute only free software</b>"
@@ -586,9 +589,11 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2011, 2015, 2016, 2017, 2018 Free Software Foundation, Inc."
+"Copyright &copy; 2011, 2015, 2016, 2017, 2018, 2020 Free Software "
+"Foundation, Inc."
 msgstr ""
-"Copyright &copy; 2011, 2015, 2016, 2017, 2018 Free Software Foundation, Inc."
+"Copyright &copy; 2011, 2015, 2016, 2017, 2018, 2020 Free Software "
+"Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -605,9 +610,16 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
-"rafaelff@gnome.org&gt;</a>, 2019."
+"rafaelff@gnome.org&gt;</a>, 2019, 2020."
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid ""
+#~ "Copyright &copy; 2011, 2015, 2016, 2017, 2018 Free Software Foundation, "
+#~ "Inc."
+#~ msgstr ""
+#~ "Copyright &copy; 2011, 2015, 2016, 2017, 2018 Free Software Foundation, "
+#~ "Inc."

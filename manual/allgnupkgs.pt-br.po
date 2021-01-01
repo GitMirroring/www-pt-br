@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: allgnupkgs.html\n"
-"POT-Creation-Date: 2020-12-10 08:57+0000\n"
-"PO-Revision-Date: 2020-12-13 12:10-0300\n"
+"POT-Creation-Date: 2020-12-28 10:58+0000\n"
+"PO-Revision-Date: 2020-12-29 11:56-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -2188,9 +2188,9 @@ msgstr ""
 
 #. type: Content of: <div><dl><dt>
 msgid ""
-"<a href=\"http://www.multiprecision.org/downloads/mpc-1.1.0.pdf\">Mpc</a>"
+"<a href=\"http://www.multiprecision.org/mpc/documentation.html\">MPC</a>"
 msgstr ""
-"<a href=\"http://www.multiprecision.org/downloads/mpc-1.1.0.pdf\">Mpc</a>"
+"<a href=\"http://www.multiprecision.org/mpc/documentation.html\">MPC</a>"
 
 #. type: Content of: <div><dl><dd>
 msgid ""
@@ -5268,6 +5268,11 @@ msgid ""
 msgstr ""
 "XML simples para definição e implementação de linguages de marcação.  [<a "
 "href=\"/software/xmlat/\">página&nbsp;do&nbsp;xmlat</a>]"
+
+#~ msgid ""
+#~ "<a href=\"http://www.multiprecision.org/downloads/mpc-1.1.0.pdf\">Mpc</a>"
+#~ msgstr ""
+#~ "<a href=\"http://www.multiprecision.org/downloads/mpc-1.1.0.pdf\">Mpc</a>"
 
 #~ msgid "<a href=\"/software/gnue/\">GNU Enterprise</a>"
 #~ msgstr "<a href=\"/software/gnue/\">GNU Enterprise</a>"
