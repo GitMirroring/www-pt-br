@@ -1,13 +1,13 @@
 # Brazilian Portuguese translation of https://www.gnu.org/prep/ftp.html
-# Copyright (C) 2020 Free Software Foundation, Inc.
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2019-2020.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2019-2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: ftp.html\n"
-"POT-Creation-Date: 2020-12-01 20:25+0000\n"
-"PO-Revision-Date: 2020-12-13 11:57-0300\n"
+"POT-Creation-Date: 2021-01-18 07:55+0000\n"
+"PO-Revision-Date: 2021-01-18 12:39-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -213,14 +213,6 @@ msgstr "rsync://gnu.mirror.iweb.com/gnu"
 
 #. type: Content of: <ul><li><ul><li>
 msgid ""
-"<a rel=\"nofollow\" href=\"http://mirror.sergal.org/gnu/\">http://mirror."
-"sergal.org/gnu/</a>"
-msgstr ""
-"<a rel=\"nofollow\" href=\"http://mirror.sergal.org/gnu/\">http://mirror."
-"sergal.org/gnu/</a>"
-
-#. type: Content of: <ul><li><ul><li>
-msgid ""
 "<a rel=\"nofollow\" href=\"https://mirror.sergal.org/gnu/\">https://mirror."
 "sergal.org/gnu/</a>"
 msgstr ""
@@ -229,10 +221,10 @@ msgstr ""
 
 #. type: Content of: <ul><li><ul><li>
 msgid ""
-"<a rel=\"nofollow\" href=\"ftp://mirror.sergal.org/gnu/\">ftp://mirror."
+"<a rel=\"nofollow\" href=\"http://mirror.sergal.org/gnu/\">http://mirror."
 "sergal.org/gnu/</a>"
 msgstr ""
-"<a rel=\"nofollow\" href=\"ftp://mirror.sergal.org/gnu/\">ftp://mirror."
+"<a rel=\"nofollow\" href=\"http://mirror.sergal.org/gnu/\">http://mirror."
 "sergal.org/gnu/</a>"
 
 #. type: Content of: <ul><li><ul><li>
@@ -1017,11 +1009,11 @@ msgstr "Omã"
 
 #. type: Content of: <ul><li><ul><li>
 msgid ""
-"<a rel=\"nofollow\" href=\"http://mirror.squ.edu.om/gnu/\">http://mirror.squ."
-"edu.om/gnu/</a>"
+"<a rel=\"nofollow\" href=\"https://mirror.squ.edu.om/gnu/\">https://mirror."
+"squ.edu.om/gnu/</a>"
 msgstr ""
-"<a rel=\"nofollow\" href=\"http://mirror.squ.edu.om/gnu/\">http://mirror.squ."
-"edu.om/gnu/</a>"
+"<a rel=\"nofollow\" href=\"https://mirror.squ.edu.om/gnu/\">https://mirror."
+"squ.edu.om/gnu/</a>"
 
 #. type: Content of: <ul><li>
 msgid "Taiwan"
@@ -1475,22 +1467,6 @@ msgstr "rsync://ftp.fau.de/gnu"
 
 #. type: Content of: <ul><li><ul><li>
 msgid ""
-"<a rel=\"nofollow\" href=\"https://www.singleboersen.com/mirror/gnu/"
-"\">https://www.singleboersen.com/mirror/gnu/</a>"
-msgstr ""
-"<a rel=\"nofollow\" href=\"https://www.singleboersen.com/mirror/gnu/"
-"\">https://www.singleboersen.com/mirror/gnu/</a>"
-
-#. type: Content of: <ul><li><ul><li>
-msgid ""
-"<a rel=\"nofollow\" href=\"http://www.singleboersen.com/mirror/gnu/\">http://"
-"www.singleboersen.com/mirror/gnu/</a>"
-msgstr ""
-"<a rel=\"nofollow\" href=\"http://www.singleboersen.com/mirror/gnu/\">http://"
-"www.singleboersen.com/mirror/gnu/</a>"
-
-#. type: Content of: <ul><li><ul><li>
-msgid ""
 "<a rel=\"nofollow\" href=\"https://mirror.bibleonline.ru/gnu/\">https://"
 "mirror.bibleonline.ru/gnu/</a>"
 msgstr ""
@@ -1788,26 +1764,6 @@ msgstr "rsync://mirrors.mivocloud.com/gnu/"
 #. type: Content of: <ul><li>
 msgid "Netherlands"
 msgstr "Países Baixos"
-
-#. type: Content of: <ul><li><ul><li>
-msgid ""
-"<a rel=\"nofollow\" href=\"https://mirror.serverion.com/gnu\">https://mirror."
-"serverion.com/gnu</a>"
-msgstr ""
-"<a rel=\"nofollow\" href=\"https://mirror.serverion.com/gnu\">https://mirror."
-"serverion.com/gnu</a>"
-
-#. type: Content of: <ul><li><ul><li>
-msgid ""
-"<a rel=\"nofollow\" href=\"http://mirror.serverion.com/gnu\">http://mirror."
-"serverion.com/gnu</a>"
-msgstr ""
-"<a rel=\"nofollow\" href=\"http://mirror.serverion.com/gnu\">http://mirror."
-"serverion.com/gnu</a>"
-
-#. type: Content of: <ul><li><ul><li>
-msgid "rsync://mirror.serverion.com/gnu"
-msgstr "rsync://mirror.serverion.com/gnu"
 
 #. type: Content of: <ul><li><ul><li>
 msgid ""
@@ -2471,12 +2427,8 @@ msgstr ""
 "envio de traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid ""
-"Copyright &copy; 2014, 2015, 2016, 2017, 2018, 2019, 2020 Free Software "
-"Foundation, Inc."
-msgstr ""
-"Copyright &copy; 2014, 2015, 2016, 2017, 2018, 2019, 2020 Free Software "
-"Foundation, Inc."
+msgid "Copyright &copy; 2014-2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2014-2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -2493,12 +2445,57 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
-"rafaelff@gnome.org&gt;</a>, 2019-2020."
+"rafaelff@gnome.org&gt;</a>, 2019-2021."
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid ""
+#~ "<a rel=\"nofollow\" href=\"https://www.singleboersen.com/mirror/gnu/"
+#~ "\">https://www.singleboersen.com/mirror/gnu/</a>"
+#~ msgstr ""
+#~ "<a rel=\"nofollow\" href=\"https://www.singleboersen.com/mirror/gnu/"
+#~ "\">https://www.singleboersen.com/mirror/gnu/</a>"
+
+#~ msgid ""
+#~ "<a rel=\"nofollow\" href=\"http://www.singleboersen.com/mirror/gnu/"
+#~ "\">http://www.singleboersen.com/mirror/gnu/</a>"
+#~ msgstr ""
+#~ "<a rel=\"nofollow\" href=\"http://www.singleboersen.com/mirror/gnu/"
+#~ "\">http://www.singleboersen.com/mirror/gnu/</a>"
+
+#~ msgid ""
+#~ "<a rel=\"nofollow\" href=\"ftp://mirror.sergal.org/gnu/\">ftp://mirror."
+#~ "sergal.org/gnu/</a>"
+#~ msgstr ""
+#~ "<a rel=\"nofollow\" href=\"ftp://mirror.sergal.org/gnu/\">ftp://mirror."
+#~ "sergal.org/gnu/</a>"
+
+#~ msgid ""
+#~ "Copyright &copy; 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021 Free "
+#~ "Software Foundation, Inc."
+#~ msgstr ""
+#~ "Copyright &copy; 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021 Free "
+#~ "Software Foundation, Inc."
+
+#~ msgid ""
+#~ "<a rel=\"nofollow\" href=\"https://mirror.serverion.com/gnu\">https://"
+#~ "mirror.serverion.com/gnu</a>"
+#~ msgstr ""
+#~ "<a rel=\"nofollow\" href=\"https://mirror.serverion.com/gnu\">https://"
+#~ "mirror.serverion.com/gnu</a>"
+
+#~ msgid ""
+#~ "<a rel=\"nofollow\" href=\"http://mirror.serverion.com/gnu\">http://"
+#~ "mirror.serverion.com/gnu</a>"
+#~ msgstr ""
+#~ "<a rel=\"nofollow\" href=\"http://mirror.serverion.com/gnu\">http://"
+#~ "mirror.serverion.com/gnu</a>"
+
+#~ msgid "rsync://mirror.serverion.com/gnu"
+#~ msgstr "rsync://mirror.serverion.com/gnu"
 
 #~ msgid ""
 #~ "<a rel=\"nofollow\" href=\"https://ftp.thunix.net/gnu-ftp\">https://ftp."

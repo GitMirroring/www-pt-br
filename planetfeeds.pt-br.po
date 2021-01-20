@@ -1,13 +1,13 @@
 # Brazilian Portuguese translation of https://www.gnu.org/planetfeeds.html
-# Copyright (C) 2020 Free Software Foundation, Inc.
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2018-2020.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018-2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: planetfeeds.html\n"
-"POT-Creation-Date: 2020-12-31 05:59+0000\n"
-"PO-Revision-Date: 2020-12-31 07:47-0300\n"
+"POT-Creation-Date: 2021-01-18 05:56+0000\n"
+"PO-Revision-Date: 2021-01-18 12:21-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -18,36 +18,163 @@ msgstr ""
 "X-Generator: Gtranslator 3.38.0\n"
 
 #. type: Content of: <p>
-msgid "FSF fights to secure software freedom for future generations"
-msgstr ""
-"A FSF luta para garantir a liberdade de software para as gerações futuras"
-
-#. type: Content of: <p>
-msgid "December GNU Spotlight with Mike Gerwitz: Nineteen new releases"
-msgstr "Holofote GNU de dezembro com Mike Gerwitz: Dezenove novos lançamentos"
+msgid "libsigsegv 2.13 is released"
+msgstr "libsigsegv 2.13 lançado"
 
 #.  TRANSLATORS: 
-#. http://www.fsf.org/blogs/community/december-gnu-spotlight-with-mike-gerwitz-nineteen-new-releases 
-#. type: Content of: <p>
-msgid ": 19 new GNU releases in the last month (as of December 30, 2020):"
-msgstr ""
-": 19 novos lançamentos do GNU no último mês (até 30 de dezembro, 2020):"
-
-#. type: Content of: <p>
-msgid "Gnulib supports portable multithreading"
-msgstr "Gnulib tem suporte multithreading portátil"
-
-#.  TRANSLATORS: 
-#. http://savannah.gnu.org/forum/forum.php?forum_id=9905 
+#. http://savannah.gnu.org/forum/forum.php?forum_id=9918 
 #. type: Content of: <p>
 msgid ""
-": There are three main motivations for using multiple threads in a program: "
-"* To get computational tasks done is less time, by using more than one CPU "
-"c..."
+": libsigsegv version 2.13 is released. New in this release: * Added support "
+"for macOS/arm64. * Added support for Solaris OpenIndiana. * Added support "
+"for catching s..."
 msgstr ""
-": Existem três motivações principais para o uso de vários threads em um "
-"programa: * Para realizar tarefas computacionais é menos tempo, usando "
-"mais..."
+": libsigsegv versão 2.13 lançado. Novo nesta versão: * Adicionado suporte "
+"para macOS/arm64. * Adicionado suporte para Solaris OpenIndiana. * "
+"Adicionado suporte para..."
+
+#. type: Content of: <p>
+msgid ""
+"Celebrating the FSF’s 35th anniversary: Stories from the Licensing and "
+"Compliance Lab"
+msgstr ""
+"Comemorando o 35º aniversário da FSF: histórias do Laboratório de "
+"Licenciamento e Conformidade"
+
+#. type: Content of: <p>
+msgid "Gnulib provides versatile bit-set implementations"
+msgstr "Gnulib fornece implementações versáteis de conjuntos de bits"
+
+#.  TRANSLATORS: 
+#. http://savannah.gnu.org/forum/forum.php?forum_id=9917 
+#. type: Content of: <p>
+msgid ""
+": Gnulib features bitset, a module to support operations on lists of bits. "
+"Its API is rich, and includes: * all the expected operations on sin..."
+msgstr ""
+": Gnulib apresenta bitset, um módulo para oferecer suporte a operações em "
+"listas de bits. Sua API é rica e inclui: * todas as operações esperad..."
+
+#~ msgid "A journey begins: Kofi Oghenerukevwe, FSF Tech Team Intern"
+#~ msgstr ""
+#~ "Uma jornada começa: Kofi Oghenerukevwe, estagiário da equipe técnica da "
+#~ "FSF"
+
+#~ msgid "Watch &quot;Fight to Repair,&quot; demand the right to repair"
+#~ msgstr "Assista a “Fight to Repair”, demande o direito de consertar"
+
+#~ msgid ""
+#~ ": \"Fight to Repair\" is an animated video from the Free Software "
+#~ "Foundation (FSF) about two free software engineers rushing to fix..."
+#~ msgstr ""
+#~ ": “Fight to Repair” é um vídeo animado da Free Software Foundation (FSF) "
+#~ "sobre dois engenheiros de software livre correndo para..."
+
+#~ msgid "GNU findutils 4.8.0 released"
+#~ msgstr "GNU findutils 4.8.0 lançado"
+
+#~ msgid ""
+#~ ": This is to announce findutils-4.8.0, a stable release. See the NEWS "
+#~ "below for more details. GNU findutils is a set of software tools for "
+#~ "finding files that match..."
+#~ msgstr ""
+#~ ": Isso é para anunciar o findutils-4.8.0, uma versão estável. Veja o NEWS "
+#~ "abaixo para mais detalhes. GNU findutils é um conjunto de ferramentas "
+#~ "para localizar arquivos..."
+
+#~ msgid "GNU Wget 1.21.1 Released"
+#~ msgstr "GNU Wget 1.21.1 lançado"
+
+#~ msgid ""
+#~ ": Noteworthy changes in this release: * Fix compilation on MacOS and "
+#~ "Solaris 9 * Remove bashism from configure.ac * Fix a compilation warning "
+#~ "on 32-bit systems"
+#~ msgstr ""
+#~ ": Mudanças dignas de nota neste lançamento: * Correção da compilação no "
+#~ "MacOS e Solaris 9 * Remoção de bashismo do configure.ac * Correção de um "
+#~ "aviso de compilação..."
+
+#~ msgid "GNU Wget 1.21 Released"
+#~ msgstr "GNU Wget 1.21 lançado"
+
+#~ msgid ""
+#~ ": Noteworthy changes in this release: * Improve the number of translated "
+#~ "strings * Remove all uses of alloca. In some places the length of "
+#~ "untrusted strings has been use..."
+#~ msgstr ""
+#~ ": Mudanças dignas de nota neste lançamento: * Melhoria do número de "
+#~ "strings traduzidas * Remoção de todos os usos de alloca. Em alguns "
+#~ "lugares, o comprimento de strings não..."
+
+#~ msgid "Version 3.11.1"
+#~ msgstr "Versão 3.11.1"
+
+#~ msgid ""
+#~ ": Version 3.11.1 of GNU mailutils is available for download. This version "
+#~ "fixes a bug in the library function mu_url_create_hint that caused MH inc "
+#~ "to coredump when called witho..."
+#~ msgstr ""
+#~ ": A versão 3.11.1 do GNU mailutils está disponível para download. Esta "
+#~ "versão corrige um bug na função de biblioteca mu_url_create_hint que "
+#~ "fazia com que MH inc entrasse em..."
+
+#~ msgid "2020 summary"
+#~ msgstr "Resumo de 2020"
+
+#~ msgid ""
+#~ ": Dear www-zh-cn-translators: Thank you all for the great effort in 2020. "
+#~ "Despite the difficulties from many directions, we as a team have achieved "
+#~ "something proudly. 1. This year..."
+#~ msgstr ""
+#~ ": Caros www-zh-cn-translators: Obrigado a todos pelo grande esforço em "
+#~ "2020. Apesar das dificuldades de várias direções, nós, como equipe, "
+#~ "alcançamos algo com orgulho. 1. Este ano..."
+
+#~ msgid "GNU Alive 2.0.3 available"
+#~ msgstr "GNU Alive 2.0.3 disponível"
+
+#~ msgid ""
+#~ ": GNU Alive 2.0.3 is available. Full announcement: * https://mail.gnu.org/"
+#~ "archive/html/info-gnu/2021-01/msg00001.html GNU Alive is a keep-alive "
+#~ "program for internet c..."
+#~ msgstr ""
+#~ ": GNU Alive 2.0.3 está disponível. Anúncio completo: * https://mail.gnu."
+#~ "org/archive/html/info-gnu/2021-01/msg00001.html GNU Alive é um programa "
+#~ "keep-alive para internet c..."
+
+#~ msgid "ArcticFox now on Raspberry 3 - ARM support is back!"
+#~ msgstr "ArcticFox agora no Raspberry 3 - Suporte a ARM está de volta!"
+
+#~ msgid ""
+#~ ": Just completed these days... ArcticFox now runs fine on Raspberry PI 3, "
+#~ "it also compiled natively on it on Raspbian!Coming from PaleMoon w..."
+#~ msgstr ""
+#~ ": Acabei de concluir esses dias... ArcticFox agora funciona bem no "
+#~ "Raspberry PI 3, ele também foi compilado nativamente nele no Raspbian!..."
+
+#~ msgid "FSF fights to secure software freedom for future generations"
+#~ msgstr ""
+#~ "A FSF luta para garantir a liberdade de software para as gerações futuras"
+
+#~ msgid "December GNU Spotlight with Mike Gerwitz: Nineteen new releases"
+#~ msgstr ""
+#~ "Holofote GNU de dezembro com Mike Gerwitz: Dezenove novos lançamentos"
+
+#~ msgid ": 19 new GNU releases in the last month (as of December 30, 2020):"
+#~ msgstr ""
+#~ ": 19 novos lançamentos do GNU no último mês (até 30 de dezembro, 2020):"
+
+#~ msgid "Gnulib supports portable multithreading"
+#~ msgstr "Gnulib tem suporte multithreading portátil"
+
+#~ msgid ""
+#~ ": There are three main motivations for using multiple threads in a "
+#~ "program: * To get computational tasks done is less time, by using more "
+#~ "than one CPU c..."
+#~ msgstr ""
+#~ ": Existem três motivações principais para o uso de vários threads em um "
+#~ "programa: * Para realizar tarefas computacionais é menos tempo, usando "
+#~ "mais..."
 
 #~ msgid "Freedom, memories, and campaigning for free software"
 #~ msgstr "Liberdade, memórias e campanha pelo software livre"
@@ -86,17 +213,6 @@ msgstr ""
 #~ msgstr ""
 #~ "Replicant: um sistema operacional livre para celular é mais importante do "
 #~ "que nunca e precisa da sua ajuda"
-
-#~ msgid "Version 3.11"
-#~ msgstr "Versão 3.11"
-
-#~ msgid ""
-#~ ": Version 3.11 of GNU mailutils is available for download. See the NEWS "
-#~ "file entry for a list of noteworthy changes in this release."
-#~ msgstr ""
-#~ ": A versão 3.11 do GNU mailutils está disponível para download. Consulte "
-#~ "o arquivo NEWS para obter uma lista das mudanças dignas de nota nesta "
-#~ "versão."
 
 #~ msgid "My internship with the FSF tech team and beyond"
 #~ msgstr "Meu estágio com a equipe de tecnologia da FSF e além"
@@ -175,157 +291,89 @@ msgstr ""
 #~ "recutils está se tornando popular no GNU, pensei que seria uma ideia "
 #~ "divertida escrever..."
 
-#, fuzzy
-#~| msgid "Release 2.3 is imminent - please test."
 #~ msgid "Version 2.5 is imminent. Please test!"
-#~ msgstr "Lançamento da 2.3 é iminente - por favor, teste."
+#~ msgstr "Versão 2.5 é iminente. Por favor, teste!"
 
-#, fuzzy
-#~| msgid "Support software freedom: Shop the GNU Press"
 #~ msgid "Support user freedom by purchasing gifts from the GNU Press Shop"
-#~ msgstr "Apoio a liberdade de software: Compre na GNU Press"
+#~ msgstr "Apoie a liberdade de usuário comprando presentes da GNU Press Shop"
 
-#, fuzzy
-#~| msgid "GNU Guile 2.9.8 (beta) released"
-#~ msgid "GNU Guix 1.2.0 released"
-#~ msgstr "GNU Guile 2.9.8 (beta) lançado"
-
-#, fuzzy
-#~| msgid "GNU Parallel 20200522 (&#39;Kraftwerk&#39;) released"
 #~ msgid "GNU Parallel 20201122 (&#39;Biden&#39;) released [stable]"
-#~ msgstr "GNU Parallel 20200522 (&#39;Kraftwerk&#39;) lançado"
+#~ msgstr "GNU Parallel 20201122 (&#39;Biden&#39;) lançado [estável]"
 
-#, fuzzy
-#~| msgid ""
-#~| ": GNU Parallel 20200522 (&#39;Kraftwerk&#39;) has been released. It is "
-#~| "available for download at: http://ftpmirror.gnu.org/parallel/ Quote..."
 #~ msgid ""
 #~ ": GNU Parallel 20201122 (&#39;Biden&#39;) [stable] has been released. It "
 #~ "is available for download at: http://ftpmirror.gnu.org/parall..."
 #~ msgstr ""
-#~ ": GNU Parallel 20200522 (&#39;Kraftwerk&#39;) foi lançado. Está "
-#~ "disponível para download em: http://ftpmirror.gnu.org/parallel/ ..."
+#~ ": GNU Parallel 20201122 (&#39;Biden&#39;) [estável] foi lançado. Está "
+#~ "disponível para download em: http://ftpmirror.gnu.org/parallel/..."
 
-#, fuzzy
-#~| msgid "automake-1.16.2 released [stable]"
 #~ msgid "automake-1.16.3 released [stable]"
-#~ msgstr "automake-1.16.2 lançado [estável]"
+#~ msgstr "automake-1.16.3 lançado [estável]"
 
-#, fuzzy
-#~| msgid ""
-#~| ": This is to announce automake-1.16.2, a stable release. There have been "
-#~| "38 commits by 12 people in the two years (almost to the day) since "
-#~| "1.16.1. Special th..."
 #~ msgid ""
 #~ ": This is to announce automake-1.16.3, a stable release. There have been "
 #~ "62 commits by 15 people in the 35 weeks since 1.16.2.  Special thanks to "
 #~ "Karl Berry an..."
 #~ msgstr ""
-#~ ": Isso é para anunciar o automake-1.16.2, uma versão estável. Houve 38 "
-#~ "commits por 12 pessoas nos dois anos (quase para o dia) desde 1.16.1. "
-#~ "Agradecimento especial..."
+#~ ": Isso é para anunciar o automake-1.16.3, uma versão estável. Houve 62 "
+#~ "commits por 15 pessoas nas 35 semanas desde o 1.16.2. Agradecimento "
+#~ "especial para Karl..."
 
-#, fuzzy
-#~| msgid "libredwg-0.10 released"
 #~ msgid "libredwg-0.11.1 released (bugfixes)"
-#~ msgstr "libredwg-0.10 lançado"
+#~ msgstr "libredwg-0.11.1 lançado (correções de bugs)"
 
-#, fuzzy
-#~| msgid "GNUnet 0.13.3"
 #~ msgid "GNUnet 0.14.0"
-#~ msgstr "GNUnet 0.13.3"
+#~ msgstr "GNUnet 0.14.0"
 
-#, fuzzy
-#~| msgid ""
-#~| ": 2019-10-30: GNUnet 0.11.8 released We are pleased to announce the "
-#~| "release of GNUnet 0.11.8. This is a hotfix release for 0.11.7. <i>As "
-#~| "always:</i> In terms of usabilit..."
 #~ msgid ""
 #~ ": GNUnet 0.14.0 released We are pleased to announce the release of GNUnet "
 #~ "0.14.0. This is a new major release. It breaks protocol compatibility "
 #~ "with the 0.13.x versions. Please b..."
 #~ msgstr ""
-#~ ": 2019-10-30: GNUnet 0.11.8 lançado Temos o prazer de anunciar o "
-#~ "lançamento do GNUnet 0.11.8. Esse é um lançamento de correção de erros "
-#~ "para 0.11.7. <i>Como sempre:</i> em..."
+#~ ": GNUnet 0.14.0 lançado Temos o prazer de anunciar o lançamento do GNUnet "
+#~ "0.14.0. Esse é um lançamento principal. Ele quebra a compatibilidade de "
+#~ "protocolo com as versões 0.13.x..."
 
-#, fuzzy
-#~| msgid "[From Arch] libbloom&gt;=1.6-2 update requires manual intervention"
 #~ msgid "[From Arch 32] plasma-workspace needs manual intervention"
-#~ msgstr ""
-#~ "[Do Arch] Atualização do libbloom&gt;=1.6-2 exige intervenção manual"
+#~ msgstr "[Do Arch 32] plasma-workspace precisa de intervenção manual"
 
-#, fuzzy
-#~| msgid ""
-#~| ": The libbloom package prior to version 1.6-2 was missing a soname link. "
-#~| "This has been fixed in 1.6-2, so the upgrade will ne..."
 #~ msgid ""
 #~ ": The libtraceevent package prior to version 5.9-1 was missing a soname "
 #~ "link. This has been fixed in 5.9-1, so the upgra..."
 #~ msgstr ""
-#~ ": O pacote libbloom antes da versão 1.6-2 não possuía um link de soname. "
-#~ "Isso foi corrigido em 1.6-2, então a atualização..."
+#~ ": O pacote libtraceevent antes da versão 5.9-1 não possuía um link de "
+#~ "soname. Isso foi corrigido em 5.9-1, então a atuali..."
 
-#, fuzzy
-#~| msgid "GNU APL 1.8 Released"
-#~ msgid "GNU MDK 1.2.11 released"
-#~ msgstr "GNU APL 1.8 lançado"
-
-#, fuzzy
-#~| msgid ""
-#~| ": BOSTON, Massachusetts, USA -- Friday, February 28, 2020 -- The Free "
-#~| "Software Foundation (FSF) today announced Sha..."
 #~ msgid ""
 #~ ": BOSTON, Massachusetts, USA -- Tuesday, October 6, 2020 -- On October "
 #~ "4th, the Free Software Foundation (FSF) t..."
 #~ msgstr ""
-#~ ": BOSTON, Massachusetts, EUA -- sexta-feira, 28 de fevereiro de 2020 -- A "
-#~ "Free Software Foundation (FSF) anunciou..."
+#~ ": BOSTON, Massachusetts, EUA -- terça-feira, 6 de outubro de 2020 -- Em 4 "
+#~ "de outubro, a Free Software Foundation (FSF)..."
 
-#, fuzzy
-#~| msgid ""
-#~| ": LibrePlanet started out as a gathering of Free Software Foundation "
-#~| "(FSF) associate members, and has remained a commu..."
 #~ msgid ""
 #~ ": Thirty-five years after the founding of the Free Software Foundation "
 #~ "(FSF), its mission is more important than ever, an..."
 #~ msgstr ""
-#~ ": LibrePlanet começou como uma reunião de membros associados da Free "
-#~ "Software Foundation (FSF) e permaneceu uma comunidade..."
+#~ ": Trinta e cinco anos após a fundação da Free Software Foundation (FSF), "
+#~ "sua missão é mais importante do que nunca, e..."
 
-#, fuzzy
-#~| msgid ""
-#~| ": This is to announce grep-3.4, a stable release.  Special thanks to "
-#~| "Paul Eggert and Norihiro Tanaka for their many fine contributions. There "
-#~| "have been 71 commits by..."
 #~ msgid ""
 #~ ": This is to announce grep-3.5, a stable release. Thanks especially to "
 #~ "Paul Eggert, Norihiro Tanaka and Bruno Haible for changes both in grep "
 #~ "proper and in gnulib. T..."
 #~ msgstr ""
-#~ ": Isto é para anunciar o grep-3.4, um lançamento estável. Agradecimentos "
-#~ "especiais a Paul Eggert e Norihiro Tanaka por suas muitas contribuições. "
-#~ "Houve 71 commits por..."
+#~ ": Isto é para anunciar o grep-3.5, um lançamento estável. Agradecimentos "
+#~ "especiais a Paul Eggert, Norihiro Tanaka e Bruno Haible por mudanças no "
+#~ "grep em si e no gnulib..."
 
-#, fuzzy
-#~| msgid "Introducing Valessio Brito, intern with the FSF tech team"
 #~ msgid "Hello world from Eostre Emily Danne, intern with the FSF tech team"
-#~ msgstr "Apresentando Valessio Brito, estagiário na equipe técnica da FSF"
-
-#, fuzzy
-#~| msgid ""
-#~| ": https://www.theverge.com/2020/7/24/21337669/google-nest-thermostat-w5-"
-#~| "wifi-issue-remote-c..."
-#~ msgid ": https://9to5google.com/2020/09/11/new-google-nest-thermostat-fcc/"
 #~ msgstr ""
-#~ ": https://www.theverge.com/2020/7/24/21337669/google-nest-thermostat-w5-"
-#~ "wifi-issue-remote-c..."
+#~ "“Olá, mundo” de Eostre Emily Danne, estagiário na equipe técnica da FSF"
 
-#, fuzzy
-#~| msgid ""
-#~| ": Read, sign, and share the petition: https://my.fsf.org/give-students-"
-#~| "userfreedom Use this embed code to add this image to your Web site or "
-#~| "blo..."
+#~ msgid ": https://9to5google.com/2020/09/11/new-google-nest-thermostat-fcc/"
+#~ msgstr ": https://9to5google.com/2020/09/11/new-google-nest-thermostat-fcc/"
+
 #~ msgid ""
 #~ ": Leia, assine e compartilhe a petição: https://my.fsf.org/give-students-"
 #~ "userfreedom Use este código de incorporação para adicionar esta imag..."
@@ -364,42 +412,29 @@ msgstr ""
 #~ "libfreeipmi, adiciona falha de segmento na análise de SMPI levando para "
 #~ "falhas imediatas em alguns..."
 
-#, fuzzy
-#~| msgid ""
-#~| ": * autogen-5.18.16 * gdb-8.1.1 * gdbm-1.18 * glibc-2.28 * gnuastro-0.7 "
-#~| "* guile-debbugs-0.0.2 * libredwg-0.6 * librejs-7.15.0 * linux-libr..."
 #~ msgid ""
 #~ ": * bison-3.7.1 * emacs-27.1 * glibc-2.32 * gnuhealth-3.6.5 * "
 #~ "gnunet-0.13.2 * libredwg-0.11 * linux-libre-5.8 * mailutils-3.10 * "
 #~ "mcron-..."
 #~ msgstr ""
-#~ ": * autogen-5.18.16 * gdb-8.1.1 * gdbm-1.18 * glibc-2.28 * gnuastro-0.7 * "
-#~ "guile-debbugs-0.0.2 * libredwg-0.6 * librejs-7.15.0 * linux-libr..."
+#~ ": * bison-3.7.1 * emacs-27.1 * glibc-2.32 * gnuhealth-3.6.5 * "
+#~ "gnunet-0.13.2 * libredwg-0.11 * linux-libre-5.8 * mailutils-3.10 * "
+#~ "mcron-..."
 
-#, fuzzy
-#~| msgid "GNU lightning 2.1.3 released!"
 #~ msgid "GNU nano 5.2 was released"
-#~ msgstr "GNU lightning 2.1.3 lançado!"
+#~ msgstr "GNU nano 5.2 foi lançado"
 
-#, fuzzy
-#~| msgid ""
-#~| "Submit a session proposal for LibrePlanet 2020 conference: Free the "
-#~| "Future by Nov. 20"
 #~ msgid "Submit your session for LibrePlanet 2021 before Oct. 28"
 #~ msgstr ""
-#~ "Envie sua proposta de sessão para a conferência LibrePlanet 2020: Free "
-#~ "the Future até 20 de novembro"
+#~ "Envie sua proposta de sessão para a conferência LibrePlanet 2021 antes de "
+#~ "28 de outubro"
 
-#, fuzzy
-#~| msgid ""
-#~| ": It&#39;s always hard to know how to sum up LibrePlanet -- the Free "
-#~| "Software Foundation&#39;s (FSF) annual conference is an inspiring, in..."
 #~ msgid ""
 #~ ": Dear Translators: From FSF The thirteenth edition of the Free Software "
 #~ "Foundation&#39;s (FSF) conference on technology and social just..."
 #~ msgstr ""
-#~ ": É sempre difícil saber como resumir o LibrePlanet – a conferência anual "
-#~ "da Free Software Foundation (FSF) é um final de semana inspirador, ..."
+#~ ": Caros tradutores: Da FSF A décima terceira edição da conferência da "
+#~ "Free Software Foundation (FSF) sobre tecnologia e justiça social..."
 
 #, fuzzy
 #~| msgid ""
@@ -415,10 +450,8 @@ msgstr ""
 #~ "Prioridade: Alta Conteúdo * Sobre os Patchsets do GNU Health * "
 #~ "Atualizando seu sistema..."
 
-#, fuzzy
-#~| msgid "Planet clean-up"
 #~ msgid "Planet upgrade"
-#~ msgstr "Limpeza do Planet"
+#~ msgstr "Atualização do Planet"
 
 #, fuzzy
 #~| msgid ""
@@ -506,20 +539,14 @@ msgstr ""
 #~ "pessoa pode fazer a diferença. Nossa principal tarefa, como a principal "
 #~ "organização na..."
 
-#, fuzzy
-#~| msgid "Resisting Proprietary Software"
 #~ msgid "Malware in Proprietary Software - Latest Additions"
-#~ msgstr "Resistindo a software proprietário"
+#~ msgstr "Malware em software proprietário - Últimas adições"
 
-#, fuzzy
-#~| msgid "GNU Health GTK CLient 3.6.8 released"
 #~ msgid "GNU Health Control Center 3.6.5 supports Weblate"
-#~ msgstr "GNU Health GTK CLient 3.6.8 lançado"
+#~ msgstr "GNU Health Control Center 3.6.5 apoia o Weblate"
 
-#, fuzzy
-#~| msgid "GNU Guile 2.9.8 (beta) released"
 #~ msgid "GNU Guile 3.0.4 released"
-#~ msgstr "GNU Guile 2.9.8 (beta) lançado"
+#~ msgstr "GNU Guile 3.0.4 lançado"
 
 #~ msgid ""
 #~ "GNU is Looking for Native English Speakers for Proofreading and "
@@ -676,30 +703,22 @@ msgstr ""
 #~ "uma concessão da fundação NLnet para pagar por uma auditoria de segurança "
 #~ "externa..."
 
-#, fuzzy
-#~| msgid ""
-#~| ": * autogen-5.18.16 * bison-3.1 * dico-2.7 * gdb-8.2 * gnupg-2.2.10 * "
-#~| "gnu-pw-mgr-2.4.2 * gnutls-3.6.4 * guile-cv-0.2.0 * help2man-1.47.7 *..."
 #~ msgid ""
 #~ ": * automake-1.16.2 * bison-3.5.3 * coreutils-8.32 * ddrescue-1.25 * "
 #~ "gcc-9.3.0 * guile-3.0.1 * gwl-0.2.1 * help2man-1.47.13 * hyp..."
 #~ msgstr ""
-#~ ": * autogen-5.18.16 * bison-3.1 * dico-2.7 * gdb-8.2 * gnupg-2.2.10 * gnu-"
-#~ "pw-mgr-2.4.2 * gnutls-3.6.4 * guile-cv-0.2.0 * help2man-1.47.7 *..."
+#~ ": * automake-1.16.2 * bison-3.5.3 * coreutils-8.32 * ddrescue-1.25 * "
+#~ "gcc-9.3.0 * guile-3.0.1 * gwl-0.2.1 * help2man-1.47.13 * hyp..."
 
 #~ msgid "Looking back at LibrePlanet 2020: Freeing the future together"
 #~ msgstr "Olhando para trás no LibrePlanet 2020: Libertando o futuro juntos"
 
-#, fuzzy
-#~| msgid ""
-#~| ": On March 14 and 15, the Free Software Foundation (FSF) held "
-#~| "LibrePlanet 2020: Free the Future online..."
 #~ msgid ""
 #~ ": On March 14 and 15, the Free Software Foundation (FSF) held LibrePlanet "
 #~ "2020: Free the Future online. The virtual edition of Lib..."
 #~ msgstr ""
-#~ ": Nos dias 14 e 15 de março, a Free Software Foundation (FSF) realizou o "
-#~ "LibrePlanet 2020: Free the Future on-line..."
+#~ ": Nos dias 14 e 15 de março, a Free Software Foundation (FSF) realizou a "
+#~ "LibrePlanet 2020: Free the Future on-line. A edição virtual..."
 
 #~ msgid ""
 #~ ": Hi, All: Today we have a new member joining in our project. Let&#39;s "
@@ -751,33 +770,23 @@ msgstr ""
 #~ ": Este ano foi a primeira vez que a FSF ofereceu seu Award for "
 #~ "Outstanding New Free Software..."
 
-#, fuzzy
-#~| msgid ""
-#~| ": We are delighted to announce GNU Guile 2.9.4, the fourth beta release "
-#~| "in preparation for the upcoming 3.0 stable series. See the release "
-#~| "announcement for full..."
 #~ msgid ""
 #~ ": We are pleased to announce GNU Guile 3.0.1, the first bug-fix release "
 #~ "of the new 3.0 stable series! This release represents 45 commits by 7 "
 #~ "people since version 3.0..."
 #~ msgstr ""
-#~ ": Estamos muito felizes em anunciar o GNU Guile 2.9.4, o quarto "
-#~ "lançamento beta em preparação para a próxima série de lançamentos "
-#~ "estáveis 3.0. Esse lançamento..."
+#~ ": Estamos muito felizes em anunciar o GNU Guile 3.0.1, o primeiro "
+#~ "lançamento de correção de erros da nova série estável 3.0! Este "
+#~ "lançamento representa 45 commits por 7 pessoas..."
 
-#, fuzzy
-#~| msgid ""
-#~| ": We are delighted to announce GNU Guile 2.9.4, the fourth beta release "
-#~| "in preparation for the upcoming 3.0 stable series. See the release "
-#~| "announcement for full..."
 #~ msgid ""
 #~ ": We are pleased to announce GNU Guile 2.2.7, the seventh bug-fix release "
 #~ "of the “legacy” 2.2 series (the current stable series is 3.0). This "
 #~ "release represents 17 com..."
 #~ msgstr ""
-#~ ": Estamos muito felizes em anunciar o GNU Guile 2.9.4, o quarto "
-#~ "lançamento beta em preparação para a próxima série de lançamentos "
-#~ "estáveis 3.0. Esse lançamento..."
+#~ ": Estamos muito felizes em anunciar o GNU Guile 2.2.7, o sétimo "
+#~ "lançamento de correção de série legada 2.2 (a série estável atual é 3.0). "
+#~ "Este lançamento representa 17 com..."
 
 #~ msgid ""
 #~ "LibrePlanet 2020: In-person component canceled, but we&#39;ll see you "
@@ -803,15 +812,6 @@ msgstr ""
 #~ msgstr ""
 #~ ": O Dia Internacional da Mulher está chegando neste domingo, 8 de março, "
 #~ "e é a oportunidade perfeita para destacar a conquista..."
-
-#~ msgid ""
-#~ ": This is to announce coreutils-8.32, a stable release.  See the NEWS "
-#~ "below for more details. Thanks to everyone who has contributed! There "
-#~ "have been 100 commit..."
-#~ msgstr ""
-#~ ": Isso é para anunciar o coreutils-8.32, uma versão estável. Veja o NEWS "
-#~ "abaixo para mais detalhes. Obrigado a todos que contribuíram! Houve 100 "
-#~ "commits..."
 
 #~ msgid "Update on COVID-19 and LibrePlanet 2020"
 #~ msgstr "Atualização sobre COVID-19 e LibrePlanet 2020"
@@ -1088,9 +1088,6 @@ msgstr ""
 #~ "lançamento de todos os tempos! Melhor que 3,4, embora tenha sido uma "
 #~ "grande melhoria em relação..."
 
-#~ msgid "2019 summary"
-#~ msgstr "Resumo 2019"
-
 #~ msgid ""
 #~ ": By GNU Dear GNU translators! This year, the number of new translations "
 #~ "was similar to 2018, but our active teams generally tracked the changes "
@@ -1220,15 +1217,11 @@ msgstr ""
 #~ "TechCrunch - Agora, até o FBI está alertando sobre a segurança da sua "
 #~ "“Smart” TV"
 
-#, fuzzy
-#~| msgid ": https://techcrunch.com/2019/12/01/fbi-smart-tv-security/amp/"
 #~ msgid ": https://techcrunch.com/2019/12/01/fbi-smart-tv-security/amp/"
 #~ msgstr ": https://techcrunch.com/2019/12/01/fbi-smart-tv-security/amp/"
 
-#, fuzzy
-#~| msgid "FSF job opportunity: web developer"
 #~ msgid "Contract opportunity: Bookkeeper"
-#~ msgstr "Oportunidade de trabalho na FSF: desenvolvedor web"
+#~ msgstr "Oportunidade de contrato: Escriturário"
 
 #~ msgid "What&#39;s new in the GNU Press Shop"
 #~ msgstr "O que há de novo na GNU Press Shop"
@@ -1284,13 +1277,12 @@ msgstr ""
 #~ "série GNU Health 3.6 ! Esta versão é o resultado de muitos "
 #~ "desenvolvimentos e integração de..."
 
-#, fuzzy
-#~| msgid "Respects Your Freedom certification program continues to grow"
 #~ msgid ""
 #~ ": The Respects Your Freedom (RYF) certification program helps to connect "
 #~ "users with retaile..."
 #~ msgstr ""
-#~ "O programa de certificação Respeita sua Liberdade continua a crescer"
+#~ ": O programa de certificação Respects Your Freedom (RYF) ajuda a conectar "
+#~ "usuários a varejis..."
 
 #~ msgid "GNU Health 3.6RC3 available at community server &amp; demo database"
 #~ msgstr ""
@@ -1318,13 +1310,6 @@ msgstr ""
 #~ msgid "Last call for Free Software Awards nominations: Submit by 11/6"
 #~ msgstr ""
 #~ "Última chamada para indicações ao Free Software Awards: Envie até 11/6"
-
-#~ msgid ""
-#~ ": The nomination period for the Free Software Foundation (FSF)&#39;s "
-#~ "annual Free Software Awards is drawing to a close on Novembe..."
-#~ msgstr ""
-#~ ": O período de nomeação para o prêmio anual da Free Software Foundation "
-#~ "(FSF) está chegando ao fim em Novembro..."
 
 #~ msgid "IDAD 2019: Thank you for defending the right to read!"
 #~ msgstr "IDAD 2019: Obrigado por defender o direito de ler!"
@@ -1355,17 +1340,14 @@ msgstr ""
 #~ msgid "No radical changes in the GNU Project"
 #~ msgstr "Nenhuma mudança radical no Projeto GNU"
 
-#, fuzzy
-#~| msgid ""
-#~| ": Chief GNUisance Richard Stallman announces there will be no radical "
-#~| "changes in the GNU Project..."
 #~ msgid ""
 #~ ": Chief GNUisance Richard Stallman announces there will be no radical "
 #~ "changes in the GNU Project: From: Richard Stallman Subject: No radical "
 #~ "changes in GN..."
 #~ msgstr ""
-#~ ": <em>Cheif GNUisance</em> Richard Stallman anuncia que não haverá "
-#~ "mudanças radicais no Projeto GNU..."
+#~ ": O Chefe <em>GNUisance</em> Richard Stallman anuncia que não haverá "
+#~ "mudanças radicais no Projeto GNU: De: Richard Stallman Assunto: Nenhuma "
+#~ "mudança radic..."
 
 #~ msgid "Styled output in Poke programs"
 #~ msgstr "Saída estilizada em programas do Poke"
@@ -1943,9 +1925,6 @@ msgstr ""
 #~ msgstr ""
 #~ ": Recentemente adicionamos duas novas licenças à nossa lista de Várias "
 #~ "Licenças e Comentários Sobre Elas e n..."
-
-#~ msgid "2.23 released"
-#~ msgstr "Gengetopt 2.23 lançado"
 
 #~ msgid ""
 #~ ": New version (2.23) was released. Main changes were in build system, so "

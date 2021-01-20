@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary-tyrants.html\n"
-"POT-Creation-Date: 2020-11-23 14:26+0000\n"
+"POT-Creation-Date: 2021-01-18 12:56+0000\n"
 "PO-Revision-Date: 2020-02-06 21:14-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -248,7 +248,10 @@ msgstr ""
 "contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2014-2020 Free Software Foundation, Inc."
+# | Copyright &copy; 2014-202[-0-]{+1+} Free Software Foundation, Inc.
+#, fuzzy
+#| msgid "Copyright &copy; 2014-2020 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2014-2021 Free Software Foundation, Inc."
 msgstr "Copyright &copy; 2014-2020 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
