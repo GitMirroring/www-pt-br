@@ -1,22 +1,23 @@
 # Brazilian Portuguese translation of http://www.gnu.org/gnu/gnu-users-never-heard-of-gnu.html
-# Copyright (C) 2019 Free Software Foundation, Inc.
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Hudson Flavio Meneses Lacerda <hfmlacerda@yahoo.com.br>, 2014
 # Daniel Pimentel <d4n1@d4n1.org>, 2016
-# Rafael Fontenelle <rafaelff@gnome.org>, 2017, 2019.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017-2021.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: gnu-users-never-heard-of-gnu.html\n"
-"POT-Creation-Date: 2019-03-22 00:25+0000\n"
-"PO-Revision-Date: 2019-03-22 04:58-0200\n"
+"POT-Creation-Date: 2021-04-07 17:55+0000\n"
+"PO-Revision-Date: 2021-04-20 05:17-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 1.0.0-beta1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -27,17 +28,14 @@ msgstr ""
 "Foundation"
 
 #. type: Content of: <h2>
-msgid "GNU Users Who Have Never Heard of GNU"
-msgstr "Usuários do GNU que nunca ouviram falar do GNU"
+msgid "GNU Users Who Have Never Heard of&nbsp;GNU"
+msgstr "Usuários do GNU que nunca ouviram falar do&nbsp;GNU"
 
-#. type: Content of: <p>
-msgid ""
-"<strong>by <a href=\"http://www.stallman.org/\">Richard Stallman</a></strong>"
-msgstr ""
-"<strong>por <a href=\"http://www.stallman.org/\">Richard Stallman</a></"
-"strong>"
+#. type: Content of: <address>
+msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
+msgstr "por <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 
-#. type: Content of: <div><blockquote><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "To learn more about this issue, you can also read our <a href=\"/gnu/gnu-"
 "linux-faq.html\">GNU/Linux FAQ</a>, our page on <a href=\"/gnu/why-gnu-linux."
@@ -49,7 +47,7 @@ msgstr ""
 "gnu-linux.html\">Por que GNU/Linux?</a> e nossa página sobre <a href=\"/gnu/"
 "linux-and-gnu.html\">Linux e o Projeto GNU</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Most people have never heard of GNU.  Even most of the people who use the "
 "GNU system have never heard of GNU, since so many people and companies teach "
@@ -64,7 +62,7 @@ msgstr ""
 "que dizer que você está “dirigindo seu carburador” ou “dirigindo sua "
 "transmissão”."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Nonetheless, those who know about GNU associate it with the ideals of "
 "freedom of the free software movement.  That association is no accident; the "
@@ -76,7 +74,7 @@ msgstr ""
 "motivo pelo qual o desenvolvimento GNU foi especificamente feito para "
 "possibilitar o seu uso em um computador e ter liberdade."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "A person seeing the name &ldquo;GNU&rdquo; for the first time in &ldquo;GNU/"
 "Linux&rdquo; won't immediately know what it represents, but has come one "
@@ -94,7 +92,7 @@ msgstr ""
 "a> e na Wikipédia. Isso existe ao redor da web; se esses usuários "
 "pesquisarem por GNU, eles encontrarão as ideias que o GNU defende."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "If they don't search, they may encounter them anyway.  The <a href=\"/"
 "philosophy/open-source-misses-the-point.html\">&ldquo;open source&rdquo;</a> "
@@ -115,7 +113,7 @@ msgstr ""
 "resultado de uma campanha por liberdade e comunidade) se eles sabem que são "
 "usuários do sistema GNU."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Over time, calling the system &ldquo;GNU/Linux&rdquo; spreads awareness of "
 "the ideals of freedom for which we developed the GNU system.  It is also "
@@ -160,14 +158,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
@@ -175,15 +173,15 @@ msgstr ""
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas deste site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2006, 2007, 2013, 2014, 2015, 2017, 2019 Free Software "
+"Copyright &copy; 2006, 2007, 2013-2015, 2017, 2019, 2021 Free Software "
 "Foundation, Inc."
 msgstr ""
-"Copyright &copy; 2006, 2007, 2013, 2014, 2015, 2017, 2019 Free Software "
+"Copyright &copy; 2006, 2007, 2013-2015, 2017, 2019, 2021 Free Software "
 "Foundation, Inc."
 
 #. type: Content of: <div><p>
@@ -208,3 +206,10 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid ""
+#~ "<strong>by <a href=\"http://www.stallman.org/\">Richard Stallman</a></"
+#~ "strong>"
+#~ msgstr ""
+#~ "<strong>por <a href=\"http://www.stallman.org/\">Richard Stallman</a></"
+#~ "strong>"

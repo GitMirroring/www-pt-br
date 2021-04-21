@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: outdated.html\n"
-"POT-Creation-Date: 2014-07-22 15:55+0000\n"
+"POT-Creation-Date: 2021-04-13 17:56+0000\n"
 "PO-Revision-Date: 2015-09-01 15:09-0300\n"
 "Last-Translator: Bruno Félix Rezende Ribeiro <oitofelix@gnu.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -20,14 +20,14 @@ msgstr ""
 #. #set var="ORIGINAL_LINK" value="<a href=\"${ORIGINAL_FILE}.en\">" 
 #. #if expr='${OUTDATED_SINCE}' 
 #.  TRANSLATORS: The date will follow this string. 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid "This translation may not reflect the changes made since"
 msgstr "Esta tradução pode não refletir as alterações feitas desde"
 
 #
 #. #echo encoding="none" var="OUTDATED_SINCE" 
 #. TRANSLATORS: The link to the English page will follow this string. 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid "in the"
 msgstr "ao"
 
@@ -35,18 +35,18 @@ msgstr "ao"
 #. #echo encoding="none" var="ORIGINAL_LINK" 
 #. TRANSLATORS: The text of the link; the next string is the last part
 #.              of the sentence (just a period in English). 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid "English original"
 msgstr "original em Inglês"
 
-#. type: Content of: <div>
+#. type: Content of: <div><div>
 msgid "."
 msgstr "."
 
 #
 #. #else 
 #. TRANSLATORS: The link to the English page will follow this string. 
-#. type: Content of: <div>
+#. type: Content of: <div><div>
 msgid "This translation may not reflect the latest changes to"
 msgstr "Esta tradução pode não refletir as alterações mais recentes ao"
 
@@ -54,21 +54,20 @@ msgstr "Esta tradução pode não refletir as alterações mais recentes ao"
 #. #echo encoding="none" var="ORIGINAL_LINK" 
 #. TRANSLATORS: The text of the link; the next string is the last part
 #.              of the sentence (just a period in English). 
-#. type: Content of: <div>
+#. type: Content of: <div><div>
 msgid "the English original"
 msgstr "original em Inglês"
 
-#. type: Content of: outside any tag (error?)
+#. type: Content of: <div>
 msgid "<span>.</span>"
 msgstr "<span>.</span>"
 
 #
-#. #endif 
 #. #if expr='${DIFF_FILE}' 
 #. #set var="DIFF_LINK" value="<a href=\"${DIFF_FILE}\">" 
 #. TRANSLATORS: The link to the page with differences
 #.              will follow this string. 
-#. type: Content of: outside any tag (error?)
+#. type: Content of: <p>
 msgid "You should take a look at"
 msgstr "Você deveria dar uma olhada"
 
@@ -76,7 +75,7 @@ msgstr "Você deveria dar uma olhada"
 #. #echo encoding="none" var="DIFF_LINK" 
 #. TRANSLATORS: The text of the link; the next string is the last part
 #.              of the sentence (just a period in English). 
-#. type: Content of: outside any tag (error?)
+#. type: Content of: <p>
 msgid "those changes"
 msgstr "nas alterações"
 

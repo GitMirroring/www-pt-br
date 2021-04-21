@@ -1,13 +1,13 @@
 # Brazilian Portuguese translation of https://www.gnu.org/help/help.html
-# Copyright (C) 2020 Free Software Foundation, Inc.
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2017-2020.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017-2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: help.html\n"
-"POT-Creation-Date: 2020-10-16 14:26+0000\n"
-"PO-Revision-Date: 2020-12-13 12:06-0300\n"
+"POT-Creation-Date: 2021-03-08 19:25+0000\n"
+"PO-Revision-Date: 2021-03-15 11:01-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -119,12 +119,14 @@ msgstr ""
 #. type: Content of: <ul><li>
 msgid ""
 "Write a Firefox extension that will replace the nonfree Javascript code of "
-"some useful web site (when that nonfree code is blocked by LibreJS).  Either "
-"pick a site yourself, or ask for suggestions."
+"some useful web site (when that nonfree code is blocked by LibreJS).  Please "
+"see our <a href=\"/help/help-javascript.html\"> guidelines and suggestions</"
+"a>."
 msgstr ""
 "Escreva uma extensão do Firefox que substitua o código Javascript não livre "
 "de algum site útil (quando esse código não livre for bloqueado pelo "
-"LibreJS). Escolha você mesmo um site ou peça sugestões."
+"LibreJS). Veja nossas <a href=\"/help/help-javascript.html\"> diretrizes e "
+"sugestões</a>."
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -634,11 +636,11 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid ""
 "Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, "
-"2006, 2007, 2008, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020 Free "
+"2006, 2007, 2008, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021 Free "
 "Software Foundation, Inc."
 msgstr ""
 "Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, "
-"2006, 2007, 2008, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020 Free "
+"2006, 2007, 2008, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021 Free "
 "Software Foundation, Inc."
 
 #. type: Content of: <div><p>
@@ -656,7 +658,7 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "<b>Traduzido por:</b> Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org"
-"\">&lt;rafaelff@gnome.org&gt;</a>, 2017-2020."
+"\">&lt;rafaelff@gnome.org&gt;</a>, 2017-2021."
 
 #.  timestamp start 
 #. type: Content of: <div><p>

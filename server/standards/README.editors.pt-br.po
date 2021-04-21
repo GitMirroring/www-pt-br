@@ -1,124 +1,129 @@
 # Brazilian Portuguese translation of http://www.gnu.org/server/standards/README.editors.html
-# Copyright (C) 2017 Free Software Foundation, Inc.
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2017, 2018.
 # Adonay Felipe Nogueira, 2017 (proofread).
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017-2021.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: README.editors.html\n"
-"POT-Creation-Date: 2018-09-09 10:56+0000\n"
-"PO-Revision-Date: 2018-09-09 09:27-0200\n"
+"POT-Creation-Date: 2021-03-05 12:56+0000\n"
+"PO-Revision-Date: 2021-03-06 21:42-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 1.0.0-beta1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 3.38.0\n"
 
 #. type: Content of: <title>
 msgid ""
-"Guidelines for Writing Web Pages at www.gnu.org - GNU Project - Free "
+"Guidelines for Writing Web Pages for www.gnu.org - GNU Project - Free "
 "Software Foundation"
 msgstr ""
-"Diretrizes para Escrever Páginas Web no www.gnu.org - Projeto GNU - Free "
+"Diretrizes para escrever páginas web para www.gnu.org - Projeto GNU - Free "
 "Software Foundation"
 
-#. type: Content of: <h2>
-msgid "Guidelines for Writing Web Pages at www.gnu.org"
-msgstr "Diretrizes para Escrever Páginas Web no www.gnu.org"
+#. type: Content of: <div><h2>
+msgid "Guidelines for Writing Web Pages for www.gnu.org"
+msgstr "Diretrizes para escrever páginas web para www.gnu.org"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"This is a general guide for everyone who wishes to write a web page for the "
-"GNU project web server, <code>www.gnu.org</code>. There are several other "
-"guides that are important, one of the most important ones is the <a href=\"/"
-"server/standards/gnu-website-guidelines.html\">GNU Website Guidelines</a>. A "
-"<a href=\"/server/standards/gnu-website-guidelines.html#UsefulResources\"> "
-"list of other useful resources</a> is also available."
+"This is a general guide for everyone who wishes to write a web page for "
+"<code>www.gnu.org</code>. There are several other important guides, most "
+"notably the <a href=\"/server/standards/gnu-website-guidelines.html\">GNU "
+"Website Guidelines</a>. A <a href=\"/server/standards/gnu-website-guidelines."
+"html#UsefulResources\"> list of other useful resources</a> is also available."
 msgstr ""
 "Esse é um guia geral para cada um que deseja escrever uma página web para "
-"servidor web do projeto GNU, <code>www.gnu.org</code>. Há vários outros "
-"guias que são importantes, um dos mais importantes é as <a href=\"/server/"
-"standards/gnu-website-guidelines.html\">Diretrizes do site do GNU</a>. Uma "
-"<a href=\"/server/standards/gnu-website-guidelines.html#UsefulResources\"> "
-"lista de outros recursos úteis</a> também está disponível."
+"<code>www.gnu.org</code>. Há vários outros guias que são importantes, mais "
+"notavelmente as <a href=\"/server/standards/gnu-website-guidelines.html"
+"\">Diretrizes do site do GNU</a>. Uma <a href=\"/server/standards/gnu-"
+"website-guidelines.html#UsefulResources\"> lista de outros recursos úteis</"
+"a> também está disponível."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"No pages on the GNU project web server should ever make any references to "
-"nonfree software or nonfree documentation. This is VERY important."
+"<strong>No pages on the GNU Project web server should ever make any "
+"references to nonfree software or documentation.</strong> This is VERY "
+"important."
 msgstr ""
-"Nenhuma página no servidor web do projeto GNU deve fazer qualquer referência "
-"a software ou documentação não livre. Isso é MUITO importante."
+"<strong>Nenhuma página no servidor web do Projeto GNU deve fazer qualquer "
+"referência a software ou documentação não livre.</strong> Isso é MUITO "
+"importante."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"The boilerplate that is used for all our pages is in <a href=\"/boilerplate."
-"html\">http://www.gnu.org/boilerplate.html</a>.  A good start when writing a "
-"web page is to use that boilerplate and follow the instructions in it. "
-"Please delete the unneeded comments as you go.  It makes the HTML source "
-"file easier for future maintainers to work with."
+"A good start when writing a web page is to <a href=\"//web.cvs.savannah.gnu."
+"org/viewvc/*checkout*/www/server/standards/ boilerplate.html?root=www&amp;"
+"content-type=text%2Fplain\"> use the boilerplate</a>, and follow the "
+"instructions in it. Please delete the unneeded comments as you go.  It makes "
+"the HTML source file easier for future maintainers to work with."
 msgstr ""
-"O padrão que é usado para todas as nossas páginas está no <a href=\"/"
-"boilerplate.html\">http://www.gnu.org/boilerplate.html</a>. Um bom começo ao "
-"escrever uma página web é usar este padrão e seguir as instruções nele. Por "
-"favor, exclua os comentários desnecessários na medida em que for escrevendo. "
-"Isso torna o arquivo fonte HTML fácil para futuros mantenedores trabalharem "
-"nela."
+"Um bom começo ao escrever uma página web é <a href=\"//web.cvs.savannah.gnu."
+"org/viewvc/*checkout*/www/server/standards/ boilerplate.html?root=www&amp;"
+"content-type=text%2Fplain\">usar o modelo padrão</a> e seguir as instruções "
+"nele. Por favor, exclua os comentários desnecessários na medida em que for "
+"escrevendo. Isso torna o arquivo fonte HTML fácil para futuros mantenedores "
+"trabalharem nela."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"When writing a page for a certain program, we want to have some basic "
-"information on such a page:"
+"The web page(s) of your program should provide the basic information that "
+"users are looking for:"
 msgstr ""
-"Ao escrever uma página para um determinado programa, queremos ter algumas "
-"informações básicas em tal página:"
+"As páginas web de seu programa devem fornecer as informações básicas que os "
+"usuários procuram:"
 
-#. type: Content of: <ul><li>
-msgid "A description on what the program does"
-msgstr "Uma descrição sobre o que o programa faz"
+#. type: Content of: <div><ul><li>
+msgid "a description on what the program does,"
+msgstr "uma descrição sobre o que o programa faz,"
 
-#. type: Content of: <ul><li>
-msgid "Where to download the program in question"
-msgstr "Onde baixar o programa em questão"
+#. type: Content of: <div><ul><li>
+msgid "where to download the program in question,"
+msgstr "onde baixar o programa em questão,"
 
-#. type: Content of: <ul><li>
-msgid "Where to report bugs"
-msgstr "Onde relatar erros"
+#. type: Content of: <div><ul><li>
+msgid "where to report bugs,"
+msgstr "onde relatar erros,"
 
-#. type: Content of: <ul><li>
-msgid "FAQs and documentation if they are available"
-msgstr "FAQs e documentação, se disponível"
+#. type: Content of: <div><ul><li>
+msgid "FAQs and documentation if they are available, and"
+msgstr ""
+"Perguntas e respostas (FAQs) e documentação, se estiverem disponíveis, e"
 
-#. type: Content of: <ul><li>
-msgid "Installation instructions"
-msgstr "Instruções de instalação"
+#. type: Content of: <div><ul><li>
+msgid "installation instructions."
+msgstr "instruções de instalação."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"The description should be long enough so that people can grasp the whole "
-"program, but not so long that they get bored by reading it. If a package "
-"consists of several smaller programs, it is best to write a general "
-"description of what types of programs belong in the package and then write "
-"shorter descriptions for each program."
+"The description should be long enough for people to grasp the whole program, "
+"but not so long that they get bored reading it. If a package consists of "
+"several smaller programs, it is best to write a general description of what "
+"types of programs are included in the package, and then write a shorter "
+"description for each program."
 msgstr ""
 "A descrição deve ser longa o suficiente para que as pessoas possam entender "
 "todo o programa, mas não longa ao ponto deles ficarem entediados lendo-a. Se "
 "um pacote consiste em vários programas menores, é melhor escrever uma "
-"descrição de quais tipos de programas pertencem ao pacote e, então, escrever "
-"descrições para cada programa."
+"descrição de quais tipos de programas estão incluídos no pacote e, então, "
+"escrever descrições curtas para cada programa."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"The GNU Project would like to host all web pages about a program, so if the "
-"main pages are currently on some other server, please consider moving them "
-"to the GNU project web server instead."
+"The GNU Project would like to host the web pages of all GNU programs. So, if "
+"the main pages of your program are currently on some other server, please "
+"consider moving them to <a href=\"https://savannah.gnu.org/\"> our hosting "
+"facility (Savannah)</a>."
 msgstr ""
-"O Projeto GNU gostaria de hospedar todas as páginas web sobre um programa, "
-"então se as páginas principais estiverem, atualmente, em algum outro "
-"servidor, por favor considere movê-los para o servidor web do projeto GNU."
+"O Projeto GNU gostaria de hospedar todas as páginas web de todos os "
+"programas. Então, se as páginas principais de seu programa estiverem em "
+"algum outro servidor, considere movê-las para o nosso <a href=\"https://"
+"savannah.gnu.org/\"> sistema de hospedagem (Savannah)</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -146,14 +151,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
@@ -161,14 +166,16 @@ msgstr ""
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas deste site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright (C) 1999, 2011, 2012, 2014, 2018 Free Software Foundation, Inc."
+"Copyright (C) 1999, 2011, 2012, 2014, 2018, 2021 Free Software Foundation, "
+"Inc."
 msgstr ""
-"Copyright (C) 1999, 2011, 2012, 2014, 2018 Free Software Foundation, Inc."
+"Copyright (C) 1999, 2011, 2012, 2014, 2018, 2021 Free Software Foundation, "
+"Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -185,9 +192,17 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Rafael Fontenelle\n"
-"<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, 2017"
+"<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, "
+"2017-2021"
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid ""
+#~ "When writing a page for a certain program, we want to have some basic "
+#~ "information on such a page:"
+#~ msgstr ""
+#~ "Ao escrever uma página para um determinado programa, queremos ter algumas "
+#~ "informações básicas em tal página:"

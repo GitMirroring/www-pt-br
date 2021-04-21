@@ -1,5 +1,5 @@
 # Brazilian Portuguese translation of http://www.gnu.org/philosophy/free-sw.html
-# Copyright (C) 2019 Free Software Foundation, Inc.
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnu.org article.
 # Fernando Lozano <fernando@lozano.eti.br>, 2000.
 # Rafael Beraldo <rberaldo@cabaladada.org>, 2012.
@@ -7,20 +7,21 @@
 # Dec 2014: remove wrong msgstr's; trivially update a few strings (T. Godefroy).
 # Daniel Roma <listasdiscussaolinux@gmail.com>, 2017.
 # Leandro Dutra <l@dutras.org>, 2017.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2012, 2016-2019.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2012-2021.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: free-sw.html\n"
-"POT-Creation-Date: 2019-07-30 10:25+0000\n"
-"PO-Revision-Date: 2019-07-30 08:38-0200\n"
+"POT-Creation-Date: 2021-02-03 12:56+0000\n"
+"PO-Revision-Date: 2021-02-03 13:54-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 1.0.0-beta1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 3.38.0\n"
 
 #. type: Content of: <title>
 msgid "What is free software? - GNU Project - Free Software Foundation"
@@ -213,44 +214,85 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"&ldquo;Free software&rdquo; does not mean &ldquo;noncommercial&rdquo;.  A "
-"free program must be available for commercial use, commercial development, "
-"and commercial distribution.  Commercial development of free software is no "
-"longer unusual; such free commercial software is very important.  You may "
-"have paid money to get copies of free software, or you may have obtained "
-"copies at no charge.  But regardless of how you got your copies, you always "
-"have the freedom to copy and change the software, even to <a href=\"/"
-"philosophy/selling.html\">sell copies</a>."
+"&ldquo;Free software&rdquo; does not mean &ldquo;noncommercial&rdquo;.  On "
+"the contrary, a free program must be available for commercial use, "
+"commercial development, and commercial distribution.  This policy is of "
+"fundamental importance&mdash;without this, free software could not achieve "
+"its aims."
 msgstr ""
-"“Software livre” não significa “não comercial”. Um programa livre deve estar "
-"disponível para uso comercial, desenvolvimento comercial e distribuição "
-"comercial. Desenvolvimento comercial de software livre deixou de ser "
-"incomum; tais software livre comerciais são muito importantes. Você pode ter "
-"pago dinheiro por suas cópias de software livre, ou você pode tê-las obtido "
-"a custo zero, mas independentemente de como você conseguiu suas cópias, você "
-"sempre deve ter a liberdade para copiar e mudar o software, ou mesmo para <a "
-"href=\"/philosophy/selling.html\">vender cópias</a>."
+"“Software livre” não significa “não comercial”. Ao contrário, um programa "
+"livre deve estar disponível para uso comercial, desenvolvimento comercial e "
+"distribuição comercial. Essa política é de fundamental importância – sem "
+"ela, o software livre não poderia atingir seus objetivos."
 
 #. type: Content of: <div><p>
 msgid ""
-"A free program must offer the four freedoms to any user that obtains a copy "
-"of the software, provided the user has complied thus far with the conditions "
-"of the free license covering the software.  Putting some of the freedoms off "
-"limits to some users, or requiring that users pay, in money or in kind, to "
-"exercise them, is tantamount to not granting the freedoms in question, and "
-"thus renders the program nonfree."
+"We want to invite everyone to use the GNU system, including businesses and "
+"their workers.  That requires allowing commercial use.  We hope that free "
+"replacement programs will supplant comparable proprietary programs, but they "
+"can't do that if businesses are forbidden to use them.  We want commercial "
+"products that contain software to include the GNU system, and that would "
+"constitute commercial distribution for a price.  Commercial development of "
+"free software is no longer unusual; such free commercial software is very "
+"important.  Paid, professional support for free software fills an important "
+"need."
+msgstr ""
+"Queremos convidar a todos a usar o sistema GNU, incluindo empresas e seus "
+"funcionários. Isso requer permissão para uso comercial. Esperamos que os "
+"programas de substituição gratuita suplantem os programas proprietários "
+"comparáveis, mas eles não podem fazer isso se as empresas forem proibidas de "
+"usá-los. Queremos que os produtos comerciais que contêm software incluam o "
+"sistema GNU, e isso constituiria uma distribuição comercial por um preço. O "
+"desenvolvimento comercial de software livre não é mais incomum; tal software "
+"livre comercial é muito importante. O suporte profissional pago para "
+"software livre atende a uma necessidade importante."
+
+#. type: Content of: <div><p>
+msgid ""
+"Thus, to exclude commercial use, commercial development or commercial "
+"distribution would hobble the free software community and obstruct its path "
+"to success.  We must conclude that a program licensed with such restrictions "
+"does not qualify as free software."
+msgstr ""
+"Portanto, excluir o uso comercial, o desenvolvimento comercial ou a "
+"distribuição comercial atrapalharia a comunidade do software livre e "
+"obstruiria seu caminho para o sucesso. Devemos concluir que um programa "
+"licenciado com tais restrições não se qualifica como software livre."
+
+#. type: Content of: <div><p>
+msgid ""
+"A free program must offer the four freedoms to any would-be user that "
+"obtains a copy of the software, who has complied thus far with the "
+"conditions of the free license covering the software in any previous "
+"distribution of it.  Putting some of the freedoms off limits to some users, "
+"or requiring that users pay, in money or in kind, to exercise them, is "
+"tantamount to not granting the freedoms in question, and thus renders the "
+"program nonfree."
 msgstr ""
 "Um programa livre deve oferecer as quatro liberdades a qualquer usuário que "
-"obtenha uma cópia do software, desde que o usuário tenha atendido até o "
-"momento com as condições da licença livre que cobre o software. Colocar "
-"algumas das liberdades fora dos limites para alguns usuários, ou exigir que "
-"os usuários paguem, em dinheiro ou em espécie, para exercê-las, equivale a "
-"não conceder as liberdades em questão e, portanto, torna o programa não-"
-"livre."
+"obtenha uma cópia do software, que cumpriu até o momento com as condições da "
+"licença livre que cobre o software em qualquer distribuição anterior dele. "
+"Colocar algumas das liberdades fora dos limites para alguns usuários, ou "
+"exigir que os usuários paguem, em dinheiro ou em espécie, para exercê-las, "
+"equivale a não conceder as liberdades em questão e, portanto, torna o "
+"programa não livre."
+
+#. type: Content of: <div><p>
+msgid ""
+"You may have paid money to get copies of a free program, or you may have "
+"obtained copies at no charge.  But regardless of how you got your copies, "
+"you always have the freedom to copy and change the software, even to <a href="
+"\"/philosophy/selling.html\">sell copies</a>."
+msgstr ""
+"Você pode ter pago dinheiro por suas cópias de software livre, ou você pode "
+"tê-las obtido a custo zero, mas independentemente de como você conseguiu "
+"suas cópias, você sempre deve ter a liberdade para copiar e mudar o "
+"software, ou mesmo para <a href=\"/philosophy/selling.html\">vender cópias</"
+"a>."
 
 #. type: Content of: <div><h3>
-msgid "Clarifying the line at various points"
-msgstr "Esclarecendo a linha em vários pontos"
+msgid "Clarifying the boundary between free and nonfree"
+msgstr "Esclarecendo a fronteira entre livre e não livre"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -320,6 +362,16 @@ msgstr ""
 "usuários e comunidades façam e distribuam versões modificadas sem o código "
 "arbitrário de incômodo."
 
+#. type: Content of: <div><p>
+msgid ""
+"&ldquo;As you wish&rdquo; includes, optionally, &ldquo;not at all&rdquo; if "
+"that is what you wish.  So there is no need for a separate &ldquo;freedom "
+"not to run a program.&rdquo;"
+msgstr ""
+"“Como você desejar” inclui, opcionalmente, “de forma alguma” se for isso que "
+"você deseja. Portanto, não há necessidade de uma outra “liberdade para não "
+"executar um programa”."
+
 #. type: Content of: <div><h4>
 msgid "The freedom to study the source code and make changes"
 msgstr "A liberdade de estudar o código-fonte e fazer alterações"
@@ -382,6 +434,16 @@ msgstr ""
 "subjetiva. Se o seu direito de modificar um programa é limitado, "
 "fundamentalmente, a mudanças que outra pessoa considere um aperfeiçoamento, "
 "o programa não é livre."
+
+#. type: Content of: <div><p>
+msgid ""
+"One special case of freedom 1 is to delete the program's code so it returns "
+"after doing nothing, or make it invoke some other program.  Thus, freedom 1 "
+"includes the &ldquo;freedom to delete the program.&rdquo;"
+msgstr ""
+"Um caso especial de liberdade 1 é excluir o código do programa para que ele "
+"retorne após não fazer nada, ou fazê-lo invocar algum outro programa. "
+"Portanto, a liberdade 1 inclui a “liberdade de excluir o programa”."
 
 #. type: Content of: <div><h4>
 msgid "The freedom to redistribute if you wish: basic requirements"
@@ -841,6 +903,21 @@ msgstr ""
 #. type: Content of: <ul><li>
 msgid ""
 "<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"root=www&amp;r1=1.168&amp;r2=1.169\">Version 1.169</a>: Explain more clearly "
+"why the four freedoms must apply to commercial activity.  Explain why the "
+"four freedoms imply the freedom not to run the program and the freedom to "
+"delete it, so there is no need to state those as separate requirements."
+msgstr ""
+"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"root=www&amp;r1=1.168&amp;r2=1.169\">Versão 1.169</a>: Explica com mais "
+"clareza por que as quatro liberdades devem se aplicar a atividade comercial. "
+"Explica por que as quatro liberdades implicam na liberdade de não executar o "
+"programa e na liberdade de excluí-lo, portanto, não há necessidade de "
+"declarar esses requisitos separados."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.164&amp;r2=1.165\">Version 1.165</a>: Clarify that "
 "arbitrary annoyances in the code do not negate freedom 0, and that freedoms "
 "1 and 3 enable users to remove them."
@@ -1248,11 +1325,11 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 1996, 2002, 2004-2007, 2009-2019 Free Software Foundation, "
-"Inc."
+"Copyright &copy; 1996, 2002, 2004-2007, 2009-2019, 2021 Free Software "
+"Foundation, Inc."
 msgstr ""
-"Copyright &copy; 1996, 2002, 2004-2007, 2009-2019 Free Software Foundation, "
-"Inc."
+"Copyright &copy; 1996, 2002, 2004-2007, 2009-2019, 2021 Free Software "
+"Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -1271,12 +1348,15 @@ msgstr ""
 "<b>Tradução</b>: Rafael Beraldo\n"
 "<a href=\"mailto:rberaldo@cabaladada.org\">&lt;rberaldo@cabaladada.org&gt;</"
 "a>, 2012; Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
-"rafaelff@gnome.org&gt;</a>, 2017-2019"
+"rafaelff@gnome.org&gt;</a>, 2017-2021"
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid "Clarifying the line at various points"
+#~ msgstr "Esclarecendo a linha em vários pontos"
 
 #~ msgid ""
 #~ "The rest of this page clarifies certain points about what makes specific "
@@ -1284,15 +1364,3 @@ msgstr "Última atualização:"
 #~ msgstr ""
 #~ "O resto dessa página clarifica certos pontos sobre o que faz liberdades "
 #~ "específicas adequadas ou não."
-
-#~ msgid ""
-#~ "<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw."
-#~ "html?root=www&amp;r1=1.162&amp;r2=1.163\">Version 1.163</a>: Clarify that "
-#~ "the four freedoms apply to any and all users, and that requiring users to "
-#~ "pay to exercise some of these freedoms is a way of denying them."
-#~ msgstr ""
-#~ "<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw."
-#~ "html?root=www&amp;r1=1.162&amp;r2=1.163\">Versão 1.163</a>: Esclarece que "
-#~ "as quatro liberdades se aplicam a todos e quaisquer usuários, e que "
-#~ "exigir que os usuários paguem para exercer algumas dessas liberdades é "
-#~ "uma maneira de negá-las."

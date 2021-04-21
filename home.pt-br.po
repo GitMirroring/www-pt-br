@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: home.html\n"
-"POT-Creation-Date: 2021-01-12 11:26+0000\n"
-"PO-Revision-Date: 2021-01-14 07:49-0300\n"
+"POT-Creation-Date: 2021-03-15 13:25+0000\n"
+"PO-Revision-Date: 2021-02-17 20:10-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -57,6 +57,18 @@ msgstr ""
 msgid "English"
 msgstr "Inglês"
 
+#. type: Attribute 'label' of: <div><div><div><video><track>
+msgid "Persian"
+msgstr "Persa"
+
+#. type: Attribute 'label' of: <div><div><div><video><track>
+msgid "French"
+msgstr "Francês"
+
+#. type: Attribute 'label' of: <div><div><div><video><track>
+msgid "Brazilian"
+msgstr "Brasileiro"
+
 #. type: Content of: <div><div><p>
 msgid ""
 "<a href=\"https://www.fsf.org/blogs/community/watch-fight-to-repair-demand-"
@@ -101,11 +113,12 @@ msgstr ""
 msgid "<a href=\"/distros/free-distros.html\">Try GNU/Linux</a>"
 msgstr "<a href=\"/distros/free-distros.html\">Teste o GNU/Linux</a>"
 
+#. #if expr="$DISTRO = dragora" 
 #. type: Content of: <div><div><div><div><a>
 msgid "<a href=\"/distros/screenshots/dragora-ice.png\">"
 msgstr "<a href=\"/distros/screenshots/dragora-ice.png\">"
 
-#. type: Attribute 'alt' of: <div><div><div><div><a><img>
+#. type: Attribute 'alt' of: <div><div><div><div><div><a><img>
 msgid ""
 "&nbsp;[Screenshot of Dragora&nbsp;3.0-beta1 with IceWM window manager]&nbsp;"
 msgstr ""
@@ -116,7 +129,7 @@ msgstr ""
 msgid "</a>"
 msgstr "</a>"
 
-#. type: Content of: <div><div><div><p>
+#. type: Content of: <div><div><div><div><p>
 msgid ""
 "<small><a href=\"https://dragora.org/en/index.html\"> Dragora&nbsp;3.0-"
 "beta1</a> with customized <a href=\"https://ice-wm.org/\"> IceWM</a> window "
@@ -126,16 +139,18 @@ msgstr ""
 "beta1</a> com um gerenciador de janela <a href=\"https://ice-wm.org/\"> "
 "IceWM</a> personalizado</small>"
 
+#. #endif 
+#. #if expr="$DISTRO = guix" 
 #. type: Content of: <div><div><div><div><a>
 msgid "<a href=\"/distros/screenshots/guixSD-gnome3.jpg\">"
 msgstr "<a href=\"/distros/screenshots/guixSD-gnome3.jpg\">"
 
-#. type: Attribute 'alt' of: <div><div><div><div><a><img>
+#. type: Attribute 'alt' of: <div><div><div><div><div><a><img>
 msgid "&nbsp;[Screenshot of Guix&nbsp;0.15 with GNOME&nbsp;3 desktop]&nbsp;"
 msgstr ""
 "&nbsp;[Captura de tela do Guix&nbsp;0.15 com GNOME&nbsp;3 desktop]&nbsp;"
 
-#. type: Content of: <div><div><div><p>
+#. type: Content of: <div><div><div><div><p>
 msgid ""
 "<small><a href=\"/software/guix/\">Guix&nbsp;0.15</a> with <a href=\"https://"
 "www.gnome.org/\">GNOME&nbsp;3</a> desktop, Epiphany web browser, Totem video "
@@ -145,6 +160,8 @@ msgstr ""
 "www.gnome.org/\">GNOME&nbsp;3</a> desktop, navegador web Epiphany, "
 "reprodutor de vídeo Totem e emulador de terminal do GNOME</small>"
 
+#. #endif 
+#. #if expr="$DISTRO = hyperbola" 
 #. type: Content of: <div><div><div><div><a>
 msgid "<a href=\"/distros/screenshots/hyperbola-i3.png\">"
 msgstr "<a href=\"/distros/screenshots/hyperbola-i3.png\">"
@@ -154,7 +171,7 @@ msgid "&nbsp;[Screenshot of Hyperbola with i3 window manager]&nbsp;"
 msgstr ""
 "&nbsp;[Captura de tela de Hyberbola com o gerenciador de janela i3]&nbsp;"
 
-#. type: Content of: <div><div><div><p>
+#. type: Content of: <div><div><div><div><p>
 msgid ""
 "<small><a href=\"https://www.hyperbola.info/\"> Hyperbola&nbsp;0.3</a> with "
 "<a href=\"https://i3wm.org/\">i3 window manager</a>, cool-retro-term "
@@ -166,6 +183,8 @@ msgstr ""
 "(emulador de terminal), Gimp (editor de imagens) e Iceweasel-UXP (navegador "
 "web)</small>"
 
+#. #endif 
+#. #if expr="$DISTRO = parabola" 
 #. type: Content of: <div><div><div><div><a>
 msgid "<a href=\"/distros/screenshots/parabola2020-lxde.jpg\">"
 msgstr "<a href=\"/distros/screenshots/parabola2020-lxde.jpg\">"
@@ -174,7 +193,7 @@ msgstr "<a href=\"/distros/screenshots/parabola2020-lxde.jpg\">"
 msgid "&nbsp;[Screenshot of Parabola with LXDE desktop]&nbsp;"
 msgstr "&nbsp;[Captura de tela de Parabola com LXDE desktop]&nbsp;"
 
-#. type: Content of: <div><div><div><p>
+#. type: Content of: <div><div><div><div><p>
 msgid ""
 "<small><a href=\"https://www.parabola.nu\">Parabola&nbsp;2020</a> with <a "
 "href=\"http://lxde.sourceforge.net/about.html\">LXDE desktop</a></small>"
@@ -182,16 +201,18 @@ msgstr ""
 "<small><a href=\"https://www.parabola.nu\">Parabola&nbsp;2020</a> com <a "
 "href=\"http://lxde.sourceforge.net/about.html\">LXDE desktop</a></small>"
 
+#. #endif 
+#. #if expr="$DISTRO = pureos" 
 #. type: Content of: <div><div><div><div><a>
 msgid "<a href=\"/distros/screenshots/pureos8-gnome3.jpg\">"
 msgstr "<a href=\"/distros/screenshots/pureos8-gnome3.jpg\">"
 
-#. type: Attribute 'alt' of: <div><div><div><div><a><img>
+#. type: Attribute 'alt' of: <div><div><div><div><div><a><img>
 msgid "&nbsp;[Screenshot of PureOS&nbsp;8 with GNOME&nbsp;3 desktop]&nbsp;"
 msgstr ""
 "&nbsp;[Captura de tela do PureOS&nbsp;8 com GNOME&nbsp;3 desktop]&nbsp;"
 
-#. type: Content of: <div><div><div><p>
+#. type: Content of: <div><div><div><div><p>
 msgid ""
 "<small><a href=\"https://www.pureos.net/\">PureOS&nbsp;8</a> with <a href="
 "\"https://www.gnome.org/\">GNOME&nbsp;3</a> desktop, PureBrowser (web "
@@ -201,15 +222,17 @@ msgstr ""
 "\"https://www.gnome.org/\">GNOME&nbsp;3</a> desktop, PureBrowser (navegador "
 "web) e Gimp (editor de imagem)</small>"
 
+#. #endif 
+#. #if expr="$DISTRO = trisquel" 
 #. type: Content of: <div><div><div><div><a>
 msgid "<a href=\"https://trisquel.info/files/screenshots/etiona-media.jpg\">"
 msgstr "<a href=\"https://trisquel.info/files/screenshots/etiona-media.jpg\">"
 
-#. type: Attribute 'alt' of: <div><div><div><div><a><img>
+#. type: Attribute 'alt' of: <div><div><div><div><div><a><img>
 msgid "&nbsp;[Screenshot of Trisquel&nbsp;9 with MATE desktop]&nbsp;"
 msgstr "&nbsp;[Captura de tela de Trisquel&nbsp;9 com o MATE desktop]&nbsp;"
 
-#. type: Content of: <div><div><div><p>
+#. type: Content of: <div><div><div><div><p>
 msgid ""
 "<small><a href=\"https://trisquel.info\">Trisquel&nbsp;9</a> with <a href="
 "\"https://mate-desktop.org/\">MATE</a> desktop, and VLC media player</small>"
@@ -218,61 +241,61 @@ msgstr ""
 "\"https://mate-desktop.org/\">MATE</a> desktop e o reprodutor de mídias VLC</"
 "small>"
 
-#. type: Content of: <div><div><div><div><a>
+#. type: Content of: <div><div><div><div><div><a>
 msgid "<a href=\"/home.html?distro=dragora#gnu-linux\">"
 msgstr "<a href=\"/home.html?distro=dragora#gnu-linux\">"
 
-#. type: Content of: <div><div><div><div>
+#. type: Content of: <div><div><div><div><div><p>
 msgid "<small>Dragora / IceWM</small>"
 msgstr "<small>Dragora / IceWM</small>"
 
-#. type: Content of: <div><div><div><div><a>
+#. type: Content of: <div><div><div><div><div><a>
 msgid "<a href=\"/home.html?distro=guix#gnu-linux\">"
 msgstr "<a href=\"/home.html?distro=guix#gnu-linux\">"
 
-#. type: Content of: <div><div><div><div>
+#. type: Content of: <div><div><div><div><div><p>
 msgid "<small>Guix / GNOME3</small>"
 msgstr "<small>Guix / GNOME3</small>"
 
-#. type: Content of: <div><div><div><div><a>
+#. type: Content of: <div><div><div><div><div><a>
 msgid "<a href=\"/home.html?distro=hyperbola#gnu-linux\">"
 msgstr "<a href=\"/home.html?distro=hyperbola#gnu-linux\">"
 
-#. type: Attribute 'alt' of: <div><div><div><div><a><img>
+#. type: Attribute 'alt' of: <div><div><div><div><div><a><img>
 msgid "&nbsp;[Screenshot of Hyperbola&nbsp;0.3 with i3 window manager]&nbsp;"
 msgstr ""
 "&nbsp;[Captura de tela de Hyberbola&nbsp;0.3 com o gerenciador de janela i3]"
 "&nbsp;"
 
-#. type: Content of: <div><div><div><div>
+#. type: Content of: <div><div><div><div><div><p>
 msgid "<small>Hyperbola / i3</small>"
 msgstr "<small>Hyperbola / i3</small>"
 
-#. type: Content of: <div><div><div><div><a>
+#. type: Content of: <div><div><div><div><div><a>
 msgid "<a href=\"/home.html?distro=parabola#gnu-linux\">"
 msgstr "<a href=\"/home.html?distro=parabola#gnu-linux\">"
 
-#. type: Attribute 'alt' of: <div><div><div><div><a><img>
+#. type: Attribute 'alt' of: <div><div><div><div><div><a><img>
 msgid "&nbsp;[Screenshot of Parabola&nbsp;2020 with LXDE desktop]&nbsp;"
 msgstr "&nbsp;[Captura de tela de Parabola&nbsp;2020 com LXDE desktop]&nbsp;"
 
-#. type: Content of: <div><div><div><div>
+#. type: Content of: <div><div><div><div><div><p>
 msgid "<small>Parabola / LXDE</small>"
 msgstr "<small>Parabola / LXDE</small>"
 
-#. type: Content of: <div><div><div><div><a>
+#. type: Content of: <div><div><div><div><div><a>
 msgid "<a href=\"/home.html?distro=pureos#gnu-linux\">"
 msgstr "<a href=\"/home.html?distro=pureos#gnu-linux\">"
 
-#. type: Content of: <div><div><div><div>
+#. type: Content of: <div><div><div><div><div><p>
 msgid "<small>PureOS / GNOME3</small>"
 msgstr "<small>PureOS / GNOME3</small>"
 
-#. type: Content of: <div><div><div><div><a>
+#. type: Content of: <div><div><div><div><div><a>
 msgid "<a href=\"/home.html?distro=trisquel#gnu-linux\">"
 msgstr "<a href=\"/home.html?distro=trisquel#gnu-linux\">"
 
-#. type: Content of: <div><div><div><div>
+#. type: Content of: <div><div><div><div><div><p>
 msgid "<small>Trisquel / MATE</small>"
 msgstr "<small>Trisquel / MATE</small>"
 
@@ -682,14 +705,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
@@ -697,8 +720,8 @@ msgstr ""
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas deste site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -738,9 +761,6 @@ msgstr "Última atualização:"
 
 #~ msgid "Spanish"
 #~ msgstr "Espanhol"
-
-#~ msgid "Persian"
-#~ msgstr "Persa"
 
 #~ msgid ""
 #~ "The GNU Project and the Free Software Foundation are <a href=\"/gnu/2020-"

@@ -1,17 +1,17 @@
 # Brazilian Portuguese translation of https://www.gnu.org/licenses/licenses.html
-# Copyright (C) 2020 Free Software Foundation, Inc.
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Fernado Lozano, 2001.
 # Yuri da Silva <yuri.silva.31.charles AT gmail.com>, 2014.
 # Daniel Pimentel <d4n1@d4n1.org>, 2016.
 # Diego Viola <diego.viola@gmail.com>, 2018.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2016-2020.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2016-2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: licenses.html\n"
-"POT-Creation-Date: 2020-12-08 11:55+0000\n"
-"PO-Revision-Date: 2020-12-13 17:26-0300\n"
+"POT-Creation-Date: 2021-02-26 20:55+0000\n"
+"PO-Revision-Date: 2021-03-05 08:25-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -62,7 +62,7 @@ msgstr "<a href=\"#FDL\">A Licença de Documentação Livre GNU</a>"
 
 #. type: Content of: <div><ul><li>
 msgid "<a href=\"#Exceptions\">Exceptions to GNU Licenses</a>"
-msgstr "<a href=\"#Exceptions\">Exceções para as licenças GNU</a>"
+msgstr "<a href=\"#Exceptions\">Exceções às licenças GNU</a>"
 
 #. type: Content of: <div><ul><li>
 msgid "<a href=\"#LicenseURLs\">License URLs</a>"
@@ -476,7 +476,7 @@ msgstr ""
 
 #. type: Content of: <h3>
 msgid "Exceptions to GNU Licenses"
-msgstr "Exceções para as licenças GNU"
+msgstr "Exceções às licenças GNU"
 
 #. type: Content of: <p>
 msgid ""
@@ -544,14 +544,14 @@ msgstr "Licença Pública Geral Affero GNU (AGPL)"
 #. type: Content of: <dl><dd>
 msgid ""
 "<a href=\"http://www.gnu.org/licenses/agpl-3.0.html\">GNU AGPLv3</a> (The <a "
-"href=\"http://www.affero.org/oagpl.html\">Affero General Public License "
-"version 1</a> is not a GNU license, but it was designed to serve a purpose "
-"much like the GNU AGPL's.)"
+"href=\"https://web.archive.org/web/20190826200024/http://www.affero.org/"
+"oagpl.html\">Affero General Public License version 1</a> is not a GNU "
+"license, but it was designed to serve a purpose much like the GNU AGPL's.)"
 msgstr ""
 "<a href=\"http://www.gnu.org/licenses/agpl-3.0.html\">GNU AGPLv3</a> (A <a "
-"href=\"http://www.affero.org/oagpl.html\">Licença Pública Geral Affero "
-"versão 1</a> não é uma licença GNU, mas ela foi projetada para servir para "
-"propósitos como os da GNU AGPL.)"
+"href=\"https://web.archive.org/web/20190826200024/http://www.affero.org/"
+"oagpl.html\">Licença Pública Geral Affero versão 1</a> não é uma licença "
+"GNU, mas ela foi projetada para servir para propósitos como os da GNU AGPL.)"
 
 #. type: Content of: <dl><dt>
 msgid "GNU Free Documentation License (FDL)"
@@ -968,9 +968,11 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2014, 2015, 2016, 2018, 2020 Free Software Foundation, Inc."
+"Copyright &copy; 2014, 2015, 2016, 2018, 2020, 2021 Free Software "
+"Foundation, Inc."
 msgstr ""
-"Copyright &copy; 2014, 2015, 2016, 2018, 2020 Free Software Foundation, Inc."
+"Copyright &copy; 2014, 2015, 2016, 2018, 2020, 2021 Free Software "
+"Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -990,7 +992,7 @@ msgstr ""
 "Daniel Pimentel <a href=\"mailto:d4n1@d4n1.org\">&lt;d4n1@d4n1.org&gt;</a>, "
 "2016;\n"
 "Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome."
-"org&gt;</a>, 2018-2020"
+"org&gt;</a>, 2018-2021"
 
 #.  timestamp start 
 #. type: Content of: <div><p>

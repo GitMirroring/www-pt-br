@@ -1,14 +1,14 @@
 # Brazilian Portuguese translation of /manual/allgnupkgs.html
-# Copyright (C) 2020 Free Software Foundation, Inc.
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Cassiano Reinert Novais dos Santos <caco@posteo.net>, 2019.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2019-2020.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2019-2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: allgnupkgs.html\n"
-"POT-Creation-Date: 2020-12-28 10:58+0000\n"
-"PO-Revision-Date: 2020-12-29 11:56-0300\n"
+"POT-Creation-Date: 2021-03-20 16:57+0000\n"
+"PO-Revision-Date: 2021-04-04 08:50-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1)\n"
-"X-Generator: Gtranslator 3.38.0\n"
+"X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <div>
 msgid ""
@@ -307,18 +307,6 @@ msgstr ""
 "Biblioteca para extrair metadados de arquivos de mídia.  [<a href=\"/"
 "software/libextractor/\">página&nbsp;do&nbsp;libextractor</a>]"
 
-#. type: Content of: <div><dl><dt>
-msgid "<a href=\"http://www.speex.org/docs/\">Speex</a>"
-msgstr "<a href=\"http://www.speex.org/docs/\">Speex</a>"
-
-#. type: Content of: <div><dl><dd>
-msgid ""
-"Library for patent-free audio compression format.  [<a href=\"/software/"
-"speex/\">speex&nbsp;home</a>]"
-msgstr ""
-"Biblioteca para formato de compressão de áudio livre de patentes.  [<a href="
-"\"/software/speex/\">página&nbsp;do&nbsp;speex</a>]"
-
 #. type: Content of: <div><h3>
 msgid ""
 "<a href=\"//directory.fsf.org/category/prod/\">Business and productivity</a>"
@@ -483,8 +471,8 @@ msgstr ""
 "\">página&nbsp;do&nbsp;gurgle</a>]"
 
 #. type: Content of: <div><dl><dt>
-msgid "<a href=\"/software/libdbh/\">Libdbh</a>"
-msgstr "<a href=\"/software/libdbh/\">Libdbh</a>"
+msgid "<a href=\"/software/libdbh/manual/\">Libdbh</a>"
+msgstr "<a href=\"/software/libdbh/manual/\">Libdbh</a>"
 
 #. type: Content of: <div><dl><dd>
 msgid ""
@@ -781,19 +769,6 @@ msgstr ""
 "\">página&nbsp;do&nbsp;dr-geo</a>]"
 
 #. type: Content of: <div><dl><dt>
-msgid "<a href=\"http://wiki.eprints.org/w/EPrints_Manual\">Eprints</a>"
-msgstr "<a href=\"http://wiki.eprints.org/w/EPrints_Manual\">Eprints</a>"
-
-#. type: Content of: <div><dl><dd>
-msgid ""
-"Web-based repository software, with a default setup for research papers.  "
-"[<a href=\"/software/eprints/\">eprints&nbsp;home</a>]"
-msgstr ""
-"Software de repositório baseado em web, com uma configuração padrão para "
-"trabalhos de pesquisa.  [<a href=\"/software/eprints/\">página&nbsp;do&nbsp;"
-"eprints</a>]"
-
-#. type: Content of: <div><dl><dt>
 msgid "<a href=\"/software/fisicalab/\">FisicaLab</a>"
 msgstr "<a href=\"/software/fisicalab/\">FisicaLab</a>"
 
@@ -876,8 +851,8 @@ msgstr ""
 "\"/software/ignuit/\">página&nbsp;do&nbsp;ignuit</a>]"
 
 #. type: Content of: <div><dl><dt>
-msgid "<a href=\"/software/jtw/\">Java Training Wheels</a>"
-msgstr "<a href=\"/software/jtw/\">Java Training Wheels</a>"
+msgid "<a href=\"/software/jtw/manual/\">Java Training Wheels</a>"
+msgstr "<a href=\"/software/jtw/manual/\">Java Training Wheels</a>"
 
 #. type: Content of: <div><dl><dd>
 msgid ""
@@ -1873,8 +1848,10 @@ msgstr ""
 "\"/software/macchanger/\">página&nbsp;do&nbsp;macchanger</a>]"
 
 #. type: Content of: <div><dl><dt>
-msgid "<a href=\"http://docs.mediagoblin.org/\">Mediagoblin</a>"
-msgstr "<a href=\"http://docs.mediagoblin.org/\">Mediagoblin</a>"
+msgid ""
+"<a href=\"https://mediagoblin.readthedocs.io/en/master/\">Mediagoblin</a>"
+msgstr ""
+"<a href=\"https://mediagoblin.readthedocs.io/en/master/\">Mediagoblin</a>"
 
 #. type: Content of: <div><dl><dd>
 msgid ""
@@ -3680,8 +3657,8 @@ msgstr ""
 "\">página&nbsp;do&nbsp;pexec</a>]"
 
 #. type: Content of: <div><dl><dt>
-msgid "<a href=\"http://www.gnu.org.ua/software/pies/manual.html\">Pies</a>"
-msgstr "<a href=\"http://www.gnu.org.ua/software/pies/manual.html\">Pies</a>"
+msgid "<a href=\"http://www.gnu.org.ua/software/pies/manual/\">Pies</a>"
+msgstr "<a href=\"http://www.gnu.org.ua/software/pies/manual/\">Pies</a>"
 
 #. type: Content of: <div><dl><dd>
 msgid ""
@@ -3972,18 +3949,6 @@ msgid ""
 msgstr ""
 "Árvores de pesquisa binária e balanceada.  [<a href=\"/software/avl/"
 "\">página&nbsp;do&nbsp;avl</a>]"
-
-#. type: Content of: <div><dl><dt>
-msgid "<a href=\"https://sourceware.org/binutils/docs/bfd/\">BFD</a>"
-msgstr "<a href=\"https://sourceware.org/binutils/docs/bfd/\">BFD</a>"
-
-#. type: Content of: <div><dl><dd>
-msgid ""
-"Binary File Descriptor library.  [<a href=\"/software/bfd/\">bfd&nbsp;home</"
-"a>]"
-msgstr ""
-"Biblioteca de Binary File Descriptor.  [<a href=\"/software/bfd/"
-"\">página&nbsp;do&nbsp;bfd</a>]"
 
 #. type: Content of: <div><dl><dt>
 msgid "<a href=\"/software/cgicc/\">Cgicc</a>"
@@ -5268,6 +5233,37 @@ msgid ""
 msgstr ""
 "XML simples para definição e implementação de linguages de marcação.  [<a "
 "href=\"/software/xmlat/\">página&nbsp;do&nbsp;xmlat</a>]"
+
+#~ msgid "<a href=\"http://www.speex.org/docs/\">Speex</a>"
+#~ msgstr "<a href=\"http://www.speex.org/docs/\">Speex</a>"
+
+#~ msgid ""
+#~ "Library for patent-free audio compression format.  [<a href=\"/software/"
+#~ "speex/\">speex&nbsp;home</a>]"
+#~ msgstr ""
+#~ "Biblioteca para formato de compressão de áudio livre de patentes.  [<a "
+#~ "href=\"/software/speex/\">página&nbsp;do&nbsp;speex</a>]"
+
+#~ msgid "<a href=\"http://wiki.eprints.org/w/EPrints_Manual\">Eprints</a>"
+#~ msgstr "<a href=\"http://wiki.eprints.org/w/EPrints_Manual\">Eprints</a>"
+
+#~ msgid ""
+#~ "Web-based repository software, with a default setup for research papers.  "
+#~ "[<a href=\"/software/eprints/\">eprints&nbsp;home</a>]"
+#~ msgstr ""
+#~ "Software de repositório baseado em web, com uma configuração padrão para "
+#~ "trabalhos de pesquisa.  [<a href=\"/software/eprints/\">página&nbsp;"
+#~ "do&nbsp;eprints</a>]"
+
+#~ msgid "<a href=\"https://sourceware.org/binutils/docs/bfd/\">BFD</a>"
+#~ msgstr "<a href=\"https://sourceware.org/binutils/docs/bfd/\">BFD</a>"
+
+#~ msgid ""
+#~ "Binary File Descriptor library.  [<a href=\"/software/bfd/\">bfd&nbsp;"
+#~ "home</a>]"
+#~ msgstr ""
+#~ "Biblioteca de Binary File Descriptor.  [<a href=\"/software/bfd/"
+#~ "\">página&nbsp;do&nbsp;bfd</a>]"
 
 #~ msgid ""
 #~ "<a href=\"http://www.multiprecision.org/downloads/mpc-1.1.0.pdf\">Mpc</a>"

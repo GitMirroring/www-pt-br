@@ -1,21 +1,22 @@
 # Brazilian Portuguese translation of https://www.gnu.org/philosophy/kind-communication.html
-# Copyright (C) 2020 Free Software Foundation, Inc.
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2018-2020.
 # André N Batista <nandre@riseup.net>, 2018. (proofread)
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018-2021.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: kind-communication.html\n"
-"POT-Creation-Date: 2020-10-06 08:28+0000\n"
-"PO-Revision-Date: 2020-01-07 14:18-0300\n"
+"POT-Creation-Date: 2021-04-04 00:47+0000\n"
+"PO-Revision-Date: 2021-04-04 08:34-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 1.0.0-beta1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -307,27 +308,31 @@ msgstr "Nota de rodapé"
 #. type: Content of: <div><ol><li><p>
 msgid ""
 "Honoring people's preferences about gender identity includes not referring "
-"to them in ways that conflict with that identity.  For instance, not to use "
-"pronouns for them that conflict with it.  There are several ways to avoid "
-"that; one way is to use gender-neutral pronouns, since they don't conflict "
-"with any possible gender identity.  One choice is singular use of &ldquo;"
-"they,&rdquo; &ldquo;them&rdquo; and &ldquo;their.&rdquo; Another choice uses "
-"the gender-neutral singular pronouns, &ldquo;person,&rdquo; &ldquo;"
-"per&rdquo; and &ldquo;pers,&rdquo; which are used in <a href=\"/prep/"
-"maintain/maintain.html#About-This-Document\"> Information for Maintainers of "
-"GNU Software</a>.  Other gender-neutral pronouns have also been used in "
-"English."
+"to them in ways that conflict with that identity, and using specific "
+"pronouns for it when those exist.  If you know someone wishes to be "
+"considered male, it is best to use the masculine pronouns for him.  If you "
+"know someone wishes to be considered female, it is best to use the feminine "
+"pronouns for her.  Otherwise, use gender-neutral pronouns, since at least "
+"they don't conflict with anyone's gender identity.  One choice is singular "
+"use of &ldquo;they,&rdquo; &ldquo;them&rdquo; and &ldquo;their.&rdquo; "
+"Another choice uses the gender-neutral singular pronouns, &ldquo;person,"
+"&rdquo; &ldquo;per&rdquo; and &ldquo;pers,&rdquo; which are used in <a href="
+"\"/prep/maintain/maintain.html#About-This-Document\"> Information for "
+"Maintainers of GNU Software</a>.  Other gender-neutral pronouns have also "
+"been used in English."
 msgstr ""
 "Honrar as preferências das pessoas em relação à identidade de gênero inclui "
-"não se referir a elas de maneira conflitante com essa identidade. Por "
-"exemplo, não usar pronomes que lhes seja conflitante. Existem várias "
-"maneiras de evitar isso. Uma maneira é usar pronomes de gênero neutro, uma "
-"vez que eles não entram em conflito com nenhuma possível identidade de "
-"gênero. Uma escolha é o uso singular de “they”, “them” e “theirs”. Outra "
-"opção usa os pronomes singulares neutros em termos de gênero, “person”, "
-"“per” e “pers” que são usados na <a href=\"/prep/maintain/maintain."
-"html#About-This-Document\"> informações para mantenedores de softwares GNU</"
-"a>. Outros pronomes de gênero neutro também foram usados em inglês."
+"não se referir a elas de maneira conflitante com essa identidade e usando "
+"pronomes específicos quando eles existirem. Se você sabe de alguém que "
+"deseja ser considerado masculino, é melhor usar os pronomes masculinos para "
+"ele. Se você sabe que alguém deseja ser considerado feminina, é melhor usar "
+"os pronomes femininos para ela. Do contrário, use pronomes de gênero neutro, "
+"uma vez que eles não conflitam com nenhuma possível identidade de gênero. "
+"Uma escolha é o uso singular de “they”, “them” e “theirs”. Outra opção usa "
+"os pronomes singulares neutros em termos de gênero, “person”, “per” e “pers” "
+"que são usados na <a href=\"/prep/maintain/maintain.html#About-This-Document"
+"\"> informações para mantenedores de softwares GNU</a>. Outros pronomes de "
+"gênero neutro também foram usados em inglês."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -387,8 +392,8 @@ msgstr ""
 "envio de traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2018, 2019, 2020 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2018, 2019, 2020 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2018, 2019, 2020, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2018, 2019, 2020, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -405,7 +410,7 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
-"rafaelff@gnome.org&gt;</a>, 2018-2020.<br/>\n"
+"rafaelff@gnome.org&gt;</a>, 2018-2021.<br/>\n"
 "Revisado por: André N Batista <a href=\"mailto:nandre@riseup.net\">&lt;"
 "nandre@riseup.net&gt;</a>, 2018."
 

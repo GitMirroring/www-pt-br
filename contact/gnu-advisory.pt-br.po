@@ -1,35 +1,36 @@
 # Brazilian Portuguese translation of https://www.gnu.org/contact/gnu-advisory.html
-# Copyright (C) 2020 Free Software Foundation, Inc.
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2020.
 # Cassiano Reinert Novais dos Santos <caco@posteo.net>, 2020.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2020-2021.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: gnu-advisory.html\n"
-"POT-Creation-Date: 2020-07-20 07:55+0000\n"
-"PO-Revision-Date: 2020-07-26 16:00-0300\n"
+"POT-Creation-Date: 2021-03-15 11:26+0000\n"
+"PO-Revision-Date: 2021-02-07 15:08-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 1.0.0-beta1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 3.38.0\n"
 
 #. type: Content of: <title>
 msgid "GNU Advisory Committee - GNU Project - Free Software Foundation"
 msgstr "Comitê Consultivo do GNU - Projeto GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "GNU Advisory Committee"
 msgstr "Comitê Consultivo do GNU"
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Overview"
 msgstr "Visão geral"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The GNU Advisory Committee exists to facilitate coordination within the GNU "
 "project.  RMS (Richard Stallman), the founder of GNU and the FSF, remains "
@@ -41,7 +42,7 @@ msgstr ""
 "<em>Cheif GNUisance</em> com responsabilidade e autoridade gerais sobre o "
 "projeto GNU."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The committee's responsibilities deal with the project as a whole.  It "
 "provides an initial point of contact for questions from maintainers, FSF and "
@@ -53,7 +54,7 @@ msgstr ""
 "e outros. Os membros do comitê são nomeados pelo RMS e se reúnem por "
 "telefone todos os meses para discutir as questões atuais."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The committee can be contacted directly at <a href=\"mailto:gnu-advisory@gnu."
 "org\">&lt;gnu-advisory@gnu.org&gt;</a>."
@@ -61,51 +62,51 @@ msgstr ""
 "O comitê pode ser contatado diretamente em <a href=\"mailto:gnu-advisory@gnu."
 "org\">&lt;gnu-advisory@gnu.org&gt;</a>."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Current committee members"
 msgstr "Membros atuais do comitê"
 
-#. type: Content of: <ul><li>
-msgid "Brandon Invergo"
-msgstr "Brandon Invergo"
+#. type: Content of: <div><ul><li>
+msgid "Alexandre Oliva"
+msgstr "Alexandre Oliva"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "Christian Grothoff"
 msgstr "Christian Grothoff"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "Jason Self"
 msgstr "Jason Self"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "Jim Meyering"
 msgstr "Jim Meyering"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "John Sullivan (FSF)"
 msgstr "John Sullivan (FSF)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "Jose Marchesi"
 msgstr "Jose Marchesi"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "Mike Gerwitz"
 msgstr "Mike Gerwitz"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "Simon Josefsson"
 msgstr "Simon Josefsson"
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Responsibilities"
 msgstr "Responsabilidades"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "The main responsibilities of the committee are to:"
 msgstr "As responsabilidades principais do comitê são:"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "monitor the health of the project, identifying problems and possible "
 "solutions on behalf of RMS."
@@ -113,7 +114,7 @@ msgstr ""
 "monitorar a saúde do projeto, identificando problemas e possíveis soluções "
 "em nome do RMS."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "improve communication within the project, by taking an active role in "
 "talking to maintainers, FSF and others."
@@ -121,7 +122,7 @@ msgstr ""
 "melhorar a comunicação dentro do projeto, participando ativamente da "
 "conversação com mantenedores, FSF e outros."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "be an initial contact point for issues concerning the whole project, both "
 "internally and externally."
@@ -129,13 +130,13 @@ msgstr ""
 "ser um ponto de contato inicial para questões relativas a todo o projeto, "
 "interna e externamente."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "work with the FSF on maintaining the High Priority Projects list."
 msgstr ""
 "trabalhar com a FSF na manutenção da lista de Projetos de Alta Prioridade <i "
 "lang=\"en\">(High Priority Projects)</i>."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "review GNU-related activities regularly, to avoid duplicate efforts and "
 "promote existing ones, and to discuss the adoption of prospective GNU "
@@ -145,18 +146,18 @@ msgstr ""
 "duplicados e promover os existentes, e para discutir a adoção de possíveis "
 "pacotes GNU."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "be available to RMS to discuss the content of public announcements as needed."
 msgstr ""
 "estar disponível ao RMS para discutir o conteúdo de anúncios públicos, "
 "conforme necessário."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "For GNU maintainers"
 msgstr "Para mantenedores do GNU"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "More information about the Advisory Committee, intended for GNU software "
 "maintainers, is in the <a href=\"/prep/maintain/maintain.html#Getting-Help"
@@ -167,15 +168,15 @@ msgstr ""
 "html#Getting-Help\"><cite>Getting Help</cite></a> do documento <cite>GNU "
 "Maintainers' Information</cite>."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "History"
 msgstr "Histórico"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "The committee held its first meeting in December 2009."
 msgstr "O comitê realizou sua primeira reunião em dezembro de 2009."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "Brian Gough was a member until January 2012."
 msgstr "Brian Gough era membro até janeiro de 2012."
 
@@ -224,8 +225,10 @@ msgstr ""
 "envio de traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2014, 2015, 2019, 2020 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2014, 2015, 2019, 2020 Free Software Foundation, Inc."
+msgid ""
+"Copyright &copy; 2014, 2015, 2019, 2020, 2021 Free Software Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2014, 2015, 2019, 2020, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -242,13 +245,17 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
-"rafaelff@gnome.org&gt;</a>, 2020.Revisado por: Cassiano Reinert Novais dos "
-"Santos <a href=\"mailto:caco@posteo.net\">&lt;caco@posteo.net&gt;</a>, 2020."
+"rafaelff@gnome.org&gt;</a>, 2020-2021.Revisado por: Cassiano Reinert Novais "
+"dos Santos <a href=\"mailto:caco@posteo.net\">&lt;caco@posteo.net&gt;</a>, "
+"2020."
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid "Brandon Invergo"
+#~ msgstr "Brandon Invergo"
 
 #, fuzzy
 #~| msgid ""

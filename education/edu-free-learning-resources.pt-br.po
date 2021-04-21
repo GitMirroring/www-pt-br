@@ -1,21 +1,22 @@
 # Brazilian Portuguese translation of https://www.gnu.org/education/edu-free-learning-resources.html
-# Copyright (C) 2019 Free Software Foundation, Inc.
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2019, 2020.
 # May 2020: update to new layout (T. Godefroy).
+# Rafael Fontenelle <rafaelff@gnome.org>, 2019-2021.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: edu-free-learning-resources.html\n"
-"POT-Creation-Date: 2020-05-27 11:14+0200\n"
-"PO-Revision-Date: 2020-03-01 09:51-0300\n"
+"POT-Creation-Date: 2021-03-27 15:25+0000\n"
+"PO-Revision-Date: 2021-04-04 08:09-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 1.0.0-beta1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <title>
 msgid "Free Learning Resources - GNU Project - Free Software Foundation"
@@ -117,10 +118,8 @@ msgstr ""
 "<a href=\"/licenses/copyleft.html\">Copyleft</a>)."
 
 #. type: Content of: <div><div><dl><dt>
-msgid ""
-"<a href=\"http://www.gutenberg.org/wiki/Main_Page\">Project Gutenberg</a>"
-msgstr ""
-"<a href=\"http://www.gutenberg.org/wiki/Main_Page\">Projeto Gutenberg</a>"
+msgid "<a href=\"https://www.gutenberg.org/\">Project Gutenberg</a>"
+msgstr "<a href=\"https://www.gutenberg.org/\">Projeto Gutenberg</a>"
 
 #. type: Content of: <div><div><dl><dd>
 msgid ""
@@ -135,14 +134,14 @@ msgstr ""
 
 #. type: Content of: <div><div><dl><dd><p>
 msgid ""
-"They have a very clear explanation about the <a href=\"http://www.gutenberg."
-"org/wiki/Gutenberg:No_Cost_or_Freedom%3f\"> difference between free as in "
-"price and free as in freedom</a> related to printed material."
+"They have a very clear explanation about the <a href=\"https://www.gutenberg."
+"org/about/background/free_ebook.html\"> difference between free as in price "
+"and free as in freedom</a> related to printed material."
 msgstr ""
-"Eles têm uma explicação muito clara sobre a <a href=\"http://www.gutenberg."
-"org/wiki/Gutenberg:No_Cost_or_Freedom%3f\"> diferença entre <i lang=\"en"
-"\">free</i> como em preço e <i lang=\"en\">free</i> como em liberdade</a> "
-"relacionada a materiais impressos."
+"Eles têm uma explicação muito clara sobre a <a href=\"https://www.gutenberg."
+"org/about/background/free_ebook.html\"> diferença entre <i lang=\"en\">free</"
+"i> como em preço e <i lang=\"en\">free</i> como em liberdade</a> relacionada "
+"a materiais impressos."
 
 #. type: Content of: <div><div><dl><dt>
 msgid "GNU Project"
@@ -162,9 +161,11 @@ msgstr ""
 "Todos os livros publicados pela <a href=\"http://shop.fsf.org/category/books/"
 "\">Free Software Foundation</a> são livres como em liberdade."
 
+#. a href="http://ftacademy.org/"
+#. /a
 #. type: Content of: <div><div><dl><dt>
-msgid "<a href=\"http://ftacademy.org/\">Free Technology Academy</a>"
-msgstr "<a href=\"http://ftacademy.org/\">Free Technology Academy</a>"
+msgid "Free Technology Academy"
+msgstr "Free Technology Academy"
 
 #. type: Content of: <div><div><dl><dd>
 msgid ""
@@ -260,8 +261,8 @@ msgstr ""
 "contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2019, 2020 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2019, 2020 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2019, 2020, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2019, 2020, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -278,12 +279,15 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
-"rafaelff@gnome.org&gt;</a>, 2019, 2020."
+"rafaelff@gnome.org&gt;</a>, 2019-2021."
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid "<a href=\"http://ftacademy.org/\">Free Technology Academy</a>"
+#~ msgstr "<a href=\"http://ftacademy.org/\">Free Technology Academy</a>"
 
 #~ msgid "Copyright &copy; 2019 Free Software Foundation, Inc."
 #~ msgstr "Copyright &copy; 2019 Free Software Foundation, Inc."

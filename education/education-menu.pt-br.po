@@ -1,15 +1,15 @@
 # Brazilian Portuguese translation of https://www.gnu.org/education/education-menu.html
-# Copyright (C) 2020 Free Software Foundation, Inc.
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Thérèse Godefroy <godef.th AT free.fr>, 2016. (Copied from educationl.pt-br.po)
 # May 2020: update to new layout (T. Godefroy).
-# Rafael Fontenelle <rafaelff@gnome.org>, 2018-2020.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018-2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: education-menu.html\n"
-"POT-Creation-Date: 2020-11-08 19:56+0000\n"
-"PO-Revision-Date: 2020-12-13 19:22-0300\n"
+"POT-Creation-Date: 2021-01-20 21:56+0000\n"
+"PO-Revision-Date: 2021-01-31 12:03-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -20,8 +20,8 @@ msgstr ""
 "X-Generator: Gtranslator 3.38.0\n"
 
 #. type: Content of: <div><div>
-msgid "<a href=\"#content\"><span>BACK TO TOP </span>&#11165;</a>"
-msgstr "<a href=\"#content\"><span>VOLTAR AO TOPO </span>&#11165;</a>"
+msgid "<a href=\"#content\"><span>BACK TO TOP </span>&#9650;</a>"
+msgstr "<a href=\"#content\"><span>VOLTAR AO TOPO </span>&#9650;</a>"
 
 #. type: Content of: <div><div><h3>
 msgid "Education"

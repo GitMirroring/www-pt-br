@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: other-free-books.html\n"
-"POT-Creation-Date: 2021-01-01 05:25+0000\n"
-"PO-Revision-Date: 2021-01-01 07:36-0300\n"
+"POT-Creation-Date: 2021-03-15 11:26+0000\n"
+"PO-Revision-Date: 2021-02-01 06:06-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -44,11 +44,19 @@ msgstr ""
 msgid "Free Books from Other Publishers"
 msgstr "Livros Livres de Outras Editoras"
 
-#. type: Content of: <h3>
-msgid "Introduction"
-msgstr "Introdução"
+#. type: Content of: <div><div><ul><li>
+msgid "<a href=\"#English\">Free books in English</a>"
+msgstr "<a href=\"#English\">Livros livres em inglês</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><ul><li>
+msgid "<a href=\"#Spanish\">Free books in Spanish</a>"
+msgstr "<a href=\"#Spanish\">Livros livres em espanhol</a>"
+
+#. type: Content of: <div><div><p>
+msgid "Newer listings are placed at the top of each list."
+msgstr "Entradas mais novas estão no topo de cada lista."
+
+#. type: Content of: <div><div><p>
 msgid ""
 "We have long supported publication of <a href=\"/philosophy/free-doc.html"
 "\">free documentation</a> (free in the sense of freedom&mdash;we don't mean "
@@ -66,7 +74,7 @@ msgstr ""
 "href=\"/philosophy/license-list.html#FreeDocumentationLicenses\">licença de "
 "documentação livre</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "We publish a number of free books of documentation ourselves.  You can <a "
 "href=\"http://shop.fsf.org/\">order printed copies</a> of our books, and <a "
@@ -78,7 +86,7 @@ msgstr ""
 "<a href=\"/manual/manual.html\">visualizá-los online</a>. Nós temos feito "
 "isso desde por volta de 1986."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Some commercial publishers are also publishing free books.  (Like ours, "
 "these books are free in the sense of freedom; the commercially printed "
@@ -94,7 +102,7 @@ msgstr ""
 "avise escrevendo para &lt;<a href=\"mailto:free-books@gnu.org\">free-"
 "books@gnu.org</a>&gt;."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Some of these publishers (e.g., Network Theory Ltd) do not trade directly. "
 "Their books can be obtained from many suppliers throughout the world, but "
@@ -104,29 +112,13 @@ msgstr ""
 "diretamente. Seus livros podem ser obtidos de muitos fornecedores em todo o "
 "mundo, mas, por favor, não os encomende, ou qualquer outro livro, da Amazon!"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "<a href=\"http://defectivebydesign.org/ebooks.html\">Join our mailing list "
 "about the dangers of eBooks</a>."
 msgstr ""
 "<a href=\"http://defectivebydesign.org/ebooks.html\">Junte-se à nossa lista "
 "de discussão sobre os perigos dos eBooks</a>"
-
-#. type: Content of: <h3>
-msgid "Table of Contents"
-msgstr "Conteúdo"
-
-#. type: Content of: <ul><li>
-msgid "<a href=\"#English\">Free books in English</a>"
-msgstr "<a href=\"#English\">Livros livres em inglês</a>"
-
-#. type: Content of: <ul><li>
-msgid "<a href=\"#Spanish\">Free books in Spanish</a>"
-msgstr "<a href=\"#Spanish\">Livros livres em espanhol</a>"
-
-#. type: Content of: <p>
-msgid "Newer listings are placed at the top of each list."
-msgstr "Entradas mais novas estão no topo de cada lista."
 
 #. type: Content of: <div><h3>
 msgid "Free books in English"
@@ -624,11 +616,11 @@ msgstr "978-0596007591"
 
 #. type: Content of: <table><tr><td>
 msgid ""
-"<a href=\"http://www.bartlettpublishing.com/site/catalog/programming-from-"
-"the-ground-up\">Programming from the Ground Up</a>"
+"<a href=\"https://www.bartlettpublishing.com/site/product/programming-from-"
+"the-ground-up/\">Programming from the Ground Up</a>"
 msgstr ""
-"<a href=\"http://www.bartlettpublishing.com/site/catalog/programming-from-"
-"the-ground-up\">Programming from the Ground Up</a>"
+"<a href=\"https://www.bartlettpublishing.com/site/product/programming-from-"
+"the-ground-up/\">Programming from the Ground Up</a>"
 
 #. type: Content of: <table><tr><td>
 msgid "Jonathan Bartlett"
@@ -926,6 +918,12 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid "Introduction"
+#~ msgstr "Introdução"
+
+#~ msgid "Table of Contents"
+#~ msgstr "Conteúdo"
 
 #~ msgid ""
 #~ "<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative "

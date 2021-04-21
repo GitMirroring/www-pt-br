@@ -6,16 +6,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: mirror.html\n"
-"POT-Creation-Date: 2021-01-04 12:25+0000\n"
-"PO-Revision-Date: 2021-01-04 10:51-0300\n"
+"POT-Creation-Date: 2021-04-12 08:56+0000\n"
+"PO-Revision-Date: 2021-04-20 05:27-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Outdated-Since: 2021-03-30 15:55+0000\n"
 "Plural-Forms: nplurals=2; plural=(n > 1)\n"
-"X-Generator: Gtranslator 3.38.0\n"
+"X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <title>
 msgid "Using and Running Mirrors - GNU Project - Free Software Foundation"
@@ -243,6 +244,11 @@ msgid "<code>rsync://quantum-mirror.hu/gnu/</code> (Hungary)"
 msgstr "<code>rsync://quantum-mirror.hu/gnu/</code> (Hungria)"
 
 #. type: Content of: <dl><dd><p>
+#| msgid "<code>rsync://mirrors.mivocloud.com/gnu/</code> (Moldova)"
+msgid "<code>rsync://mirror.ihost.md/gnu</code> (Moldova)"
+msgstr "<code>rsync://mirror.ihost.md/gnu</code> (Moldávia)"
+
+#. type: Content of: <dl><dd><p>
 msgid "<code>rsync://mirrors.mivocloud.com/gnu/</code> (Moldova)"
 msgstr "<code>rsync://mirrors.mivocloud.com/gnu/</code> (Moldávia)"
 
@@ -277,10 +283,6 @@ msgstr "<code>rsync://mirror.sbb.rs/gnu/</code> (Sérvia)"
 #. type: Content of: <dl><dd><p>
 msgid "<code>rsync://ftp.acc.umu.se/mirror/gnu.org/gnu/</code> (Sweden)"
 msgstr "<code>rsync://ftp.acc.umu.se/mirror/gnu.org/gnu/</code> (Suécia)"
-
-#. type: Content of: <dl><dd><p>
-msgid "<code>rsync://mirrors.gethosted.online/gnu</code> (UK)"
-msgstr "<code>rsync://mirrors.gethosted.online/gnu</code> (Reino Unido)"
 
 #. type: Content of: <dl><dd><p>
 msgid "<code>rsync://rsync.mirrorservice.org/ftp.gnu.org/gnu/</code> (UK)"
@@ -485,6 +487,11 @@ msgid "<code>rsync://quantum-mirror.hu/gnualpha/</code> (Hungary)"
 msgstr "<code>rsync://quantum-mirror.hu/gnualpha/</code> (Hungria)"
 
 #. type: Content of: <dl><dd>
+#| msgid "<code>rsync://mirrors.mivocloud.com/gnu/</code> (Moldova)"
+msgid "<code>rsync://mirror.ihost.md/gnu-alpha</code> (Moldova)"
+msgstr "<code>rsync://mirror.ihost.md/gnu-alpha</code> (Moldávia)"
+
+#. type: Content of: <dl><dd>
 msgid "<code>rsync://gnualpha.uib.no/gnualpha/</code> (Norway)"
 msgstr "<code>rsync://gnualpha.uib.no/gnualpha/</code> (Noruega)"
 
@@ -687,6 +694,9 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid "<code>rsync://mirrors.gethosted.online/gnu</code> (UK)"
+#~ msgstr "<code>rsync://mirrors.gethosted.online/gnu</code> (Reino Unido)"
 
 #~ msgid "<code>rsync://mirror.serverion.com/gnu</code> (Netherlands)"
 #~ msgstr "<code>rsync://mirror.serverion.com/gnu</code> (Países Baixos)"

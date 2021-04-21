@@ -1,21 +1,22 @@
 # Brazilian Portuguese translation of https://www.gnu.org/proprietary/proprietary-tyrants.html
-# Copyright (C) 2020 Free Software Foundation, Inc.
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2019-2020.
 # Cassiano Reinert Novais dos Santos <caco@posteo.net>, 2019. (proofread, #15220)
+# Rafael Fontenelle <rafaelff@gnome.org>, 2019-2021.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary-tyrants.html\n"
 "POT-Creation-Date: 2021-01-18 12:56+0000\n"
-"PO-Revision-Date: 2020-02-06 21:14-0300\n"
+"PO-Revision-Date: 2021-02-07 15:14-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 1.0.0-beta1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 3.38.0\n"
 
 #. type: Content of: <title>
 msgid "Proprietary Tyrants - GNU Project - Free Software Foundation"
@@ -248,11 +249,8 @@ msgstr ""
 "contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-# | Copyright &copy; 2014-202[-0-]{+1+} Free Software Foundation, Inc.
-#, fuzzy
-#| msgid "Copyright &copy; 2014-2020 Free Software Foundation, Inc."
 msgid "Copyright &copy; 2014-2021 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2014-2020 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2014-2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -269,7 +267,7 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
-"rafaelff@gnome.org&gt;</a>, 2019-2020.\n"
+"rafaelff@gnome.org&gt;</a>, 2019-2021.\n"
 "Revisado por: Cassiano Reinert Novais dos Santos <a href=\"mailto:"
 "caco@posteo.net\">&lt;caco@posteo.net&gt;</a>, 2019."
 

@@ -1,14 +1,14 @@
 # Brazilian Portuguese translation of https://www.gnu.org/server/home-pkgblurbs.html
-# Copyright (C) 2020 Free Software Foundation, Inc.
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # André N Batista <nandre@riseup.net>, 2018.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2018-2020.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018-2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: home-pkgblurbs.html\n"
-"POT-Creation-Date: 2020-12-10 08:57+0000\n"
-"PO-Revision-Date: 2020-12-13 16:58-0300\n"
+"POT-Creation-Date: 2021-03-22 12:57+0000\n"
+"PO-Revision-Date: 2021-02-01 06:21-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -530,18 +530,6 @@ msgstr ""
 "conhecimento e a funcionalidade para trabalhar em sistemas planetários e "
 "investigar seu interior na liberdade.  <small>(<a href=\"/manual/manual."
 "html#behistun\">doc</a>)</small>"
-
-#. type: Content of: <h4>
-msgid "<a href=\"/software/bfd/\">BFD</a>"
-msgstr "<a href=\"/software/bfd/\">BFD</a>"
-
-#. type: Content of: <p>
-msgid ""
-"See <a href=\"#binutils\">binutils</a>.  <small>(<a href=\"/manual/manual."
-"html#bfd\">doc</a>)</small>"
-msgstr ""
-"Veja <a href=\"#binutils\">binutils</a>.  <small>(<a href=\"/manual/manual."
-"html#bfd\">doc</a>)</small>"
 
 #. type: Content of: <h4>
 msgid "<a href=\"/software/binutils/\">Binutils</a>"
@@ -5079,8 +5067,8 @@ msgstr ""
 "território.  <small>(<a href=\"/manual/manual.html#motti\">doc</a>)</small>"
 
 #. type: Content of: <h4>
-msgid "<a href=\"/software/mpc/\">Mpc</a>"
-msgstr "<a href=\"/software/mpc/\">Mpc</a>"
+msgid "<a href=\"/software/mpc/\">MPC</a>"
+msgstr "<a href=\"/software/mpc/\">MPC</a>"
 
 #. type: Content of: <p>
 msgid ""
@@ -6204,28 +6192,6 @@ msgstr ""
 "visualização por classe espectral e luminosidade.  <small>(<a href=\"/manual/"
 "manual.html#spacechart\">doc</a>)</small>"
 
-#. type: Attribute 'alt' of: <h4><img>
-msgid "logo for speex"
-msgstr "logo do speex"
-
-#. type: Content of: <h4>
-msgid "<a href=\"/software/speex/\">Speex</a>"
-msgstr "<a href=\"/software/speex/\">Speex</a>"
-
-#. type: Content of: <p>
-msgid ""
-"GNU Speex is a patent-free audio compression codec specially designed for "
-"speech.  It is well-adapted to internet applications, such as VoIP.  It "
-"features compression of different bands in the same bitstream, intensity "
-"stereo encoding, and voice activity detection.  <small>(<a href=\"/manual/"
-"manual.html#speex\">doc</a>)</small>"
-msgstr ""
-"GNU Speex é um codec de compressão de áudio livre de patentes especialmente "
-"projetado para fala. É bem adaptado para aplicativos de internet, como o "
-"VoIP. Ele possui compactação de diferentes bandas no mesmo bitstream, "
-"codificação estéreo de intensidade e detecção de atividade de voz.  <small>"
-"(<a href=\"/manual/manual.html#speex\">doc</a>)</small>"
-
 #.  TRANSLATORS: stale 
 #. type: Content of: <h4>
 msgid "<a href=\"/software/spell/\">Spell</a>"
@@ -7002,6 +6968,36 @@ msgstr ""
 "GNU Zile é um clone leve do Emacs. Seu uso é semelhante à configuração "
 "padrão do Emacs, mas carrega um conjunto de recursos muito mais leve.  "
 "<small>(<a href=\"/manual/manual.html#zile\">doc</a>)</small>"
+
+#~ msgid "<a href=\"/software/bfd/\">BFD</a>"
+#~ msgstr "<a href=\"/software/bfd/\">BFD</a>"
+
+#~ msgid ""
+#~ "See <a href=\"#binutils\">binutils</a>.  <small>(<a href=\"/manual/manual."
+#~ "html#bfd\">doc</a>)</small>"
+#~ msgstr ""
+#~ "Veja <a href=\"#binutils\">binutils</a>.  <small>(<a href=\"/manual/"
+#~ "manual.html#bfd\">doc</a>)</small>"
+
+#~ msgid "logo for speex"
+#~ msgstr "logo do speex"
+
+#~ msgid "<a href=\"/software/speex/\">Speex</a>"
+#~ msgstr "<a href=\"/software/speex/\">Speex</a>"
+
+#~ msgid ""
+#~ "GNU Speex is a patent-free audio compression codec specially designed for "
+#~ "speech.  It is well-adapted to internet applications, such as VoIP.  It "
+#~ "features compression of different bands in the same bitstream, intensity "
+#~ "stereo encoding, and voice activity detection.  <small>(<a href=\"/manual/"
+#~ "manual.html#speex\">doc</a>)</small>"
+#~ msgstr ""
+#~ "GNU Speex é um codec de compressão de áudio livre de patentes "
+#~ "especialmente projetado para fala. É bem adaptado para aplicativos de "
+#~ "internet, como o VoIP. Ele possui compactação de diferentes bandas no "
+#~ "mesmo bitstream, codificação estéreo de intensidade e detecção de "
+#~ "atividade de voz.  <small>(<a href=\"/manual/manual.html#speex\">doc</a>)"
+#~ "</small>"
 
 #~ msgid "<a href=\"/software/gnue/\">GNU Enterprise</a>"
 #~ msgstr "<a href=\"/software/gnue/\">GNU Enterprise</a>"

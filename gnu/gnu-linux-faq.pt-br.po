@@ -1,22 +1,23 @@
 # Brazilian Portuguese translation of https://www.gnu.org/gnu/gnu-linux-faq.html
-# Copyright (C) 2020 Free Software Foundation, Inc.
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2018, 2020.
 # André N Batista <nandre@riseup.net>, 2018.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018-2021.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: gnu-linux-faq.html\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-04 07:55+0000\n"
-"PO-Revision-Date: 2020-05-09 07:53-0300\n"
+"POT-Creation-Date: 2021-04-07 17:55+0000\n"
+"PO-Revision-Date: 2021-04-20 04:43-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 1.0.0-beta1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <title>
 msgid "GNU/Linux FAQ - GNU Project - Free Software Foundation"
@@ -25,10 +26,14 @@ msgstr ""
 "Foundation"
 
 #. type: Content of: <h2>
-msgid "GNU/Linux FAQ by Richard Stallman"
-msgstr "Perguntas frequentes (FAQ) sobre GNU/Linux por Richard Stallman"
+msgid "GNU/Linux FAQ"
+msgstr "Perguntas frequentes (FAQ) sobre GNU/Linux"
 
-#. type: Content of: <div><blockquote><p>
+#. type: Content of: <address>
+msgid "by Richard Stallman"
+msgstr "por Richard Stallman"
+
+#. type: Content of: <div><div><p>
 msgid ""
 "To learn more about this issue, you can also read our page on <a href=\"/gnu/"
 "linux-and-gnu.html\">Linux and the GNU Project</a>, our page on <a href=\"/"
@@ -42,7 +47,7 @@ msgstr ""
 "nossa página sobre <a href=\"/gnu/gnu-users-never-heard-of-gnu.html"
 "\">Usuários do GNU que nunca ouviram falar do GNU</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "When people see that we use and recommend the name GNU/Linux for a system "
 "that many others call just &ldquo;Linux&rdquo;, they ask many questions.  "
@@ -52,7 +57,7 @@ msgstr ""
 "um sistema que muitas outras chamam apenas “Linux”, elas fazem muitas "
 "perguntas. Aqui estão as perguntas comuns e as nossas respostas."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#why\">Why do you call the system we use GNU/Linux and not Linux?</"
 "a>"
@@ -60,16 +65,16 @@ msgstr ""
 "<a href=\"#why\">Por que vocês chamam o sistema que usamos de GNU/Linux e "
 "não Linux?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid "<a href=\"#whycare\">Why is the name important?</a>"
 msgstr "<a href=\"#whycare\">Por que o nome é importante?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#what\">What is the real relationship between GNU and Linux?</a>"
 msgstr "<a href=\"#what\">Qual a real relação entre GNU e Linux?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#howerror\">How did it come about that most people call the system "
 "&ldquo;Linux&rdquo;?</a>"
@@ -77,14 +82,14 @@ msgstr ""
 "<a href=\"#howerror\">Como aconteceu para que a maioria das pessoas chamem o "
 "sistema de “Linux”?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#always\">Should we always say &ldquo;GNU/Linux&rdquo; instead of "
 "&ldquo;Linux&rdquo;?</a>"
 msgstr ""
 "<a href=\"#always\">Devemos sempre dizer “GNU/Linux” em vez de “Linux”?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#linuxalone\">Would Linux have achieved the same success if there "
 "had been no GNU?</a>"
@@ -92,7 +97,7 @@ msgstr ""
 "<a href=\"#linuxalone\">Linux teria alcançado o mesmo sucesso se não "
 "existisse GNU?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#divide\">Wouldn't it be better for the community if you did not "
 "divide people with this request?</a>"
@@ -100,7 +105,7 @@ msgstr ""
 "<a href=\"#divide\">Não seria melhor para a comunidade se vocês não "
 "dividissem as pessoas com esse pedido?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#freespeech\">Doesn't the GNU project support an individual's free "
 "speech rights to call the system by any name that individual chooses?</a>"
@@ -109,7 +114,7 @@ msgstr ""
 "expressão do indivíduo de chamar o sistema pelo nome que esse indivíduo "
 "escolher?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#everyoneknows\">Since everyone knows the role of GNU in "
 "developing the system, doesn't the &ldquo;GNU/&rdquo; in the name go without "
@@ -118,7 +123,7 @@ msgstr ""
 "<a href=\"#everyoneknows\">Já que todo mundo sabe o papel do GNU no "
 "desenvolvimento do sistema, o “GNU/” no nome não estaria implícito?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#everyoneknows2\">Since I know the role of GNU in this system, why "
 "does it matter what name I use?</a>"
@@ -126,7 +131,7 @@ msgstr ""
 "<a href=\"#everyoneknows2\">Já que eu sei o papel do GNU neste sistema, por "
 "que importa qual nome eu uso?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#windows\">Isn't shortening &ldquo;GNU/Linux&rdquo; to &ldquo;"
 "Linux&rdquo; just like shortening &ldquo;Microsoft Windows&rdquo; to &ldquo;"
@@ -135,7 +140,7 @@ msgstr ""
 "<a href=\"#windows\">Encurtar “GNU/Linux” para “Linux” a mesma coisa que "
 "encurtar “Microsoft Windows” para “Windows”?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#tools\">Isn't GNU a collection of programming tools that were "
 "included in Linux?</a>"
@@ -143,7 +148,7 @@ msgstr ""
 "<a href=\"#tools\">GNU não é uma coleção de ferramentas de programação que "
 "foram incluídas no Linux?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#osvskernel\">What is the difference between an operating system "
 "and a kernel?</a>"
@@ -151,7 +156,7 @@ msgstr ""
 "<a href=\"#osvskernel\">Qual é a diferença entre um sistema operacional e um "
 "kernel?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#house\">The kernel of a system is like the foundation of a "
 "house.  How can a house be almost complete when it doesn't have a foundation?"
@@ -160,11 +165,11 @@ msgstr ""
 "<a href=\"#house\">O kernel de um sistema é como a fundação de uma casa. "
 "Como pode uma casa ser quase completa quando ela não tem uma fundação?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid "<a href=\"#brain\">Isn't the kernel the brain of the system?</a>"
 msgstr "<a href=\"#brain\">O kernel não é o cérebro do sistema?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#kernelmost\">Isn't writing the kernel most of the work in an "
 "operating system?</a>"
@@ -172,7 +177,7 @@ msgstr ""
 "<a href=\"#kernelmost\">Escrever o kernel não é a maioria do trabalho em um "
 "sistema operacional?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#nokernel\">An operating system requires a kernel.  Since the GNU "
 "Project didn't develop a kernel, how can the system be GNU?</a>"
@@ -180,7 +185,7 @@ msgstr ""
 "<a href=\"#nokernel\">Um sistema operacional requer um kernel. Já que o "
 "Projeto GNU não desenvolveu um kernel, como o sistema pode ser GNU?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#notinstallable\">How can GNU be an operating system, if I can't "
 "get something called &ldquo;GNU&rdquo; and install it?</a>"
@@ -188,7 +193,7 @@ msgstr ""
 "<a href=\"#notinstallable\">Como GNU pode ser um sistema operacional, se eu "
 "não consigo obter alguma coisa chamada “GNU” e instalá-la?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#afterkernel\">We're calling the whole system after the kernel, "
 "Linux.  Isn't it normal to name an operating system after a kernel?</a>"
@@ -196,13 +201,13 @@ msgstr ""
 "<a href=\"#afterkernel\">Estamos chamando todo o sistema pelo kernel, Linux. "
 "Não é normal nomear um sistema operacional pelo kernel?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#feel\">Can another system have &ldquo;the feel of Linux&rdquo;?</"
 "a>"
 msgstr "<a href=\"#feel\">Outro sistema pode ter “a cara do Linux”?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#long\">The problem with &ldquo;GNU/Linux&rdquo; is that it is too "
 "long.  How about recommending a shorter name?</a>"
@@ -210,7 +215,7 @@ msgstr ""
 "<a href=\"#long\">O programa com “GNU/Linux” é que ele é longo demais. Que "
 "tal recomendar um nome mais curto?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#long1\">How about calling the system &ldquo;GliNUx&rdquo; "
 "(instead of &ldquo;GNU/Linux&rdquo;)?</a>"
@@ -218,7 +223,7 @@ msgstr ""
 "<a href=\"#long1\">Que tal chamar o sistema de “GliNUx” (em vez de “GNU/"
 "Linux”)?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#long2\">The problem with &ldquo;GNU/Linux&rdquo; is that it is "
 "too long.  Why should I go to the trouble of saying &ldquo;GNU/&rdquo;?</a>"
@@ -226,7 +231,7 @@ msgstr ""
 "<a href=\"#long2\">O problema com “GNU/Linux” é que ele é longo demais. Por "
 "que eu deveria me dar o trabalho de dizer “GNU/”?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#long3\">Unfortunately, &ldquo;GNU/Linux&rdquo; is five syllables. "
 "People won't use such a long term. Shouldn't you find a shorter one?</a>"
@@ -235,7 +240,7 @@ msgstr ""
 "pessoas não usam um termo tão longo. Vocês não deveriam achar um mais curto?"
 "</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#long4\">Stallman doesn't ask us to call him &ldquo;Richard "
 "Matthew Stallman&rdquo; every the time.  So why ask us to say &ldquo;GNU/"
@@ -245,7 +250,7 @@ msgstr ""
 "Stallman” o tempo todo. Então, por que nos pedir para dizer “GNU/Linux” toda "
 "vez?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#justgnu\">Since Linux is a secondary contribution, would it be "
 "false to the facts to call the system simply &ldquo;GNU&rdquo;?</a>"
@@ -253,7 +258,7 @@ msgstr ""
 "<a href=\"#justgnu\">Já que Linux é uma contribuição secundária, seria "
 "incorreto chamar o sistema apenas de “GNU”?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#trademarkfee\">I would have to pay a fee if I use &ldquo;"
 "Linux&rdquo; in the name of a product, and that would also apply if I say "
@@ -264,7 +269,7 @@ msgstr ""
 "nome de um produto, e isso também se aplicaria se eu disser “GNU/Linux”. "
 "Seria incorreto se eu usar “GNU” sem “Linux”, para economizar na taxa?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#many\">Many other projects contributed to the system as it is "
 "today; it includes TeX, X11, Apache, Perl, and many more programs.  Don't "
@@ -276,7 +281,7 @@ msgstr ""
 "argumentos não implicam que devamos dar-lhes crédito também? (Mas isso "
 "levaria a um nome tão longo que é absurdo.)</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#systemd\">systemd plays an important role in the GNU/Linux system "
 "as it is today; are we obligated to call it GNU/systemd/Linux?</a>"
@@ -284,7 +289,7 @@ msgstr ""
 "<a href=\"#systemd\">systemd desempenha um papel importante no sistema GNU/"
 "Linux como é hoje; somos obrigados a chamá-lo GNU/systemd/Linux?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#others\">Many other projects contributed to the system as it is "
 "today, but they don't insist on calling it XYZ/Linux.  Why should we treat "
@@ -294,7 +299,7 @@ msgstr ""
 "está hoje, mas eles não insistem em chamá-lo de XYZ/Linux. Por que nós "
 "devemos tratar o GNU de forma especial?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#allsmall\">GNU is a small fraction of the system nowadays, so why "
 "should we mention it?</a>"
@@ -302,7 +307,7 @@ msgstr ""
 "<a href=\"#allsmall\">GNU é uma fração pequena do sistema hoje em dia, então "
 "por que eu deveria mencioná-lo?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#manycompanies\">Many companies contributed to the system as it is "
 "today; doesn't that mean we ought to call it GNU/Red&nbsp;Hat/Novell/Linux?</"
@@ -312,7 +317,7 @@ msgstr ""
 "está hoje; isso não significa que nós devemos chamá-lo de GNU/Red&nbsp;Hat/"
 "Novell/Linux?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#whyslash\">Why do you write &ldquo;GNU/Linux&rdquo; instead of "
 "&ldquo;GNU Linux&rdquo;?</a>"
@@ -320,13 +325,13 @@ msgstr ""
 "<a href=\"#whyslash\">Por que vocês escrevem “GNU/Linux” em vez de “GNU "
 "Linux”?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#pronounce\">How is the name &ldquo;GNU/Linux&rdquo; pronounced?</"
 "a>"
 msgstr "<a href=\"#pronounce\">Como o nome “GNU/Linux” é pronunciado?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#whynoslash\">Why do you write &ldquo;GNU Emacs&rdquo; rather than "
 "&ldquo;GNU/Emacs&rdquo;?</a>"
@@ -334,13 +339,13 @@ msgstr ""
 "<a href=\"#whynoslash\">Por que vocês escrevem “GNU Emacs” em vez de “GNU/"
 "Emacs”?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#whyorder\">Why &ldquo;GNU/Linux&rdquo; rather than &ldquo;Linux/"
 "GNU&rdquo;?</a>"
 msgstr "<a href=\"#whyorder\">Por que “GNU/Linux” em vez de “Linux/GNU”?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#distronames0\">My distro's developers call it &ldquo;Foobar "
 "Linux&rdquo;, but that doesn't say anything about what the system consists "
@@ -350,7 +355,7 @@ msgstr ""
 "“Foobar Linux”, mas isso não diz nada sobre em que o sistema consiste. Por "
 "que eu não deveria chamá-lo na forma como eles querem?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#distronames\">My distro is called &ldquo;Foobar Linux&rdquo;; "
 "doesn't that show it's really Linux?</a>"
@@ -358,7 +363,7 @@ msgstr ""
 "<a href=\"#distronames\">Minha distro é chamada “Foobar Linux”; isso não "
 "mostra que ela é realmente Linux?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#distronames1\">My distro's official name is &ldquo;Foobar "
 "Linux&rdquo;; isn't it wrong to call the distro anything but &ldquo;Foobar "
@@ -367,7 +372,7 @@ msgstr ""
 "<a href=\"#distronames1\">O nome oficial da minha distro é “Foobar Linux”; "
 "não é errado chamá-la qualquer outra coisa além de “Foobar Linux”?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#companies\">Wouldn't it be more effective to ask companies such "
 "as Mandrake, Red Hat and IBM to call their distributions &ldquo;GNU/"
@@ -377,7 +382,7 @@ msgstr ""
 "Mandrake, Red Hat e IBM que chamem suas distribuições de “GNU/Linux” em vez "
 "de solicitar a indivíduos?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#reserve\">Wouldn't it be better to reserve the name &ldquo;GNU/"
 "Linux&rdquo; for distributions that are purely free software? After all, "
@@ -387,7 +392,7 @@ msgstr ""
 "distribuições que são puramente software livre? Afinal das contas, esse é o "
 "ideal do GNU.</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#gnudist\">Why not make a GNU distribution of Linux (sic) and call "
 "that GNU/Linux?</a>"
@@ -395,7 +400,7 @@ msgstr ""
 "<a href=\"#gnudist\">Por que não criar uma distribuição GNU de Linux (sic) e "
 "chamá-la de GNU/Linux?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#linuxgnu\">Why not just say &ldquo;Linux is the GNU kernel&rdquo; "
 "and release some existing version of GNU/Linux under the name &ldquo;"
@@ -404,7 +409,7 @@ msgstr ""
 "<a href=\"#linuxgnu\">Por que não dizer “Linux é o kernel do GNU” e lançar "
 "alguma versão existente do GNU/Linux sob o nome de “GNU”?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#condemn\">Did the GNU Project condemn and oppose use of Linux in "
 "the early days?</a>"
@@ -412,7 +417,7 @@ msgstr ""
 "<a href=\"#condemn\">O projeto GNU condenou e se opôs ao uso de Linux nos "
 "primeiros dias?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#wait\">Why did you wait so long before asking people to use the "
 "name GNU/Linux?</a>"
@@ -420,7 +425,7 @@ msgstr ""
 "<a href=\"#wait\">Por que vocês esperaram tanto antes de solicitar que as "
 "pessoas usassem o nome GNU/Linux?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#allgpled\">Should the GNU/<i>name</i> convention be applied to "
 "all programs that are GPL'ed?</a>"
@@ -428,7 +433,7 @@ msgstr ""
 "<a href=\"#allgpled\">A convenção GNU/<i>nome</i> deve se aplicada a todos "
 "os programas sob a GPL?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#unix\">Since much of GNU comes from Unix, shouldn't GNU give "
 "credit to Unix by using &ldquo;Unix&rdquo; in its name?</a>"
@@ -436,11 +441,11 @@ msgstr ""
 "<a href=\"#unix\">Já que muito do GNU vem do Unix, a GNU não deveria dar "
 "crédito ao Unix usando “Unix” em seu nome?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid "<a href=\"#bsd\">Should we say &ldquo;GNU/BSD&rdquo; too?</a>"
 msgstr "<a href=\"#bsd\">Eu devo dizer “GNU/BSD” também?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#othersys\">If I install the GNU tools on Windows, does that mean "
 "I am running a GNU/Windows system?</a>"
@@ -448,11 +453,11 @@ msgstr ""
 "<a href=\"#othersys\">Se eu instalar as ferramentas do GNU no Windows, isso "
 "significa que eu estou executando um sistema GNU/Windows?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid "<a href=\"#justlinux\">Can't Linux be used without GNU?</a>"
 msgstr "<a href=\"#justlinux\">O Linux não pode ser usado sem o GNU?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#howmuch\">How much of the GNU system is needed for the system to "
 "be GNU/Linux?</a>"
@@ -460,7 +465,7 @@ msgstr ""
 "<a href=\"#howmuch\">Quanto do sistema GNU é necessário para que todo o "
 "sistema seja GNU/Linux?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#linuxsyswithoutgnu\">Are there complete Linux systems [sic] "
 "without GNU?</a>"
@@ -468,7 +473,7 @@ msgstr ""
 "<a href=\"#linuxsyswithoutgnu\">Existem sistemas Linux [sic] completos sem o "
 "GNU?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#usegnulinuxandandroid\">Is it correct to say &ldquo;using "
 "Linux&rdquo; if it refers to using GNU/Linux and using Android?</a>"
@@ -476,7 +481,7 @@ msgstr ""
 "<a href=\"#usegnulinuxandandroid\">É correto dizer “usando Linux” ao se "
 "referir a usar GNU/Linux e usar Android?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#helplinus\">Why not call the system &ldquo;Linux&rdquo; anyway, "
 "and strengthen Linus Torvalds' role as posterboy for our community?</a>"
@@ -485,7 +490,7 @@ msgstr ""
 "forma e fortalecer o papel do Linus Torvalds como garoto-propaganda da nossa "
 "comunidade?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#claimlinux\">Isn't it wrong for us to label Linus Torvalds' work "
 "as GNU?</a>"
@@ -493,7 +498,7 @@ msgstr ""
 "<a href=\"#claimlinux\">Não é errado rotularmos o trabalho do Linus Torvalds "
 "como GNU?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#linusagreed\">Does Linus Torvalds agree that Linux is just the "
 "kernel?</a>"
@@ -501,7 +506,7 @@ msgstr ""
 "<a href=\"#linusagreed\">O Linus Torvalds concorda que o Linux é apenas o "
 "kernel?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#finishhurd\">Why not finish the GNU Hurd kernel, release the GNU "
 "system as a whole, and forget the question of what to call GNU/Linux?</a>"
@@ -510,7 +515,7 @@ msgstr ""
 "sistema GNU como um completo e esquecer a questão de como chamar o GNU/Linux?"
 "</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#lost\">The battle is already lost&mdash;society has made its "
 "decision and we can't change it, so why even think about it?</a>"
@@ -518,7 +523,7 @@ msgstr ""
 "<a href=\"#lost\">A batalha já está perdida &ndash; a sociedade já tomou sua "
 "decisão e não podemos alterá-la, então por que pensar nisso?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#whatgood\">Society has made its decision and we can't change it, "
 "so what good does it do if I say &ldquo;GNU/Linux&rdquo;?</a>"
@@ -526,7 +531,7 @@ msgstr ""
 "<a href=\"#whatgood\">A sociedade já tomou sua decisão e não podemos alterá-"
 "la, então qual o benefício de eu dizer “GNU/Linux”?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#explain\">Wouldn't it be better to call the system &ldquo;"
 "Linux&rdquo; and teach people its real origin with a ten-minute explanation?"
@@ -535,7 +540,7 @@ msgstr ""
 "<a href=\"#explain\">Não seria melhor chamar o sistema de “Linux” e ensinar "
 "as pessoas sua real origem com uma explicação de dez minutos?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#treatment\">Some people laugh at you when you ask them to call "
 "the system GNU/Linux.  Why do you subject yourself to this treatment?</a>"
@@ -543,7 +548,7 @@ msgstr ""
 "<a href=\"#treatment\">Algumas pessoas riem de mim quando eu peço que elas "
 "chamem o sistema de GNU/Linux. Por que se sujeitar a esse tratamento?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#alienate\">Some people condemn you when you ask them to call the "
 "system GNU/Linux.  Don't you lose by alienating them?</a>"
@@ -551,7 +556,7 @@ msgstr ""
 "<a href=\"#alienate\">Algumas pessoas lhe condenam quando você solicita que "
 "elas chamem o sistema de GNU/Linux. Vocês não perdem por aliená-las?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#rename\">Whatever you contributed, is it legitimate to rename the "
 "operating system?</a>"
@@ -559,7 +564,7 @@ msgstr ""
 "<a href=\"#rename\">Independente do que vocês contribuíram, é legítimo "
 "renomear o sistema operacional?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#force\">Isn't it wrong to force people to call the system &ldquo;"
 "GNU/Linux&rdquo;?</a>"
@@ -567,7 +572,7 @@ msgstr ""
 "<a href=\"#force\">Não é errado forçar as pessoas a chamar o sistema de “GNU/"
 "Linux”?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#whynotsue\">Why not sue people who call the whole system &ldquo;"
 "Linux&rdquo;?</a>"
@@ -575,7 +580,7 @@ msgstr ""
 "<a href=\"#whynotsue\">Por que não processar as pessoas que chamam todo o "
 "sistema de “Linux”?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#BSDlicense\">Since you objected to the original BSD license's "
 "advertising requirement to give credit to the University of California, "
@@ -585,7 +590,7 @@ msgstr ""
 "da licença BSD original de dar crédito para a Universidade da Califórnia, "
 "não é hipocrisia demandar crédito para o projeto GNU?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#require\">Shouldn't you put something in the GNU GPL to require "
 "people to call the system &ldquo;GNU&rdquo;?</a>"
@@ -593,7 +598,7 @@ msgstr ""
 "<a href=\"#require\">Vocês não deveriam colocar alguma coisa na GNU GPL para "
 "exigir que as pessoas chamem o sistema de “GNU”?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#deserve\">Since you failed to put something in the GNU GPL to "
 "require people to call the system &ldquo;GNU&rdquo;, you deserve what "
@@ -603,7 +608,7 @@ msgstr ""
 "GPL para exigir que as pessoas chamem o sistema de “GNU”, vocês mereceram o "
 "que aconteceu; por que estão reclamando agora?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#contradict\">Wouldn't you be better off not contradicting what so "
 "many people believe?</a>"
@@ -611,7 +616,7 @@ msgstr ""
 "<a href=\"#contradict\">Não seria melhor vocês não contradizerem o que "
 "tantas pessoas acreditam?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#somanyright\">Since many people call it &ldquo;Linux&rdquo;, "
 "doesn't that make it right?</a>"
@@ -619,7 +624,7 @@ msgstr ""
 "<a href=\"#somanyright\">Já que muitas pessoas o chamam de “Linux”, isso não "
 "o torna correto?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#knownname\">Isn't it better to call the system by the name most "
 "users already know?</a>"
@@ -627,7 +632,7 @@ msgstr ""
 "<a href=\"#knownname\">Não é melhor chamar o sistema pelo nome que a maioria "
 "dos usuários já conhecem?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#winning\">Many people care about what's convenient or who's "
 "winning, not about arguments of right or wrong.  Couldn't you get more of "
@@ -637,7 +642,7 @@ msgstr ""
 "quem está ganhando, e não com argumentos de certo ou errado. Vocês não "
 "conseguiriam mais apoio delas seguindo um caminho diferente?</a>"
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "Why do you call the system we use GNU/Linux and not Linux? <span class="
 "\"anchor-reference-id\">(<a href=\"#why\">#why</a>)</span>"
@@ -645,7 +650,7 @@ msgstr ""
 "Por que vocês chamam o sistema que usamos de GNU/Linux e não Linux? <span "
 "class=\"anchor-reference-id\">(<a href=\"#why\">#why</a>)</span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "Most operating system distributions based on Linux as kernel are basically "
 "modified versions of the GNU operating system.  We began developing GNU in "
@@ -664,11 +669,11 @@ msgstr ""
 "centrais, formando a maior contribuição única para todo o sistema. A visão "
 "básica também era nossa."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid "In fairness, we ought to get at least equal mention."
 msgstr "De forma justa, devemos ter, pelo menos, uma menção mínima."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "See <a href=\"/gnu/linux-and-gnu.html\">Linux and the GNU System</a> and <a "
 "href=\"/gnu/gnu-users-never-heard-of-gnu.html\">GNU Users Who Have Never "
@@ -680,7 +685,7 @@ msgstr ""
 "falar do GNU</a> para mais explicação e <a href=\"/gnu/the-gnu-project.html"
 "\">O Projeto GNU</a> para a história."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "Why is the name important? <span class=\"anchor-reference-id\">(<a href="
 "\"#whycare\">#whycare</a>)</span>"
@@ -688,7 +693,7 @@ msgstr ""
 "Por que o nome é importante? <span class=\"anchor-reference-id\">(<a href="
 "\"#whycare\">#whycare</a>)</span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "Although the developers of Linux, the kernel, are contributing to the free "
 "software community, many of them do not care about freedom.  People who "
@@ -703,7 +708,7 @@ msgstr ""
 "que eles realmente não participaram. Em seguida, eles dão um peso excessivo "
 "aos pontos de vista desses desenvolvedores."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "Calling the system GNU/Linux recognizes the role that our idealism played in "
 "building our community, and <a href=\"/gnu/why-gnu-linux.html\">helps the "
@@ -714,7 +719,7 @@ msgstr ""
 "linux.html\">ajuda o público a reconhecer a importância prática desses "
 "ideais</a>."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "What is the real relationship between GNU and Linux? <span class=\"anchor-"
 "reference-id\">(<a href=\"#what\">#what</a>)</span>"
@@ -722,7 +727,7 @@ msgstr ""
 "Qual a real relação entre GNU e Linux? <span class=\"anchor-reference-id\">"
 "(<a href=\"#what\">#what</a>)</span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "The GNU operating system and the Linux kernel are separate software projects "
 "that do complementary jobs.  Typically they are packaged in a <a href=\"/"
@@ -733,7 +738,7 @@ msgstr ""
 "empacotados em uma <a href=\"/distros/distros.html\">distribuição GNU/Linux</"
 "a> e usados em conjunto."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "How did it come about that most people call the system &ldquo;Linux&rdquo;? "
 "<span class=\"anchor-reference-id\">(<a href=\"#howerror\">#howerror</a>)</"
@@ -743,7 +748,7 @@ msgstr ""
 "<span class=\"anchor-reference-id\">(<a href=\"#howerror\">#howerror</a>)</"
 "span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "Calling the system &ldquo;Linux&rdquo; is a confusion that has spread faster "
 "than the corrective information."
@@ -751,7 +756,7 @@ msgstr ""
 "Chamar o sistema de “Linux” é uma confusão que se espalhou mais rapidamente "
 "do que a informação corretiva."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "The people who combined Linux with the GNU system were not aware that that's "
 "what their activity amounted to.  They focused their attention on the piece "
@@ -769,7 +774,7 @@ msgstr ""
 "problemático isso era e pedimos às pessoas que corrigissem a prática. Até "
 "então, a confusão teve uma grande vantagem."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "Most of the people who call the system &ldquo;Linux&rdquo; have never heard "
 "why that's not the right thing.  They saw others using that name and assume "
@@ -788,7 +793,7 @@ msgstr ""
 "Essa imagem falsa tende a reforçar a ideia de que o sistema deveria ser "
 "chamado de “Linux”."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "Many of the questions in this file represent people's attempts to justify "
 "the name they are accustomed to using."
@@ -796,7 +801,7 @@ msgstr ""
 "Muitas das perguntas neste arquivo representam as tentativas das pessoas de "
 "justificar o nome que estão acostumados a usar."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "Should we always say &ldquo;GNU/Linux&rdquo; instead of &ldquo;Linux&rdquo;? "
 "<span class=\"anchor-reference-id\">(<a href=\"#always\">#always</a>)</span>"
@@ -804,7 +809,7 @@ msgstr ""
 "Devemos sempre dizer “GNU/Linux” em vez de “Linux”? <span class=\"anchor-"
 "reference-id\">(<a href=\"#always\">#always</a>)</span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "Not always&mdash;only when you're talking about the whole system.  When "
 "you're referring specifically to the kernel, you should call it &ldquo;"
@@ -814,7 +819,7 @@ msgstr ""
 "Quando você está se referindo especificamente ao kernel, você deve chamá-lo "
 "“Linux”, o nome que seu desenvolvedor escolheu."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "When people call the whole system &ldquo;Linux&rdquo;, as a consequence they "
 "call the whole system by the same name as the kernel.  This causes many "
@@ -829,7 +834,7 @@ msgstr ""
 "sobre o kernel ou todo o sistema. Ao chamar todo o sistema “GNU/Linux” e "
 "chamar o kernel de “Linux”, evita-se a ambiguidade."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "Would Linux have achieved the same success if there had been no GNU? <span "
 "class=\"anchor-reference-id\">(<a href=\"#linuxalone\">#linuxalone</a>)</"
@@ -838,7 +843,7 @@ msgstr ""
 "Linux teria alcançado o mesmo sucesso se não existisse GNU? <span class="
 "\"anchor-reference-id\">(<a href=\"#linuxalone\">#linuxalone</a>)</span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "In that alternative world, there would be nothing today like the GNU/Linux "
 "system, and probably no free operating system at all.  No one attempted to "
@@ -852,7 +857,7 @@ msgstr ""
 "tarde) Berkeley CSRG, ao qual o Projeto GNU solicitou especificamente para "
 "começassem a liberar seu código."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "Linus Torvalds was partly influenced by a speech about GNU in Finland in "
 "1990.  It's possible that even without this influence he might have written "
@@ -866,7 +871,7 @@ msgstr ""
 "software livre. O Linux tornou-se livre em 1992, quando Linus relançou-o sob "
 "a GNU GPL. (Veja as notas de lançamento para a versão 0.12.)"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "Even if Torvalds had released Linux under some other free software license, "
 "a free kernel alone would not have made much difference to the world.  The "
@@ -878,7 +883,7 @@ msgstr ""
 "mundo. O significado do Linux veio de encaixar em uma estrutura maior, um "
 "sistema operacional livre e completo: o GNU/Linux."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "Wouldn't it be better for the community if you did not divide people with "
 "this request? <span class=\"anchor-reference-id\">(<a href=\"#divide"
@@ -888,7 +893,7 @@ msgstr ""
 "esse pedido? <span class=\"anchor-reference-id\">(<a href=\"#divide"
 "\">#divide</a>)</span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "When we ask people to say &ldquo;GNU/Linux&rdquo;, we are not dividing "
 "people.  We are asking them to give the GNU Project credit for the GNU "
@@ -898,7 +903,7 @@ msgstr ""
 "pessoas. Pedimos que dê o crédito do Projeto GNU para o sistema operacional "
 "GNU. Isso não critica ninguém nem empurra ninguém."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "However, there are people who do not like our saying this.  Sometimes those "
 "people push us away in response.  On occasion they are so rude that one "
@@ -912,7 +917,7 @@ msgstr ""
 "Não nos silencia, mas tende a dividir a comunidade, então esperamos que você "
 "possa convencê-los a parar."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "However, this is only a secondary cause of division in our community.  The "
 "largest division in the community is between people who appreciate free "
@@ -929,7 +934,7 @@ msgstr ""
 "apenas como um eficiente modelo de desenvolvimento (o movimento de código "
 "aberto)."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "This disagreement is not just a matter of names&mdash;it is a matter of "
 "differing basic values.  It is essential for the community to see and think "
@@ -945,7 +950,7 @@ msgstr ""
 "href=\"/philosophy/open-source-misses-the-point.html\">Por que o código "
 "aberto não compartilha dos objetivos do software livre</a>."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "The disagreement over values partially aligns with the amount of attention "
 "people pay to the GNU Project's role in our community.  People who value "
@@ -970,7 +975,7 @@ msgstr ""
 "nós, que valorizamos a liberdade, persuadirmos a todos (o que não será "
 "fácil) ou sermos totalmente derrotados (esperemos que não)."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "Doesn't the GNU project support an individual's free speech rights to call "
 "the system by any name that individual chooses? <span class=\"anchor-"
@@ -980,7 +985,7 @@ msgstr ""
 "de chamar o sistema pelo nome que esse indivíduo escolher? <span class="
 "\"anchor-reference-id\">(<a href=\"#freespeech\">#freespeech</a>)</span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "Yes, indeed, we believe you have a free speech right to call the operating "
 "system by any name you wish.  We ask that people call it GNU/Linux as a "
@@ -995,7 +1000,7 @@ msgstr ""
 "para informar aos outros que esses valores de liberdade trouxeram o sistema "
 "à existência."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "Since everyone knows the role of GNU in developing the system, doesn't the "
 "&ldquo;GNU/&rdquo; in the name go without saying? <span class=\"anchor-"
@@ -1005,7 +1010,7 @@ msgstr ""
 "“GNU/” no nome não estaria implícito? <span class=\"anchor-reference-id\">"
 "(<a href=\"#everyoneknows\">#everyoneknows</a>)</span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "Experience shows that the system's users, and the computer-using public in "
 "general, often know nothing about the GNU system.  Most articles about the "
@@ -1019,7 +1024,7 @@ msgstr ""
 "que o GNU representa. <a href=\"/gnu/gnu-users-never-heard-of-gnu.html"
 "\">Usuários do GNU que nunca ouviram falar do GNU</a> explica ainda mais."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "The people who say this are probably geeks thinking of the geeks they know.  "
 "Geeks often do know about GNU, but many have a completely wrong idea of what "
@@ -1032,7 +1037,7 @@ msgstr ""
 "exemplo, muitos pensam que é uma coleção de <a href=\"#tools"
 "\">“ferramentas”</a> ou um projeto para desenvolver ferramentas."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "The wording of this question, which is typical, illustrates another common "
 "misconception.  To speak of &ldquo;GNU's role&rdquo; in developing something "
@@ -1045,7 +1050,7 @@ msgstr ""
 "pessoas. O GNU é um sistema operacional. Seria sensato falar sobre o papel "
 "do Projeto GNU nessa ou em alguma outra atividade, mas não em GNU."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "Since I know the role of GNU in this system, why does it matter what name I "
 "use? <span class=\"anchor-reference-id\">(<a href="
@@ -1055,7 +1060,7 @@ msgstr ""
 "uso? <span class=\"anchor-reference-id\">(<a href="
 "\"#everyoneknows2\">#everyoneknows2</a>)</span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "If your words don't reflect your knowledge, you don't teach others.  Most "
 "people who have heard of the GNU/Linux system think it is &ldquo;"
@@ -1067,7 +1072,7 @@ msgstr ""
 "“Linux”, que foi iniciado por Linus Torvalds, e que se destinava a ser "
 "“código aberto”. Se você não disser a eles, quem vai?"
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "Isn't shortening &ldquo;GNU/Linux&rdquo; to &ldquo;Linux&rdquo; just like "
 "shortening &ldquo;Microsoft Windows&rdquo; to &ldquo;Windows&rdquo;? <span "
@@ -1077,7 +1082,7 @@ msgstr ""
 "Windows” para “Windows”? <span class=\"anchor-reference-id\">(<a href="
 "\"#windows\">#windows</a>)</span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "It's useful to shorten a frequently-used name, but not if the abbreviation "
 "is misleading."
@@ -1085,7 +1090,7 @@ msgstr ""
 "É útil encurtar um nome usado com frequência, mas não se a abreviatura é "
 "enganosa."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "Almost everyone in developed countries really does know that the &ldquo;"
 "Windows&rdquo; system is made by Microsoft, so shortening &ldquo;Microsoft "
@@ -1098,7 +1103,7 @@ msgstr ""
 "“Windows” não engana ninguém quanto à natureza e origem desse sistema. "
 "Encurtar “GNU/Linux” para “Linux” dá a ideia errada de onde o sistema vem."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "The question is itself misleading because GNU and Microsoft are not the same "
 "kind of thing.  Microsoft is a company; GNU is an operating system."
@@ -1106,7 +1111,7 @@ msgstr ""
 "A pergunta em si é enganosa porque o GNU e a Microsoft não são o mesmo tipo "
 "de coisa. A Microsoft é uma empresa; O GNU é um sistema operacional."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "Isn't GNU a collection of programming tools that were included in Linux? "
 "<span class=\"anchor-reference-id\">(<a href=\"#tools\">#tools</a>)</span>"
@@ -1115,7 +1120,7 @@ msgstr ""
 "Linux? <span class=\"anchor-reference-id\">(<a href=\"#tools\">#tools</a>)</"
 "span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "People who think that Linux is an entire operating system, if they hear "
 "about GNU at all, often get a wrong idea of what GNU is.  They may think "
@@ -1134,7 +1139,7 @@ msgstr ""
 "em uma estrutura conceitual na qual esse sistema operacional é rotulado como "
 "“Linux”."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "The GNU Project was named after the GNU operating system&mdash;it's the "
 "project to develop the GNU system.  (See <a href=\"/gnu/initial-announcement."
@@ -1144,7 +1149,7 @@ msgstr ""
 "projeto para desenvolver o sistema GNU. (Veja <a href=\"/gnu/initial-"
 "announcement.html\">o anúncio inicial de 1983</a>.)"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "We developed programs such as GCC, GNU Emacs, GAS, GLIBC, BASH, etc., "
 "because we needed them for the GNU operating system.  GCC, the GNU Compiler "
@@ -1158,7 +1163,7 @@ msgstr ""
 "Nós, muitas pessoas que trabalhamos no Projeto GNU, desenvolvemos "
 "Ghostscript, GNUCash, GNU Chess e GNOME para o sistema GNU também."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "What is the difference between an operating system and a kernel? <span class="
 "\"anchor-reference-id\">(<a href=\"#osvskernel\">#osvskernel</a>)</span>"
@@ -1166,7 +1171,7 @@ msgstr ""
 "Qual é a diferença entre um sistema operacional e um kernel? <span class="
 "\"anchor-reference-id\">(<a href=\"#osvskernel\">#osvskernel</a>)</span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "An operating system, as we use the term, means a collection of programs that "
 "are sufficient to use the computer to do a wide variety of jobs.  A general "
@@ -1179,7 +1184,7 @@ msgstr ""
 "completo, deve lidar com todos os trabalhos que muitos usuários podem querer "
 "fazer."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "The kernel is one of the programs in an operating system&mdash;the program "
 "that allocates the machine's resources to the other programs that are "
@@ -1189,7 +1194,7 @@ msgstr ""
 "aloca os recursos da máquina para os outros programas que estão sendo "
 "executados. O kernel também cuida de iniciar e parar outros programas."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "To confuse matters, some people use the term &ldquo;operating system&rdquo; "
 "to mean &ldquo;kernel&rdquo;.  Both uses of the term go back many years.  "
@@ -1209,7 +1214,7 @@ msgstr ""
 "inclusive. Como pretendíamos que o GNU fosse um sistema operacional similar "
 "ao Unix, usamos o termo “sistema operacional” do mesmo jeito."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "Most of the time when people speak of the &ldquo;Linux operating "
 "system&rdquo; they are using &ldquo;operating system&rdquo; in the same "
@@ -1226,7 +1231,7 @@ msgstr ""
 "“Linux” é o nome certo para isso, mas diga “kernel” também para evitar a "
 "ambiguidade sobre qual corpo de software você quer dizer."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "If you prefer to use some other term such as &ldquo;system "
 "distribution&rdquo; for the entire collection of programs, instead of &ldquo;"
@@ -1237,7 +1242,7 @@ msgstr ""
 "toda a coleção de programas, em vez de “sistema operacional”, está tudo bem. "
 "Então, você falaria sobre as distribuições do sistema GNU/Linux."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "The kernel of a system is like the foundation of a house.  How can a house "
 "be almost complete when it doesn't have a foundation? <span class=\"anchor-"
@@ -1247,7 +1252,7 @@ msgstr ""
 "quase completa quando ela não tem uma fundação? <span class=\"anchor-"
 "reference-id\">(<a href=\"#house\">#house</a>)</span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "A kernel is not much like the foundation of a house because building an "
 "operating system is not much like building a house."
@@ -1255,7 +1260,7 @@ msgstr ""
 "Um kernel não é muito parecido com a fundação de uma casa porque construir "
 "um sistema operacional não é como construir uma casa."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "A house is built from lots of little general parts that are cut and put "
 "together in situ.  They have to be put together from the bottom up.  Thus, "
@@ -1267,7 +1272,7 @@ msgstr ""
 "Assim, quando a fundação não foi construída, nenhuma parte substancial foi "
 "construída; tudo que você tem é um buraco no chão."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "By contrast, an operating system consists of complex components that can be "
 "developed in any order.  When you have developed most of the components, "
@@ -1283,7 +1288,7 @@ msgstr ""
 "maioria dos módulos da Estação Espacial estiverem em órbita, mas aguardando "
 "um outro módulo essencial, isso seria como o sistema GNU em 1992."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "Isn't the kernel the brain of the system? <span class=\"anchor-reference-id"
 "\">(<a href=\"#brain\">#brain</a>)</span>"
@@ -1291,7 +1296,7 @@ msgstr ""
 "O kernel não é o cérebro do sistema? <span class=\"anchor-reference-id\">(<a "
 "href=\"#brain\">#brain</a>)</span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "A computer system is not much like a human body, and no part of it plays a "
 "role comparable to that of the brain in a human."
@@ -1299,7 +1304,7 @@ msgstr ""
 "Um sistema de computador não é muito parecido com um corpo humano e nenhuma "
 "parte dele desempenha um papel comparável ao do cérebro em um ser humano."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "Isn't writing the kernel most of the work in an operating system? <span "
 "class=\"anchor-reference-id\">(<a href=\"#kernelmost\">#kernelmost</a>)</"
@@ -1309,11 +1314,11 @@ msgstr ""
 "<span class=\"anchor-reference-id\">(<a href=\"#kernelmost\">#kernelmost</a>)"
 "</span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid "No, many components take a lot of work."
 msgstr "Não, muitos componentes exigem muito trabalho."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "An operating system requires a kernel.  Since the GNU Project didn't develop "
 "a kernel, how can the system be GNU?<span class=\"anchor-reference-id\">(<a "
@@ -1323,7 +1328,7 @@ msgstr ""
 "desenvolveu um kernel, como o sistema pode ser GNU?<span class=\"anchor-"
 "reference-id\">(<a href=\"#nokernel\">#nokernel</a>)</span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "The people who argue that way for calling the system &ldquo;Linux&rdquo; are "
 "using a double standard.  An operating system requires compilers, editors, "
@@ -1337,7 +1342,7 @@ msgstr ""
 "programas, para corresponder aos sistemas BSD incluídos em 1983. Como o "
 "Torvalds não desenvolveu nenhum deles, como o sistema pode ser “Linux”?"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "That standard is too strict, not the right way to judge the contributions of "
 "any contributor."
@@ -1345,7 +1350,7 @@ msgstr ""
 "Esse padrão é muito rigoroso, não é o caminho certo para julgar as "
 "contribuições de qualquer colaborador."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "Linus Torvalds made an important contribution to the operating system we "
 "use; the GNU Project started earlier and contributed much more.  The name "
@@ -1355,7 +1360,7 @@ msgstr ""
 "que usamos; o Projeto GNU começou mais cedo e contribuiu com muito mais. O "
 "nome “GNU/Linux” dá crédito a cada um."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "How can GNU be an operating system, if I can't get something called &ldquo;"
 "GNU&rdquo; and install it? <span class=\"anchor-reference-id\">(<a href="
@@ -1365,7 +1370,7 @@ msgstr ""
 "coisa chamada “GNU” e instalá-la? <span class=\"anchor-reference-id\">(<a "
 "href=\"#notinstallable\">#notinstallable</a>)</span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "Many <a href=\"/distros/distros.html\"> packaged and installable versions of "
 "GNU</a> are available.  None of them is called simply &ldquo;GNU&rdquo;, but "
@@ -1375,7 +1380,7 @@ msgstr ""
 "do GNU</a> estão disponíveis. Nenhuma delas é chamada simplesmente de “GNU”, "
 "mas o GNU é o que elas basicamente são."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "We expected to release the GNU system packaged for installation, but this "
 "plan was overtaken by events: in 1992 others were already packaging GNU "
@@ -1395,7 +1400,7 @@ msgstr ""
 "apenas “GNU” porque esse seria o nome de uma versão do sistema com o kernel "
 "GNU Hurd &ndash; que ainda não estava pronto."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "The GNU Hurd kernel never became sufficiently ready; we only recommend it to "
 "those interested in working on it.  So we never packaged GNU with the GNU "
@@ -1406,7 +1411,7 @@ msgstr ""
 "GNU com o kernel GNU Hurd. No entanto, o Debian empacotou essa combinação "
 "como Debian GNU/Hurd."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "We are now developing an advanced Scheme-based package manager called Guix "
 "and a complete system distribution based on it called the <a href=\"/"
@@ -1419,7 +1424,7 @@ msgstr ""
 "GuixSD. Isso inclui o reempacotamento de uma parte substancial do sistema "
 "GNU."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "We never took the last step of packaging GNU under the name &ldquo;"
 "GNU&rdquo;, but that doesn't alter what kind of thing GNU is.  GNU is an "
@@ -1428,7 +1433,7 @@ msgstr ""
 "Nós nunca demos o último passo de empacotar GNU sob o nome “GNU”, mas isso "
 "não altera o tipo de coisa que é o GNU. O GNU é um sistema operacional."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "We're calling the whole system after the kernel, Linux.  Isn't it normal to "
 "name an operating system after a kernel? <span class=\"anchor-reference-id\">"
@@ -1438,7 +1443,7 @@ msgstr ""
 "sistema operacional pelo kernel? <span class=\"anchor-reference-id\">(<a "
 "href=\"#afterkernel\">#afterkernel</a>)</span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "That practice seems to be very rare&mdash;we can't find any examples other "
 "than the misuse of the name &ldquo;Linux&rdquo;.  Normally an operating "
@@ -1454,7 +1459,7 @@ msgstr ""
 "geralmente não tem um nome próprio &ndash; em vez disso, as pessoas dizem “o "
 "kernel de tal e tal” ou “o kernel tal e tal”."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "Because those two constructions are used synonymously, the expression &ldquo;"
 "the Linux kernel&rdquo; can easily be misunderstood as meaning &ldquo;the "
@@ -1468,7 +1473,7 @@ msgstr ""
 "kernel. Você pode evitar a possibilidade desse mal-entendido dizendo ou "
 "escrevendo “o kernel, Linux” ou “Linux, o kernel”."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "Can another system have &ldquo;the feel of Linux&rdquo;? <span class="
 "\"anchor-reference-id\">(<a href=\"#feel\">#feel</a>)</span>"
@@ -1476,7 +1481,7 @@ msgstr ""
 "Outro sistema pode ter “a cara do Linux”? <span class=\"anchor-reference-id"
 "\">(<a href=\"#feel\">#feel</a>)</span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "There is no such thing as the &ldquo;feel of Linux&rdquo; because Linux has "
 "no user interfaces.  Like any modern kernel, Linux is a base for running "
@@ -1490,7 +1495,7 @@ msgstr ""
 "interação humana com o GNU/Linux sempre passa por outros programas e a "
 "“cara” vem deles."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "The problem with &ldquo;GNU/Linux&rdquo; is that it is too long.  How about "
 "recommending a shorter name? <span class=\"anchor-reference-id\">(<a href="
@@ -1500,7 +1505,7 @@ msgstr ""
 "nome mais curto? <span class=\"anchor-reference-id\">(<a href=\"#long"
 "\">#long</a>)</span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "For a while we tried the name &ldquo;LiGNUx&rdquo;, which combines the words "
 "&ldquo;GNU&rdquo; and &ldquo;Linux&rdquo;.  The reaction was very bad.  "
@@ -1510,7 +1515,7 @@ msgstr ""
 "“Linux”. A reação foi muito ruim. As pessoas aceitam “GNU/Linux” muito "
 "melhor."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "The shortest legitimate name for this system is &ldquo;GNU&rdquo;, but we "
 "call it &ldquo;GNU/Linux&rdquo; <a href=\"#justgnu\"> for the reasons given "
@@ -1519,7 +1524,7 @@ msgstr ""
 "O nome legítimo mais curto para este sistema é o “GNU”, mas nós o chamamos "
 "“GNU/Linux” <a href=\"#justgnu\"> pelos motivos apresentados abaixo</a>."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "How about calling the system &ldquo;GliNUx&rdquo; (instead of &ldquo;GNU/"
 "Linux&rdquo;)? <span class=\"anchor-reference-id\">(<a href="
@@ -1528,7 +1533,7 @@ msgstr ""
 "Que tal chamar o sistema de “GliNUx” (em vez de “GNU/Linux”)? <span class="
 "\"anchor-reference-id\">(<a href=\"#long1\">#long1</a>)</span>"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "The name &ldquo;GNU&rdquo; does not visibly appear in &ldquo;Glinux,&rdquo; "
 "so most people would not notice it is there.  Even if it is capitalized as "
@@ -1540,7 +1545,7 @@ msgstr ""
 "maiúsculas como “GliNUx”, a maioria das pessoas não perceberia que contém "
 "uma referência ao GNU."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "It would be comparable to writing &ldquo;GNU/Linux,&rdquo; but putting "
 "&ldquo;GNU/&rdquo; in print so small that most people could not read it."
@@ -1548,7 +1553,7 @@ msgstr ""
 "Seria comparável à escrita “GNU/Linux”, mas colocar “GNU/” numa impressão "
 "tão pequena que a maioria das pessoas não pudesse lê-lo."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "The problem with &ldquo;GNU/Linux&rdquo; is that it is too long.  Why should "
 "I go to the trouble of saying &ldquo;GNU/&rdquo;? <span class=\"anchor-"
@@ -1558,7 +1563,7 @@ msgstr ""
 "dar o trabalho de dizer “GNU/”? <span class=\"anchor-reference-id\">(<a href="
 "\"#long2\">#long2</a>)</span>"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "It only takes a second to say or type &ldquo;GNU/&rdquo;.  If you appreciate "
 "the system that we developed, can't you take one second to recognize our "
@@ -1568,7 +1573,7 @@ msgstr ""
 "desenvolvemos, você não pode demorar um segundo para reconhecer nosso "
 "trabalho?"
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "Unfortunately, &ldquo;GNU/Linux&rdquo; is five syllables. People won't use "
 "such a long term. Shouldn't you find a shorter one? <span class=\"anchor-"
@@ -1578,7 +1583,7 @@ msgstr ""
 "tão longo. Vocês não deveriam achar um mais curto? <span class=\"anchor-"
 "reference-id\">(<a href=\"#long3\">#long3</a>)</span>"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "Actually, &ldquo;GNU/Linux&rdquo; is only four syllables.  &ldquo;"
 "Unfortunately&rdquo; is five syllables, yet people show no sign of "
@@ -1588,7 +1593,7 @@ msgstr ""
 "cinco sílabas, mas as pessoas não mostram sinais de relutância em usar essa "
 "palavra."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "Stallman doesn't ask us to call him &ldquo;Richard Matthew Stallman&rdquo; "
 "every the time.  So why ask us to say &ldquo;GNU/Linux&rdquo; every time? "
@@ -1598,7 +1603,7 @@ msgstr ""
 "todo. Então, por que nos pedir para dizer “GNU/Linux” toda vez? <span class="
 "\"anchor-reference-id\">(<a href=\"#long4\">#long4</a>)</span>"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "Omitting &ldquo;Matthew&rdquo; does not misrepresent anything important "
 "about Stallman's nature, origin, ideas or purpose.  Omitting &ldquo;"
@@ -1608,7 +1613,7 @@ msgstr ""
 "ideias ou propósito de Stallman. Omitir “GNU” deturpa essas coisas sobre o "
 "sistema GNU/Linux."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "This is an example of a frequent way of hiding a fallacy: to bury it inside "
 "a misleading analogy.  A better analogy would be, &ldquo;Why shouldn't we "
@@ -1618,7 +1623,7 @@ msgstr ""
 "la dentro de uma analogia enganosa. Uma analogia melhor seria: “Por que não "
 "devemos chamar Stallman de ‘Torvalds’?”"
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "Since Linux is a secondary contribution, would it be false to the facts to "
 "call the system simply &ldquo;GNU&rdquo;? <span class=\"anchor-reference-id"
@@ -1628,7 +1633,7 @@ msgstr ""
 "apenas de “GNU”? <span class=\"anchor-reference-id\">(<a href=\"#justgnu"
 "\">#justgnu</a>)</span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "It would not be false to the facts, but it is not the best thing to do.  "
 "Here are the reasons we call that system version &ldquo;GNU/Linux&rdquo; "
@@ -1638,7 +1643,7 @@ msgstr ""
 "motivos pelos quais chamamos aquela versão de sistema de “GNU/Linux” em vez "
 "de apenas “GNU”:"
 
-#. type: Content of: <dl><dd><ul><li>
+#. type: Content of: <div><div><dl><dd><ul><li>
 msgid ""
 "It's not exactly GNU&mdash;it has a different kernel (that is, Linux).  "
 "Distinguishing GNU/Linux from GNU is useful."
@@ -1646,7 +1651,7 @@ msgstr ""
 "Não é exatamente o GNU &ndash; tem um kernel diferente (isto é, Linux). "
 "Distinguir o GNU/Linux do GNU é útil."
 
-#. type: Content of: <dl><dd><ul><li>
+#. type: Content of: <div><div><dl><dd><ul><li>
 msgid ""
 "It would be ungentlemanly to ask people to <em>stop</em> giving any credit "
 "to Linus Torvalds.  He did write an important component of the system.  We "
@@ -1666,7 +1671,7 @@ msgstr ""
 "aberta, em vez de tentar lhe retirar o crédito por sua contribuição para o "
 "sistema."
 
-#. type: Content of: <dl><dd><ul><li>
+#. type: Content of: <div><div><dl><dd><ul><li>
 msgid ""
 "Since many people know of the system as &ldquo;Linux&rdquo;, if we say "
 "&ldquo;GNU&rdquo; they may simply not recognize we're talking about the same "
@@ -1678,7 +1683,7 @@ msgstr ""
 "Se dissermos “GNU/Linux”, eles podem fazer uma conexão com o que ouviram "
 "falar."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "I would have to pay a fee if I use &ldquo;Linux&rdquo; in the name of a "
 "product, and that would also apply if I say &ldquo;GNU/Linux&rdquo;.  Is it "
@@ -1691,7 +1696,7 @@ msgstr ""
 "“GNU” sem “Linux”, para economizar na taxa? <span class=\"anchor-reference-id"
 "\">(<a href=\"#trademarkfee\">#trademarkfee</a>)</span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "There's nothing wrong in calling the system &ldquo;GNU&rdquo;; basically, "
 "that's what it is.  It is nice to give Linus Torvalds a share of the credit "
@@ -1701,7 +1706,7 @@ msgstr ""
 "ele é. É bom dar a Linus Torvalds uma parte do crédito também, mas você não "
 "tem obrigação de pagar o privilégio de fazê-lo."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "So if you want to refer to the system simply as &ldquo;GNU&rdquo;, to avoid "
 "paying the fee for calling it &ldquo;Linux&rdquo;, we won't criticize you."
@@ -1709,7 +1714,7 @@ msgstr ""
 "Então, se você quiser se referir ao sistema simplesmente como “GNU”, para "
 "evitar pagar a taxa por chamá-lo “Linux”, não lhe criticaremos."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "Many other projects contributed to the system as it is today; it includes "
 "TeX, X11, Apache, Perl, and many more programs.  Don't your arguments imply "
@@ -1723,7 +1728,7 @@ msgstr ""
 "tão longo que é absurdo.) <span class=\"anchor-reference-id\">(<a href="
 "\"#many\">#many</a>)</span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "What we say is that you ought to give the system's principal developer a "
 "share of the credit.  The principal developer is the GNU Project, and the "
@@ -1733,7 +1738,7 @@ msgstr ""
 "parcela do crédito. O desenvolvedor principal é o Projeto GNU, e o sistema é "
 "basicamente o GNU."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "If you feel even more strongly about giving credit where it is due, you "
 "might feel that some secondary contributors also deserve credit in the "
@@ -1750,7 +1755,7 @@ msgstr ""
 "simplesmente grita por menção e você deseja escrever GNU/Linux/Perl, vá em "
 "frente."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "Since a long name such as GNU/X11/Apache/Linux/TeX/Perl/Python/FreeCiv "
 "becomes absurd, at some point you will have to set a threshold and omit the "
@@ -1764,7 +1769,7 @@ msgstr ""
 "certo para definir o limiar, então, onde quer que o estabeleça, não "
 "discutiremos contra isso."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "Different threshold levels would lead to different choices of name for the "
 "system.  But one name that cannot result from concerns of fairness and "
@@ -1778,7 +1783,7 @@ msgstr ""
 "justo dar todo o crédito a uma contribuição secundária (Linux) ao mesmo "
 "tempo que omite a contribuição principal (GNU)."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "systemd plays an important role in the GNU/Linux system as it is today; are "
 "we obligated to call it GNU/systemd/Linux? <span class=\"anchor-reference-id"
@@ -1788,7 +1793,7 @@ msgstr ""
 "somos obrigados a chamá-lo GNU/systemd/Linux?<span class=\"anchor-reference-"
 "id\">(<a href=\"#others\">#others</a>)</span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "systemd is a fairly important component, but not as important as the kernel "
 "(Linux), nor as important as the basis of the system as a whole (GNU).  "
@@ -1800,7 +1805,7 @@ msgstr ""
 "(GNU). No entanto, se você deseja enfatizar a presença do systemd chamando o "
 "sistema “GNU/systemd/Linux”, não há nada de errado em fazer isso."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "Many other projects contributed to the system as it is today, but they don't "
 "insist on calling it XYZ/Linux.  Why should we treat GNU specially? <span "
@@ -1811,7 +1816,7 @@ msgstr ""
 "forma especial? <span class=\"anchor-reference-id\">(<a href=\"#others"
 "\">#others</a>)</span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "Thousands of projects have developed programs commonly included in today's "
 "GNU/Linux systems.  They all deserve credit for their contributions, but "
@@ -1823,7 +1828,7 @@ msgstr ""
 "mas não são os principais desenvolvedores do sistema como um todo, então "
 "eles não pedem para ser creditado como tal."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "GNU is different because it is more than just a contributed program, more "
 "than just a collection of contributed programs.  GNU is the framework on "
@@ -1833,7 +1838,7 @@ msgstr ""
 "do que apenas uma coleção de programas contribuídos. O GNU é o quadro em que "
 "o sistema foi criado."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "GNU is a small fraction of the system nowadays, so why should we mention it? "
 "<span class=\"anchor-reference-id\">(<a href=\"#allsmall\">#allsmall</a>)</"
@@ -1843,7 +1848,7 @@ msgstr ""
 "mencioná-lo? <span class=\"anchor-reference-id\">(<a href=\"#allsmall"
 "\">#allsmall</a>)</span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "In 2008, we found that GNU packages made up 15% of the &ldquo;main&rdquo; "
 "repository of the gNewSense GNU/Linux distribution.  Linux made up 1.5%.  So "
@@ -1854,7 +1859,7 @@ msgstr ""
 "“main” da distribuição gNewSense GNU/Linux. O Linux constituiu 1,5%. Então, "
 "o mesmo argumento se aplicaria ainda mais fortemente para chamá-lo “Linux”."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "GNU is a small fraction of the system nowadays, and Linux is an even smaller "
 "fraction.  But they are the system's core; the system was made by combining "
@@ -1864,7 +1869,7 @@ msgstr ""
 "ainda menor. Mas eles são o kernel do sistema; o sistema foi feito "
 "combinando-os. Assim, o nome “GNU/Linux” permanece apropriado."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "Many companies contributed to the system as it is today; doesn't that mean "
 "we ought to call it GNU/Red&nbsp;Hat/Novell/Linux? <span class=\"anchor-"
@@ -1875,7 +1880,7 @@ msgstr ""
 "class=\"anchor-reference-id\">(<a href=\"#manycompanies\">#manycompanies</a>)"
 "</span>"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "GNU is not comparable to Red Hat or Novell; it is not a company, or an "
 "organization, or even an activity.  GNU is an operating system.  (When we "
@@ -1889,7 +1894,7 @@ msgstr ""
 "sistema GNU). O sistema GNU/Linux é baseado no GNU e é por isso que o GNU "
 "deve aparecer em seu nome."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "Much of those companies' contribution to the GNU/Linux system lies in the "
 "code they have contributed to various GNU packages including GCC and GNOME.  "
@@ -1901,7 +1906,7 @@ msgstr ""
 "Dizer que o GNU/Linux dá crédito a essas empresas, juntamente com todo o "
 "resto dos desenvolvedores do GNU."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "Why do you write &ldquo;GNU/Linux&rdquo; instead of &ldquo;GNU Linux&rdquo;? "
 "<span class=\"anchor-reference-id\">(<a href=\"#whyslash\">#whyslash</a>)</"
@@ -1910,7 +1915,7 @@ msgstr ""
 "Por que vocês escrevem “GNU/Linux” em vez de “GNU Linux”? <span class="
 "\"anchor-reference-id\">(<a href=\"#whyslash\">#whyslash</a>)</span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "Following the rules of English, in the construction &ldquo;GNU Linux&rdquo; "
 "the word &ldquo;GNU&rdquo; modifies &ldquo;Linux&rdquo;.  This can mean "
@@ -1922,7 +1927,7 @@ msgstr ""
 "é um pacote GNU”. Nenhum desses significados se encaixa na situação em "
 "questão."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "Linux is not a GNU package; that is, it wasn't developed under the GNU "
 "Project's aegis or contributed specifically to the GNU Project.  Linus "
@@ -1934,7 +1939,7 @@ msgstr ""
 "escreveu Linux independentemente, como seu próprio projeto. Então, o "
 "significado de “Linux, que é um pacote GNU” não está certo."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "We're not talking about a distinct GNU version of Linux, the kernel.  The "
 "free GNU/Linux distros do have a <a href=\"http://directory.fsf.org/project/"
@@ -1950,7 +1955,7 @@ msgstr ""
 "ser considerado “GNU Linux”; mas não gostaríamos de chamá-lo assim, porque "
 "seria muito confuso."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "We're talking about a version of GNU, the operating system, distinguished by "
 "having Linux as the kernel.  A slash fits the situation because it means "
@@ -1962,7 +1967,7 @@ msgstr ""
 "significa “combinação”. (Pense em “Entrada/Saída”.) Este sistema é a "
 "combinação de GNU e Linux; daí, “GNU/Linux”."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "There are other ways to express &ldquo;combination&rdquo;.  If you think "
 "that a plus-sign is clearer, please use that.  In French, a hyphen is clear: "
@@ -1973,7 +1978,7 @@ msgstr ""
 "de mais é mais claro, use isso. Em francês, um hífen é claro: “GNU-Linux”. "
 "Em espanhol, às vezes dizemos: “GNU con Linux”."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "How is the name &ldquo;GNU/Linux&rdquo; pronounced? <span class=\"anchor-"
 "reference-id\">(<a href=\"#pronounce\">#pronounce</a>)</span>"
@@ -1981,7 +1986,7 @@ msgstr ""
 "Como o nome “GNU/Linux” é pronunciado? <span class=\"anchor-reference-id\">"
 "(<a href=\"#pronounce\">#pronounce</a>)</span>"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "Please pronounce it as &ldquo;GNU slash Linux.&rdquo; If you don't pronounce "
 "the slash, people will think you are saying &ldquo;GNU Linux,&rdquo; which "
@@ -1991,7 +1996,7 @@ msgstr ""
 "barra, as pessoas pensam que você está dizendo “GNU Linux”, que <a href="
 "\"#whyslash\">não é um nome adequado para a combinação</a>."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "Why do you write &ldquo;GNU Emacs&rdquo; rather than &ldquo;GNU/"
 "Emacs&rdquo;? <span class=\"anchor-reference-id\">(<a href=\"#whynoslash"
@@ -2000,7 +2005,7 @@ msgstr ""
 "Por que vocês escrevem “GNU Emcas” em vez de “GNU/Emacs”? <span class="
 "\"anchor-reference-id\">(<a href=\"#whynoslash\">#whynoslash</a>)</span>"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "Following the rules of English, in the construction &ldquo;GNU Emacs&rdquo; "
 "the word &ldquo;GNU&rdquo; modifies &ldquo;Emacs&rdquo;.  That is the right "
@@ -2010,7 +2015,7 @@ msgstr ""
 "modifica “Emacs”. Esta é a forma correta de descrever um programa chamado "
 "Emacs que é um pacote GNU."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "&ldquo;GNU/Emacs&rdquo; would mean the combination of GNU, the operating "
 "system, and the program Emacs.  That doesn't fit this program, so &ldquo;GNU/"
@@ -2020,7 +2025,7 @@ msgstr ""
 "programa Emacs. Isso não se encaixa nesse programa, então “GNU/Emacs” é a "
 "maneira errada de se referir a ele."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "Why &ldquo;GNU/Linux&rdquo; rather than &ldquo;Linux/GNU&rdquo;? <span class="
 "\"anchor-reference-id\">(<a href=\"#whyorder\">#whyorder</a>)</span>"
@@ -2028,7 +2033,7 @@ msgstr ""
 "Por que “GNU/Linux” em vez de “Linux/GNU”? <span class=\"anchor-reference-id"
 "\">(<a href=\"#whyorder\">#whyorder</a>)</span>"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "It is right and proper to mention the principal contribution first.  The GNU "
 "contribution to the system is not only bigger than Linux and prior to Linux, "
@@ -2038,7 +2043,7 @@ msgstr ""
 "contribuição do GNU para o sistema não é apenas maior que o Linux e antes do "
 "Linux, nós realmente iniciamos toda a atividade."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "In addition, &ldquo;GNU/Linux&rdquo; fits the fact that Linux is the lowest "
 "level of the system and GNU fills technically higher levels."
@@ -2046,7 +2051,7 @@ msgstr ""
 "Além disso, “GNU/Linux” cabe no fato de que o Linux é o nível mais baixo do "
 "sistema e que o GNU preenche níveis tecnicamente mais altos."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "However, if you prefer to call the system &ldquo;Linux/GNU&rdquo;, that is a "
 "lot better than what people usually do, which is to omit GNU entirely and "
@@ -2056,7 +2061,7 @@ msgstr ""
 "melhor do que as pessoas costumam fazer, o que é omitir o GNU inteiramente e "
 "fazer parecer que todo o sistema é o Linux."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "My distro's developers call it &ldquo;Foobar Linux&rdquo;, but that doesn't "
 "say anything about what the system consists of.  Why shouldn't they call it "
@@ -2068,7 +2073,7 @@ msgstr ""
 "forma como eles querem? <span class=\"anchor-reference-id\">(<a href="
 "\"#distronames0\">#distronames0</a>)</span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "Calling a system &ldquo;Foobar Linux&rdquo; implies that it's a flavor of "
 "&ldquo;Linux,&rdquo; and people <a href=\"#distronames\">understand it that "
@@ -2077,7 +2082,7 @@ msgstr ""
 "Chamar um sistema de “Foobar Linux” sugere que é um sabor de “Linux” e as "
 "pessoas <a href=\"#distronames\">entendem dessa forma</a>."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "If they called a GNU/Linux distro &ldquo;Foobar BSD,&rdquo; you would call "
 "that a mistake.  &ldquo;This system is not BSD,&rdquo; you would tell them.  "
@@ -2087,7 +2092,7 @@ msgstr ""
 "isso de erro. “Este sistema não é BSD”, Você diria a eles. Bem, também não é "
 "o Linux."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "My distro is called &ldquo;Foobar Linux&rdquo;; doesn't that show it's "
 "really Linux? <span class=\"anchor-reference-id\">(<a href=\"#distronames"
@@ -2097,7 +2102,7 @@ msgstr ""
 "Linux? <span class=\"anchor-reference-id\">(<a href=\"#distronames"
 "\">#distronames</a>)</span>"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "It means that the people who make the &ldquo;Foobar Linux&rdquo; distro are "
 "repeating the common mistake. We appreciate that distributions like Debian, "
@@ -2111,7 +2116,7 @@ msgstr ""
 "oficial, e esperamos que, se você estiver envolvido com uma distribuição "
 "diferente, você irá incentivá-lo a fazer o mesmo."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "My distro's official name is &ldquo;Foobar Linux&rdquo;; isn't it wrong to "
 "call the distro anything but &ldquo;Foobar Linux&rdquo;? <span class="
@@ -2121,7 +2126,7 @@ msgstr ""
 "qualquer outra coisa além de “Foobar Linux”? <span class=\"anchor-reference-"
 "id\">(<a href=\"#distronames1\">#distronames1</a>)</span>"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "When they spread misinformation by changing &ldquo;GNU&rdquo; to &ldquo;"
 "Linux&rdquo;, and call their version of it &ldquo;Foobar Linux&rdquo;, it's "
@@ -2132,7 +2137,7 @@ msgstr ""
 "sua versão de “Foobar Linux”, é apropriado você corrigir a desinformação ao "
 "chamá-la de “Foobar GNU/Linux”."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "Wouldn't it be more effective to ask companies such as Mandrake, Red Hat and "
 "IBM to call their distributions &ldquo;GNU/Linux&rdquo; rather than asking "
@@ -2144,7 +2149,7 @@ msgstr ""
 "indivíduos? <span class=\"anchor-reference-id\">(<a href=\"#companies"
 "\">#companies</a>)</span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "It isn't a choice of one or the other&mdash;we ask companies and "
 "organizations and individuals to help spread the word about this.  In fact, "
@@ -2162,7 +2167,7 @@ msgstr ""
 "mais dinheiro chamando-o de “Linux”. Em outras palavras, essa empresa não se "
 "importava com o que estava certo."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "We can't make them do this right, but we're not the sort to give up just "
 "because the road isn't easy.  You may not have as much influence at your "
@@ -2176,7 +2181,7 @@ msgstr ""
 "mudar a situação até o ponto em que as empresas ganharão mais lucro chamando-"
 "a “GNU/Linux”."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "Wouldn't it be better to reserve the name &ldquo;GNU/Linux&rdquo; for "
 "distributions that are purely free software? After all, that is the ideal of "
@@ -2187,7 +2192,7 @@ msgstr ""
 "puramente software livre? Afinal das contas, esse é o ideal do GNU. <span "
 "class=\"anchor-reference-id\">(<a href=\"#reserve\">#reserve</a>)</span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "The widespread practice of adding non-free software to the GNU/Linux system "
 "is a major problem for our community.  It teaches the users that non-free "
@@ -2209,11 +2214,11 @@ msgstr ""
 "drivers não livres) ou tornando o sistema mais popular mesmo ao custo da "
 "liberdade."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid "The question is how to try to change this."
 msgstr "A questão é como tentar mudar isso."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "Given that most of the community which uses GNU with Linux already does not "
 "realize that's what it is, for us to disown these adulterated versions, "
@@ -2227,7 +2232,7 @@ msgstr ""
 "liberdade. Eles não receberiam a mensagem pretendida. Eles só responderiam "
 "que nunca pensaram que estes sistemas eram o GNU em primeiro lugar."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "The way to lead these users to see a connection with freedom is exactly the "
 "opposite: to inform them that all these system versions <em>are</em> "
@@ -2245,7 +2250,7 @@ msgstr ""
 "software não livre como versões falsas e adulteradas do GNU, em vez de "
 "pensar que são “versões do Linux” adequadas e apropriadas."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "It is very useful to start GNU/Linux User Groups, which call the system GNU/"
 "Linux and adopt the ideals of the GNU Project as a basis for their "
@@ -2263,7 +2268,7 @@ msgstr ""
 "nos objetivos mais superficiais têm direito a seus pontos de vista, mas não "
 "os deixem arrastrar você!"
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "Why not make a GNU distribution of Linux (sic) and call that GNU/Linux? "
 "<span class=\"anchor-reference-id\">(<a href=\"#gnudist\">#gnudist</a>)</"
@@ -2273,7 +2278,7 @@ msgstr ""
 "Linux? <span class=\"anchor-reference-id\">(<a href=\"#gnudist\">#gnudist</"
 "a>)</span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "All the &ldquo;Linux&rdquo; distributions are actually versions of the GNU "
 "system with Linux as the kernel.  The purpose of the term &ldquo;GNU/"
@@ -2286,7 +2291,7 @@ msgstr ""
 "Desenvolver uma nova distribuição e chamá-la sozinha de “GNU/Linux” "
 "obscureceria o ponto que queremos fazer."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "As for developing a distribution of GNU/Linux, we already did this once, "
 "when we funded the early development of Debian GNU/Linux.  To do it again "
@@ -2300,7 +2305,7 @@ msgstr ""
 "que a nova distribuição tivesse vantagens práticas substanciais em relação a "
 "outras distribuições, isso não servirá para nada."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "Instead we help the developers of 100% free GNU/Linux distributions, such as "
 "gNewSense and Ututo."
@@ -2308,7 +2313,7 @@ msgstr ""
 "Em vez disso, ajudamos os desenvolvedores de distribuições GNU/Linux 100% "
 "livres, como o gNewSense e o Ututo."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "Why not just say &ldquo;Linux is the GNU kernel&rdquo; and release some "
 "existing version of GNU/Linux under the name &ldquo;GNU&rdquo;? <span class="
@@ -2318,7 +2323,7 @@ msgstr ""
 "do GNU/Linux sob o nome de “GNU”? <span class=\"anchor-reference-id\">(<a "
 "href=\"#linuxgnu\">#linuxgnu</a>)</span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "It might have been a good idea to adopt Linux as the GNU kernel back in "
 "1992.  If we had realized, then, how long it would take to get the GNU Hurd "
@@ -2329,7 +2334,7 @@ msgstr ""
 "que o GNU Hurd funcionasse, talvez pudéssemos ter feito isso. (Infelizmente, "
 "isso é passado.)"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "If we were to take an existing version of GNU/Linux and relabel it as &ldquo;"
 "GNU&rdquo;, that would be somewhat like making a version of the GNU system "
@@ -2340,7 +2345,7 @@ msgstr ""
 "“GNU”, isso seria um pouco como fazer uma versão do sistema GNU e "
 "rotulássemos-a de “Linux”. Isso não era certo, e não queremos agir assim."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "Did the GNU Project condemn and oppose use of Linux in the early days? <span "
 "class=\"anchor-reference-id\">(<a href=\"#condemn\">#condemn</a>)</span>"
@@ -2348,7 +2353,7 @@ msgstr ""
 "O projeto GNU condenou e se opôs ao uso de Linux nos primeiros dias? <span "
 "class=\"anchor-reference-id\">(<a href=\"#condemn\">#condemn</a>)</span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "We did not adopt Linux as our kernel, but we didn't condemn or oppose it.  "
 "In 1993 we started discussing the arrangements to sponsor the development of "
@@ -2367,7 +2372,7 @@ msgstr ""
 "frequentemente <cite>ad hoc</cite> e não portáveis; elas precisavam ser "
 "limpadas para instalação."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "The people who had made the changes showed little interest in cooperating "
 "with us.  One of them actually told us that he didn't care about working "
@@ -2386,7 +2391,7 @@ msgstr ""
 "principalmente em GNU, foram o primeiro (e ainda praticamente o único) grupo "
 "que não estava disposto a trabalhar conosco."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "It was this experience that first showed us that people were calling a "
 "version of the GNU system &ldquo;Linux&rdquo;, and that this confusion was "
@@ -2400,7 +2405,7 @@ msgstr ""
 "Linux” é a nossa resposta a esse problema e aos outros problemas causados "
 "pelo “Linux” não é o mesmo."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "Why did you wait so long before asking people to use the name GNU/Linux? "
 "<span class=\"anchor-reference-id\">(<a href=\"#wait\">#wait</a>)</span>"
@@ -2409,7 +2414,7 @@ msgstr ""
 "nome GNU/Linux? <span class=\"anchor-reference-id\">(<a href=\"#wait"
 "\">#wait</a>)</span>"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "Actually we didn't.  We began talking privately with developers and "
 "distributors about this in 1994, and made a more public campaign in 1996.  "
@@ -2419,7 +2424,7 @@ msgstr ""
 "desenvolvedores e distribuidores sobre isso em 1994 e fizemos uma campanha "
 "mais pública em 1996. Continuaremos enquanto for necessário."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "Should the GNU/<i>name</i> convention be applied to all programs that are "
 "GPL'ed? <span class=\"anchor-reference-id\">(<a href=\"#allgpled"
@@ -2429,7 +2434,7 @@ msgstr ""
 "<span class=\"anchor-reference-id\">(<a href=\"#allgpled\">#allgpled</a>)</"
 "span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "We never refer to individual programs as &ldquo;GNU/<i>name</i>&rdquo;.  "
 "When a program is a GNU package, we may call it &ldquo;GNU <i>name</"
@@ -2438,7 +2443,7 @@ msgstr ""
 "Nunca nos referimos a programas individuais como “GNU/<i>nome</i>”. Quando "
 "um programa é um pacote GNU, podemos chamá-lo de “GNU <i>nome</i>”."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "GNU, the operating system, is made up of many different programs.  Some of "
 "the programs in GNU were written as part of the GNU Project or specifically "
@@ -2450,7 +2455,7 @@ msgstr ""
 "contribuíram especificamente para ele; estes são os pacotes GNU, e muitas "
 "vezes usamos o “GNU” em seus nomes."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "It's up to the developers of a program to decide if they want to contribute "
 "it and make it a GNU package.  If you have developed a program and you would "
@@ -2463,7 +2468,7 @@ msgstr ""
 "fosse um pacote GNU, escreva para <a href=\"mailto:gnu@gnu.org\">&lt;gnu@gnu."
 "org&gt;</a>, para que possamos avaliá-lo e decidir se o queremos."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "It wouldn't be fair to put the name GNU on every individual program that is "
 "released under the GPL.  If you write a program and release it under the "
@@ -2482,7 +2487,7 @@ msgstr ""
 "independente. Se algo não for um pacote GNU, o Projeto GNU não pode levar "
 "crédito por isso, e colocar “GNU” em seu nome seria impróprio."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "In contrast, we do deserve the overall credit for the GNU operating system "
 "as a whole, even though not for each and every program in it.  The system "
@@ -2494,7 +2499,7 @@ msgstr ""
 "sistema devido à nossa determinação e persistência, a partir de 1984, muitos "
 "anos antes do início do Linux."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "The operating system in which Linux became popular was basically the same as "
 "the GNU operating system.  It was not entirely the same, because it had a "
@@ -2506,7 +2511,7 @@ msgstr ""
 "tinha um kernel diferente, mas era principalmente o mesmo sistema. Era uma "
 "variante do GNU. Era o sistema GNU/Linux."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "Linux continues to be used primarily in derivatives of that system&mdash;in "
 "today's versions of the GNU/Linux system.  What gives these systems their "
@@ -2518,7 +2523,7 @@ msgstr ""
 "sua identidade é GNU e Linux no centro deles, e não particularmente Linux "
 "sozinho."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "Since much of GNU comes from Unix, shouldn't GNU give credit to Unix by "
 "using &ldquo;Unix&rdquo; in its name? <span class=\"anchor-reference-id\">"
@@ -2528,7 +2533,7 @@ msgstr ""
 "usando “Unix” em seu nome? <span class=\"anchor-reference-id\">(<a href="
 "\"#unix\">#unix</a>)</span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "Actually, none of GNU comes from Unix.  Unix was proprietary software (and "
 "still is), so using any of its code in GNU would have been illegal.  This is "
@@ -2545,7 +2550,7 @@ msgstr ""
 "Não conseguimos copiar programas, ou mesmo partes deles, do Unix; tudo teve "
 "que ser escrito novamente."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "No code in GNU comes from Unix, but GNU is a Unix-compatible system; "
 "therefore, many of the ideas and specifications of GNU do come from Unix.  "
@@ -2559,7 +2564,7 @@ msgstr ""
 "é Unix], é uma maneira humorística de dar crédito ao Unix por isso, seguindo "
 "uma tradição hacker de siglas recursivas que começaram na década de 70."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "The first such recursive acronym was TINT, &ldquo;TINT Is Not TECO&rdquo;.  "
 "The author of TINT wrote another implementation of TECO (there were already "
@@ -2576,7 +2581,7 @@ msgstr ""
 "(É o que o hacking significa: <a href=\"http://stallman.org/articles/on-"
 "hacking.html\">inteligência brincalhona</a>.)"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "Other hackers enjoyed that name so much that we imitated the approach.  It "
 "became a tradition that, when you were writing from scratch a program that "
@@ -2592,7 +2597,7 @@ msgstr ""
 "Nesse mesmo espírito, chamamos nossa substituição para o Unix de "
 "<cite>“GNU's Not Unix”</cite>."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "Historically, AT&amp;T which developed Unix did not want anyone to give it "
 "credit by using &ldquo;Unix&rdquo; in the name of a similar system, not even "
@@ -2608,7 +2613,7 @@ msgstr ""
 "cada uma das várias versões modificadas do Unix (todas proprietárias, como o "
 "Unix) tinha um nome completamente diferente que não incluía o “Unix”."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "Should we say &ldquo;GNU/BSD&rdquo; too? <span class=\"anchor-reference-id\">"
 "(<a href=\"#bsd\">#bsd</a>)</span>"
@@ -2616,7 +2621,7 @@ msgstr ""
 "Eu devo dizer “GNU/BSD” também? <span class=\"anchor-reference-id\">(<a href="
 "\"#bsd\">#bsd</a>)</span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "We don't call the BSD systems (FreeBSD, etc.) &ldquo;GNU/BSD&rdquo; systems, "
 "because that term does not fit the history of the BSD systems."
@@ -2624,7 +2629,7 @@ msgstr ""
 "Nós não chamamos os sistemas BSD (FreeBSD, etc.) de sistemas “GNU/BSD”, "
 "porque esse termo não corresponde ao histórico dos sistemas BSD."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "The BSD system was developed by UC Berkeley as non-free software in the 80s, "
 "and became free in the early 90s.  A free operating system that exists today "
@@ -2636,7 +2641,7 @@ msgstr ""
 "Um sistema operacional livre que existe hoje é quase certamente uma variante "
 "do sistema GNU, ou um tipo de sistema BSD."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "People sometimes ask whether BSD too is a variant of GNU, as GNU/Linux is.  "
 "It is not.  The BSD developers were inspired to make their code free "
@@ -2650,7 +2655,7 @@ msgstr ""
 "explícitos dos ativistas do GNU ajudaram a convencê-los a começar, mas o "
 "código tinha pouca sobreposição com o GNU."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "BSD systems today use some GNU packages, just as the GNU system and its "
 "variants use some BSD programs; however, taken as wholes, they are two "
@@ -2664,7 +2669,7 @@ msgstr ""
 "desenvolvedores do BSD não escreveram um kernel e o adicionaram ao sistema "
 "GNU, então um nome como o GNU/BSD não seria adequado à situação."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "The connection between GNU/Linux and GNU is much closer, and that's why the "
 "name &ldquo;GNU/Linux&rdquo; is appropriate for it."
@@ -2672,7 +2677,7 @@ msgstr ""
 "A conexão entre GNU/Linux e GNU é muito mais próxima e é por isso que o nome "
 "“GNU/Linux” é apropriado para isso."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "There is a version of GNU which uses the kernel from NetBSD.  Its developers "
 "call it &ldquo;Debian GNU/NetBSD&rdquo;, but &ldquo;GNU/"
@@ -2686,7 +2691,7 @@ msgstr ""
 "um sistema BSD, já que a maioria do sistema é o mesmo que o sistema GNU/"
 "Linux."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "If I install the GNU tools on Windows, does that mean I am running a GNU/"
 "Windows system? <span class=\"anchor-reference-id\">(<a href=\"#othersys"
@@ -2696,7 +2701,7 @@ msgstr ""
 "executando um sistema GNU/Windows? <span class=\"anchor-reference-id\">(<a "
 "href=\"#othersys\">#othersys</a>)</span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "Not in the same sense that we mean by &ldquo;GNU/Linux&rdquo;.  The tools of "
 "GNU are just a part of the GNU software, which is just a part of the GNU "
@@ -2710,7 +2715,7 @@ msgstr ""
 "não possui nenhum código em comum com o GNU. Em suma, essa é uma situação "
 "muito diferente do GNU/Linux."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "Can't Linux be used without GNU? <span class=\"anchor-reference-id\">(<a "
 "href=\"#justlinux\">#justlinux</a>)</span>"
@@ -2718,7 +2723,7 @@ msgstr ""
 "O Linux não pode ser usado sem o GNU? <span class=\"anchor-reference-id\">"
 "(<a href=\"#justlinux\">#justlinux</a>)</span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "Linux is used by itself, or with small other programs, in some appliances.  "
 "These small software systems are a far cry from the GNU/Linux system.  Users "
@@ -2733,7 +2738,7 @@ msgstr ""
 "com o Linux, para mostrar quão diferentes essas pequenas plataformas são de "
 "GNU/Linux."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "How much of the GNU system is needed for the system to be GNU/Linux? <span "
 "class=\"anchor-reference-id\">(<a href=\"#howmuch\">#howmuch</a>)</span>"
@@ -2742,7 +2747,7 @@ msgstr ""
 "<span class=\"anchor-reference-id\">(<a href=\"#howmuch\">#howmuch</a>)</"
 "span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "&ldquo;How much&rdquo; is not a meaningful question because the GNU system "
 "does not have precise boundaries."
@@ -2750,7 +2755,7 @@ msgstr ""
 "O “quanto” não é uma questão significante porque o sistema GNU não possui "
 "limites precisos."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "GNU is an operating system maintained by a community.  It includes far more "
 "than just the GNU software packages (of which we have a specific list), and "
@@ -2766,7 +2771,7 @@ msgstr ""
 "gera GNU/Linux. Se você usa uma parte do sistema GNU e omite outra parte, "
 "não há uma maneira significativa de dizer “quanto” você usou."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "If we look at the level of packages, Linux is one important package in the "
 "GNU/Linux system.  The inclusion of one important GNU package is enough to "
@@ -2776,7 +2781,7 @@ msgstr ""
 "sistema GNU/Linux. A inclusão de um pacote importante do GNU é suficiente "
 "para justificar o nosso pedido de menção igual."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "Are there complete Linux systems [sic] without GNU? <span class=\"anchor-"
 "reference-id\">(<a href=\"#linuxsyswithoutgnu\">#linuxsyswithoutgnu</a>)</"
@@ -2786,7 +2791,7 @@ msgstr ""
 "reference-id\">(<a href=\"#linuxsyswithoutgnu\">#linuxsyswithoutgnu</a>)</"
 "span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "There are complete systems that contain Linux and not GNU; Android is an "
 "example.  But it is a mistake to call them &ldquo;Linux&rdquo; systems, just "
@@ -2796,7 +2801,7 @@ msgstr ""
 "exemplo. Mas é um erro chamá-los sistemas “Linux”, assim como é um erro "
 "chamar o GNU de um sistema “Linux”."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "Android is very different from the GNU/Linux system&mdash;because the two "
 "have very little code in common.  In fact, the only thing they have in "
@@ -2806,7 +2811,7 @@ msgstr ""
 "muito pouco código em comum. Na verdade, a única coisa que eles têm em comum "
 "é o Linux."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "If you call the whole GNU/Linux system &ldquo;Linux&rdquo;, you will find it "
 "necessary to say things like, &ldquo;Android contains Linux, but it isn't "
@@ -2818,7 +2823,7 @@ msgstr ""
 "possui as bibliotecas usuais do Linux [sic] e utilitários [que são do "
 "sistema GNU]”."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "Android contains just as much of Linux as GNU/Linux does.  What it doesn't "
 "have is the GNU system.  Android replaces that with Google software that "
@@ -2830,7 +2835,7 @@ msgstr ""
 "que funciona de forma bastante diferente. O que torna o Android diferente do "
 "GNU/Linux é a ausência do GNU."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "Is it correct to say &ldquo;using Linux&rdquo; if it refers to using GNU/"
 "Linux and using Android? <span class=\"anchor-reference-id\">(<a href="
@@ -2842,7 +2847,7 @@ msgstr ""
 "\"#usegnulinuxandandroidlinuxsyswithoutgnu"
 "\">#usegnulinuxandandroidlinuxsyswithoutgnu</a>)</span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "Far from it.  That usage is so strained that people will not understand the "
 "intended meaning."
@@ -2850,7 +2855,7 @@ msgstr ""
 "Longe disso. Esse uso é tão tenso que as pessoas não entenderão o "
 "significado pretendido."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "The public will find it very strange to speak of using Android as &ldquo;"
 "using Linux&rdquo;.  It's like having a conversation, then saying you were "
@@ -2860,7 +2865,7 @@ msgstr ""
 "Linux”. É como ter uma conversa, depois dizer que você estava conversando "
 "com os intestinos da pessoa ou com o sistema circulatório da pessoa."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "The public <em>will</em> understand the idea of &ldquo;using Linux&rdquo; "
 "when it's really GNU/Linux, by way of the usual misunderstanding: thinking "
@@ -2870,7 +2875,7 @@ msgstr ""
 "realmente GNU/Linux, por meio do mal-entendido usual: pensar em todo o "
 "sistema como “Linux”."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "Use of Android and use of GNU/Linux are totally different, as different as "
 "driving a car and riding a bicycle.  The fact that the first two both "
@@ -2892,7 +2897,7 @@ msgstr ""
 "forma, a maneira clara de falar sobre o uso de GNU/Linux e Android é dizer "
 "“usando o GNU/Linux e o Android”."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "Why not call the system &ldquo;Linux&rdquo; anyway, and strengthen Linus "
 "Torvalds' role as posterboy for our community? <span class=\"anchor-"
@@ -2902,7 +2907,7 @@ msgstr ""
 "papel do Linus Torvalds como garoto-propaganda da nossa comunidade? <span "
 "class=\"anchor-reference-id\">(<a href=\"#helplinus\">#helplinus</a>)</span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "Linus Torvalds is the &ldquo;posterboy&rdquo; (other people's choice of "
 "word, not ours) for his goals, not ours.  His goal is to make the system "
@@ -2920,7 +2925,7 @@ msgstr ""
 "html\">liberdade para cooperar</a> como um princípio ético, e é por isso que "
 "o público não conecta o nome “Linux” com esse princípio."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "Linus publicly states his disagreement with the free software movement's "
 "ideals.  He developed non-free software in his job for many years (and said "
@@ -2941,7 +2946,7 @@ msgstr ""
 "rejeitando as lições que a sociedade aprendeu com o desenvolvimento da bomba "
 "atômica."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "There is nothing wrong with writing a free program for the motivations of "
 "learning and having fun; the kernel Linus wrote for those reasons was an "
@@ -2961,7 +2966,7 @@ msgstr ""
 "devem estar conscientes de que o sistema operacional em questão decorre de "
 "ideais de liberdade, não de seus pontos de vista."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "Isn't it wrong for us to label Linus Torvalds' work as GNU? <span class="
 "\"anchor-reference-id\">(<a href=\"#claimlinux\">#claimlinux</a>)</span>"
@@ -2969,7 +2974,7 @@ msgstr ""
 "Não é errado rotularmos o trabalho do Linus Torvalds como GNU? <span class="
 "\"anchor-reference-id\">(<a href=\"#claimlinux\">#claimlinux</a>)</span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "It would be wrong, so we don't do that.  Torvalds' work is Linux, the "
 "kernel; we are careful not to attribute that work to the GNU Project or "
@@ -2981,7 +2986,7 @@ msgstr ""
 "rotulá-lo como “GNU”. Quando falamos sobre todo o sistema, o nome “GNU/"
 "Linux” dá-lhe uma parte do crédito."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "Does Linus Torvalds agree that Linux is just the kernel? <span class="
 "\"anchor-reference-id\">(<a href=\"#linusagreed\">#linusagreed</a>)</span>"
@@ -2989,7 +2994,7 @@ msgstr ""
 "O Linus Torvalds concorda que o Linux é apenas o kernel? <span class="
 "\"anchor-reference-id\">(<a href=\"#linusagreed\">#linusagreed</a>)</span>"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "He recognized this at the beginning.  The earliest Linux release notes said, "
 "<a href=\"http://ftp.funet.fi/pub/linux/historical/kernel/old-versions/"
@@ -3003,7 +3008,7 @@ msgstr ""
 "software GNU e está sob o copyleft do GNU. Essas ferramentas não estão na "
 "distribuição - pergunte-me (ou ao GNU) para mais informações”</a>."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "Why not finish the GNU Hurd kernel, release the GNU system as a whole, and "
 "forget the question of what to call GNU/Linux? <span class=\"anchor-"
@@ -3013,7 +3018,7 @@ msgstr ""
 "completo e esquecer a questão de como chamar o GNU/Linux? <span class="
 "\"anchor-reference-id\">(<a href=\"#finishhurd\">#finishhurd</a>)</span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "We would like credit for the GNU operating system no matter which kernel is "
 "used with it."
@@ -3021,7 +3026,7 @@ msgstr ""
 "Gostaríamos de crédito para o sistema operacional GNU independentemente do "
 "kernel usado com ele."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "Making the GNU Hurd work well enough to compete with Linux would be a big "
 "job, and it's not clearly necessary.  The only thing ethically wrong with "
@@ -3035,7 +3040,7 @@ msgstr ""
 "solução para esse problema é <a href=\"http://fsf.org/campaigns/priority-"
 "projects\"> desenvolver substitutos livres para os blobs</a>."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "The battle is already lost&mdash;society has made its decision and we can't "
 "change it, so why even think about it? <span class=\"anchor-reference-id\">"
@@ -3045,7 +3050,7 @@ msgstr ""
 "podemos alterá-la, então por que pensar nisso? <span class=\"anchor-"
 "reference-id\">(<a href=\"#lost\">#lost</a>)</span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "This isn't a battle, it is a campaign of education.  What to call the system "
 "is not a single decision, to be made at one moment by &ldquo;society&rdquo;: "
@@ -3060,7 +3065,7 @@ msgstr ""
 "fazer os outros dizerem “GNU/Linux”, mas você pode decidir chamar o sistema "
 "de “GNU/Linux” você mesmo e, ao fazê-lo, ajudará a educar os outros."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "Society has made its decision and we can't change it, so what good does it "
 "do if I say &ldquo;GNU/Linux&rdquo;? <span class=\"anchor-reference-id\">(<a "
@@ -3070,7 +3075,7 @@ msgstr ""
 "benefício de eu dizer “GNU/Linux”? <span class=\"anchor-reference-id\">(<a "
 "href=\"#whatgood\">#whatgood</a>)</span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "This is not an all-or-nothing situation: correct and incorrect pictures are "
 "being spread more or less by various people.  If you call the system &ldquo;"
@@ -3090,7 +3095,7 @@ msgstr ""
 "“GNU/Linux”, você terá educado um número substancial de pessoas com muito "
 "pouco trabalho. E alguns deles espalharão a correção para os outros."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "Wouldn't it be better to call the system &ldquo;Linux&rdquo; and teach "
 "people its real origin with a ten-minute explanation? <span class=\"anchor-"
@@ -3100,7 +3105,7 @@ msgstr ""
 "origem com uma explicação de dez minutos? <span class=\"anchor-reference-id"
 "\">(<a href=\"#explain\">#explain</a>)</span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "If you help us by explaining to others in that way, we appreciate your "
 "effort, but that is not the best method.  It is not as effective as calling "
@@ -3110,7 +3115,7 @@ msgstr ""
 "esforço, mas esse não é o melhor método. Não é tão eficaz quanto chamar o "
 "sistema de “GNU/Linux”, e usa seu tempo de forma ineficiente."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "It is ineffective because it may not sink in, and surely will not "
 "propagate.  Some of the people who hear your explanation will pay attention, "
@@ -3126,7 +3131,7 @@ msgstr ""
 "eles só o chamarão de “Linux”. Sem sequer ter a intenção, eles ajudarão a "
 "espalhar a imagem incorreta."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "It is inefficient because it takes a lot more time.  Saying and writing "
 "&ldquo;GNU/Linux&rdquo; will take you only a few seconds a day, not minutes, "
@@ -3140,7 +3145,7 @@ msgstr ""
 "Linux quando você escreve e fala é, de longe, a maneira mais fácil de ajudar "
 "o Projeto GNU efetivamente."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "Some people laugh at you when you ask them to call the system GNU/Linux.  "
 "Why do you subject yourself to this treatment? <span class=\"anchor-"
@@ -3150,7 +3155,7 @@ msgstr ""
 "Linux. Por que se sujeitar a esse tratamento? <span class=\"anchor-reference-"
 "id\">(<a href=\"#treatment\">#treatment</a>)</span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "Calling the system &ldquo;Linux&rdquo; tends to give people a mistaken "
 "picture of the system's history and reason for existence.  People who laugh "
@@ -3164,7 +3169,7 @@ msgstr ""
 "trabalho foi feito por Linus, então eles riem quando pedimos crédito por "
 "isso. Se eles soubessem a verdade, provavelmente eles não ririam."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "Why do we take the risk of making a request that sometimes leads people to "
 "ridicule us? Because often it has useful results that help the GNU Project.  "
@@ -3175,7 +3180,7 @@ msgstr ""
 "Projeto GNU. Nós vamos correr o risco de abuso imerecido para alcançar "
 "nossos objetivos."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "If you see such an ironically unfair situation occurring, please don't sit "
 "idly by.  Please teach the laughing people the real history.  When they see "
@@ -3185,7 +3190,7 @@ msgstr ""
 "Ensine as pessoas rindo a história real. Quando eles virem por que o pedido "
 "é justificado, aqueles que têm algum bom senso deixarão de rir."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "Some people condemn you when you ask them to call the system GNU/Linux.  "
 "Don't you lose by alienating them? <span class=\"anchor-reference-id\">(<a "
@@ -3195,7 +3200,7 @@ msgstr ""
 "de GNU/Linux. Vocês não perdem por aliená-las? <span class=\"anchor-"
 "reference-id\">(<a href=\"#alienate\">#alienate</a>)</span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "Not much.  People who don't appreciate our role in developing the system are "
 "unlikely to make substantial efforts to help us.  If they do work that "
@@ -3212,7 +3217,7 @@ msgstr ""
 "trabalho a outra pessoa, eles estão minando nossa capacidade de recrutar a "
 "ajuda de outros."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "It makes no sense to worry about alienating people who are already mostly "
 "uncooperative, and it is self-defeating to be deterred from correcting a "
@@ -3224,7 +3229,7 @@ msgstr ""
 "problema, para que não irritemos as pessoas que a perpetuam. Portanto, "
 "continuaremos tentando corrigir o nome incorreto."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "Whatever you contributed, is it legitimate to rename the operating system? "
 "<span class=\"anchor-reference-id\">(<a href=\"#rename\">#rename</a>)</span>"
@@ -3233,7 +3238,7 @@ msgstr ""
 "operacional? <span class=\"anchor-reference-id\">(<a href=\"#rename"
 "\">#rename</a>)</span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "We are not renaming anything; we have been calling this system &ldquo;"
 "GNU&rdquo; ever since we announced it in 1983.  The people who tried to "
@@ -3243,7 +3248,7 @@ msgstr ""
 "anunciamos em 1983. As pessoas que tentaram renomeá-lo para o “Linux” que "
 "não deveria ter feito isso."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "Isn't it wrong to force people to call the system &ldquo;GNU/Linux&rdquo;? "
 "<span class=\"anchor-reference-id\">(<a href=\"#force\">#force</a>)</span>"
@@ -3251,7 +3256,7 @@ msgstr ""
 "Não é errado forçar as pessoas a chamar o sistema de “GNU/Linux”? <span "
 "class=\"anchor-reference-id\">(<a href=\"#force\">#force</a>)</span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "It would be wrong to force them, and we don't try.  We call the system "
 "&ldquo;GNU/Linux&rdquo;, and we ask you to do it too."
@@ -3259,7 +3264,7 @@ msgstr ""
 "Seria errado forçá-los, e não tentamos. Chamamos o sistema de “GNU/Linux” e "
 "pedimos que você faça isso também."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "Why not sue people who call the whole system &ldquo;Linux&rdquo;? <span "
 "class=\"anchor-reference-id\">(<a href=\"#whynotsue\">#whynotsue</a>)</span>"
@@ -3267,7 +3272,7 @@ msgstr ""
 "Por que não processar as pessoas que chamam todo o sistema de “Linux”? <span "
 "class=\"anchor-reference-id\">(<a href=\"#whynotsue\">#whynotsue</a>)</span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "There are no legal grounds to sue them, but since we believe in freedom of "
 "speech, we wouldn't want to do that anyway.  We ask people to call the "
@@ -3277,7 +3282,7 @@ msgstr ""
 "de expressão, não iríamos querer fazer isso de qualquer maneira. Pedimos às "
 "pessoas que chamem o sistema de “GNU/Linux” porque é a coisa certa a fazer."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "Shouldn't you put something in the GNU GPL to require people to call the "
 "system &ldquo;GNU&rdquo;? <span class=\"anchor-reference-id\">(<a href="
@@ -3287,7 +3292,7 @@ msgstr ""
 "pessoas chamem o sistema de “GNU”? <span class=\"anchor-reference-id\">(<a "
 "href=\"#require\">#require</a>)</span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "The purpose of the GNU GPL is to protect the users' freedom from those who "
 "would make proprietary versions of free software.  While it is true that "
@@ -3307,7 +3312,7 @@ msgstr ""
 "liberdade dos usuários. Parece improcedente fazer com que a GPL restrinja o "
 "nome que as pessoas podem usar para o sistema."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "Since you objected to the original BSD license's advertising requirement to "
 "give credit to the University of California, isn't it hypocritical to demand "
@@ -3319,7 +3324,7 @@ msgstr ""
 "crédito para o projeto GNU? <span class=\"anchor-reference-id\">(<a href="
 "\"#BSDlicense\">#BSDlicense</a>)</span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "It would be hypocritical to make the name GNU/Linux a license requirement, "
 "and we don't.  We only <em>ask</em> you to give us the credit we deserve."
@@ -3327,7 +3332,7 @@ msgstr ""
 "Seria hipócrita fazer o nome GNU/Linux ser requisito de licença, e nós não "
 "fazemos. Nós <em>pedimos</em> a você para nos dar o crédito que merecemos."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "Please note that there are at least <a href=\"/licenses/bsd.html\"> two "
 "different BSD licenses</a>.  For clarity's sake, please don't use the term "
@@ -3337,7 +3342,7 @@ msgstr ""
 "licenças BSD diferentes</a>. Por razões de clareza, não use o termo “licença "
 "BSD” sem especificar qual delas."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "Since you failed to put something in the GNU GPL to require people to call "
 "the system &ldquo;GNU&rdquo;, you deserve what happened; why are you "
@@ -3349,7 +3354,7 @@ msgstr ""
 "estão reclamando agora? <span class=\"anchor-reference-id\">(<a href="
 "\"#deserve\">#deserve</a>)</span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "The question presupposes a rather controversial general ethical premise: "
 "that if people do not force you to treat them fairly, you are entitled to "
@@ -3361,12 +3366,12 @@ msgstr ""
 "aproveitar delas tanto quanto você quiser. Em outras palavras, pressupõe que "
 "o caminho esteja correto."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid "We hope you disagree with that premise just as we do."
 msgstr ""
 "Esperamos que você discorde dessa premissa tanto quanto nós discordamos."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "Wouldn't you be better off not contradicting what so many people believe? "
 "<span class=\"anchor-reference-id\">(<a href=\"#contradict\">#contradict</a>)"
@@ -3376,7 +3381,7 @@ msgstr ""
 "<span class=\"anchor-reference-id\">(<a href=\"#contradict\">#contradict</a>)"
 "</span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "We don't think we should go along with large numbers of people because they "
 "have been misled.  We hope you too will decide that truth is important."
@@ -3385,7 +3390,7 @@ msgstr ""
 "porque elas foram enganadas. Esperamos que você também decida que a verdade "
 "é importante."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "We could never have developed a free operating system without first denying "
 "the belief, held by most people, that proprietary software was legitimate "
@@ -3395,7 +3400,7 @@ msgstr ""
 "crença, mantida pela maioria das pessoas, de que o software proprietário era "
 "legítimo e aceitável."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "Since many people call it &ldquo;Linux&rdquo;, doesn't that make it right? "
 "<span class=\"anchor-reference-id\">(<a href=\"#somanyright\">#somanyright</"
@@ -3405,11 +3410,11 @@ msgstr ""
 "class=\"anchor-reference-id\">(<a href=\"#somanyright\">#somanyright</a>)</"
 "span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid "We don't think that the popularity of an error makes it the truth."
 msgstr "Nós não pensamos que a popularidade de um erro o torna verdade."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "Isn't it better to call the system by the name most users already know? "
 "<span class=\"anchor-reference-id\">(<a href=\"#knownname\">#knownname</a>)</"
@@ -3419,7 +3424,7 @@ msgstr ""
 "conhecem? <span class=\"anchor-reference-id\">(<a href=\"#knownname"
 "\">#knownname</a>)</span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "Users are not incapable of learning.  Since &ldquo;GNU/Linux&rdquo; includes "
 "&ldquo;Linux&rdquo;, they will recognize what you're talking about.  If you "
@@ -3431,7 +3436,7 @@ msgstr ""
 "“(muitas vezes, erroneamente referido como ‘Linux’)” de vez em quando, todos "
 "entenderão."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "Many people care about what's convenient or who's winning, not about "
 "arguments of right or wrong.  Couldn't you get more of their support by a "
@@ -3443,7 +3448,7 @@ msgstr ""
 "delas seguindo um caminho diferente? <span class=\"anchor-reference-id\">(<a "
 "href=\"#winning\">#winning</a>)</span>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "To care only about what's convenient or who's winning is an amoral approach "
 "to life.  Non-free software is an example of that amoral approach and "
@@ -3455,7 +3460,7 @@ msgstr ""
 "prospera nele. Assim, a longo prazo, seria autodestrutivo para nós adotar "
 "essa abordagem. Continuaremos falando em termos de certo e errado."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid "We hope that you are one of those for whom right and wrong do matter."
 msgstr ""
 "Esperamos que você seja um daqueles para quem o certo e o errado importam."
@@ -3486,14 +3491,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
@@ -3501,16 +3506,16 @@ msgstr ""
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas deste site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2001, 2006, 2007, 2008, 2010, 2011, 2013, 2014, 2015, 2016, "
-"2017, 2018, 2020 Free Software Foundation, Inc."
+"Copyright &copy; 2001, 2006-2008, 2010, 2011, 2013, 2014-2018, 2020, 2021 "
+"Free Software Foundation, Inc."
 msgstr ""
-"Copyright &copy; 2001, 2006, 2007, 2008, 2010, 2011, 2013, 2014, 2015, 2016, "
-"2017, 2018, 2020 Free Software Foundation, Inc."
+"Copyright &copy; 2001, 2006-2008, 2010, 2011, 2013, 2014-2018, 2020, 2021 "
+"Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -3527,12 +3532,15 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
-"rafaelff@gnome.org&gt;</a>, 2018-2020."
+"rafaelff@gnome.org&gt;</a>, 2018-2021."
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid "GNU/Linux FAQ by Richard Stallman"
+#~ msgstr "Perguntas frequentes (FAQ) sobre GNU/Linux por Richard Stallman"
 
 #~ msgid "GNU/Linux - GNU Project - Free Software Foundation"
 #~ msgstr ""

@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary.html\n"
-"POT-Creation-Date: 2021-01-19 18:25+0000\n"
+"POT-Creation-Date: 2021-04-18 08:25+0000\n"
 "PO-Revision-Date: 2020-12-29 13:36-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -63,6 +63,18 @@ msgstr ""
 
 #. type: Content of: <div><div><p>
 msgid ""
+"In this section, we also list <a href=\"/proprietary/malware-mobiles."
+"html#phone-communications\">one other malicious characteristic of mobile "
+"phones, location tracking</a> which is caused by the underlying radio system "
+"rather than by the specific software in them."
+msgstr ""
+"Nesta seção, também listamos <a href=\"/proprietary/malware-mobiles."
+"html#phone-communications\">uma outra característica maliciosa de telefones "
+"celulares, rastreamento de localização</a> que é causada pelo sistema de "
+"rádio subjacente em vez de pelo software específico neles."
+
+#. type: Content of: <div><div><p>
+msgid ""
 "Power corrupts; the proprietary program's developer is tempted to design the "
 "program to mistreat its users.  (Software whose functioning mistreats the "
 "user is called <em>malware</em>.)  Of course, the developer usually does not "
@@ -85,9 +97,9 @@ msgstr ""
 "de ser mal."
 
 #. type: Content of: <div><p>
-# | As of [-December, 2020,-] {+January, 2021,+} the pages in this directory
+# | As of [-December, 2020,-] {+March, 2021,+} the pages in this directory
 # | list around [-450-] {+500+} instances of malicious functionalities (with
-# | more than 5[-6-]{+7+}0 references to back them up), but there are surely
+# | more than 5[-6-]{+9+}0 references to back them up), but there are surely
 # | thousands more we don't know about.
 #, fuzzy
 #| msgid ""
@@ -95,9 +107,9 @@ msgstr ""
 #| "instances of malicious functionalities (with more than 560 references to "
 #| "back them up), but there are surely thousands more we don't know about."
 msgid ""
-"As of January, 2021, the pages in this directory list around 500 instances "
-"of malicious functionalities (with more than 570 references to back them "
-"up), but there are surely thousands more we don't know about."
+"As of March, 2021, the pages in this directory list around 500 instances of "
+"malicious functionalities (with more than 590 references to back them up), "
+"but there are surely thousands more we don't know about."
 msgstr ""
 "Até dezembro de 2020, as páginas neste diretório listam cerca de 450 "
 "exemplos de funcionalidades maliciosas (com mais de 560 referências para "
@@ -329,98 +341,95 @@ msgstr "Últimas adições"
 
 #. type: Content of: <div><ul><li><p>
 msgid ""
-"A cracker <a href=\"https://www.vice.com/en/article/m7apnn/your-cock-is-mine-"
-"now-hacker-locks-internet-connected-chastity-cage-demands-ransom\">took "
-"control of people's internet-connected chastity cages and demanded ransom</"
-"a>. The chastity cages are being controlled by a proprietary app (mobile "
-"program)."
+"A zero-day vulnerability in Zoom which <a href=\"https://www.zdnet.com/"
+"article/critical-zoom-vulnerability-triggers-remote-code-execution-without-"
+"user-input/\">can be used to launch remote code execution (RCE) attacks</a> "
+"has been disclosed by researchers. The researchers demonstrated a three-bug "
+"attack chain that caused an RCE on a target machine, and all without any "
+"form of user interaction."
 msgstr ""
 
 #. type: Content of: <div><ul><li><p>
-# | <small>(Please note that the article wrongly refers to crackers as \"<a
-# | [-href=\"/philosophy/words-to-avoid.html#Hacker\">hackers</a>\".)</small>-]
-# | {+href=\"https://www.gnu.org/philosophy/words-to-avoid.html#Hacker\">hacker
-# | s</a>\".)</small>+}
+msgid ""
+"Google <a href=\"https://www.indiatoday.in/technology/news/story/disha-ravi-"
+"arrest-puts-privacy-of-all-google-india-users-in-"
+"doubt-1769772-2021-02-16\">handed over personal data of Indian protesters "
+"and activists to Indian police</a> which led to their arrest. The cops "
+"requested the IP address and the location where a document was created and "
+"with that information, they identified protesters and activists."
+msgstr ""
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"BMW is trying to <a href=\"https://www.theverge.com/2020/7/2/21311332/bmw-in-"
+"car-purchase-heated-seats-software-over-the-air-updates\">lock certain "
+"features of its cars, and force people to pay to use part of the car they "
+"already bought</a>. This is done through forced update of the car software "
+"via a radio-operated back door."
+msgstr ""
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"Amazon's monopoly and DRM is <a href=\"https://www.washingtonpost.com/"
+"technology/2021/03/10/amazon-library-ebook-monopoly/\">stopping public "
+"libraries from lending e-books and audiobooks</a>. Amazon became powerful in "
+"e-book world by <a href=\"/philosophy/why-call-it-the-swindle.html"
+"\">Swindle</a>, and is now misusing its power and violates people's rights "
+"using <a href=\"https://www.defectivebydesign.org\">Digital Restrictions "
+"Management</a>."
+msgstr ""
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"The article is written in a way that endorses DRM in general, which is "
+"unacceptable. <a href=\"/proprietary/proprietary-drm.html\">DRM is an "
+"injustice to people</a>."
+msgstr ""
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<a href=\"https://www.bloomberg.com/news/articles/2021-03-09/hackers-expose-"
+"tesla-jails-in-breach-of-150-000-security-cams\">Over 150 thousand security "
+"cameras that used Verkada company's proprietary software are cracked</a> by "
+"a major security breach. Crackers have had access to security archives of "
+"various gyms, hospitals, jails, schools, and police stations that have used "
+"Verdaka's cameras."
+msgstr ""
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<a href=\"/philosophy/surveillance-vs-democracy.html\">It is injustice to "
+"the public</a> for gyms, stores, hospitals, jails, and schools to hand "
+"&ldquo;security&rdquo; footage to a company from which the government can "
+"collect it at any time, without even telling them."
+msgstr ""
+
+#. type: Content of: <div><ul><li><p>
+# | <small>[-(-]Please note that the article wrongly refers to crackers as
+# | [-\"<a
+# | href=\"/philosophy/words-to-avoid.html#Hacker\">hackers</a>\".)</small>-]
+# | {+&ldquo;<a
+# | href=\"/philosophy/words-to-avoid.html#Hacker\">hackers</a>&rdquo;.</small>
+# | +}
 #, fuzzy
 #| msgid ""
 #| "<small>(Please note that the article wrongly refers to crackers as \"<a "
 #| "href=\"/philosophy/words-to-avoid.html#Hacker\">hackers</a>\".)</small>"
 msgid ""
-"<small>(Please note that the article wrongly refers to crackers as \"<a href="
-"\"https://www.gnu.org/philosophy/words-to-avoid.html#Hacker\">hackers</a>"
-"\".)</small>"
+"<small>Please note that the article wrongly refers to crackers as &ldquo;<a "
+"href=\"/philosophy/words-to-avoid.html#Hacker\">hackers</a>&rdquo;.</small>"
 msgstr ""
 "<small>(Note que o artigo, de forma incorreta, refere-se a <em>crackers</em> "
 "como <a href=\"/philosophy/words-to-avoid.html#Hacker\">“hackers”</a>.)</"
 "small>"
 
-#. type: Content of: <div><ul><li><p>
-msgid ""
-"As of 2021, WhatsApp (one of Facebook's subsidiaries) is <a href=\"https://"
-"www.forbes.com/sites/carlypage/2021/01/08/whatsapp-tells-users-share-your-"
-"data-with-facebook-or-well-deactivate-your-account/\">forcing its users to "
-"hand over sensitive personal data</a> to its parent company. This increases "
-"Facebook's power over users, and further jeopardizes people's privacy and "
-"security."
-msgstr ""
-
-#. type: Content of: <div><ul><li><p>
-# | [-People-]{+Instead of WhatsApp you+} can [-play-] {+use+} <a
-# | [-href=\"https://directory.fsf.org/wiki/Minetest\">Minetest</a> instead.
-# | Minetest-] {+href=\"https://directory.fsf.org/wiki/Jami\">GNU Jami</a>,
-# | which+} is free software and [-respects the user's computer freedom.-]
-# | {+will not collect your data.+}
+#. type: Content of: <div><p>
+# | <a [-href=\"/proprietary/malware-mobiles.html\">Mobiles</a>-]
+# | {+href=\"/proprietary/all.html\">More items&hellip;</a>+}
 #, fuzzy
-#| msgid ""
-#| "People can play <a href=\"https://directory.fsf.org/wiki/Minetest"
-#| "\">Minetest</a> instead. Minetest is free software and respects the "
-#| "user's computer freedom."
-msgid ""
-"Instead of WhatsApp you can use <a href=\"https://directory.fsf.org/wiki/Jami"
-"\">GNU Jami</a>, which is free software and will not collect your data."
-msgstr ""
-"As pessoas podem jogar <a href=\"https://directory.fsf.org/wiki/Minetest"
-"\">Minetest</a> em vez disso. Minetest é um software livre e respeita a "
-"liberdade de computação do usuário."
-
-#. type: Content of: <div><ul><li><p>
-msgid ""
-"Many popular mobile games include a random-reward system called <a href="
-"\"#gacha\"><i>gacha</i></a> which is especially effective on children. One "
-"variant of gacha was declared illegal in Japan in 2012, but the other "
-"variants are still <a href=\"https://www.forbes.com/sites/"
-"olliebarder/2016/04/04/japanese-mobile-gaming-still-cant-shake-off-the-"
-"spectre-of-exploitation/\"> luring players into compulsively spending</a> "
-"inordinate amounts of money on virtual toys."
-msgstr ""
-
-#. type: Content of: <div><ul><li><p>
-msgid ""
-"Most Internet connected devices in Mozilla's <a href=\"https://foundation."
-"mozilla.org/en/privacynotincluded\">&ldquo;Privacy Not Included&rdquo;</a> "
-"list <a href=\"https://foundation.mozilla.org/privacynotincluded/arlo-video-"
-"doorbell\">are designed to snoop on users</a> even if they meet Mozilla's "
-"&ldquo;Minimum Security Standards.&rdquo; Insecure design of the program "
-"running on some of these devices <a href=\"https://foundation.mozilla.org/"
-"privacynotincluded/vibratissimo-panty-buster\">makes the user susceptible to "
-"be snooped and exploited by crackers as well</a>."
-msgstr ""
-
-#. type: Content of: <div><ul><li><p>
-msgid ""
-"The personal finance management software &ldquo;Quicken&rdquo; <a href="
-"\"https://www.quicken.com/support/quicken-discontinuation-policy\"> has a "
-"discontinuation policy, a.k.a. planned obsolescence</a>, which is an "
-"injustice to users. A free (as in freedom) program would let users control "
-"the software. But when you use a proprietary software, you won't be in "
-"control."
-msgstr ""
-"O software de gestão de finanças pessoais “Quicken” <a href=\"https://www."
-"quicken.com/support/quicken-discontinuation-policy\"> tem uma política de "
-"descontinuação, também conhecida como obsolescência programada</a>, que é "
-"uma injustiça para os usuários. Um programa livre permitiria aos usuários "
-"controlar o software. Mas quando você usa um software privativo, você não "
-"estará no controle."
+#| msgid "<a href=\"/proprietary/malware-mobiles.html\">Mobiles</a>"
+msgid "<a href=\"/proprietary/all.html\">More items&hellip;</a>"
+msgstr "<a href=\"/proprietary/malware-mobiles.html\">Móveis</a>"
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -501,6 +510,35 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#, fuzzy
+#~| msgid ""
+#~| "People can play <a href=\"https://directory.fsf.org/wiki/Minetest"
+#~| "\">Minetest</a> instead. Minetest is free software and respects the "
+#~| "user's computer freedom."
+#~ msgid ""
+#~ "Instead of WhatsApp you can use <a href=\"https://directory.fsf.org/wiki/"
+#~ "Jami\">GNU Jami</a>, which is free software and will not collect your "
+#~ "data."
+#~ msgstr ""
+#~ "As pessoas podem jogar <a href=\"https://directory.fsf.org/wiki/Minetest"
+#~ "\">Minetest</a> em vez disso. Minetest é um software livre e respeita a "
+#~ "liberdade de computação do usuário."
+
+#~ msgid ""
+#~ "The personal finance management software &ldquo;Quicken&rdquo; <a href="
+#~ "\"https://www.quicken.com/support/quicken-discontinuation-policy\"> has a "
+#~ "discontinuation policy, a.k.a. planned obsolescence</a>, which is an "
+#~ "injustice to users. A free (as in freedom) program would let users "
+#~ "control the software. But when you use a proprietary software, you won't "
+#~ "be in control."
+#~ msgstr ""
+#~ "O software de gestão de finanças pessoais “Quicken” <a href=\"https://www."
+#~ "quicken.com/support/quicken-discontinuation-policy\"> tem uma política de "
+#~ "descontinuação, também conhecida como obsolescência programada</a>, que é "
+#~ "uma injustiça para os usuários. Um programa livre permitiria aos usuários "
+#~ "controlar o software. Mas quando você usa um software privativo, você não "
+#~ "estará no controle."
 
 #~ msgid ""
 #~ "HP tricked users into installing a mischievous update in their printers "

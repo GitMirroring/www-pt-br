@@ -1,14 +1,14 @@
 # Brazilian Portuguese translation of https://www.gnu.org/software/software.html
-# Copyright (C) 2020 Free Software Foundation, Inc.
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # André Phellip Ferreira <werewolf@cyberdude.com>, 2018. (proofread).
-# Rafael Fontenelle <rafaelff@gnome.org>, 2018-2020.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018-2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: software.html\n"
-"POT-Creation-Date: 2020-11-13 09:26+0000\n"
-"PO-Revision-Date: 2020-12-13 18:30-0300\n"
+"POT-Creation-Date: 2021-03-31 15:55+0000\n"
+"PO-Revision-Date: 2021-04-20 05:36-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1)\n"
-"X-Generator: Gtranslator 3.38.0\n"
+"X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <title>
 msgid "Software - GNU Project - Free Software Foundation"
@@ -49,11 +49,11 @@ msgstr "<a href=\"/manual/manual.html\">Manuais do GNU</a>"
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<strong><a href=\"/distros/free-distros.html\">Wholly free GNU/Linux "
-"distributions</a></strong>"
+"<a href=\"/distros/free-distros.html\"><strong>Wholly free GNU/Linux "
+"distributions</strong></a>"
 msgstr ""
-"<strong><a href=\"/distros/free-distros.html\">Distribuições GNU/Linux "
-"totalmente livre</a></strong>"
+"<a href=\"/distros/free-distros.html\"><strong>Distribuições GNU/Linux "
+"totalmente livre</strong></a>"
 
 #. type: Content of: <div><ul><li>
 msgid "<a href=\"/distros/distros.html\">GNU/Linux distributions</a>"
@@ -459,10 +459,11 @@ msgid ""
 "display\">&nbsp;</span> <a href=\"songanizer/\">songanizer</a><span class="
 "\"no-display\">&nbsp;</span> <a href=\"sourceinstall/\">sourceinstall</"
 "a><span class=\"no-display\">&nbsp;</span> <a href=\"sovix/\">sovix</a><span "
-"class=\"no-display\">&nbsp;</span> <a href=\"sweater/\">sweater</a><span "
-"class=\"no-display\">&nbsp;</span> <a href=\"sxml/\">sxml</a><span class="
-"\"no-display\">&nbsp;</span> <a href=\"toutdoux/\">toutdoux</a><span class="
-"\"no-display\">&nbsp;</span> <a href=\"url/\">url</a><span class=\"no-display"
+"class=\"no-display\">&nbsp;</span> <a href=\"speex/\">speex</a><span class="
+"\"no-display\">&nbsp;</span> <a href=\"sweater/\">sweater</a><span class="
+"\"no-display\">&nbsp;</span> <a href=\"sxml/\">sxml</a><span class=\"no-"
+"display\">&nbsp;</span> <a href=\"toutdoux/\">toutdoux</a><span class=\"no-"
+"display\">&nbsp;</span> <a href=\"url/\">url</a><span class=\"no-display"
 "\">&nbsp;</span> <a href=\"vmslib/\">vmslib</a><span class=\"no-display"
 "\">&nbsp;</span> <a href=\"vtags/\">vtags</a><span class=\"no-display"
 "\">&nbsp;</span> <a href=\"webpublish/\">webpublish</a><span class=\"no-"
@@ -553,10 +554,11 @@ msgstr ""
 "display\">&nbsp;</span> <a href=\"songanizer/\">songanizer</a><span class="
 "\"no-display\">&nbsp;</span> <a href=\"sourceinstall/\">sourceinstall</"
 "a><span class=\"no-display\">&nbsp;</span> <a href=\"sovix/\">sovix</a><span "
-"class=\"no-display\">&nbsp;</span> <a href=\"sweater/\">sweater</a><span "
-"class=\"no-display\">&nbsp;</span> <a href=\"sxml/\">sxml</a><span class="
-"\"no-display\">&nbsp;</span> <a href=\"toutdoux/\">toutdoux</a><span class="
-"\"no-display\">&nbsp;</span> <a href=\"url/\">url</a><span class=\"no-display"
+"class=\"no-display\">&nbsp;</span> <a href=\"speex/\">speex</a><span class="
+"\"no-display\">&nbsp;</span> <a href=\"sweater/\">sweater</a><span class="
+"\"no-display\">&nbsp;</span> <a href=\"sxml/\">sxml</a><span class=\"no-"
+"display\">&nbsp;</span> <a href=\"toutdoux/\">toutdoux</a><span class=\"no-"
+"display\">&nbsp;</span> <a href=\"url/\">url</a><span class=\"no-display"
 "\">&nbsp;</span> <a href=\"vmslib/\">vmslib</a><span class=\"no-display"
 "\">&nbsp;</span> <a href=\"vtags/\">vtags</a><span class=\"no-display"
 "\">&nbsp;</span> <a href=\"webpublish/\">webpublish</a><span class=\"no-"
@@ -612,9 +614,11 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2015, 2016, 2018, 2019, 2020 Free Software Foundation, Inc."
+"Copyright &copy; 2015, 2016, 2018, 2019, 2020, 2021 Free Software "
+"Foundation, Inc."
 msgstr ""
-"Copyright &copy; 2015, 2016, 2018, 2019, 2020 Free Software Foundation, Inc."
+"Copyright &copy; 2015, 2016, 2018, 2019, 2020, 2021 Free Software "
+"Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -631,7 +635,7 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
-"rafaelff@gnome.org&gt;</a>, 2018-2020.<br/>\n"
+"rafaelff@gnome.org&gt;</a>, 2018-2021.<br/>\n"
 "Revisado por: André Phellip Ferreira <a href=\"mailto:werewolf@cyberdude.com"
 "\">&lt;werewolf@cyberdude.com&gt;</a>, 2018."
 
