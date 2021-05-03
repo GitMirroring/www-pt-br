@@ -1,19 +1,20 @@
 # Brazilian Portuguese translation of https://www.gnu.org/proprietary/proprietary.html
-# Copyright (C) 2020 Free Software Foundation, Inc.
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2018-2020.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018-2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary.html\n"
-"POT-Creation-Date: 2021-04-18 08:25+0000\n"
-"PO-Revision-Date: 2020-12-29 13:36-0300\n"
+"POT-Creation-Date: 2021-04-26 11:55+0000\n"
+"PO-Revision-Date: 2021-02-07 15:33-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Outdated-Since: 2021-02-22 10:25+0000\n"
 "Plural-Forms: nplurals=2; plural=(n > 1)\n"
 "X-Generator: Gtranslator 3.38.0\n"
 
@@ -97,24 +98,19 @@ msgstr ""
 "de ser mal."
 
 #. type: Content of: <div><p>
-# | As of [-December, 2020,-] {+March, 2021,+} the pages in this directory
-# | list around [-450-] {+500+} instances of malicious functionalities (with
-# | more than 5[-6-]{+9+}0 references to back them up), but there are surely
-# | thousands more we don't know about.
 #, fuzzy
 #| msgid ""
-#| "As of December, 2020, the pages in this directory list around 450 "
-#| "instances of malicious functionalities (with more than 560 references to "
+#| "As of January, 2021, the pages in this directory list around 500 "
+#| "instances of malicious functionalities (with more than 570 references to "
 #| "back them up), but there are surely thousands more we don't know about."
 msgid ""
 "As of March, 2021, the pages in this directory list around 500 instances of "
 "malicious functionalities (with more than 590 references to back them up), "
 "but there are surely thousands more we don't know about."
 msgstr ""
-"Até dezembro de 2020, as páginas neste diretório listam cerca de 450 "
-"exemplos de funcionalidades maliciosas (com mais de 560 referências para "
-"confirmá-las), mas com certeza há mais milhares das quais nós não temos "
-"conhecimento."
+"Até janeiro de 2021, as páginas neste diretório listam quase 500 exemplos de "
+"funcionalidades maliciosas (com mais de 570 referências para confirmá-las), "
+"mas com certeza há mais milhares das quais nós não temos conhecimento."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -122,6 +118,10 @@ msgid ""
 "subscribe to the <a href=\"https://lists.gnu.org/mailman/listinfo/www-"
 "malware-commits\">mailing list &lt;www-malware-commits@gnu.org&gt;</a>."
 msgstr ""
+"Se você deseja ser notificado quando adicionarmos novos itens ou fizermos "
+"outras alterações, inscreva-se na <a href=\"https://lists.gnu.org/mailman/"
+"listinfo/www-malware-commits\">lista de discussão &lt;www-malware-"
+"commits@gnu.org&gt;</a>."
 
 #. type: Content of: <div><table><tr><th>
 msgid "Injustices or techniques"
@@ -341,6 +341,15 @@ msgstr "Últimas adições"
 
 #. type: Content of: <div><ul><li><p>
 msgid ""
+"<a href=\"https://www.wired.com/story/weddings-social-media-apps-photos-"
+"memories-miscarriage-problem/\">WeddingWire app saves people's wedding "
+"photos forever and hands over data to others</a>, and gives people no "
+"control over their personal information/data. The app also sometimes shows "
+"old photos and memories to the user without user having control over this."
+msgstr ""
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
 "A zero-day vulnerability in Zoom which <a href=\"https://www.zdnet.com/"
 "article/critical-zoom-vulnerability-triggers-remote-code-execution-without-"
 "user-input/\">can be used to launch remote code execution (RCE) attacks</a> "
@@ -386,46 +395,7 @@ msgid ""
 "injustice to people</a>."
 msgstr ""
 
-#. type: Content of: <div><ul><li><p>
-msgid ""
-"<a href=\"https://www.bloomberg.com/news/articles/2021-03-09/hackers-expose-"
-"tesla-jails-in-breach-of-150-000-security-cams\">Over 150 thousand security "
-"cameras that used Verkada company's proprietary software are cracked</a> by "
-"a major security breach. Crackers have had access to security archives of "
-"various gyms, hospitals, jails, schools, and police stations that have used "
-"Verdaka's cameras."
-msgstr ""
-
-#. type: Content of: <div><ul><li><p>
-msgid ""
-"<a href=\"/philosophy/surveillance-vs-democracy.html\">It is injustice to "
-"the public</a> for gyms, stores, hospitals, jails, and schools to hand "
-"&ldquo;security&rdquo; footage to a company from which the government can "
-"collect it at any time, without even telling them."
-msgstr ""
-
-#. type: Content of: <div><ul><li><p>
-# | <small>[-(-]Please note that the article wrongly refers to crackers as
-# | [-\"<a
-# | href=\"/philosophy/words-to-avoid.html#Hacker\">hackers</a>\".)</small>-]
-# | {+&ldquo;<a
-# | href=\"/philosophy/words-to-avoid.html#Hacker\">hackers</a>&rdquo;.</small>
-# | +}
-#, fuzzy
-#| msgid ""
-#| "<small>(Please note that the article wrongly refers to crackers as \"<a "
-#| "href=\"/philosophy/words-to-avoid.html#Hacker\">hackers</a>\".)</small>"
-msgid ""
-"<small>Please note that the article wrongly refers to crackers as &ldquo;<a "
-"href=\"/philosophy/words-to-avoid.html#Hacker\">hackers</a>&rdquo;.</small>"
-msgstr ""
-"<small>(Note que o artigo, de forma incorreta, refere-se a <em>crackers</em> "
-"como <a href=\"/philosophy/words-to-avoid.html#Hacker\">“hackers”</a>.)</"
-"small>"
-
 #. type: Content of: <div><p>
-# | <a [-href=\"/proprietary/malware-mobiles.html\">Mobiles</a>-]
-# | {+href=\"/proprietary/all.html\">More items&hellip;</a>+}
 #, fuzzy
 #| msgid "<a href=\"/proprietary/malware-mobiles.html\">Mobiles</a>"
 msgid "<a href=\"/proprietary/all.html\">More items&hellip;</a>"
@@ -476,17 +446,11 @@ msgstr ""
 "envio de traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-# | Copyright &copy; 2013, 2014, 2015, 2016, 2017, 2018, 2019, [-2020-]
-# | {+2020, 2021+} Free Software Foundation, Inc.
-#, fuzzy
-#| msgid ""
-#| "Copyright &copy; 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020 Free "
-#| "Software Foundation, Inc."
 msgid ""
 "Copyright &copy; 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021 Free "
 "Software Foundation, Inc."
 msgstr ""
-"Copyright &copy; 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020 Free "
+"Copyright &copy; 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021 Free "
 "Software Foundation, Inc."
 
 #. type: Content of: <div><p>
@@ -504,7 +468,7 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
-"rafaelff@gnome.org&gt;</a>, 2018-2020."
+"rafaelff@gnome.org&gt;</a>, 2018-2021."
 
 #.  timestamp start 
 #. type: Content of: <div><p>
@@ -513,17 +477,105 @@ msgstr "Última atualização:"
 
 #, fuzzy
 #~| msgid ""
-#~| "People can play <a href=\"https://directory.fsf.org/wiki/Minetest"
-#~| "\">Minetest</a> instead. Minetest is free software and respects the "
-#~| "user's computer freedom."
+#~| "<small>(Please note that the article wrongly refers to crackers as \"<a "
+#~| "href=\"/philosophy/words-to-avoid.html#Hacker\">hackers</a>\".)</small>"
+#~ msgid ""
+#~ "<small>Please note that the article wrongly refers to crackers as &ldquo;"
+#~ "<a href=\"/philosophy/words-to-avoid.html#Hacker\">hackers</a>&rdquo;.</"
+#~ "small>"
+#~ msgstr ""
+#~ "<small>(Note que o artigo, de forma incorreta, refere-se a <em>crackers</"
+#~ "em> como “<a href=\"/philosophy/words-to-avoid.html#Hacker\">hackers</"
+#~ "a>”.)</small>"
+
+#~ msgid ""
+#~ "Many cr&hellip;apps, developed by various companies for various "
+#~ "organizations, do <a href=\"https://www.expressvpn.com/digital-security-"
+#~ "lab/investigation-xoth\"> location tracking unknown to those companies "
+#~ "and those organizations</a>.  It's actually some widely used libraries "
+#~ "that do the tracking."
+#~ msgstr ""
+#~ "Muitos cr&hellip;apps, desenvolvidos por várias empresas para várias "
+#~ "organizações, fazem <a href=\"https://www.expressvpn.com/digital-security-"
+#~ "lab/investigation-xoth\"> rastreamento de localização desconhecido para "
+#~ "essas empresas e organizações</a>. Na verdade, são algumas bibliotecas "
+#~ "amplamente utilizadas que fazem o rastreamento."
+
+#~ msgid ""
+#~ "What's unusual here is that proprietary software developer A tricks "
+#~ "proprietary software developers B1 &hellip; B50 into making platforms for "
+#~ "A to mistreat the end user."
+#~ msgstr ""
+#~ "O que é incomum aqui é que o desenvolvedor de software proprietário A "
+#~ "engana os desenvolvedores de software proprietário B1 … B50 em fazer "
+#~ "plataformas para que A maltrate o usuário final."
+
+#~ msgid ""
+#~ "Samsung is forcing its smartphone users in Hong Kong (and Macau) <a href="
+#~ "\"https://blog.headuck.com/2020/10/12/samsung-phones-force-mainland-china-"
+#~ "dns-service-upon-hong-kong-wifi-users/\">to use a public DNS in Mainland "
+#~ "China</a>, using software update released in September 2020, which causes "
+#~ "many unease and privacy concerns."
+#~ msgstr ""
+#~ "A Samsung está forçando que seus usuários de smartphones em Hong Kong (e "
+#~ "Macau) <a href=\"https://blog.headuck.com/2020/10/12/samsung-phones-force-"
+#~ "mainland-china-dns-service-upon-hong-kong-wifi-users/\">usem um DNS "
+#~ "público na China Continental</a>, usando a atualização de software "
+#~ "lançada em setembro de 2020, o que causa muitas preocupações e "
+#~ "preocupações com a privacidade."
+
+#~ msgid ""
+#~ "The authorities in Venice track the <a href=\"https://edition.cnn.com/"
+#~ "travel/article/venice-control-room-tourism/index.html\"> movements of all "
+#~ "tourists</a> using their portable phones.  The article says that <em>at "
+#~ "present</em> the system is configured to report only aggregated "
+#~ "information.  But that could be changed.  What will that system do 10 "
+#~ "years from now? What will a similar system in another country do? Those "
+#~ "are the questions this raises."
+#~ msgstr ""
+#~ "As autoridades em Veneza rastreiam os <a href=\"https://edition.cnn.com/"
+#~ "travel/article/venice-control-room-tourism/index.html\"> movimentos de "
+#~ "todos os turistas</a> usando seus telefones celulares. O artigo diz que "
+#~ "<em>no momento</em> o sistema está configurado para relatar apenas "
+#~ "informações agregadas. Mas isso pode ser mudado. O que esse sistema fará "
+#~ "daqui a 10 anos? O que fará um sistema semelhante em outro país? Essas "
+#~ "são as questões que isso levanta."
+
+#~ msgid ""
+#~ "A cracker <a href=\"https://www.vice.com/en/article/m7apnn/your-cock-is-"
+#~ "mine-now-hacker-locks-internet-connected-chastity-cage-demands-ransom"
+#~ "\">took control of people's internet-connected chastity cages and "
+#~ "demanded ransom</a>. The chastity cages are being controlled by a "
+#~ "proprietary app (mobile program)."
+#~ msgstr ""
+#~ "Um <em>cracker</em> <a href=\"https://www.vice.com/en/article/m7apnn/your-"
+#~ "cock-is-mine-now-hacker-locks-internet-connected-chastity-cage-demands-"
+#~ "ransom\">assumiu o controle dos cintos de castidade das pessoas "
+#~ "conectadas à Internet e exigiu resgate</a>. Os cintos de castidade estão "
+#~ "sendo controladas por um aplicativo proprietário (programa móvel)."
+
+#~ msgid ""
+#~ "As of 2021, WhatsApp (one of Facebook's subsidiaries) is <a href="
+#~ "\"https://www.forbes.com/sites/carlypage/2021/01/08/whatsapp-tells-users-"
+#~ "share-your-data-with-facebook-or-well-deactivate-your-account/\">forcing "
+#~ "its users to hand over sensitive personal data</a> to its parent company. "
+#~ "This increases Facebook's power over users, and further jeopardizes "
+#~ "people's privacy and security."
+#~ msgstr ""
+#~ "Em 2021, o WhatsApp (uma das subsidiárias do Facebook) está <a href="
+#~ "\"https://www.forbes.com/sites/carlypage/2021/01/08/whatsapp-tells-users-"
+#~ "share-your-data-with-facebook-or-well-deactivate-your-account/\">forçando "
+#~ "seus usuários a entregar dados pessoais confidenciais</a> para sua "
+#~ "empresa-mãe. Isso aumenta o poder do Facebook sobre os usuários e "
+#~ "prejudica ainda mais a privacidade e a segurança das pessoas."
+
 #~ msgid ""
 #~ "Instead of WhatsApp you can use <a href=\"https://directory.fsf.org/wiki/"
 #~ "Jami\">GNU Jami</a>, which is free software and will not collect your "
 #~ "data."
 #~ msgstr ""
-#~ "As pessoas podem jogar <a href=\"https://directory.fsf.org/wiki/Minetest"
-#~ "\">Minetest</a> em vez disso. Minetest é um software livre e respeita a "
-#~ "liberdade de computação do usuário."
+#~ "Em vez do WhatsApp, você pode usar o <a href=\"https://directory.fsf.org/"
+#~ "wiki/Jami\">GNU Jami</a>, que é um software livre e não coleta seus dados."
 
 #~ msgid ""
 #~ "The personal finance management software &ldquo;Quicken&rdquo; <a href="
@@ -539,6 +591,60 @@ msgstr "Última atualização:"
 #~ "uma injustiça para os usuários. Um programa livre permitiria aos usuários "
 #~ "controlar o software. Mas quando você usa um software privativo, você não "
 #~ "estará no controle."
+
+#~ msgid ""
+#~ "Adobe Flash Player <a href=\"https://www.adobe.com/products/flashplayer/"
+#~ "end-of-life.html\"> has a universal back door</a> which lets Adobe "
+#~ "control the software and, for example, disable it whenever it wants. "
+#~ "Adobe will block Flash content from running in Flash Player beginning "
+#~ "January 12, 2021, which indicates that they have access to every Flash "
+#~ "Player through a back door."
+#~ msgstr ""
+#~ "O Adobe Flash Player <a href=\"https://www.adobe.com/products/flashplayer/"
+#~ "end-of-life.html\"> tem um <em>backdoor</em> universal</a> que permite à "
+#~ "Adobe controlar o software e, por exemplo, desativá-lo sempre que "
+#~ "desejar. A Adobe bloqueará a execução de conteúdo do Flash no Flash "
+#~ "Player a partir de 12 de janeiro de 2021, o que indica que eles têm "
+#~ "acesso a todos os Flash Player por um <em>backdoor</em>."
+
+#~ msgid ""
+#~ "The back door won't be dangerous in the future, as it'll disable a "
+#~ "proprietary program and make users delete the software, but it was an "
+#~ "injustice for many years. Users should have deleted Flash Player even "
+#~ "before its end of life."
+#~ msgstr ""
+#~ "O<em>backdoor</em> não será perigoso no futuro, pois desabilitará um "
+#~ "programa privativo e fará com que os usuários excluam o software, mas foi "
+#~ "uma injustiça por muitos anos. Os usuários deveriam ter excluído o Flash "
+#~ "Player antes mesmo de sua vida útil terminar."
+
+#~ msgid ""
+#~ "As of 2019-2020, Minecraft players are <a href=\"https://www.minecraft."
+#~ "net/en-us/article/java-edition-moving-house\">being forced to move to "
+#~ "Microsoft servers</a>, which results in privacy violation. Microsoft "
+#~ "publishes a program so users can run their own server, but the program is "
+#~ "proprietary and it's another <a href=\"/philosophy/free-software-even-"
+#~ "more-important.html\">injustice to users</a>."
+#~ msgstr ""
+#~ "Desde 2019-2020, os jogadores do Minecraft estão <a href=\"https://www."
+#~ "minecraft.net/en-us/article/java-edition-moving-house\">sendo forçados a "
+#~ "mudar para os servidores da Microsoft</a>, o que resulta em violação de "
+#~ "privacidade. A Microsoft publica um programa para que os usuários possam "
+#~ "executar seu próprio servidor, mas o programa é privativo e é outra <a "
+#~ "href=\"/philosophy/free-software-even-more-important.html\">injustiça "
+#~ "para com os usuários</a>."
+
+#~ msgid ""
+#~ "While the world is still struggling with COVID-19 coronavirus, many <a "
+#~ "href=\"https://mashable.com/article/privacy-in-the-age-of-coronavirus/"
+#~ "\">people are in danger of surveillance</a> and their computers are "
+#~ "infected with malware as a result of installing proprietary software."
+#~ msgstr ""
+#~ "Enquanto o mundo ainda luta contra o coronavírus do COVID-19, muitas <a "
+#~ "href=\"https://mashable.com/article/privacy-in-the-age-of-coronavirus/"
+#~ "\">pessoas estão em perigo de vigilância</a> e seus computadores estão "
+#~ "infectados com <em>malware</em> como resultado da instalação de software "
+#~ "privativo."
 
 #~ msgid ""
 #~ "HP tricked users into installing a mischievous update in their printers "

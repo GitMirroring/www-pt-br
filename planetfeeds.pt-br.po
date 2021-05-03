@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: planetfeeds.html\n"
-"POT-Creation-Date: 2021-04-19 13:57+0000\n"
-"PO-Revision-Date: 2021-04-20 04:15-0300\n"
+"POT-Creation-Date: 2021-04-26 05:56+0000\n"
+"PO-Revision-Date: 2021-05-03 06:58-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -18,28 +18,64 @@ msgstr ""
 "X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <p>
-msgid "GNU poke 1.2 released"
-msgstr "GNU poke 1.2 lançado"
+msgid "Beyond the shouting match: what is a blockchain, really?"
+msgstr "Além da disputa de gritos: o que é um blockchain, realmente?"
 
 #.  TRANSLATORS: 
-#. http://savannah.gnu.org/forum/forum.php?forum_id=9969 
+#. http://dustycloud.org/blog/what-is-a-blockchain-really/ 
 #. type: Content of: <p>
 msgid ""
-": I am happy to announce a new release of GNU poke, version 1.2. This is a "
-"bug fix release in the poke 1.x series, and is the result of all the user "
-"feedback we have rece..."
+": If there&#39;s one thing that&#39;s true about the word \"blockchain\", "
+"it&#39;s that these days people have strong opinions about it..."
 msgstr ""
-": Tenho o prazer de anunciar um novo lançamento do GNU poke, versão 1.2. "
-"Este é um lançamento de correção de erros na série poke 1.x e é o resultado "
-"de todo o feedback..."
+": Se há uma coisa que é verdade sobre a palavra \"blockchain\", é que hoje "
+"em dia as pessoas têm opiniões fortes sobre ela..."
 
 #. type: Content of: <p>
-msgid "Statement of FSF board on election of Richard Stallman"
-msgstr "Declaração do conselho da FSF sobre a eleição de Richard Stallman"
+msgid "Building derivations, how complicated can it be?"
+msgstr "Construir derivações, quão complicado pode ser?"
+
+#.  TRANSLATORS: 
+#. https://guix.gnu.org/blog/2021/building-derivations-how-complicated-can-it-be/ 
+#. type: Content of: <p>
+msgid ""
+": Derivations are key to Guix, they&#39;re the low-level build instructions "
+"used for things like packages, disk images, and most things than en..."
+msgstr ""
+": Derivações são a chave para o Guix, são as instruções de construção de "
+"baixo nível usadas para coisas como pacotes, imagens de disco e muito..."
 
 #. type: Content of: <p>
-msgid "RMS addresses the free software community"
-msgstr "RMS se dirige à comunidade de software livre"
+msgid "GNU Parallel 20210422 (&#39;Ever Given&#39;) released [stable]"
+msgstr "GNU Parallel 20210422 (&#39;Ever Given&#39;) lançado [estável]"
+
+#.  TRANSLATORS: 
+#. http://savannah.gnu.org/forum/forum.php?forum_id=9971 
+#. type: Content of: <p>
+msgid ""
+": GNU Parallel 20210322 (&#39;Ever Given&#39;) [stable] has been released. "
+"It is available for download at: lbry://@GnuParallel:4..."
+msgstr ""
+": GNU Parallel 20210322 (&#39;Ever Given&#39;) [estável] foi lançado. Está "
+"disponível para download em: lbry://@GnuParallel:4..."
+
+#~ msgid "GNU poke 1.2 released"
+#~ msgstr "GNU poke 1.2 lançado"
+
+#~ msgid ""
+#~ ": I am happy to announce a new release of GNU poke, version 1.2. This is "
+#~ "a bug fix release in the poke 1.x series, and is the result of all the "
+#~ "user feedback we have rece..."
+#~ msgstr ""
+#~ ": Tenho o prazer de anunciar um novo lançamento do GNU poke, versão 1.2. "
+#~ "Este é um lançamento de correção de erros na série poke 1.x e é o "
+#~ "resultado de todo o feedback..."
+
+#~ msgid "Statement of FSF board on election of Richard Stallman"
+#~ msgstr "Declaração do conselho da FSF sobre a eleição de Richard Stallman"
+
+#~ msgid "RMS addresses the free software community"
+#~ msgstr "RMS se dirige à comunidade de software livre"
 
 #~ msgid "March GNU Spotlight with Mike Gerwitz: 14 new GNU releases!"
 #~ msgstr "Holofote GNU de março com Mike Gerwitz: 14 novos lançamentos!"
@@ -83,16 +119,6 @@ msgstr "RMS se dirige à comunidade de software livre"
 #~ ": Acabei de enviar o teste piloto do que será uma série de vídeos "
 #~ "destinados a mostrar como usar poke, escrever pickles e coisas do "
 #~ "gênero..."
-
-#~ msgid "GNU Parallel 20210322 (&#39;2002-01-06&#39;) released [stable]"
-#~ msgstr "GNU Parallel 20210322 (&#39;2002-01-06&#39;) lançado [estável]"
-
-#~ msgid ""
-#~ ": GNU Parallel 20210322 (&#39;2002-01-06&#39;) [stable] has been "
-#~ "released. It is available for download at: http://ftpmirror.gnu..."
-#~ msgstr ""
-#~ ": GNU Parallel 20210322 (&#39;2002-01-06&#39;) foi lançado. Está "
-#~ "disponível para download em: http://ftpmirror.gnu.org/parallel/..."
 
 #~ msgid "The WWWorst App Store"
 #~ msgstr "A WWWorst App Store"

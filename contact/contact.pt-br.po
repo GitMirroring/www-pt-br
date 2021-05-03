@@ -13,29 +13,23 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Outdated-Since: 2021-02-10 10:56+0000\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Virtaal 1.0.0-beta1\n"
 
 #. type: Content of: <title>
-# | Contacting the GNU [-p-]{+P+}roject - GNU Project - Free Software
-# | Foundation
 #, fuzzy
 #| msgid "Contacting the GNU project - GNU Project - Free Software Foundation"
 msgid "Contacting the GNU Project - GNU Project - Free Software Foundation"
 msgstr "Contatando o projeto GNU - Projeto GNU - Free Software Foundation"
 
 #. type: Content of: <div><h2>
-# | Contacting the GNU [-p-]{+P+}roject
 #, fuzzy
 #| msgid "Contacting the GNU project"
 msgid "Contacting the GNU Project"
 msgstr "Contatando o projeto GNU"
 
 #. type: Content of: <div><p>
-# | We strive to put the answers to all possible questions you might have on
-# | our <a [-href=\"/home.html\">web-] {+href=\"/\">web+} site</a>.  However,
-# | sometimes, you might have a question or issue that isn't covered.  This
-# | page describes how to contact us in these circumstances.
 #, fuzzy
 #| msgid ""
 #| "We strive to put the answers to all possible questions you might have on "
@@ -54,12 +48,6 @@ msgstr ""
 "página descreve como nos contatar nestas circunstâncias."
 
 #. type: Content of: <div><p>
-# | Please keep in mind, though, that time spent answering individual queries
-# | reduces the time available to work on writing, documenting, protecting and
-# | promoting <a href=\"/philosophy/free-sw.html\">free software</a>.  So,
-# | please look to see if your question is addressed on our web site first. 
-# | If you can't find the answer, use the [-table-] {+information+} below to
-# | figure out what to do.
 #, fuzzy
 #| msgid ""
 #| "Please keep in mind, though, that time spent answering individual queries "
@@ -91,17 +79,12 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <div><h3>
-# | [-For technical-]{+Technical+} support
 #, fuzzy
 #| msgid "For technical support"
 msgid "Technical support"
 msgstr "Para suporte técnico"
 
 #. type: Content of: <div><h3>
-# | [-Or if you need technical-]{+<small>(technical+} information about GNU
-# | software or other free software, [-or are trying to find-] {+search for+}
-# | a particular free [-software or GNU program&hellip;-] {+program,
-# | etc.)</small>+}
 #, fuzzy
 #| msgid ""
 #| "Or if you need technical information about GNU software or other free "
@@ -116,9 +99,6 @@ msgstr ""
 "GNU em especial…"
 
 #. type: Content of: <div><p>
-# | [-<strong>Please-]{+<em>Please+} note that we do not provide technical
-# | support [-ourselves; however, <a href=\"/help/gethelp.html\">help is at
-# | hand</a>:</strong>-] {+ourselves.</em>+}
 #, fuzzy
 #| msgid ""
 #| "<strong>Please note that we do not provide technical support ourselves; "
@@ -134,8 +114,6 @@ msgid "However, help is at hand:"
 msgstr ""
 
 #. type: Content of: <div><ul><li>
-# | [-We have-]a general page on <a href=\"/help/gethelp.html\">getting help
-# | with GNU software</a>[-.-]{+;+}
 #, fuzzy
 #| msgid ""
 #| "We have a general page on <a href=\"/help/gethelp.html\">getting help "
@@ -148,11 +126,6 @@ msgstr ""
 "ajuda com softwares GNU</a>."
 
 #. type: Content of: <div><ul><li>
-# | [-T-]{+t+}he home page for each GNU [-package-] {+package&mdash;its URL+}
-# | is <code>http{+s+}://www.gnu.org/software/<var>pkgname</var></code>; for
-# | example[-,-] <a
-# | href=\"/software/emacs/\"><code>http{+s+}://www.gnu.org/software/emacs</code></a>
-# | for GNU Emacs[-.-]{+;+}
 #, fuzzy
 #| msgid ""
 #| "The home page for each GNU package is <code>http://www.gnu.org/software/"
@@ -168,9 +141,6 @@ msgstr ""
 "\"><code>http://www.gnu.org/software/emacs</code></a> para o GNU Emacs."
 
 #. type: Content of: <div><ul><li>
-# | [-Try-]our <a href=\"http{+s+}://lists.gnu.org/\">mailing
-# | lists</a>&mdash;there is usually one or more lists for each GNU package;
-# | [-that is, a GNU Emacs mailing list, a GNU Chess mailing list, etc.-]
 #, fuzzy
 #| msgid ""
 #| "Try our <a href=\"http://lists.gnu.org/\">mailing lists</a>&mdash;there "
@@ -185,9 +155,6 @@ msgstr ""
 "discussão para o GNU Emacs, uma lista de discussão para o GNU Chess, etc."
 
 #. type: Content of: <div><ul><li>
-# | [-T-]{+t+}he <a href=\"http{+s+}://directory.fsf.org/\">Free Software
-# | [-Directory</a>-] {+Directory</a>&mdash;it+} can help you find both GNU
-# | and other free software packages[-.-]{+;+}
 #, fuzzy
 #| msgid ""
 #| "The <a href=\"http://directory.fsf.org/\">Free Software Directory</a> can "
@@ -200,19 +167,12 @@ msgstr ""
 "ajudá-lo a localizar pacotes de software livre do GNU e de outros."
 
 #. type: Content of: <div><ul><li>
-# | [-O-]{+o+}ur <a href=\"/server/irc-rules.html\">IRC chat
-# | rooms</a>[-.-]{+;+}
 #, fuzzy
 #| msgid "Our <a href=\"/server/irc-rules.html\">IRC chat rooms</a>."
 msgid "our <a href=\"/server/irc-rules.html\">IRC chat rooms</a>;"
 msgstr "Nossas <a href=\"/server/irc-rules.html\">salas de bate-papo IRC</a>."
 
 #. type: Content of: <div><ul><li>
-# | [-F-]{+f+}inally, our <a
-# | [-href=\"http://www.fsf.org/resources/service/\">service directory</a>-]
-# | {+href=\"https://www.fsf.org/resources/service/\">service
-# | directory</a>&mdash;it+} will help you find companies and people in your
-# | area who [-have-] {+can+} provide support services, usually for a fee.
 #, fuzzy
 #| msgid ""
 #| "Finally, our <a href=\"http://www.fsf.org/resources/service/\">service "
@@ -228,7 +188,6 @@ msgstr ""
 "sua área para fornecer serviços de suporte, geralmente por uma taxa."
 
 #. type: Content of: <div><h3>
-# | [-Contacting-]{+Comments on+} the GNU [-project-] {+website+}
 #, fuzzy
 #| msgid "Contacting the GNU project"
 msgid "Comments on the GNU website"
@@ -239,8 +198,6 @@ msgid "<small>(suggestions, dead links, typos, etc.)</small>"
 msgstr ""
 
 #. type: Content of: <div><ul><li>
-# | For general pages, contact the GNU [-W-]{+w+}ebmasters <a
-# | href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>.
 #, fuzzy
 #| msgid ""
 #| "For general pages, contact the GNU Webmasters <a href=\"mailto:"
@@ -253,10 +210,6 @@ msgstr ""
 "\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>."
 
 #. type: Content of: <div><ul><li>
-# | For {+translations of the+} general pages, contact [-the GNU Webmasters-]
-# | <a [-href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>.-]
-# | {+href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</
-# | a>.+}
 #, fuzzy
 #| msgid ""
 #| "For general pages, contact the GNU Webmasters <a href=\"mailto:"
@@ -269,11 +222,6 @@ msgstr ""
 "\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>."
 
 #. type: Content of: <div><ul><li>
-# | For pages of specific GNU [-packages,-] {+packages (including their
-# | translations),+} <a [-href=\"/help/gethelp.html\">contact-]
-# | {+href=\"/software/gethelp.html\">contact the maintainer(s)</a> of+} the
-# | particular [-package maintainer(s).</a>-] {+package, usually on
-# | &lt;bug-<var>pkgname</var>@gnu.org&gt;.+}
 #, fuzzy
 #| msgid ""
 #| "For pages of specific GNU packages, <a href=\"/help/gethelp.html"
@@ -283,15 +231,14 @@ msgid ""
 "\"/software/gethelp.html\">contact the maintainer(s)</a> of the particular "
 "package, usually on &lt;bug-<var>pkgname</var>@gnu.org&gt;."
 msgstr ""
-"Para páginas de pacotes específicos, <a href=\"/help/gethelp.html\">contate "
-"o(s) mantenedor(es) específicos daqueles pacotes</a>."
+"Para páginas de pacotes específicos, <a href=\"/help/gethelp.html\">contate o"
+"(s) mantenedor(es) específicos daqueles pacotes</a>."
 
 #. type: Content of: <div><h3>
 msgid "Software development and maintenance"
 msgstr ""
 
 #. type: Content of: <div><dl><dt>
-# | [-For ideas-]{+Ideas+} for the GNU task list
 #, fuzzy
 #| msgid "For ideas for the GNU task list"
 msgid "Ideas for the GNU task list"
@@ -328,9 +275,6 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <div><dl><dd>
-# | [-Contact-]{+If questions remain, email+} <a
-# | [-href=\"mailto:assign@gnu.org\">&lt;assign@gnu.org&gt;</a>.-]
-# | {+href=\"mailto:maintainers@gnu.org\">&lt;maintainers@gnu.org&gt;</a>.+}
 #, fuzzy
 #| msgid ""
 #| "Contact <a href=\"mailto:assign@gnu.org\">&lt;assign@gnu.org&gt;</a>."
@@ -340,21 +284,12 @@ msgid ""
 msgstr "Contate <a href=\"mailto:assign@gnu.org\">&lt;assign@gnu.org&gt;</a>."
 
 #. type: Content of: <div><dl><dt>
-# | [-For questions about-]Savannah hosting
 #, fuzzy
 #| msgid "For questions about Savannah hosting"
 msgid "Savannah hosting"
 msgstr "Para perguntas sobre hospedagem no Savannah"
 
 #. type: Content of: <div><dl><dd>
-# | To ask questions about <a
-# | [-href=\"http://savannah.gnu.org\">savannah</a>,-]
-# | {+href=\"https://savannah.gnu.org\">Savannah</a>,+} our hosting [-server-]
-# | {+platform,+} available for both GNU and non-GNU free software projects,
-# | please see the <a
-# | [-href=\"http://savannah.gnu.org/contact.php\">savannah-]
-# | {+href=\"https://savannah.gnu.org/contact.php\">Savannah+} contact
-# | page</a>.
 #, fuzzy
 #| msgid ""
 #| "To ask questions about <a href=\"http://savannah.gnu.org\">savannah</a>, "
@@ -377,7 +312,6 @@ msgid "Accounts"
 msgstr ""
 
 #. type: Content of: <div><dl><dt>
-# | [-For accounts-]{+Accounts+} on GNU/FSF machines
 #, fuzzy
 #| msgid "For accounts on GNU/FSF machines"
 msgid "Accounts on GNU/FSF machines"
@@ -394,7 +328,6 @@ msgstr ""
 "href=\"/software/README.accounts.html\">informações de acesso a máquinas</a>."
 
 #. type: Content of: <div><dl><dt>
-# | [-For updating personal-]{+Personal+} GNU email aliases
 #, fuzzy
 #| msgid "For updating personal GNU email aliases"
 msgid "Personal GNU email aliases"
@@ -439,26 +372,18 @@ msgstr ""
 "href=\"mailto:sysadmin@gnu.org\">&lt;sysadmin@gnu.org&gt;</a>."
 
 #. type: Content of: <div><h3>
-# | [-For licensing violations-]{+Licensing questions+}
 #, fuzzy
 #| msgid "For licensing violations"
 msgid "Licensing questions"
 msgstr "Para violações de licenciamento"
 
 #. type: Content of: <div><dl><dt>
-# | [-For licensing-]{+Licensing+} violations
 #, fuzzy
 #| msgid "For licensing violations"
 msgid "Licensing violations"
 msgstr "Para violações de licenciamento"
 
 #. type: Content of: <div><dl><dd>
-# | If you want to report a free software license violation that you have
-# | found, please read our <a
-# | [-href=\"/copyleft/gpl-violation.html\">license-]
-# | {+href=\"/licenses/gpl-violation.html\">license+} violation page</a>, and
-# | then contact <a href=
-# | \"mailto:license-violation@gnu.org\">&lt;license-violation@gnu.org&gt;</a>.
 #, fuzzy
 #| msgid ""
 #| "If you want to report a free software license violation that you have "
@@ -477,7 +402,6 @@ msgstr ""
 "license-violation@gnu.org\">&lt;license-violation@gnu.org&gt;</a>."
 
 #. type: Content of: <div><dl><dt>
-# | [-For questions about free-]{+Free+} software licensing and copyright
 #, fuzzy
 #| msgid "For questions about free software licensing and copyright"
 msgid "Free software licensing and copyright"
@@ -488,8 +412,6 @@ msgid "Please check"
 msgstr ""
 
 #. type: Content of: <div><dl><dd><ul><li>
-# | {+our+} <a [-href=\"/education/edu-faq.html\">FAQ</a>-]
-# | {+href=\"/licenses/gpl-faq.html\">licensing FAQ</a>,+}
 #, fuzzy
 #| msgid "<a href=\"/education/edu-faq.html\">FAQ</a>"
 msgid "our <a href=\"/licenses/gpl-faq.html\">licensing FAQ</a>,"
@@ -509,9 +431,6 @@ msgid "<a href=\"/licenses/\">related pages</a>."
 msgstr ""
 
 #. type: Content of: <div><dl><dd><p>
-# | [-Contact-]{+If questions remain, email+} <a
-# | [-href=\"mailto:assign@gnu.org\">&lt;assign@gnu.org&gt;</a>.-]
-# | {+href=\"mailto:licensing@gnu.org\">&lt;licensing@gnu.org&gt;</a>.+}
 #, fuzzy
 #| msgid ""
 #| "Contact <a href=\"mailto:assign@gnu.org\">&lt;assign@gnu.org&gt;</a>."
@@ -521,12 +440,6 @@ msgid ""
 msgstr "Contate <a href=\"mailto:assign@gnu.org\">&lt;assign@gnu.org&gt;</a>."
 
 #. type: Content of: <div><dl><dd><p>
-# | The <a [-href=\"http://www.fsf.org/licensing/\">FSF's licensing compliance
-# | lab</a>-] {+href=\"https://www.fsf.org/licensing/\">FSF Licensing and
-# | Compliance Lab</a>+} also offers <a
-# | [-href=\"http://www.fsf.org/licensing/contact\">paid-consulting-]
-# | {+href=\"https://www.fsf.org/licensing/contact\">paid consulting+} on free
-# | software licensing issues</a>.
 #, fuzzy
 #| msgid ""
 #| "The <a href=\"http://www.fsf.org/licensing/\">FSF's licensing compliance "
@@ -547,8 +460,6 @@ msgid "Copyright assignments to the FSF"
 msgstr ""
 
 #. type: Content of: <div><dl><dd>
-# | [-Contact-]{+To assign your copyright on a GNU program to the FSF,
-# | contact+} <a href=\"mailto:assign@gnu.org\">&lt;assign@gnu.org&gt;</a>.
 #, fuzzy
 #| msgid ""
 #| "Contact <a href=\"mailto:assign@gnu.org\">&lt;assign@gnu.org&gt;</a>."
@@ -597,15 +508,6 @@ msgstr ""
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
-# | Please see the <a
-# | href=\"/server/standards/README.translations.html\">Translations
-# | README</a> for information on coordinating and [-submitting-]
-# | {+contributing+} translations of this article.
-#, fuzzy
-#| msgid ""
-#| "Please see the <a href=\"/server/standards/README.translations.html"
-#| "\">Translations README</a> for information on coordinating and submitting "
-#| "translations of this article."
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
 "\">Translations README</a> for information on coordinating and contributing "
@@ -616,12 +518,10 @@ msgstr ""
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas deste site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-# | Copyright &copy; 2014, 2018, [-2020-] {+2020, 2021+} Free Software
-# | Foundation, Inc.
 #, fuzzy
 #| msgid "Copyright &copy; 2014, 2018, 2020 Free Software Foundation, Inc."
 msgid "Copyright &copy; 2014, 2018, 2020, 2021 Free Software Foundation, Inc."

@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnu-advisory.html\n"
-"POT-Creation-Date: 2021-03-15 11:26+0000\n"
-"PO-Revision-Date: 2021-02-07 15:08-0300\n"
+"POT-Creation-Date: 2021-04-30 11:56+0000\n"
+"PO-Revision-Date: 2021-04-22 09:49-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1)\n"
-"X-Generator: Gtranslator 3.38.0\n"
+"X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <title>
 msgid "GNU Advisory Committee - GNU Project - Free Software Foundation"
@@ -81,10 +81,6 @@ msgstr "Jason Self"
 #. type: Content of: <div><ul><li>
 msgid "Jim Meyering"
 msgstr "Jim Meyering"
-
-#. type: Content of: <div><ul><li>
-msgid "John Sullivan (FSF)"
-msgstr "John Sullivan (FSF)"
 
 #. type: Content of: <div><ul><li>
 msgid "Jose Marchesi"
@@ -180,6 +176,10 @@ msgstr "O comitê realizou sua primeira reunião em dezembro de 2009."
 msgid "Brian Gough was a member until January 2012."
 msgstr "Brian Gough era membro até janeiro de 2012."
 
+#. type: Content of: <div><p>
+msgid "John Sullivan was a member until April 2021."
+msgstr "John Sullivan era membro até abril de 2021."
+
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
@@ -206,14 +206,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
@@ -221,8 +221,8 @@ msgstr ""
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas deste site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -245,14 +245,17 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
-"rafaelff@gnome.org&gt;</a>, 2020-2021.Revisado por: Cassiano Reinert Novais "
-"dos Santos <a href=\"mailto:caco@posteo.net\">&lt;caco@posteo.net&gt;</a>, "
-"2020."
+"rafaelff@gnome.org&gt;</a>, 2020-2021.<br/>\n"
+"Revisado por: Cassiano Reinert Novais dos Santos <a href=\"mailto:"
+"caco@posteo.net\">&lt;caco@posteo.net&gt;</a>, 2020."
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid "John Sullivan (FSF)"
+#~ msgstr "John Sullivan (FSF)"
 
 #~ msgid "Brandon Invergo"
 #~ msgstr "Brandon Invergo"

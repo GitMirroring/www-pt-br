@@ -12,8 +12,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: free-distros.html\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-01-01 05:25+0000\n"
-"PO-Revision-Date: 2021-01-01 07:41-0300\n"
+"POT-Creation-Date: 2021-04-30 11:56+0000\n"
+"PO-Revision-Date: 2021-05-02 22:17-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1)\n"
-"X-Generator: Gtranslator 3.38.0\n"
+"X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -30,11 +30,11 @@ msgstr ""
 "Lista de distribuições livres de GNU/Linux - Projeto GNU - Free Software "
 "Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Free GNU/Linux distributions"
 msgstr "Distribuições GNU/Linux livres"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "This page lists the <a href=\"/gnu/linux-and-gnu.html\">GNU/Linux</a> "
 "distributions that are entirely <a href=\"/philosophy/free-sw.html\">free</"
@@ -46,7 +46,7 @@ msgstr ""
 "a> como em liberdade. <a href=\"/distros/free-non-gnu-distros.html\">As "
 "distribuições livres não baseadas no GNU</a> são listadas separadamente."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The Free Software Foundation recommends and endorses these GNU/Linux "
 "distros, although <strong>we do not try to judge or compare them based on "
@@ -58,43 +58,35 @@ msgstr ""
 "qualquer critério que não seja a liberdade</strong>;; por isso, nós as "
 "listamos em ordem alfabética."
 
-#. type: Content of: <div><h3>
+#. type: Content of: <div><div><h3>
 msgid "Table of Contents"
 msgstr "Conteúdo"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid "<a href=\"#intro\">Introduction</a>"
 msgstr "<a href=\"#intro\">Introdução</a>"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid "<a href=\"#for-pc\">GNU/Linux distros for PCs and workstations</a>"
 msgstr "<a href=\"#for-pc\">Distros GNU/Linux para PCs e estações</a>"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid "<a href=\"#small-distros\">Small GNU/Linux distros</a>"
 msgstr "<a href=\"#small-distros\">Distros GNU/Linux pequenas</a>"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid "<a href=\"#howto-get\">How to get free GNU/Linux distros</a>"
 msgstr "<a href=\"#howto-get\">Como obter distros GNU/Linux livres</a>"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid "<a href=\"#NewDistro\">See something we missed?</a>"
 msgstr "<a href=\"#NewDistro\">Há algo que nós esquecemos?</a>"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid "<a href=\"#Historical\">Historical</a>"
 msgstr "<a href=\"#Historical\">Histórico</a>"
 
 #. type: Content of: <div><p>
-msgid ""
-"<em>The <a href=\"http://www.fsf.org/\">Free Software Foundation</a> is not "
-"responsible for other websites, or how up-to-date their information is.</em>"
-msgstr ""
-"<em>A <a href=\"http://www.fsf.org/\">Free Software Foundation</a> não é "
-"responsável por outros sites, ou o quão atualizada a informação está.</em>"
-
-#. type: Content of: <p>
 msgid ""
 "These distros are ready-to-use full systems whose developers have made a "
 "commitment to follow the <a href=\"/distros/free-system-distribution-"
@@ -113,7 +105,7 @@ msgstr ""
 "firmware não livres, jogos não livres e quaisquer outros softwares não "
 "livres, assim como manuais e documentação não livres."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If one of these distros ever does include or propose anything nonfree, that "
 "must have happened by mistake, and the developers are committed to removing "
@@ -129,7 +121,7 @@ msgstr ""
 "problema e ganhar GNU Bucks</a>, ao mesmo tempo que nós informamos aos "
 "desenvolvedores de forma que eles possam corrigir o problema."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Fixing freedom bugs is an ethical requirement for listing a distro here; "
 "therefore, we list only distros with a development team that has told us it "
@@ -146,7 +138,7 @@ msgstr ""
 "se nós descobrirmos que uma distro não é mantida adequadamente, vamos retirá-"
 "la da lista."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We hope the other existing GNU/Linux distributions will become entirely free "
 "software so that we can list them here.  If you wish to improve the state of "
@@ -159,7 +151,7 @@ msgstr ""
 "a desenvolver uma distro livre existente contribui muito mais do que começar "
 "uma nova."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Please note that not all hardware works in the free world; each distro's "
 "site should say which hardware it supports. We suggest that, after reading "
@@ -172,11 +164,19 @@ msgstr ""
 "como outras informações disponíveis, para julgar qual distro é mais "
 "conveniente para você."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><div><div><p>
+msgid ""
+"<em>The <a href=\"http://www.fsf.org/\">Free Software Foundation</a> is not "
+"responsible for other websites, or how up-to-date their information is.</em>"
+msgstr ""
+"<em>A <a href=\"http://www.fsf.org/\">Free Software Foundation</a> não é "
+"responsável por outros sites, ou o quão atualizada a informação está.</em>"
+
+#. type: Content of: <div><h3>
 msgid "GNU/Linux distros for PCs and workstations"
 msgstr "Distros GNU/Linux para PCs e estações de trabalhos"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The distributions that follow are installable to a computer's hard drive and/"
 "or can be run live."
@@ -184,27 +184,27 @@ msgstr ""
 "As distribuições a seguir podem ser instaladas no disco rígido do computador "
 "e/ou podem ser executadas ao vivo."
 
-#. type: Content of: <table><thead><tr><th>
+#. type: Content of: <div><table><thead><tr><th>
 msgid "Distribution"
 msgstr "Distribuição"
 
-#. type: Content of: <table><thead><tr><th>
+#. type: Content of: <div><table><thead><tr><th>
 msgid "Brief Description"
 msgstr "Descrição breve"
 
-#. type: Content of: <table><tr><td><a>
+#. type: Content of: <div><table><tr><td><a>
 msgid "<a href=\"https://dragora.org/en/index.html\">"
 msgstr "<a href=\"https://dragora.org/en/index.html\">"
 
-#. type: Attribute 'alt' of: <table><tr><td><a><img>
+#. type: Attribute 'alt' of: <div><table><tr><td><a><img>
 msgid "Dragora GNU/Linux-Libre"
 msgstr "Dragora GNU/Linux-Libre"
 
-#. type: Content of: <table><tr><td>
+#. type: Content of: <div><table><tr><td>
 msgid "</a>"
 msgstr "</a>"
 
-#. type: Content of: <table><tr><td>
+#. type: Content of: <div><table><tr><td>
 msgid ""
 "<em>Dragora GNU/Linux-Libre</em>, an independent GNU/Linux distribution "
 "based on concepts of simplicity."
@@ -212,15 +212,15 @@ msgstr ""
 "<em>Dragora GNU/Linux-Libre</em>, uma distribuição de GNU/Linux independente "
 "baseada em conceitos de simplicidade."
 
-#. type: Content of: <table><tr><td><a>
+#. type: Content of: <div><table><tr><td><a>
 msgid "<a href=\"https://www.dyne.org/software/dynebolic/\">"
 msgstr "<a href=\"https://www.dyne.org/software/dynebolic/\">"
 
-#. type: Attribute 'alt' of: <table><tr><td><a><img>
+#. type: Attribute 'alt' of: <div><table><tr><td><a><img>
 msgid "Dyne:bolic"
 msgstr "Dyne:bolic"
 
-#. type: Content of: <table><tr><td>
+#. type: Content of: <div><table><tr><td>
 msgid ""
 "<em>Dyne:bolic</em>, a GNU/Linux distribution with special emphasis on audio "
 "and video editing. This is a &ldquo;static&rdquo; distro, normally run from "
@@ -232,31 +232,15 @@ msgstr ""
 "a partir de um “live CD”. Como ele não receberá atualizações de segurança, "
 "ele deve ser usado desconectado."
 
-#. type: Content of: <table><tr><td><a>
-msgid "<a href=\"http://www.gnewsense.org/\">"
-msgstr "<a href=\"http://www.gnewsense.org/\">"
-
-#. type: Attribute 'alt' of: <table><tr><td><a><img>
-msgid "gNewSense"
-msgstr "gNewSense"
-
-#. type: Content of: <table><tr><td>
-msgid ""
-"<em>gNewSense</em>, a GNU/Linux distribution based on Debian, with "
-"sponsorship from the FSF."
-msgstr ""
-"<em>gNewSense</em>, uma distribuição de GNU/Linux baseada no Debian, "
-"patrocinada pela FSF."
-
-#. type: Content of: <table><tr><td><a>
+#. type: Content of: <div><table><tr><td><a>
 msgid "<a href=\"/software/guix/\">"
 msgstr "<a href=\"/software/guix/\">"
 
-#. type: Attribute 'alt' of: <table><tr><td><a><img>
+#. type: Attribute 'alt' of: <div><table><tr><td><a><img>
 msgid "guix"
 msgstr "guix"
 
-#. type: Content of: <table><tr><td>
+#. type: Content of: <div><table><tr><td>
 msgid ""
 "<em>Guix System</em>, an advanced GNU/Linux distro built on top of GNU Guix "
 "(pronounced &ldquo;geeks&rdquo;), a purely functional package manager for "
@@ -266,15 +250,15 @@ msgstr ""
 "Guix (pronunciado “geeks”), um gerenciador de pacotes puramente funcional "
 "para o sistema GNU."
 
-#. type: Content of: <table><tr><td><a>
+#. type: Content of: <div><table><tr><td><a>
 msgid "<a href=\"https://www.hyperbola.info/\">"
 msgstr "<a href=\"https://www.hyperbola.info/\">"
 
-#. type: Attribute 'alt' of: <table><tr><td><a><img>
+#. type: Attribute 'alt' of: <div><table><tr><td><a><img>
 msgid "Hyperbola"
 msgstr "Hyperbola"
 
-#. type: Content of: <table><tr><td>
+#. type: Content of: <div><table><tr><td>
 msgid ""
 "<em>Hyperbola GNU/Linux-libre</em>, a long-term support simplicity-focused "
 "distribution based on Arch GNU/Linux."
@@ -282,15 +266,15 @@ msgstr ""
 "<em>Hyperbola GNU/Linux-libre</em>, uma distribuição com foco na "
 "simplicidade e suporte de longo prazo baseada no Arch GNU/Linux."
 
-#. type: Content of: <table><tr><td><a>
+#. type: Content of: <div><table><tr><td><a>
 msgid "<a href=\"https://www.parabola.nu\">"
 msgstr "<a href=\"https://www.parabola.nu\">"
 
-#. type: Attribute 'alt' of: <table><tr><td><a><img>
+#. type: Attribute 'alt' of: <div><table><tr><td><a><img>
 msgid "Parabola GNU/Linux-libre"
 msgstr "Parabola GNU/Linux-libre"
 
-#. type: Content of: <table><tr><td>
+#. type: Content of: <div><table><tr><td>
 msgid ""
 "<em>Parabola GNU/Linux-libre</em>, a distribution based on Arch that "
 "prioritizes simple package and system management."
@@ -298,15 +282,15 @@ msgstr ""
 "<em>Parabola GNU/Linux-libre</em>, uma distribuição baseada no Arch que "
 "prioriza o fácil gerenciamento de pacotes e do sistema."
 
-#. type: Content of: <table><tr><td><a>
+#. type: Content of: <div><table><tr><td><a>
 msgid "<a href=\"https://pureos.net/\">"
 msgstr "<a href=\"https://pureos.net/\">"
 
-#. type: Attribute 'alt' of: <table><tr><td><a><img>
+#. type: Attribute 'alt' of: <div><table><tr><td><a><img>
 msgid "PureOS"
 msgstr "PureOS"
 
-#. type: Content of: <table><tr><td>
+#. type: Content of: <div><table><tr><td>
 msgid ""
 "<em>PureOS</em>, a GNU distribution based on Debian with a focus on privacy, "
 "security, and convenience."
@@ -314,15 +298,15 @@ msgstr ""
 "<em>PureOS</em>, uma distribuição de GNU baseada no Debian com um foco na "
 "privacidade, segurança e conveniência."
 
-#. type: Content of: <table><tr><td><a>
+#. type: Content of: <div><table><tr><td><a>
 msgid "<a href=\"https://trisquel.info/\">"
 msgstr "<a href=\"https://trisquel.info/\">"
 
-#. type: Attribute 'alt' of: <table><tr><td><a><img>
+#. type: Attribute 'alt' of: <div><table><tr><td><a><img>
 msgid "Trisquel"
 msgstr "Trisquel"
 
-#. type: Content of: <table><tr><td>
+#. type: Content of: <div><table><tr><td>
 msgid ""
 "<em>Trisquel</em>, a GNU/Linux distribution based on Ubuntu that's oriented "
 "toward small enterprises, domestic users and educational centers."
@@ -330,15 +314,15 @@ msgstr ""
 "<em>Trisquel</em>, uma distribuição de GNU/Linux baseada no Ubuntu que é "
 "destinada a pequenas empresas, usuários domésticos e centros educacionais."
 
-#. type: Content of: <table><tr><td><a>
+#. type: Content of: <div><table><tr><td><a>
 msgid "<a href=\"http://www.ututo.org/\">"
 msgstr "<a href=\"http://www.ututo.org/\">"
 
-#. type: Attribute 'alt' of: <table><tr><td><a><img>
+#. type: Attribute 'alt' of: <div><table><tr><td><a><img>
 msgid "Ututo"
 msgstr "Ututo"
 
-#. type: Content of: <table><tr><td>
+#. type: Content of: <div><table><tr><td>
 msgid ""
 "<em>Ututo S</em>, a GNU/Linux 100% free distribution.  It was the first "
 "fully free GNU/Linux system recognized by the GNU Project."
@@ -346,11 +330,11 @@ msgstr ""
 "<em>Ututo S</em>, uma distribuição 100% livre de GNU/Linux. Foi o primeiro "
 "sistema GNU/Linux totalmente livre reconhecido pelo Projeto GNU."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Small GNU/Linux distros"
 msgstr "Distros GNU/Linux pequenas"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Below is a list of small system distributions. These distributions are meant "
 "for devices with limited resources, like a wireless router for example. A "
@@ -366,15 +350,15 @@ msgstr ""
 "talvez com auxílio de ferramentas livres distribuídas com a pequena "
 "distribuição em si."
 
-#. type: Content of: <table><tr><td><a>
+#. type: Content of: <div><table><tr><td><a>
 msgid "<a href=\"http://librecmc.org/\">"
 msgstr "<a href=\"http://librecmc.org/\">"
 
-#. type: Attribute 'alt' of: <table><tr><td><a><img>
+#. type: Attribute 'alt' of: <div><table><tr><td><a><img>
 msgid "libreCMC"
 msgstr "libreCMC"
 
-#. type: Content of: <table><tr><td>
+#. type: Content of: <div><table><tr><td>
 msgid ""
 "<em>libreCMC</em> is an embedded GNU/Linux distro for devices with very "
 "limited resources. While primarily targeting routers, it offers support for "
@@ -386,15 +370,15 @@ msgstr ""
 "ela oferece suporte a vários dispositivos e usos. Em 2015, LibreWRT se "
 "juntou ao libreCMC."
 
-#. type: Content of: <table><tr><td><a>
+#. type: Content of: <div><table><tr><td><a>
 msgid "<a href=\"http://proteanos.com/\">"
 msgstr "<a href=\"http://proteanos.com/\">"
 
-#. type: Attribute 'alt' of: <table><tr><td><a><img>
+#. type: Attribute 'alt' of: <div><table><tr><td><a><img>
 msgid "ProteanOS"
 msgstr "ProteanOS"
 
-#. type: Content of: <table><tr><td>
+#. type: Content of: <div><table><tr><td>
 msgid ""
 "<em>ProteanOS</em> is a new, small, and fast distribution for embedded "
 "devices. Its platform configuration feature allows binary packages to be "
@@ -405,11 +389,11 @@ msgstr ""
 "que pacotes binários sejam configurados em tempo de compilação e de execução "
 "para hardwares e casos de uso diferentes."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "How to get free GNU/Linux distros"
 msgstr "Como obter distros GNU/Linux livres"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In addition to their own sites, many of these distributions are available "
 "from <a href=\"http://mirror.fsf.org/\">mirror.fsf.org</a>.  Feel free to "
@@ -424,7 +408,7 @@ msgstr ""
 "o espelhamento de seus projetos contatando os <a href=\"mailto:sysadmin@fsf."
 "org\">administradores de sistemas da FSF</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<a href=\"/software/software.html\">Individual GNU packages</a> (most of "
 "which are included in the free distributions here)  are described separately."
@@ -433,7 +417,7 @@ msgstr ""
 "maioria dos quais estão inclusos nas distribuições livres) estão descritos "
 "separadamente."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We list <a href=\"https://www.fsf.org/resources/hw/endorsement/respects-your-"
 "freedom\"> companies that sell hardware preinstalled with a free GNU/Linux "
@@ -443,11 +427,11 @@ msgstr ""
 "endorsement/respects-your-freedom\"> as empresas que vendem hardware com uma "
 "distribuição de GNU/Linux livre pré-instalada</a>."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "See something we missed?"
 msgstr "Há algo que nós esquecemos?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Do you know about a distribution that you expected to find on our list, but "
 "didn't? First, check our page about <a href=\"/distros/common-distros.html"
@@ -469,7 +453,7 @@ msgstr ""
 "favor, fale aos mantenedores da distribuição sobre essa página e encoraje-os "
 "a nos contatar — nós gostaríamos de ouvi-los."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If you maintain a distribution that follows the <a href=\"/distros/free-"
 "system-distribution-guidelines.html\">Free System Distribution Guidelines</"
@@ -487,11 +471,11 @@ msgstr ""
 "fizer isso, vamos explicar mais sobre nosso processo de avaliação a você e o "
 "iniciaremos o mais rápido possível. Estamos ansioso para ouvir de você!"
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Historical"
 msgstr "Histórico"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The distributions that follow were previously listed above, but are no "
 "longer recommended."
@@ -499,11 +483,11 @@ msgstr ""
 "As distribuições a seguir foram previamente listadas acima, mas não são mais "
 "recomendadas."
 
-#. type: Content of: <table><thead><tr><th>
+#. type: Content of: <div><table><thead><tr><th>
 msgid "Retirement Info"
 msgstr "Circunstâncias de retirada"
 
-#. type: Content of: <table><tr><td><a>
+#. type: Content of: <div><table><tr><td><a>
 msgid ""
 "<a href=\"https://web.archive.org/web/20200620205430/http://www.blagblagblag."
 "org/\">"
@@ -511,16 +495,16 @@ msgstr ""
 "<a href=\"https://web.archive.org/web/20200620205430/http://www.blagblagblag."
 "org/\">"
 
-#. type: Attribute 'alt' of: <table><tr><td><a><img>
+#. type: Attribute 'alt' of: <div><table><tr><td><a><img>
 msgid "BLAG Linux and GNU"
 msgstr "BLAG Linux e GNU"
 
-#. type: Content of: <table><tr><td>
+#. type: Content of: <div><table><tr><td>
 msgid "<em>BLAG Linux and GNU</em>, a GNU/Linux distribution based on Fedora."
 msgstr ""
 "<em>BLAG Linux e GNU</em>, uma distribuição de GNU/Linux baseada no Fedora."
 
-#. type: Content of: <table><tr><td>
+#. type: Content of: <div><table><tr><td>
 msgid ""
 "<em>Removed June 2018</em> at the request of the maintainers, as they had "
 "stopped maintaining it."
@@ -528,15 +512,31 @@ msgstr ""
 "<em>Removida em junho de 2018</em> a pedido dos mantenedores, pois eles "
 "pararam de dar manutenção a ela."
 
-#. type: Content of: <table><tr><td><a>
+#. type: Attribute 'alt' of: <div><table><tr><td><img>
+msgid "gNewSense"
+msgstr "gNewSense"
+
+#. type: Content of: <div><table><tr><td>
+msgid ""
+"<em>gNewSense</em>, a GNU/Linux distribution based on Debian, with "
+"sponsorship from the FSF."
+msgstr ""
+"<em>gNewSense</em>, uma distribuição de GNU/Linux baseada no Debian, "
+"patrocinada pela FSF."
+
+#. type: Content of: <div><table><tr><td>
+msgid "<em>Removed April 2021</em>."
+msgstr "<em>Removida em abril de 2021</em>."
+
+#. type: Content of: <div><table><tr><td><a>
 msgid "<a href=\"https://musixdistro.wordpress.com/\">"
 msgstr "<a href=\"https://musixdistro.wordpress.com/\">"
 
-#. type: Attribute 'alt' of: <table><tr><td><a><img>
+#. type: Attribute 'alt' of: <div><table><tr><td><a><img>
 msgid "Musix GNU+Linux"
 msgstr "Musix GNU+Linux"
 
-#. type: Content of: <table><tr><td>
+#. type: Content of: <div><table><tr><td>
 msgid ""
 "<em>Musix</em>, a GNU+Linux distribution based on Knoppix, with special "
 "emphasis on audio production. This is a &ldquo;static&rdquo; distro, "
@@ -548,7 +548,7 @@ msgstr ""
 "“live CD”. Como ele não receberá atualizações de segurança, ele deve ser "
 "usado desconectado."
 
-#. type: Content of: <table><tr><td>
+#. type: Content of: <div><table><tr><td>
 msgid ""
 "<em>Removed March 2019</em> at the request of the maintainer, as they had "
 "stopped maintaining it."
@@ -582,7 +582,7 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
@@ -636,3 +636,6 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid "<a href=\"http://www.gnewsense.org/\">"
+#~ msgstr "<a href=\"http://www.gnewsense.org/\">"

@@ -1,20 +1,21 @@
 # Brazilian Portuguese translation of http://www.gnu.org/distros/optionally-free-not-enough.html
-# Copyright (C) 2016 Free Software Foundation, Inc.
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original articles.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2016.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2016-2021.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: optionally-free-not-enough.html\n"
-"POT-Creation-Date: 2014-04-04 23:58+0000\n"
-"PO-Revision-Date: 2016-12-17 17:50-0200\n"
+"POT-Creation-Date: 2021-04-29 10:57+0000\n"
+"PO-Revision-Date: 2021-05-03 06:40-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 1.0.0-beta1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <title>
 msgid "Optionally Free Is Not Enough - GNU Project - Free Software Foundation"
@@ -30,7 +31,7 @@ msgid ""
 "There are distros we decline to recommend that offer the user the option of "
 "installing only free software.  Given that option, a user who values freedom "
 "strongly enough, and thinks about the issue, can make those distros respect "
-"her freedom."
+"per freedom."
 msgstr ""
 "Há distros que nos recusamos a recomendar que oferecem ao usuário a opção de "
 "instalar apenas softwares livres. Considerando tal opção, um usuário que "
@@ -42,23 +43,26 @@ msgid ""
 "A distro that offers that option is clearly better than one that fails to "
 "offer that option.  But that option does not make the distro ok to recommend "
 "in general.  After all, most people in our community are not conscious of "
-"this issue.  We cannot expect most of them to reject nonfree software just "
-"because the distro offers a way to do so."
+"this issue.  We cannot expect most of them to choose to reject nonfree "
+"software just because the distro offers a way to do so.  And we don't want "
+"to lead people to install nonfree software.  We've chosen our practices to "
+"make that unlikely."
 msgstr ""
 "Uma distro que ofereça tal opção é claramente melhor que uma que falha em "
 "oferecê-la. Mas esta opção não serve para que a distro seja recomendada em "
 "geral. Afinal das contas, a maioria das pessoas em nossa comunidade não "
 "estão conscientes desta questão. Não podemos esperar que a maioria deles "
-"rejeitem softwares não livres simplesmente porque a distro oferece uma forma "
-"de fazê-lo."
+"escolham rejeitar softwares não livres simplesmente porque a distro oferece "
+"uma forma de fazê-lo. E não queremos liderar pessoas a instalar software não "
+"livre. Escolhemos nossas práticas para tornar isso improvável."
 
 #. type: Content of: <p>
 msgid ""
-"So if we are considering whether to recommend a distro, we need to consider "
-"who we would recommend it to.  For instance, it could be:"
+"Thus, our decision about recommending a distro depends on who we would "
+"recommend it to.  For instance, it could be:"
 msgstr ""
-"Então, se estamos considerando recomendar uma distro, precisamos levar em "
-"consideração a quem nós vamos recomendá-la. Por exemplo, poderia ser:"
+"Então, nossa decisão sobre recomendar uma distro depende de a quem nós a "
+"recomendaríamos. Por exemplo, poderia ser:"
 
 #. type: Content of: <ol><li>
 msgid ""
@@ -69,29 +73,56 @@ msgstr ""
 "que se esforçarão para evitar software não livre."
 
 #. type: Content of: <ol><li>
-msgid "A large group such as perhaps the general public."
-msgstr "Um grupo grande, tal como o público geral."
+msgid "A large and diverse group, such as, perhaps, the public in general."
+msgstr "Um grupo grande e diverso, tal como, talvez, o público geral."
 
 #. type: Content of: <p>
 msgid ""
-"For the first case, we could recommend the distro if the distro provides a "
-"clear and reliable way to reject nonfree software."
+"We could recommend the distro privately to people in that first group if the "
+"distro provides a clear and reliable way to reject nonfree software."
 msgstr ""
-"Para o primeiro caso, poderíamos recomendar a distro se ela fornecer uma "
-"forma clara e confiável de rejeitar software não livre."
+"Poderíamos recomendar a distro em particular para as pessoas daquele "
+"primeiro grupo se a distro fornecer uma maneira clara e confiável de "
+"rejeitar software não livre."
 
 #. type: Content of: <p>
 msgid ""
-"However, for recommending a distro to the general public, we need to insist "
-"on the criteria we actually use: an explicit commitment not to offer or "
-"suggest any nonfree programs.  That way, we know the distro won't lead the "
-"public to install any of those."
+"However, when it comes to recommending a distro to the general public, we "
+"should insist (and we do insist) on an explicit commitment not to offer or "
+"suggest any nonfree programs.  That way, we know our recommendation of that "
+"distro won't lead the public to install any of those."
 msgstr ""
-"Porém, para recomendar uma distro para o público geral, nós precisamos "
-"insistir nos critérios que nós efetivamente usamos: um comprometimento "
-"explícito em não oferecer ou sugerir qualquer programa não livre. Dessa "
-"forma, nós sabemos que a distro não levará o público a instalar qualquer um "
-"desses."
+"Porém, quando se trata de recomendar uma distro para o público geral, nós "
+"devemos insistir (e realmente insistimos) em um compromisso explícito de não "
+"oferecer ou sugerir qualquer programa não livre. Dessa forma, sabemos que "
+"nossa recomendação dessa distro não levará o público a instalar nenhum deles."
+
+#. type: Content of: <p>
+msgid ""
+"What distros should an install fest recommend or install for the public? On "
+"moral grounds, an install fest should not recommend or install nonfree "
+"programs.  However, people will bring computers that need nonfree drivers or "
+"firmware blobs in order to run at all&mdash;without those, they will go away "
+"disappointed and consider GNU/Linux a failure."
+msgstr ""
+"Quais distros um festival de instalação deve recomendar ou instalar para o "
+"público? Por motivos morais, um festival de instalação não deve recomendar "
+"ou instalar programas não livres. No entanto, as pessoas trarão computadores "
+"que precisam de drivers não-livres ou blobs de firmware para funcionar – sem "
+"eles, eles irão embora desapontados e considerarão o GNU/Linux um fracasso."
+
+#. type: Content of: <p>
+msgid ""
+"We thought of an idea for how to reconcile these two needs: the install fest "
+"installs a free distro, then <a href=\"/philosophy/install-fest-devil.html"
+"\">&ldquo;the devil&rdquo; (a person wearing a devil mask) offers to install "
+"the nonfree drivers or blobs that machine needs</a>."
+msgstr ""
+"Pensamos em uma ideia para conciliar essas duas necessidades: o festival de "
+"instalação instala uma distro livre e, em seguida, <a href=\"/philosophy/"
+"install-fest-devil.html\">“o diabo” (uma pessoa usando uma máscara do diabo) "
+"se oferece para instalar os drivers não livres ou blobs de que a máquina "
+"precisa</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -138,27 +169,30 @@ msgstr ""
 "envio de traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2014 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2014 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2014, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2014, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
-"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"<b>Traduzido por:</b> Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org"
-"\">&lt;rafaelff@gnome.org&gt;</a>, 2016"
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2016-2021."
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid "Copyright &copy; 2014 Free Software Foundation, Inc."
+#~ msgstr "Copyright &copy; 2014 Free Software Foundation, Inc."

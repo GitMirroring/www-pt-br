@@ -1,0 +1,772 @@
+# Brazilian Portuguese translation of https://www.gnu.org/software/free-software-for-education.html
+# Copyright (C) 2021 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Aluizio Neto <aluizioneto@riseup.net>, 2021. (proofread, #15870)
+# Rafael Fontenelle <rafaelff@gnome.org>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: free-software-for-education.html\n"
+"POT-Creation-Date: 2021-01-06 17:25+0000\n"
+"PO-Revision-Date: 2021-04-21 17:58-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 40.0\n"
+
+#. type: Content of: <title>
+msgid "Free Software for Education - GNU Project - Free Software Foundation"
+msgstr "Software livre para educação - Projeto GNU - Free Software Foundation"
+
+#. type: Content of: <h2>
+msgid "Free Software for Education"
+msgstr "Software livre para educação"
+
+#. type: Content of: <p>
+msgid ""
+"Here are two lists of high-quality free/libre software applications that can "
+"be used in schools and educational institutions of all levels. The first one "
+"is a list of free/libre programs along with the popular proprietary "
+"(nonfree) applications they replace. The second one contains free/libre "
+"programs that do not necessarily replace a proprietary counterpart but can "
+"be very useful to students and teachers."
+msgstr ""
+"Aqui estão duas listas de aplicativos de software livre de alta qualidade "
+"que podem ser usados em escolas e instituições educacionais de todos os "
+"níveis. A primeira é uma lista de programas livres junto com os aplicativos "
+"privativos populares (não livres) que eles substituem. A segunda contém "
+"programas livres que não substituem necessariamente um homólogo privativo, "
+"mas podem ser muito úteis para alunos e professores."
+
+#. type: Content of: <p>
+msgid ""
+"When we say these programs are free/libre, we mean they are released under a "
+"license that grants all users <a href=\"/philosophy/free-sw.html\">four "
+"essential freedoms</a>: the freedoms to run, study, copy, modify and "
+"redistribute the program so as to contribute to the community. It does not "
+"necessarly mean zero price, although almost all these programs are gratis. "
+"This is a secondary additional benefit that schools may take into "
+"consideration."
+msgstr ""
+"Quando dizemos que esses programas são livres, queremos dizer que eles são "
+"lançados sob uma licença que concede a todos os usuários <a href=\"/"
+"philosophy/free-sw.html\">quatro liberdades essenciais</a>: a liberdade para "
+"executar, estudar, copiar, modificar e redistribuir o programa de forma a "
+"contribuir com a comunidade. Isso não significa necessariamente preço zero, "
+"embora quase todos esses programas sejam gratuitos. Este é um benefício "
+"adicional secundário que as escolas podem levar em consideração."
+
+#. type: Content of: <p>
+msgid ""
+"Everyone should use free software, because only free software gives users "
+"the freedom that lets them control their own computers.  Proprietary "
+"programs put the users under the power of the software developers. However, "
+"there are <a href=\"/education/edu-schools.html\">specific ethical reasons</"
+"a> that apply to education."
+msgstr ""
+"Todos deveriam usar software livre, porque somente software livre dá aos "
+"usuários a liberdade que lhes permite controlar seus próprios computadores. "
+"Os programas privativos colocam os usuários sob o poder dos desenvolvedores "
+"de software. No entanto, existem <a href=\"/education/edu-schools.html"
+"\">razões éticas específicas</a> que se aplicam à educação."
+
+#. type: Content of: <p>
+msgid ""
+"In addition to the wrong of nonfree software, the use of third-party network "
+"services in schools poses yet another problem: <a href=\"https://www.eff.org/"
+"press/releases/google-deceptively-tracks-students-internet-browsing-eff-says-"
+"complaint-federal-trade\"> the collection of students' (and teachers') "
+"personal data by companies</a>. But even if the school never uses those "
+"services, one cannot be sure that the nonfree programs are not sending "
+"personal data <em>somewhere</em>. In fact, the source code of proprietary "
+"programs (with a few exceptions) is secret, so users can't know what the "
+"software is really doing."
+msgstr ""
+"Além do mal do software não livre, o uso de serviços de rede de terceiros em "
+"escolas apresenta outro problema: <a href=\"https://www.eff.org/press/"
+"releases/google-deceptively-tracks-students-internet-browsing-eff-says-"
+"complaint-federal-trade\"> a coleta de dados pessoais de alunos (e "
+"professores) pelas empresas</a>. Mas mesmo que a escola nunca use esses "
+"serviços, não se pode ter certeza de que os programas não livres não estão "
+"enviando dados pessoais <em>para algum lugar</em>. Na verdade, o código-"
+"fonte dos programas privativos (com poucas exceções) é secreto, então os "
+"usuários não podem saber o que o software está realmente fazendo."
+
+#. type: Content of: <table><thead><tr><th>
+msgid "Category"
+msgstr "Categoria"
+
+#. type: Content of: <table><thead><tr><th>
+msgid "Free/libre program"
+msgstr "Programa livre"
+
+#. type: Content of: <table><thead><tr><th>
+msgid "Features"
+msgstr "Recursos"
+
+#. type: Content of: <table><thead><tr><th>
+msgid "Replacement for"
+msgstr "Substituto para"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "Operating systems"
+msgstr "Sistemas operacionais"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "<a href=\"/distros/free-distros.html\">GNU/Linux Distributions</a>"
+msgstr "<a href=\"/distros/free-distros.html\">Distribuições GNU/Linux</a>"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "Composed exclusively of software that respects your freedom."
+msgstr "Compostas exclusivamente de software que respeita sua liberdade."
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "ChromeOS (Google)"
+msgstr "ChromeOS (Google)"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "ChromiumOS (Google)"
+msgstr "ChromiumOS (Google)"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "Microsoft Windows (any version)"
+msgstr "Microsoft Windows (qualquer versão)"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "MacOS, iOS (Apple)"
+msgstr "MacOS, iOS (Apple)"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "Web browsers"
+msgstr "Navegadores web"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "<a href=\"https://directory.fsf.org/wiki/Epiphany\">Epiphany</a>"
+msgstr "<a href=\"https://directory.fsf.org/wiki/Epiphany\">Epiphany</a>"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "<a href=\"https://directory.fsf.org/wiki/IceCat\">GNU IceCat</a>"
+msgstr "<a href=\"https://directory.fsf.org/wiki/IceCat\">GNU IceCat</a>"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "These browsers do not track users."
+msgstr "Estes navegadores não rastreiam usuários."
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "Chrome, Chromium (Google)"
+msgstr "Chrome, Chromium (Google)"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "Internet Explorer, Edge (Microsoft)"
+msgstr "Internet Explorer, Edge (Microsoft)"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "Safari (Apple)"
+msgstr "Safari (Apple)"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "Office"
+msgstr "Escritório"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "<a href=\"https://directory.fsf.org/wiki/LibreOffice\">LibreOffice</a>"
+msgstr "<a href=\"https://directory.fsf.org/wiki/LibreOffice\">LibreOffice</a>"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid ""
+"Complete office suite. No need to upload documents to third-party servers."
+msgstr ""
+"Suíte de escritório completa. Não há necessidade de enviar documentos para "
+"servidores de terceiros."
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "Microsoft Office, Office&nbsp;365"
+msgstr "Microsoft Office, Office&nbsp;365"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid ""
+"<a href=\"https://directory.fsf.org/wiki/Etherpad\">Etherpad</a>, <a href="
+"\"https://directory.fsf.org/wiki/EtherCalc\">EtherCalc</a>"
+msgstr ""
+"<a href=\"https://directory.fsf.org/wiki/Etherpad\">Etherpad</a>, <a href="
+"\"https://directory.fsf.org/wiki/EtherCalc\">EtherCalc</a>"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid ""
+"Real-time collaborative text editor and spreadsheet that run in your browser."
+msgstr ""
+"Editor de texto e planilha colaborativos em tempo real que são executados em "
+"seu navegador."
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "Google Docs, Sheets"
+msgstr "Google Docs, Planilhas"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "E-learning platforms"
+msgstr "Plataformas aprendizagem eletrônica"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "<a href=\"https://directory.fsf.org/wiki/Moodle\">Moodle</a>"
+msgstr "<a href=\"https://directory.fsf.org/wiki/Moodle\">Moodle</a>"
+
+#. type: Content of: <table><tbody><tr><td><ul><li>
+msgid "Self-hosting (can be installed on private servers)"
+msgstr "Auto-hospedagem (pode ser instalado em servidores privados)"
+
+#. type: Content of: <table><tbody><tr><td><ul><li>
+msgid "Desktop (GNU/Linux, Windows, MacOS)"
+msgstr "Desktop (GNU/Linux, Windows, MacOS)"
+
+#. type: Content of: <table><tbody><tr><td><ul><li>
+msgid "Mobile App (Android, iOS)"
+msgstr "Aplicativo móvel (Android, iOS)"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid ""
+"Manage classrooms and courses, give lessons and assignments, create groups, "
+"take tests, synchronize data and collaborate in forums, chats and wikis."
+msgstr ""
+"Gerencie salas de aula e cursos, dê aulas e exercícios, crie grupos, faça "
+"testes, sincronize dados e colabore em fóruns, chats e wikis."
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "Google Classroom, Blackboard"
+msgstr "Google Classroom, Blackboard"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "File synchronization"
+msgstr "Sincronização de arquivos"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "<a href=\"https://directory.fsf.org/wiki/Owncloud\">ownCloud</a>"
+msgstr "<a href=\"https://directory.fsf.org/wiki/Owncloud\">ownCloud</a>"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid ""
+"Allows collaborative document editing and bookmark synchronization as well."
+msgstr ""
+"Permite edição colaborativa de documentos e também sincronização de "
+"favoritos."
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "Drive, Calendar, Contacts (Google)"
+msgstr "Drive, Agenda, Contatos (Google)"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "OneDrive, Outlook (Microsoft)"
+msgstr "OneDrive, Outlook (Microsoft)"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "Media sharing"
+msgstr "Compartilhamento de mídia"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid ""
+"<a href=\"https://directory.fsf.org/wiki/Mediagoblin\">GNU MediaGoblin</a>"
+msgstr ""
+"<a href=\"https://directory.fsf.org/wiki/Mediagoblin\">GNU MediaGoblin</a>"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "Share all kinds of media in safety."
+msgstr "Compartilhe todos os tipos de mídia com segurança."
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "YouTube, Google Photos, Picasa (Google)"
+msgstr "YouTube, Google Fotos, Picasa (Google)"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "Email"
+msgstr "E-mail"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "<a href=\"https://docs.kolab.org/\">Kolab</a>"
+msgstr "<a href=\"https://docs.kolab.org/\">Kolab</a>"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid ""
+"Complete groupware solution which includes email, calendar, address books, "
+"file synching and tasks. Clients are based on Roundcube (web interface) by "
+"default but any other email client can be used. This way, only the school "
+"can read the students' mail, and nobody else."
+msgstr ""
+"Solução completa de groupware que inclui e-mail, calendário, listas de "
+"endereços, sincronização de arquivos e tarefas. Os clientes são baseados no "
+"Roundcube (interface web) por padrão, mas qualquer outro cliente de e-mail "
+"pode ser usado. Dessa forma, apenas a escola pode ler e-mails enviados pelos "
+"alunos e mais ninguém."
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "Gmail, Google Calendar, Contacts, Google Drive (Google)"
+msgstr "Gmail, Google Agenda, Contatos, Google Drive (Google)"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "Outlook, Live (Microsoft)"
+msgstr "Outlook, Live (Microsoft)"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "Conferencing (video, audio, chat, text)"
+msgstr "Conferência (vídeo, áudio, bate-papo, texto)"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "<a href=\"https://jami.net/\">GNU Jami</a>"
+msgstr "<a href=\"https://jami.net/\">GNU Jami</a>"
+
+#. type: Content of: <table><tbody><tr><td><ul><li>
+msgid "P2P (no centralized server)"
+msgstr "P2P (sem servidor centralizado)"
+
+#. type: Content of: <table><tbody><tr><td><ul><li>
+msgid ""
+"Encryption, anonymity, no facial recognition, no data collection and storing."
+msgstr ""
+"Criptografia, anonimidade, sem reconhecimento facial, sem coleta e "
+"armazenamento de dados."
+
+#. type: Content of: <table><tbody><tr><td>
+msgid ""
+"Host small conferences, share and record your screen. Make audio/video calls "
+"and place your calls on hold. Send messages or chat in real time. Easily "
+"search your call history and manage your contacts. Thanks to the multi-"
+"language feature, you can do all this in your own language."
+msgstr ""
+"Organize pequenas conferências, compartilhe e grave sua tela. Faça chamadas "
+"de áudio/vídeo e coloque suas chamadas em espera. Envie mensagens ou "
+"converse em tempo real. Pesquise facilmente seu histórico de chamadas e "
+"gerencie seus contatos. Graças ao recurso multilíngue, você pode fazer tudo "
+"isso no seu próprio idioma."
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "Google Hangouts"
+msgstr "Google Hangouts"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "Skype (Microsoft)"
+msgstr "Skype (Microsoft)"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "Microsoft Teams"
+msgstr "Microsoft Teams"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "Zoom"
+msgstr "Zoom"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "<a href=\"https://directory.fsf.org/wiki/Jitsi\">Jitsi</a>"
+msgstr "<a href=\"https://directory.fsf.org/wiki/Jitsi\">Jitsi</a>"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "<a href=\"https://directory.fsf.org/wiki/Jitsi-Meet\">Jitsi Meet</a>"
+msgstr "<a href=\"https://directory.fsf.org/wiki/Jitsi-Meet\">Jitsi Meet</a>"
+
+#. type: Content of: <table><tbody><tr><td><ul><li>
+msgid "Browser-based (WebRTC)"
+msgstr "Para navegador web (WebRTC)"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid ""
+"Host small conferences or teach your classes with the useful raise/lower "
+"your hand feature, stream them or embed them in web pages. Share your screen "
+"and record videos, share and breakout rooms. Dial-in to a meeting. Chat in "
+"real time. Share documents.  Thanks to the multi-language feature, you can "
+"do all this in your own language."
+msgstr ""
+"Organize pequenas conferências ou dê aulas com o útil recurso de levantar/"
+"abaixar a mão, transmita-as ou incorpore-as em páginas da web. Compartilhe "
+"sua tela e grave vídeos, compartilhe e salas de descanso. Faça uma ligação "
+"para uma reunião. Converse em tempo real. Compartilhe documentos. Graças ao "
+"recurso multilíngue, você pode fazer tudo isso no seu próprio idioma."
+
+#. type: Content of: <table><tbody><tr><td>
+msgid ""
+"<a href=\"https://directory.fsf.org/wiki/BigBlueButton\"> BigBlueButton</a>"
+msgstr ""
+"<a href=\"https://directory.fsf.org/wiki/BigBlueButton\"> BigBlueButton</a>"
+
+#. type: Content of: <table><tbody><tr><td><ul><li>
+msgid "<strong>Video conferencing up to 150 users</strong>"
+msgstr "<strong>Videoconferência para até 150 usuários</strong>"
+
+#. type: Content of: <table><tbody><tr><td><ul><li>
+msgid "LMS integration"
+msgstr "Integração com LMS"
+
+#. type: Content of: <table><tbody><tr><td><ul><li>
+msgid "Visual and audio accessibility (supports screen readers)"
+msgstr "Acessibilidade visual e de áudio (suporta leitores de tela)"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid ""
+"Host your conferences or teach your classes with up to 150 participants. Use "
+"the helpful mouse pointer and the multi-user whiteboard. Share and breakout "
+"rooms, share screens, record and store videos while enjoying the live closed "
+"captions. Share your PDFs as slides. Use the polling and voting systems for "
+"your surveys. Thanks to the multi-language feature, you can do all this in "
+"your own language."
+msgstr ""
+"Organize suas conferências ou dê suas aulas com até 150 participantes. Use o "
+"útil cursor do mouse e o quadro branco multiusuário. Compartilhe e faça "
+"sessões de grupo, compartilhe telas, grave e armazene vídeos enquanto "
+"desfruta das legendas ocultas ao vivo. Compartilhe seus PDFs como slides. "
+"Use os sistemas de pesquisa e votação para suas pesquisas. Graças ao recurso "
+"multilíngue, você pode fazer tudo isso no seu próprio idioma."
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "Games"
+msgstr "Jogos"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "<a href=\"https://directory.fsf.org/wiki/Minetest\">Minetest</a>"
+msgstr "<a href=\"https://directory.fsf.org/wiki/Minetest\">Minetest</a>"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid ""
+"Build, explore and play in vast cube worlds, alone or with friends. Create "
+"mods which aren't limited by proprietary restrictions."
+msgstr ""
+"Construa, explore e jogue em vastos mundos cúbicos, sozinho ou com amigos. "
+"Crie mods que não sejam limitados por restrições privativas."
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "Minecraft (Microsoft)"
+msgstr "Minecraft (Microsoft)"
+
+#. type: Content of: <p>
+msgid "Here's some additional free software useful for educational purposes:"
+msgstr ""
+"Aqui estão alguns softwares livres adicionais úteis para fins educacionais:"
+
+#. type: Content of: <table><thead><tr><th>
+msgid "Description"
+msgstr "Descrição"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "Art, graphics and design"
+msgstr "Arte, gráficos e design"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "<a href=\"https://directory.fsf.org/wiki/Blender\">Blender</a>"
+msgstr "<a href=\"https://directory.fsf.org/wiki/Blender\">Blender</a>"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid ""
+"3D suite which includes a video editor and a game engine that can be used "
+"without programming (via logic blocks.)"
+msgstr ""
+"Suíte 3D que inclui um editor de vídeo e um mecanismo de jogo que pode ser "
+"usado sem programação (por meio de blocos lógicos)."
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "<a href=\"https://directory.fsf.org/wiki/FreeCAD\">FreeCAD</a>"
+msgstr "<a href=\"https://directory.fsf.org/wiki/FreeCAD\">FreeCAD</a>"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "High-quality parametric 3D CAD modeler."
+msgstr "Modelador CAD 3D paramétrico de alta qualidade."
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "<a href=\"https://directory.fsf.org/wiki/GIMP\">GIMP</a>"
+msgstr "<a href=\"https://directory.fsf.org/wiki/GIMP\">GIMP</a>"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid ""
+"Graphics editor suitable for image retouching, editing and drawing (<a href="
+"\"/education/edu-software-gimp.html\">case study</a>.)"
+msgstr ""
+"Editor gráfico adequado para retoque, edição e desenho de imagens (<a href="
+"\"/education/edu-software-gimp.html\">estudo de caso</a>)."
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "<a href=\"https://directory.fsf.org/wiki/Krita\">Krita</a>"
+msgstr "<a href=\"https://directory.fsf.org/wiki/Krita\">Krita</a>"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid ""
+"Fully featured, easy to use digital painting program, suitable for students "
+"and professionals alike."
+msgstr ""
+"Programa de pintura digital completo e fácil de usar, adequado para "
+"estudantes e profissionais."
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "<a href=\"https://directory.fsf.org/wiki/TuxPaint\">Tux Paint</a>"
+msgstr "<a href=\"https://directory.fsf.org/wiki/TuxPaint\">Tux Paint</a>"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid ""
+"Graphics editor aimed at young children (<a href=\"/education/edu-software-"
+"tuxpaint.html\">case study</a>.)"
+msgstr ""
+"Editor gráfico voltado para crianças pequenas (<a href=\"/education/edu-"
+"software-tuxpaint.html\">estudo de caso</a>)."
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "Games and educational activities"
+msgstr "Jogos e atividades educacionais"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "<a href=\"https://directory.fsf.org/wiki/Gcompris\">GCompris</a>"
+msgstr "<a href=\"https://directory.fsf.org/wiki/Gcompris\">GCompris</a>"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid ""
+"Educational software suite comprising of numerous activities for children "
+"aged 2 to 10 (<a href=\"/education/edu-software-gcompris.html\">case study</"
+"a>.)"
+msgstr ""
+"Pacote de software educacional composto por várias atividades para crianças "
+"de 2 a 10 anos (<a href=\"/education/edu-software-gcompris.html\">estudo de "
+"caso</a>.)"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "Maths"
+msgstr "Matemática"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "<a href=\"https://directory.fsf.org/wiki/Octave\">GNU Octave</a>"
+msgstr "<a href=\"https://directory.fsf.org/wiki/Octave\">GNU Octave</a>"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid ""
+"High-level interpreted language similar to proprietary MATLAB, primarily "
+"intended for numerical computations."
+msgstr ""
+"Linguagem interpretada de alto nível semelhante ao MATLAB privativo, "
+"destinada principalmente a cálculos numéricos."
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "Physics"
+msgstr "Física"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "<a href=\"https://directory.fsf.org/wiki/Fisicalab\">FisicaLab</a>"
+msgstr "<a href=\"https://directory.fsf.org/wiki/Fisicalab\">FisicaLab</a>"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid ""
+"Solve physics problems creatively. Focus in physics concepts while the "
+"program takes care of the mathematical details."
+msgstr ""
+"Resolva problemas de física de forma criativa. Concentre-se nos conceitos de "
+"física enquanto o programa cuida dos detalhes matemáticos."
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "Music"
+msgstr "Música"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "<a href=\"https://directory.fsf.org/wiki/Solfege\">GNU Solfege</a>"
+msgstr "<a href=\"https://directory.fsf.org/wiki/Solfege\">GNU Solfege</a>"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "Ear and music training program."
+msgstr "Programa de treinamento auditivo e musical."
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "<a href=\"https://directory.fsf.org/wiki/LMMS\">LMMS</a>"
+msgstr "<a href=\"https://directory.fsf.org/wiki/LMMS\">LMMS</a>"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid ""
+"Professional-grade (but easy to use) music creation software and digital "
+"audio workstation."
+msgstr ""
+"Software de criação musical de nível profissional (mas fácil de usar) e "
+"estação de trabalho de áudio digital."
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "<a href=\"https://directory.fsf.org/wiki/MuseScore\">MuseScore</a>"
+msgstr "<a href=\"https://directory.fsf.org/wiki/MuseScore\">MuseScore</a>"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "Fully featured scorewriter, with support for MIDI playback."
+msgstr "Editor de partitura completo, com suporte para reprodução de MIDI."
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "Programming"
+msgstr "Programação"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "<a href=\"https://directory.fsf.org/wiki/GDevelop\">GDevelop</a>"
+msgstr "<a href=\"https://directory.fsf.org/wiki/GDevelop\">GDevelop</a>"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid ""
+"Codeless game development tool based on drag and drop. Ideal to teach "
+"students programming concepts while having fun."
+msgstr ""
+"Ferramenta de desenvolvimento de jogos sem código baseada em arrastar e "
+"soltar. Ideal para ensinar aos alunos conceitos de programação enquanto se "
+"divertem."
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "<a href=\"https://directory.fsf.org/wiki/Racket\">Racket</a>"
+msgstr "<a href=\"https://directory.fsf.org/wiki/Racket\">Racket</a>"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid ""
+"Programming language and environment suitable for both students and Lisp/"
+"Scheme wizards.  Despite it being a fully-featured functional programming "
+"language, it was designed to be educational."
+msgstr ""
+"Linguagem de programação e ambiente adequados para alunos e feiticeiros de "
+"Lisp/Scheme. Apesar de ser uma linguagem de programação funcional com "
+"recursos completos, foi projetada para ser educacional."
+
+#. type: Content of: <table><tbody><tr><td>
+msgid "<a href=\"https://directory.fsf.org/wiki/Ruby\">Ruby</a>"
+msgstr "<a href=\"https://directory.fsf.org/wiki/Ruby\">Ruby</a>"
+
+#. type: Content of: <table><tbody><tr><td>
+msgid ""
+"Well-known programming language described by its users as &ldquo;beautiful, "
+"artful, handy, and practical.&rdquo;"
+msgstr ""
+"Linguagem de programação conhecida descrita por seus usuários como “bela, "
+"artística, útil e prática”."
+
+#. type: Content of: <p>
+msgid ""
+"The lists above are a selection of free software applications suitable for "
+"the most common educational activities. The Free Software Foundation keeps a "
+"comprehensive database of educational software at the <a href=\"https://"
+"directory.fsf.org/wiki/Category/Education\"> Free Software Directory</a>. If "
+"you know about a free/libre program suited for schools and not listed here, "
+"please contact us at <a href=\"mailto:education@gnu.org\">&lt;education@gnu."
+"org&gt;</a> to let us know."
+msgstr ""
+"As listas acima são uma seleção de aplicativos de software livre adequados "
+"para as atividades educacionais mais comuns. A Free Software Foundation "
+"mantém um banco de dados abrangente de software educacional no <a href="
+"\"https://directory.fsf.org/wiki/Category/Education\"> Diretório de Software "
+"Livre</a>. Se você souber de um programa livre adequado para escolas e que "
+"não estiver listado lá, entre em contato conosco em <a href=\"mailto:"
+"education@gnu.org\">&lt;education@gnu.org&gt;</a> para nos informar."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas deste site."
+
+#. type: Content of: <div><p>
+msgid ""
+"Copyright &copy; 2016, 2017, 2018, 2020, 2021 Free Software Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2016, 2017, 2018, 2020, 2021 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"Permission is granted to copy, distribute and/or modify this document under "
+"the terms of the GNU Free Documentation License, Version 1.2 or any later "
+"version published by the Free Software Foundation; with no Invariant "
+"Sections, no Front-Cover Texts, and no Back-Cover Texts."
+msgstr ""
+"Permissão concedida para copiar, distribuir e/ou modificar este documento "
+"sob os termos da Licença de Documentação Livre GNU, Versão 1.2 ou qualquer "
+"versão posterior publicada pela Free Software Foundation; sem Seções "
+"Invariantes, sem Textos de Capa Frontal e sem Textos de Contracapa."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2021.<br/>\n"
+"Revisado por: Aluizio Neto <a href=\"mailto:aluizioneto@riseup.net\">&lt;"
+"aluizioneto@riseup.net&gt;</a>, 2021."
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização:"
+
+#~ msgid "Self-hosting (can be installed on private servers.)"
+#~ msgstr "Auto-hospedagem (pode ser instalado em servidores privados)"
+
+#~ msgid ""
+#~ "Audio/Video Calls. Conferences. Messaging. Screen sharing.  Recording. "
+#~ "Real time chat. Call hold. Contacts management.  Searchable call history. "
+#~ "Multi-language."
+#~ msgstr ""
+#~ "Chamadas de áudio/vídeo. Conferências. Mensagens. Compartilhamento de "
+#~ "tela. Gravação. Bate-papo em tempo real. Chamada em espera. Gerenciamento "
+#~ "de contatos. Histórico de chamadas pesquisável. Multi-idiomas."
+
+#~ msgid ""
+#~ "Video conferencing. Share video. Share screen. Streaming.  Recording. "
+#~ "Embed conferences on web pages. Raise/Lower your hand."
+#~ msgstr ""
+#~ "Vídeo conferência. Compartilhar video. Compartilhar tela. Transmissão. "
+#~ "Gravação. Incorporar conferências em páginas da web. Levantar/abaixar sua "
+#~ "mão."
+
+#~ msgid ""
+#~ "Conference room sharing and locking. Real time chat.  Document sharing. "
+#~ "Telephone dial-in to a conference.  Multi-language."
+#~ msgstr ""
+#~ "Compartilhamento e bloqueio da sala de conferências. Bate-papo em tempo "
+#~ "real. Compartilhamento de documentos. Discagem por telefone para uma "
+#~ "conferência. Multi-idiomas."
+
+#~ msgid ""
+#~ "Multi-user whiteboard. Mouse pointer. Conference room sharing and room "
+#~ "breakout. Screen sharing. Video recording and storing."
+#~ msgstr ""
+#~ "Quadro branco multiusuário. Ponteiro do mouse. Compartilhamento de sala e "
+#~ "salas simultâneas de conferências. Compartilhamento de tela. Gravação e "
+#~ "armazenamento de vídeo."
+
+#~ msgid ""
+#~ "Share PDF as slides. Polling and voting systems. Live closed captioning. "
+#~ "Multi-language."
+#~ msgstr ""
+#~ "Compartilhe PDF como slides. Sistemas de enquete e votação. Legendas ao "
+#~ "vivo. Multi-idiomas."

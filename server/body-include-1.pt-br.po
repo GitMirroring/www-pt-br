@@ -11,7 +11,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: body-include-1.html\n"
-"POT-Creation-Date: 2021-01-20 10:25+0000\n"
+"POT-Creation-Date: 2021-04-27 20:55+0000\n"
 "PO-Revision-Date: 2021-01-05 16:04-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -26,14 +26,6 @@ msgstr ""
 msgid "<a class=\"skip\" href=\"#content\"><b>Skip to main text</b></a>"
 msgstr ""
 "<a class=\"skip\" href=\"#content\"><b>Pular para o texto principal</b></a>"
-
-#. type: Content of: <div><div>
-msgid ""
-"<a href=\"https://www.fsf.org/associate/support_freedom?"
-"referrer=4052\">JOIN&nbsp;THE&nbsp;FSF</a>"
-msgstr ""
-"<a href=\"https://www.fsf.org/associate/support_freedom?"
-"referrer=4052\">JUNTE-SE&nbsp;À&nbsp;FSF!</a>"
 
 #. type: Content of: <div><form><div>
 msgid ""
@@ -60,6 +52,14 @@ msgstr ""
 "<input type=\"text\" id=\"frmEmail\" name=\"email-Primary\" size=\"18\" "
 "maxlength=\"80\" value=\"Endereço de e-mail\" onfocus=\"this.value=''\"/> "
 "<input type=\"submit\" name=\"_qf_Edit_next\" value=\"Inscreva-se\" />"
+
+#. type: Content of: <div><div>
+msgid ""
+"<a href=\"https://www.fsf.org/associate/support_freedom?"
+"referrer=4052\">JOIN&nbsp;THE&nbsp;FSF</a>"
+msgstr ""
+"<a href=\"https://www.fsf.org/associate/support_freedom?"
+"referrer=4052\">JUNTE-SE&nbsp;À&nbsp;FSF!</a>"
 
 #. type: Content of: <div><p><a>
 msgid "<a href=\"/\">"
