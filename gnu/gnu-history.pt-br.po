@@ -1,24 +1,24 @@
 # Brazilian Portuguese translation of http://www.gnu.org/gnu/gnu-history.html
-# Copyright (C) 2012 Free Software Foundation, Inc.
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnu.org article.
 # Fernando Lozano <fernando@lozano.eti.br>, 1990.
 # Rafael Beraldo <rberaldo@cabaladada.org>, 2012.
 # Arthur Rodrigues Araruna <araruna@gmail.com>, 2012.
 # May 2014: trivial update (T. Godefroy).
-# Rafael Fontenelle <rafaelff@gnome.org>, 2017.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017-2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: gnu-history.html\n"
 "POT-Creation-Date: 2017-09-04 10:56+0000\n"
-"PO-Revision-Date: 2017-09-29 08:24-0300\n"
+"PO-Revision-Date: 2021-05-03 10:15-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bits\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 1.0.0-beta1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <title>
 msgid "Overview of the GNU System - GNU Project - Free Software Foundation"
@@ -104,7 +104,7 @@ msgstr ""
 "Projeto GNU foi concebido em 1983 como uma maneira de trazer de volta o "
 "espírito cooperativo que prevalecia na comunidade de computação nos seus "
 "primórdios — para tornar a cooperação possível novamente ao remover os "
-"obstáculos à cooperação impostos pelos donos de software proprietário."
+"obstáculos à cooperação impostos pelos donos de software privativo."
 
 #. type: Content of: <p>
 msgid ""
@@ -127,8 +127,8 @@ msgid ""
 "necessary."
 msgstr ""
 "Já na década de 1980, quase todo o software era <a href=\"/philosophy/"
-"categories.html#ProprietarySoftware\">proprietário</a>, o que significa que "
-"ele possuía donos que proibiam e evitavam a cooperação dos usuários.  Isso "
+"categories.html#ProprietarySoftware\">privativo</a>, o que significa que ele "
+"possuía donos que proibiam e evitavam a cooperação dos usuários.  Isso "
 "tornou o Projeto GNU necessário."
 
 #. type: Content of: <p>
@@ -140,8 +140,8 @@ msgid ""
 msgstr ""
 "Todo usuário de computador precisa de um sistema operacional; se não há "
 "nenhum sistema operacional livre, você não pode nem começar a usar um "
-"computador sem recorrer a software proprietário. Dessa forma, o primeiro "
-"item na agenda do software livre tinha de ser um sistema operacional livre."
+"computador sem recorrer a software privativo. Dessa forma, o primeiro item "
+"na agenda do software livre tinha de ser um sistema operacional livre."
 
 #. type: Content of: <p>
 msgid ""
@@ -240,7 +240,7 @@ msgstr ""
 "href=\"/philosophy/fighting-software-patents.html\">leis, tais como o "
 "sistema de patentes, impedem o software livre</a>.  O objetivo derradeiro é "
 "prover software livre para fazer tudo aquilo que os usuários de computadores "
-"desejam fazer — e assim tornar o software proprietário algo do passado."
+"desejam fazer — e assim tornar o software privativo algo do passado."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>

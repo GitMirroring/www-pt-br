@@ -1,25 +1,25 @@
 # Brazilian Portuguese translation of https://www.gnu.org/education/edu-faq.html
-# Copyright (C) 2017 Free Software Foundation, Inc.
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnu.org article.
 # Rafael Beraldo <rberaldo@cabaladada.org>, 2012.
 # Aslan Carlos <aslancarlos@gmail.com>, 2012.
 # Dec 2014: trivial update of a few strings (T. Godefroy).
-# Rafael Fontenelle <rafaelff@gnome.org>, 2016, 2017.
 # Cassiano dos Santos <caco@member.fsf.org> (proofread), 2016.
 # May 2020: update to new layout (T. Godefroy).
+# Rafael Fontenelle <rafaelff@gnome.org>, 2016-2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: edu-faq.html\n"
-"POT-Creation-Date: 2020-05-27 10:41+0200\n"
-"PO-Revision-Date: 2017-04-07 10:20-0300\n"
+"POT-Creation-Date: 2021-05-26 21:26+0000\n"
+"PO-Revision-Date: 2021-05-03 10:15-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 1.0.0-beta1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -100,10 +100,10 @@ msgid ""
 msgstr ""
 "“Código aberto” se refere apenas às vantagens técnicas do software. Escolas "
 "podem não estar interessadas nesse aspecto uma vez que, muito provavelmente, "
-"os requerimentos técnicos já estão satisfeitos pelo software proprietário "
-"que usam. Você deve conversar com eles em termos de Software Livre, não "
-"“código aberto”, de modo que possa explicar as razões éticas e filosóficas "
-"pelas quais instituições educacionais devem rejeitar o software proprietário."
+"os requerimentos técnicos já estão satisfeitos pelo software privativo que "
+"usam. Você deve conversar com eles em termos de Software Livre, não “código "
+"aberto”, de modo que possa explicar as razões éticas e filosóficas pelas "
+"quais instituições educacionais devem rejeitar o software privativo."
 
 #. type: Content of: <div><div><dl><dd><p>
 msgid ""
@@ -120,7 +120,7 @@ msgid ""
 "schools. The situation is discouraging."
 msgstr ""
 "Eu adoraria que todas as escolas migrassem para o Software Livre, mas acho "
-"que não há esperança. O software proprietário tem muito poder, mesmo sobre "
+"que não há esperança. O software privativo tem muito poder, mesmo sobre "
 "escolas. A situação é desencorajante."
 
 #. type: Content of: <div><div><dl><dd><p>
@@ -157,7 +157,7 @@ msgstr ""
 "Sou coordenador do instituto técnico e gostaria de ensinar nossos estudantes "
 "a usar e administrar uma plataforma livre, mas eu tenho de obedecer um "
 "currículo estabelecido pelo Ministério da Educação, que requer que se ensine "
-"plataformas e programas proprietários."
+"plataformas e programas privativos."
 
 #. type: Content of: <div><div><dl><dd><p>
 msgid ""
@@ -251,8 +251,8 @@ msgstr ""
 "contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2011, 2016, 2020 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2011, 2016, 2020 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2011, 2016, 2020, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2011, 2016, 2020, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -272,10 +272,13 @@ msgstr ""
 "<a href=\"mailto:rberaldo@cabaladada.org\">&lt;rberaldo@cabaladada.org&gt;</"
 "a>, 2012 <br/>\n"
 "Rafael Fontenelle\n"
-"<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, 2016, "
-"2017"
+"<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, "
+"2016-2021"
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid "Copyright &copy; 2011, 2016, 2020 Free Software Foundation, Inc."
+#~ msgstr "Copyright &copy; 2011, 2016, 2020 Free Software Foundation, Inc."

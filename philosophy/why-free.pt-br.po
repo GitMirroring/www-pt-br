@@ -1,17 +1,17 @@
 # Brazilian Portuguese translation of http://www.gnu.org/philosophy/why-free.html
-# Copyright (C) 2020 Free Software Foundation, Inc.
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnu.org article.
 # Aslan Carlos <aslancarlos@gmail.com>, 2012.
 # Rafael Beraldo <rberaldo@cabaladada.org>, 2012.
 # May 2014: trivial update (T. Godefroy).
 # André N Batista <nandre@riseup.net>, 2018.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2020.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2020-2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: why-free.html\n"
 "POT-Creation-Date: 2020-07-01 15:26+0000\n"
-"PO-Revision-Date: 2020-07-25 08:41-0300\n"
+"PO-Revision-Date: 2021-05-03 10:15-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1)\n"
-"X-Generator: Gtranslator 3.36.0\n"
+"X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -65,9 +65,9 @@ msgid ""
 "only ones who can copy and modify the software that we use."
 msgstr ""
 "Nem todo mundo quer que isso seja mais fácil. O sistema de direitos autorais "
-"atribui “proprietários” ao software, a maioria dos quais visam a reter os "
-"benefícios potenciais do software do resto do público. Eles gostariam de ser "
-"os únicos que podem copiar e modificar o software que usamos."
+"atribui “donos” ao software, a maioria dos quais visam a reter os benefícios "
+"potenciais do software do resto do público. Eles gostariam de ser os únicos "
+"que podem copiar e modificar o software que usamos."
 
 #. type: Content of: <p>
 msgid ""
@@ -163,8 +163,8 @@ msgid ""
 "Owners make several kinds of arguments for giving them the power to control "
 "how we use information:"
 msgstr ""
-"Proprietários têm vários argumentos para justificar o poder de controlar o "
-"modo como usamos a informação:"
+"Donos têm vários argumentos para justificar o poder de controlar o modo como "
+"usamos a informação:"
 
 #. type: Content of: <ul><li>
 msgid "Name calling."
@@ -177,10 +177,10 @@ msgid ""
 "and &ldquo;damage&rdquo;, to suggest a certain line of thinking to the "
 "public&mdash;a simplistic analogy between programs and physical objects."
 msgstr ""
-"Os proprietários usam palavras caluniosas como “pirataria” e “roubo”, bem "
-"como terminologias de expert tais como “propriedade intelectual”  e “dano”, "
-"para sugerir uma certa linha de raciocínio para o público &mdash; uma "
-"analogia simplista entre programas e objetos físicos."
+"Os donos usam palavras caluniosas como “pirataria” e “roubo”, bem como "
+"terminologias de expert tais como “propriedade intelectual”  e “dano”, para "
+"sugerir uma certa linha de raciocínio para o público &mdash; uma analogia "
+"simplista entre programas e objetos físicos."
 
 #. type: Content of: <ul><li><p>
 msgid ""
@@ -207,9 +207,9 @@ msgid ""
 "owner."
 msgstr ""
 "Os donos dizem que sofrem “danos” ou “perdas econômicas” quando os usuários "
-"copiam programas. Mas a cópia não tem efeito direto sobre o proprietário, e "
-"não prejudica a ninguém. O proprietário pode perder apenas se a pessoa que "
-"fez a cópia teria, em outras circunstâncias, pago por uma do proprietário."
+"copiam programas. Mas a cópia não tem efeito direto sobre o dono, e não "
+"prejudica a ninguém. O dono pode perder apenas se a pessoa que fez a cópia "
+"teria, em outras circunstâncias, pago por uma do dono."
 
 #. type: Content of: <ul><li><p>
 msgid ""
@@ -233,11 +233,11 @@ msgid ""
 "same time, we are urged to regard these penalties as facts of nature that "
 "can't be blamed on anyone."
 msgstr ""
-"Os proprietários frequentemente descrevem o estado atual da lei, e das penas "
-"severas com as quais nos podem ameaçar. Nesta abordagem está implícita a "
-"sugestão de que a lei atual reflete um inquestionável ponto de vista moral "
-"&mdash; mas, ao mesmo tempo, somos levados a enxergar essas penas como fatos "
-"da natureza dos quais ninguém é culpado."
+"Os donos frequentemente descrevem o estado atual da lei, e das penas severas "
+"com as quais nos podem ameaçar. Nesta abordagem está implícita a sugestão de "
+"que a lei atual reflete um inquestionável ponto de vista moral &mdash; mas, "
+"ao mesmo tempo, somos levados a enxergar essas penas como fatos da natureza "
+"dos quais ninguém é culpado."
 
 #. type: Content of: <ul><li><p>
 msgid ""
@@ -491,9 +491,9 @@ msgid ""
 "for admiration and love; but if we want more software than those people "
 "write, we need to raise funds."
 msgstr ""
-"O argumento econômico para a existência de proprietários é errôneo, mas a "
-"questão econômica é real. Algumas pessoas escrevem software útil pelo prazer "
-"de escrever e por admiração e amor, mas se queremos mais software dessas "
+"O argumento econômico para a existência de donos é errôneo, mas a questão "
+"econômica é real. Algumas pessoas escrevem software útil pelo prazer de "
+"escrever e por admiração e amor, mas se queremos mais software dessas "
 "pessoas, então precisamos levantar fundos."
 
 #. type: Content of: <p>
@@ -573,12 +573,12 @@ msgid ""
 "proprietary software."
 msgstr ""
 "Como um usuário de computador hoje em dia, você pode estar usando um <a href="
-"\"/philosophy/categories.html#ProprietarySoftware\">programa proprietário</"
-"a>. Se um amigo pedir para fazer uma cópia, seria errado recusar. Cooperação "
-"é mais importante que direitos autorais. Mas a cooperação clandestina, "
+"\"/philosophy/categories.html#ProprietarySoftware\">programa privativo</a>. "
+"Se um amigo pedir para fazer uma cópia, seria errado recusar. Cooperação é "
+"mais importante que direitos autorais. Mas a cooperação clandestina, "
 "fechada, não torna a sociedade melhor. Uma pessoa deve aspirar a viver uma "
 "vida justa, abertamente e com orgulho, e isso significa dizer não ao "
-"software proprietário."
+"software privativo."
 
 #. type: Content of: <p>
 msgid ""

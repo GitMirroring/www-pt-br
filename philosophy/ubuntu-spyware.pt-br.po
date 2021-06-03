@@ -1,14 +1,14 @@
 # Brazilian Portuguese translation of https://www.gnu.org/philosophy/ubuntu-spyware.html
-# Copyright (C) 2020 Free Software Foundation, Inc.
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Hudson Flávio Meneses Lacerda <hfmlacerda@yahoo.com.br>, 2014
-# Rafael Fontenelle <rafaelff@gnome.org>, 2017-2020.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017-2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-spyware.html\n"
 "POT-Creation-Date: 2020-10-06 08:28+0000\n"
-"PO-Revision-Date: 2020-12-13 17:52-0300\n"
+"PO-Revision-Date: 2021-05-03 10:15-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1)\n"
-"X-Generator: Gtranslator 3.38.0\n"
+"X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <title>
 msgid "Ubuntu Spyware: What to Do? - GNU Project - Free Software Foundation"
@@ -87,19 +87,19 @@ msgid ""
 "and enforces DRM; and plenty of apps for iThings and Android, which are "
 "guilty of one or more of these nasty practices."
 msgstr ""
-"Software proprietário está associado a tratamento malicioso do usuário: "
-"código para vigilância, algemas digitais (DRM ou Gestão Digital de "
-"Restrições) para restringir usuários e portas dos fundos [back doors] que "
-"podem fazer coisas detestáveis por controle remoto. Programas que fazem "
-"qualquer uma dessas coisas são malware e devem ser tratados como tal. "
-"Exemplos amplamente usados incluem Windows, os <a href=\"/philosophy/why-"
-"call-it-the-swindle.html\">iCoisas</a> e o Amazon “Kindle”, produto para "
-"queima virtual de livros<sup><a href=\"#TransNote1\">1</a></sup>, que fazem "
-"todas as três coisas; Macintosh e Playstation III, que impõem DRM; a maioria "
-"dos telefones portáteis, que praticam espionagem e contêm portas dos fundos; "
-"Adobe Flash Player, que faz espionagem e executa DRM; e uma grande "
-"quantidade de aplicativos para iCoisas e Android, que são culpáveis por uma "
-"ou mais dessas detestáveis práticas."
+"Software privativo está associado a tratamento malicioso do usuário: código "
+"para vigilância, algemas digitais (DRM ou Gestão Digital de Restrições) para "
+"restringir usuários e portas dos fundos [back doors] que podem fazer coisas "
+"detestáveis por controle remoto. Programas que fazem qualquer uma dessas "
+"coisas são malware e devem ser tratados como tal. Exemplos amplamente usados "
+"incluem Windows, os <a href=\"/philosophy/why-call-it-the-swindle.html"
+"\">iCoisas</a> e o Amazon “Kindle”, produto para queima virtual de "
+"livros<sup><a href=\"#TransNote1\">1</a></sup>, que fazem todas as três "
+"coisas; Macintosh e Playstation III, que impõem DRM; a maioria dos telefones "
+"portáteis, que praticam espionagem e contêm portas dos fundos; Adobe Flash "
+"Player, que faz espionagem e executa DRM; e uma grande quantidade de "
+"aplicativos para iCoisas e Android, que são culpáveis por uma ou mais dessas "
+"detestáveis práticas."
 
 #. type: Content of: <p>
 msgid ""
@@ -168,8 +168,8 @@ msgstr ""
 "uma expressão nos arquivos do seu sistema Windows, um pacote era enviado "
 "para algum servidor, o que foi detectado pelo seu firewall. Dado aquele "
 "primeiro exemplo, eu prestei atenção e aprendi sobre a propensão de software "
-"proprietário “conceituado” a ser malware. Talvez não seja por coincidência "
-"que Ubuntu envie a mesma informação."
+"privativo “conceituado” a ser malware. Talvez não seja por coincidência que "
+"Ubuntu envie a mesma informação."
 
 #. type: Content of: <p>
 msgid ""
@@ -304,7 +304,7 @@ msgid ""
 msgstr ""
 "Mas há mais coisas em questão aqui do que alguns de nós termos que engolir "
 "algumas palavras. O que está em questão é se nossa comunidade é efetivamente "
-"capaz de usar o argumento baseado no spyware proprietário. Se nós pudermos "
+"capaz de usar o argumento baseado no spyware privativo. Se nós pudermos "
 "apenas dizer “software livre não espiona você, exceto o Ubuntu,” isso será "
 "muito menos potente do que dizer “software livre não espiona você.”"
 

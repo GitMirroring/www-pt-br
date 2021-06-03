@@ -1,22 +1,22 @@
 # Brazilian Portuguese translation of https://www.gnu.org/philosophy/rtlinux-patent.html
-# Copyright (C) 2017 Free Software Foundation, Inc.
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Fernando Lozano, 2001.
 # Jan 2015: GNUNify; licensa > licença (T. Godefroy).
-# Rafael Fontenelle <rafaelff@gnome.org>, 2017.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017-2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: rtlinux-patent.html\n"
 "POT-Creation-Date: 2014-03-14 04:35+0000\n"
-"PO-Revision-Date: 2017-10-21 16:45-0200\n"
+"PO-Revision-Date: 2021-05-03 10:15-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 1.0.0-beta1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -89,9 +89,9 @@ msgstr ""
 "FSMLabs e FSF esperam que o lançamento desta licença acelere a taxa de "
 "revolução do software livre nos campos de computação embarcada e em tempo "
 "real. Essas áreas foram isoladas da linha central de progresso no "
-"desenvolvimento de software por software proprietário baseado em segredos e "
+"desenvolvimento de software por software privativo baseado em segredos e "
 "incompatibilidades projetados para bloquear os clientes em tecnologia "
-"proprietária. A disponibilidade de software livre superior já levou muitos "
+"privativa. A disponibilidade de software livre superior já levou muitos "
 "projetos inovadores de grandes corporações, milhares de indivíduos e "
 "pequenas empresas em todo o mundo. A FSF agradece a FSMLabs por suas "
 "contínuas contribuições para a comunidade de software livre."

@@ -1,16 +1,16 @@
 # Brazilian Portuguese translation of http://www.gnu.org/philosophy/compromise.html
-# Copyright (C) 2020 Free Software Foundation, Inc.
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnu.org article.
 # Rafael Beraldo <rberaldo@cabaladada.org>, 2012.
 # Dec 2014, Jan 2015: trivial update (T. Godefroy).
 # André N Batista <nandre@riseup.net>, 2018.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2017-2020.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017-2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: compromise.html\n"
 "POT-Creation-Date: 2020-10-27 08:55+0000\n"
-"PO-Revision-Date: 2020-11-01 06:56-0300\n"
+"PO-Revision-Date: 2021-05-03 10:15-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1)\n"
-"X-Generator: Gtranslator 3.38.0\n"
+"X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <title>
 msgid "Avoiding Ruinous Compromises - GNU Project - Free Software Foundation"
@@ -123,7 +123,7 @@ msgstr ""
 "O propósito da <a href=\"/licenses/lgpl.html\">GPL Menor</a> é um "
 "compromisso: nós a usamos em certas bibliotecas livres para permitir seu uso "
 "em programas não livres porque pensamos que legalmente proibir isso apenas "
-"levaria desenvolvedores a usar bibliotecas proprietárias. Aceitamos e "
+"levaria desenvolvedores a usar bibliotecas privativas. Aceitamos e "
 "instalamos código em programas do GNU para que eles funcionem com outros "
 "programas comuns não livres, e documentamos e divulgamos isso de maneira a "
 "encorajar usuários desses programas a instalar os programas do GNU, mas não "
@@ -220,7 +220,7 @@ msgstr ""
 "Essa abordagem pode nos levar apenas até certo ponto em nosso objetivo de "
 "liberdade. Pessoas que usam software livre apenas porque ele é conveniente "
 "irão continuar usando-o enquanto for mais conveniente e não verão motivo "
-"para não usar software proprietário em conjunto."
+"para não usar software privativo em conjunto."
 
 #. type: Content of: <p>
 msgid ""
@@ -251,7 +251,7 @@ msgstr ""
 "livres. Precisamos difundir a ideia de julgar o software (e outras coisas) "
 "baseado nos “valores de cidadão”; baseado no respeito à liberdade dos "
 "usuários e da comunidade, não somente em termos de conveniência. Assim, as "
-"pessoas não cairão na armadilha do programa proprietário, fisgadas por uma "
+"pessoas não cairão na armadilha do programa privativo, fisgadas por uma "
 "característica conveniente e atraente."
 
 #. type: Content of: <p>
@@ -337,8 +337,8 @@ msgstr ""
 "influenciamos usuários a usar software não livre. O que usuários fazem "
 "sozinhos é de sua responsabilidade; o que nós fazemos por eles e os "
 "influenciamos a fazer é de nossa responsabilidade. Não devemos direcionar "
-"nossos usuários ao software proprietário como se ele fosse a solução, porque "
-"o software proprietário é o problema."
+"nossos usuários ao software privativo como se ele fosse a solução, porque o "
+"software privativo é o problema."
 
 #. type: Content of: <p>
 msgid ""

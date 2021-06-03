@@ -6,15 +6,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: mirror.html\n"
-"POT-Creation-Date: 2021-04-12 08:56+0000\n"
-"PO-Revision-Date: 2021-04-20 05:27-0300\n"
+"POT-Creation-Date: 2021-05-24 19:25+0000\n"
+"PO-Revision-Date: 2021-05-08 08:00-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Outdated-Since: 2021-03-30 15:55+0000\n"
 "Plural-Forms: nplurals=2; plural=(n > 1)\n"
 "X-Generator: Gtranslator 40.0\n"
 
@@ -22,15 +21,15 @@ msgstr ""
 msgid "Using and Running Mirrors - GNU Project - Free Software Foundation"
 msgstr "Usando e mantendo espelhos - Projeto GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Using and running mirrors"
 msgstr "Usando e mantendo espelhos"
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Downloading from mirrors"
 msgstr "Baixando de espelhos"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "First, for users/downloaders: the address <a href=\"http://ftpmirror.gnu.org/"
 "\">http://ftpmirror.gnu.org/</a> multiplexes between the mirrors, trying to "
@@ -49,11 +48,11 @@ msgstr ""
 "gnu.org sempre que possível em links, documentação, etc., para reduzir a "
 "carga no servidor GNU principal."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Mirroring the GNU FTP server"
 msgstr "Espelhando o servidor FTP do GNU"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Mirroring the GNU FTP server requires approximately 63GB disk space (as of "
 "February&nbsp;2017).  You can rsync directly from ftp.gnu.org:"
@@ -62,12 +61,12 @@ msgstr ""
 "disco (em fevereiro de 2017). Você pode fazer um rsync diretamente do ftp."
 "gnu.org:"
 
-#. type: Content of: <pre>
+#. type: Content of: <div><pre>
 #, no-wrap
 msgid "rsync -rltpHS --delete-excluded rsync://ftp.gnu.org/gnu/ /your/dir/\n"
 msgstr "rsync -rltpHS --delete-excluded rsync://ftp.gnu.org/gnu/ /seu/dir/\n"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "However, please consider mirroring from another site, again to reduce load "
 "on the GNU server.  These sites provide access to all the material on ftp."
@@ -79,235 +78,291 @@ msgstr ""
 "material em ftp.gnu.org. Eles atualizam de nós todas as noites (pelo menos) "
 "e você pode acessá-los via rsync com as mesmas opções acima:"
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "Africa"
 msgstr "África"
 
-#. type: Content of: <dl><dd><p>
-msgid "<code>rsync://mirror.ufs.ac.za/gnu</code> (South Africa)"
-msgstr "<code>rsync://mirror.ufs.ac.za/gnu</code> (África do Sul)"
+#. #set var='mirror'
+#.  value='<code>rsync://mirror.ufs.ac.za/gnu</code>' 
+#. #echo
+#.  encoding='none' var='mirror' 
+#. type: Content of: <div><dl><dd><p>
+msgid "(South Africa)"
+msgstr "(América do Sul)"
 
-#. type: Content of: <dl><dd><p>
-msgid "<code>rsync://mirror.marwan.ma/gnu/</code> (Morocco)"
-msgstr "<code>rsync://mirror.marwan.ma/gnu/</code> (Marrocos)"
-
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "North America"
 msgstr "América do Norte"
 
-#. type: Content of: <dl><dd><p>
-msgid "<code>rsync://gnu.mirror.iweb.com/gnu</code> (Canada)"
-msgstr "<code>rsync://gnu.mirror.iweb.com/gnu</code> (Canadá)"
+#. #set var='mirror'
+#.   value='<code>rsync://gnualpha.freemirror.org/gnualpha</code>' 
+#. #echo
+#.   encoding='none' var='mirror' 
+#. type: Content of: <div><dl><dd><p>
+msgid "(Canada)"
+msgstr "(Canadá)"
 
-#. type: Content of: <dl><dd><p>
-msgid "<code>rsync://mirror.sergal.org/gnu</code> (Canada)"
-msgstr "<code>rsync://mirror.sergal.org/gnu</code> (Canadá)"
+#. #set var='mirror'
+#.   value='<code>rsync://mirrors.sarata.com/gnu-alpha/</code>' 
+#. #echo
+#.   encoding='none' var='mirror' 
+#. type: Content of: <div><dl><dd><p>
+msgid "(Arizona, USA)"
+msgstr "(Arizona, EUA)"
 
-#. type: Content of: <dl><dd><p>
-msgid "<code>rsync://mirror.its.dal.ca/gnu</code> (Canada)"
-msgstr "<code>rsync://mirror.its.dal.ca/gnu</code> (Canadá)"
+#. #set var='mirror'
+#.  value='<code>rsync://mirrors.ocf.berkeley.edu/gnu/</code>' 
+#. #echo
+#.  encoding='none' var='mirror' 
+#. type: Content of: <div><dl><dd><p>
+msgid "(California, USA)"
+msgstr "(Califórnia, EUA)"
 
-#. type: Content of: <dl><dd><p>
-msgid "<code>rsync://mirror.csclub.uwaterloo.ca/gnu/</code> (Canada)"
-msgstr "<code>rsync://mirror.csclub.uwaterloo.ca/gnu/</code> (Canadá)"
+#. #set var='mirror'
+#.  value='<code>rsync://mirrors.syringanetworks.net/gnu/</code>' 
+#. #echo
+#.  encoding='none' var='mirror' 
+#. type: Content of: <div><dl><dd><p>
+msgid "(Idaho, USA)"
+msgstr "(Idaho, EUA)"
 
-#. type: Content of: <dl><dd><p>
-msgid "<code>rsync://gnu.freemirror.org/gnu</code> (Canada)"
-msgstr "<code>rsync://gnu.freemirror.org/gnu</code> (Canadá)"
+#. #set var='mirror'
+#.  value='<code>rsync://mirror.team-cymru.com/gnu/</code>' 
+#. #echo
+#.  encoding='none' var='mirror' 
+#. type: Content of: <div><dl><dd><p>
+msgid "(Illinois, USA)"
+msgstr "(Ilinóis, EUA)"
 
-#. type: Content of: <dl><dd><p>
-msgid "<code>rsync://mirror2.evolution-host.com/gnu</code> (Canada)"
-msgstr "<code>rsync://mirror2.evolution-host.com/gnu</code> (Canadá)"
+#. #set var='mirror'
+#.  value='<code>rsync://mirror.leifrogers.com/gnu/gnu/</code>' 
+#. #echo
+#.  encoding='none' var='mirror' 
+#. type: Content of: <div><dl><dd><p>
+msgid "(Indiana, USA)"
+msgstr "(Indiana, EUA)"
 
-#. type: Content of: <dl><dd><p>
-msgid "<code>rsync://mirrors.sarata.com/gnu/</code> (Arizona, USA)"
-msgstr "<code>rsync://mirrors.sarata.com/gnu/</code> (Arizona, EUA)"
+#. #set var='mirror'
+#.  value='<code>rsync://mirrors.tripadvisor.com/gnu/</code>' 
+#. #echo
+#.  encoding='none' var='mirror' 
+#. type: Content of: <div><dl><dd><p>
+msgid "(Massachusetts, USA)"
+msgstr "(Massachusetts, EUA)"
 
-#. type: Content of: <dl><dd><p>
-msgid "<code>rsync://mirror.keystealth.org/gnu/</code> (California, USA)"
-msgstr "<code>rsync://mirror.keystealth.org/gnu/</code> (Califórnia, EUA)"
+#. #set var='mirror'
+#.  value='<code>rsync://mirror.clarkson.edu/gnu/</code>' 
+#. #echo
+#.  encoding='none' var='mirror' 
+#. type: Content of: <div><dl><dd><p>
+msgid "(New York, USA)"
+msgstr "(New York, EUA)"
 
-#. type: Content of: <dl><dd><p>
-msgid "<code>rsync://mirrors.ocf.berkeley.edu/gnu/</code> (California, USA)"
-msgstr "<code>rsync://mirrors.ocf.berkeley.edu/gnu/</code> (Califórnia, EUA)"
-
-#. type: Content of: <dl><dd><p>
-msgid "<code>rsync://mirrors.syringanetworks.net/gnu/</code> (Idaho, USA)"
-msgstr "<code>rsync://mirrors.syringanetworks.net/gnu/</code> (Idaho, EUA)"
-
-#. type: Content of: <dl><dd><p>
-msgid "<code>rsync://mirror.team-cymru.com/gnu/</code> (Illinois, USA)"
-msgstr "<code>rsync://mirror.team-cymru.com/gnu/</code> (Ilinóis, EUA)"
-
-#. type: Content of: <dl><dd><p>
-msgid "<code>rsync://mirror.leifrogers.com/gnu/gnu/</code> (Indiana, USA)"
-msgstr "<code>rsync://mirror.leifrogers.com/gnu/gnu/</code> (Indiana, EUA)"
-
-#. type: Content of: <dl><dd><p>
-msgid "<code>rsync://mirrors.tripadvisor.com/gnu/</code> (Massachusetts, USA)"
-msgstr "<code>rsync://mirrors.tripadvisor.com/gnu/</code> (Massachusetts, EUA)"
-
-#. type: Content of: <dl><dd><p>
-msgid "<code>rsync://mirror.clarkson.edu/gnu/</code> (New York, USA)"
-msgstr "<code>rsync://mirror.clarkson.edu/gnu/</code> (Nova York, EUA)"
-
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "South America"
 msgstr "América do Sul"
 
-#. type: Content of: <dl><dd><p>
-msgid "<code>rsync://mirror.nbtelecom.com.br/gnu/</code> (Brazil)"
-msgstr "<code>rsync://mirror.nbtelecom.com.br/gnu/</code> (Brasil)"
+#. #set var='mirror'
+#.   value='<code>rsync://gnu.c3sl.ufpr.br/gnu/alpha/</code>' 
+#. #echo
+#.   encoding='none' var='mirror' 
+#. type: Content of: <div><dl><dd><p>
+msgid "(Brazil)"
+msgstr "(Brasil)"
 
-#. type: Content of: <dl><dd><p>
-msgid "<code>rsync://gnu.c3sl.ufpr.br/gnu/ftp/</code> (Brazil)"
-msgstr "<code>rsync://gnu.c3sl.ufpr.br/gnu/ftp/</code> (Brasil)"
+#. #set var='mirror'
+#.   value='<code>rsync://mirror.cedia.org.ec/gnualpha</code>' 
+#. #echo
+#.   encoding='none' var='mirror' 
+#. type: Content of: <div><dl><dd><p>
+msgid "(Ecuador)"
+msgstr "(Equador)"
 
-#. type: Content of: <dl><dd><p>
-msgid "<code>rsync://mirror.cedia.org.ec/gnu</code> (Ecuador)"
-msgstr "<code>rsync://mirror.cedia.org.ec/gnu</code> (Equador)"
+#. #set var='mirror'
+#.   value='<code>rsync://mirror.marwan.ma/gnualpha/</code>' 
+#. #echo
+#.   encoding='none' var='mirror' 
+#. type: Content of: <div><dl><dd><p>
+msgid "(Morocco)"
+msgstr "(Marrocos)"
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "Asia"
 msgstr "Ásia"
 
-#. type: Content of: <dl><dd><p>
-msgid "<code>rsync://mirrors.ustc.edu.cn/gnu/</code> (China)"
-msgstr "<code>rsync://mirrors.ustc.edu.cn/gnu/</code> (China)"
+#. #set var='mirror'
+#.   value='<code>rsync://mirrors.tuna.tsinghua.edu.cn/gnu/</code>' 
+#. #echo
+#.   encoding='none' var='mirror' 
+#. type: Content of: <div><dl><dd><p>
+msgid "(China)"
+msgstr "(China)"
 
-#. type: Content of: <dl><dd><p>
-msgid "<code>rsync://mirrors.tuna.tsinghua.edu.cn/gnu/</code> (China)"
-msgstr "<code>rsync://mirrors.tuna.tsinghua.edu.cn/gnu/</code> (China)"
+#. #set var='mirror'
+#.   value='<code>rsync://mirror-hk.koddos.net/gnu/</code>' 
+#. #echo
+#.   encoding='none' var='mirror' 
+#. type: Content of: <div><dl><dd><p>
+msgid "(Hong Kong)"
+msgstr "(Hong Kong)"
 
-#. type: Content of: <dl><dd><p>
-msgid "<code>rsync://mirror-hk.koddos.net/gnu/</code> (Hong Kong)"
-msgstr "<code>rsync://mirror-hk.koddos.net/gnu/</code> (Hong Kong)"
+#. #set var='mirror'
+#.   value='<code>rsync://mirror.jre655.com/GNU</code>' 
+#. #echo
+#.   encoding='none' var='mirror' 
+#. type: Content of: <div><dl><dd><p>
+msgid "(Japan)"
+msgstr "(Japão)"
 
-#. type: Content of: <dl><dd><p>
-msgid "<code>rsync://ftp.jaist.ac.jp/pub/GNU/</code> (Japan)"
-msgstr "<code>rsync://ftp.jaist.ac.jp/pub/GNU/</code> (Japão)"
+#. #set var='mirror'
+#.   value='<code>rsync://ftp.kaist.ac.kr/gnu/</code>' 
+#. #echo
+#.   encoding='none' var='mirror' 
+#. type: Content of: <div><dl><dd><p>
+msgid "(Korea)"
+msgstr "(Coreia)"
 
-#. type: Content of: <dl><dd><p>
-msgid "<code>rsync://mirror.jre655.com/GNU</code> (Japan)"
-msgstr "<code>rsync://mirror.jre655.com/GNU</code> (Japão)"
+#. #set var='mirror'
+#.   value='<code>rsync://mirror.ossplanet.net/gnu</code>' 
+#. #echo
+#.   encoding='none' var='mirror' 
+#. type: Content of: <div><dl><dd><p>
+msgid "(Taiwan)"
+msgstr "(Taiwan)"
 
-#. type: Content of: <dl><dd><p>
-msgid "<code>rsync://ftp.kaist.ac.kr/gnu/</code> (Korea)"
-msgstr "<code>rsync://ftp.kaist.ac.kr/gnu/</code> (Coreia)"
-
-#. type: Content of: <dl><dd><p>
-msgid "<code>rsync://mirror.ossplanet.net/gnu</code> (Taiwan)"
-msgstr "<code>rsync://mirror.ossplanet.net/gnu</code> (Taiwan)"
-
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "Europe"
 msgstr "Europa"
 
-#. type: Content of: <dl><dd><p>
-msgid "<code>rsync://mirror.kumi.systems/gnu/</code> (Austria)"
-msgstr "<code>rsync://mirror.kumi.systems/gnu/</code> (Áustria)"
+#. #set var='mirror'
+#.   value='<code>rsync://mirror.kumi.systems/gnualpha/</code>' 
+#. #echo
+#.   encoding='none' var='mirror' 
+#. type: Content of: <div><dl><dd><p>
+msgid "(Austria)"
+msgstr "(Áustria)"
 
-#. type: Content of: <dl><dd><p>
-msgid "<code>rsync://ftp.funet.fi/ftp/pub/gnu/prep/</code> (Finland)"
-msgstr "<code>rsync://ftp.funet.fi/ftp/pub/gnu/prep/</code> (Finlândia)"
+#. #set var='mirror'
+#.   value='<code>rsync://ftp.funet.fi/ftp/pub/mirrors/alpha.gnu.org/gnu/</code>' 
+#. #echo
+#.   encoding='none' var='mirror' 
+#. type: Content of: <div><dl><dd><p>
+msgid "(Finland)"
+msgstr "(Finlândia)"
 
-#. type: Content of: <dl><dd><p>
-msgid "<code>rsync://rsync.cyberbits.eu/gnu/</code> (France)"
-msgstr "<code>rsync://rsync.cyberbits.eu/gnu/</code> (França)"
+#. #set var='mirror'
+#.   value='<code>rsync://rsync.cyberbits.eu/gnu/alpha/</code>' 
+#. #echo
+#.   encoding='none' var='mirror' 
+#. type: Content of: <div><dl><dd><p>
+msgid "(France)"
+msgstr "(França)"
 
-#. type: Content of: <dl><dd><p>
-msgid "<code>rsync://mirror.clientvps.com/gnu</code> (Germany)"
-msgstr "<code>rsync://mirror.clientvps.com/gnu</code> (Alemanha)"
+#. #set var='mirror'
+#.   value='<code>rsync://de.freedif.org/alpha/</code>' 
+#. #echo
+#.   encoding='none' var='mirror' 
+#. type: Content of: <div><dl><dd><p>
+msgid "(Germany)"
+msgstr "(Alemanha)"
 
-#. type: Content of: <dl><dd><p>
-msgid "<code>rsync://de.freedif.org/gnu/</code> (Germany)"
-msgstr "<code>rsync://de.freedif.org/gnu/</code> (Alemanha)"
+#. #set var='mirror'
+#.   value='<code>rsync://quantum-mirror.hu/gnualpha/</code>' 
+#. #echo
+#.   encoding='none' var='mirror' 
+#. type: Content of: <div><dl><dd><p>
+msgid "(Hungary)"
+msgstr "(Hungria)"
 
-#. type: Content of: <dl><dd><p>
-msgid "<code>rsync://ftp.fau.de/gnu</code> (Germany)"
-msgstr "<code>rsync://ftp.fau.de/gnu</code> (Alemanha)"
+#. #set var='mirror'
+#.   value='<code>rsync://mirror.ihost.md/gnu-alpha</code>' 
+#. #echo
+#.   encoding='none' var='mirror' 
+#. type: Content of: <div><dl><dd><p>
+msgid "(Moldova)"
+msgstr "(Moldávia)"
 
-#. type: Content of: <dl><dd><p>
-msgid "<code>rsync://ftp.halifax.rwth-aachen.de/gnu/</code> (Germany)"
-msgstr "<code>rsync://ftp.halifax.rwth-aachen.de/gnu/</code> (Alemanha)"
+#. #set var='mirror'
+#.   value='<code>rsync://mirror.koddos.net/gnu</code>' 
+#. #echo
+#.   encoding='none' var='mirror' 
+#. type: Content of: <div><dl><dd><p>
+msgid "(Netherlands)"
+msgstr "(Países Baixos)"
 
-#. type: Content of: <dl><dd><p>
-msgid "<code>rsync://mirror.netcologne.de/gnu</code> (Germany)"
-msgstr "<code>rsync://mirror.netcologne.de/gnu</code> (Alemanha)"
+#. #set var='mirror'
+#.   value='<code>rsync://gnualpha.uib.no/gnualpha/</code>' 
+#. #echo
+#.   encoding='none' var='mirror' 
+#. type: Content of: <div><dl><dd><p>
+msgid "(Norway)"
+msgstr "(Noruega)"
 
-#. type: Content of: <dl><dd><p>
-msgid "<code>rsync://ftp.wrz.de/pub/gnu/</code> (Germany)"
-msgstr "<code>rsync://ftp.wrz.de/pub/gnu/</code> (Alemanha)"
+#. #set var='mirror'
+#.   value='<code>rsync://mirrors.up.pt/pub/gnu-alpha/</code>' 
+#. #echo
+#.   encoding='none' var='mirror' 
+#. type: Content of: <div><dl><dd><p>
+msgid "(Portugal)"
+msgstr "(Portugal)"
 
-#. type: Content of: <dl><dd><p>
-msgid "<code>rsync://quantum-mirror.hu/gnu/</code> (Hungary)"
-msgstr "<code>rsync://quantum-mirror.hu/gnu/</code> (Hungria)"
+#. #set var='mirror'
+#.   value='<code>rsync://mirrors.nav.ro/gnu</code>' 
+#. #echo
+#.   encoding='none' var='mirror' 
+#. type: Content of: <div><dl><dd><p>
+msgid "(Romania)"
+msgstr "(Romênia)"
 
-#. type: Content of: <dl><dd><p>
-#| msgid "<code>rsync://mirrors.mivocloud.com/gnu/</code> (Moldova)"
-msgid "<code>rsync://mirror.ihost.md/gnu</code> (Moldova)"
-msgstr "<code>rsync://mirror.ihost.md/gnu</code> (Moldávia)"
+#. #set var='mirror'
+#.   value='<code>rsync://mirror.sbb.rs/gnu/</code>' 
+#. #echo
+#.   encoding='none' var='mirror' 
+#. type: Content of: <div><dl><dd><p>
+msgid "(Serbia)"
+msgstr "(Sérvia)"
 
-#. type: Content of: <dl><dd><p>
-msgid "<code>rsync://mirrors.mivocloud.com/gnu/</code> (Moldova)"
-msgstr "<code>rsync://mirrors.mivocloud.com/gnu/</code> (Moldávia)"
+#. #set var='mirror'
+#.   value='<code>rsync://ftp.acc.umu.se/mirror/gnu.org/alpha/</code>' 
+#. #echo
+#.   encoding='none' var='mirror' 
+#. type: Content of: <div><dl><dd><p>
+msgid "(Sweden)"
+msgstr "(Suécia)"
 
-#. type: Content of: <dl><dd><p>
-msgid "<code>rsync://mirror.lyrahosting.com/gnu</code> (Netherlands)"
-msgstr "<code>rsync://mirror.lyrahosting.com/gnu</code> (Países Baixos)"
+#. #set var='mirror'
+#.   value='<code>rsync://rsync.mirrorservice.org/alpha.gnu.org/gnu/</code>' 
+#. #echo
+#.   encoding='none' var='mirror' 
+#. type: Content of: <div><dl><dd><p>
+msgid "(UK)"
+msgstr "(Reino Unido)"
 
-#. type: Content of: <dl><dd><p>
-msgid "<code>rsync://ftp.snt.utwente.nl/gnu/</code> (Netherlands)"
-msgstr "<code>rsync://ftp.snt.utwente.nl/gnu/</code> (Países Baixos)"
+#. #set var='mirror'
+#.   value='<code>rsync://alpha-gnu-org.ip-connect.vn.ua/alpha.gnu.org/</code>' 
+#. #echo
+#.   encoding='none' var='mirror' 
+#. type: Content of: <div><dl><dd><p>
+msgid "(Ukraine)"
+msgstr "(Ucrânia)"
 
-#. type: Content of: <dl><dd><p>
-msgid "<code>rsync://mirror.koddos.net/gnu</code> (Netherlands)"
-msgstr "<code>rsync://mirror.koddos.net/gnu</code> (Países Baixos)"
-
-#. type: Content of: <dl><dd><p>
-msgid "<code>rsync://gnuftp.uib.no/gnuftp/</code> (Norway)"
-msgstr "<code>rsync://gnuftp.uib.no/gnuftp/</code> (Noruega)"
-
-#. type: Content of: <dl><dd><p>
-msgid "<code>rsync://mirrors.up.pt/pub/gnu/</code> (Portugal)"
-msgstr "<code>rsync://mirrors.up.pt/pub/gnu/</code> (Portugal)"
-
-#. type: Content of: <dl><dd><p>
-msgid "<code>rsync://mirrors.nav.ro/gnu</code> (Romania)"
-msgstr "<code>rsync://mirrors.nav.ro/gnu</code> (Romênia)"
-
-#. type: Content of: <dl><dd><p>
-msgid "<code>rsync://mirror.sbb.rs/gnu/</code> (Serbia)"
-msgstr "<code>rsync://mirror.sbb.rs/gnu/</code> (Sérvia)"
-
-#. type: Content of: <dl><dd><p>
-msgid "<code>rsync://ftp.acc.umu.se/mirror/gnu.org/gnu/</code> (Sweden)"
-msgstr "<code>rsync://ftp.acc.umu.se/mirror/gnu.org/gnu/</code> (Suécia)"
-
-#. type: Content of: <dl><dd><p>
-msgid "<code>rsync://rsync.mirrorservice.org/ftp.gnu.org/gnu/</code> (UK)"
-msgstr ""
-"<code>rsync://rsync.mirrorservice.org/ftp.gnu.org/gnu/</code> (Reino Unido)"
-
-#. type: Content of: <dl><dd><p>
-msgid ""
-"<code>rsync://ftp-gnu-org.ip-connect.vn.ua/ftp.gnu.org/</code> (Ukraine)"
-msgstr ""
-"<code>rsync://ftp-gnu-org.ip-connect.vn.ua/ftp.gnu.org/</code> (Ucrânia)"
-
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "Oceania"
 msgstr "Oceania"
 
-#. type: Content of: <dl><dd><p>
-msgid "<code>rsync://mirror.lagoon.nc/gnu/</code> (New Caledonia)"
-msgstr "<code>rsync://mirror.lagoon.nc/gnu/</code> (Nova Caledônia)"
+#. #set var='mirror'
+#.   value='<code>rsync://mirror.lagoon.nc/gnu/</code>' 
+#. #echo
+#.   encoding='none' var='mirror' 
+#. type: Content of: <div><dl><dd><p>
+msgid "(New Caledonia)"
+msgstr "(Nova Caledônia)"
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Making your mirror public"
 msgstr "Tornando seu espelho público"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "You can keep your mirror private, but we will be very grateful if you "
 "support free software by making it public. However, your mirror needs to "
@@ -319,13 +374,13 @@ msgstr ""
 "precisa seguir as diretrizes a seguir para serem aceitos em nossa <a href=\"/"
 "prep/ftp.html\">lista de espelhos públicos</a>:"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "Text (if any) should be as short as possible, and strictly explanatory."
 msgstr ""
 "O texto (se houver) deve ser o mais curto possível e estritamente "
 "explicativo."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "Images, including logos, should be avoided by courtesy to people who use "
 "devices with small screens, except if the images are on the site being "
@@ -335,7 +390,7 @@ msgstr ""
 "usam dispositivos com telas pequenas, exceto se as imagens estiverem no site "
 "sendo espelhadas."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "The header and footer shouldn't have links, except possibly for bug-"
 "reporting. Extra links are annoying for users, and in some cases are "
@@ -345,7 +400,7 @@ msgstr ""
 "relatórios de erros. Links extras são irritantes para os usuários e, em "
 "alguns casos, são considerados spam."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "To add your mirror to the public mirror list, we require (and recommend) a "
 "daily update frequency.  <em>After</em> establishing your mirror, please "
@@ -358,19 +413,19 @@ msgstr ""
 "webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a> para que possamos "
 "analisá-lo. Por favor, forneça o seguinte:"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "URL of the mirror (https/http/ftp/rsync as appropriate),"
 msgstr "URL do espelho (https/http/ftp/rsync, conforme apropriado),"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "country where the mirror is located,"
 msgstr "país onde o espelho está localizado,"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "update frequency (once daily is recommended),"
 msgstr "frequência de atualização (uma vez por dia é recomendado),"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "preferred contact information for any mirror-related issues (we will keep "
 "all contact information confidential), and"
@@ -378,15 +433,15 @@ msgstr ""
 "informações de contato preferenciais para quaisquer problemas relacionados a "
 "espelhos (manteremos todas as informações de contato confidenciais) e"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "whether your site can also be a source for other mirrors."
 msgstr "se o seu site também pode ser uma fonte para outros espelhos."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Web setup for mirrors"
 msgstr "Configuração web para espelhos"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "It is very useful to make your mirror available to users via HTTP or HTTPS, "
 "so please support this if you can. We highly encourage new mirrors to "
@@ -396,7 +451,7 @@ msgstr ""
 "então, por favor, apoiem essa ideia, se puderem. Recomendamos fortemente que "
 "novos espelhos tenham suporte a HTTPS como a opção mais segura."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Set up your web server configuration to avoid sending the Content-Encoding "
 "header because it causes problems with some gateways."
@@ -404,7 +459,7 @@ msgstr ""
 "Defina a configuração do servidor web para evitar o envio do cabeçalho "
 "Content-Encoding, pois isso causa problemas em alguns gateways."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "With Apache, we highly recommend the following setting, so that users can "
 "see full filenames in generated listings instead of having them be truncated:"
@@ -413,12 +468,12 @@ msgstr ""
 "possam ver nomes de arquivos completos nas listagens geradas, em vez de "
 "serem truncados:"
 
-#. type: Content of: <pre>
+#. type: Content of: <div><pre>
 #, no-wrap
 msgid "IndexOptions NameWidth=*\n"
 msgstr "IndexOptions NameWidth=*\n"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If you set up an HTTPS mirror, please make sure its SSL certificate carries "
 "a valid signature from a certification authority; it's difficult for us to "
@@ -430,11 +485,11 @@ msgstr ""
 "nós rastrear espelhos com certificados autoassinados. Se você ainda não tem "
 "uma assinatura válida, o Let's Encrypt é um bom lugar para obtê-lo."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Mirroring the GNU Alpha release server"
 msgstr "Espelhando o servidor de lançamentos GNU Alpha"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "ftp.gnu.org and other sites also offer alpha.gnu.org (around 10GB) for your "
 "mirroring pleasure:"
@@ -442,88 +497,24 @@ msgstr ""
 "ftp.gnu.org e outros sites também oferecem alpha.gnu.org (cerca de 10GB) "
 "para o seu prazer de espelhamento:"
 
-#. type: Content of: <dl><dd>
-msgid "<code>rsync://ftp.gnu.org/alpha/</code> (USA - primary site)"
-msgstr "<code>rsync://ftp.gnu.org/alpha/</code> (EUA - site principal)"
+#. #set var='mirror'
+#.   value='<code>rsync://ftp.gnu.org/alpha/</code>' 
+#. #echo
+#.   encoding='none' var='mirror' 
+#. type: Content of: <div><dl><dd><p>
+msgid "(USA - primary site)"
+msgstr "(EUA - site principal)"
 
-#. type: Content of: <dl><dd>
-msgid "<code>rsync://mirrors.sarata.com/gnu-alpha/</code> (USA - Arizona)"
-msgstr "<code>rsync://mirrors.sarata.com/gnu-alpha/</code> (EUA - Arizona)"
-
-#. type: Content of: <dl><dd>
-msgid "<code>rsync://gnualpha.freemirror.org/gnualpha</code> (Canada)"
-msgstr "<code>rsync://gnualpha.freemirror.org/gnualpha</code> (Canadá)"
-
-#. type: Content of: <dl><dd>
-msgid "<code>rsync://gnu.c3sl.ufpr.br/gnu/alpha/</code> (Brazil)"
-msgstr "<code>rsync://gnu.c3sl.ufpr.br/gnu/alpha/</code> (Brasil)"
-
-#. type: Content of: <dl><dd>
-msgid "<code>rsync://mirror.cedia.org.ec/gnualpha</code> (Ecuador)"
-msgstr "<code>rsync://mirror.cedia.org.ec/gnualpha</code> (Equador)"
-
-#. type: Content of: <dl><dd>
-msgid "<code>rsync://mirror.kumi.systems/gnualpha/</code> (Austria)"
-msgstr "<code>rsync://mirror.kumi.systems/gnualpha/</code> (Áustria)"
-
-#. type: Content of: <dl><dd>
-msgid ""
-"<code>rsync://ftp.funet.fi/ftp/pub/mirrors/alpha.gnu.org/gnu/</code> "
-"(Finland)"
-msgstr ""
-"<code>rsync://ftp.funet.fi/ftp/pub/mirrors/alpha.gnu.org/gnu/</code> "
-"(Finlândia)"
-
-#. type: Content of: <dl><dd>
-msgid "<code>rsync://rsync.cyberbits.eu/gnu/alpha/</code> (France)"
-msgstr "<code>rsync://rsync.cyberbits.eu/gnu/alpha/</code> (França)"
-
-#. type: Content of: <dl><dd>
-msgid "<code>rsync://de.freedif.org/alpha/</code> (Germany)"
-msgstr "<code>rsync://de.freedif.org/alpha/</code> (Alemanha)"
-
-#. type: Content of: <dl><dd>
-msgid "<code>rsync://quantum-mirror.hu/gnualpha/</code> (Hungary)"
-msgstr "<code>rsync://quantum-mirror.hu/gnualpha/</code> (Hungria)"
-
-#. type: Content of: <dl><dd>
-#| msgid "<code>rsync://mirrors.mivocloud.com/gnu/</code> (Moldova)"
-msgid "<code>rsync://mirror.ihost.md/gnu-alpha</code> (Moldova)"
-msgstr "<code>rsync://mirror.ihost.md/gnu-alpha</code> (Moldávia)"
-
-#. type: Content of: <dl><dd>
-msgid "<code>rsync://gnualpha.uib.no/gnualpha/</code> (Norway)"
-msgstr "<code>rsync://gnualpha.uib.no/gnualpha/</code> (Noruega)"
-
-#. type: Content of: <dl><dd>
-msgid "<code>rsync://mirrors.up.pt/pub/gnu-alpha/</code> (Portugal)"
-msgstr "<code>rsync://mirrors.up.pt/pub/gnu-alpha/</code> (Portugal)"
-
-#. type: Content of: <dl><dd>
-msgid "<code>rsync://ftp.acc.umu.se/mirror/gnu.org/alpha/</code> (Sweden)"
-msgstr "<code>rsync://ftp.acc.umu.se/mirror/gnu.org/alpha/</code> (Suécia)"
-
-#. type: Content of: <dl><dd>
-msgid "<code>rsync://rsync.mirrorservice.org/alpha.gnu.org/gnu/</code> (UK)"
-msgstr ""
-"<code>rsync://rsync.mirrorservice.org/alpha.gnu.org/gnu/</code> (Reino Unido)"
-
-#. type: Content of: <dl><dd>
-msgid ""
-"<code>rsync://alpha-gnu-org.ip-connect.vn.ua/alpha.gnu.org/</code> (Ukraine)"
-msgstr ""
-"<code>rsync://alpha-gnu-org.ip-connect.vn.ua/alpha.gnu.org/</code> (Ucrânia)"
-
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "Nightly updates are sufficient for GNU FTP and Alpha material."
 msgstr ""
 "Atualizações noturnas são suficientes para o material do GNU FTP e Alpha."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Mirroring nongnu releases from Savannah"
 msgstr "Espelhando lançamentos nongnu do Savannah"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We also greatly appreciate additional mirrors of the <em>nongnu</em> "
 "projects hosted at <a href=\"http://savannah.nongnu.org/\">savannah.nongnu."
@@ -537,12 +528,12 @@ msgstr ""
 "que você obtenha e atualize os arquivos usando o rsync, com as mesmas opções "
 "acima para ftp.gnu.org, a saber:"
 
-#. type: Content of: <pre>
+#. type: Content of: <div><pre>
 #, no-wrap
 msgid "rsync -rltpHS --delete-excluded rsync://dl.sv.gnu.org/releases/ /your/dir\n"
 msgstr "rsync -rltpHS --delete-excluded rsync://dl.sv.gnu.org/releases/ /seu/dir\n"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "These options ensure that it is an exact mirror.  (There will probably be "
 "some permission errors; just ignore them.  They are due to choices or "
@@ -552,7 +543,7 @@ msgstr ""
 "alguns erros de permissão; simplesmente ignore-os. Eles são devidos a "
 "escolhas ou erros de mantenedores individuais do projeto.)"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "It is fine to update savannah/nongnu once a day as well; twice a day if you "
 "like.  More than that is not worth the bandwidth, the contents are not that "
@@ -562,7 +553,7 @@ msgstr ""
 "por dia, se quiser. Mais do que isso não vale o gasto de largura de banda, "
 "pois o conteúdo não é tão dinâmico."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If you can help with this, please <a href=\"mailto:webmasters@gnu.org"
 "\">email us</a> with the url to your mirror so we can add you to the <a href="
@@ -573,11 +564,11 @@ msgstr ""
 "lo à <a href=\"http://dl.sv.gnu.org/releases/00_MIRRORS.html\">lista</a>. "
 "Obrigado!"
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "(Not) Mirroring the GNU web server"
 msgstr "(Não) Espelhando o servidor web do GNU"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We no longer recommend creating web mirrors, because it has turned out that "
 "(a)&nbsp;few people can make use of them, and (b)&nbsp;many mirrors either "
@@ -589,7 +580,7 @@ msgstr ""
 "ficavam desatualizados ou off-line com certa frequência. Não queremos que "
 "informações desatualizadas sobre o projeto GNU sejam divulgadas."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Nonetheless, if you wish to mirror www.gnu.org for your own purposes, that "
 "is ok with us.  We recommend using <code>mod_proxy</code>.  Here is an "
@@ -602,7 +593,7 @@ msgstr ""
 "<code>&lt;VirtualHost&gt;</code>:"
 
 # TRADUTOR, cuidado que as aspas aqui NÃO PODEM ser aspas duplas curvadas
-#. type: Content of: <pre>
+#. type: Content of: <div><pre>
 #, no-wrap
 msgid ""
 "ServerName gnumirror.example.org\n"
@@ -617,7 +608,7 @@ msgstr ""
 "ProxyPass / http://www.gnu.org/\n"
 "CacheEnable disk /\n"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "(Thanks to Juri Hoerner for providing this Apache information.)"
 msgstr "(Obrigado a Juri Hoerner por fornecer essa informação sobre o Apache.)"
 
@@ -647,14 +638,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
@@ -662,8 +653,8 @@ msgstr ""
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas deste site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -694,6 +685,222 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid "<code>rsync://ftp.gnu.org/alpha/</code> (USA - primary site)"
+#~ msgstr "<code>rsync://ftp.gnu.org/alpha/</code> (EUA - site principal)"
+
+#~ msgid "<code>rsync://mirrors.sarata.com/gnu-alpha/</code> (USA - Arizona)"
+#~ msgstr "<code>rsync://mirrors.sarata.com/gnu-alpha/</code> (EUA - Arizona)"
+
+#~ msgid "<code>rsync://gnualpha.freemirror.org/gnualpha</code> (Canada)"
+#~ msgstr "<code>rsync://gnualpha.freemirror.org/gnualpha</code> (Canadá)"
+
+#~ msgid "<code>rsync://gnu.c3sl.ufpr.br/gnu/alpha/</code> (Brazil)"
+#~ msgstr "<code>rsync://gnu.c3sl.ufpr.br/gnu/alpha/</code> (Brasil)"
+
+#~ msgid "<code>rsync://mirror.cedia.org.ec/gnualpha</code> (Ecuador)"
+#~ msgstr "<code>rsync://mirror.cedia.org.ec/gnualpha</code> (Equador)"
+
+#~ msgid "<code>rsync://mirror.kumi.systems/gnualpha/</code> (Austria)"
+#~ msgstr "<code>rsync://mirror.kumi.systems/gnualpha/</code> (Áustria)"
+
+#~ msgid ""
+#~ "<code>rsync://ftp.funet.fi/ftp/pub/mirrors/alpha.gnu.org/gnu/</code> "
+#~ "(Finland)"
+#~ msgstr ""
+#~ "<code>rsync://ftp.funet.fi/ftp/pub/mirrors/alpha.gnu.org/gnu/</code> "
+#~ "(Finlândia)"
+
+#~ msgid "<code>rsync://rsync.cyberbits.eu/gnu/alpha/</code> (France)"
+#~ msgstr "<code>rsync://rsync.cyberbits.eu/gnu/alpha/</code> (França)"
+
+#~ msgid "<code>rsync://de.freedif.org/alpha/</code> (Germany)"
+#~ msgstr "<code>rsync://de.freedif.org/alpha/</code> (Alemanha)"
+
+#~ msgid "<code>rsync://quantum-mirror.hu/gnualpha/</code> (Hungary)"
+#~ msgstr "<code>rsync://quantum-mirror.hu/gnualpha/</code> (Hungria)"
+
+#, fuzzy
+#~| msgid "<code>rsync://mirrors.mivocloud.com/gnu/</code> (Moldova)"
+#~ msgid "<code>rsync://mirror.ihost.md/gnu-alpha</code> (Moldova)"
+#~ msgstr "<code>rsync://mirrors.mivocloud.com/gnu/</code> (Moldávia)"
+
+#~ msgid "<code>rsync://gnualpha.uib.no/gnualpha/</code> (Norway)"
+#~ msgstr "<code>rsync://gnualpha.uib.no/gnualpha/</code> (Noruega)"
+
+#~ msgid "<code>rsync://mirrors.up.pt/pub/gnu-alpha/</code> (Portugal)"
+#~ msgstr "<code>rsync://mirrors.up.pt/pub/gnu-alpha/</code> (Portugal)"
+
+#~ msgid "<code>rsync://ftp.acc.umu.se/mirror/gnu.org/alpha/</code> (Sweden)"
+#~ msgstr "<code>rsync://ftp.acc.umu.se/mirror/gnu.org/alpha/</code> (Suécia)"
+
+#~ msgid "<code>rsync://rsync.mirrorservice.org/alpha.gnu.org/gnu/</code> (UK)"
+#~ msgstr ""
+#~ "<code>rsync://rsync.mirrorservice.org/alpha.gnu.org/gnu/</code> (Reino "
+#~ "Unido)"
+
+#~ msgid ""
+#~ "<code>rsync://alpha-gnu-org.ip-connect.vn.ua/alpha.gnu.org/</code> "
+#~ "(Ukraine)"
+#~ msgstr ""
+#~ "<code>rsync://alpha-gnu-org.ip-connect.vn.ua/alpha.gnu.org/</code> "
+#~ "(Ucrânia)"
+
+#~ msgid "<code>rsync://mirror.ufs.ac.za/gnu</code> (South Africa)"
+#~ msgstr "<code>rsync://mirror.ufs.ac.za/gnu</code> (África do Sul)"
+
+#~ msgid "<code>rsync://mirror.marwan.ma/gnu/</code> (Morocco)"
+#~ msgstr "<code>rsync://mirror.marwan.ma/gnu/</code> (Marrocos)"
+
+#~ msgid "<code>rsync://gnu.mirror.iweb.com/gnu</code> (Canada)"
+#~ msgstr "<code>rsync://gnu.mirror.iweb.com/gnu</code> (Canadá)"
+
+#~ msgid "<code>rsync://mirror.sergal.org/gnu</code> (Canada)"
+#~ msgstr "<code>rsync://mirror.sergal.org/gnu</code> (Canadá)"
+
+#~ msgid "<code>rsync://mirror.its.dal.ca/gnu</code> (Canada)"
+#~ msgstr "<code>rsync://mirror.its.dal.ca/gnu</code> (Canadá)"
+
+#~ msgid "<code>rsync://mirror.csclub.uwaterloo.ca/gnu/</code> (Canada)"
+#~ msgstr "<code>rsync://mirror.csclub.uwaterloo.ca/gnu/</code> (Canadá)"
+
+#~ msgid "<code>rsync://gnu.freemirror.org/gnu</code> (Canada)"
+#~ msgstr "<code>rsync://gnu.freemirror.org/gnu</code> (Canadá)"
+
+#~ msgid "<code>rsync://mirror2.evolution-host.com/gnu</code> (Canada)"
+#~ msgstr "<code>rsync://mirror2.evolution-host.com/gnu</code> (Canadá)"
+
+#~ msgid "<code>rsync://mirrors.sarata.com/gnu/</code> (Arizona, USA)"
+#~ msgstr "<code>rsync://mirrors.sarata.com/gnu/</code> (Arizona, EUA)"
+
+#~ msgid "<code>rsync://mirror.keystealth.org/gnu/</code> (California, USA)"
+#~ msgstr "<code>rsync://mirror.keystealth.org/gnu/</code> (Califórnia, EUA)"
+
+#~ msgid "<code>rsync://mirrors.ocf.berkeley.edu/gnu/</code> (California, USA)"
+#~ msgstr ""
+#~ "<code>rsync://mirrors.ocf.berkeley.edu/gnu/</code> (Califórnia, EUA)"
+
+#~ msgid "<code>rsync://mirrors.syringanetworks.net/gnu/</code> (Idaho, USA)"
+#~ msgstr "<code>rsync://mirrors.syringanetworks.net/gnu/</code> (Idaho, EUA)"
+
+#~ msgid "<code>rsync://mirror.team-cymru.com/gnu/</code> (Illinois, USA)"
+#~ msgstr "<code>rsync://mirror.team-cymru.com/gnu/</code> (Ilinóis, EUA)"
+
+#~ msgid "<code>rsync://mirror.leifrogers.com/gnu/gnu/</code> (Indiana, USA)"
+#~ msgstr "<code>rsync://mirror.leifrogers.com/gnu/gnu/</code> (Indiana, EUA)"
+
+#~ msgid ""
+#~ "<code>rsync://mirrors.tripadvisor.com/gnu/</code> (Massachusetts, USA)"
+#~ msgstr ""
+#~ "<code>rsync://mirrors.tripadvisor.com/gnu/</code> (Massachusetts, EUA)"
+
+#~ msgid "<code>rsync://mirror.clarkson.edu/gnu/</code> (New York, USA)"
+#~ msgstr "<code>rsync://mirror.clarkson.edu/gnu/</code> (Nova York, EUA)"
+
+#~ msgid "<code>rsync://mirror.nbtelecom.com.br/gnu/</code> (Brazil)"
+#~ msgstr "<code>rsync://mirror.nbtelecom.com.br/gnu/</code> (Brasil)"
+
+#~ msgid "<code>rsync://gnu.c3sl.ufpr.br/gnu/ftp/</code> (Brazil)"
+#~ msgstr "<code>rsync://gnu.c3sl.ufpr.br/gnu/ftp/</code> (Brasil)"
+
+#~ msgid "<code>rsync://mirror.cedia.org.ec/gnu</code> (Ecuador)"
+#~ msgstr "<code>rsync://mirror.cedia.org.ec/gnu</code> (Equador)"
+
+#~ msgid "<code>rsync://mirrors.ustc.edu.cn/gnu/</code> (China)"
+#~ msgstr "<code>rsync://mirrors.ustc.edu.cn/gnu/</code> (China)"
+
+#~ msgid "<code>rsync://mirrors.tuna.tsinghua.edu.cn/gnu/</code> (China)"
+#~ msgstr "<code>rsync://mirrors.tuna.tsinghua.edu.cn/gnu/</code> (China)"
+
+#~ msgid "<code>rsync://mirror-hk.koddos.net/gnu/</code> (Hong Kong)"
+#~ msgstr "<code>rsync://mirror-hk.koddos.net/gnu/</code> (Hong Kong)"
+
+#~ msgid "<code>rsync://ftp.jaist.ac.jp/pub/GNU/</code> (Japan)"
+#~ msgstr "<code>rsync://ftp.jaist.ac.jp/pub/GNU/</code> (Japão)"
+
+#~ msgid "<code>rsync://mirror.jre655.com/GNU</code> (Japan)"
+#~ msgstr "<code>rsync://mirror.jre655.com/GNU</code> (Japão)"
+
+#~ msgid "<code>rsync://ftp.kaist.ac.kr/gnu/</code> (Korea)"
+#~ msgstr "<code>rsync://ftp.kaist.ac.kr/gnu/</code> (Coreia)"
+
+#~ msgid "<code>rsync://mirror.ossplanet.net/gnu</code> (Taiwan)"
+#~ msgstr "<code>rsync://mirror.ossplanet.net/gnu</code> (Taiwan)"
+
+#~ msgid "<code>rsync://mirror.kumi.systems/gnu/</code> (Austria)"
+#~ msgstr "<code>rsync://mirror.kumi.systems/gnu/</code> (Áustria)"
+
+#~ msgid "<code>rsync://ftp.funet.fi/ftp/pub/gnu/prep/</code> (Finland)"
+#~ msgstr "<code>rsync://ftp.funet.fi/ftp/pub/gnu/prep/</code> (Finlândia)"
+
+#~ msgid "<code>rsync://rsync.cyberbits.eu/gnu/</code> (France)"
+#~ msgstr "<code>rsync://rsync.cyberbits.eu/gnu/</code> (França)"
+
+#~ msgid "<code>rsync://mirror.clientvps.com/gnu</code> (Germany)"
+#~ msgstr "<code>rsync://mirror.clientvps.com/gnu</code> (Alemanha)"
+
+#~ msgid "<code>rsync://de.freedif.org/gnu/</code> (Germany)"
+#~ msgstr "<code>rsync://de.freedif.org/gnu/</code> (Alemanha)"
+
+#~ msgid "<code>rsync://ftp.fau.de/gnu</code> (Germany)"
+#~ msgstr "<code>rsync://ftp.fau.de/gnu</code> (Alemanha)"
+
+#~ msgid "<code>rsync://ftp.halifax.rwth-aachen.de/gnu/</code> (Germany)"
+#~ msgstr "<code>rsync://ftp.halifax.rwth-aachen.de/gnu/</code> (Alemanha)"
+
+#~ msgid "<code>rsync://mirror.netcologne.de/gnu</code> (Germany)"
+#~ msgstr "<code>rsync://mirror.netcologne.de/gnu</code> (Alemanha)"
+
+#~ msgid "<code>rsync://ftp.wrz.de/pub/gnu/</code> (Germany)"
+#~ msgstr "<code>rsync://ftp.wrz.de/pub/gnu/</code> (Alemanha)"
+
+#~ msgid "<code>rsync://quantum-mirror.hu/gnu/</code> (Hungary)"
+#~ msgstr "<code>rsync://quantum-mirror.hu/gnu/</code> (Hungria)"
+
+#, fuzzy
+#~| msgid "<code>rsync://mirrors.mivocloud.com/gnu/</code> (Moldova)"
+#~ msgid "<code>rsync://mirror.ihost.md/gnu</code> (Moldova)"
+#~ msgstr "<code>rsync://mirrors.mivocloud.com/gnu/</code> (Moldávia)"
+
+#~ msgid "<code>rsync://mirrors.mivocloud.com/gnu/</code> (Moldova)"
+#~ msgstr "<code>rsync://mirrors.mivocloud.com/gnu/</code> (Moldávia)"
+
+#~ msgid "<code>rsync://mirror.lyrahosting.com/gnu</code> (Netherlands)"
+#~ msgstr "<code>rsync://mirror.lyrahosting.com/gnu</code> (Países Baixos)"
+
+#~ msgid "<code>rsync://ftp.snt.utwente.nl/gnu/</code> (Netherlands)"
+#~ msgstr "<code>rsync://ftp.snt.utwente.nl/gnu/</code> (Países Baixos)"
+
+#~ msgid "<code>rsync://mirror.koddos.net/gnu</code> (Netherlands)"
+#~ msgstr "<code>rsync://mirror.koddos.net/gnu</code> (Países Baixos)"
+
+#~ msgid "<code>rsync://gnuftp.uib.no/gnuftp/</code> (Norway)"
+#~ msgstr "<code>rsync://gnuftp.uib.no/gnuftp/</code> (Noruega)"
+
+#~ msgid "<code>rsync://mirrors.up.pt/pub/gnu/</code> (Portugal)"
+#~ msgstr "<code>rsync://mirrors.up.pt/pub/gnu/</code> (Portugal)"
+
+#~ msgid "<code>rsync://mirrors.nav.ro/gnu</code> (Romania)"
+#~ msgstr "<code>rsync://mirrors.nav.ro/gnu</code> (Romênia)"
+
+#~ msgid "<code>rsync://mirror.sbb.rs/gnu/</code> (Serbia)"
+#~ msgstr "<code>rsync://mirror.sbb.rs/gnu/</code> (Sérvia)"
+
+#~ msgid "<code>rsync://ftp.acc.umu.se/mirror/gnu.org/gnu/</code> (Sweden)"
+#~ msgstr "<code>rsync://ftp.acc.umu.se/mirror/gnu.org/gnu/</code> (Suécia)"
+
+#~ msgid "<code>rsync://rsync.mirrorservice.org/ftp.gnu.org/gnu/</code> (UK)"
+#~ msgstr ""
+#~ "<code>rsync://rsync.mirrorservice.org/ftp.gnu.org/gnu/</code> (Reino "
+#~ "Unido)"
+
+#~ msgid ""
+#~ "<code>rsync://ftp-gnu-org.ip-connect.vn.ua/ftp.gnu.org/</code> (Ukraine)"
+#~ msgstr ""
+#~ "<code>rsync://ftp-gnu-org.ip-connect.vn.ua/ftp.gnu.org/</code> (Ucrânia)"
+
+#~ msgid "<code>rsync://mirror.lagoon.nc/gnu/</code> (New Caledonia)"
+#~ msgstr "<code>rsync://mirror.lagoon.nc/gnu/</code> (Nova Caledônia)"
 
 #~ msgid "<code>rsync://mirrors.gethosted.online/gnu</code> (UK)"
 #~ msgstr "<code>rsync://mirrors.gethosted.online/gnu</code> (Reino Unido)"

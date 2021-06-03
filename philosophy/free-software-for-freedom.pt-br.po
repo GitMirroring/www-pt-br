@@ -1,14 +1,14 @@
 # Brazilian Portuguese translation of https://www.gnu.org/philosophy/free-software-for-freedom.html
-# Copyright (C) 2020 Free Software Foundation, Inc.
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Cassiano Reinert Novais dos Santos <caco@posteo.net>, 2019. (#15214)
-# Rafael Fontenelle <rafaelff@gnome.org>, 2019-2020.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2019-2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: free-software-for-freedom.html\n"
 "POT-Creation-Date: 2020-10-26 13:25+0000\n"
-"PO-Revision-Date: 2020-12-13 18:25-0300\n"
+"PO-Revision-Date: 2021-05-03 10:15-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1)\n"
-"X-Generator: Gtranslator 3.38.0\n"
+"X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -137,7 +137,7 @@ msgstr ""
 "concordamos mais ou menos nas recomendações práticas. Portanto, podemos e "
 "trabalhamos juntos em muitos projetos específicos. Nós não pensamos no "
 "movimento Código Aberto como um inimigo. O inimigo é <a href=\"/philosophy/"
-"categories.html#ProprietarySoftware\">o software proprietário</a>."
+"categories.html#ProprietarySoftware\">o software privativo</a>."
 
 #. type: Content of: <p>
 msgid ""
@@ -245,7 +245,7 @@ msgstr ""
 "No entanto, o significado óbvio para a expressão “software de código aberto” "
 "é “Você pode ver o código-fonte”. Este é um critério muito mais fraco que o "
 "software livre; inclui software livre, mas também alguns programas <a href="
-"\"/philosophy/categories.html#ProprietarySoftware\">proprietários</a>, "
+"\"/philosophy/categories.html#ProprietarySoftware\">privativos</a>, "
 "incluindo Xv e Qt sob sua licença original (antes da QPL)."
 
 #. type: Content of: <p>
@@ -386,13 +386,13 @@ msgid ""
 "plenty of freedom talk too."
 msgstr ""
 "Mais cedo ou mais tarde, esses usuários serão convidados a voltar ao "
-"software proprietário por alguma vantagem prática. Inúmeras empresas "
-"procuram oferecer essa tentação e por que os usuários recusariam? Somente se "
-"eles aprenderam a <em>valorizar a liberdade</em> que o software livre lhes "
-"dá, por si só. Cabe a nós espalhar essa ideia &ndash; e, para fazer isso, "
-"temos que falar sobre liberdade. Uma certa quantidade da abordagem de "
-"“manter silêncio” para os negócios pode ser útil para a comunidade, mas "
-"também precisamos ter muita conversa sobre liberdade."
+"software privativo por alguma vantagem prática. Inúmeras empresas procuram "
+"oferecer essa tentação e por que os usuários recusariam? Somente se eles "
+"aprenderam a <em>valorizar a liberdade</em> que o software livre lhes dá, "
+"por si só. Cabe a nós espalhar essa ideia &ndash; e, para fazer isso, temos "
+"que falar sobre liberdade. Uma certa quantidade da abordagem de “manter "
+"silêncio” para os negócios pode ser útil para a comunidade, mas também "
+"precisamos ter muita conversa sobre liberdade."
 
 #. type: Content of: <p>
 msgid ""
@@ -410,9 +410,9 @@ msgstr ""
 "sobre liberdade &ndash; geralmente porque elas procuram ser “mais aceitáveis "
 "para os negócios”. Distribuidores de software mostram especialmente esse "
 "padrão. Algumas distribuições do sistema operacional <a href=\"/gnu/linux-"
-"and-gnu.html\">GNU/Linux</a> adicionam pacotes proprietários ao sistema "
-"livre básico e convidam os usuários a considerarem isso uma vantagem, em vez "
-"de um passo para trás da liberdade."
+"and-gnu.html\">GNU/Linux</a> adicionam pacotes privativos ao sistema livre "
+"básico e convidam os usuários a considerarem isso uma vantagem, em vez de um "
+"passo para trás da liberdade."
 
 #. type: Content of: <p>
 msgid ""
@@ -521,7 +521,7 @@ msgid ""
 msgstr ""
 "E aqui está como a Cygnus Solutions, que foi formada para ser uma empresa de "
 "software livre e posteriormente ramificada (por assim dizer) em software "
-"proprietário, anunciou alguns produtos de software proprietários:"
+"privativo, anunciou alguns produtos de software privativo:"
 
 #. type: Content of: <blockquote><p>
 msgid ""
@@ -583,7 +583,7 @@ msgstr ""
 "No encontro “Open Source Developers Day” em agosto de 1998, vários "
 "desenvolvedores comerciais disseram que pretendem fazer apenas parte de seu "
 "trabalho software livre (ou “código aberto”). O foco de seus negócios está "
-"no desenvolvimento de complementos proprietários (software ou <a href=\"/"
+"no desenvolvimento de complementos privativos (software ou <a href=\"/"
 "philosophy/free-doc.html\">manuais</a>) para vender aos usuários deste "
 "software livre. Eles nos pedem para considerar isso como legítimo, como "
 "parte de nossa comunidade, porque parte do dinheiro é doado para o "
@@ -600,10 +600,10 @@ msgid ""
 "work as the community would stand for.)"
 msgstr ""
 "Na prática, essas empresas buscam obter o favorável selo de “código aberto” "
-"para seus produtos de software proprietários &ndash; mesmo que esses não "
-"sejam “softwares de código aberto”, porque eles têm alguma relação com o "
-"software livre ou porque a mesma empresa também mantém algum software livre. "
-"(Um fundador de empresa disse explicitamente que eles colocariam, no pacote "
+"para seus produtos de software privativo &ndash; mesmo que esses não sejam "
+"“softwares de código aberto”, porque eles têm alguma relação com o software "
+"livre ou porque a mesma empresa também mantém algum software livre. (Um "
+"fundador de empresa disse explicitamente que eles colocariam, no pacote "
 "livre que eles apoiam, o mínimo do trabalho que a comunidade exigiria.)"
 
 #. type: Content of: <p>

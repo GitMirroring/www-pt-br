@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ftp.html\n"
-"POT-Creation-Date: 2021-04-24 13:55+0000\n"
-"PO-Revision-Date: 2021-05-03 07:31-0300\n"
+"POT-Creation-Date: 2021-05-31 15:55+0000\n"
+"PO-Revision-Date: 2021-05-30 16:37-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -62,7 +62,7 @@ msgstr ""
 "responsabilidade por qualquer pessoa pelas consequências de seu uso ou por "
 "servir a algum propósito específico ou funcionar, a menos que seja "
 "solicitado por escrito. Essa é exatamente a mesma garantia que as empresas "
-"de software proprietárias oferecem: nenhuma."
+"de software proprietário oferecem: nenhuma."
 
 #. type: Content of: <div>
 msgid "<a id=\"general_download_information\"></a>"
@@ -721,18 +721,18 @@ msgstr "Marrocos"
 
 #. type: Content of: <div><ul><li><ul><li>
 msgid ""
-"<a rel=\"nofollow\" href=\"http://mirror.marwan.ma/gnu/\">http://mirror."
+"<a rel=\"nofollow\" href=\"https://mirror.marwan.ma/gnu/\">https://mirror."
 "marwan.ma/gnu/</a>"
 msgstr ""
-"<a rel=\"nofollow\" href=\"http://mirror.marwan.ma/gnu/\">http://mirror."
+"<a rel=\"nofollow\" href=\"https://mirror.marwan.ma/gnu/\">https://mirror."
 "marwan.ma/gnu/</a>"
 
 #. type: Content of: <div><ul><li><ul><li>
 msgid ""
-"<a rel=\"nofollow\" href=\"https://mirror.marwan.ma/gnu/\">https://mirror."
+"<a rel=\"nofollow\" href=\"http://mirror.marwan.ma/gnu/\">http://mirror."
 "marwan.ma/gnu/</a>"
 msgstr ""
-"<a rel=\"nofollow\" href=\"https://mirror.marwan.ma/gnu/\">https://mirror."
+"<a rel=\"nofollow\" href=\"http://mirror.marwan.ma/gnu/\">http://mirror."
 "marwan.ma/gnu/</a>"
 
 #. type: Content of: <div><ul><li><ul><li>
@@ -741,19 +741,19 @@ msgstr "rsync://mirror.marwan.ma/gnu/"
 
 #. type: Content of: <div><ul><li><ul><li>
 msgid ""
-"(alpha)  <a rel=\"nofollow\" href=\"http://mirror.marwan.ma/gnualpha/"
-"\">http://mirror.marwan.ma/gnualpha/</a>"
+"(alpha)  <a rel=\"nofollow\" href=\"https://mirror.marwan.ma/gnualpha/"
+"\">https://mirror.marwan.ma/gnualpha/</a>"
 msgstr ""
-"(alpha)  <a rel=\"nofollow\" href=\"http://mirror.marwan.ma/gnualpha/"
-"\">http://mirror.marwan.ma/gnualpha/</a>"
+"(alpha)  <a rel=\"nofollow\" href=\"https://mirror.marwan.ma/gnualpha/"
+"\">https://mirror.marwan.ma/gnualpha/</a>"
 
 #. type: Content of: <div><ul><li><ul><li>
 msgid ""
-"(alpha)  <a rel=\"nofollow\" href=\"https://mirror.marwan.ma/gnualpha/"
-"\">https://mirror.marwan.ma/gnualpha/</a>"
+"(alpha)  <a rel=\"nofollow\" href=\"http://mirror.marwan.ma/gnualpha/"
+"\">http://mirror.marwan.ma/gnualpha/</a>"
 msgstr ""
-"(alpha)  <a rel=\"nofollow\" href=\"https://mirror.marwan.ma/gnualpha/"
-"\">https://mirror.marwan.ma/gnualpha/</a>"
+"(alpha)  <a rel=\"nofollow\" href=\"http://mirror.marwan.ma/gnualpha/"
+"\">http://mirror.marwan.ma/gnualpha/</a>"
 
 #. type: Content of: <div><ul><li><ul><li>
 msgid "rsync://mirror.marwan.ma/gnualpha/"
@@ -1382,10 +1382,6 @@ msgid ""
 msgstr ""
 "<a rel=\"nofollow\" href=\"http://mirror.clientvps.com/gnu/\">http://mirror."
 "clientvps.com/gnu/</a>"
-
-#. type: Content of: <div><ul><li><ul><li>
-msgid "rsync://mirror.clientvps.com/gnu"
-msgstr "rsync://mirror.clientvps.com/gnu"
 
 #. type: Content of: <div><ul><li><ul><li>
 msgid ""
@@ -2189,6 +2185,46 @@ msgstr "Reino Unido"
 
 #. type: Content of: <div><ul><li><ul><li>
 msgid ""
+"<a rel=\"nofollow\" href=\"https://mirrors.gethosted.online/gnu\">https://"
+"mirrors.gethosted.online/gnu</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"https://mirrors.gethosted.online/gnu\">https://"
+"mirrors.gethosted.online/gnu</a>"
+
+#. type: Content of: <div><ul><li><ul><li>
+msgid ""
+"<a rel=\"nofollow\" href=\"http://mirrors.gethosted.online/gnu\">http://"
+"mirrors.gethosted.online/gnu</a>"
+msgstr ""
+"<a rel=\"nofollow\" href=\"http://mirrors.gethosted.online/gnu\">http://"
+"mirrors.gethosted.online/gnu</a>"
+
+#. type: Content of: <div><ul><li><ul><li>
+msgid "rsync://mirrors.gethosted.online/gnu"
+msgstr "rsync://mirrors.gethosted.online/gnu"
+
+#. type: Content of: <div><ul><li><ul><li>
+msgid ""
+"(alpha)  <a rel=\"nofollow\" href=\"https://mirrors.gethosted.online/gnu-"
+"alpha\">https://mirrors.gethosted.online/gnu-alpha</a>"
+msgstr ""
+"(alpha)  <a rel=\"nofollow\" href=\"https://mirrors.gethosted.online/gnu-"
+"alpha\">https://mirrors.gethosted.online/gnu-alpha</a>"
+
+#. type: Content of: <div><ul><li><ul><li>
+msgid ""
+"(alpha)  <a rel=\"nofollow\" href=\"http://mirrors.gethosted.online/gnu-alpha"
+"\">http://mirrors.gethosted.online/gnu-alpha</a>"
+msgstr ""
+"(alpha)  <a rel=\"nofollow\" href=\"http://mirrors.gethosted.online/gnu-alpha"
+"\">http://mirrors.gethosted.online/gnu-alpha</a>"
+
+#. type: Content of: <div><ul><li><ul><li>
+msgid "rsync://mirrors.gethosted.online/gnu-alpha"
+msgstr "rsync://mirrors.gethosted.online/gnu-alpha"
+
+#. type: Content of: <div><ul><li><ul><li>
+msgid ""
 "<a rel=\"nofollow\" href=\"https://www.mirrorservice.org/sites/ftp.gnu.org/"
 "gnu/\">https://www.mirrorservice.org/sites/ftp.gnu.org/gnu/</a>"
 msgstr ""
@@ -2246,22 +2282,6 @@ msgid ""
 msgstr ""
 "<a rel=\"nofollow\" href=\"https://ftp.gnu.org.ua/gnu/\">https://ftp.gnu.org."
 "ua/gnu/</a>"
-
-#. type: Content of: <div><ul><li><ul><li>
-msgid ""
-"<a rel=\"nofollow\" href=\"http://ftp.gnu.org.ua/gnu/\">http://ftp.gnu.org."
-"ua/gnu/</a>"
-msgstr ""
-"<a rel=\"nofollow\" href=\"http://ftp.gnu.org.ua/gnu/\">http://ftp.gnu.org."
-"ua/gnu/</a>"
-
-#. type: Content of: <div><ul><li><ul><li>
-msgid ""
-"<a rel=\"nofollow\" href=\"ftp://ftp.gnu.org.ua/gnu/\">ftp://ftp.gnu.org.ua/"
-"gnu/</a>"
-msgstr ""
-"<a rel=\"nofollow\" href=\"ftp://ftp.gnu.org.ua/gnu/\">ftp://ftp.gnu.org.ua/"
-"gnu/</a>"
 
 #. type: Content of: <div><ul><li><ul><li>
 msgid ""
@@ -2412,29 +2432,32 @@ msgstr ""
 msgid "Updated:"
 msgstr "Última atualização:"
 
+#~ msgid "rsync://mirror.clientvps.com/gnu"
+#~ msgstr "rsync://mirror.clientvps.com/gnu"
+
+#~ msgid "Copyright &copy; 2014-2021, 2021 Free Software Foundation, Inc."
+#~ msgstr "Copyright &copy; 2014-2021, 2021 Free Software Foundation, Inc."
+
+#~ msgid ""
+#~ "<a rel=\"nofollow\" href=\"http://ftp.gnu.org.ua/gnu/\">http://ftp.gnu."
+#~ "org.ua/gnu/</a>"
+#~ msgstr ""
+#~ "<a rel=\"nofollow\" href=\"http://ftp.gnu.org.ua/gnu/\">http://ftp.gnu."
+#~ "org.ua/gnu/</a>"
+
+#~ msgid ""
+#~ "<a rel=\"nofollow\" href=\"ftp://ftp.gnu.org.ua/gnu/\">ftp://ftp.gnu.org."
+#~ "ua/gnu/</a>"
+#~ msgstr ""
+#~ "<a rel=\"nofollow\" href=\"ftp://ftp.gnu.org.ua/gnu/\">ftp://ftp.gnu.org."
+#~ "ua/gnu/</a>"
+
 #~ msgid ""
 #~ "<a rel=\"nofollow\" href=\"http://mirrors.ibiblio.org/pub/mirrors/gnu/ftp/"
 #~ "gnu/\">http://mirrors.ibiblio.org/pub/mirrors/gnu/ftp/gnu/</a>"
 #~ msgstr ""
 #~ "<a rel=\"nofollow\" href=\"http://mirrors.ibiblio.org/pub/mirrors/gnu/ftp/"
 #~ "gnu/\">http://mirrors.ibiblio.org/pub/mirrors/gnu/ftp/gnu/</a>"
-
-#~ msgid ""
-#~ "<a rel=\"nofollow\" href=\"https://mirrors.gethosted.online/gnu\">https://"
-#~ "mirrors.gethosted.online/gnu</a>"
-#~ msgstr ""
-#~ "<a rel=\"nofollow\" href=\"https://mirrors.gethosted.online/gnu\">https://"
-#~ "mirrors.gethosted.online/gnu</a>"
-
-#~ msgid ""
-#~ "<a rel=\"nofollow\" href=\"http://mirrors.gethosted.online/gnu\">http://"
-#~ "mirrors.gethosted.online/gnu</a>"
-#~ msgstr ""
-#~ "<a rel=\"nofollow\" href=\"http://mirrors.gethosted.online/gnu\">http://"
-#~ "mirrors.gethosted.online/gnu</a>"
-
-#~ msgid "rsync://mirrors.gethosted.online/gnu"
-#~ msgstr "rsync://mirrors.gethosted.online/gnu"
 
 #~ msgid ""
 #~ "<a rel=\"nofollow\" href=\"http://mirror.inode.at/gnu/\">http://mirror."

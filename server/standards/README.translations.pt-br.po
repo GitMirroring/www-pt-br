@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: README.translations.html\n"
-"POT-Creation-Date: 2021-04-27 12:55+0000\n"
-"PO-Revision-Date: 2021-05-03 07:35-0300\n"
+"POT-Creation-Date: 2021-05-16 06:55+0000\n"
+"PO-Revision-Date: 2021-05-30 16:36-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -22,16 +22,12 @@ msgid ""
 "Guide to Translating Web Pages on www.gnu.org - GNU Project - Free Software "
 "Foundation"
 msgstr ""
-"Guia para a Tradução de Páginas Web no www.gnu.org - Projeto GNU - Free "
+"Guia para a tradução de páginas web no www.gnu.org - Projeto GNU - Free "
 "Software Foundation"
 
 #. type: Content of: <h2>
 msgid "Guide to Translating Web Pages on www.gnu.org"
-msgstr "Guia para a Tradução de Páginas Web no www.gnu.org"
-
-#. type: Content of: <h3>
-msgid "Introduction"
-msgstr "Introdução"
+msgstr "Guia para a tradução de páginas web no www.gnu.org"
 
 #. type: Content of: <p>
 msgid ""
@@ -81,7 +77,7 @@ msgstr ""
 "sobre GNUN, mas você pode ajudar em mais níveis se você souber como usá-lo."
 
 #. type: Content of: <h3>
-msgid "Who can help"
+msgid "Who can Help"
 msgstr "Quem pode ajudar"
 
 #. type: Content of: <p>
@@ -148,11 +144,11 @@ msgstr ""
 
 #. type: Content of: <h3>
 msgid "How to Participate"
-msgstr "Como Participar"
+msgstr "Como participar"
 
 #. type: Content of: <dl><dt>
 msgid "As a Team Member"
-msgstr "Como um Membro da Equipe"
+msgstr "Como um membro da equipe"
 
 #. type: Content of: <dl><dd>
 msgid ""
@@ -164,7 +160,7 @@ msgid ""
 "don't get an answer in two weeks, write to the Translations Manager <a href="
 "\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</a>."
 msgstr ""
-"Por favor, leia o <a href=\"#general-guide\">Guia Geral para Traduções</a> "
+"Por favor, leia o <a href=\"#general-guide\">Guia geral para traduções</a> "
 "abaixo e, então, contate a <a href=\"#teams\">equipe de tradução</a> "
 "relevante. Cada equipe possui seu próprio sistema de organização de "
 "tradução. Então, para se juntar a uma equipe existente, você precisa obter "
@@ -175,7 +171,7 @@ msgstr ""
 
 #. type: Content of: <dl><dt>
 msgid "As an Occasional Contributor"
-msgstr "Como um Colaborador Ocasional"
+msgstr "Como um colaborador ocasional"
 
 #. type: Content of: <dl><dd>
 msgid ""
@@ -188,15 +184,15 @@ msgid ""
 "language."
 msgstr ""
 "Se você deseja apenas enviar uma nova tradução e não está interessado em "
-"colaborar regularmente, siga o <a href=\"#general-guide\">Guia Geral para "
-"Traduções</a> abaixo e, então, envie sua tradução para o <a href=\"#teams"
+"colaborar regularmente, siga o <a href=\"#general-guide\">Guia geral para "
+"traduções</a> abaixo e, então, envie sua tradução para o <a href=\"#teams"
 "\">Coordenador de Equipe</a> apropriado, se houver um, ou para o Gerente de "
 "Traduções <a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu."
 "org&gt;</a>, se não houver equipe ou coordenador para seu idioma."
 
 #. type: Content of: <dl><dt>
 msgid "As a Team Coordinator"
-msgstr "Como um Coordenador de Equipe"
+msgstr "Como um coordenador de equipe"
 
 #. type: Content of: <dl><dd>
 msgid ""
@@ -209,12 +205,12 @@ msgstr ""
 "Se não houver uma equipe estabelecida para seu idioma ou um novo Coordenador "
 "de Equipe for necessário, nós ficaremos felizes em lhe conceder tal função, "
 "se você aceitar tal tarefa. Como um coordenador, você precisará o <a href="
-"\"#general-guide\">Guia Geral para Traduções</a> e, o mais específico, <a "
-"href=\"#coordinator-guide\">Guia para Coordenadores de Equipe</a>."
+"\"#general-guide\">Guia geral para traduções</a> e, o mais específico, <a "
+"href=\"#coordinator-guide\">Guia para coordenadores de equipe</a>."
 
 #. type: Content of: <h3>
 msgid "General Guide for Translations"
-msgstr "Guia Geral para Traduções"
+msgstr "Guia geral para traduções"
 
 #. type: Content of: <p>
 msgid "Here are our specific goals for our translated pages."
@@ -402,6 +398,7 @@ msgstr ""
 "<strong>Digital Management of Restrictions (Gestão Digital de Restrições)</"
 "strong>."
 
+# Tradução intencionalmente errada, não corrigir para Gestão Digital de Restrições
 #. type: Content of: <ul><li><ol><li>
 msgid "Management of Digital Restrictions."
 msgstr "Management of Digital Restrictions (Gestão de Restrições Digitais)."
@@ -510,7 +507,7 @@ msgstr ""
 "Ao traduzir “surveillance”, por favor certifique-se de não usar uma palavra "
 "que poderia ser interpretada como um “monitoramento benevolente”. Se não "
 "houver um termo especializado, a palavra que significa “spying” pode ser "
-"adequada no contexto de software proprietário."
+"adequada no contexto de software privativo."
 
 #. type: Content of: <p>
 msgid ""
@@ -559,7 +556,7 @@ msgstr ""
 
 #. type: Content of: <h4>
 msgid "Licensing of Translations"
-msgstr "Licenciamento de Traduções"
+msgstr "Licenciamento de traduções"
 
 #. type: Content of: <p>
 msgid ""
@@ -585,7 +582,7 @@ msgstr ""
 
 #. type: Content of: <h4>
 msgid "What to Translate"
-msgstr "O Que Traduzir"
+msgstr "O que traduzir"
 
 #. type: Content of: <p>
 msgid ""
@@ -608,7 +605,7 @@ msgstr ""
 
 #. type: Content of: <h4>
 msgid "Translators Manual"
-msgstr "Manual de Tradutores"
+msgstr "Manual de tradutores"
 
 #. type: Content of: <p>
 msgid ""
@@ -626,7 +623,7 @@ msgstr ""
 
 #. type: Content of: <h3>
 msgid "Guide for Team Coordinators"
-msgstr "Guia para Coordenadores de Equipe"
+msgstr "Guia para coordenadores de equipe"
 
 #. type: Content of: <p>
 msgid ""
@@ -670,8 +667,8 @@ msgid ""
 "po file contains the original text and its translation, divided in "
 "paragraphs. This is how we do it:"
 msgstr ""
-"Usamos arquivos .po (Portable Object &mdash; Objeto Portátil) para processar "
-"e manter traduções. Um arquivo .po contém o texto original e sua tradução, "
+"Usamos arquivos .po (Portable Object ou Objeto Portátil) para processar e "
+"manter traduções. Um arquivo .po contém o texto original e sua tradução, "
 "dividido em parágrafos. É assim que fazemos isso:"
 
 #. type: Content of: <ul><li><p>
@@ -806,7 +803,7 @@ msgstr ""
 
 #. type: Content of: <h3>
 msgid "Translation Teams"
-msgstr "Equipes de Tradução"
+msgstr "Equipes de tradução"
 
 #. Some docs refer to this anchor
 #. type: Content of: outside any tag (error?)
@@ -942,12 +939,12 @@ msgstr ""
 #. type: Content of: <ul><li>
 msgid ""
 "<code>fa</code> - <a href=\"https://savannah.gnu.org/projects/www-fa\">Farsi/"
-"Persian</a> (<a href=\"https://savannah.gnu.org/users/esmaeeli\">Abbas "
-"Esmaeeli Some&lsquo;eh</a>)"
+"Persian</a> (<a href=\"https://savannah.gnu.org/users/bandali\">Amin "
+"Bandali</a>)"
 msgstr ""
 "<code>fa</code> - <a href=\"https://savannah.gnu.org/projects/www-fa\">Farsi/"
-"Persa</a> (<a href=\"https://savannah.gnu.org/users/esmaeeli\">Abbas "
-"Esmaeeli Some&lsquo;eh</a>)"
+"Persa</a> (<a href=\"https://savannah.gnu.org/users/bandali\">Amin Bandali</"
+"a>)"
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -1279,14 +1276,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
@@ -1294,8 +1291,8 @@ msgstr ""
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas deste site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -1327,6 +1324,28 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid "Table of Contents"
+#~ msgstr "Conteúdo"
+
+#~ msgid "<a href=\"#who\">Who can Help</a>"
+#~ msgstr "<a href=\"#who\">Quem pode ajudar</a>"
+
+#~ msgid "<a href=\"#how\">How to Participate</a>"
+#~ msgstr "<a href=\"#how\">Como participar</a>"
+
+#~ msgid "<a href=\"#general-guide\">General Guide for Translations</a>"
+#~ msgstr "<a href=\"#general-guide\">Guia geral para traduções</a>"
+
+#~ msgid "<a href=\"#coordinator-guide\">Guide for Team Coordinators</a>"
+#~ msgstr ""
+#~ "<a href=\"#coordinator-guide\">Guia para coordenadores de equipe</a>"
+
+#~ msgid "<a href=\"#teams\">Translation Teams</a>"
+#~ msgstr "<a href=\"#teams\">Equipes da tradução</a>"
+
+#~ msgid "Introduction"
+#~ msgstr "Introdução"
 
 #~ msgid ""
 #~ "<code>zh-tw</code> - <a href=\"https://savannah.gnu.org/projects/www-zh-tw"

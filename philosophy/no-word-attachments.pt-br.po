@@ -1,22 +1,22 @@
 # Brazilian Portuguese translation of https://www.gnu.org/philosophy/no-word-attachments.html
-# Copyright (C) 2020 Free Software Foundation, Inc.
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Fernando Lozano, 2002.
 # Jan 2014: GNUNify and trivially update a few strings (T. Godefroy).
-# Rafael Fontenelle <rafaelff@gnome.org>, 2017-2020.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017-2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: no-word-attachments.html\n"
 "POT-Creation-Date: 2020-01-07 17:25+0000\n"
-"PO-Revision-Date: 2020-01-07 15:04-0300\n"
+"PO-Revision-Date: 2021-05-03 10:15-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 1.0.0-beta1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -79,13 +79,13 @@ msgid ""
 "then."
 msgstr ""
 "A maioria dos usuários de computadores usam o Microsoft Word. Isto é ruim "
-"para eles, pois o Word é software proprietário, negando às pessoas a "
-"liberdade de estudar, modificar, copiar e redistribuí-lo. E, como a "
-"Microsoft muda o formato dos arquivos do Word a cada nova versão, seus "
-"usuários estão presos em um sistema que os obriga a comprar cada <i lang=\"en"
-"\">upgrade</i>, desejem eles ou não as mudanças. Eles podem até mesmo "
-"descobrir, daqui a alguns anos, que os documentos Word que eles escrevem "
-"hoje poderão não mais serem lidos pela versão que eles usarão então."
+"para eles, pois o Word é software privativo, negando às pessoas a liberdade "
+"de estudar, modificar, copiar e redistribuí-lo. E, como a Microsoft muda o "
+"formato dos arquivos do Word a cada nova versão, seus usuários estão presos "
+"em um sistema que os obriga a comprar cada <i lang=\"en\">upgrade</i>, "
+"desejem eles ou não as mudanças. Eles podem até mesmo descobrir, daqui a "
+"alguns anos, que os documentos Word que eles escrevem hoje poderão não mais "
+"serem lidos pela versão que eles usarão então."
 
 #. type: Content of: <p>
 msgid ""
@@ -277,7 +277,7 @@ msgid ""
 msgstr ""
 "Essa página fala sobre anexos do Word, já que eles são em sua maioria o caso "
 "mais comum. Porém, as mesmas questões se aplicam para outros formatos "
-"proprietários, tal como o PowerPoint e Excel. Por favor, sinta-se à vontade "
+"privativos, tal como o PowerPoint e Excel. Por favor, sinta-se à vontade "
 "para adaptar respostas para também cobrir aquelas, se você quiser."
 
 #. type: Content of: <p>
@@ -293,8 +293,8 @@ msgid ""
 "then I could read it.</em>"
 msgstr ""
 "<em>Você enviou o anexo no formato do Microsoft Word, um formato secreto e "
-"proprietário, por isso eu não posso lê-lo. Se você me enviar texto puro, "
-"HTML, ou PDF, então eu serei capaz de ler.</em>"
+"privativo, por isso eu não posso lê-lo. Se você me enviar texto puro, HTML, "
+"ou PDF, então eu serei capaz de ler.</em>"
 
 #. type: Content of: <p>
 msgid ""
@@ -326,8 +326,8 @@ msgid ""
 "PDF, then I will read it.</em>"
 msgstr ""
 "<em>Você enviou o anexo no formato do Microsoft Word, um formato secreto e "
-"proprietário, por isso eu não posso lê-lo. Se você me enviar texto puro, "
-"HTML, ou PDF, então eu serei capaz de ler.</em>"
+"privativo, por isso eu não posso lê-lo. Se você me enviar texto puro, HTML, "
+"ou PDF, então eu serei capaz de ler.</em>"
 
 #. type: Content of: <p>
 msgid ""
@@ -498,7 +498,7 @@ msgid ""
 "attachments by making a small statement in their <kbd>.signature</kbd> file:"
 msgstr ""
 "John D. Ramsdell sugere que as pessoas desencorajam o uso de anexos "
-"proprietários fazendo uma pequena declaração em seu arquivo <kbd>.signature</"
+"privativos fazendo uma pequena declaração em seu arquivo <kbd>.signature</"
 "kbd>:"
 
 #. type: Content of: <p><em>

@@ -1,16 +1,16 @@
 # Brazilian Portuguese translation of http://www.gnu.org/distros/common-distros.html
-# Copyright (C) 2020 Free Software Foundation, Inc.
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Rafael Beraldo <rberaldo@cabaladada.org>, 2012.
 # Thiago Carreira <saycusca@gmail.com>, 2012.
 # Dec 2014; trivial update of a few strings (T. Godefroy).
-# Rafael Fontenelle <rafaelff@gnome.org>, 2012-2020.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2012-2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: common-distros.html\n"
-"POT-Creation-Date: 2020-12-26 14:25+0000\n"
-"PO-Revision-Date: 2020-12-27 10:32-0300\n"
+"POT-Creation-Date: 2021-05-26 11:25+0000\n"
+"PO-Revision-Date: 2021-05-30 16:46-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1)\n"
-"X-Generator: Gtranslator 3.38.0\n"
+"X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -206,7 +206,7 @@ msgid ""
 "This too is not thoroughly separated from the main Debian distribution."
 msgstr ""
 "Também existe um repositório chamado “contrib”; seus pacotes são livres, mas "
-"alguns deles têm a função de carregar programas proprietários distribuídos "
+"alguns deles têm a função de carregar programas privativos distribuídos "
 "separadamente. Esse repositório também não é minuciosamente separado da "
 "distribuição Debian principal."
 
@@ -313,8 +313,8 @@ msgid ""
 msgstr ""
 "Manjaro inclui software não livre por meio de seus canais normais e "
 "distribui blobs não livres com seu kernel, Linux. Ele inclui uma suíte de "
-"escritório proprietária e jogos proprietários com DRM. A distro também "
-"recomenda a instalação de drivers não livres."
+"escritório privativa e jogos privativos com DRM. A distro também recomenda a "
+"instalação de drivers não livres."
 
 #. type: Content of: <h3>
 msgid "Mint GNU/Linux"
@@ -328,8 +328,8 @@ msgid ""
 msgstr ""
 "O Mint não possui uma política contra inclusão de software não livre, inclui "
 "blobs de binários não livres em drivers empacotados com o kernel e inclui "
-"programas não livres em seus repositórios. Eles até mesmo inclui codecs "
-"proprietários."
+"programas não livres em seus repositórios. Eles até mesmo incluem codecs "
+"privativos."
 
 #. type: Content of: <h3>
 msgid "openSUSE"
@@ -398,11 +398,11 @@ msgid ""
 "as well as on the proprietary software it promotes via the Steam store."
 msgstr ""
 "O SteamOS é uma versão do GNU/Linux para ser distribuída pela Valve. Ela "
-"contém software proprietário, incluindo o cliente da Steam e drivers "
-"proprietários. Steam usa <a href=\"https://www.defectivebydesign.org/"
+"contém software privativo, incluindo o cliente da Steam e drivers "
+"privativos. Steam usa <a href=\"https://www.defectivebydesign.org/"
 "what_is_drm_digital_restrictions_management\">Gestão Digital de Restrições "
 "(DRM)</a> para impôr restrições no software que ela distribui, assim como o "
-"software proprietário que ela promove por meio de sua loja, a Steam Store."
+"software privativo que ela promove por meio de sua loja, a Steam Store."
 
 #. type: Content of: <h3>
 msgid "SUSE GNU/Linux Enterprise"
@@ -450,37 +450,21 @@ msgstr ""
 
 #. type: Content of: <p>
 msgid ""
-"The &ldquo;Ubuntu Software Center&rdquo; lists proprietary programs and free "
-"programs jumbled together.  It is <a href=\"http://www.freesoftwaremagazine."
-"com/articles/"
-"ubuntu_software_center_proprietary_and_free_software_mixed_confusing_ui"
-"\">hard to tell which ones are free</a> since proprietary programs for "
-"download at no charge are labelled &ldquo;free&rdquo;."
-msgstr ""
-"A “Central de Programas Ubuntu” lista programas proprietários e programas "
-"livres de forma misturada. É <a href=\"http://www.freesoftwaremagazine.com/"
-"articles/"
-"ubuntu_software_center_proprietary_and_free_software_mixed_confusing_ui"
-"\">difícil de dizer quais deles são livres</a> já que os programas "
-"proprietários para download a custo zero estão rotulados de “free”."
-
-#. type: Content of: <p>
-msgid ""
 "Ubuntu <a href=\"https://www.ubuntu.com/legal/intellectual-property-"
 "policy#your-use-of-ubuntu\">appears to permit commercial redistribution of "
 "exact copies with the trademarks</a>; removal of the trademarks is required "
 "only for modified versions.  That is an acceptable policy for trademarks.  "
-"The same page, further down, makes a vague and ominous statement about "
-"&ldquo;Ubuntu patents,&rdquo; without giving enough details to show whether "
-"that constitutes aggression or not."
+"However, the same page, further down, makes a vague and ominous statement "
+"about &ldquo;Ubuntu patents,&rdquo; without giving enough details to show "
+"whether that constitutes aggression or not."
 msgstr ""
 "O Ubuntu <a href=\"https://www.ubuntu.com/legal/intellectual-property-"
 "policy#your-use-of-ubuntu\">parece permitir redistribuição comercial de "
 "cópias exatas com as marcas registradas</a>; remoção das marcas registradas "
 "é exigido apenas para versões modificadas. Esta é uma política aceitável "
-"para marcas registradas. A mesma página, mais embaixo, faz uma declaração "
-"vaga e ameaçadora sobre “patentes do Ubuntu”, sem fornecer detalhes "
-"suficientes para mostrar se esta constitui uma agressão ou não."
+"para marcas registradas. Porém, a mesma página, mais embaixo, faz uma "
+"declaração vaga e ameaçadora sobre “patentes do Ubuntu”, sem fornecer "
+"detalhes suficientes para mostrar se esta constitui uma agressão ou não."
 
 #. type: Content of: <p>
 msgid ""
@@ -571,8 +555,8 @@ msgid ""
 "firmware that might be loaded even by free drivers."
 msgstr ""
 "Nenhuma daquelas distribuições de BSD tem políticas contra firmware "
-"proprietário disponível apenas na forma de binário que pode ser carregada "
-"até mesmo por drivers livres."
+"privativo disponível apenas na forma de binário que pode ser carregada até "
+"mesmo por drivers livres."
 
 #. type: Content of: <h3>
 msgid "Chrome OS"
@@ -585,6 +569,41 @@ msgid ""
 msgstr ""
 "A parte central do Chrome OS é o navegador não livre Chrome. Ele também pode "
 "conter outros softwares não livres."
+
+#. type: Content of: <p>
+msgid ""
+"The rest of it is based on <a href=\"#ChromiumOS\">ChromiumOS</a>, so it "
+"also has the problems of Chromium OS, plus the nonfree parts of Android."
+msgstr ""
+"O resto é baseado no <a href=\"#ChromiumOS\">ChromiumOS</a>, então também "
+"tem os problemas do Chromium OS, além das partes não livres do Android."
+
+#. type: Content of: <h3>
+msgid "Chromium OS"
+msgstr "Chromium OS"
+
+#. type: Content of: <p>
+msgid ""
+"Chromium OS contains proprietary software, including firmware blobs and "
+"nonfree user-space binaries to support specific hardware on some computers."
+msgstr ""
+"O Chromium OS contém software proprietário, incluindo blobs de firmware e "
+"binários de espaço do usuário não livres para oferecer suporte a hardware "
+"específico em alguns computadores."
+
+#. type: Content of: <p>
+msgid ""
+"In addition, the login system surveils users, as it requires a Google "
+"account (Chromium OS does not support local accounts).  The &ldquo;"
+"guest&rdquo; session feature is not a real alternative to logging in with a "
+"Google account, because it doesn't allow persistent storage and limits the "
+"system's features."
+msgstr ""
+"Além disso, o sistema de login vigia os usuários, pois requer uma conta do "
+"Google (o Chromium OS não oferece suporte a contas locais). O recurso de "
+"sessão “convidada” não é uma alternativa real ao login com uma conta do "
+"Google, porque não permite armazenamento persistente e limita os recursos do "
+"sistema."
 
 #. type: Content of: <h3>
 msgid "/e/"
@@ -635,7 +654,7 @@ msgid ""
 "goals of the project."
 msgstr ""
 "ReactOS tem a intenção de ser um substituto livre para o Windows. Usar "
-"software proprietário e drivers feitos para o Windows é um dos objetivos "
+"software privativo e drivers feitos para o Windows é um dos objetivos "
 "declarados do projeto."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
@@ -683,12 +702,8 @@ msgstr ""
 "envio de traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid ""
-"Copyright &copy; 2014, 2015, 2016, 2017, 2018, 2019, 2020 Free Software "
-"Foundation, Inc."
-msgstr ""
-"Copyright &copy; 2014, 2015, 2016, 2017, 2018, 2019, 2020 Free Software "
-"Foundation, Inc."
+msgid "Copyright &copy; 2014-2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2014-2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -704,17 +719,39 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"<b>Tradução</b>: Rafael Beraldo\n"
+"Tradução por: Rafael Beraldo\n"
 "<a href=\"mailto:rberaldo@cabaladada.org\">&lt;rberaldo@cabaladada.org&gt;</"
 "a>, 2012;\n"
 "Rafael Fontenelle\n"
 "<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, "
-"2016-2020"
+"2016-2021"
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid ""
+#~ "Copyright &copy; 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021 Free "
+#~ "Software Foundation, Inc."
+#~ msgstr ""
+#~ "Copyright &copy; 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021 Free "
+#~ "Software Foundation, Inc."
+
+#~ msgid ""
+#~ "The &ldquo;Ubuntu Software Center&rdquo; lists proprietary programs and "
+#~ "free programs jumbled together.  It is <a href=\"http://www."
+#~ "freesoftwaremagazine.com/articles/"
+#~ "ubuntu_software_center_proprietary_and_free_software_mixed_confusing_ui"
+#~ "\">hard to tell which ones are free</a> since proprietary programs for "
+#~ "download at no charge are labelled &ldquo;free&rdquo;."
+#~ msgstr ""
+#~ "A “Central de Programas Ubuntu” lista programas privativos e programas "
+#~ "livres de forma misturada. É <a href=\"http://www.freesoftwaremagazine."
+#~ "com/articles/"
+#~ "ubuntu_software_center_proprietary_and_free_software_mixed_confusing_ui"
+#~ "\">difícil de dizer quais deles são livres</a> já que os programas "
+#~ "privativos para download a custo zero estão rotulados de “free”."
 
 #~ msgid ""
 #~ "Copyright &copy; 2014, 2015, 2016, 2017, 2018, 2019 Free Software "

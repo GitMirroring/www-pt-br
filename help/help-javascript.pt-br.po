@@ -1,0 +1,699 @@
+# Brazilian Portuguese translation of https://www.gnu.org/help/help-javascript.html
+# Copyright (C) 2021 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: help-javascript.html\n"
+"POT-Creation-Date: 2021-05-31 15:55+0000\n"
+"PO-Revision-Date: 2021-06-03 16:22-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 40.0\n"
+
+#. type: Content of: <title>
+msgid ""
+"Write site-specific extensions to replace sites' JavaScript code - GNU "
+"Project - Free Software Foundation"
+msgstr ""
+"Escreva extensões específicas de site para substituir o código JavaScript "
+"dos sites - Projeto GNU - Free Software Foundation"
+
+#. type: Content of: <div><h2>
+msgid "Write site-specific extensions to replace sites' JavaScript code"
+msgstr ""
+"Escreva extensões específicas de site para substituir o código JavaScript "
+"dos sites"
+
+#. type: Content of: <div><p>
+msgid ""
+"<em>Many websites damage users' freedom by sending <a href=\"/philosophy/"
+"javascript-trap.html\">nonfree JavaScript programs</a> to the user's "
+"browser. We invite volunteers to develop free browser extensions to replace "
+"for the JavaScript sent by particular sites (see the lists below).</em>"
+msgstr ""
+"<em>Muitos sites prejudicam a liberdade dos usuários enviando <a href=\"/"
+"philosophy/javascript-trap.html\">programas JavaScript não livres</a> para o "
+"navegador do usuário. Convidamos voluntários para desenvolver extensões de "
+"navegador livres para substituir o JavaScript enviado por sites específicos "
+"(veja as listas abaixo).</em>"
+
+#. type: Content of: <div><p>
+msgid ""
+"Our first response to the problem of nonfree JS code was to develop <a href="
+"\"/software/librejs/\">LibreJS</a>, which enables Firefox-based browsers to "
+"detect and block that code. That protects us from running a site's nonfree "
+"JS programs, but does not make the site actually function. Writing an "
+"extension for it, as we propose here, would achieve that. It would also "
+"avoid the risk inherent in running software straight off someone else's "
+"website."
+msgstr ""
+"Nossa primeira resposta ao problema do código JS não livre foi desenvolver o "
+"<a href=\"/software/librejs/\">LibreJS</a>, que permite que os navegadores "
+"baseados no Firefox detectem e bloqueiem esse código. Isso nos protege de "
+"executar programas JS não livres de um site, mas não faz com que o site "
+"realmente funcione. Escrever uma extensão para ele, como propomos aqui, "
+"conseguiria isso. Também evitaria o risco inerente à execução de software "
+"diretamente do site de outra pessoa."
+
+#. type: Content of: <div><p>
+msgid ""
+"We could also solve the problem by convincing the webmasters to correct "
+"their sites to function without the JavaScript code, but convincing them "
+"proves to be very difficult, since mostly they don't understand the issue, "
+"let alone care about it. Maybe recommending use of these extensions for "
+"their sites will convince them to pay attention to supporting non-JavaScript "
+"access."
+msgstr ""
+"Também poderíamos resolver o problema convencendo webmasters a corrigir seus "
+"sites para funcionarem sem o código JavaScript, mas este convencimento se "
+"mostra ser muito difícil, já que a maioria deles não entende o problema, "
+"muito menos se preocupa com ele. Talvez recomendar o uso dessas extensões em "
+"seus sites os convença a prestar atenção no suporte a acesso não JavaScript."
+
+#. type: Content of: <div><p>
+msgid ""
+"Therefore we invite volunteers to pick a site and write a browser extension "
+"to make that site function, assuming that LibreJS blocks the nonfree "
+"JavaScript sent by the site.  To get an idea of how to do it, you can check "
+"<a href=\"https://jahoti.tilde.team/browser-extensions/index.html\">examples "
+"of site extensions</a> that already exist."
+msgstr ""
+"Portanto, convidamos voluntários a escolher um site e escrever uma extensão "
+"de navegador para fazer esse site funcionar, supondo que o LibreJS bloqueie "
+"o JavaScript não livre enviado pelo site. Para ter uma ideia de como fazer "
+"isso, você pode conferir <a href=\"https://jahoti.tilde.team/browser-"
+"extensions/index.html\">exemplos de extensões de site</a> já existentes."
+
+#. type: Content of: <div><p>
+msgid ""
+"The first thing to do is to look briefly at the licenses of the JavaScript "
+"files on the site. Some of them might actually be free software. If some of "
+"the JS code sent by the site is free, you can include it in your extension, "
+"changing it as needed."
+msgstr ""
+"A primeira coisa a fazer é examinar rapidamente as licenças dos arquivos "
+"JavaScript no site. Alguns deles podem ser na verdade software livre. Se "
+"parte do código JS enviado pelo site for livre, você pode incluí-lo em sua "
+"extensão, alterando-o conforme necessário."
+
+#. type: Content of: <div><p>
+msgid ""
+"Next, check whether the site has published an API. If so, it is best to "
+"communicate using the API, if that can do the job. Otherwise, you need to "
+"use the browser debugging facilities to figure out what data and commands "
+"the JavaScript code sends to the server&mdash;in effect, its undocumented "
+"API."
+msgstr ""
+"Em seguida, verifique se o site publicou uma API. Nesse caso, é melhor se "
+"comunicar usando a API, se isso puder fazer o trabalho. Caso contrário, você "
+"precisa usar os recursos de depuração do navegador para descobrir quais "
+"dados e comandos o código JavaScript envia para o servidor – na verdade, sua "
+"API não documentada."
+
+#. type: Content of: <div><p>
+msgid ""
+"The way to avoid infringing copyright on the site's own JavaScript code is "
+"not to study the code. Not any part of it, not even once.  If you did not "
+"read the code, it follows that you did not copy any of it. Look only at the "
+"licenses."
+msgstr ""
+"A maneira de evitar a violação de direitos autorais no código JavaScript do "
+"próprio site é não estudar o código. Nenhuma parte, nem mesmo uma vez. Se "
+"você não leu o código, significa que não copiou nada. Olhe apenas para as "
+"licenças."
+
+#. type: Content of: <div><p>
+msgid ""
+"These extensions should be honest&mdash;they should not &ldquo;cheat.&rdquo; "
+"If the site's JavaScript asks the user for information and sends it, the "
+"extension should ask the user for that information and send it. If the site "
+"asks per&nbsp;(<a href=\"#ft1\">1</a>)  to check a box to agree to XYZ, the "
+"extension should ask per to check a box to agree to XYZ. The extension "
+"should faithfully pass on whatever responses the user enters. If the site "
+"sends a cookie, the extension should let it be handled according to the "
+"browser settings for cookies."
+msgstr ""
+"Essas extensões devem ser honestas – elas não devem “trapacear”. Se o "
+"JavaScript do site pede informações ao usuário e as envia, a extensão deve "
+"solicitar essas informações ao usuário e enviá-las. Se o site solicitar à "
+"pessoa&nbsp;(<a href=\"#ft1\">1</a>) para marcar uma caixa para concordar "
+"com XYZ, a extensão deve solicitar a para marcar uma caixa para concordar "
+"com XYZ. A extensão deve passar fielmente todas as respostas que o usuário "
+"inserir. Se o site enviar um cookie, a extensão deve permitir que seja "
+"tratado de acordo com as configurações do navegador para cookies."
+
+#. type: Content of: <div><p>
+msgid ""
+"It is impossible to implement real security via JS code sent to the user, "
+"but whatever the site does to try to implement something resembling "
+"security, the extension should carry out faithfully. In particular, if the "
+"site asks the user to answer questions to prove perself not to be a robot, "
+"the extension should show per the same questions, get the answers, and send "
+"them in&mdash;thus enabling per to demonstrate that perse is human."
+msgstr ""
+"É impossível implementar segurança real por meio do código JS enviado ao "
+"usuário, mas o que quer que o site faça para tentar implementar algo "
+"semelhante à segurança, a extensão deve cumprir fielmente. Em particular, se "
+"o site solicitar que o usuário responda a perguntas para provar que não é um "
+"robô, a extensão deve mostrar as mesmas perguntas, obter as respostas e "
+"enviá-las em – permitindo que a pessoa demonstre que é humana."
+
+#. type: Content of: <div><p>
+msgid ""
+"<a href=\"https://github.com/JeffCarpenter/librecaptcha\"> Jeff Carpenter's "
+"librecaptcha</a> might be useful if the site sends a captcha. We will start "
+"a project to convert it to JS, and we will need volunteers for that, so "
+"please write to me if you are interested in helping."
+msgstr ""
+"O <a href=\"https://github.com/JeffCarpenter/librecaptcha\"> librecaptcha de "
+"Jeff Carpenter</a> pode ser útil se o site enviar um captcha. Começaremos um "
+"projeto para convertê-lo para JS e precisaremos de voluntários para isso, "
+"então, por favor, escreva-me se estiver interessado em ajudar."
+
+#. type: Content of: <div><p>
+msgid ""
+"Meanwhile, if the site's JS code gathers information surreptitiously, it is "
+"admirable to thwart that snooping. One idea is to ask the user what answer "
+"to return&mdash;for example, &ldquo;The site is trying to find out your "
+"location. What do you want to tell it?&rdquo; But it would be good to avoid "
+"asking the user frequently or repeatedly."
+msgstr ""
+"Enquanto isso, se o código JS do site coleta informações clandestinamente, é "
+"admirável impedir essa espionagem. Uma ideia é perguntar ao usuário qual "
+"resposta retornar – por exemplo, “O site está tentando descobrir sua "
+"localização. O que você quer dizer?” –, mas seria bom evitar perguntar ao "
+"usuário com frequência ou repetidamente."
+
+#. type: Content of: <div><p>
+msgid ""
+"When you have an extension working, please mail a copy to the GNU Project at "
+"<a href=\"mailto:js-extensions@gnu.org\">&lt;js-extensions@gnu.org&gt;</a>.  "
+"You can also register it in Firefox's extensions list, if you can stomach "
+"running the nonfree software to do that."
+msgstr ""
+"Quando você tiver uma extensão funcionando, envie uma cópia para o Projeto "
+"GNU em <a href=\"mailto:js-extensions@gnu.org\">&lt;js-extensions@gnu.org&gt;"
+"</a>. Você também pode registrá-la na lista de extensões do Firefox, se "
+"tiver estômago para executar o software não livre para fazer isso."
+
+#. type: Content of: <div><p>
+msgid ""
+"We have set up a mailing list, <a href=\"https://lists.gnu.org/mailman/"
+"listinfo/js-extensions-discussion\"> js-extensions-discussion</a> where you "
+"can talk with others who are developing extensions."
+msgstr ""
+"Criamos uma lista de discussão, <a href=\"https://lists.gnu.org/mailman/"
+"listinfo/js-extensions-discussion\"> js-extensions-discussion</a>, onde você "
+"pode conversar com outras pessoas que estão desenvolvendo extensões."
+
+#. type: Content of: <div><p>
+msgid ""
+"Once things are going, we would like to set up a savannah.gnu.org repo where "
+"we will put the extensions that are working. To do that, we need a volunteer "
+"or two to manage it. We expect this task not to be a lot of work; the reason "
+"to have two is for redundancy."
+msgstr ""
+"Assim que as coisas estiverem acontecendo, gostaríamos de configurar um "
+"repositório no savannah.gnu.org onde colocaremos as extensões que estão "
+"funcionando. Para fazer isso, precisamos de um ou dois voluntários para "
+"gerenciá-lo. Esperamos que essa tarefa não seja muito trabalhosa; a razão "
+"para ter dois é para redundância."
+
+#. type: Content of: <div><p>
+msgid ""
+"We could also have a Savannah project which you could (if you wish)  use for "
+"developing an extension; that too would require volunteers to take care of "
+"it."
+msgstr ""
+"Também poderíamos ter um projeto Savannah que você poderia (se desejar) usar "
+"para desenvolver uma extensão; isso também exigiria voluntários para cuidar "
+"dele."
+
+#. type: Content of: <div><p>
+msgid ""
+"Here are some suggestions for sites to write extensions for.  (Some are "
+"commercial and some are not&mdash;that distinction is not significant for "
+"this issue.)  However, if some other site interests you more, by all means "
+"go where your interests take you."
+msgstr ""
+"Aqui estão algumas sugestões de sites para os quais escrever extensões. "
+"(Alguns são comerciais e outros não – essa distinção não é significativa "
+"para esta questão.) No entanto, se algum outro site lhe interessa mais, vá "
+"aonde seus interesses o levarem."
+
+#. type: Content of: <div><h3>
+msgid "Sites for accessing information and publications"
+msgstr "Sites de acesso a informações e publicações"
+
+#. type: Content of: <div><p>
+msgid ""
+"The initial goal is to handle anonymous access.  To handle logging in, and "
+"logged-in access, is going beyond the short-term call of duty."
+msgstr ""
+"O objetivo inicial é lidar com o acesso anônimo. Lidar com o login e o "
+"acesso conectado é ir além da obrigação de curto prazo."
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://www.accuweather.com\">accuweather.com</a> (for looking at "
+"its weather info)"
+msgstr ""
+"<a href=\"https://www.accuweather.com\">accuweather.com</a> (para ver suas "
+"informações meteorológicas)"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://pubmed.ncbi.nlm.nih.gov/\">pubmed.ncbi.nlm.nih.gov</a> "
+"(for downloading papers)"
+msgstr ""
+"<a href=\"https://pubmed.ncbi.nlm.nih.gov/\">pubmed.ncbi.nlm.nih.gov</a> "
+"(para baixar artigos)"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://groups.google.com/\">groups.google.com</a> (for finding "
+"and viewing postings on groups)"
+msgstr ""
+"<a href=\"https://groups.google.com/\">groups.google.com</a> (para encontrar "
+"e visualizar postagens em grupos)"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://tripadvisor.com\">tripadvisor.com</a> (at least to show a "
+"restaurant's full menu)"
+msgstr ""
+"<a href=\"https://tripadvisor.com\">tripadvisor.com</a> (pelo menos para "
+"mostrar o menu completo de um restaurante)"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://www.blogger.com/about/?bpli=1\">blogger.com</a> (to view "
+"the blogs)"
+msgstr ""
+"<a href=\"https://www.blogger.com/about/?bpli=1\">blogger.com</a> (para ver "
+"os blogs)"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://www.britishmuseum.org/collection\"> britishmuseum.org/"
+"collection</a> (to view the collection)"
+msgstr ""
+"<a href=\"https://www.britishmuseum.org/collection\"> britishmuseum.org/"
+"collection</a> (para ver a coleção)"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://www.pdr.net/\">pdr.net</a> (to view the information on the "
+"medicines)"
+msgstr ""
+"<a href=\"https://www.pdr.net/\">pdr.net</a> (para ver as informações sobre "
+"os medicamentos)"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://reiseauskunft.bahn.de//\">reiseauskunft.bahn.de</a> (to "
+"view train schedules, at least)"
+msgstr ""
+"<a href=\"https://reiseauskunft.bahn.de//\">reiseauskunft.bahn.de</a> (para "
+"ver itinerário de trens, pelo menos)"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://www.rgs.org/about/our-collections/online-exhibitions/\"> "
+"rgs.org/about/our-collections/online-exhibitions/</a> (to view the "
+"exhibitions)"
+msgstr ""
+"<a href=\"https://www.rgs.org/about/our-collections/online-exhibitions/\"> "
+"rgs.org/about/our-collections/online-exhibitions/</a> (para ver as "
+"exposições)"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"https://worldcat.org\">worldcat.org</a> (to look up books)"
+msgstr ""
+"<a href=\"https://worldcat.org\">worldcat.org</a> (para procurar livros)"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"As an example, see <a href=\"https://www.worldcat.org/title/gnu-emacs-manual/"
+"oclc/232354882\"> this entry for the GNU Emacs manual</a>. Please note on "
+"the page the heading &ldquo;Find a copy in the library.&rdquo; Without "
+"running the proprietary JavaScript, the only content under that heading is a "
+"loading spinner GIF and the text &ldquo;Finding libraries that hold this "
+"item&hellip;&rdquo; The actual library availability information for the "
+"given book is absent."
+msgstr ""
+"Como exemplo, veja <a href=\"https://www.worldcat.org/title/gnu-emacs-manual/"
+"oclc/232354882\"> esta entrada para o manual do GNU Emacs</a>. Observe na "
+"página o título “Find a copy in the library”. Sem executar o JavaScript "
+"privativo, o único conteúdo sob esse título é um GIF giratório de "
+"carregamento e o texto “Finding libraries that hold this item…” As "
+"informações reais de disponibilidade da biblioteca para o livro fornecido "
+"estão ausentes."
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"https://scribd.com\">scribd.com</a> (to read texts)"
+msgstr "<a href=\"https://scribd.com\">scribd.com</a> (para ler textos)"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://soundcloud.com\">soundcloud.com</a> (to listen to audios)"
+msgstr ""
+"<a href=\"https://soundcloud.com\">soundcloud.com</a> (para ouvir a áudios)"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://documentcloud.org\">documentcloud.org</a> (to view "
+"documents)"
+msgstr ""
+"<a href=\"https://documentcloud.org\">documentcloud.org</a> (para ver "
+"documentos)"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://bandcamp.com\">bandcamp.com</a> (to listen to or download "
+"music)"
+msgstr ""
+"<a href=\"https://bandcamp.com\">bandcamp.com</a> (para ouvir ou baixar "
+"músicas)"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://www.manualslib.com\">manualslib.com</a> (to download "
+"manuals)"
+msgstr ""
+"<a href=\"https://www.manualslib.com\">manualslib.com</a> (para baixar "
+"manuais)"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"http://npr.com\">npr.com</a> (to listen&mdash;try using its API)"
+msgstr ""
+"<a href=\"http://npr.com\">npr.com</a> (para ouvir – tentar usar sua API)"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://www.nasa.gov/\">nasa.gov</a> (to look at the publications, "
+"including photos and videos)"
+msgstr ""
+"<a href=\"https://www.nasa.gov/\">nasa.gov</a> (para procurar nas "
+"publicações, incluindo fotos e vídeos)"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://www.reddit.com/\">reddit.com</a> (for reading, at least).  "
+"At present, you can do this by using <a href=\"https://old.reddit.com\">old."
+"reddit.com</a>."
+msgstr ""
+"<a href=\"https://www.reddit.com/\">reddit.com</a> (para leitura, pelo "
+"menos). No momento, você pode fazer isso usando <a href=\"https://old.reddit."
+"com\">old.reddit.com</a>."
+
+#. type: Content of: <div><h3>
+msgid "Petition-signing sites (to let the user sign)"
+msgstr "Sites de assinatura de petição (para deixar o usuário assinar)"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://www.freedomunited.org/\">freedomunited.org</a> (appears to "
+"&ldquo;succeed&rdquo; but no confirmation comes back)"
+msgstr ""
+"<a href=\"https://www.freedomunited.org/\">freedomunited.org</a> (parece ter "
+"“sucesso”, mas nenhuma confirmação é mostrada)"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://www.sumofus.org/\">sumofus.org</a> (the old extension from "
+"years ago no longer works)"
+msgstr ""
+"<a href=\"https://www.sumofus.org/\">sumofus.org</a> (a extensão antiga de "
+"anos atrás não funciona mais)"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://www.change.org/\">change.org</a> (warning, this site's JS "
+"is very complex)"
+msgstr ""
+"<a href=\"https://www.change.org/\">change.org</a> (aviso, o JS deste site é "
+"muito complexo)"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"https://www.afsc.org/\">afsc.org</a>"
+msgstr "<a href=\"https://www.afsc.org/\">afsc.org</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"https://act.ran.org/\">act.ran.org</a>"
+msgstr "<a href=\"https://act.ran.org/\">act.ran.org</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"https://home.coworker.org/\">coworker.org</a>"
+msgstr "<a href=\"https://home.coworker.org/\">coworker.org</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"https://defenders.org/\">defenders.org</a>"
+msgstr "<a href=\"https://defenders.org/\">defenders.org</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"https://earthjustice.org/\">earthjustice.org</a>"
+msgstr "<a href=\"https://earthjustice.org/\">earthjustice.org</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"https://amazonwatch.org/\">amazonwatch.org</a>"
+msgstr "<a href=\"https://amazonwatch.org/\">amazonwatch.org</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"https://pages.signherenow.org/\">signherenow.org</a>"
+msgstr "<a href=\"https://pages.signherenow.org/\">signherenow.org</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"https://front.moveon.org/\">moveon.org</a>"
+msgstr "<a href=\"https://front.moveon.org/\">moveon.org</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://publiccitizen.salsalabs.org/foundation/index.html\"> "
+"publiccitizen.salsalabs.org</a>"
+msgstr ""
+"<a href=\"https://publiccitizen.salsalabs.org/foundation/index.html\"> "
+"publiccitizen.salsalabs.org</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"https://action.splcenter.org\">action.splcenter.org</a>"
+msgstr "<a href=\"https://action.splcenter.org\">action.splcenter.org</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"https://secure.everyaction.com\">secure.everyaction.com</a>"
+msgstr "<a href=\"https://secure.everyaction.com\">secure.everyaction.com</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"https://www.amnesty.org\">amnesty.org</a>"
+msgstr "<a href=\"https://www.amnesty.org\">amnesty.org</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"https://addup.sierraclub.org/\">addup.sierraclub.org</a>"
+msgstr "<a href=\"https://addup.sierraclub.org/\">addup.sierraclub.org</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"https://www.ucsusa.org/\">ucsusa.org</a>"
+msgstr "<a href=\"https://www.ucsusa.org/\">ucsusa.org</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"https://engage.drugpolicy.org\">engage.drugpolicy.org</a>"
+msgstr "<a href=\"https://engage.drugpolicy.org\">engage.drugpolicy.org</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://engage.us.greenpeace.org\">engage.us.greenpeace.org</a>"
+msgstr ""
+"<a href=\"https://engage.us.greenpeace.org\">engage.us.greenpeace.org</a>"
+
+#. type: Content of: <div><h3>
+msgid "Other kinds of sites"
+msgstr "Outros tipos de sites"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://house.gov/\">house.gov</a> (for viewinng pages and sending "
+"mail to representatives)"
+msgstr ""
+"<a href=\"https://house.gov/\">house.gov</a> (para ver páginas e enviar e-"
+"mails para deputados)"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://whitehouse.gov/\">whitehouse.gov</a> (for communicating "
+"with the White House and with the webmasters)"
+msgstr ""
+"<a href=\"https://whitehouse.gov/\">whitehouse.gov</a> (para se comunicar "
+"com a Casa Branca e com os webmasters)"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://disqus.com/\">Disqus</a> comments, found in various "
+"websites (for posting a comment)"
+msgstr ""
+"<a href=\"https://disqus.com/\">Disqus</a>, sistema de comentários "
+"encontrados em vários sites (para publicar um comentário)"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://www.regulations.gov/\">regulations.gov</a> (for commenting "
+"on proposed US regulations)"
+msgstr ""
+"<a href=\"https://www.regulations.gov/\">regulations.gov</a> (por comentar "
+"sobre as regulamentações propostas dos EUA)"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://www.surveymonkey.com/\">surveymonkey.com</a> (for "
+"answering surveys)"
+msgstr ""
+"<a href=\"https://www.surveymonkey.com/\">surveymonkey.com</a> (para "
+"responder pesquisas)"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://www.coworker.org/start-a-petition\"> coworker.org/start-a-"
+"petition</a> (for starting a petition)"
+msgstr ""
+"<a href=\"https://www.coworker.org/start-a-petition\"> coworker.org/start-a-"
+"petition</a> (para iniciar uma petição)"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://wetransfer.com\">wetransfer</a> (ideally for upload and "
+"download, but just downloading would be a good first step)"
+msgstr ""
+"<a href=\"https://wetransfer.com\">wetransfer</a> (idealmente para upload e "
+"download, mas apenas o download seria um bom primeiro passo)"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://stripe.com\">stripe.com</a> (for entering payments for "
+"other sites)"
+msgstr ""
+"<a href=\"https://stripe.com\">stripe.com</a> (para fazer pagamentos para "
+"outros sites)"
+
+#. type: Content of: <div><h3>
+msgid "Sites that people have handled in this way"
+msgstr "Sites que as pessoas trataram dessa maneira"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://accounts.google.com\">docs.google.com</a> (for downloading "
+"documents)"
+msgstr ""
+"<a href=\"https://accounts.google.com\">docs.google.com</a> (para baixar "
+"documentos)"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://pay.gov\">pay.gov</a> (for registering a DMCA contact)"
+msgstr ""
+"<a href=\"https://pay.gov\">pay.gov</a> (para registrar um contato de DMCA)"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"https://rsf.org/\">rsf.org</a> (for signing petitions)"
+msgstr "<a href=\"https://rsf.org/\">rsf.org</a> (para assinar petição)"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://www.theonion.com/\">theonion.com</a> (for looking at "
+"images and audio)"
+msgstr ""
+"<a href=\"https://www.theonion.com/\">theonion.com</a> (para olhar imagens e "
+"áudio)"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"https://goteo.org/\">goteo.org</a> (for payments)"
+msgstr "<a href=\"https://goteo.org/\">goteo.org</a> (para pagamentos)"
+
+#. type: Content of: <div><div><h3>
+msgid "Footnote"
+msgstr "Nota de rodapé"
+
+#. type: Content of: <div><div><ol><li>
+msgid ""
+"The author uses the gender-neutral third person singular pronouns and "
+"possessive adjective &ldquo;perse,&rdquo; &ldquo;per,&rdquo; &ldquo;perself,"
+"&rdquo; and &ldquo;pers.&rdquo;"
+msgstr ""
+"O autor usa os pronomes de terceira pessoa do singular neutros quanto ao "
+"gênero e o adjetivo possessivo “perse,” “per,” “perself” e “pers”."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and contributing translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and contributing "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2021 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2021."
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização:"

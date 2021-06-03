@@ -1,0 +1,762 @@
+# Brazilian Portuguese translation of https://www.gnu.org/gnu/gnu-structure.html
+# Copyright (C) 2021 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnu-structure.html\n"
+"POT-Creation-Date: 2020-10-06 08:26+0000\n"
+"PO-Revision-Date: 2021-01-02 22:51-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 3.38.0\n"
+
+#. type: Content of: <title>
+msgid ""
+"The Structure and Administration of the GNU Project - GNU Project - Free "
+"Software Foundation"
+msgstr ""
+"A estrutura e administração do Projeto GNU - Projeto GNU - Free Software "
+"Foundation"
+
+#. type: Content of: <h2>
+msgid "The Structure and Administration of the GNU Project"
+msgstr "A estrutura e administração do Projeto GNU"
+
+#. type: Content of: <address>
+msgid "by Brandon Invergo and Richard Stallman"
+msgstr "por Brandon Invergo e Richard Stallman"
+
+#. type: Content of: <p>
+msgid "<strong>Version 1.0.1</strong>"
+msgstr "<strong>Versão 1.0.1</strong>"
+
+#. type: Content of: <div><p>
+msgid ""
+"An <a href=\"/gnu/gnu-structure.org\">Org version</a> of this document is "
+"also available."
+msgstr ""
+"Uma <a href=\"/gnu/gnu-structure.org\">versão Org</a> deste documento também "
+"está disponível."
+
+#. type: Content of: <p>
+msgid ""
+"The GNU Project develops and maintains the <a href=\"/gnu/about-gnu.html"
+"\">GNU operating system</a>.  Through this work, and other related "
+"activities, the GNU Project advocates and promotes <a href=\"/philosophy/"
+"philosophy.html\">software freedom</a>, the core philosophy of the free "
+"software movement."
+msgstr ""
+"O Projeto GNU desenvolve e mantém o <a href=\"/gnu/about-gnu.html\">sistema "
+"operacional GNU</a>. Por meio desta obra, e de outras atividades "
+"relacionadas, o Projeto GNU defende e promove a <a href=\"/philosophy/"
+"philosophy.html\">liberdade do software</a>, a filosofia central do "
+"movimento do software livre."
+
+#. type: Content of: <p>
+msgid ""
+"An operating system consists of many software components that together make "
+"a computer do useful jobs.  It includes code for low-level functionality, "
+"such as the kernel and drivers, plus system libraries, as well as the "
+"programs (utilities, tools, applications, and games) that users explicitly "
+"run.  The GNU operating system comprises software across this entire "
+"spectrum.  Many of the programs are specifically developed and released by "
+"the GNU Project; these are termed &ldquo;GNU packages&rdquo;.  The GNU "
+"system also includes components that are <a href=\"/philosophy/categories."
+"html\">free programs</a> released by other developers, outside of the GNU "
+"Project."
+msgstr ""
+"Um sistema operacional consiste em muitos componentes de software que, "
+"juntos, fazem com que um computador execute trabalhos úteis. Inclui código "
+"para funcionalidade de baixo nível, como kernel e drivers, além de "
+"bibliotecas do sistema, bem como os programas (utilitários, ferramentas, "
+"aplicativos e jogos) que os usuários executam explicitamente. O sistema "
+"operacional GNU compreende software em todo esse espectro. Muitos dos "
+"programas são desenvolvidos e lançados especificamente pelo Projeto GNU; "
+"eles são chamados de “pacotes GNU”. O sistema GNU também inclui componentes "
+"que são <a href=\"/philosophy/categories.html\">programas livres</a> "
+"lançados por outros desenvolvedores, fora do Projeto GNU."
+
+#. type: Content of: <p>
+msgid ""
+"Just as the programs composing an operating system must work together "
+"coherently, the GNU Project must operate coherently.  Most of the work "
+"consists of developing specific programs, but these programs are not "
+"independent projects; they must fit well together to constitute the GNU "
+"system we wish for.  Therefore, over the course of decades, we have "
+"developed structure for the project.  None of it is new, but this is the "
+"first time we have documented all of it in one place."
+msgstr ""
+"Assim como os programas que compõem um sistema operacional devem funcionar "
+"juntos de forma coerente, o Projeto GNU deve operar de forma coerente. A "
+"maior parte do trabalho consiste no desenvolvimento de programas "
+"específicos, mas esses programas não são projetos independentes; eles devem "
+"se encaixar bem para constituir o sistema GNU que desejamos. Por isso, ao "
+"longo de décadas, desenvolvemos estrutura para o projeto. Nada disso é novo, "
+"mas esta é a primeira vez que documentamos tudo em um só lugar."
+
+#. type: Content of: <p>
+msgid ""
+"The Free Software Foundation provides many kinds of support (facilities, "
+"services) to the GNU Project.  How that works is outside the scope of this "
+"document."
+msgstr ""
+"A Free Software Foundation fornece muitos tipos de suporte (instalações, "
+"serviços) para o Projeto GNU. Como isso funciona está fora do escopo deste "
+"documento."
+
+#. type: Content of: <h3>
+msgid "Software Development Structure"
+msgstr "Estrutura de desenvolvimento de software"
+
+#. type: Content of: <p>
+msgid ""
+"Most of the GNU Project's activity consists of development of software "
+"packages.  Here is how GNU software development is structured."
+msgstr ""
+"A maior parte das atividades do Projeto GNU consiste no desenvolvimento de "
+"pacotes de software. Aqui está como o desenvolvimento de software GNU é "
+"estruturado."
+
+#. type: Content of: <h4>
+msgid "The Chief GNUisance"
+msgstr "O Chefe GNUisance"
+
+#. type: Content of: <p>
+msgid ""
+"The GNU Project is led by the Chief GNUisance, Richard Stallman, the founder "
+"of the project.  The Chief GNUisance is responsible in principle for all "
+"significant decisions, including the overall philosophy and standards, and "
+"directs the project in carrying them out.  The Chief GNUisance dubs software "
+"packages as GNU packages, or decommission one when necessary, and appoints "
+"their maintainers."
+msgstr ""
+"O Projeto GNU é liderado pelo Chefe GNUisance, Richard Stallman, o fundador "
+"do projeto. O Chefe GNUisance é responsável, em princípio, por todas as "
+"decisões significativas, incluindo a filosofia geral e os padrões, e dirige "
+"o projeto ao executá-los. O Chefe GNUisance trata pacotes de software como "
+"pacotes GNU, ou descomissiona um quando necessário, e indica seus "
+"mantenedores."
+
+#. type: Content of: <p>
+msgid ""
+"In practice, the Chief GNUisance delegates many of these decisions and most "
+"of the tasks to others, and only rarely intervenes in the specifics of "
+"development of a GNU package&mdash;and usually that is with a suggestion."
+msgstr ""
+"Na prática, o Chefe GNUisance delega muitas dessas decisões e muitas das "
+"tarefas a outros, e apenas raramente intervém nas especificidades do "
+"desenvolvimento de um pacote GNU – e normalmente isso é com uma sugestão."
+
+#. type: Content of: <h4>
+msgid "Assistant GNUisances"
+msgstr "Assistentes GNUisance"
+
+#. type: Content of: <p>
+msgid ""
+"This team, residing at <a href=\"mailto:maintainers@gnu.org"
+"\">maintainers@gnu.org</a>, is available as a first point-of-contact for "
+"maintainers of GNU Software.  They keep track of development activity across "
+"the entire project, ensuring timely releases, checking that the maintainers "
+"follow GNU's <a href=\"/philosophy/\">philosophy</a> and guidelines, and "
+"resolving any conflicts that might arise.  They also handle cases when a "
+"maintainer steps down or when a new volunteer steps up to maintain an "
+"existing package (in which case they can appoint a new maintainer on behalf "
+"of the Chief GNUisance)."
+msgstr ""
+"Esta equipe, encontrada em <a href=\"mailto:maintainers@gnu.org"
+"\">maintainers@gnu.org</a>, está disponível como um primeiro ponto de "
+"contato para mantenedores de softwares GNU. Eles monitoram a atividade de "
+"desenvolvimento em todo o projeto, garantindo lançamentos oportunos, "
+"verificando se os mantenedores seguem a <a href=\"/philosophy/\">filosofia</"
+"a> e diretrizes do GNU e resolvendo quaisquer conflitos que possam surgir. "
+"Eles também lidam com casos em que um mantenedor deixa o cargo ou quando um "
+"novo voluntário sobe para manter um pacote existente (nesse caso, eles podem "
+"indicar um novo mantenedor em nome do Chefe GNUisance)."
+
+#. type: Content of: <p>
+msgid ""
+"New members are recruited from existing GNU volunteers when needed.  "
+"However, help is often welcome for specific tasks and interested GNU "
+"volunteers are welcome to get in touch."
+msgstr ""
+"Novos membros são recrutados de voluntários GNU existentes quando "
+"necessário. No entanto, a ajuda é frequentemente bem-vinda para tarefas "
+"específicas e voluntários GNU interessados são bem-vindos para entrar em "
+"contato."
+
+#. type: Content of: <h4>
+msgid "Package maintainers"
+msgstr "Mantenedores de pacote"
+
+#. type: Content of: <p>
+msgid ""
+"Each GNU software package has specific maintainers, appointed by the Chief "
+"GNUisance or the assistant GNUisances.  The package maintainers are "
+"responsible to the Chief GNUisance, under whose authority they are appointed "
+"and on rare occasions dismissed, and they are in charge of developing their "
+"packages on behalf of the GNU Project."
+msgstr ""
+"Cada pacote de software GNU tem mantenedores específicos, nomeados pelo "
+"Chefe GNUisance ou por seus assistentes. Os mantenedores dos pacotes são "
+"responsáveis perante o Chefe GNUisance, sob cuja autoridade eles são "
+"nomeados e em raras ocasiões dispensados, e são responsáveis pelo "
+"desenvolvimento de seus pacotes em nome do Projeto GNU."
+
+#. type: Content of: <p>
+msgid ""
+"The initial appointment of maintainers is done when a program is <a href=\"/"
+"help/evaluation.html\">accepted as a GNU package</a>.  These are normally "
+"some of the main developers who agreed to make the program a GNU package."
+msgstr ""
+"A nomeação inicial dos mantenedores é feita quando um programa é <a href=\"/"
+"help/evaluation.html\">aceito como um pacote GNU</a>. Esses são normalmente "
+"alguns dos principais desenvolvedores que concordaram em fazer do programa "
+"um pacote GNU."
+
+#. type: Content of: <p>
+msgid ""
+"Over time, maintainers occasionally step down.  In some cases, the sole "
+"maintainer steps down from the role, leaving the package unmaintained.  The "
+"Chief GNUisance usually delegates finding and appointing new maintainers to "
+"the assistant GNUisances.  <a href=\"/server/takeaction.html#unmaint\">See "
+"the list of currently unmaintained packages</a>.  We ask the old maintainers "
+"to recommend new maintainers, and we consider those suggestions "
+"appreciatively."
+msgstr ""
+"Com o tempo, os mantenedores ocasionalmente desistem. Em alguns casos, o "
+"único mantenedor desce da função, deixando o pacote sem manutenção. O Chefe "
+"GNUisance geralmente delega encontrar e nomear novos mantenedores aos seus "
+"assistentes. <a href=\"/server/takeaction.html#unmaint\">Veja a lista de "
+"pacotes não mantidos atualmente</a>. Pedimos aos antigos mantenedores que "
+"recomendem novos mantenedores, e consideramos essas sugestões com gratidão."
+
+#. type: Content of: <p>
+msgid ""
+"The maintainers of a package often recruit others to contribute to its "
+"development, and delegate some technical decisions to them.  However, the "
+"maintainers retain authority over the whole of the package so they can carry "
+"out their responsibility to the GNU Project."
+msgstr ""
+"Os mantenedores de um pacote frequentemente recrutam outros para contribuir "
+"com seu desenvolvimento e delegam algumas decisões técnicas a eles. No "
+"entanto, os mantenedores detêm autoridade sobre todo o pacote para que "
+"possam cumprir suas responsabilidades com o Projeto GNU."
+
+#. type: Content of: <p>
+msgid ""
+"A maintainer's primary responsibility is to do a good, practical job of "
+"developing and maintaining the program in accord with the GNU Project's "
+"philosophy, mission, policies, and general decisions.  Maintainers must also "
+"ensure that their packages work well with the rest of the GNU System.  For "
+"more information, <a href=\"/help/evaluation.html#whatmeans\">read about "
+"maintainers' basic duties and what it means for a program to be a GNU "
+"package</a>."
+msgstr ""
+"A responsabilidade primária do mantenedor é fazer um trabalho bom e prático "
+"de desenvolver e manter o programa de acordo com a filosofia, missão, "
+"políticas e decisões gerais do Projeto GNU. Os mantenedores também devem "
+"garantir que seus pacotes funcionem bem com o resto do sistema GNU. Para "
+"mais informações, <a href=\"/help/evaluation.html#whatmeans\">leia sobre os "
+"deveres básicos dos mantenedores e o que significa um programa ser um pacote "
+"GNU</a>."
+
+#. type: Content of: <p>
+msgid ""
+"In general, maintainers determine the technical directions that the software "
+"packages take and thus they make the day-to-day decisions for the packages.  "
+"Likewise, in making their packages work well together, maintainers can work "
+"directly with each other, and we encourage them to do so.  Rarely, the Chief "
+"GNUisance will make a decision that directly affects one or more GNU "
+"packages.  The maintainers of the affected packages have the responsibility "
+"to execute the decision on behalf of the GNU Project."
+msgstr ""
+"Em geral, os mantenedores determinam as orientações técnicas que os pacotes "
+"de software seguem e, portanto, eles tomam as decisões do dia a dia para os "
+"pacotes. Da mesma forma, para fazer seus pacotes funcionarem bem juntos, os "
+"mantenedores podem trabalhar diretamente uns com os outros, e nós os "
+"encorajamos a fazer isso. Raramente, o Chefe GNUisance tomará uma decisão "
+"que afeta diretamente um ou mais pacotes GNU. Os mantenedores dos pacotes "
+"afetados têm a responsabilidade de executar a decisão em nome do Projeto GNU."
+
+#. type: Content of: <p>
+msgid ""
+"More complete information about the specific responsibilities of maintainers "
+"and technical guidance for maintaining GNU software can be found in the <a "
+"href=\"/prep/maintain\">Information for Maintainers of GNU Software</a> and "
+"<a href=\"/prep/standards\">GNU Coding Standards</a> documents."
+msgstr ""
+"Informações mais completas sobre as responsabilidades específicas dos "
+"mantenedores e orientação técnica para manter o software GNU podem ser "
+"encontradas em <a href=\"/prep/maintain\">Information for maintainers of GNU "
+"software</a> (Informações para mantenedores de software GNU) e documentos "
+"dos <a href=\"/prep/standards\">GNU Coding Standards</a> (padrões de "
+"codificação GNU)."
+
+#. type: Content of: <p>
+msgid ""
+"We do not require that GNU package maintainers agree with our philosophy, or "
+"approve of our policies&mdash;only to follow them.  Maintainers and "
+"contributors must carry out our philosophy, policies and occasional specific "
+"decisions in their work on GNU software."
+msgstr ""
+"Não exigimos que os mantenedores do pacote GNU concordem com nossa filosofia "
+"ou aprove nossas políticas – apenas para segui-las. Mantenedores e "
+"contribuidores devem cumprir nossa filosofia, políticas e decisões "
+"específicas ocasionais em seu trabalho no software GNU."
+
+#. type: Content of: <h3>
+msgid "Support for GNU Package Development"
+msgstr "Suporte ao desenvolvimento de pacote GNU"
+
+#. type: Content of: <p>
+msgid ""
+"Several teams provide various kinds of support to the development and "
+"management of GNU packages.  Most of these teams have a coordinator to "
+"direct them; in most cases, the coordinator reports directly to the Chief "
+"GNUisance unless otherwise stated.  When in doubt, you can contact the <a "
+"href=\"mailto:gvc@gnu.org\">GNU Volunteer Coordinators</a> for advice."
+msgstr ""
+"Diversas equipes fornecem vários tipos de suporte para o desenvolvimento e "
+"gerenciamento de pacotes GNU. A maioria dessas equipes tem um coordenador "
+"para dirigi-las; na maioria dos casos, o coordenador se reporta diretamente "
+"ao Chefe GNUisance, a menos que seja indicado o contrário. Em caso de "
+"dúvida, você pode entrar em contato com os <a href=\"mailto:gvc@gnu.org"
+"\">Coordenadores de Voluntários do GNU</a> para obter conselhos."
+
+#. type: Content of: <h4>
+msgid "Software Evaluation"
+msgstr "Avaliação de software"
+
+#. type: Content of: <p>
+msgid ""
+"The software evaluation team at <a href=\"mailto:gnueval@gnu.org"
+"\">gnueval@gnu.org</a> evaluates software packages proposed as GNU "
+"packages.  This involves a careful assessment of the software's "
+"functionality as well as pertinent issues related to software freedom and "
+"how the program fits with the GNU system."
+msgstr ""
+"A equipe de avaliação de software em <a href=\"mailto:gnueval@gnu.org"
+"\">gnueval@gnu.org</a> avalia os pacotes de software propostos como pacotes "
+"GNU. Isso envolve uma avaliação cuidadosa da funcionalidade do software, bem "
+"como questões pertinentes relacionadas à liberdade do software e como o "
+"programa se encaixa no sistema GNU."
+
+#. type: Content of: <p>
+msgid ""
+"New members are recruited from existing GNU volunteers when needed.  Prior "
+"experience with non-GNU software evaluation on Savannah is preferable."
+msgstr ""
+"Novos membros são recrutados de voluntários GNU existentes quando "
+"necessário. Experiência anterior com avaliação de software não GNU no "
+"Savannah é preferível."
+
+#. type: Content of: <h4>
+msgid "Software Security Evaluation"
+msgstr "Avaliação de segurança de software"
+
+#. type: Content of: <p>
+msgid ""
+"The software security evaluation team at <a href=\"mailto:gnueval-"
+"security@gnu.org\">gnueval-security@gnu.org</a> works with the software "
+"evaluation team.  They determine whether there are any security concerns in "
+"software that has been offered to GNU."
+msgstr ""
+"A equipe de avaliação de segurança de software em <a href=\"mailto:gnueval-"
+"security@gnu.org\">gnueval-security@gnu.org</a> trabalha com a equipe de "
+"avaliação de software. Eles determinam se há alguma preocupação com a "
+"segurança no software que foi oferecido ao GNU."
+
+#. type: Content of: <p>
+msgid "New members are recruited from existing GNU volunteers when needed."
+msgstr ""
+"Novos membros são recrutados de voluntários GNU existentes quando necessário."
+
+#. type: Content of: <h4>
+msgid "Security Team"
+msgstr "Equipe de Segurança"
+
+#. type: Content of: <p>
+msgid ""
+"The <a href=\"mailto:security@gnu.org\">Security Team</a> helps to resolve "
+"security bugs in a timely fashion.  If the maintainer of a GNU package fails "
+"to respond to a report of a security flaw, the reporter can escalate the "
+"issue to the security team.  If it decides the issue is urgent, it can "
+"develop a patch and publish a fixed release of the package.  Maintainers can "
+"also ask the security team for advice in securing their packages."
+msgstr ""
+"A <a href=\"mailto:security@gnu.org\">Equipe de Segurança</a> ajuda a "
+"resolver bugs de segurança em tempo hábil. Se o mantenedor de um pacote GNU "
+"falhar em responder a um relatório de uma falha de segurança, o relatante "
+"pode escalar o problema para a equipe de segurança. Se decidir que o "
+"problema é urgente, ele pode desenvolver um patch e publicar uma versão "
+"corrigida do pacote. Os mantenedores também podem pedir conselhos à equipe "
+"de segurança sobre como proteger seus pacotes."
+
+#. type: Content of: <h4>
+msgid "Platform Testers"
+msgstr "Testadores de plataforma"
+
+#. type: Content of: <p>
+msgid ""
+"Volunteers behind the <a href=\"//lists.gnu.org/mailman/listinfo/platform-"
+"testers\">platform-testers@gnu.org</a> mailing list test GNU software pre-"
+"releases on different hardware platforms to ensure that it functions "
+"correctly."
+msgstr ""
+"Os voluntários da lista de discussão <a href=\"//lists.gnu.org/mailman/"
+"listinfo/platform-testers\">platform-testers@gnu.org</a> testam pré-"
+"lançamentos de software GNU em diferentes plataformas de hardware para "
+"garantir que funciona corretamente."
+
+#. type: Content of: <p>
+msgid "New volunteers are welcome."
+msgstr "Novos voluntários são bem-vindos."
+
+#. type: Content of: <h4>
+msgid "Mentors"
+msgstr "Mentores"
+
+#. type: Content of: <p>
+msgid ""
+"The GNU Mentors (<a href=\"mailto:mentors@gnu.org\">mentors@gnu.org</a>) "
+"volunteer to provide guidance for new software maintainers."
+msgstr ""
+"Os mentores do GNU (<a href=\"mailto:mentors@gnu.org\">mentors@gnu.org</a>) "
+"se oferecem como voluntários para fornecer orientação para novos "
+"mantenedores de software."
+
+#. type: Content of: <p>
+msgid "We ask long-time GNU maintainers to volunteer."
+msgstr "Pedimos aos mantenedores GNU de longa data que sejam voluntários."
+
+#. type: Content of: <h4>
+msgid "Proofreaders"
+msgstr "Revisores"
+
+#. type: Content of: <p>
+msgid ""
+"The proofreaders list is available to help GNU package maintainers by "
+"proofreading English text.  To request proofreading, write to <a href="
+"\"mailto:proofreaders@gnu.org\">proofreaders@gnu.org</a>."
+msgstr ""
+"A lista de revisores está disponível para ajudar os mantenedores de pacotes "
+"GNU revisando o texto em inglês. Para solicitar revisão, escreva para <a "
+"href=\"mailto:proofreaders@gnu.org\">proofreaders@gnu.org</a>."
+
+#. type: Content of: <h3>
+msgid "Other Teams and Services"
+msgstr "Outras equipes e serviços"
+
+#. type: Content of: <p>
+msgid ""
+"Several other teams facilitate or manage the day-to-day operations within "
+"the GNU Project, or advance specific goals of the project."
+msgstr ""
+"Várias outras equipes facilitam ou gerenciam as operações do dia a dia "
+"dentro do Projeto GNU ou promovem objetivos específicos do projeto."
+
+#. type: Content of: <h4>
+msgid "GNU Advisory Committee"
+msgstr "Comitê Consultivo do GNU"
+
+#. type: Content of: <p>
+msgid ""
+"The <a href=\"/contact/gnu-advisory.html\">GNU Advisory Committee</a> (GAC) "
+"exists to provide advice to the Chief GNUisance.  Members of the Advisory "
+"Committee are appointed by the Chief GNUisance.  The Advisory Committee "
+"generally monitors the health of the GNU Project on behalf of the Chief "
+"GNUisance and they raise potential issues for discussion."
+msgstr ""
+"O <a href=\"/contact/gnu-advisory.html\">Comitê Consultivo do GNU</a> (GAC) "
+"existe para fornecer conselhos ao Chefe GNUisance. Os membros do Comitê "
+"Consultivo são nomeados pelo Chefe GNUisance. O Comitê Consultivo geralmente "
+"monitora a saúde do Projeto GNU em nome do Chefe GNUisance e levanta "
+"questões potenciais para discussão."
+
+#. type: Content of: <h4>
+msgid "Savannah Hackers"
+msgstr "Hackers do Savannah"
+
+#. type: Content of: <p>
+msgid ""
+"<a href=\"//savannah.gnu.org\">Savannah</a> is the GNU Project's software "
+"forge.  It hosts code repositories, bug reporting tools, mailing list "
+"interfaces and more.  Savannah is administered by the <a href=\"mailto:"
+"savannah-hackers-public@gnu.org\">Savannah Hackers</a>.  They keep the forge "
+"software up and running.  In addition to ensuring that GNU software is "
+"properly hosted in the service, the Savannah Hackers also evaluate non-GNU "
+"software that applies to be hosted on the forge."
+msgstr ""
+"<a href=\"//savannah.gnu.org\">Savannah</a> é a forja de software do Projeto "
+"GNU. Ele hospeda repositórios de código, ferramentas de relatório de bugs, "
+"interfaces de lista de discussão e muito mais. Savannah é administrada pelos "
+"<a href=\"mailto:savannah-hackers-public@gnu.org\">Hackers do Savannah</a>. "
+"Eles mantêm o software da forja ativo e funcionando. Além de garantir que o "
+"software GNU seja hospedado corretamente no serviço, os Hackers do Savannah "
+"também avaliam software não GNU que se aplica para ser hospedado na forja."
+
+#. type: Content of: <h4>
+msgid "Webmasters"
+msgstr "Webmasters"
+
+#. type: Content of: <p>
+msgid ""
+"The <a href=\"/people/webmeisters.html\">GNU Webmasters</a> maintain and "
+"update the web pages at <a href=\"/\">https://www.gnu.org</a>."
+msgstr ""
+"Os <a href=\"/people/webmeisters.html\">Webmasters do GNU</a> mantêm e "
+"atualizam as páginas web em <a href=\"/\">https://www.gnu.org</a>."
+
+#. type: Content of: <p>
+msgid ""
+"Webmasters also answer various kinds of questions sent by the public, "
+"regarding topics such as free software and licenses (when the answer is "
+"clear).  They do initial filtering of requests to evaluate a distro, "
+"evaluate people who would like to become webmasters, and update the list of "
+"mirrors."
+msgstr ""
+"Os webmasters também respondem a diversos tipos de perguntas enviadas pelo "
+"público, sobre temas como software livre e licenças (quando a resposta é "
+"clara). Eles fazem a filtragem inicial de solicitações para avaliar uma "
+"distribuição, avaliam as pessoas que gostariam de se tornar webmasters e "
+"atualizam a lista de espelhos."
+
+#. type: Content of: <p>
+msgid ""
+"The GNU Webmaster Group is led by the&nbsp;<a href=\"mailto:chief-"
+"webmaster@gnu.org\">Chief Webmaster</a> who reports to&nbsp; the Chief "
+"GNUisance.  New volunteers are welcome.  See <a href=\"/server/standards/"
+"webmaster-quiz.html\">the Volunteer Webmaster Quiz</a>."
+msgstr ""
+"O grupo de Webmaster do GNU é liderado pelo <a href=\"mailto:chief-"
+"webmaster@gnu.org\">Chefe Webmaster</a> que se reporta ao Chefe GNUisance. "
+"Novos voluntários são bem-vindos. Consulte o <a href=\"/server/standards/"
+"webmaster-quiz.html\">Questionário de Voluntário a Webmaster</a>."
+
+#. type: Content of: <h4>
+msgid "Web Translators"
+msgstr "Tradutores web"
+
+#. type: Content of: <p>
+msgid ""
+"Each language has a translation team, directed by a team coordinator.  See "
+"<a href=\"/server/standards/README.translations.html\">the Guide to "
+"Translating Web Pages on www.gnu.org</a> for more information.  The team "
+"coordinators report to the&nbsp;<a href=\"mailto:web-translators@gnu.org"
+"\">GNU Translations Manager</a>, who&nbsp;reports to the Chief GNUisance."
+msgstr ""
+"Cada idioma possui uma equipe de tradução, dirigida por um coordenador de "
+"equipe. Consulte <a href=\"/server/standards/README.translations.html\">o "
+"Guia para traduzir páginas web em www.gnu.org</a> para obter mais "
+"informações. Os coordenadores da equipe se reportam ao <a href=\"mailto:web-"
+"translators@gnu.org\">Gerente de Traduções do GNU</a>, que se reporta ao "
+"Chefe GNUisance."
+
+#. type: Content of: <h4>
+msgid "List Helpers"
+msgstr "Auxiliares de lista"
+
+#. type: Content of: <p>
+msgid ""
+"<a href=\"//savannah.gnu.org/maintenance/ListHelperAntiSpam/\">Listhelper</"
+"a> is a system for semi-automatically managing spam sent to GNU mailing "
+"lists.  Most spam is caught by spam filters, but human moderators are also "
+"available to manage the queue of messages predicted not to be spam."
+msgstr ""
+"<a href=\"//savannah.gnu.org/maintenance/ListHelperAntiSpam/\">Listhelper</"
+"a> é um sistema para gerenciamento semiautomático de spam enviado para "
+"listas de discussão GNU. A maior parte do spam é detectada por filtros de "
+"spam, mas moderadores humanos também estão disponíveis para gerenciar a fila "
+"de mensagens que se prevê que não sejam spam."
+
+#. type: Content of: <h4>
+msgid "GNU Volunteer Coordinators"
+msgstr "Coordenadores de Voluntários do GNU"
+
+#. type: Content of: <p>
+msgid ""
+"The GNU Volunteer Coordinators (<a href=\"mailto:gvc@gnu.org\">gvc@gnu.org</"
+"a>) help to guide new volunteers towards suitable jobs within the GNU Project"
+msgstr ""
+"Os Coordenadores de Voluntários do GNU (<a href=\"mailto:gvc@gnu.org"
+"\">gvc@gnu.org</a>) ajudam a orientar novos voluntários para trabalhos "
+"adequados dentro do Projeto GNU"
+
+#. type: Content of: <p>
+msgid ""
+"New GVC volunteers are welcome, but prior experience volunteering within GNU "
+"(and thus broad knowledge of the GNU Project) is highly recommended."
+msgstr ""
+"Novos voluntários do GVC são bem-vindos, mas a experiência anterior de "
+"voluntariado no GNU (e, portanto, amplo conhecimento do Projeto GNU) é "
+"altamente recomendado."
+
+#. type: Content of: <h4>
+msgid "GNU Education Team"
+msgstr "Equipe de Educação do GNU"
+
+#. type: Content of: <p>
+msgid ""
+"The <a href=\"/education/\">GNU Education Team</a> promotes the adoption of "
+"the GNU Operating System in educational environments.  It also evaluates "
+"schools and speaks to school administrators."
+msgstr ""
+"A <a href=\"/education/\">Equipe de Educação do GNU</a> promove a adoção do "
+"sistema operacional GNU em ambientes educacionais. Também avalia escolas e "
+"fala com administradores escolares."
+
+#. type: Content of: <h4>
+msgid "GNU Standards Group"
+msgstr "Grupo de Padrões do GNU"
+
+#. type: Content of: <p>
+msgid ""
+"The GNU Standards Group evaluates proposals to update the GNU coding "
+"standards.  Anyone can submit a proposal via the <a href=\"//lists.gnu.org/"
+"mailman/listinfo/bug-standards\">bug-standards</a> mailing list.  The group "
+"then discusses and evaluates the proposal to work out all the details and "
+"implications.  They then present the proposal and a recommendation to the "
+"Chief GNUisance, who makes the decision.  The group is also responsible for "
+"installing changes to the document as well as updating the document on the "
+"web."
+msgstr ""
+"O Grupo de Padrões do GNU avalia propostas para atualizar os padrões de "
+"codificação GNU. Qualquer pessoa pode enviar uma proposta por meio da lista "
+"de discussão <a href=\"//lists.gnu.org/mailman/listinfo/bug-standards\">bug-"
+"standards</a>. O grupo então discute e avalia a proposta para trabalhar "
+"todos os detalhes e implicações. Eles então apresentam a proposta e uma "
+"recomendação ao Chefe GNUisance, que toma a decisão. O grupo também é "
+"responsável por instalar as alterações no documento, bem como atualizar o "
+"documento web."
+
+#. type: Content of: <p>
+msgid "New volunteers are recruited from existing GNU volunteers when needed."
+msgstr ""
+"Novos voluntários são recrutados de voluntários GNU existentes quando "
+"necessário."
+
+#. type: Content of: <h3>
+msgid "Correcting Errors"
+msgstr "Corrigindo erros"
+
+#. type: Content of: <p>
+msgid ""
+"If we find errors or omissions in this description of the existing "
+"structure, which are possible since it previously had no centralized "
+"documentation, we will update this document, both <a href=\"/gnu/gnu-"
+"structure.org\">the Org version</a> and <a href=\"/gnu/gnu-structure.html"
+"\">the HTML version</a>, advancing the third version number.  We will keep "
+"older versions available in <a href=\"/gnu/old-gnu-structure/\">a "
+"subdirectory</a>."
+msgstr ""
+"Se encontrarmos erros ou omissões nesta descrição da estrutura existente, "
+"que são possíveis por não ter anteriormente uma documentação centralizada, "
+"iremos atualizar este documento, tanto <a href=\"/gnu/gnu-structure.org\">a "
+"versão Org</a> e <a href=\"/gnu/gnu-structure.html\">a versão HTML</a>, "
+"avançando o terceiro número de versão. Manteremos as versões anteriores "
+"disponíveis em <a href=\"/gnu/old-gnu-structure/\">um subdiretório</a>."
+
+#. type: Content of: <h3>
+msgid "Future Changes in Administrative Structure"
+msgstr "Mudanças futuras na estrutura administrativa"
+
+#. type: Content of: <p>
+msgid ""
+"Changes in the GNU Project administrative structure are decided on by the "
+"Chief GNUisance after starting consultations with GNU contributors, usually "
+"on appropriate GNU Project discussion lists.  The aim of these consultations "
+"is to consider possible alternatives and anticipate what good and bad "
+"effects they would have, so as to make a wise decision."
+msgstr ""
+"Mudanças na estrutura administrativa do Projeto GNU são decididas pelo Chefe "
+"GNUisance após iniciar as consultas com os contribuidores GNU, geralmente em "
+"listas de discussão apropriadas do Projeto GNU. O objetivo dessas consultas "
+"é considerar as alternativas possíveis e antecipar os efeitos bons e ruins "
+"que elas teriam, para tomar uma decisão acertada."
+
+#. type: Content of: <p>
+msgid ""
+"To report changes that are adopted, we will update this document, both the "
+"Org version and the HTML version (see previous section), advancing the first "
+"and/or second version number."
+msgstr ""
+"Para relatar as alterações adotadas, vamos atualizar este documento, tanto a "
+"versão Org quanto a versão HTML (ver seção anterior), avançando o número da "
+"primeira e/ou segunda versão."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas deste site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2020 Brandon Invergo and Richard Stallman"
+msgstr "Copyright &copy; 2020 Brandon Invergo e Richard Stallman"
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2021."
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização:"

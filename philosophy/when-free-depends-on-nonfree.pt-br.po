@@ -1,20 +1,20 @@
 # Brazilian Portuguese translation of https://www.gnu.org/philosophy/when-free-depends-on-nonfree.html
-# Copyright (C) 2019 Free Software Foundation, Inc.
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2019.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2019-2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: when-free-depends-on-nonfree.html\n"
 "POT-Creation-Date: 2018-01-01 05:59+0000\n"
-"PO-Revision-Date: 2019-04-27 16:17-0300\n"
+"PO-Revision-Date: 2021-05-03 10:15-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 1.0.0-beta1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -163,8 +163,8 @@ msgid ""
 "program is trapped across time&mdash;we could call it &ldquo;diachronically "
 "trapped,&rdquo; borrowing another term from linguistics."
 msgstr ""
-"Se a maneira que você deve fazer isso é executando um programa proprietário "
-"de reformatação de banco de dados ou usando o serviço do desenvolvedor que é "
+"Se a maneira que você deve fazer isso é executando um programa privativo de "
+"reformatação de banco de dados ou usando o serviço do desenvolvedor que é "
 "SaaSS (<a href=\"/philosophy/who-does-that-server-really-serve.html"
 "\">Serviço como Substituto de Software</a>), o software de banco de dados "
 "está preso &ndash; mas de uma maneira mais sutil. Qualquer versão única do "
@@ -212,8 +212,8 @@ msgid ""
 "a>."
 msgstr ""
 "O uso do SaaSS é inerentemente equivalente à execução de um programa "
-"proprietário com funcionalidade bisbilhotar e uma <i lang=\"en\">back door</"
-"i> universal. O serviço pode manter uma cópia dos bancos de dados que os "
+"privativo com funcionalidade bisbilhotar e uma <i lang=\"en\">back door</i> "
+"universal. O serviço pode manter uma cópia dos bancos de dados que os "
 "usuários reformatam. Mesmo se pudermos confiar na empresa que administra o "
 "serviço para nunca mostrar intencionalmente qualquer forma de dados a "
 "ninguém, não podemos ter certeza de que ela não será acessada pelas <a href="

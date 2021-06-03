@@ -1,22 +1,22 @@
 # Brazilian Portuguese translation of http://www.gnu.org/licenses/rms-why-gplv3.html
-# Copyright (C) 2016 Free Software Foundation, Inc.
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Based on Frank Alcantara's translation on http://www.depijama.com/por-que-atualizar-para-a-gpl-versao-tres-por-richard-stallman/
-# Rafael Fontenelle <rafaelff@gnome.org>, 2016.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2016-2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: rms-why-gplv3.html\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-05 00:01+0000\n"
-"PO-Revision-Date: 2016-12-06 09:11-0200\n"
+"PO-Revision-Date: 2021-05-03 10:15-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 0.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <title>
 msgid "Why Upgrade to GPLv3 - GNU Project - Free Software Foundation"
@@ -308,7 +308,7 @@ msgid ""
 msgstr ""
 "Consequentemente, a GPLv3 busca limitar e direcionar o perigo. Em "
 "particular, nós tentamos salvar o software livre de um destino pior que a "
-"morte: ser efetivamente transformado em software proprietário via patente. A "
+"morte: ser efetivamente transformado em software privativo via patente. A "
 "licença explícita de patentes da GPLv3 garante que companhias que usem a GPL "
 "para dar aos seus usuários as quatro liberdades não poderão desistir e usar "
 "suas patentes para dizer a alguns usuários “Isto não inclui você”. Isto "
@@ -419,7 +419,8 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "<b>Tradução:</b> Rafael Fontenelle \n"
-"<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, 2016"
+"<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, "
+"2016-2021"
 
 #.  timestamp start 
 #. type: Content of: <div><p>

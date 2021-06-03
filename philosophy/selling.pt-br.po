@@ -1,22 +1,22 @@
 # Brazilian Portuguese translation of http://www.gnu.org/philosophy/selling.html
-# Copyright (C) 2018 Free Software Foundation, Inc.
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # João Paulo Domingos Silva <joaopaulo.ds@gmail.com>, 2005.
 # Jan 2015: GNUNify; trivial update (T. Godefroy).
-# Rafael Fontenelle <rafaelff@gnome.org>, 2016, 2017, 2018.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2016-2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: selling.html\n"
 "POT-Creation-Date: 2018-01-01 05:58+0000\n"
-"PO-Revision-Date: 2018-01-18 09:17-0200\n"
+"PO-Revision-Date: 2021-05-03 10:15-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 1.0.0-beta1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <title>
 msgid "Selling Free Software - GNU Project - Free Software Foundation"
@@ -164,7 +164,7 @@ msgstr ""
 "Algumas vezes, as pessoas se preocupam se uma taxa alta por uma distribuição "
 "colocará o software livre fora do alcance de usuários que não têm muito "
 "dinheiro. Com o <a href=\"/philosophy/categories.html#ProprietarySoftware"
-"\">software proprietário</a>, um preço alto faz exatamente isso — mas com o "
+"\">software privativo</a>, um preço alto faz exatamente isso — mas com o "
 "software livre é diferente."
 
 #. type: Content of: <p>
@@ -182,7 +182,7 @@ msgid ""
 "make it hard for some users to use the program."
 msgstr ""
 "Retentores de software fazem de tudo para impedir você de executar um "
-"programa proprietário sem o pagamento do preço de tabela. Se esse preço for "
+"programa privativo sem o pagamento do preço de tabela. Se esse preço for "
 "alto, será complicado para que algumas pessoas usem o programa."
 
 #. type: Content of: <p>
@@ -221,7 +221,7 @@ msgid ""
 "With so many ways to get copies, the price of distribution service has less "
 "effect on popularity."
 msgstr ""
-"Isso é verdade para o software proprietário — mas para o software livre é "
+"Isso é verdade para o software privativo — mas para o software livre é "
 "diferente. Com tantas maneiras de se conseguir cópias, o preço da "
 "distribuição tem pouco efeito na popularidade."
 
@@ -236,10 +236,10 @@ msgid ""
 msgstr ""
 "A longo prazo, a quantidade de pessoas que usam software livre é determinada "
 "principalmente pelo <em>quanto o software livre pode fazer</em> e pelo quão "
-"simples é seu uso. Muitos usuários continuarão a usar software proprietário "
-"se o software livre não puder fazer todas as tarefas que eles querem. "
-"Portanto, se queremos aumentar o número de usuários a longo prazo, "
-"deveríamos, acima de tudo, <em>desenvolver mais software livre</em>."
+"simples é seu uso. Muitos usuários continuarão a usar software privativo se "
+"o software livre não puder fazer todas as tarefas que eles querem. Portanto, "
+"se queremos aumentar o número de usuários a longo prazo, deveríamos, acima "
+"de tudo, <em>desenvolver mais software livre</em>."
 
 #. type: Content of: <p>
 msgid ""
@@ -278,7 +278,7 @@ msgstr ""
 "Entretanto, quando as pessoas pensam em “<a href=\"/philosophy/words-to-"
 "avoid.html#SellSoftware\">vender software</a>”, elas comumente pensam em "
 "fazer isso como a maioria das empresas o fazem: tornando-o software "
-"proprietário ao invés de livre."
+"privativo ao invés de livre."
 
 #. type: Content of: <p>
 msgid ""

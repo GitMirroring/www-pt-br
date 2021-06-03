@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: planetfeeds.html\n"
-"POT-Creation-Date: 2021-04-26 05:56+0000\n"
-"PO-Revision-Date: 2021-05-03 06:58-0300\n"
+"POT-Creation-Date: 2021-05-31 12:57+0000\n"
+"PO-Revision-Date: 2021-06-03 16:46-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -18,46 +18,150 @@ msgstr ""
 "X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <p>
-msgid "Beyond the shouting match: what is a blockchain, really?"
-msgstr "Além da disputa de gritos: o que é um blockchain, realmente?"
+msgid "Gnuastro 0.15 released"
+msgstr "Gnuastro 0.15 lançado"
 
 #.  TRANSLATORS: 
-#. http://dustycloud.org/blog/what-is-a-blockchain-really/ 
+#. http://savannah.gnu.org/forum/forum.php?forum_id=10002 
 #. type: Content of: <p>
 msgid ""
-": If there&#39;s one thing that&#39;s true about the word \"blockchain\", "
-"it&#39;s that these days people have strong opinions about it..."
+": The 15th release of Gnuastro is now available. See the full announcement "
+"for more."
 msgstr ""
-": Se há uma coisa que é verdade sobre a palavra \"blockchain\", é que hoje "
-"em dia as pessoas têm opiniões fortes sobre ela..."
+": O 15º lançamento do Gnuastro já está disponível. Veja o anúncio para mais "
+"informações."
 
 #. type: Content of: <p>
-msgid "Building derivations, how complicated can it be?"
-msgstr "Construir derivações, quão complicado pode ser?"
+msgid "GNU M4 1.4.19 released [stable]"
+msgstr "GNU M4 1.4.19 lançado [estável]"
 
 #.  TRANSLATORS: 
-#. https://guix.gnu.org/blog/2021/building-derivations-how-complicated-can-it-be/ 
+#. http://savannah.gnu.org/forum/forum.php?forum_id=10001 
 #. type: Content of: <p>
 msgid ""
-": Derivations are key to Guix, they&#39;re the low-level build instructions "
-"used for things like packages, disk images, and most things than en..."
+": See the release announcement here: https://lists.gnu.org/archive/html/m4-"
+"announce/2021-05/msg00002.html"
 msgstr ""
-": Derivações são a chave para o Guix, são as instruções de construção de "
-"baixo nível usadas para coisas como pacotes, imagens de disco e muito..."
+": Veja o anúncio de lançamento aqui: https://lists.gnu.org/archive/html/m4-"
+"announce/2021-05/msg00002.html"
 
 #. type: Content of: <p>
-msgid "GNU Parallel 20210422 (&#39;Ever Given&#39;) released [stable]"
-msgstr "GNU Parallel 20210422 (&#39;Ever Given&#39;) lançado [estável]"
+msgid "May GNU Spotlight with Mike Gerwitz: 11 new GNU releases!"
+msgstr "Holofote GNU de maio com Mike Gerwitz: 11 novos lançamentos!"
 
 #.  TRANSLATORS: 
-#. http://savannah.gnu.org/forum/forum.php?forum_id=9971 
+#. http://www.fsf.org/blogs/community/may-gnu-spotlight-with-mike-gerwitz-11-new-gnu-releases 
 #. type: Content of: <p>
-msgid ""
-": GNU Parallel 20210322 (&#39;Ever Given&#39;) [stable] has been released. "
-"It is available for download at: lbry://@GnuParallel:4..."
-msgstr ""
-": GNU Parallel 20210322 (&#39;Ever Given&#39;) [estável] foi lançado. Está "
-"disponível para download em: lbry://@GnuParallel:4..."
+msgid ": 11 new GNU releases in the last month (as of May 25, 2021):"
+msgstr ": 11 novos lançamentos do GNU no último mês (até 25 de maio, 2021):"
+
+#~ msgid "Community meeting on the future of our IRC presence"
+#~ msgstr "Reunião da comunidade sobre o futuro da nossa presença no IRC"
+
+#~ msgid "GNU Parallel 20210522 (&#39;Gaza&#39;) released"
+#~ msgstr "GNU Parallel 20210522 (&#39;Gaza&#39;) lançado"
+
+#~ msgid ""
+#~ ": GNU Parallel 20210522 (&#39;Gaza&#39;) has been released. It is "
+#~ "available for download at: lbry://@GnuParallel:4 Please help spreading "
+#~ "GNU Par..."
+#~ msgstr ""
+#~ ": GNU Parallel 20210522 (&#39;Gaza&#39;) foi lançado. Está disponível "
+#~ "para download em: lbry://@GnuParallel:4 Por favor, ajuda a espalhar o "
+#~ "GNU..."
+
+#~ msgid "FreeIPMI 1.6.8 Released"
+#~ msgstr "FreeIPMI 1.6.8 lançado"
+
+#~ msgid ""
+#~ ": o Fix incorrect sensor read corner case on BMCs that use non-default "
+#~ "LUNs (LP#1926299). o Remove hard coded paths from system config files (i."
+#~ "e. mostly files in /etc)..."
+#~ msgstr ""
+#~ ": o Corrição de caso de canto de leitura incorreta de sensor em BMCs que "
+#~ "usam LUNs não padrão (LP#1926299). o Remoção dos caminhos codificados dos "
+#~ "arquivos de config..."
+
+#~ msgid "GNU Guix 1.3.0 released"
+#~ msgstr "GNU Guix 1.3.0 lançado"
+
+#~ msgid ""
+#~ ": We are pleased to announce the release of GNU Guix version 1.3.0!The "
+#~ "release comes with ISO-9660 installation images, a virtual machine image, "
+#~ "and with tarballs to in..."
+#~ msgstr ""
+#~ ": Temos o prazer de anunciar o lançamento do GNU Guix 1.3.0!Esta versão "
+#~ "vem com imagens de instalação em ISO-9660, uma imagem de máquina virtual "
+#~ "e com tarballs para inst..."
+
+#~ msgid ""
+#~ ": More details at https://lists.gnu.org/archive/html/m4-discuss/2021-05/"
+#~ "msg00002.html This beta release will enable translators time to prepare ."
+#~ "po files before..."
+#~ msgstr ""
+#~ ": Mais detalhes em https://lists.gnu.org/archive/html/m4-discuss/2021-05/"
+#~ "msg00002.html Esta versão beta permitirá que os tradutores tenham tempo "
+#~ "para preparar os..."
+
+#~ msgid "GNU Guile 3.0.7 released"
+#~ msgstr "GNU Guile 3.0.7 lançado"
+
+#~ msgid ""
+#~ ": We are humbled to announce the release of GNU Guile 3.0.7. This release "
+#~ "fixes a number of bugs, a couple of which were introduced in the previous "
+#~ "release. For full d..."
+#~ msgstr ""
+#~ ": Temos o prazer de anunciar o lançamento do GNU Guile 3.0.7. Esta versão "
+#~ "corrige alguns erros, alguns dos quais foram introduzidos no lançamenot "
+#~ "anterior. Para doc..."
+
+#~ msgid "Pokology: a community-driven website about GNU poke"
+#~ msgstr "Pokology: um site voltado para a comunidade sobre GNU poke"
+
+#~ msgid ""
+#~ ": We are happy to announce the availability of a new website, https://"
+#~ "pokology.org. Pokology is a community-driven live repository of knowle..."
+#~ msgstr ""
+#~ ": Temos o prazer de anunciar a disponibilidade de um novo site, https://"
+#~ "pokology.org. Pokology é um repositório de conhecimento ao vivo voltado..."
+
+#~ msgid ""
+#~ "Free Software Wireless-N Mini Router v3 from ThinkPenguin, Inc. now FSF-"
+#~ "certified to Respect Your Freedom"
+#~ msgstr ""
+#~ "Free Software Wireless-N Mini Router v3 da ThinkPenguin, Inc. agora "
+#~ "certificada pela FSF por Respeitar Sua Liberdade"
+
+#~ msgid ""
+#~ ": BOSTON, Massachusetts, USA -- Friday, April 30th, 2021 -- The Free "
+#~ "Software Foundati..."
+#~ msgstr ""
+#~ ": BOSTON, Massachusetts, EUA -- sexta-feira, 30 de abril de 2021 -- a "
+#~ "Free Software Foundati..."
+
+#~ msgid "FSF board frequently asked questions (FAQ)"
+#~ msgstr "Perguntas frequentes à diretoria da FSF (FAQ)"
+
+#~ msgid "Beyond the shouting match: what is a blockchain, really?"
+#~ msgstr "Além da disputa de gritos: o que é um blockchain, realmente?"
+
+#~ msgid ""
+#~ ": If there&#39;s one thing that&#39;s true about the word \"blockchain\", "
+#~ "it&#39;s that these days people have strong opinions about it..."
+#~ msgstr ""
+#~ ": Se há uma coisa que é verdade sobre a palavra \"blockchain\", é que "
+#~ "hoje em dia as pessoas têm opiniões fortes sobre ela..."
+
+#~ msgid "Building derivations, how complicated can it be?"
+#~ msgstr "Construir derivações, quão complicado pode ser?"
+
+#~ msgid ""
+#~ ": Derivations are key to Guix, they&#39;re the low-level build "
+#~ "instructions used for things like packages, disk images, and most things "
+#~ "than en..."
+#~ msgstr ""
+#~ ": Derivações são a chave para o Guix, são as instruções de construção de "
+#~ "baixo nível usadas para coisas como pacotes, imagens de disco e muito..."
 
 #~ msgid "GNU poke 1.2 released"
 #~ msgstr "GNU poke 1.2 lançado"
@@ -76,13 +180,6 @@ msgstr ""
 
 #~ msgid "RMS addresses the free software community"
 #~ msgstr "RMS se dirige à comunidade de software livre"
-
-#~ msgid "March GNU Spotlight with Mike Gerwitz: 14 new GNU releases!"
-#~ msgstr "Holofote GNU de março com Mike Gerwitz: 14 novos lançamentos!"
-
-#~ msgid ": 14 new GNU releases in the last month (as of March 25, 2021):"
-#~ msgstr ""
-#~ ": 14 novos lançamentos do GNU no último mês (até 25 de março, 2021):"
 
 #~ msgid "libredwg-0.12.4 released"
 #~ msgstr "libredwg-0.12.4 lançado"
@@ -132,9 +229,6 @@ msgstr ""
 #~ "abusiva. Os programas nele devem ser executados no seu próprio "
 #~ "computador. No entanto, você precisa estar online para executar ..."
 
-#~ msgid "Cuirass 1.0 released"
-#~ msgstr "Cuirass 1.0 lançado"
-
 #~ msgid "Let&#39;s Fight Back Nonfree JavaScript!"
 #~ msgstr "Vamos lutar contra o JavaScript não livre!"
 
@@ -168,13 +262,6 @@ msgstr ""
 #~ msgstr ""
 #~ "Free Software Foundation recebeu bolsa de projeto de consultoria da "
 #~ "Community Consulting Teams de Boston"
-
-#~ msgid ""
-#~ ": BOSTON, Massachusetts, USA -- Wednesday, March 3, 2021 -- The Free "
-#~ "Software Foundation (FS..."
-#~ msgstr ""
-#~ ": BOSTON, Massachusetts, EUA -- quarta-feira, 3 de março de 2021 -- a "
-#~ "Free Software Foundation..."
 
 #~ msgid "Release 2.5 out now."
 #~ msgstr "Versão 2.5 foi lançada."
@@ -218,9 +305,6 @@ msgstr ""
 #~ msgstr ""
 #~ ": Prezada comunidade: Tenho muito orgulho de anunciar o lançamento da "
 #~ "série 3.8 do GNU Health Hospital Management Information System (HMIS)..."
-
-#~ msgid "FreeIPMI 1.6.7 Released"
-#~ msgstr "FreeIPMI 1.6.7 lançado"
 
 #~ msgid ""
 #~ ": FreeIPMI 1.6.7 - 02/12/21 ----------------------------------- o Do not "
@@ -309,7 +393,7 @@ msgstr ""
 #~ msgstr ""
 #~ ": Android Rebuilds fornece compilações licenciadas livremente de "
 #~ "ferramentas de desenvolvimento Android de uma empresa baseada em Mountain "
-#~ "View. Binários proprietários são..."
+#~ "View. Binários privativos são..."
 
 #~ msgid "parted-3.4 released [stable]"
 #~ msgstr "parted-3.4 lançado [estável]"
@@ -322,13 +406,6 @@ msgstr ""
 #~ ": Parted 3.4 foi lançado. Esse lançamento inclui muitas correções de "
 #~ "erros e novos recursos. Aqui está a página inicial do Parted: http://www."
 #~ "gnu.org/software/parted/..."
-
-#~ msgid ""
-#~ ": The 14th release of Gnuastro is now available. See the full "
-#~ "announcement for more."
-#~ msgstr ""
-#~ ": O 14º lançamento do Gnuastro já está disponível. Por favor, veja o "
-#~ "anúncio para detalhes."
 
 #~ msgid "libsigsegv 2.13 is released"
 #~ msgstr "libsigsegv 2.13 lançado"
@@ -386,9 +463,6 @@ msgstr ""
 #~ ": Isso é para anunciar o findutils-4.8.0, uma versão estável. Veja o NEWS "
 #~ "abaixo para mais detalhes. GNU findutils é um conjunto de ferramentas "
 #~ "para localizar arquivos..."
-
-#~ msgid "GNU Wget 1.21.1 Released"
-#~ msgstr "GNU Wget 1.21.1 lançado"
 
 #~ msgid ""
 #~ ": Noteworthy changes in this release: * Fix compilation on MacOS and "
@@ -757,13 +831,10 @@ msgstr ""
 #~ "os usuários de software. Acreditamos que todos têm o direito..."
 
 #~ msgid "Malware in Proprietary Software - Latest Additions"
-#~ msgstr "Malware em software proprietário - Últimas adições"
+#~ msgstr "Malware em software privativo - Últimas adições"
 
 #~ msgid "GNU Health Control Center 3.6.5 supports Weblate"
 #~ msgstr "GNU Health Control Center 3.6.5 apoia o Weblate"
-
-#~ msgid "GNU Guile 3.0.4 released"
-#~ msgstr "GNU Guile 3.0.4 lançado"
 
 #~ msgid ""
 #~ "GNU is Looking for Native English Speakers for Proofreading and "
@@ -1213,12 +1284,6 @@ msgstr ""
 #~ msgstr ""
 #~ ": GNU C Library ================= GNU C Library versão 2.31 está agora "
 #~ "disponível. GNU C Library é usada como a biblioteca C no sistema GNU..."
-
-#~ msgid ""
-#~ "Libiquity Wi-Fri ND2H Wi-Fi card now FSF-certified to Respect Your Freedom"
-#~ msgstr ""
-#~ "Placa de rede sem fio Libiquity Wi-Fri ND2H da ThinkPenguin agora "
-#~ "certificados pela FSF por Respeitar Sua Liberdade"
 
 #~ msgid "[From Arch] rsync compatibility"
 #~ msgstr "[Do Arch] Compatibilidade do rsync"
@@ -3349,7 +3414,7 @@ msgstr ""
 #~ msgid ""
 #~ "Apple App Store anniversary marks ten years of proprietary appsploitation"
 #~ msgstr ""
-#~ "Aniversário da Apple App Store marca dez anos de appsploração proprietária"
+#~ "Aniversário da Apple App Store marca dez anos de appsploração privativa"
 
 #~ msgid ""
 #~ ": It&#39;s been ten years since Apple opened the App Store. This created "

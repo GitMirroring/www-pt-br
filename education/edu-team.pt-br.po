@@ -1,21 +1,21 @@
 # Brazilian Portuguese translation of https://www.gnu.org/education/edu-team.html
-# Copyright (C) 2020 Free Software Foundation, Inc.
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2017, 2020.
 # May 2020: update to new layout (T. Godefroy).
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017-2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: edu-team.html\n"
-"POT-Creation-Date: 2020-07-31 08:55+0000\n"
-"PO-Revision-Date: 2020-08-02 19:55-0300\n"
+"POT-Creation-Date: 2021-05-26 21:26+0000\n"
+"PO-Revision-Date: 2021-05-03 10:15-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 1.0.0-beta1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <title>
 msgid "The Education Team - GNU Project - Free Software Foundation"
@@ -106,8 +106,8 @@ msgid ""
 "school."
 msgstr ""
 "Nós nos opomos a qualquer medida tomadas por instituições educacionais e "
-"governamentais para impor o uso de software proprietário e padrões na "
-"escola. Nós lutamos pelo direito dos professores e estudantes de usar "
+"governamentais para impor o uso de software privativo e padrões privativos "
+"na escola. Nós lutamos pelo direito dos professores e estudantes de usar "
 "Software Livre na escola."
 
 #. type: Content of: <div><div><p>
@@ -232,8 +232,8 @@ msgstr ""
 "contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2011, 2016, 2020 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2011, 2016, 2020 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2011, 2016, 2020, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2011, 2016, 2020, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -250,9 +250,13 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "<b>Traduzido por:</b> Rafael Fontenelle \n"
-"<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, 2017"
+"<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, "
+"2017-2021"
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid "Copyright &copy; 2011, 2016, 2020 Free Software Foundation, Inc."
+#~ msgstr "Copyright &copy; 2011, 2016, 2020 Free Software Foundation, Inc."

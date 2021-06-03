@@ -1,20 +1,20 @@
 # Brazilian Portuguese translation of https://www.gnu.org/philosophy/bug-nobody-allowed-to-understand.html
-# Copyright (C) 2018 Free Software Foundation, Inc.
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2018.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018-2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: bug-nobody-allowed-to-understand.html\n"
 "POT-Creation-Date: 2015-10-16 13:25+0000\n"
-"PO-Revision-Date: 2018-01-18 08:26-0200\n"
+"PO-Revision-Date: 2021-05-03 10:15-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 1.0.0-beta1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -41,9 +41,9 @@ msgid ""
 "pertinent programs. As a result, none of them can understand the bad "
 "interaction between them, and the bug is never fixed except by accident."
 msgstr ""
-"Na década de 1980, usuários de software proprietários descobriram o problema "
+"Na década de 1980, usuários de software privativo descobriram o problema "
 "<em>do erro que ninguém tem permissão para entender</em>. Quando ocorre um "
-"problema na interação de vários pacotes de software proprietários com "
+"problema na interação de vários pacotes de software privativo com "
 "desenvolvedores diferentes, nenhum deles pode estudar o código fonte de "
 "todos os programas pertinentes. Como resultado, nenhum deles pode entender a "
 "má interação entre eles e o erro nunca é corrigido, exceto por acidente."
@@ -125,7 +125,7 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
-"rafaelff@gnome.org&gt;</a>, 2018."
+"rafaelff@gnome.org&gt;</a>, 2018-2021."
 
 #.  timestamp start 
 #. type: Content of: <div><p>

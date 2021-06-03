@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: optionally-free-not-enough.html\n"
-"POT-Creation-Date: 2021-04-29 10:57+0000\n"
+"POT-Creation-Date: 2021-05-07 13:25+0000\n"
 "PO-Revision-Date: 2021-05-03 06:40-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -22,11 +22,11 @@ msgid "Optionally Free Is Not Enough - GNU Project - Free Software Foundation"
 msgstr ""
 "Livre Opcionalmente Não É Suficiente - Projeto GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Optionally Free Is Not Enough"
 msgstr "Livre Opcionalmente Não É Suficiente"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "There are distros we decline to recommend that offer the user the option of "
 "installing only free software.  Given that option, a user who values freedom "
@@ -38,7 +38,7 @@ msgstr ""
 "valoriza fortemente sua liberdade, e pensa sobre a questão, pode fazer com "
 "que essas distros respeitem sua liberdade."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "A distro that offers that option is clearly better than one that fails to "
 "offer that option.  But that option does not make the distro ok to recommend "
@@ -56,7 +56,7 @@ msgstr ""
 "uma forma de fazê-lo. E não queremos liderar pessoas a instalar software não "
 "livre. Escolhemos nossas práticas para tornar isso improvável."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Thus, our decision about recommending a distro depends on who we would "
 "recommend it to.  For instance, it could be:"
@@ -64,7 +64,7 @@ msgstr ""
 "Então, nossa decisão sobre recomendar uma distro depende de a quem nós a "
 "recomendaríamos. Por exemplo, poderia ser:"
 
-#. type: Content of: <ol><li>
+#. type: Content of: <div><ol><li>
 msgid ""
 "Specific committed free software supporters that we know will make an effort "
 "to avoid nonfree software."
@@ -72,11 +72,11 @@ msgstr ""
 "Apoiadores específicos comprometidos com o software livre que nós sabemos "
 "que se esforçarão para evitar software não livre."
 
-#. type: Content of: <ol><li>
+#. type: Content of: <div><ol><li>
 msgid "A large and diverse group, such as, perhaps, the public in general."
 msgstr "Um grupo grande e diverso, tal como, talvez, o público geral."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We could recommend the distro privately to people in that first group if the "
 "distro provides a clear and reliable way to reject nonfree software."
@@ -85,7 +85,7 @@ msgstr ""
 "primeiro grupo se a distro fornecer uma maneira clara e confiável de "
 "rejeitar software não livre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "However, when it comes to recommending a distro to the general public, we "
 "should insist (and we do insist) on an explicit commitment not to offer or "
@@ -97,7 +97,7 @@ msgstr ""
 "oferecer ou sugerir qualquer programa não livre. Dessa forma, sabemos que "
 "nossa recomendação dessa distro não levará o público a instalar nenhum deles."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "What distros should an install fest recommend or install for the public? On "
 "moral grounds, an install fest should not recommend or install nonfree "
@@ -111,7 +111,7 @@ msgstr ""
 "que precisam de drivers não-livres ou blobs de firmware para funcionar – sem "
 "eles, eles irão embora desapontados e considerarão o GNU/Linux um fracasso."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We thought of an idea for how to reconcile these two needs: the install fest "
 "installs a free distro, then <a href=\"/philosophy/install-fest-devil.html"
@@ -150,14 +150,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
@@ -165,8 +165,8 @@ msgstr ""
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas deste site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
 msgid "Copyright &copy; 2014, 2021 Free Software Foundation, Inc."
@@ -193,6 +193,25 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#, fuzzy
+#~| msgid ""
+#~| "Please see the <a href=\"/server/standards/README.translations.html"
+#~| "\">Translations README</a> for information on coordinating and "
+#~| "contributing translations of this article."
+#~ msgid ""
+#~ "Please see the <a href=\"/server/standards/README.translations.html"
+#~ "\">Translations README</a> for information on coordinating and "
+#~ "coodinating translations of this article."
+#~ msgstr ""
+#~ "A equipe de traduções para o português brasileiro se esforça para "
+#~ "oferecer traduções precisas e de boa qualidade, mas não estamos isentos "
+#~ "de erros. Por favor, envie seus comentários e sugestões em geral sobre as "
+#~ "traduções para <a href=\"mailto:web-translators@gnu.org\">&lt;web-"
+#~ "translators@gnu.org&gt;</a>. </p><p>Consulte o <a href=\"/server/"
+#~ "standards/README.translations.html\">Guia para as traduções</a> para mais "
+#~ "informações sobre a coordenação e a contribuição com traduções das "
+#~ "páginas deste site."
 
 #~ msgid "Copyright &copy; 2014 Free Software Foundation, Inc."
 #~ msgstr "Copyright &copy; 2014 Free Software Foundation, Inc."

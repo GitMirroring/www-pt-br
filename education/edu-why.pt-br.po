@@ -1,23 +1,23 @@
 # Brazilian Portuguese translation of https://www.gnu.org/education/edu-why.html
-# Copyright (C) 2020 Free Software Foundation, Inc.
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Hudson Flávio Menese Lacerda <hfmlacerda@yahoo.com.br>, 2014
-# Rafael Fontenelle <rafaelff@gnome.org>, 2017-2020.
 # May 2020: update to new layout (T. Godefroy).
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017-2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: edu-why.html\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-27 10:42+0200\n"
-"PO-Revision-Date: 2020-01-01 10:49-0300\n"
+"POT-Creation-Date: 2021-05-26 21:26+0000\n"
+"PO-Revision-Date: 2021-05-03 10:15-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 1.0.0-beta1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -103,7 +103,7 @@ msgid ""
 msgstr ""
 "<strong>Conhecimento</strong>. Muitos jovens estudantes têm talento para "
 "programação; eles são fascinados por computadores e ávidos de aprender como "
-"seus sistemas funcionam. Com software proprietário, essa informação é um "
+"seus sistemas funcionam. Com software privativo, essa informação é um "
 "segredo, então os professores não têm como torná-la disponível para seus "
 "estudantes. Mas se o programa é Software Livre, o professor pode explicar o "
 "básico e, então, entregar o código-fonte para que o estudante leia e aprenda."
@@ -141,8 +141,8 @@ msgstr ""
 "eles as habilidades que lhes facilitem ter o controle de suas próprias "
 "vidas. Software não deve estar sob o poder de um desenvolvedor que, "
 "unilateralmente, toma decisões que ninguém mais pode mudar. Instituições "
-"educacionais não devem permitir que empresas de software proprietário "
-"imponham seu poder sobre o resto da sociedade e seu futuro."
+"educacionais não devem permitir que empresas de software privativo imponham "
+"seu poder sobre o resto da sociedade e seu futuro."
 
 #. type: Content of: <div><div><h3>
 msgid "Independence"
@@ -171,10 +171,10 @@ msgid ""
 "companies are doing is they are recruiting schools and universities into "
 "agents to lead people to permanent lifelong dependency."
 msgstr ""
-"Empresas de software proprietário usam escolas e universidades como um "
+"Empresas de software privativo usam escolas e universidades como um "
 "trampolim para atingir usuários e, com isso, impor seus softwares sobre a "
 "sociedade como um todo. Elas oferecem descontos, ou até mesmo cópias grátis "
-"de seus programas proprietários às instituições educacionais, de forma que "
+"de seus programas privativos às instituições educacionais, de forma que "
 "estudantes aprendam a usá-los e se tornem dependentes deles. Depois que "
 "esses estudantes se formarem, nem eles nem seus futuros empregadores terão "
 "oferta de cópias com descontos. Essencialmente, o que essas empresas estão "
@@ -302,8 +302,10 @@ msgstr ""
 "contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2011, 2015, 2016, 2020 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2011, 2015, 2016, 2020 Free Software Foundation, Inc."
+msgid ""
+"Copyright &copy; 2011, 2015, 2016, 2020, 2021 Free Software Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2011, 2015, 2016, 2020, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -329,6 +331,11 @@ msgid "Updated:"
 msgstr "Última atualização:"
 
 #~ msgid ""
+#~ "Copyright &copy; 2011, 2015, 2016, 2020 Free Software Foundation, Inc."
+#~ msgstr ""
+#~ "Copyright &copy; 2011, 2015, 2016, 2020 Free Software Foundation, Inc."
+
+#~ msgid ""
 #~ "<strong>Knowledge</strong>. Many young students have a talent for "
 #~ "programing; they are fascinated with computers and eager to learn how "
 #~ "their systems work. With proprietary software, this information is a "
@@ -338,8 +345,8 @@ msgstr "Última atualização:"
 #~ msgstr ""
 #~ "<strong>Conhecimento</strong>. Muitos jovens estudantes têm talento para "
 #~ "programação; eles são fascinados por computadores e ávidos de aprender "
-#~ "como seus sistemas funcionam. Com software proprietário, essa informação "
-#~ "é um segredo, então os professores não têm como torná-la disponível para "
+#~ "como seus sistemas funcionam. Com software privativo, essa informação é "
+#~ "um segredo, então os professores não têm como torná-la disponível para "
 #~ "seus estudantes. Mas se o programa é Software Livre, o professor pode "
 #~ "explicar o básico e, então, entregar o código-fonte para que o estudante "
 #~ "leia e aprenda."

@@ -1,0 +1,312 @@
+# Brazilian Portuguese translation of https://www.gnu.org/fun/jokes/c+-.html
+# Copyright (C) 2020 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: c+-.html\n"
+"POT-Creation-Date: 2020-12-17 09:25+0000\n"
+"PO-Revision-Date: 2020-12-22 18:28-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 3.38.0\n"
+
+#. type: Content of: <title>
+msgid "C more or less - GNU Project - Free Software Foundation"
+msgstr "C mais ou menos - Projeto GNU - Free Software Foundation"
+
+#. type: Content of: <h2>
+msgid "C more or less"
+msgstr "C mais ou menos"
+
+#. type: Content of: <blockquote><pre>
+#, no-wrap
+msgid ""
+"Date: Tue, 16 Apr 91 13:16:47 EDT\n"
+"From: geoff@circus.camex.com\n"
+"To: clp@home.harvardsq.com, rms@ai.mit.edu\n"
+"Subject: C more-or-less\n"
+msgstr ""
+"Data: Ter, 16 Abr 91 13:16:47 EDT\n"
+"De: geoff@circus.camex.com\n"
+"Para: clp@home.harvardsq.com, rms@ai.mit.edu\n"
+"Assunto: C mais ou menos\n"
+
+#. type: Content of: <blockquote><p>
+msgid "[from rec.funny: C more-or-less]"
+msgstr "[de rec.funny: C mais ou menos]"
+
+#. type: Content of: <blockquote><p>
+msgid "C+-: (pronounced &ldquo;C more or less&rdquo;)"
+msgstr "C+-: (pronunciado &ldquo;C mais ou menos&rdquo;)"
+
+#. type: Content of: <blockquote><p>
+msgid ""
+"Unlike C++, C+- is a subject oriented language.  Each C+- class instance "
+"known as a subject, holds hidden members, known as prejudices or undeclared "
+"preferences, which are impervious preferences, which are impervious to "
+"outside messages, as well as public members known as boasts or claims.  The "
+"following C operators are overridden as shown:"
+msgstr ""
+"Ao contrário do C++, C+- é uma linguagem orientada a assunto. Cada instância "
+"da classe C+ conhecida como assunto, contém membros ocultos, conhecidos como "
+"preconceitos ou preferências não declaradas, que são preferências "
+"impermeáveis, que são impenetráveis a mensagens externas, bem como membros "
+"públicos conhecidos como jactâncias ou reivindicações. Os seguintes "
+"operadores C são substituídos conforme mostrado:"
+
+#. type: Content of: <blockquote><table><tr><td>
+msgid "<code>&gt;</code>"
+msgstr "<code>&gt;</code>"
+
+#. type: Content of: <blockquote><table><tr><td>
+msgid "better than"
+msgstr "melhor que"
+
+#. type: Content of: <blockquote><table><tr><td>
+msgid "<code>&lt;</code>"
+msgstr "<code>&lt;</code>"
+
+#. type: Content of: <blockquote><table><tr><td>
+msgid "worse than"
+msgstr "pior que"
+
+#. type: Content of: <blockquote><table><tr><td>
+msgid "<code>&gt;&gt;</code>"
+msgstr "<code>&gt;&gt;</code>"
+
+#. type: Content of: <blockquote><table><tr><td>
+msgid "much better than"
+msgstr "muito melhor que"
+
+#. type: Content of: <blockquote><table><tr><td>
+msgid "<code>&lt;&lt;</code>"
+msgstr "<code>&lt;&lt;</code>"
+
+#. type: Content of: <blockquote><table><tr><td>
+msgid "forget it"
+msgstr "esquece"
+
+#. type: Content of: <blockquote><table><tr><td>
+msgid "<code>!</code>"
+msgstr "<code>!</code>"
+
+#. type: Content of: <blockquote><table><tr><td>
+msgid "not on your life"
+msgstr "nunca na vida"
+
+#. type: Content of: <blockquote><table><tr><td>
+msgid "<code>==</code>"
+msgstr "<code>==</code>"
+
+#. type: Content of: <blockquote><table><tr><td>
+msgid "comparable, other things being equal"
+msgstr "comparável, outras coisas sendo igual"
+
+#. type: Content of: <blockquote><p>
+msgid ""
+"C+- is a strongly typed language based on stereotyping and self-righteous "
+"logic.  The Boolean variables <code>TRUE</code> and <code>FALSE</code> "
+"(known as constants in less realistic languages)  are supplemented with "
+"<code>CREDIBLE</code> and <code>DUBIOUS</code>, which are fuzzier than "
+"Zadeh's traditional fuzzy categories.  All Booleans can be declared with the "
+"modifiers strong and weak.  Weak implication is said to &ldquo;preserve "
+"deniability&rdquo; and was added at the request of the D.O.D.  to ensure "
+"compatability with future versions of Ada.  Well-formed falsehoods (WFFs) "
+"are assignment-compatible with all Booleans.  What-if and why-not "
+"interactions are aided by the special conditional evenifnot X then Y."
+msgstr ""
+"C+- é uma linguagem fortemente tipada baseada em estereótipos e lógica "
+"hipócrita. As variáveis booleanas <code>TRUE</code> e <code>FALSE</code> "
+"(conhecidas como constantes em linguagens menos realistas) são suplementadas "
+"com <code>CREDIBLE</code> e <code>DUBIOUS</code>, que são mais difusas do "
+"que as categorias difusas tradicionais de Zadeh. Todos os booleanos podem "
+"ser declarados com os modificadores forte e fraco. Diz-se que a implicação "
+"fraca “preserva a negabilidade” e foi adicionado a pedido do D.O.D. para "
+"garantir compatibilidade com versões futuras do Ada. Falsidades bem formadas "
+"(FBFs) são compatíveis com atribuição com todos os booleanos. As interações "
+"e-se e por-que-não são auxiliadas pelo evento condicional especial se não X "
+"depois Y."
+
+#. type: Content of: <blockquote><p>
+msgid ""
+"C+- supports information hiding and, among friend classes only, rumor "
+"sharing.  Borrowing from the Eiffel lexicon, non-friend classes can be "
+"killed by arranging contracts.  Note that friendships are intransitive, "
+"volatile, and non-Abelian."
+msgstr ""
+"C+- tem suporte ocultação de informações e, apenas entre classes de amigos, "
+"compartilhamento de boates. Pegando emprestado o léxico de Eiffel, classes "
+"que não são amigas podem ser mortas por meio de acordos. Observe que as "
+"amizades são intransitivas, voláteis e não abelianas."
+
+#. type: Content of: <blockquote><p>
+msgid ""
+"Single and multiple inheritance mechanisms are implemented with random "
+"mutations.  Disinheritance rules are covered by a complex probate protocol.  "
+"In addition to base, derived, virtual, and abstract classes, C+- supports "
+"gut classes.  In certain locales, polygamous derivations and bastard classes "
+"are permitted.  Elsewhere, loose coupling between classes is illegal, so the "
+"marriage and divorce operators may be needed:"
+msgstr ""
+"Mecanismos de herança simples e múltiplos são implementados com mutações "
+"aleatórias. As regras de deserdação são cobertas por um protocolo de "
+"inventário complexo. Além de classes básicas, derivadas, virtuais e "
+"abstratas, C+- oferece suporte a classes de intestino. Em certos locais, "
+"derivações polígamas e classes bastardas são permitidas. Em outros lugares, "
+"o acoplamento fraco entre as classes é ilegal, então os operadores de "
+"casamento e divórcio podem ser necessários:"
+
+#. type: Content of: <blockquote><pre>
+#, no-wrap
+msgid ""
+"marriage (MParent1, FParent1);\n"
+"// child classes can now be derived\n"
+"sclass MySclass: public MParent1, FParent1\n"
+"{        //  define MySclass\n"
+"}\n"
+"\n"
+"sclass YourSclass: public MParent1, FParent2\n"
+"// illegitimate\n"
+"\n"
+"divorce (MParent1, FParent1);\n"
+"\n"
+"marriage (MParent1, FParent2);\n"
+"sclass YourSclass: public MParent1, FParent2\n"
+"{  //  OK now\n"
+"}\n"
+msgstr ""
+"casamento (MFamiliar1, FFamiliar1);\n"
+"// classes filhas agora podem ser derivadas\n"
+"sclass MinhaSclasse: public MFamiliar1, FFamiliar1\n"
+"{        //  define MinhaSclasse\n"
+"}\n"
+"\n"
+"sclass SuasSclasse: public MFamiliar1, FFamiliar2\n"
+"// ilegitimo\n"
+"\n"
+"divorcio (MFamiliar1, FFamiliar1);\n"
+"\n"
+"casamento (MFamiliar1, FFamiliar2);\n"
+"sclass SuasSclasse: public MFamiliar1, FFamiliar2\n"
+"{  //  OK, agora\n"
+"}\n"
+
+#. type: Content of: <blockquote><p>
+msgid ""
+"Operator precedence rules can be suspended with the directive <code>#pragma "
+"dwim</code>, known as the &ldquo;Do what I mean&rdquo; pragma.  ANSIfication "
+"will be firmly resisted.  C+-'s slogan is &ldquo;Be Your Own Standard.&rdquo;"
+msgstr ""
+"As regras de precedência do operador podem ser suspensas com a diretiva "
+"<code>#pragma dwim</code>, conhecida como pragma “Faça o que quero dizer”. A "
+"ANSIficação terá resistência firme. O slogan do C+- é “Seja seu próprio "
+"padrão”."
+
+#. type: Content of: <blockquote><p>
+msgid "[from the april '91 issue of AIExpert]"
+msgstr "[do boletim de abril de 1991 do AIExpert]"
+
+#. type: Content of: <blockquote><p>
+msgid "--"
+msgstr "--"
+
+#. type: Content of: <blockquote><p>
+msgid "Maurice Suhre"
+msgstr "Maurice Suhre"
+
+#. type: Content of: <blockquote><p>
+msgid "suhre@trwrb.dsd.trw.com"
+msgstr "suhre@trwrb.dsd.trw.com"
+
+#. type: Content of: <p>
+msgid ""
+"This joke is also available in <a href=\"/fun/jokes/c+-\">plain text</a>."
+msgstr ""
+"Esta piada também está disponível em <a href=\"/fun/jokes/c+-\">texto "
+"simples</a>."
+
+#. type: Content of: <p>
+msgid ""
+"<a href=\"/fun/humor.html\">Other humor</a> in the GNU Humor Collection."
+msgstr "<a href=\"/fun/humor.html\">Mais humor</a> na coleção de humor GNU."
+
+#. type: Content of: <h3>
+msgid "Disclaimer"
+msgstr "Aviso legal"
+
+#. type: Content of: <p>
+msgid ""
+"The joke on this page was obtained from the FSF's <a href=\"https://lists."
+"gnu.org/\">email archives</a> of the GNU Project."
+msgstr ""
+"A piada nesta página foi obtida a partir dos <a href=\"https://lists.gnu.org/"
+"\">arquivos de e-mail</a> do Projeto GNU mantidos pela FSF."
+
+#. type: Content of: <p>
+msgid "The Free Software Foundation claims no copyright on this joke."
+msgstr ""
+"A Free Software Foundation  não reivindica nenhum direito autoral desta "
+"piada."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas deste site."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2020."
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização:"

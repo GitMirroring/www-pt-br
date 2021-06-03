@@ -1,23 +1,23 @@
 # Brazilian Portuguese translation of http://www.gnu.org/licenses/copyleft.html
-# Copyright (C) 2018 Free Software Foundation, Inc.
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # ?, 2000.
 # Dec 2014: GNUNify; try to make a few strings less obsolete (T. Godefroy).
-# Rafael Fontenelle <rafaelff@gnome.org>, 2016, 2017, 2018.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2016-2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: copyleft.html\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-01 05:57+0000\n"
-"PO-Revision-Date: 2018-01-18 09:12-0200\n"
+"PO-Revision-Date: 2021-05-03 10:15-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 1.0.0-beta1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <title>
 msgid "What is Copyleft? - GNU Project - Free Software Foundation"
@@ -60,9 +60,9 @@ msgstr ""
 "copyright. Isto permite que as pessoas compartilhem o programa e suas "
 "melhorias, se elas estiverem dispostas a tal. Mas isto também permite que "
 "pessoas não cooperativas transformem o programa em <a href=\"/philosophy/"
-"categories.html#ProprietarySoftware\">software proprietário</a>. Elas podem "
+"categories.html#ProprietarySoftware\">software privativo</a>. Elas podem "
 "fazer modificações, poucas ou muitas, e distribuir o resultado como um "
-"produto proprietário. As pessoas que receberem esta forma modificada do "
+"produto privativo. As pessoas que receberem esta forma modificada do "
 "programa não têm a liberdade que o autor original havia lhes dado; o "
 "intermediário eliminou estas liberdades."
 
@@ -112,7 +112,7 @@ msgstr ""
 "frequentemente trabalham para empresas ou universidades que fariam qualquer "
 "coisa para ganhar mais dinheiro. Um programador pode desejar contribuir suas "
 "modificações para a comunidade, mas seu empregador pode desejar transformar "
-"as mudanças em um produto de software proprietário."
+"as mudanças em um produto de software privativo."
 
 #. type: Content of: <p>
 msgid ""
@@ -145,7 +145,7 @@ msgid ""
 "freedom; we use copyright to guarantee their freedom.  That's why we reverse "
 "the name, changing &ldquo;copyright&rdquo; into &ldquo;copyleft.&rdquo;"
 msgstr ""
-"Desenvolvedores de software proprietário usam o copyright para retirar a "
+"Desenvolvedores de software privativo usam o copyright para retirar a "
 "liberdade dos usuários; utilizamos o copyright para garantir sua liberdade. "
 "É por isso que invertemos o nome, mudando-o de “copyright” para “copyleft”."
 
@@ -384,8 +384,8 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "<b>Tradução:</b> Rafael Fontenelle \n"
-"<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, 2016, "
-"2017"
+"<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, "
+"2016-2021"
 
 #.  timestamp start 
 #. type: Content of: <div><p>

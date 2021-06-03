@@ -1,0 +1,616 @@
+# Brazilian Portuguese translation of https://www.gnu.org/education/remote-education-children-freedom-privacy-at-stake.html
+# Copyright (C) 2021 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: remote-education-children-freedom-privacy-at-stake.html\n"
+"POT-Creation-Date: 2020-11-10 17:25+0000\n"
+"PO-Revision-Date: 2021-01-02 12:43-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 3.38.0\n"
+
+#. type: Content of: <title>
+msgid ""
+"Remote Education: My Children's Freedom and Privacy at Stake - GNU Project - "
+"Free Software Foundation"
+msgstr ""
+"Educação remota: a liberdade e privacidade de meus filhos em jogo - Projeto "
+"GNU - Free Software Foundation"
+
+#. type: Content of: <div><a>
+msgid "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+msgstr "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+
+#. type: Attribute 'title' of: <div><a><img>
+msgid "Education Contents"
+msgstr "Índice da Seção"
+
+#. type: Attribute 'alt' of: <div><a><img>
+msgid "&nbsp;[Education Contents]&nbsp;"
+msgstr "&nbsp;[Índice da Seção]&nbsp;"
+
+#. type: Content of: <div><div><div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><p><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><p><a><img>
+msgid "GNU Home"
+msgstr "Página inicial do GNU"
+
+#. type: Content of: <div><p>
+msgid ""
+"</a>&nbsp;/ <a href=\"/education/education.html\">Education</a>&nbsp;/ <a "
+"href=\"/education/resisting-proprietary-software.html\"> Resistance</"
+"a>&nbsp;/ <a href=\"/education/successful-resistance-against-nonfree-"
+"software.html\"> Successful resistance</a>&nbsp;/"
+msgstr ""
+"</a>&nbsp;/ <a href=\"/education/education.html\">Educação</a>&nbsp;/ <a "
+"href=\"/education/resisting-proprietary-software.html\"> Resistência</"
+"a>&nbsp;/ <a href=\"/education/successful-resistance-against-nonfree-"
+"software.html\"> Resistência de sucesso</a>&nbsp;/"
+
+#. type: Content of: <div><h2>
+msgid "Remote Education: My Children's Freedom and Privacy at Stake"
+msgstr "Educação remota: a liberdade e privacidade de meus filhos em jogo"
+
+#. type: Content of: <div><address>
+msgid ""
+"by Javier Sepúlveda <a href=\"#sepulveda\" id=\"sepulveda-rev\"><sup>[*]</"
+"sup></a>"
+msgstr ""
+"por Javier Sepúlveda <a href=\"#sepulveda\" id=\"sepulveda-rev\"><sup>[*]</"
+"sup></a>"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"At the beginning of March 2020, we started to hear worrisome news about the "
+"spread of COVID-19 in Spain. Within days, all public events, conferences<a "
+"href=\"#conferences\">[1]</a> and gatherings were disallowed. Even a "
+"traditional celebration historically held in this period, the <cite>Falles</"
+"cite><a href=\"#falles\">[2]</a>, was canceled."
+msgstr ""
+"No início de março de 2020, começamos a ouvir notícias preocupantes sobre a "
+"disseminação do COVID-19 na Espanha. Em poucos dias, todos os eventos "
+"públicos, conferências <a href=\"#conferences\">[1]</a> e encontros foram "
+"proibidos. Até mesmo uma celebração tradicional historicamente realizada "
+"neste período, as <cite>Falles</cite><a href=\"#falles\">[2]</a>, foi "
+"cancelada."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Next came the stay-at-home order from the government and the indefinite "
+"suspension of all in-person educational activities.  Teaching had to go "
+"online, but were schools, colleges and universities prepared for this? The "
+"answer is no. In order to switch to remote education, they needed "
+"videoconferencing platforms, communication systems and servers they did not "
+"always have. And this is where the problem starts."
+msgstr ""
+"Em seguida, veio a ordem de ficar em casa do governo e a suspensão por tempo "
+"indeterminado de todas as atividades educacionais presenciais. O ensino "
+"tinha que migrar para formato online, mas as escolas, faculdades e "
+"universidades estavam preparadas para isso? A resposta é não. Para mudar "
+"para o ensino à distância, eles precisavam de plataformas de "
+"videoconferência, sistemas de comunicação e servidores que nem sempre "
+"tinham. E é aí que começa o problema."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Educational institutions began to choose whatever they needed unilaterally "
+"and independently. Each teacher, school or university picked a different "
+"program or platform on the spur of the moment, basing their choices on the "
+"sole criteria of practicality and popularity of the software. Far more "
+"important factors, such as the freedom and privacy of their students&mdash;"
+"or their own&mdash;were left aside. Students and parents had no say, it was "
+"a take-it-or-leave-it approach."
+msgstr ""
+"As instituições educacionais começaram a escolher o que precisavam de forma "
+"unilateral e independente. Cada professor, escola ou universidade escolheu "
+"um programa ou plataforma diferente no calor do momento, baseando suas "
+"escolhas no único critério de praticidade e popularidade do software. "
+"Fatores muito mais importantes, como a liberdade e privacidade de seus "
+"alunos – ou suas próprias – foram deixadas de lado. Alunos e pais não tinham "
+"voz, era uma abordagem do tipo pegar ou largar."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Why were hundreds of students being condemned to use software that is unfair "
+"to them? Why should all data (voice, images, videos, handwritten documents) "
+"be owned by a company? <strong>The price of proprietary systems is the "
+"surrender of our freedom. It is the voice of our children and their image on "
+"video&mdash;everything is recorded on third-party servers for later analysis "
+"and exploitation</strong>.  Too high a price to pay."
+msgstr ""
+"Por que centenas de alunos estão sendo condenados a usar software injusto "
+"com eles? Por que todos os dados (voz, imagens, vídeos, documentos "
+"manuscritos) devem ser propriedade de uma empresa? <strong>O preço dos "
+"sistemas privativos é a renúncia à nossa liberdade. É a voz de nossos filhos "
+"e sua imagem em vídeo – tudo é gravado em servidores de terceiros para "
+"posterior análise e exploração</strong>. Um preço muito alto a pagar."
+
+#. type: Content of: <div><div><p>
+msgid "The situation was unacceptable. It was time to say <em>NO</em>."
+msgstr "A situação era inaceitável. Era hora de dizer <em>NÃO</em>."
+
+#. type: Content of: <div><div><h3>
+msgid "My children's schools"
+msgstr "Escolas dos meus filhos"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Marta (10) and Javi (12) attend public schools in San Antonio de Benagéber, "
+"Valencia, for their compulsory education. Apart from that, they are involved "
+"in extracurricular activities at three different private institutions. Marta "
+"takes elementary clarinet classes at the local non-profit Music Association "
+"(to which I provide web and email hosting.) Javi takes trumpet lessons at "
+"the Professional Conservatory of Music to prepare for admission to higher "
+"music studies in that institution. They both also attend a local English "
+"Academy."
+msgstr ""
+"Marta (10) e Javi (12) frequentam escolas públicas em San Antonio de "
+"Benagéber, Valência, para a escolaridade obrigatória. Além disso, eles estão "
+"envolvidos em atividades extracurriculares em três instituições privadas "
+"diferentes. Marta tem aulas elementares de clarinete na Associação de Música "
+"local sem fins lucrativos (para a qual eu forneço hospedagem web e e-mail). "
+"Javi tem aulas de trompete no Conservatório Profissional de Música para se "
+"preparar para a admissão nos estudos superiores de música naquela "
+"instituição. Ambos também frequentam uma Academia de Inglês local."
+
+#. type: Content of: <div><div><h3>
+msgid "My fight"
+msgstr "Minha luta"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"For my moral grounds, I cannot let my children use nonfree software. I was "
+"determined to fight, but how? I was alone in this, and still under "
+"quarantine. I realized I could help people cope with the emergency by "
+"offering solutions I could easily find in my field of knowledge: free "
+"software they could use for their specific needs."
+msgstr ""
+"Por motivos morais, não posso deixar meus filhos usarem software não livre. "
+"Eu estava determinado a lutar, mas como? Eu estava sozinho nisso, e ainda em "
+"quarentena. Percebi que poderia ajudar as pessoas a lidar com a emergência, "
+"oferecendo soluções que eu poderia facilmente encontrar na minha área de "
+"conhecimento: software livre que elas poderiam usar para suas necessidades "
+"específicas."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"But I also realized the task was not easy. It was necessary to start with "
+"small steps, realistic goals. With the private schools, I thought, they "
+"should be more inclined to listen, since there I am not only a parent, but "
+"also a paying costumer. And at Marta's Music Association I was also their "
+"server provider, so surely they would trust my opinion on issues related to "
+"information technology."
+msgstr ""
+"Mas também percebi que a tarefa não era fácil. Era preciso começar com "
+"pequenos passos, metas realistas. Com as escolas privadas, pensei, deviam "
+"estar mais dispostos a ouvir, visto que aí não sou só pai, mas também "
+"cliente pagante. E na Associação de Música da Marta eu também era o provedor "
+"de servidores, então com certeza eles confiariam na minha opinião sobre "
+"questões relacionadas à tecnologia da informação."
+
+#. type: Content of: <div><div><blockquote><p>
+msgid ""
+"<em>&ldquo;A walk of a thousand miles consists of lots of steps.  Each time "
+"you don't install some nonfree program, or decide not to run it that day, "
+"that is a step towards your own freedom.&rdquo;</em>&nbsp; (Richard "
+"Stallman, <a href=\"/philosophy/saying-no-even-once.html\"> Saying No to "
+"unjust computing even once is help</a>)."
+msgstr ""
+"<em>“Uma caminhada de mil milhas consiste em muitas etapas. Cada vez que "
+"você não instala algum programa não livre ou decide não executá-lo naquele "
+"dia, é um passo em direção à sua própria liberdade.”</em>&nbsp; (Richard "
+"Stallman, <a href=\"/philosophy/saying-no-even-once.html\">Dizer não à "
+"computação injusta mesmo uma vez é ajudar</a>)."
+
+#. type: Content of: <div><div><h3>
+msgid "The first step"
+msgstr "O primeiro passo"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"When a professor from Marta's music school called me to invite me to create "
+"a Skype account for my daughter's lessons, I said, &ldquo;Have you read the "
+"terms and conditions of that service? Skype is widely known software, but "
+"that doesn't mean it's the best choice.  Have you heard about Jitsi? I can "
+"help you. I will send you all the information right now with an explanation "
+"on how to use it so that you can try it. It's also free/libre software, it "
+"does not intercept communications and it does not collect or store any data."
+"&rdquo; Very enthusiastically, he replied, &ldquo;Thank you, I really "
+"appreciate your advice.&rdquo;"
+msgstr ""
+"Quando um professor da escola de música de Marta me ligou para me convidar a "
+"criar uma conta no Skype para as aulas de minha filha, eu disse: “Você leu "
+"os termos e condições desse serviço? O Skype é um software amplamente "
+"conhecido, mas isso não significa que seja a melhor escolha. Você já ouviu "
+"falar do Jitsi? Posso te ajudar. Vou enviar todas as informações agora com "
+"uma explicação de como usá-lo para que você possa experimentá-lo. Também é "
+"um software livre, não intercepta comunicações e não coleta ou armazena "
+"quaisquer dados.” Com muito entusiasmo, ele respondeu: “Obrigado, realmente "
+"aprecio seu conselho.”"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"I immediately emailed him all the necessary information, complete with "
+"detailed instructions he might need to get started. Two days later, I "
+"received an email from the school principal thanking me and saying that <a "
+"href=\"https://www.socmusab.es/noticias/escuela-de-musica-clases-on-line-mas-"
+"justas-y-seguras/\"> all teachers and students had agreed to use Jitsi</a>."
+msgstr ""
+"Imediatamente enviei a ele todas as informações necessárias, com instruções "
+"detalhadas de que ele pode precisar para começar. Dois dias depois, recebi "
+"um e-mail do diretor da escola me agradecendo e dizendo que <a href="
+"\"https://www.socmusab.es/noticias/escuela-de-musica-clases-on-line-mas-"
+"justas-y-seguras/\"> todos os professores e alunos concordaram em usar o "
+"Jitsi</a>."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"I was amazed. By being positive and showing my intention to help, I got the "
+"school teacher to understand and listen to my advice."
+msgstr ""
+"Eu fiquei maravilhado. Sendo positivo e mostrando minha intenção de ajudar, "
+"fiz com que a professora entendesse e ouvisse meus conselhos."
+
+#. type: Content of: <div><div><div><a>
+msgid "<a href=\"/education/misc/jitsi-marta-espejo.png\">"
+msgstr "<a href=\"/education/misc/jitsi-marta-espejo.png\">"
+
+#. type: Attribute 'alt' of: <div><div><div><a><img>
+msgid ""
+"Screenshot showing Marta and her teacher during a clarinet lesson over Jitsi."
+msgstr ""
+"Captura de tela mostrando Marta e sua professora durante uma aula de "
+"clarinete pelo Jitsi."
+
+#. type: Content of: <div><div><div><p>
+msgid "Marta takes a clarinet lesson over Jitsi."
+msgstr "Marta faz uma aula de clarinete pelo Jitsi."
+
+#. type: Content of: <div><div><h3>
+msgid "The second step"
+msgstr "O segundo passo"
+
+#. type: Content of: <div><div><p>
+msgid "Results were not as immediate at the English Academy."
+msgstr "Os resultados não foram tão imediatos na Academia de inglês."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"When they decided to go online, they surprised me with a call to say I "
+"needed to open a Skype account for my children's first remote class, which "
+"was due the following day. There was no time. There was no way out. Either "
+"that, or the kids would miss their lessons. I accepted&mdash;for the moment."
+msgstr ""
+"Quando eles decidiram ir para o método  online, eles me surpreenderam com "
+"uma ligação dizendo que eu precisava abrir uma conta no Skype para a "
+"primeira aula remota dos meus filhos, que era para o dia seguinte. Não houve "
+"tempo. Não havia saída. Ou isso, ou as crianças perderiam as aulas. Eu "
+"aceitei – no momento."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Later that day, I engaged in what seemed a never ending battle with them. To "
+"make my case, I first sent them a well reasoned and informative letter. I "
+"reminded them that Skype is owned by Microsoft, a company that develops "
+"freedom-denying software, and explained what free/libre software is. I "
+"mentioned the abusive clauses in the company's <a href=\"https://privacy."
+"microsoft.com/en-us/privacystatement\"> privacy statement</a>, among which "
+"the fact that <strong>Microsoft records and analyzes users' communications, "
+"and it can hand that data over to other companies</strong>. I suggested to "
+"replace Skype with Jitsi and offered to help. I even said my children would "
+"quit the institution unless it changed to a free/libre platform."
+msgstr ""
+"Mais tarde naquele dia, eu entrei no que parecia uma batalha sem fim com "
+"eles. Para defender meu ponto de vista, primeiro enviei uma carta bem "
+"fundamentada e informativa. Eu os lembrei que o Skype é propriedade da "
+"Microsoft, uma empresa que desenvolve software que nega a liberdade, e "
+"expliquei o que é software livre. Mencionei as cláusulas abusivas na <a href="
+"\"https://privacy.microsoft.com/en-us/privacystatement\"> declaração de "
+"privacidade</a> da empresa, entre as quais o fato de que a <strong>Microsoft "
+"registra e analisa as comunicações dos usuários e pode repassar esses dados "
+"para outras empresas</strong>. Sugeri substituir o Skype pelo Jitsi e me "
+"ofereci para ajudar. Eu até disse que meus filhos abandonariam a instituição "
+"a menos que ela mudasse para uma plataforma livre."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"They did not respond. They were forcing almost one hundred students, their "
+"teachers and their parents to open a Microsoft account in order to use a "
+"piece of software that takes advantage of them. They were failing to see the "
+"seriousness of the issue, dazzled as they were by an impressive display of "
+"misleading information about the software they considered to be &ldquo;well-"
+"known,&rdquo; thus good."
+msgstr ""
+"Eles não responderam. Eles estavam forçando quase cem alunos, seus "
+"professores e seus pais a abrir uma conta da Microsoft para usar um software "
+"que tira proveito deles. Eles não estavam percebendo a seriedade do "
+"problema, deslumbrados como estavam com a impressionante exibição de "
+"informações enganosas sobre o software que consideravam “bem conhecido” tão "
+"bom."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"I resent my email to the principal of the school, and this time I forwarded "
+"it to teachers as well. I waited. I called them and talked to them at "
+"length. Once again, I made it clear I would withdraw my children from their "
+"school unless they changed that software."
+msgstr ""
+"Reenviei meu e-mail para o diretor da escola e, dessa vez, encaminhei-o "
+"também para os professores. Eu esperei. Liguei para eles e conversei "
+"longamente com eles. Mais uma vez, deixei claro que retiraria meus filhos da "
+"escola, a menos que mudassem o software."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Eventually they understood my position and became aware of the dangers of "
+"Skype. They finally agreed to use Jitsi!"
+msgstr ""
+"Eventualmente, eles entenderam minha posição e ficaram cientes dos perigos "
+"do Skype. Eles finalmente concordaram em usar o Jitsi!"
+
+#. type: Content of: <div><div><h3>
+msgid "The third step"
+msgstr "O terceiro passo"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"In the meantime, after two weeks of staying at home, Javi was taking his "
+"trumpet classes over Skype. At the next lesson, I sat next to my son and "
+"spoke to the teacher. I began by thanking him for his work, since Javi was "
+"making progress despite the difficult situation.  Then I mentioned my "
+"concern about privacy and other issues that these nonfree programs present. "
+"I told him pretty much the same things I had told the other teachers. He was "
+"surprised, &ldquo;I didn't know about this! Is there any other program we "
+"can use?&rdquo; So I invited him to use <a href=\"https://videoconferencia."
+"valenciatech.com/\"> my Jitsi server</a>, to avoid interruptions and "
+"guarantee the best sound quality."
+msgstr ""
+"Nesse ínterim, após ficar duas semanas em casa, Javi estava tendo aulas de "
+"trompete pelo Skype. Na aula seguinte, sentei-me ao lado de meu filho e "
+"falei com o professor. Comecei agradecendo o seu trabalho, pois Javi estava "
+"progredindo apesar da difícil situação. Então, mencionei minha preocupação "
+"com a privacidade e outras questões que esses programas não livres "
+"apresentam. Eu disse a ele praticamente as mesmas coisas que disse aos "
+"outros professores. Ele ficou surpreso, “Eu não sabia disso! Existe algum "
+"outro programa que possamos usar?” Então eu o convidei a usar <a href="
+"\"https://videoconferencia.valenciatech.com/\">meu servidor Jitsi</a>, para "
+"evitar interrupções e garantir a melhor qualidade de som."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Since then, Javi takes his trumpet lessons on Jitsi. The teacher then asked "
+"me if he could use the same server with <em>all</em> his trumpet students "
+"and I agreed, of course. The purpose of that server is to help anyone who "
+"may need it."
+msgstr ""
+"Desde então, Javi faz aulas de trompete no Jitsi. O professor então me "
+"perguntou se ele poderia usar o mesmo servidor com <em>todos</em> seus "
+"alunos de trompete e eu concordei, é claro. O objetivo desse servidor é "
+"ajudar qualquer pessoa que precise dele."
+
+#. type: Content of: <div><div><div><a>
+msgid "<a href=\"/education/misc/jitsi-javi-garcia.png\">"
+msgstr "<a href=\"/education/misc/jitsi-javi-garcia.png\">"
+
+#. type: Attribute 'alt' of: <div><div><div><a><img>
+msgid ""
+"Screenshot showing Javi and his teacher during a trumpet lesson over Jitsi."
+msgstr ""
+"Captura de tela mostrando Javi e seu professor durante uma aula de trompete "
+"pelo Jitsi."
+
+#. type: Content of: <div><div><div><p>
+msgid "Javi takes a trumpet lesson over Jitsi."
+msgstr "Javi faz uma aula de trombeta pelo Jitsi"
+
+#. type: Content of: <div><div><h3>
+msgid "Going forward"
+msgstr "Seguindo em frente"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"I managed to raise awareness about freedom and privacy issues and expand the "
+"use of free software in my community. More than two hundred people in town "
+"are now using Jitsi. But I want to do more, I want to keep walking. For one "
+"thing, I want to reach the local public schools, knowing beforehand what a "
+"challenge that is."
+msgstr ""
+"Consegui aumentar a conscientização sobre questões de liberdade e "
+"privacidade e expandir o uso de software livre em minha comunidade. Mais de "
+"duzentas pessoas na cidade agora usam o Jitsi. Mas quero fazer mais, quero "
+"continuar caminhando. Por um lado, quero chegar às escolas públicas locais, "
+"sabendo de antemão que desafio isso é."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"I will keep fighting nonfree software, specially in schools, armed with the "
+"resources I have at hand: my servers, on which I have installed free/libre "
+"high quality platforms for everyone to use, such as <a href=\"https://docs."
+"valenciatech.com/\">Etherpad</a>, <a href=\"https://bbb.valenciatech.com"
+"\">BigBlueButton</a>, and the Jitsi server I mentioned before. Right now "
+"many people are using them, so I am soon going to upgrade the hardware to "
+"allow more simultaneous connections without loosing quality."
+msgstr ""
+"Continuarei lutando contra software não livre, especialmente nas escolas, "
+"munido dos recursos que tenho em mãos: meus servidores, nos quais instalei "
+"plataformas livres de alta qualidade para todos usarem, como <a href="
+"\"https://docs.valenciatech.com/\">Etherpad</a>, <a href=\"https://bbb."
+"valenciatech.com\">BigBlueButton</a> e o servidor Jitsi que mencionei antes. "
+"No momento, muitas pessoas os estão usando, portanto, em breve irei "
+"atualizar o hardware para permitir mais conexões simultâneas sem perder a "
+"qualidade."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"What is most important, I am armed with knowledge about the <a href=\"/"
+"philosophy/free-software-even-more-important.html\"> philosophical "
+"foundations</a> of the Free Software Movement and the increasingly "
+"significant role that software plays in our daily lives."
+msgstr ""
+"O que é mais importante, estou munido com o conhecimento sobre os <a href=\"/"
+"philosophy/free-software-even-more-important.html\">fundamentos filosóficos "
+"</a> do Movimento do Software Livre e o papel cada vez mais significativo "
+"que software tem em nossas vidas diárias."
+
+#. type: Content of: <div><div><h3>
+msgid "Thanks"
+msgstr "Obrigado"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Thanks to my mentor, Richard Stallman, whose support and encouragement "
+"helped me become aware of the value of my efforts.  Thanks to him for urging "
+"me to share my experience with the Free Software Foundation, and to the FSF "
+"for mentioning my work among others they included in an article about <a "
+"href=\"https://www.fsf.org/blogs/community/remote-education-does-not-require-"
+"giving-up-rights-to-freedom-and-privacy\"> freedom and privacy in remote "
+"education</a>. Thanks to Dora Scilipoti from the <a href=\"/education/edu-"
+"team.html\">GNU Education Team</a>, for her precious advice and help in "
+"writing this text."
+msgstr ""
+"Agradeço ao meu mentor, Richard Stallman, cujo apoio e incentivo me ajudou a "
+"tomar consciência do valor de meus esforços. Agradeço a ele por me encorajar "
+"a compartilhar minha experiência com a Free Software Foundation, e à FSF por "
+"mencionar meu trabalho entre outros que eles incluíram em um artigo sobre <a "
+"href=\"https://www.fsf.org/blogs/community/remote-education-does-not-require-"
+"giving-up-rights-to-freedom-and-privacy\"> liberdade e privacidade na "
+"educação remota</a>. Obrigado a Dora Scilipoti da <a href=\"/education/edu-"
+"team.html\">Equipe de Educação GNU</a>, por seus preciosos conselhos e ajuda "
+"na redação deste texto."
+
+#. type: Content of: <div><div><h4>
+msgid "Author's Notes"
+msgstr "Notas do autor"
+
+#. type: Content of: <div><div><ol><li>
+msgid ""
+"With help from the GNU/Linux Users Group of Valencia, I had organized a "
+"series of Richard Stallman's speeches in several areas of Spain from March "
+"22 to 26. They all had to be canceled."
+msgstr ""
+"Com a ajuda do GNU/Linux Users Group de Valência, eu organizei uma série de "
+"discursos de Richard Stallman em várias áreas da Espanha de 22 a 26 de "
+"março. Todos eles tiveram que ser cancelados."
+
+#. type: Content of: <div><div><ol><li>
+msgid ""
+"More information about the <a href=\"https://en.wikipedia.org/wiki/Falles"
+"\"><cite>Falles</cite></a> and the rare moments in history when this old "
+"event was suspended."
+msgstr ""
+"Mais informações sobre as <a href=\"https://pt.wikipedia.org/wiki/Falles"
+"\"><cite>Falles</cite></a> e os raros momentos na história em que esse "
+"antigo evento foi suspenso."
+
+#. type: Content of: <div><div><h4>
+msgid "Footnote"
+msgstr "Nota de rodapé"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"<a href=\"#sepulveda-rev\" id=\"sepulveda\">[*]</a> Javier Sepúlveda is an "
+"Industrial Design and Computer Science Engineer. He is the founder and "
+"executive director of VALENCIATECH, a server administration company that "
+"runs and offers exclusively free software. He is a <a href=\"/people/"
+"speakers.html#Sepulveda\">GNU speaker</a> and free software advocate."
+msgstr ""
+"<a href=\"#sepulveda-rev\" id=\"sepulveda\">[*]</a> Javier Sepúlveda é "
+"Engenheiro de Desenho Industrial e de Ciência da Computação. Ele é o "
+"fundador e diretor executivo da VALENCIATECH, uma empresa de administração "
+"de servidores que opera e oferece software exclusivamente livre. Ele é um <a "
+"href=\"/people/speakers.html#Sepulveda\">palestrante GNU</a> e defensor do "
+"software livre."
+
+#. type: Content of: <div><div><blockquote><p>
+msgid ""
+"Photos courtesy of Javier Sepúlveda. Licensed under <a rel=\"license\" href="
+"\"http://creativecommons.org/licenses/by-nd/4.0/\"> Creative Commons "
+"Attribution-NoDerivatives 4.0 International License</a>."
+msgstr ""
+"As fotos são uma cortesia de Javier Sepúlveda, licenciadas sob uma licença "
+"<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nd/4.0/deed."
+"pt_BR\">Creative Commons Atribuição-SemDerivações 4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and contributing translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and contributing "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2020 Francisco Javier Sepúlveda Sanchis"
+msgstr "Copyright &copy; 2020 Francisco Javier Sepúlveda Sanchis"
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2021."
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização:"

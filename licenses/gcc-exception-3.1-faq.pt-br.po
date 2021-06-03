@@ -1,20 +1,20 @@
 # Brazilian Portuguese translation of http://www.gnu.org/licenses/gcc-exception-3.1-faq.html
-# Copyright (C) 2018 Free Software Foundation, Inc.
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2018.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018-2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: gcc-exception-3.1-faq.html\n"
 "POT-Creation-Date: 2014-04-05 00:01+0000\n"
-"PO-Revision-Date: 2018-09-24 09:25-0300\n"
+"PO-Revision-Date: 2021-05-03 10:15-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 1.0.0-beta1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -118,11 +118,10 @@ msgstr ""
 "compilador. Isso facilitaria a contribuição de outros para o projeto e "
 "aceleraria o desenvolvimento de novas técnicas de compilação para o GCC. No "
 "entanto, também houve preocupações de que desenvolvedores inescrupulosos "
-"pudessem escrever plugins que chamavam software proprietário para "
-"transformar o código compilado &ndash; criando efetivamente extensões "
-"proprietárias para o GCC e derrotando o propósito da GPL. A exceção "
-"atualizada impede esse abuso, permitindo que a equipe do GCC esteja ansiosa "
-"por desenvolvimentos de plugin."
+"pudessem escrever plugins que chamavam software privativo para transformar o "
+"código compilado &ndash; criando efetivamente extensões privativas para o "
+"GCC e derrotando o propósito da GPL. A exceção atualizada impede esse abuso, "
+"permitindo que a equipe do GCC esteja ansiosa por desenvolvimentos de plugin."
 
 #. type: Content of: <ul><li><p>
 msgid ""
@@ -305,7 +304,7 @@ msgstr ""
 "software incompatível com GPL durante o processo de transformação de código "
 "de nível para código de baixo nível, esse <em>não</em> seria um Processo de "
 "Compilação Apto. Isso aconteceria se, por exemplo, você usasse o GCC com um "
-"plug-in proprietário."
+"plug-in privativo."
 
 #. type: Content of: <p>
 msgid ""
@@ -387,7 +386,7 @@ msgid ""
 "exception?"
 msgstr ""
 "Eu uso o GCC em conjunto com pré-processadores e/ou geradores de fontes "
-"proprietários para compilar meu programa. Ainda posso aproveitar a exceção?"
+"privativos para compilar meu programa. Ainda posso aproveitar a exceção?"
 
 #. type: Content of: <dl><dd><p>
 msgid ""
@@ -400,9 +399,9 @@ msgid ""
 msgstr ""
 "Sim. O Processo de Compilação pode começar com qualquer “código totalmente "
 "representado por meio de linguagem não intermediária de alto nível”. Isso "
-"inclui código gerado por um pré-processador ou outro software proprietário. "
+"inclui código gerado por um pré-processador ou outro software privativo. "
 "Como tal, o processo de compilação, neste caso, não envolve nenhum software "
-"proprietário; qualifica-se como Apto e a exceção está disponível para este "
+"privativo; qualifica-se como Apto e a exceção está disponível para este "
 "programa."
 
 #. type: Content of: <dl><dt>
@@ -410,7 +409,7 @@ msgid ""
 "I use GCC in conjunction with proprietary assemblers and/or linkers to "
 "compile my program.  Can I still take advantage of the exception?"
 msgstr ""
-"Eu uso o GCC em conjunto com montadores e/ou vinculadores proprietários para "
+"Eu uso o GCC em conjunto com montadores e/ou vinculadores privativos para "
 "compilar meu programa. Ainda posso aproveitar a exceção?"
 
 #. type: Content of: <dl><dd><p>
@@ -428,7 +427,7 @@ msgstr ""
 "carregador, vinculador e/ou fase de execução”. Em outras palavras, o "
 "Processo de Compilação, neste caso, acaba quando você tem o código de "
 "montagem ou arquivos de objeto desvinculados do GCC, e por isso não envolve "
-"nenhum software proprietário. Qualifica-se como Apto e a exceção está "
+"nenhum software privativo. Qualifica-se como Apto e a exceção está "
 "disponível para este programa."
 
 #. type: Content of: <dl><dt>
@@ -437,10 +436,9 @@ msgid ""
 "compile other parts.  The pieces are combined afterward, during assembler or "
 "linking phases.  Can I still take advantage of the exception?"
 msgstr ""
-"Eu uso o GCC para compilar partes do meu programa e um compilador "
-"proprietário para compilar outras partes. As peças são combinadas "
-"posteriormente, durante as fases de montagem ou de vinculação. Ainda posso "
-"aproveitar a exceção?"
+"Eu uso o GCC para compilar partes do meu programa e um compilador privativo "
+"para compilar outras partes. As peças são combinadas posteriormente, durante "
+"as fases de montagem ou de vinculação. Ainda posso aproveitar a exceção?"
 
 #. type: Content of: <dl><dd><p>
 msgid ""
@@ -461,11 +459,11 @@ msgid ""
 "any runtime library code the same way that GCC-compiled programs include "
 "libgcc.  Can I still take advantage of the exception?"
 msgstr ""
-"Eu uso uma cadeia de ferramentas de compilador proprietário sem qualquer "
-"parte do GCC para compilar meu programa e vinculá-lo ao libstdc++. Meu "
-"programa em si não inclui nenhum código de biblioteca de tempo de execução "
-"da mesma maneira que programas compilados pelo GCC incluem libgcc. Ainda "
-"posso aproveitar a exceção?"
+"Eu uso uma cadeia de ferramentas de compilador privativo sem qualquer parte "
+"do GCC para compilar meu programa e vinculá-lo ao libstdc++. Meu programa em "
+"si não inclui nenhum código de biblioteca de tempo de execução da mesma "
+"maneira que programas compilados pelo GCC incluem libgcc. Ainda posso "
+"aproveitar a exceção?"
 
 #. type: Content of: <dl><dd><p>
 msgid ""
@@ -541,9 +539,9 @@ msgstr ""
 "disso, mesmo que alguém escreva um plug-in que armazene essas informações no "
 "disco, todos os programas que alterarem as estruturas antes de o GCC "
 "escrever o Código Alvo estarão envolvidos no Processo de Compilação. Se esse "
-"programa for proprietário, a exceção não estará disponível para nenhum "
-"software compilado com ele; o código objeto que o GCC cria finalmente terá "
-"que ser distribuído sob os termos da GPL."
+"programa for privativo, a exceção não estará disponível para nenhum software "
+"compilado com ele; o código objeto que o GCC cria finalmente terá que ser "
+"distribuído sob os termos da GPL."
 
 #. type: Content of: <dl><dt>
 msgid ""
@@ -680,7 +678,7 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
-"rafaelff@gnome.org&gt;</a>, 2018."
+"rafaelff@gnome.org&gt;</a>, 2018-2021."
 
 #.  timestamp start 
 #. type: Content of: <div><p>

@@ -1,0 +1,259 @@
+# Brazilian Portuguese translation of https://www.gnu.org/education/successful-resistance-against-nonfree-software.html
+# Copyright (C) 2021 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: successful-resistance-against-nonfree-software.html\n"
+"POT-Creation-Date: 2021-04-17 14:25+0000\n"
+"PO-Revision-Date: 2021-05-30 18:32-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 40.0\n"
+
+#. type: Content of: <title>
+msgid ""
+"Successful Resistance Against Nonfree Software - GNU Project - Free Software "
+"Foundation"
+msgstr ""
+"Resistência bem-sucedida contra software não livre - Projeto GNU - Free "
+"Software Foundation"
+
+#. type: Content of: <div><a>
+msgid "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+msgstr "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+
+#. type: Attribute 'title' of: <div><a><img>
+msgid "Education Contents"
+msgstr "Índice da Seção"
+
+#. type: Attribute 'alt' of: <div><a><img>
+msgid "&nbsp;[Education Contents]&nbsp;"
+msgstr "&nbsp;[Índice da Seção]&nbsp;"
+
+#. type: Content of: <div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><p><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><p><a><img>
+msgid "GNU Home"
+msgstr "Página inicial do GNU"
+
+#. type: Content of: <div><p>
+msgid ""
+"</a>&nbsp;/ <a href=\"/education/education.html\">Education</a>&nbsp;/ <a "
+"href=\"/education/resisting-proprietary-software.html\">Resistance</a>&nbsp;/"
+msgstr ""
+"</a>&nbsp;/ <a href=\"/education/education.html\">Educação</a>&nbsp;/ <a "
+"href=\"/education/resisting-proprietary-software.html\">Resistência</"
+"a>&nbsp;/"
+
+#. type: Content of: <div><h2>
+msgid "Successful Resistance Against Nonfree Software"
+msgstr "Resistência bem-sucedida contra software não livre"
+
+#. type: Content of: <div><p>
+msgid ""
+"Our aim in this section is to show examples of how people have successfully "
+"resisted and replaced nonfree software in educational institutions by "
+"various means, such as by talking to schools administrators and by setting "
+"up freedom and privacy respecting platforms for remote education."
+msgstr ""
+"Nosso objetivo nesta seção é mostrar exemplos de como as pessoas resistiram "
+"com sucesso e substituíram software não livre em instituições educacionais "
+"por vários meios, como conversando com administradores de escolas e criando "
+"plataformas de educação remota respeitando a liberdade e a privacidade."
+
+#. type: Content of: <div><p>
+msgid ""
+"Some of the items below include examples of web-based videoconferencing "
+"software. We have verified that in some cases they require to run nonfree "
+"JavaScript code to be usable. <strong>The GNU Project warns against <a href="
+"\"/philosophy/javascript-trap.html\">the JavaScript trap</a></strong> and is "
+"providing guidance to the developers of these platforms so that they can "
+"either <em>eliminate it entirely</em> or <a href=\"/software/librejs/free-"
+"your-javascript.html\"> <em>free the code</em></a>."
+msgstr ""
+"Alguns dos itens abaixo incluem exemplos de software de videoconferência "
+"baseado na web. Verificamos que, em alguns casos, eles exigem a execução de "
+"código JavaScript não livre para serem utilizáveis. <strong>O Projeto GNU "
+"alerta contra <a href=\"/philosophy/javascript-trap.html\">a armadilha do "
+"JavaScript</a></strong> e está fornecendo orientação aos desenvolvedores "
+"dessas plataformas para que eles possam <em>eliminá-los totalmente</em> ou "
+"<a href=\"/software/librejs/free-your-javascript.html\"> <em>liberar o "
+"código</em></a>."
+
+#. type: Content of: <div><p>
+msgid ""
+"If you would like to set up an instance of Jitsi Meet on your own server, we "
+"recommend that you do NOT install the standard release, because it does not "
+"indicate clearly the licensing of the JavaScript code. Instead, install the "
+"<a href=\"https://vcs.fsf.org/?p=jitsi-ansible.git\">FSF's cleaned-up "
+"version of Jitsi Meet</a>, which does clearly state the licensing."
+msgstr ""
+"Se você deseja configurar uma instância do Jitsi Meet em seu próprio "
+"servidor, recomendamos que NÃO instale a versão padrão, pois ela não indica "
+"claramente o licenciamento do código JavaScript. Em vez disso, instale a <a "
+"href=\"https://vcs.fsf.org/?p=jitsi-ansible.git\">versão limpa da FSF do "
+"Jitsi Meet</a>, que indica claramente o licenciamento."
+
+#. type: Content of: <div><h3>
+msgid "Examples"
+msgstr "Exemplos"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"A student of Computer Science in Poland <a href=\"/education/how-i-fought-to-"
+"graduate-without-using-non-free-software.html\"> fights back</a> proprietary "
+"software at his university and manages to graduate using only free software."
+msgstr ""
+"Um estudante de Ciência da Computação na Polônia <a href=\"/education/how-i-"
+"fought-to-graduate-without-using-non-free-software.html\"> luta contra</a> "
+"software privativo em sua universidade e consegue se formar usando apenas "
+"software livre."
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"In Spain, a father succeeds in getting some of his children's schools <a "
+"href=\"/education/remote-education-children-freedom-privacy-at-stake.html\"> "
+"drop Skype and switch to Jitsi</a>."
+msgstr ""
+"Na Espanha, um pai consegue fazer com que algumas das escolas de seus filhos "
+"<a href=\"/education/remote-education-children-freedom-privacy-at-stake.html"
+"\"> abandonem o Skype e mudem para o Jitsi</a>."
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"As soon as MIT Prof. Gerald Jay Sussman realized that nonfree licenses were "
+"being offered for teaching online classes, he saw the moral issue at stake "
+"and started working to ensure he would not use them. <a href=\"/education/"
+"teaching-my-mit-classes-with-only-free-libre-software\"> He succeeded in "
+"teaching his Spring 2020 online classes using exclusively free software</a>."
+msgstr ""
+"Assim que o Prof. Gerald Jay Sussman do MIT percebeu que licenças não livres "
+"estavam sendo oferecidas para o ensino de aulas online, ele viu a questão "
+"moral em jogo e começou a trabalhar para garantir que não as usaria. <a href="
+"\"/education/teaching-my-mit-classes-with-only-free-libre-software\"> Ele "
+"teve sucesso em dar aulas online da primavera de 2020 usando exclusivamente "
+"software livre</a>."
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Free software activists in Valencia, Spain, have set up <a href=\"https://"
+"bbb.valenciatech.com/b/\">a server running BigBlueButton</a>, an advanced "
+"web conferencing system that features sharing of media files and documents, "
+"whiteboard, and other capabilities. Although this platform is free software, "
+"work is currently being done on this implementation so that it will clearly "
+"show the JavaScript licensing. Read <a href=\"https://en.wikipedia.org/wiki/"
+"BigBlueButton\">more about BigBlueButton</a> and <a href=\"https://directory."
+"fsf.org/wiki/BigBlueButton\">download it</a>."
+msgstr ""
+"Ativistas do software livre em Valência, Espanha, criaram <a href=\"https://"
+"bbb.valenciatech.com/b/\">um servidor de BigBlueButton</a>, um sistema de "
+"conferência web avançado que oferece compartilhamento de arquivos de mídia e "
+"documentos, quadro branco e outros recursos. Embora esta plataforma seja um "
+"software livre, atualmente trabalho está sendo feito nesta implementação "
+"para que ela mostre claramente o licenciamento do JavaScript. Leia <a href="
+"\"https://en.wikipedia.org/wiki/BigBlueButton\">mais sobre BigBlueButton</a> "
+"e <a href=\"https://directory.fsf.org/wiki/BigBlueButton\">baixe-o</a>."
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://www.fsf.org/blogs/community/fsf-gives-freedom-respecting-"
+"videoconferencing-to-all-associate-members\"> The Free Software Foundation "
+"runs an instance of Jitsi Meet on its servers</a> and makes it available to "
+"its associate members."
+msgstr ""
+"<a href=\"https://www.fsf.org/blogs/community/fsf-gives-freedom-respecting-"
+"videoconferencing-to-all-associate-members\"> A Free Software Foundation "
+"possui uma instância do Jitsi Meet em seus servidores</a> e a disponibiliza "
+"para seus membros associados."
+
+#. type: Content of: <div><p>
+msgid ""
+"Learn about the <a href=\"/education/dangers-of-proprietary-systems-in-"
+"online-teaching.html\"> dangers of proprietary systems in online teaching</"
+"a>."
+msgstr ""
+"Saiba mais sobre os <a href=\"/education/dangers-of-proprietary-systems-in-"
+"online-teaching.html\"> perigos dos sistemas privativos no ensino online</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and contributing translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and contributing "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2020, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2020, 2021 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2021."
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização:"

@@ -1,21 +1,21 @@
 # Brazilian Portuguese translation of https://www.gnu.org/education/edu-cases-argentina-ecen.html
-# Copyright (C) 2017 Free Software Foundation, Inc.
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2017.
 # May 2020: update to new layout (T. Godefroy).
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017-2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: edu-cases-argentina-ecen.html\n"
-"POT-Creation-Date: 2020-12-30 11:25+0000\n"
-"PO-Revision-Date: 2017-08-14 05:58-0300\n"
+"POT-Creation-Date: 2021-05-26 21:26+0000\n"
+"PO-Revision-Date: 2021-05-03 10:15-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 1.0.0-beta1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -128,9 +128,9 @@ msgid ""
 msgstr ""
 "Nossa escola preza pelos ideais da solidariedade, honestidade, excelência na "
 "educação, a observância da lei, a constante busca pela verdade, justiça e "
-"amor em todas as atividades diárias. Usar e ensinar software proprietário "
-"era um contraste com esses valores. Diretores e professores da escola também "
-"não suportavam mais o gerenciamento de licença de software e as muitas "
+"amor em todas as atividades diárias. Usar e ensinar software privativo era "
+"um contraste com esses valores. Diretores e professores da escola também não "
+"suportavam mais o gerenciamento de licença de software e as muitas "
 "restrições que os termos daquelas licenças impunham à escola."
 
 #. type: Content of: <div><div><p>
@@ -156,7 +156,7 @@ msgid ""
 "administration offices and the library."
 msgstr ""
 "Todo o processo durou quatro anos: nós iniciamos em 2006 com nossas estações "
-"de trabalho usando software proprietário e concluímos em 2010 com sistemas "
+"de trabalho usando software privativo e concluímos em 2010 com sistemas "
 "operacionais e programas totalmente livres em todos os computadores da "
 "escola, incluindo os escritórios da administração e a biblioteca."
 
@@ -172,7 +172,7 @@ msgstr ""
 "a consciência sobre as implicações filosóficas, éticas e sociopolíticas do "
 "uso de tecnologia. Esse aspecto fundamental foi mantido e ressaltado durante "
 "todo o processo e colocado em prática pela substituição gradual de programas "
-"proprietários com programas de Software Livre."
+"privativos com programas de Software Livre."
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -422,8 +422,8 @@ msgstr ""
 "contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2011, 2016, 2020 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2011, 2016, 2020 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2011, 2016, 2020, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2011, 2016, 2020, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -440,12 +440,16 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "<b>Traduzido por:</b> Rafael Fontenelle\n"
-"<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, 2017"
+"<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, "
+"2017-2021"
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid "Copyright &copy; 2011, 2016, 2020 Free Software Foundation, Inc."
+#~ msgstr "Copyright &copy; 2011, 2016, 2020 Free Software Foundation, Inc."
 
 #~ msgid "<a href=\"/education/edu-cases.html\">Back to Case Studies</a>"
 #~ msgstr ""

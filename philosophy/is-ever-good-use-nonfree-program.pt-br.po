@@ -1,14 +1,14 @@
 # Brazilian Portuguese translation of https://www.gnu.org/philosophy/is-ever-good-use-nonfree-program.html
-# Copyright (C) 2020 Free Software Foundation, Inc.
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Cassiano Reinert Novais dos Santos <caco@posteo.net>, 2019.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2019-2020.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2019-2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: is-ever-good-use-nonfree-program.html\n"
 "POT-Creation-Date: 2020-12-17 21:25+0000\n"
-"PO-Revision-Date: 2020-12-19 09:46-0300\n"
+"PO-Revision-Date: 2021-05-03 10:15-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1)\n"
-"X-Generator: Gtranslator 3.38.0\n"
+"X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -123,7 +123,7 @@ msgstr ""
 "livre para o Unix. A maneira viável de fazer isso era escrever e testar os "
 "componentes um por um no Unix. Mas era legítimo usar o Unix para isso? E era "
 "legítimo pedir a outros que usassem o Unix para isso, dado que o Unix era um "
-"software proprietário? (É claro que, se não fosse proprietário, não seria "
+"software privativo? (É claro que, se não fosse privativo, não seria "
 "necessário substituí-lo.)"
 
 #. type: Content of: <p>
@@ -291,8 +291,8 @@ msgid ""
 "commitment to behave like an uncooperative, bad neighbor.  It claims you "
 "promised not to distribute copies to others, or even lend someone a copy."
 msgstr ""
-"A maioria dos programas proprietários vem com um contrato de licença de "
-"usuário final que quase ninguém lê. Escondido, na maioria dos casos, está um "
+"A maioria dos programas privativos vem com um contrato de licença de usuário "
+"final que quase ninguém lê. Escondido, na maioria dos casos, está um "
 "compromisso antiético de se comportar como um vizinho mal que não coopera. "
 "Ele alega que você prometeu não distribuir cópias para os outros, ou mesmo "
 "emprestar uma cópia a alguém."

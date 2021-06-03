@@ -1,23 +1,23 @@
 # Brazilian Portuguese translation of http://www.gnu.org/philosophy/free-doc.html
-# Copyright (C) 2016 Free Software Foundation, Inc.
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Gustavo Lacerda <gus@optimizelife.com>, 2001.
 # Dec 2014: GNUNify.
 # August 2016: update a link.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2016, 2019.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2016-2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: free-doc.html\n"
 "POT-Creation-Date: 2019-12-27 22:55+0000\n"
-"PO-Revision-Date: 2019-12-27 23:22-0200\n"
+"PO-Revision-Date: 2021-05-03 10:15-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 1.0.0-beta1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -95,7 +95,7 @@ msgid ""
 msgstr ""
 "Essa não foi a primeira vez que esse tipo de coisa aconteceu e, para o "
 "grande prejuízo da nossa comunidade, estava longe de ser a última. Editoras "
-"de manuais proprietários seduziram muitos autores a restringir seus manuais "
+"de manuais privativos seduziram muitos autores a restringir seus manuais "
 "desde então. Várias vezes já ouvi usuários de GNU animadamente me contar "
 "sobre um manual que eles estavam escrevendo, com o qual eles esperam ajudar "
 "o projeto GNU — e então perder minhas esperanças, quando eles me explicavam "
@@ -231,17 +231,17 @@ msgid ""
 "that needs filling."
 msgstr ""
 "Infelizmente, é frequentemente difícil encontrar alguém para escrever outro "
-"manual quando um manual proprietário já existe. O obstáculo é que muitos "
-"usuários pensam que um manual proprietário é bom o suficiente — então eles "
-"não veem a necessidade de escrever um manual livre. Eles não veem que o "
-"sistema operacional livre tem um buraco que precisa ser preenchido."
+"manual quando um manual privativo já existe. O obstáculo é que muitos "
+"usuários pensam que um manual privativo é bom o suficiente — então eles não "
+"veem a necessidade de escrever um manual livre. Eles não veem que o sistema "
+"operacional livre tem um buraco que precisa ser preenchido."
 
 #. type: Content of: <p>
 msgid ""
 "Why do users think that proprietary manuals are good enough? Some have not "
 "considered the issue.  I hope this article will do something to change that."
 msgstr ""
-"Por que será que os usuários pensam que manuais proprietários são "
+"Por que será que os usuários pensam que manuais privativos são "
 "suficientemente bons? Algumas pessoas ainda não consideraram essa questão. "
 "Espero que esse artigo contribua para mudar isso."
 
@@ -254,12 +254,12 @@ msgid ""
 "which do not include freedom, they are no guide for those of us who do value "
 "freedom."
 msgstr ""
-"Outros usuários consideram manuais proprietários aceitáveis pelo mesmo "
-"motivo que tantas pessoas consideram softwares proprietários aceitáveis: "
-"eles julgam em termos puramente imediatistas, sem usar liberdade como "
-"critério. Essas pessoas têm direito às suas opiniões, mas já que essas "
-"opiniões derivam de valores que não incluem a liberdade, elas não são guia "
-"nenhum para aqueles entre nós que valorizamos a liberdade."
+"Outros usuários consideram manuais privativos aceitáveis pelo mesmo motivo "
+"que tantas pessoas consideram softwares privativos aceitáveis: eles julgam "
+"em termos puramente imediatistas, sem usar liberdade como critério. Essas "
+"pessoas têm direito às suas opiniões, mas já que essas opiniões derivam de "
+"valores que não incluem a liberdade, elas não são guia nenhum para aqueles "
+"entre nós que valorizamos a liberdade."
 
 #. type: Content of: <p>
 msgid ""
@@ -270,8 +270,8 @@ msgid ""
 "make it free."
 msgstr ""
 "Por favor, espalhe a palavra sobre essa questão. Nós continuamos a perder "
-"manuais para editoras proprietários. Se nós espalharmos a noção de que "
-"manuais proprietários não são suficiente, talvez a próxima pessoa que queira "
+"manuais para publicações privativas. Se nós espalharmos a noção de que "
+"manuais privativos não são suficiente, talvez a próxima pessoa que queira "
 "ajudar GNU escrevendo documentação perceberá, antes que seja tarde demais, "
 "que ele deve sobre tudo fazê-lo livre."
 
@@ -283,8 +283,8 @@ msgid ""
 "manuals to noncopylefted ones."
 msgstr ""
 "Nós também podemos encorajar editoras comerciais a vender manuais livres, "
-"copylefted, ao invés de manuais proprietários. Uma maneira que você pode "
-"ajudar é checar os termos de distribuição de um manual antes de comprá-lo, e "
+"copylefted, ao invés de manuais privativos. Uma maneira que você pode ajudar "
+"é checar os termos de distribuição de um manual antes de comprá-lo, e "
 "preferir manuais copylefted a manuais não copylefted."
 
 #. type: Content of: <p>
@@ -366,7 +366,7 @@ msgstr ""
 "2011 <br />\n"
 "Rafael Fontenelle\n"
 "<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, "
-"2016-2019"
+"2016-2021"
 
 #.  timestamp start 
 #. type: Content of: <div><p>

@@ -1,5 +1,5 @@
 # Brazilian Portuguese translation of http://www.gnu.org/philosophy/keep-control-of-your-computing.html
-# Copyright (C) 2013 Free Software Foundation, Inc.
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Hudson Flávio Meneses Lacerda <hfmlacerda@yahoo.com.br>, 2013
 #
@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: keep-control-of-your-computing.html\n"
 "POT-Creation-Date: 2014-03-14 04:34+0000\n"
-"PO-Revision-Date: 2013-05-27 12:04-0300\n"
-"Last-Translator: Hudson Flávio Meneses Lacerda <hfmlacerda@yahoo.com.br>\n"
+"PO-Revision-Date: 2021-05-03 10:15-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -77,10 +77,10 @@ msgid ""
 msgstr ""
 "Isso não significa que aqueles usuários tivessem controle de sua "
 "computação.  Com software, ou os usuários controlam o programa (software "
-"livre) ou o programa controla os usuários (software proprietário ou não "
-"livre).  Aqueles usuários estavam rodando software proprietário, pois era o "
-"que havia na época.  Os usuários não podiam modificá-lo, nem mesmo saber o "
-"que ele realmente fazia."
+"livre) ou o programa controla os usuários (software privativo ou não "
+"livre).  Aqueles usuários estavam rodando software privativo, pois era o que "
+"havia na época.  Os usuários não podiam modificá-lo, nem mesmo saber o que "
+"ele realmente fazia."
 
 #. type: Content of: <p>
 msgid ""
@@ -90,12 +90,12 @@ msgid ""
 "the Kindle.) But even absent such abuse, it wasn't right for users to be "
 "controlled by their software."
 msgstr ""
-"A abusividade do software proprietário tem se intensificado desde então; "
-"hoje em dia, é provável que ele lhe espione, lhe restrinja intencionalmente "
-"e/ou tenha portas dos fundos [<cite>back doors</cite>].  (Sabe-se que o "
-"Windows faz essas três coisas, assim como o iPhone e o Kindle.)  Mas, mesmo "
-"quando não há tais abusos, não é correto que os usuários sejam controlados "
-"pelo seu software."
+"A abusividade do software privativo tem se intensificado desde então; hoje "
+"em dia, é provável que ele lhe espione, lhe restrinja intencionalmente e/ou "
+"tenha portas dos fundos [<cite>back doors</cite>].  (Sabe-se que o Windows "
+"faz essas três coisas, assim como o iPhone e o Kindle.)  Mas, mesmo quando "
+"não há tais abusos, não é correto que os usuários sejam controlados pelo seu "
+"software."
 
 #. type: Content of: <p>
 msgid ""

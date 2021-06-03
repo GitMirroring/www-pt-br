@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: help.html\n"
-"POT-Creation-Date: 2021-03-08 19:25+0000\n"
-"PO-Revision-Date: 2021-03-15 11:01-0300\n"
+"POT-Creation-Date: 2021-05-07 14:25+0000\n"
+"PO-Revision-Date: 2021-05-08 07:42-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1)\n"
-"X-Generator: Gtranslator 3.38.0\n"
+"X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -29,7 +29,7 @@ msgstr ""
 msgid "Helping the GNU Project and the Free Software Movement"
 msgstr "Ajudando o Projeto GNU e o Movimento Software Livre"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Saying no to the use of a nonfree program or an online disservice <a href=\"/"
 "philosophy/saying-no-even-once.html\">on even one occasion</a> helps the "
@@ -50,6 +50,18 @@ msgid ""
 msgstr ""
 "Além disso, você também pode ajudar oferecendo-se para trabalhar. Esta "
 "página lista muitos tipos de trabalho de que precisamos."
+
+#. type: Content of: <address>
+msgid ""
+"For general questions about the GNU project, mail <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a> and for questions and suggestions about this "
+"web site, mail <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Para questões gerais sobre o Projeto GNU, envie um e-mail para <a href="
+"\"mailto:gnu@gnu.org\">&lt;gnu@gnu.org&gt;</a> e para questões e sugestões "
+"sobre esse site, envie um e-mail para <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a>."
 
 #. type: Content of: <div><h3>
 msgid "Table of Contents"
@@ -84,23 +96,11 @@ msgid ""
 msgstr ""
 "<a href=\"#fsf\">Voluntarie-se e doe para a Free Software Foundation</a>"
 
-#. type: Content of: <p>
-msgid ""
-"For general questions about the GNU project, mail <a href=\"mailto:gnu@gnu."
-"org\">&lt;gnu@gnu.org&gt;</a> and for questions and suggestions about this "
-"web site, mail <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
-"org&gt;</a>."
-msgstr ""
-"Para questões gerais sobre o Projeto GNU, envie um e-mail para <a href="
-"\"mailto:gnu@gnu.org\">&lt;gnu@gnu.org&gt;</a> e para questões e sugestões "
-"sobre esse site, envie um e-mail para <a href=\"mailto:webmasters@gnu.org"
-"\">&lt;webmasters@gnu.org&gt;</a>."
-
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Help develop the GNU operating system"
 msgstr "Ajude no desenvolvimento do sistema operacional GNU"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "Write free <a href=\"/philosophy/free-doc.html\"> manuals and other "
 "documentation</a> for GNU software."
@@ -108,7 +108,7 @@ msgstr ""
 "Escreva <a href=\"/philosophy/free-doc.html\">manuais e outras "
 "documentações</a> livres para software GNU."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "Propose your useful software packages as GNU packages.  See the <a href=\"/"
 "help/evaluation.html\">GNU software evaluation</a> information."
@@ -116,7 +116,7 @@ msgstr ""
 "Proponha seus pacotes de software úteis como pacotes GNU. Veja a informação "
 "de <a href=\"/help/evaluation.html\">avaliação de softwares GNU</a>."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "Write a Firefox extension that will replace the nonfree Javascript code of "
 "some useful web site (when that nonfree code is blocked by LibreJS).  Please "
@@ -128,7 +128,7 @@ msgstr ""
 "LibreJS). Veja nossas <a href=\"/help/help-javascript.html\"> diretrizes e "
 "sugestões</a>."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "Do one of the <a href=\"/help/priority-projects.html\">GNU High Priority "
 "Enhancement Projects</a>."
@@ -136,35 +136,35 @@ msgstr ""
 "Faça um dos <a href=\"/help/priority-projects.html\">projetos de "
 "aprimoramento de alta prioridade do GNU</a>."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"The <a href=\"http://savannah.gnu.org/people/?type_id=1\">GNU Help Wanted</"
+"The <a href=\"https://savannah.gnu.org/people/?type_id=1\">GNU Help Wanted</"
 "a> list is the general task list for GNU software packages.  You might also "
 "consider taking over one of the <a href=\"/server/takeaction.html#unmaint"
 "\">unmaintained GNU packages</a>."
 msgstr ""
-"A lista <a href=\"http://savannah.gnu.org/people/?type_id=1\">GNU Help "
+"A lista <a href=\"https://savannah.gnu.org/people/?type_id=1\">GNU Help "
 "Wanted</a> é a lista de tarefas gerais para pacotes de software GNU. Você "
 "também pode considerar assumir um dos <a href=\"/server/takeaction."
 "html#unmaint\">pacotes GNU sem mantenedor</a>."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"There are other <a href=\"http://savannah.gnu.org/people/?group=tasklist"
+"There are other <a href=\"https://savannah.gnu.org/people/?group=tasklist"
 "\">projects that would be good to do</a>."
 msgstr ""
-"Há outros <a href=\"http://savannah.gnu.org/people/?group=tasklist"
+"Há outros <a href=\"https://savannah.gnu.org/people/?group=tasklist"
 "\">projetos que seria bom realizar</a>."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"Work on a project on the <a href=\"http://www.fsf.org/campaigns/priority.html"
-"\">FSF's list of very important free software projects</a>."
+"Work on a project on the <a href=\"https://www.fsf.org/campaigns/priority."
+"html\">FSF's list of very important free software projects</a>."
 msgstr ""
-"Trabalhe em um projeto na <a href=\"http://www.fsf.org/campaigns/priority."
+"Trabalhe em um projeto na <a href=\"https://www.fsf.org/campaigns/priority."
 "html\">lista da FSF de projetos de software livre muito importantes</a>."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "Improve <a href=\"/accessibility/accessibility.html\">accessibility of free "
 "software</a>."
@@ -172,7 +172,7 @@ msgstr ""
 "Melhore <a href=\"/accessibility/accessibility.html\">acessibilidade do "
 "software livre</a>."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "If you are a student, and you must do a software development project, "
 "contribute it to GNU. See <a href=\"/philosophy/university.html\">how to "
@@ -183,7 +183,7 @@ msgstr ""
 "\">como fazer a universidade permitir que você lance-o como software livre</"
 "a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If you want to volunteer to work on GNU software, see <a href=\"/software/"
 "tasklist/howto-volunteer.html\"> how to volunteer</a>."
@@ -191,7 +191,7 @@ msgstr ""
 "Se você deseja se voluntariar para trabalhar em softwares GNU, veja <a href="
 "\"/software/tasklist/howto-volunteer.html\">como se voluntariar</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Please let the GNU Volunteer Coordinators <a href=\"mailto:gvc@gnu.org\">&lt;"
 "gvc@gnu.org&gt;</a> know if you start a new package that you found in those "
@@ -202,7 +202,7 @@ msgstr ""
 "você localizou naquelas listas. Nós queremos manter rastro de quais tarefas "
 "estão sendo trabalhadas."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "When writing software for GNU, please follow the <a href=\"/prep/standards/"
 "\">GNU Coding Standards</a> and <a href=\"/prep/maintain/\">Information for "
@@ -212,13 +212,13 @@ msgstr ""
 "prep/standards/\">Padrões de Codificação GNU</a> e <a href=\"/prep/maintain/"
 "\">Informações para Mantenedores de Software GNU</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We are sometimes offered software which already does substantially the same "
 "task as an existing GNU package.  Although of course we appreciate all "
 "offers, we'd naturally like to encourage programmers to spend their time "
 "writing free software to do new jobs, not already-solved ones.  So, before "
-"starting a new program, please check the <a href=\"http://directory.fsf.org/"
+"starting a new program, please check the <a href=\"https://directory.fsf.org/"
 "\">Free Software Directory</a> for free software that does the job already."
 msgstr ""
 "Nós algumas vezes oferecemos software que já faz substancialmente a mesma "
@@ -226,10 +226,10 @@ msgstr ""
 "todas as ofertas, naturalmente nós gostamos de encorajar programadores a "
 "dedicar seu tempo escrevendo software livre para fazer novos trabalhos, que "
 "ainda não foram resolvidos. Então, antes de começar um novo programa, por "
-"favor verifique o <a href=\"http://directory.fsf.org/\">Diretório de "
+"favor, confira o <a href=\"https://directory.fsf.org/\">Diretório de "
 "Software Livre</a> para software livre que já faz o trabalho."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We can offer <a href=\"/software/devel.html\">some resources</a> to help GNU "
 "software developers."
@@ -237,7 +237,7 @@ msgstr ""
 "Nós podemos oferecer <a href=\"/software/devel.html\">alguns recursos</a> "
 "para ajudar desenvolvedores de software GNU."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The GNU Volunteer Coordinators <a href=\"mailto:gvc@gnu.org\">&lt;gvc@gnu."
 "org&gt;</a> can assist you if you would like to help development GNU "
@@ -253,11 +253,11 @@ msgstr ""
 "de tarefas, por favor deixe-os saber que você está interessado em trabalhar "
 "nisso."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Help support GNU development and use"
 msgstr "Ajude apoiando o desenvolvimento do GNU e usando-o"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This list is ordered roughly with the more urgent items near the top.  "
 "Please note that many things on this list link to larger, expanded lists."
@@ -266,45 +266,45 @@ msgstr ""
 "topo. Por favor, note que muitas coisas nesta lista se vinculam a listas "
 "maiores e expandidas."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"Help with <a href=\"http://savannah.gnu.org\">Savannah</a>. We are "
+"Help with <a href=\"https://savannah.gnu.org\">Savannah</a>. We are "
 "especially looking for technical sysadmin volunteers to help with underlying "
 "infrastructure support.  Volunteers to help with pending project submissions "
-"are also very welcome.  Please see this <a href=\"http://savannah.gnu.org/"
+"are also very welcome.  Please see this <a href=\"https://savannah.gnu.org/"
 "maintenance/HowToBecomeASavannahHacker\">general information on how to "
 "become a savannah hacker</a>.  Please communicate with us on the <a href="
-"\"http://lists.gnu.org/mailman/listinfo/savannah-hackers-public\">savannah-"
+"\"https://lists.gnu.org/mailman/listinfo/savannah-hackers-public\">savannah-"
 "hackers-public</a> mailing list."
 msgstr ""
-"Ajude com o <a href=\"http://savannah.gnu.org\">Savannah</a>. Em especial, "
+"Ajude com o <a href=\"https://savannah.gnu.org\">Savannah</a>. Em especial, "
 "estamos procurando por voluntários para atuar na área técnica de "
 "administração de sistemas para ajudar com suporte na infraestrutura "
 "subjacente. Voluntários a ajudar com submissões de projetos pendentes também "
-"são muito bem-vindos. Por favor, veja essas <a href=\"http://savannah.gnu."
+"são muito bem-vindos. Por favor, veja essas <a href=\"https://savannah.gnu."
 "org/maintenance/HowToBecomeASavannahHacker\">informações gerais sobre como "
 "se tornar um hacker de savannah</a>. Por favor, se comunique com nós na "
-"lista de discussão <a href=\"http://lists.gnu.org/mailman/listinfo/savannah-"
+"lista de discussão <a href=\"https://lists.gnu.org/mailman/listinfo/savannah-"
 "hackers-public\">savannah-hackers-public</a>."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"Organize a new <a href=\"http://libreplanet.org/wiki/Group_list\">GNU/Linux "
+"Organize a new <a href=\"https://libreplanet.org/wiki/Group_list\">GNU/Linux "
 "User Group</a>."
 msgstr ""
-"Organize um novo <a href=\"http://libreplanet.org/wiki/Group_list\">Grupo de "
-"Usuários GNU/Linux</a>."
+"Organize um novo <a href=\"https://libreplanet.org/wiki/Group_list\">Grupo "
+"de Usuários GNU/Linux</a>."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"Volunteer as a GNU Webmaster.  Start by completing the <a href=\"http://www."
-"gnu.org/server/standards/webmaster-quiz.html\"> webmaster quiz</a>."
+"Volunteer as a GNU Webmaster.  Start by completing the <a href=\"/server/"
+"standards/webmaster-quiz.html\"> webmaster quiz</a>."
 msgstr ""
-"Voluntarie-se como um Webmaster GNU. Comece completando o <a href=\"http://"
+"Voluntarie-se como um Webmaster GNU. Comece completando o <a href=\"https://"
 "www.gnu.org/server/standards/webmaster-quiz.html\">questionário de "
 "webmaster</a>."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "Translate the GNU Web site into other languages.  Each translation team "
 "needs several members that are native speakers of the target language (and "
@@ -324,7 +324,7 @@ msgstr ""
 "Escreva para <a href=\"mailto:web-translators@gnu.org\">&lt;web-"
 "translators@gnu.org&gt;</a> se quiser ajudar."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "We need native English speakers with a good command of the language to "
 "proofread English text written by GNU package maintainers and other "
@@ -342,7 +342,7 @@ msgstr ""
 "href=\"https://lists.gnu.org/mailman/listinfo/proofreaders\">lista de "
 "revisores de documentação do GNU</a>."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "When you are talking with people that don't value freedom and community, you "
 "can show them the many practical advantages of free software (see <a href="
@@ -358,7 +358,7 @@ msgstr ""
 "úteis). Mas não deixe de mencionar as questões éticas também! Não deixe a "
 "pressão deles mudar sua voz para uma voz de código aberto."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "Make sure that essays from our <a href=\"/philosophy/philosophy.html"
 "\">philosophy section</a> and other GNU URLs are linked to often in the "
@@ -372,11 +372,11 @@ msgstr ""
 "ajudar com essa tarefa, por favor contate os Coordenadores de Voluntários "
 "GNU <a href=\"mailto:gvc@gnu.org\">&lt;gvc@gnu.org&gt;</a>."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "Donate <a href=\"/help/help-hardware.html\">hardware</a> to the FSF."
 msgstr "Doe <a href=\"/help/help-hardware.html\">hardware</a> para a FSF."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "Take on one of the <a href=\"/server/tasks.html\">jobs</a> we need done for "
 "this <a href=\"/server/server.html\">web server</a>."
@@ -385,7 +385,7 @@ msgstr ""
 "precisamos que seja feito para esse <a href=\"/server/server.html\">servidor "
 "web</a>."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "If you or your company work supporting or developing free software in some "
 "way, you can list yourself (or your company) in the <a href=\"/prep/service."
@@ -395,34 +395,34 @@ msgstr ""
 "algumas formas, você mesmo (ou sua empresa) pode listar no <a href=\"/prep/"
 "service.html\">Diretório de Serviços</a>."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "If you run a company that needs to hire people to work with free software, "
-"you can advertise on our <a href=\"http://www.fsf.org/resources/jobs/\">Free "
-"Software Job Page</a>."
+"you can advertise on our <a href=\"https://www.fsf.org/resources/jobs/"
+"\">Free Software Job Page</a>."
 msgstr ""
 "Se você possui uma empresa que precisa contratar pessoas para trabalhar com "
-"software livre, você pode divulgar em nossa <a href=\"http://www.fsf.org/"
+"software livre, você pode divulgar em nossa <a href=\"https://www.fsf.org/"
 "resources/jobs/\">Página de Trabalhos de Software Livre</a>."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "Volunteer to contact companies and suggest that they use our <a href="
-"\"http://www.fsf.org/resources/jobs/\">Free Software Job Page</a> to publish "
-"their job postings.  If you would be interested in this, please contact <a "
-"href=\"mailto:job-page@fsf.org\">&lt;job-page@fsf.org&gt;</a>."
+"\"https://www.fsf.org/resources/jobs/\">Free Software Job Page</a> to "
+"publish their job postings.  If you would be interested in this, please "
+"contact <a href=\"mailto:job-page@fsf.org\">&lt;job-page@fsf.org&gt;</a>."
 msgstr ""
 "Voluntarie-se para contatar empresas e sugerir que eles usem nossa <a href="
-"\"http://www.fsf.org/resources/jobs/\">Páginas de Trabalhos de Software "
+"\"https://www.fsf.org/resources/jobs/\">Páginas de Trabalhos de Software "
 "Livre</a> para publicar suas publicações de trabalhos. Se você tiver "
 "interesse nisso, por favor contate <a href=\"mailto:job-page@fsf.org\">&lt;"
 "job-page@fsf.org&gt;</a>."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Spread awareness about GNU and the Free Software Movement"
 msgstr "Espalhe a consciência sobre GNU e o Movimento de Software Livre"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "Inform your acquaintances about the GNU <a href=\"/philosophy/philosophy.html"
 "\">philosophy</a> and <a href=\"/software/software.html\">software</a>."
@@ -431,7 +431,7 @@ msgstr ""
 "\">filosofia</a> e os <a href=\"/software/software.html\">softwares</a> do "
 "GNU."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "When you refer to the operating system that started as GNU with Linux added, "
 "call it <a href=\"/gnu/linux-and-gnu.html\"> GNU/Linux</a>, and don't follow "
@@ -449,7 +449,7 @@ msgstr ""
 "presentes e futuros ainda mais</a>. Essa ajuda toma muito pouco de seu tempo "
 "assim que você desaprender os hábitos antigos."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "Show your support for the free software movement and our <a href=\"/"
 "philosophy/free-sw.html\">ideas of freedom for users of computing</a>, by "
@@ -460,7 +460,7 @@ msgstr ""
 "philosophy/free-sw.html\">ideias de liberdade para usuários de computação</"
 "a>, dizendo “software livre”, “software libre” ou “software livre/libre”."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/philosophy/open-source-misses-the-point.html\"> Avoid the term "
 "&ldquo;open source&rdquo;</a> which stands for rejection of our ideals."
@@ -468,7 +468,7 @@ msgstr ""
 "<a href=\"/philosophy/open-source-misses-the-point.html\"> Evite o termo "
 "“código aberto”</a>, o qual representa a rejeição de nossos ideais."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/help/linking-gnu.html\">Add a link to this web site</a> to your "
 "home pages."
@@ -476,21 +476,21 @@ msgstr ""
 "<a href=\"/help/linking-gnu.html\">Adicione um link para este site</a> em "
 "suas páginas web."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "Suggest that others do these things."
 msgstr "Sugira que outros façam essas coisas."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "Offer GNU/Linux Installation or support in your local time banks."
 msgstr ""
 "Ofereça instalação GNU/Linux ou apoio financeiro por meio de seus bancos "
 "locais."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Help improve h-node.org"
 msgstr "Ajude a melhorar o h-node.org"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "h-node.org is a repository that contains information about how well "
 "particular hardware works with free software."
@@ -498,11 +498,11 @@ msgstr ""
 "h-node.org é um repositório que contém informações sobre o quão bem um "
 "hardware em particular funciona com software livre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "Help is needed in:"
 msgstr "Ajuda é necessária em:"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"https://h-node.org/wiki/page/en/Help\">Maintaining and improving "
 "the h-node.org wiki</a>."
@@ -510,7 +510,7 @@ msgstr ""
 "<a href=\"https://h-node.org/wiki/page/en/Help\">Manutenção e melhoria do "
 "wiki do h-node.org</a>."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "Improving <a href=\"https://h-node.org/wiki/page/en/h-source-code\">h-"
 "source</a> that powers h-node.org and <a href=\"https://h-node.org/wiki/page/"
@@ -522,11 +522,11 @@ msgstr ""
 "page/en/client-for-h-node-org\">h-client</a>, um programa para envio de "
 "informações de dispositivos para o h-node.org."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "Suggesting new hardware that should be added to the database."
 msgstr "Sugestão de novo hardware que deve ser adicionado ao banco de dados."
 
-#. type: Content of: outside any tag (error?)
+#. type: Content of: <div>
 msgid ""
 "For other ways to help, see <a href=\"https://h-node.org/wiki/page/en/Main-"
 "Page\"> https://h-node.org/wiki/page/en/Main-Page</a>.  For communicating "
@@ -538,11 +538,11 @@ msgstr ""
 "comunicar com os usuários/desenvolvedores do h-node.org, use suas <a href="
 "\"https://h-node.org/wiki/page/en/mailing-lists\">listas de discussão</a>."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Volunteer with and donate to the Free Software Foundation"
 msgstr "Voluntarie-se e doe para a Free Software Foundation"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The Free Software Foundation is the principal organizational sponsor of the "
 "GNU Operating System.  The FSF also helps to spread awareness of the ethical "
@@ -552,24 +552,24 @@ msgstr ""
 "Sistema Operacional GNU. A FSF também ajuda a espalhar a consciência das "
 "questões éticas e políticas da liberdade de software."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Like GNU, the FSF also gets a lot of its strength from volunteers.  It's a "
 "great place to volunteer and a great community to join, especially if you "
 "don't have the technical background to contribute directly to free software "
-"development.  Check out the FSF's <a href=\"http://fsf.org/volunteer"
-"\">volunteering page</a> to get started or the <a href=\"http://www.fsf.org"
+"development.  Check out the FSF's <a href=\"https://fsf.org/volunteer"
+"\">volunteering page</a> to get started or the <a href=\"https://www.fsf.org"
 "\">homepage</a> to learn more about the organization."
 msgstr ""
 "Como o GNU, a FSF também consegue muita de sua força a partir de "
 "voluntários. É um grande lugar para se voluntariar e uma ótima comunidade "
 "para se juntar, especialmente se você não tiver um conhecimentos técnicos "
 "para contribuir diretamente para o desenvolvimento do software livre. Acesse "
-"a <a href=\"http://fsf.org/volunteer\">página de voluntariado</a> da FSF "
-"para os primeiros passos ou a <a href=\"http://www.fsf.org\">página "
+"a <a href=\"https://fsf.org/volunteer\">página de voluntariado</a> da FSF "
+"para os primeiros passos ou a <a href=\"https://www.fsf.org\">página "
 "principal</a> para aprender mais sobre a organização."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Support the FSF and the GNU Project financially by becoming an FSF <a href="
 "\"https://my.fsf.org/join\">associate member</a>, <a href=\"https://www.fsf."
@@ -615,14 +615,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
@@ -630,18 +630,12 @@ msgstr ""
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas deste site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid ""
-"Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, "
-"2006, 2007, 2008, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021 Free "
-"Software Foundation, Inc."
-msgstr ""
-"Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, "
-"2006, 2007, 2008, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021 Free "
-"Software Foundation, Inc."
+msgid "Copyright &copy; 1996-2008, 2013-2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 1996-2008, 2013-2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -657,13 +651,22 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"<b>Traduzido por:</b> Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org"
-"\">&lt;rafaelff@gnome.org&gt;</a>, 2017-2021."
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2017-2021."
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid ""
+#~ "Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, "
+#~ "2005, 2006, 2007, 2008, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, "
+#~ "2021 Free Software Foundation, Inc."
+#~ msgstr ""
+#~ "Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, "
+#~ "2005, 2006, 2007, 2008, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, "
+#~ "2021 Free Software Foundation, Inc."
 
 #~ msgid ""
 #~ "Volunteer for proofreading of new and revised GNU manuals.  Write to <a "

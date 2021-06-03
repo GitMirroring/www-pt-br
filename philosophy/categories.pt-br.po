@@ -1,24 +1,24 @@
 # Brazilian Portuguese translation of https://www.gnu.org/philosophy/categories.html
-# Copyright (C) 2019 Free Software Foundation, Inc.
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Nelson Ferraz <nferraz@insite.com.br>, 2002.
 # Dec 2014: GNUNify; protegado com copyleft > distribuído sob copyleft,
 # protegido por copyright > sujeito a copyright, etc. (T. Godefroy).
-# Rafael Fontenelle <rafaelff@gnome.org>, 2017-2019.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017-2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: categories.html\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-02-21 01:56+0000\n"
-"PO-Revision-Date: 2019-02-21 21:27-0200\n"
+"PO-Revision-Date: 2021-05-03 10:15-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 1.0.0-beta1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -116,8 +116,8 @@ msgid ""
 "what we mean by free software in the GNU project."
 msgstr ""
 "Software livre é uma questão de liberdade, não preço. Mas empresas de "
-"software proprietários geralmente usam o termo “free software” para referir-"
-"se ao preço. Algumas vezes eles querem dizer que você pode obter uma cópia "
+"software privativo geralmente usam o termo “free software” para referir-se "
+"ao preço. Algumas vezes eles querem dizer que você pode obter uma cópia "
 "binária sem nenhum custo; algumas vezes querem dizer que uma cópia está "
 "incluída no computador que você está comprando. Em ambos casos, isso não tem "
 "nada a ver com o que nós queremos dizer com software livre no projeto GNU."
@@ -284,7 +284,7 @@ msgstr ""
 "(apesar de que um conjunto limitado de requisitos seguros adicionados pode "
 "ser permitido) e exigem tornar código-fonte disponível. Isto blinda o "
 "programa, e suas versões modificadas, de algumas das formas comuns de tornar "
-"um programa proprietário."
+"um programa privativo."
 
 #. type: Content of: <p>
 msgid ""
@@ -293,8 +293,8 @@ msgid ""
 "\">tivoization</a>."
 msgstr ""
 "Algumas licenças copyleft, tal como a GPL versão&nbsp;3, bloqueiam outros "
-"meios de tornar em software em proprietário, tal como <a href=\"/licenses/"
-"rms-why-gplv3.html\">tivoização</a>."
+"meios de tornar em software em privativo, tal como <a href=\"/licenses/rms-"
+"why-gplv3.html\">tivoização</a>."
 
 #. type: Content of: <p>
 msgid ""
@@ -356,7 +356,7 @@ msgstr ""
 "versões modificadas podem não ser software livre. Uma empresa de software "
 "pode compilar o programa, com ou sem modificações, e distribuir o arquivo "
 "executável na forma de um produto <a href=\"#ProprietarySoftware"
-"\">proprietário</a>."
+"\">privativo</a>."
 
 #. type: Content of: <p>
 msgid ""
@@ -396,8 +396,8 @@ msgid ""
 msgstr ""
 "Licenças permissivas e lenientes incluem a licença X11 e as <a href=\"/"
 "licenses/bsd.html\">duas licenças BSD</a>. Essas licenças permitem quase "
-"qualquer uso do código, incluindo distribuição de binários proprietários com "
-"ou sem alteração do código-fonte."
+"qualquer uso do código, incluindo distribuição de binários privativos com ou "
+"sem alteração do código-fonte."
 
 #. type: Content of: <h3>
 msgid "GPL-covered software"
@@ -592,7 +592,7 @@ msgstr ""
 
 #. type: Content of: <h3>
 msgid "Proprietary software"
-msgstr "Software proprietário"
+msgstr "Software privativo"
 
 #. type: Content of: <p>
 msgid ""
@@ -603,11 +603,11 @@ msgid ""
 "and now use &ldquo;proprietary software&rdquo; as synonymous with nonfree "
 "software."
 msgstr ""
-"Software proprietário é um outro nome para software não livre. No passado, "
-"nós subdividíamos software não livre em “software semilivre”, o qual poderia "
-"ser modificado e redistribuído não comercialmente, e “software "
-"proprietário”, que não poderia. Mas nós descartamos tal distinção e agora "
-"usamos “software proprietário” como sinônimo de software não livre."
+"Software privativo é um outro nome para software não livre. No passado, nós "
+"subdividíamos software não livre em “software semilivre”, o qual poderia ser "
+"modificado e redistribuído não comercialmente, e “software privativo”, que "
+"não poderia. Mas nós descartamos tal distinção e agora usamos “software "
+"privativo” como sinônimo de software não livre."
 
 #. type: Content of: <p>
 msgid ""
@@ -618,10 +618,10 @@ msgid ""
 "program."
 msgstr ""
 "A Free Software Foundation segue a regra de que não podemos instalar "
-"qualquer programa proprietário em nossos computadores, exceto "
-"temporariamente para o propósito específico de escrever um substituto livre "
-"para aquele mesmo programa. Fora isso, achamos que não há justificativa "
-"possível para instalar um programa proprietário."
+"qualquer programa privativo em nossos computadores, exceto temporariamente "
+"para o propósito específico de escrever um substituto livre para aquele "
+"mesmo programa. Fora isso, achamos que não há justificativa possível para "
+"instalar um programa privativo."
 
 #. type: Content of: <p>
 msgid ""
@@ -710,7 +710,7 @@ msgstr ""
 
 #. type: Content of: <h3>
 msgid "Private software"
-msgstr "Softwares privativos"
+msgstr "Softwares privados"
 
 #. type: Content of: <p>
 msgid ""
@@ -718,9 +718,9 @@ msgid ""
 "organization or company). That user keeps it and uses it, and does not "
 "release it to the public either as source code or as binaries."
 msgstr ""
-"Software privativo ou personalizados é um software desenvolvido para um "
-"usuário (geralmente uma organização ou empresa). Aquele usuário o mantém e o "
-"usa, e não o libera para o público como código-fonte ou como binários."
+"Software privado ou personalizado é um software desenvolvido para um usuário "
+"(geralmente uma organização ou empresa). Aquele usuário o mantém e o usa, e "
+"não o libera para o público como código-fonte ou como binários."
 
 #. type: Content of: <p>
 msgid ""
@@ -730,7 +730,7 @@ msgid ""
 "copies to others and does not provide the four freedoms with those copies, "
 "those copies are not free software."
 msgstr ""
-"Um programa privativo é um software livre (em algum sentido trivial) se seu "
+"Um programa privado é um software livre (em algum sentido trivial) se seu "
 "único usuário tem as quatro liberdades. Em particular, se o usuário tem "
 "todos os direitos ao programa privado, o programa é livre. Porém, se o "
 "usuário distribui cópias para outros e não fornece as quatro liberdades com "
@@ -779,11 +779,11 @@ msgid ""
 "\">proprietary</a>, but there is commercial free software, and there is "
 "noncommercial nonfree software."
 msgstr ""
-"“Comercial” e “proprietário” não são a mesma coisa! Software comercial é "
+"“Comercial” e “privativo” não são a mesma coisa! Software comercial é "
 "software desenvolvido por uma empresa como parte de seu negócio. A maior "
-"parte dos softwares comerciais é <a href=\"#ProprietarySoftware"
-"\">proprietária</a>, mas existem softwares livres comerciais, e softwares "
-"não comerciais e não livres."
+"parte dos softwares comerciais é <a href=\"#ProprietarySoftware\">privativa</"
+"a>, mas existem softwares livres comerciais, e softwares não comerciais e "
+"não livres."
 
 #. type: Content of: <p>
 msgid ""
@@ -822,7 +822,7 @@ msgid ""
 msgstr ""
 "Por favor, ajude-nos a divulgar o fato de que software comercial livre é "
 "possível. Você pode fazer isso através de um esforço de não dizer "
-"“comercial” quando quer dizer “proprietário”."
+"“comercial” quando quer dizer “privativo”."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>

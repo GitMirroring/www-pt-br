@@ -1,13 +1,13 @@
 # Brazilian Portuguese translation of https://www.gnu.org/philosophy/latest-articles.html
-# Copyright (C) 2020 Free Software Foundation, Inc.
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2019-2020.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2019-2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: latest-articles.html\n"
-"POT-Creation-Date: 2020-10-05 18:56+0000\n"
-"PO-Revision-Date: 2020-12-13 17:55-0300\n"
+"POT-Creation-Date: 2021-06-02 14:25+0000\n"
+"PO-Revision-Date: 2021-06-03 14:58-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -15,17 +15,17 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1)\n"
-"X-Generator: Gtranslator 3.38.0\n"
+"X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <title>
 msgid "Latest Articles - GNU Project - Free Software Foundation"
 msgstr "Artigos mais recentes - Projeto GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Philosophy of the GNU Project &mdash; Latest Articles"
 msgstr "Filosofia do Projeto GNU &ndash; Artigos mais recentes"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Hot off the presses, here are the latest published articles on free software "
 "and the GNU project."
@@ -33,7 +33,7 @@ msgstr ""
 "Aqui estão os artigos publicados mais recentemente sobre software livre e o "
 "projeto GNU."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/philosophy/free-software-rocket.html\">Should Rockets Have Only "
 "Free Software? Free Software and Appliances</a>"
@@ -41,7 +41,7 @@ msgstr ""
 "<a href=\"/philosophy/free-software-rocket.html\">Foguetes devem ter apenas "
 "software livre? Software e applicances livres</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/philosophy/saying-no-even-once.html\">Saying No to unjust "
 "computing even once is help</a>"
@@ -49,11 +49,11 @@ msgstr ""
 "<a href=\"/philosophy/saying-no-even-once.html\">Dizer não à computação "
 "injusta mesmo uma vez é ajudar</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "<a href=\"/philosophy/posting-videos.html\">Posting Videos</a>"
 msgstr "<a href=\"/philosophy/posting-videos.html\">Publicando vídeos</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/philosophy/install-fest-devil.html\">Install Fests: What to Do "
 "about the Deal with the Devil</a>"
@@ -61,7 +61,7 @@ msgstr ""
 "<a href=\"/philosophy/install-fest-devil.html\">Festivais de Instalação: O "
 "que fazer com o pacto com o diabo</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/philosophy/upgrade-windows.html\">What Is the Right Way to "
 "Upgrade an Installation of Windows?</a>"
@@ -69,7 +69,7 @@ msgstr ""
 "<a href=\"/philosophy/upgrade-windows.html\">Qual é a forma correta de "
 "atualizar uma instalação do Windows?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/philosophy/phone-anonymous-payment.html\">Anonymous Payment by "
 "Phone</a>"
@@ -77,7 +77,7 @@ msgstr ""
 "<a href=\"/philosophy/phone-anonymous-payment.html\">Pagamento anônimo por "
 "telefone</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/philosophy/kind-communication.html\">GNU Kind Communications "
 "Guidelines</a>"
@@ -85,7 +85,7 @@ msgstr ""
 "<a href=\"/philosophy/kind-communication.html\">Diretrizes de Comunicação "
 "Gentil do GNU</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/philosophy/surveillance-testimony.html\">Surveillance Testimony</"
 "a>"
@@ -93,7 +93,7 @@ msgstr ""
 "<a href=\"/philosophy/surveillance-testimony.html\">Testemunho de "
 "vigilância</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/licenses/identify-licenses-clearly.html\"> For Clarity's Sake, "
 "Please Don't Say &ldquo;Licensed under GNU GPL 2&rdquo;!</a>"
@@ -101,7 +101,7 @@ msgstr ""
 "<a href=\"/licenses/identify-licenses-clearly.html\"> Por motivo de clareza, "
 "por favor não diga “Licenciado sob GNU GPL2”!</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/philosophy/devils-advocate.html\"> Why the Devil's Advocate "
 "Doesn't Help Reach the Truth</a>"
@@ -109,7 +109,7 @@ msgstr ""
 "<a href=\"/philosophy/devils-advocate.html\"> Por que o advogado do diabo "
 "não ajuda a alcançar a verdade</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/philosophy/hackathons.html\"> Why Hackathons Should Insist on "
 "Free Software</a>"
@@ -117,7 +117,7 @@ msgstr ""
 "<a href=\"/philosophy/hackathons.html\"> Por que os hackathons devem "
 "insistir em Software Livre</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/philosophy/contradictory-support.html\"> Beware of Contradictory "
 "&ldquo;Support&rdquo;</a>"
@@ -125,7 +125,7 @@ msgstr ""
 "<a href=\"/philosophy/contradictory-support.html\"> Cuidado com o “Suporte” "
 "Contraditório</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/philosophy/when-free-depends-on-nonfree.html\"> When Free "
 "Software Depends on Nonfree</a>"
@@ -133,7 +133,7 @@ msgstr ""
 "<a href=\"/philosophy/when-free-depends-on-nonfree.html\"> Quando software "
 "livre depende de não livre</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/philosophy/applying-free-sw-criteria.html\"> Applying the Free "
 "Software Criteria</a>"
@@ -141,7 +141,7 @@ msgstr ""
 "<a href=\"/philosophy/applying-free-sw-criteria.html\"> Aplicando os "
 "critérios de software livre</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/philosophy/komongistan.html\">The Curious History of Komongistan "
 "(Busting the term &ldquo;intellectual property&rdquo;)</a>"
@@ -149,7 +149,7 @@ msgstr ""
 "<a href=\"/philosophy/komongistan.html\">A curiosa história de Comongistão "
 "(Detonando o termo “propriedade intelectual”)</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/philosophy/free-hardware-designs.html\"> Free Hardware and Free "
 "Hardware Designs</a>"
@@ -157,7 +157,7 @@ msgstr ""
 "<a href=\"/philosophy/free-hardware-designs.html\"> Hardware livre e "
 "projetos de hardware livre</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/philosophy/loyal-computers.html\"> What Does It Mean for Your "
 "Computer to Be Loyal?</a>"
@@ -191,14 +191,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
@@ -206,18 +206,12 @@ msgstr ""
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas deste site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid ""
-"Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, "
-"2006, 2007, 2008, 2009, 2010, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020 "
-"Free Software Foundation, Inc."
-msgstr ""
-"Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, "
-"2006, 2007, 2008, 2009, 2010, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020 "
-"Free Software Foundation, Inc."
+msgid "Copyright &copy; 1996-2010, 2013-2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 1996-2010, 2013-2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -234,12 +228,30 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
-"rafaelff@gnome.org&gt;</a>, 2019-2020."
+"rafaelff@gnome.org&gt;</a>, 2019-2021."
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid ""
+#~ "Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, "
+#~ "2005, 2006, 2007, 2008, 2009, 2010, 2013, 2014, 2015, 2016, 2017, 2018, "
+#~ "2019, 2020, 2021 Free Software Foundation, Inc."
+#~ msgstr ""
+#~ "Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, "
+#~ "2005, 2006, 2007, 2008, 2009, 2010, 2013, 2014, 2015, 2016, 2017, 2018, "
+#~ "2019, 2020, 2021 Free Software Foundation, Inc."
+
+#~ msgid ""
+#~ "Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, "
+#~ "2005, 2006, 2007, 2008, 2009, 2010, 2013, 2014, 2015, 2016, 2017, 2018, "
+#~ "2019, 2020 Free Software Foundation, Inc."
+#~ msgstr ""
+#~ "Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, "
+#~ "2005, 2006, 2007, 2008, 2009, 2010, 2013, 2014, 2015, 2016, 2017, 2018, "
+#~ "2019, 2020 Free Software Foundation, Inc."
 
 #~ msgid ""
 #~ "<a href=\"/philosophy/technological-neutrality.html\"> Technological "

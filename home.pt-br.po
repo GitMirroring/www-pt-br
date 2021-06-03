@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: home.html\n"
-"POT-Creation-Date: 2021-04-28 23:25+0000\n"
-"PO-Revision-Date: 2021-02-17 20:10-0300\n"
+"POT-Creation-Date: 2021-05-22 06:25+0000\n"
+"PO-Revision-Date: 2021-05-30 16:42-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1)\n"
-"X-Generator: Gtranslator 3.38.0\n"
+"X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <title>
 msgid "The GNU Operating System and the Free Software Movement"
@@ -58,12 +58,24 @@ msgid "English"
 msgstr "Inglês"
 
 #. type: Attribute 'label' of: <div><div><div><video><track>
+msgid "Spanish"
+msgstr "Espanhol"
+
+#. type: Attribute 'label' of: <div><div><div><video><track>
 msgid "Persian"
 msgstr "Persa"
 
 #. type: Attribute 'label' of: <div><div><div><video><track>
 msgid "French"
 msgstr "Francês"
+
+#. type: Attribute 'label' of: <div><div><div><video><track>
+msgid "Italian"
+msgstr "Italiano"
+
+#. type: Attribute 'label' of: <div><div><div><video><track>
+msgid "Dutch"
+msgstr "Holandês"
 
 #. type: Attribute 'label' of: <div><div><div><video><track>
 msgid "Brazilian"
@@ -758,9 +770,6 @@ msgstr "Última atualização:"
 
 #~ msgid "German"
 #~ msgstr "Alemão"
-
-#~ msgid "Spanish"
-#~ msgstr "Espanhol"
 
 #~ msgid ""
 #~ "The GNU Project and the Free Software Foundation are <a href=\"/gnu/2020-"

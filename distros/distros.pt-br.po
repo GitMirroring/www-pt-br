@@ -1,25 +1,25 @@
 # Brazilian Portuguese translation of http://www.gnu.org/distros/distros.html
-# Copyright (C) 2018 Free Software Foundation, Inc.
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnu.org article.
 # Rafael Beraldo <rberaldo@cabaladada.org>, 2012.
 # Aslan Carlos <aslancarlos@gmail.com>, 2012.
 # Arthur Rodrigues Araruna <araruna@gmail.com>, 2012.
 # May 2014: trivial update (T. Godefroy).
-# Rafael Fontenelle <rafaelff@gnome.org>, 2012, 2016, 2017, 2018.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2012-2021.
 # Cassiano dos Santos <caco@member.fsf.org> (proofread), 2016.
 msgid ""
 msgstr ""
 "Project-Id-Version: distros.html\n"
 "POT-Creation-Date: 2018-01-01 05:56+0000\n"
-"PO-Revision-Date: 2018-01-18 09:01-0200\n"
+"PO-Revision-Date: 2021-05-03 10:15-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 1.0.0-beta1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <title>
 msgid "GNU/Linux Distros - GNU Project - Free Software Foundation"
@@ -61,7 +61,7 @@ msgid ""
 "distros:"
 msgstr ""
 "Recomendamos que você use uma distribuição livre do sistema GNU/Linux, uma "
-"que não inclua software proprietário algum. Dessa maneira, você poderá ter "
+"que não inclua software privativo algum. Dessa maneira, você poderá ter "
 "certeza de que não está instalando nenhum programa não livre. Aqui está "
 "nossa lista dessas distros:"
 

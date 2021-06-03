@@ -1,20 +1,20 @@
 # Brazilian Portuguese translation of http://www.gnu.org/licenses/quick-guide-gplv3.html
-# Copyright (C) 2018 Free Software Foundation, Inc.
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2017, 2018.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017-2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: quick-guide-gplv3.html\n"
 "POT-Creation-Date: 2014-11-08 15:25+0000\n"
-"PO-Revision-Date: 2018-01-24 06:35-0200\n"
+"PO-Revision-Date: 2021-05-03 10:15-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 1.0.0-beta1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <title>
 msgid "A Quick Guide to GPLv3 - GNU Project - Free Software Foundation"
@@ -116,8 +116,8 @@ msgstr ""
 "GPL. Quando o fizerem, será software livre e permanecerá software livre, não "
 "importa quem mude ou distribua o programa. Chamamos isso de copyleft: o "
 "software é protegido por direitos autorais, mas em vez de usar esses "
-"direitos para restringir usuários como o software proprietário faz, usamos "
-"eles para garantir que cada usuário tenha liberdade."
+"direitos para restringir usuários como o software privativo faz, usamos eles "
+"para garantir que cada usuário tenha liberdade."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -142,8 +142,8 @@ msgstr ""
 "de dispositivos que executam o software licenciado sob GPL e, em seguida, "
 "manipularam o hardware para que eles possam mudar o software que está sendo "
 "executado, mas você não pode. Se um dispositivo pode executar software "
-"arbitrário, é um computador de uso geral, e seu proprietário deve controlar "
-"o que faz. Quando um dispositivo o impede de fazer isso, chamamos isso de "
+"arbitrário, é um computador de uso geral, e seu dono deve controlar o que "
+"faz. Quando um dispositivo o impede de fazer isso, chamamos isso de "
 "tivoização."
 
 #. type: Content of: <div><ul><li>
@@ -778,7 +778,7 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
-"rafaelff@gnome.org&gt;</a>, 2018."
+"rafaelff@gnome.org&gt;</a>, 2018-2021."
 
 #.  timestamp start 
 #. type: Content of: <div><p>

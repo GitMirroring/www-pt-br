@@ -1,14 +1,14 @@
 # Brazilian Portuguese translation of https://www.gnu.org/philosophy/government-free-software.html
-# Copyright (C) 2020 Free Software Foundation, Inc.
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Adonay Felipe Nogueira <adfeno@hyperbola.info>, 2019. (#15503)
-# Rafael Fontenelle <rafaelff@gnome.org>, 2019-2020.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2019-2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: government-free-software.html\n"
 "POT-Creation-Date: 2020-12-26 14:55+0000\n"
-"PO-Revision-Date: 2020-12-29 11:53-0300\n"
+"PO-Revision-Date: 2021-05-03 10:15-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1)\n"
-"X-Generator: Gtranslator 3.38.0\n"
+"X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -63,9 +63,9 @@ msgstr ""
 "A missão do Estado é organizar a sociedade para a liberdade e o bem-estar do "
 "povo. Um aspecto desta missão, no campo da computação, é incentivar os "
 "usuários a adotar software livre: <a href=\"/philosophy/free-sw.html"
-"\">software que respeite a liberdade dos usuários</a>. Um programa "
-"proprietário (não livre) atropela a liberdade daqueles que o usam; é um "
-"problema social que o Estado deve trabalhar para erradicar."
+"\">software que respeite a liberdade dos usuários</a>. Um programa privativo "
+"(não livre) atropela a liberdade daqueles que o usam; é um problema social "
+"que o Estado deve trabalhar para erradicar."
 
 #. type: Content of: <p>
 msgid ""
@@ -246,9 +246,9 @@ msgid ""
 "paying the license fee."
 msgstr ""
 "A venda de computadores não deve exigir a compra de uma licença de software "
-"proprietário. Por lei, o vendedor deve ser obrigado a oferecer ao comprador "
-"a opção de comprar o computador sem o software proprietário e sem pagar a "
-"taxa de licença."
+"privativo. Por lei, o vendedor deve ser obrigado a oferecer ao comprador a "
+"opção de comprar o computador sem o software privativo e sem pagar a taxa de "
+"licença."
 
 #. type: Content of: <ul><li><p>
 msgid ""
@@ -260,11 +260,11 @@ msgid ""
 "prevent this abuse."
 msgstr ""
 "O pagamento imposto é um erro secundário e não deve nos distrair da "
-"injustiça essencial do software proprietário, da perda de liberdade "
-"resultante do uso dele. No entanto, o abuso de forçar os usuários a pagar "
-"por isso dá a certos desenvolvedores de software proprietário uma vantagem "
-"injusta adicional, prejudicial à liberdade dos usuários. É apropriado que o "
-"Estado impeça esse abuso."
+"injustiça essencial do software privativo, da perda de liberdade resultante "
+"do uso dele. No entanto, o abuso de forçar os usuários a pagar por isso dá a "
+"certos desenvolvedores de software privativo uma vantagem injusta adicional, "
+"prejudicial à liberdade dos usuários. É apropriado que o Estado impeça esse "
+"abuso."
 
 #. type: Content of: <h3>
 msgid "Computational Sovereignty"
@@ -333,9 +333,9 @@ msgid ""
 msgstr ""
 "Quando uma entidade estatal compra ou aluga computadores, deve escolher "
 "entre os modelos que mais se aproximam, em sua classe, de serem capazes de "
-"serem usados sem nenhum software proprietário. O Estado deve manter, para "
-"cada classe de computadores, uma lista dos modelos autorizados com base "
-"nesse critério. Os modelos disponíveis para o público e o Estado devem ser "
+"serem usados sem nenhum software privativo. O Estado deve manter, para cada "
+"classe de computadores, uma lista dos modelos autorizados com base nesse "
+"critério. Os modelos disponíveis para o público e o Estado devem ser "
 "preferidos aos modelos disponíveis apenas para o Estado."
 
 #. type: Content of: <ul><li><p>
@@ -352,7 +352,7 @@ msgstr ""
 "O Estado deve negociar ativamente com os fabricantes para obter a "
 "disponibilidade no mercado (para o Estado e o público) de produtos de "
 "hardware adequados, em todas as áreas de produtos pertinentes, que não "
-"exijam software proprietário."
+"exijam software privativo."
 
 #. type: Content of: <ul><li><p>
 msgid "<b>Unite with other states</b>"
@@ -407,8 +407,7 @@ msgstr ""
 "direito de decidir quem tem acesso físico ao computador, quem pode fazer "
 "manutenção (hardware ou software) nele, ou qual software deve ser instalado "
 "nele. Se o computador não for portátil, durante o uso, ele deverá estar em "
-"um espaço físico no qual o Estado é o ocupante (como proprietário ou como "
-"inquilino)."
+"um espaço físico no qual o Estado é o ocupante (como dono ou como inquilino)."
 
 #. type: Content of: <h3>
 msgid "Influence Development"
@@ -446,9 +445,9 @@ msgid ""
 "donate&rdquo; copies to schools and claim a tax write-off for the nominal "
 "value of the software.  Proprietary software is not legitimate in a school."
 msgstr ""
-"Em particular, os desenvolvedores de software proprietários não devem poder "
+"Em particular, os desenvolvedores de software privativo não devem poder "
 "“doar” cópias para as escolas e reivindicar uma baixa de imposto pelo valor "
-"nominal do software. O software proprietário não é legítimo em uma escola."
+"nominal do software. O software privativo não é legítimo em uma escola."
 
 #. type: Content of: <h3>
 msgid "E-waste"

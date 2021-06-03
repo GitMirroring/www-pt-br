@@ -1,26 +1,26 @@
 # Brazilian Portuguese translation of http://www.gnu.org/education/edu-schools.html
-# Copyright (C) 2020 Free Software Foundation, Inc.
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnu.org article.
 # Aracele Torres <araceletorres@gmail.com>, 2011.
 # Rafael Beraldo <rberaldo@cabaladada.org>, 2012.
 # Rodrigo Macedo <rodrigomacedo@rmsolucoeseminformatica.com>, 2012.
 # Hudson Flávio Meneses Lacerda <hfmlacerda@yahoo.com.br>, 2013.
 # Dec 2014; retrieve old translations and trivially update a string (T. Godefroy).
-# Rafael Fontenelle <rafaelff@gnome.org>, 2016-2020.
 # May 2020: update to new layout (T. Godefroy).
+# Rafael Fontenelle <rafaelff@gnome.org>, 2016-2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: edu-schools.pt-br.html\n"
-"POT-Creation-Date: 2020-11-10 17:25+0000\n"
-"PO-Revision-Date: 2020-01-01 10:50-0300\n"
+"POT-Creation-Date: 2021-05-26 21:26+0000\n"
+"PO-Revision-Date: 2021-05-03 10:15-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 1.0.0-beta1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -94,8 +94,8 @@ msgstr ""
 "Todos os usuários de computadores devem <a href=\"/philosophy/free-software-"
 "even-more-important.html\">insistir em software livre</a>: ele dá aos "
 "usuários a liberdade de controlar seus próprios computadores&mdash;com "
-"software proprietário, o programa faz o que seu dono ou desenvolvedor quer, "
-"e não o que o usuário quer. O software livre também dá aos usuários a "
+"software privativo, o programa faz o que seu dono ou desenvolvedor quer, e "
+"não o que o usuário quer. O software livre também dá aos usuários a "
 "liberdade de cooperar uns com os outros e levar a vida com retidão. Essas "
 "razões se aplicam às escolas, assim como a qualquer pessoa. Porém, o "
 "propósito deste artigo é expor razões adicionais que se aplicam "
@@ -168,7 +168,7 @@ msgid ""
 "work for.  Once you're dependent, you're expected to pay, and future "
 "upgrades may be expensive."
 msgstr ""
-"Por que, afinal das contas, alguns desenvolvedores de software proprietário "
+"Por que, afinal das contas, alguns desenvolvedores de software privativo "
 "oferecem cópias grátis<a href=\"#note1\">(1)</a> de seus programas não "
 "livres para escolas? Porque eles querem <em>usar</em> as escolas para "
 "implantar dependência de seus produtos, assim como algumas empresas de "
@@ -198,9 +198,9 @@ msgid ""
 "Proprietary software is the enemy of the spirit of education, so it should "
 "not be tolerated in a school, except as an object for reverse engineering."
 msgstr ""
-"Software proprietário rejeita sua sede por conhecimento: ele fala, &ldquo;O "
+"Software privativo rejeita sua sede por conhecimento: ele fala, &ldquo;O "
 "conhecimento que você deseja é um segredo&mdash;aprender é proibido!&rdquo; "
-"Software proprietário é o inimigo do espírito da educação, de forma que não "
+"Software privativo é o inimigo do espírito da educação, de forma que não "
 "deve ser tolerado em uma escola, exceto como um objeto para engenharia "
 "reversa."
 
@@ -242,9 +242,9 @@ msgid ""
 msgstr ""
 "Como você aprende a escrever código para grandes programas? Você faz isso "
 "escrevendo muitas alterações em programas grandes existentes. O software "
-"livre permite que você faça isso; software proprietário proíbe isso. "
-"Qualquer escola pode oferecer a seus estudantes a chance de masterizar a "
-"arte da programação, mas apenas se for uma escola de software livre."
+"livre permite que você faça isso; software privativo proíbe isso. Qualquer "
+"escola pode oferecer a seus estudantes a chance de masterizar a arte da "
+"programação, mas apenas se for uma escola de software livre."
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -378,8 +378,8 @@ msgstr ""
 "contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2003, 2009, 2014-2016, 2020 Richard Stallman"
-msgstr "Copyright &copy; 2003, 2009, 2014-2016, 2020 Richard Stallman"
+msgid "Copyright &copy; 2003, 2009, 2014-2016, 2020, 2021 Richard Stallman"
+msgstr "Copyright &copy; 2003, 2009, 2014-2016, 2020, 2021 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -412,3 +412,6 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid "Copyright &copy; 2003, 2009, 2014-2016, 2020 Richard Stallman"
+#~ msgstr "Copyright &copy; 2003, 2009, 2014-2016, 2020 Richard Stallman"

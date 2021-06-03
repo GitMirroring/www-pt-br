@@ -1,21 +1,22 @@
 # Brazilian Portuguese translation of https://www.gnu.org/licenses/identify-licenses-clearly.html
-# Copyright (C) 2020 Free Software Foundation, Inc.
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # André Phellip Ferreira <werewolf@cyberdude.com>, 2018. (proofread)
-# Rafael Fontenelle <rafaelff@gnome.org>, 2018, 2020.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018-2021.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: identify-licenses-clearly.html\n"
-"POT-Creation-Date: 2020-07-24 07:25+0000\n"
-"PO-Revision-Date: 2020-07-25 17:54-0300\n"
+"POT-Creation-Date: 2021-05-19 11:25+0000\n"
+"PO-Revision-Date: 2021-05-30 16:34-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 1.0.0-beta1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -352,7 +353,7 @@ msgstr ""
 
 #. type: Content of: <p>
 msgid ""
-"We thank SPDX for deciding to change the the short identifiers for the GNU "
+"We thank SPDX for deciding to change the short identifiers for the GNU "
 "family of licenses to make the &ldquo;or later&rdquo; versus &ldquo;"
 "only&rdquo; choice explicit. The upcoming version of the SPDX License List "
 "for license identifiers will use the identifiers recommended above. The "
@@ -361,10 +362,10 @@ msgid ""
 "possible."
 msgstr ""
 "Agradecemos à SPDX por decidir mudar os identificadores curtos da família de "
-"licenças da GNU para tornar “ou posterior” versus “apenas” um escolha "
+"licenças GNU para tornar “ou posterior” versus “apenas” um escolha "
 "explícita. A próxima versão da Lista de Licenças da SPDX para os "
 "identificadores de licença usará os identificadores recomendados acima. Os "
-"identificadores confusos, como o “GPL-2.0”, ficarão obsoletos. Pedimos às "
+"identificadores confusos, como o “GPL-2.0”, serão descontinuados. Pedimos às "
 "pessoas que as substituam com os novos identificadores inequívocos o mais "
 "rápido possível."
 
@@ -429,8 +430,8 @@ msgstr ""
 "envio de traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2017, 2018, 2020 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2017, 2018, 2020 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2017, 2018, 2020, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2017, 2018, 2020, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -448,7 +449,7 @@ msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por:\n"
 "Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome."
-"org&gt;</a>, 2018-2020.<br/>\n"
+"org&gt;</a>, 2018-2021.<br/>\n"
 "Revisado por: André Phellip Ferreira <a href=\"mailto:werewolf@cyberdude.com"
 "\">&lt;werewolf@cyberdude.com&gt;</a>, 2018."
 

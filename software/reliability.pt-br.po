@@ -1,21 +1,21 @@
 # Brazilian Portuguese translation of https://www.gnu.org/software/reliability.html
-# Copyright (C) 2018 Free Software Foundation, Inc.
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2018.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018-2021.
 # Cassiano Reinert Novais dos Santos <caco@posteo.net>, 2018 (proofread)
 msgid ""
 msgstr ""
 "Project-Id-Version: reliability.html\n"
 "POT-Creation-Date: 2014-04-05 00:03+0000\n"
-"PO-Revision-Date: 2018-09-05 17:06-0300\n"
+"PO-Revision-Date: 2021-05-03 10:15-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 1.0.0-beta1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -36,10 +36,10 @@ msgid ""
 "can't do this.&rdquo;"
 msgstr ""
 "Os defensores do <a href=\"/philosophy/categories.html#ProprietarySoftware"
-"\">software proprietário</a> gostam de dizer que “o <a href=\"/philosophy/"
-"free-sw.html\">software livre</a> é um bonito sonho, mas todos sabemos que "
-"apenas a indústria de software proprietário pode produzir produtos "
-"confiáveis. Um punhado de harckers simplesmente não consegue fazer isso.”"
+"\">software privativo</a> gostam de dizer que “o <a href=\"/philosophy/free-"
+"sw.html\">software livre</a> é um bonito sonho, mas todos sabemos que apenas "
+"a indústria de software privativo pode produzir produtos confiáveis. Um "
+"punhado de harckers simplesmente não consegue fazer isso.”"
 
 #. type: Content of: <p>
 msgid ""
@@ -49,7 +49,7 @@ msgid ""
 msgstr ""
 "Entretanto, evidências empíricas comprovam o contrário. Testes científicos, "
 "descritos abaixo, afirmam que o software GNU é mais confiável que "
-"correspondentes proprietários."
+"correspondentes privativos."
 
 #. type: Content of: <p>
 msgid ""
@@ -203,7 +203,7 @@ msgstr ""
 "A qualidade do tratamento que nossos pacientes de câncer têm hoje não seria "
 "a mesma sem o [GNU/]Linux &hellip; As ferramentas que nós desenvolvemos "
 "através de software livre nos permitiu escrever e desenvolver aplicativos "
-"inovadores que &hellip; não existiriam por meio de software proprietário."
+"inovadores que &hellip; não existiriam por meio de software privativo."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>

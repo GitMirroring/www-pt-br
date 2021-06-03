@@ -1,0 +1,408 @@
+# Brazilian Portuguese translation of https://www.gnu.org/education/teachers-help-students-resist-zoom.html
+# Copyright (C) 2021 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: teachers-help-students-resist-zoom.html\n"
+"POT-Creation-Date: 2021-01-27 11:55+0000\n"
+"PO-Revision-Date: 2021-05-30 19:10-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 40.0\n"
+
+#. type: Content of: <title>
+msgid ""
+"Teachers: Help Your Students Resist Zoom - GNU Project - Free Software "
+"Foundation"
+msgstr ""
+"Professores: ajudem seus alunos a resistir ao zoom - Projeto GNU - Free "
+"Software Foundation"
+
+#. type: Content of: <div><a>
+msgid "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+msgstr "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+
+#. type: Attribute 'title' of: <div><a><img>
+msgid "Education Contents"
+msgstr "Índice da Seção"
+
+#. type: Attribute 'alt' of: <div><a><img>
+msgid "&nbsp;[Education Contents]&nbsp;"
+msgstr "&nbsp;[Índice da Seção]&nbsp;"
+
+#. type: Content of: <div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><p><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><p><a><img>
+msgid "GNU Home"
+msgstr "Página inicial do GNU"
+
+#. type: Content of: <div><p>
+msgid ""
+"</a>&nbsp;/ <a href=\"/education/education.html\">Education</a>&nbsp;/ <a "
+"href=\"/education/resisting-proprietary-software.html\">Resistance</"
+"a>&nbsp;/ <a href=\"/education/dangers-of-proprietary-systems-in-online-"
+"teaching.html\"> Online teaching</a>&nbsp;/"
+msgstr ""
+"</a>&nbsp;/ <a href=\"/education/education.html\">Educação</a>&nbsp;/ <a "
+"href=\"/education/resisting-proprietary-software.html\">Resistência</"
+"a>&nbsp;/ <a href=\"/education/dangers-of-proprietary-systems-in-online-"
+"teaching.html\"> Ensino online</a>&nbsp;/"
+
+#. type: Content of: <div><h2>
+msgid "Teachers: Help Your Students Resist Zoom"
+msgstr "Professores: ajudem seus alunos a resistir ao zoom"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"When the global COVID-19 emergency began, schools switched to remote "
+"classes. The urgency of ensuring the continuity of classes left little space "
+"for debate on how to choose <a href=\"/philosophy/free-sw.html\">software "
+"that empowers students to learn</a>. As a consequence, <a href=\"/"
+"proprietary/proprietary.html\">freedom-denying and privacy-violating "
+"software</a> has seen widespread adoption in education."
+msgstr ""
+"Quando a emergência global do COVID-19 começou, as escolas mudaram para "
+"turmas remotas. A urgência de garantir a continuidade das aulas deixou pouco "
+"espaço para debate sobre como escolher <a href=\"/philosophy/free-sw.html"
+"\">softwares que capacitem os alunos a aprender</a>. Como consequência, o <a "
+"href=\"/proprietary/proprietary.html\">software de negação de liberdade e "
+"violação de privacidade</a> teve ampla adoção na educação."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Zoom, a proprietary online conferencing program that is becoming more and "
+"more dangerously popular, is <a href=\"https://www.studentprivacymatters.org/"
+"what-you-need-to-know-about-zoom-for-education/\"> an example</a> of such "
+"harmful technology. <strong>Please don't ask students to install Zoom on "
+"their computers, or to use its web version which also runs Zoom code on "
+"their computers.</strong>"
+msgstr ""
+"O Zoom, um programa privativo de conferência online que está se tornando "
+"cada vez mais perigosamente popular, é <a href=\"https://www."
+"studentprivacymatters.org/what-you-need-to-know-about-zoom-for-education/\"> "
+"um exemplo</a> de tal tecnologia prejudicial. <strong>Não peça aos alunos "
+"que instalem o Zoom em seus computadores ou usem sua versão web, que também "
+"executa o código do Zoom em seus computadores.</strong>"
+
+#. type: Content of: <div><div><h3>
+msgid "To all those teaching remote classes with Zoom"
+msgstr "A todos aqueles que dão aulas remotas com Zoom"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"It is unfortunate that you are using Zoom, a nonfree program that spies on "
+"users and takes away your students' computer freedom, along with your own. "
+"Using Zoom, students are dependent on a program that a company can "
+"unilaterally pervert. Their freedom to learn about technology and how it "
+"works is destroyed."
+msgstr ""
+"É uma pena que você esteja usando o Zoom, um programa não livre que espia os "
+"usuários e tira a liberdade do computador de seus alunos, junto com a sua. "
+"Usando o Zoom, os alunos dependem de um programa que uma empresa pode "
+"perverter unilateralmente. Sua liberdade de aprender sobre tecnologia e como "
+"ela funciona é destruída."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"If you direct your students to use Zoom, they may form a bad habit and "
+"continue using it beyond your classes, effectively surrendering their "
+"privacy over communication. They will not learn how to keep control of their "
+"data and computing."
+msgstr ""
+"Se você instruir seus alunos a usar o Zoom, eles podem criar um mau hábito e "
+"continuar a usá-lo além das aulas, cedendo efetivamente a privacidade em "
+"relação à comunicação. Eles não aprenderão como manter o controle de seus "
+"dados e computação."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"You can use free software like <a href=\"https://directory.fsf.org/wiki/"
+"BigBlueButton\">BigBlueButton</a> and <a href=\"https://directory.fsf.org/"
+"wiki/Jitsi\">Jitsi</a> for teaching remote classes without losing technical "
+"performance and, most importantly, without surrendering your students' "
+"freedom. By choosing these and <a href=\"/software/free-software-for-"
+"education.html\">other free programs for education</a>, you are enabling "
+"motivated students to learn about the software they use everyday, and some "
+"of them one day will be able to adapt it to their needs, serving a larger "
+"community. Those who will not pursue such curiosity, will still benefit from "
+"using a program that respects their freedom and doesn't spy on them. They "
+"will develop the good habit of not throwing away their freedom, too."
+msgstr ""
+"Você pode usar software livre como <a href=\"https://directory.fsf.org/wiki/"
+"BigBlueButton\">BigBlueButton</a> e <a href=\"https://directory.fsf.org/wiki/"
+"Jitsi\">Jitsi</a> para dar aulas remotas sem perder desempenho técnico e, o "
+"mais importante, sem abrir mão da liberdade de seus alunos. Ao escolher "
+"estes e <a href=\"/software/free-software-for-education.html\">outros "
+"programas livres para a educação</a>, você permite que alunos motivados "
+"aprendam sobre o software que usam todos os dias, e alguns de eles um dia "
+"serão capazes de adaptá-lo às suas necessidades, servindo a uma comunidade "
+"maior. Aqueles que não perseguirem essa curiosidade, ainda se beneficiarão "
+"com um programa que respeite sua liberdade e não os espie. Eles "
+"desenvolverão o bom hábito de não jogar fora sua liberdade também."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Choosing free software for your classes will positively impact life-long "
+"learning, a crucial skill for any student. In fact, students will learn that "
+"it is in their power to run, study, modify and share any free software they "
+"wish, according to their own curiosity and needs. In contrast, by adopting "
+"proprietary software, students are taught to become mere &ldquo;"
+"consumers&rdquo;<a href=\"#consumer\" id=\"consumer-rev\"><sup>[*]</sup></a> "
+"of a user interface, with no power over the technology they are using."
+msgstr ""
+"A escolha de software livre para suas aulas terá um impacto positivo na "
+"aprendizagem ao longo da vida, uma habilidade crucial para qualquer aluno. "
+"Na verdade, os alunos aprenderão que está em seu poder executar, estudar, "
+"modificar e compartilhar qualquer software livre que desejem, de acordo com "
+"sua própria curiosidade e necessidades. Em contraste, ao adotar software "
+"privativo, os alunos são ensinados a se tornarem meros “consumidores”<a href="
+"\"#consumer\" id=\"consumer-rev\"><sup>[*]</sup></a> de uma interface de "
+"usuário, sem poder sobre a tecnologia que estão usando."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"If you independently opted for using Zoom in your classes, we urge you to "
+"switch to something more ethical."
+msgstr ""
+"Se você optou por usar o Zoom em suas aulas de forma independente, "
+"recomendamos que mude para algo mais ético."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"If Zoom was imposed on you by your school's administration, we encourage you "
+"to contact them and ask them to let you change to a free program. Ask other "
+"teachers for help, and explain <a href=\"/education/edu-schools.html\">why</"
+"a> software freedom is paramount for education."
+msgstr ""
+"Se o Zoom foi imposto a você pela administração de sua escola, encorajamos "
+"você a entrar em contato com eles e pedir que deixem você mudar para um "
+"programa livre. Peça ajuda a outros professores e explique <a href=\"/"
+"education/edu-schools.html\">por que</a> a liberdade de software é "
+"fundamental para a educação."
+
+#. type: Content of: <div><div><h3>
+msgid "Last resort"
+msgstr "Último recurso"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"If you can't remove Zoom, we propose this temporary workaround only as a "
+"last resort so that students can take your class without feeling oppressed "
+"by Zoom. We do not recommend it as a stable, long-term solution."
+msgstr ""
+"Se você não pode remover o Zoom, propomos esta solução temporária apenas "
+"como último recurso para que os alunos possam assistir às suas aulas sem se "
+"sentirem oprimidos pelo Zoom. Não o recomendamos como uma solução estável e "
+"de longo prazo."
+
+#. type: Content of: <div><div><ol><li>
+msgid ""
+"A day or two before the class, post the visual materials in some freedom-"
+"respecting way, so students can download them. Any simple old-fashioned "
+"website is suitable for this."
+msgstr ""
+"Um ou dois dias antes da aula, publique os materiais visuais de uma forma "
+"que respeite a liberdade, para que os alunos possam baixá-los. Qualquer site "
+"simples e antigo é adequado para isso."
+
+#. type: Content of: <div><div><ol><li>
+msgid ""
+"Invite students to phone the Zoom server; tell them the phone number and the "
+"code for the conversation. That way they can listen to the audio of the "
+"session, while they follow the visual materials alongside."
+msgstr ""
+"Convide os alunos a telefonar para o servidor Zoom; diga a eles o número do "
+"telefone e o código da conversa. Dessa forma, eles podem ouvir o áudio da "
+"sessão, enquanto acompanham os materiais visuais ao lado."
+
+#. type: Content of: <div><div><ol><li>
+msgid ""
+"Tell them that you regret the use of Zoom and show them which are the free "
+"programs to replace it. Direct them to <a href=\"/education/edu-why.html\"> "
+"https://www.gnu.org/education/edu-why.html</a> to see the reasons why "
+"proprietary software such as Zoom has no place in schools (or in any other "
+"aspect of life.)"
+msgstr ""
+"Diga a eles que você se arrepende de usar o Zoom e mostre quais são os "
+"programas livres para substituí-los. Direcione-os para <a href=\"/education/"
+"edu-why.html\">https://www.gnu.org/education/edu-why.html</a> para verem os "
+"motivos pelos quais softwares privativos como o Zoom não deve estar nas "
+"escolas (ou em qualquer outro aspecto da vida)."
+
+#. type: Content of: <div><div><ol><li>
+msgid ""
+"If permitted, make a recording of the Zoom conversation of each session, and "
+"post it for the students in a freedom-respecting way soon after."
+msgstr ""
+"Se permitido, faça uma gravação da conversa Zoom de cada sessão e publique "
+"para os alunos de forma que respeite a liberdade logo em seguida."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"If your school uses Zoom for examinations and students refuse to use it, "
+"then you, as a teacher, could arrange a different meeting in parallel or an "
+"alternative exam session using one of the free programs mentioned above. "
+"Another possibility is to set up a kiosk with a computer that has Zoom "
+"installed and let students take the exam using that computer. That way, they "
+"won't be forced to install nonfree software on their computers, and the use "
+"of Zoom will be limited to the exam. If you do this, we recommend that the "
+"school computer run a <a href=\"/distros/free-distros.html\">free software "
+"distribution</a>."
+msgstr ""
+"Se a sua escola usa o Zoom para exames e os alunos se recusam a usá-lo, "
+"você, como professor, pode marcar uma reunião diferente em paralelo ou uma "
+"sessão de exame alternativa usando um dos programas livres mencionados "
+"acima. Outra possibilidade é montar um quiosque com um computador que tenha "
+"o Zoom instalado e permitir que os alunos façam o exame nesse computador. "
+"Dessa forma, eles não serão obrigados a instalar softwares não livres em "
+"seus computadores, e o uso do Zoom ficará limitado ao exame. Se você fizer "
+"isso, recomendamos que o computador da escola execute uma <a href=\"/distros/"
+"free-distros.html\">distribuição de software livre</a>."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Simply by telling students about this possibility, which you can do more "
+"than once, you will help inspire <a href=\"/education/resisting-proprietary-"
+"software.html\">resistance</a> to Zoom and other freedom-trampling programs, "
+"and avoid inculcating surrender."
+msgstr ""
+"Simplesmente contando aos alunos sobre essa possibilidade, que você pode "
+"fazer mais de uma vez, você ajudará a inspirar <a href=\"/education/"
+"resisting-proprietary-software.html\">resistência</a> ao Zoom e outros "
+"programas de atropelamento da liberdade, e evite inculcar a rendição."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"You will still be using Zoom, which is deleterious for your freedom. Some of "
+"your students will probably still be using Zoom, which is deleterious for "
+"their freedom. But, thanks to your efforts, some students will be able to "
+"avoid using Zoom, and that is a victory."
+msgstr ""
+"Você ainda usará o Zoom, o que é prejudicial à sua liberdade. Alguns de seus "
+"alunos provavelmente ainda usarão o Zoom, o que é prejudicial para a "
+"liberdade deles. Mas, graças aos seus esforços, alguns alunos conseguirão "
+"evitar o uso do Zoom, e isso é uma vitória."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"This workaround is meant as a short-term solution to enable students to "
+"avoid Zoom now rather than wait for the next academic year. In the long-"
+"term, it is crucial to migrate to free/libre software and online "
+"conferencing programs like Jitsi and BigBlueButton."
+msgstr ""
+"Esta solução alternativa pretende ser uma solução de curto prazo para "
+"permitir que os alunos evitem o Zoom agora, em vez de esperar pelo próximo "
+"ano acadêmico. A longo prazo, é crucial migrar para software livre e "
+"programas de conferência online como Jitsi e BigBlueButton."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"All software must be free, and this is a small step towards that goal. <a "
+"href=\"/philosophy/saying-no-even-once.html\">Saying <em>NO</em> to unjust "
+"computing even once is progress</a>."
+msgstr ""
+"Todo software deve ser livre e este é um pequeno passo em direção a esse "
+"objetivo. <a href=\"/philosophy/saying-no-even-once.html\">Dizer <em>NÃO</"
+"em> à computação injusta mesmo uma vez é progresso</a>."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"See examples of how people are <a href=\"/education/successful-resistance-"
+"against-nonfree-software.html\"> successfully resisting nonfree software</a>."
+msgstr ""
+"Veja exemplos de como as pessoas estão <a href=\"/education/successful-"
+"resistance-against-nonfree-software.html\"> resistindo com sucesso a "
+"software não livre</a>."
+
+#. type: Content of: <div><div><div><p>
+msgid ""
+"<a href=\"#consumer-rev\" id=\"consumer\">[*]</a> The word <a href=\"/"
+"philosophy/words-to-avoid.html#Consumer\">&ldquo;consumer&rdquo;</a> should "
+"be avoided or used with care."
+msgstr ""
+"<a href=\"#consumer-rev\" id=\"consumer\">[*]</a> A palavra <a href=\"/"
+"philosophy/words-to-avoid.html#Consumer\">&ldquo;consumidor&rdquo;</a> deve "
+"ser evitada ou usada com cuidado."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and contributing translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and contributing "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2020, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2020, 2021 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2021."
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização:"
