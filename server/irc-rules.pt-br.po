@@ -1,21 +1,22 @@
 # Brazilian Portuguese translation of https://www.gnu.org/server/irc-rules.html
-# Copyright (C) 2020 Free Software Foundation, Inc.
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2018, 2020.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018-2021.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: irc-rules.html\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-07-08 16:56+0000\n"
-"PO-Revision-Date: 2020-07-26 17:36-0300\n"
+"POT-Creation-Date: 2021-06-13 18:55+0000\n"
+"PO-Revision-Date: 2021-06-13 19:09-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 1.0.0-beta1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -75,124 +76,131 @@ msgstr "Essa é uma lista de nossos canais."
 
 #. type: Content of: <ul><li>
 msgid ""
-"<a href=\"irc://irc.gnu.org/gnu\">#gnu</a> &mdash; the <em>official</em> GNU "
-"Project Channel"
+"<a href=\"ircs://irc.libera.chat:6697/gnu\">#gnu</a> &mdash; the "
+"<em>official</em> GNU Project Channel"
 msgstr ""
-"<a href=\"irc://irc.gnu.org/gnu\">#gnu</a> &mdash; o canal <em>oficial</em> "
-"do Projeto GNU"
+"<a href=\"ircs://irc.libera.chat:6697/gnu\">#gnu</a> &mdash; o canal "
+"<em>oficial</em> do Projeto GNU"
 
 #. type: Content of: <ul><li>
 msgid ""
-"<a href=\"irc://irc.gnu.org/gnu-women\">#gnu-women</a> &mdash; a channel for "
-"women in GNU and other free software"
+"<a href=\"ircs://irc.libera.chat:6697/gnu-women\">#gnu-women</a> &mdash; a "
+"channel for women in GNU and other free software"
 msgstr ""
-"<a href=\"irc://irc.gnu.org/gnu-women\">#gnu-women</a> &mdash; um canal para "
-"mulheres no GNU e em outros softwares livres."
-
-#. type: Content of: <ul><li>
-msgid "<a href=\"irc://irc.gnu.org/gnu-es\">#gnu-es</a> &mdash; GNU in Spanish"
-msgstr ""
-"<a href=\"irc://irc.gnu.org/gnu-es\">#gnu-es</a> &mdash; GNU em espanhol"
+"<a href=\"ircs://irc.libera.chat:6697/gnu-women\">#gnu-women</a> &mdash; um "
+"canal para mulheres no GNU e em outros softwares livres."
 
 #. type: Content of: <ul><li>
 msgid ""
-"<a href=\"irc://irc.gnu.org/gnu-mx\">#gnu-mx</a> &mdash; Discussion about "
-"GNU Mexico chapter"
+"<a href=\"ircs://irc.libera.chat:6697/gnu-es\">#gnu-es</a> &mdash; GNU in "
+"Spanish"
 msgstr ""
-"<a href=\"irc://irc.gnu.org/gnu-mx\">#gnu-mx</a> &mdash; Discussão sobre o "
-"capítulo de GNU México"
+"<a href=\"ircs://irc.libera.chat:6697/gnu-es\">#gnu-es</a> &mdash; GNU em "
+"espanhol"
 
 #. type: Content of: <ul><li>
 msgid ""
-"<a href=\"irc://irc.gnu.org/fsf\">#fsf</a> &mdash; Discussion about the <a "
-"href=\"http://www.fsf.org/\">FSF (Free Software Foundation) and fsf.org</a>"
+"<a href=\"ircs://irc.libera.chat:6697/gnu-mx\">#gnu-mx</a> &mdash; "
+"Discussion about GNU Mexico chapter"
 msgstr ""
-"<a href=\"irc://irc.gnu.org/fsf\">#fsf</a> &mdash; discussão sobre a <a href="
-"\"http://www.fsf.org/\">FSF (Free Software Foundation) e fsf.org</a>"
+"<a href=\"ircs://irc.libera.chat:6697/gnu-mx\">#gnu-mx</a> &mdash; Discussão "
+"sobre o capítulo de GNU México"
 
 #. type: Content of: <ul><li>
 msgid ""
-"<a href=\"irc://irc.gnu.org/libreplanet\">#libreplanet</a> &mdash; "
-"Discussion of the LibrePlanet website, and <a href=\"http://www.fsf.org/"
+"<a href=\"ircs://irc.libera.chat:6697/fsf\">#fsf</a> &mdash; Discussion "
+"about the <a href=\"https://www.fsf.org/\">FSF (Free Software Foundation) "
+"and fsf.org</a>"
+msgstr ""
+"<a href=\"ircs://irc.libera.chat:6697/fsf\">#fsf</a> &mdash; Discussão sobre "
+"a <a href=\"https://www.fsf.org/\">FSF (Free Software Foundation) e fsf.org</"
+"a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"ircs://irc.libera.chat:6697/libreplanet\">#libreplanet</a> &mdash; "
+"Discussion of the LibrePlanet website, and <a href=\"https://www.fsf.org/"
 "conference/\">conference</a>."
 msgstr ""
-"<a href=\"irc://irc.gnu.org/libreplanet\">#libreplanet</a> &mdash; Discussão "
-"sobre o site do LibrePlanet e <a href=\"http://www.fsf.org/conference/"
-"\">conferência</a>."
+"<a href=\"ircs://irc.libera.chat:6697/libreplanet\">#libreplanet</a> &mdash; "
+"Discussão sobre o site e a <a href=\"https://www.fsf.org/conference/"
+"\">conferência</a> do LibrePlanet."
 
 #. type: Content of: <ul><li>
 msgid ""
-"<a href=\"irc://irc.gnu.org/emacs\">#emacs</a> &mdash; Discussion regarding "
-"<a href=\"/software/emacs/\">Emacs</a>"
+"<a href=\"ircs://irc.libera.chat:6697/emacs\">#emacs</a> &mdash; Discussion "
+"regarding <a href=\"/software/emacs/\">Emacs</a>"
 msgstr ""
-"<a href=\"irc://irc.gnu.org/emacs\">#emacs</a> &mdash; Discussão sobre o <a "
-"href=\"/software/emacs/\">Emacs</a>"
+"<a href=\"ircs://irc.libera.chat:6697/emacs\">#emacs</a> &mdash; Discussão "
+"sobre o <a href=\"/software/emacs/\">Emacs</a>"
 
 #. type: Content of: <ul><li>
 msgid ""
-"<a href=\"irc://irc.gnu.org/hurd\">#hurd</a> &mdash; Discussion regarding <a "
-"href=\"/software/hurd/\">Hurd</a>"
+"<a href=\"ircs://irc.libera.chat:6697/hurd\">#hurd</a> &mdash; Discussion "
+"regarding <a href=\"/software/hurd/\">Hurd</a>"
 msgstr ""
-"<a href=\"irc://irc.gnu.org/hurd\">#hurd</a> &mdash; Discussão sobre o <a "
-"href=\"/software/hurd/\">Hurd</a>"
+"<a href=\"ircs://irc.libera.chat:6697/hurd\">#hurd</a> &mdash; Discussão "
+"sobre o <a href=\"/software/hurd/\">Hurd</a>"
 
 #. type: Content of: <ul><li>
 msgid ""
-"<a href=\"irc://irc.gnu.org/grub\">#grub</a> &mdash; for the GNU bootloader, "
-"<a href=\"/software/grub/\">GRUB</a>."
+"<a href=\"ircs://irc.libera.chat:6697/grub\">#grub</a> &mdash; for the GNU "
+"bootloader, <a href=\"/software/grub/\">GRUB</a>"
 msgstr ""
-"<a href=\"irc://irc.gnu.org/grub\">#grub</a> &mdash; para o sistema de "
-"inicialização do GNU, <a href=\"/software/grub/\">GRUB</a>."
+"<a href=\"ircs://irc.libera.chat:6697/grub\">#grub</a> &mdash; para o "
+"sistema de inicialização do GNU, <a href=\"/software/grub/\">GRUB</a>."
 
 #. type: Content of: <ul><li>
 msgid ""
-"<a href=\"irc://irc.oftc.net/savannah\">#savannah</a> &mdash; <a href="
-"\"http://savannah.gnu.org/\">Savannah.GNU.org</a> hangout channel"
+"<a href=\"ircs://irc.libera.chat:6697/savannah\">#savannah</a> &mdash; GNU "
+"and NonGNU <a href=\"https://savannah.gnu.org\">Savannah</a> hangout and "
+"support channel"
 msgstr ""
-"<a href=\"irc://irc.oftc.net/savannah\">#savannah</a> &mdash; canal para "
-"bate-papo do <a href=\"http://savannah.gnu.org/\">Savannah.GNU.org</a>"
+"<a href=\"ircs://irc.libera.chat:6697/savannah\">#savannah</a> &mdash; canal "
+"para bate-papo e suporte do <a href=\"https://savannah.gnu.org/\">Savannah</"
+"a> GNU e NonGNU"
 
 #. type: Content of: <ul><li>
 msgid ""
-"<a href=\"irc://irc.gnu.org/gnu-webmasters\">#gnu-webmasters</a> &mdash; The "
-"<a href=\"http://www.gnu.org/people/webmeisters.html\">GNU Webmasters</a> "
-"channel, for discussions about www.gnu.org"
+"<a href=\"ircs://irc.libera.chat:6697/gnu-webmasters\">#gnu-webmasters</a> "
+"&mdash; The <a href=\"https://www.gnu.org/people/webmeisters.html\">GNU "
+"Webmasters</a> channel, for discussions about www.gnu.org"
 msgstr ""
-"<a href=\"irc://irc.gnu.org/gnu-webmasters\">#gnu-webmasters</a> &mdash; O "
-"canal de <a href=\"http://www.gnu.org/people/webmeisters.html\">GNU "
-"Webmasters</a>, para discussões sobre o www.gnu.org"
+"<a href=\"ircs://irc.libera.chat:6697/gnu-webmasters\">#gnu-webmasters</a> "
+"&mdash; O canal de <a href=\"https://www.gnu.org/people/webmeisters.html"
+"\">GNU Webmasters</a>, para discussões sobre o www.gnu.org"
 
 #. type: Content of: <ul><li>
 msgid ""
-"<a href=\"irc://irc.gnu.org/erc\">#erc</a> &mdash; IRC channel about ERC, an "
-"IRC client for Emacs"
+"<a href=\"ircs://irc.libera.chat:6697/erc\">#erc</a> &mdash; IRC channel "
+"about ERC, an IRC client built into GNU Emacs"
 msgstr ""
-"<a href=\"irc://irc.gnu.org/erc\">#erc</a> &mdash; Canal IRC sobre ERC, um "
-"cliente IRC para o Emacs"
+"<a href=\"ircs://irc.libera.chat:6697/erc\">#erc</a> &mdash; Canal IRC sobre "
+"ERC, um cliente embutido IRC para o GNU Emacs"
 
 #. type: Content of: <ul><li>
 msgid ""
-"<a href=\"irc://irc.gnu.org/emacs-beginners\">#emacs-beginners</a> &mdash; "
-"IRC channel for helping out Emacs beginners"
+"<a href=\"ircs://irc.libera.chat:6697/emacs-beginners\">#emacs-beginners</a> "
+"&mdash; IRC channel for helping out Emacs beginners"
 msgstr ""
-"<a href=\"irc://irc.gnu.org/emacs-beginners\">#emacs-beginners</a> &mdash; "
-"Canal IRC para ajudar iniciantes do Emacs"
+"<a href=\"ircs://irc.libera.chat:6697/emacs-beginners\">#emacs-beginners</a> "
+"&mdash; Canal IRC para ajudar iniciantes do Emacs"
 
 #. type: Content of: <ul><li>
 msgid ""
-"<a href=\"irc://irc.gnu.org/emacsconf\">#emacsconf</a> &mdash; Discussion "
-"about the Emacs Conference"
+"<a href=\"ircs://irc.libera.chat:6697/emacsconf\">#emacsconf</a> &mdash; "
+"Discussion about the Emacs Conference"
 msgstr ""
-"<a href=\"irc://irc.gnu.org/emacsconf\">#emacsconf</a> &mdash; Discussão "
-"sobre a Emacs Conference"
+"<a href=\"ircs://irc.libera.chat:6697/emacsconf\">#emacsconf</a> &mdash; "
+"Discussão sobre a Emacs Conference"
 
 #. type: Content of: <ul><li>
 msgid ""
-"<a href=\"irc://irc.gnu.org/pspp\">#pspp</a> &mdash; Discussion regarding <a "
-"href=\"/software/pspp/\">PSPP</a>"
+"<a href=\"ircs://irc.libera.chat:6697/pspp\">#pspp</a> &mdash; Discussion "
+"regarding <a href=\"/software/pspp/\">PSPP</a>"
 msgstr ""
-"<a href=\"irc://irc.gnu.org/pspp\">#pspp</a> &mdash; Discussão sobre <a href="
-"\"/software/pspp/\">PSPP</a>"
+"<a href=\"ircs://irc.libera.chat:6697/pspp\">#pspp</a> &mdash; Discussão "
+"sobre o <a href=\"/software/pspp/\">PSPP</a>"
 
 #. type: Content of: <h3>
 msgid "Channel rules"
@@ -303,25 +311,26 @@ msgstr ""
 
 #. type: Content of: <p>
 msgid ""
-"You can find a list of operators by typing <code>/msg chanserv access #gnu "
-"list</code> (where #gnu is the channel you are interested in)."
+"You can find a list of operators by typing <code>/msg ChanServ flags #gnu</"
+"code> (where #gnu is the channel you are interested in)."
 msgstr ""
-"Você pode encontrar uma lista de operadores digitando <code>/msg chanserv "
-"access #gnu list</code> (sendo #gnu o canal pelo qual você está interessado)."
+"Você pode encontrar uma lista de operadores digitando <code>/msg ChanServ "
+"flags #gnu</code> (sendo #gnu o canal pelo qual você está interessado)."
 
 #. type: Content of: <h3>
-msgid "Freenode guidelines"
-msgstr "Diretrizes do freenode"
+msgid "Libera.Chat guidelines"
+msgstr "Diretrizes do Libera.Chat"
 
 #. type: Content of: <p>
 msgid ""
-"Freenode also maintains <a href=\"http://freenode.net/changuide\">a list of "
-"channel guidelines</a> which you should also consider.  Certain discussions "
-"such as GNU vs BSD, vi vs <a href=\"/software/emacs/\">Emacs</a> are often "
-"healthy to free software discussion and we encourage healthy debate."
+"Libera.Chat also maintains <a href=\"https://libera.chat/guidelines\">a list "
+"of channel guidelines</a> which you should also consider.  Certain "
+"discussions such as GNU vs BSD, vi vs <a href=\"/software/emacs/\">Emacs</a> "
+"are often healthy to free software discussion and we encourage healthy "
+"debate."
 msgstr ""
-"Freenode também mantém <a href=\"http://freenode.net/changuide\">uma lista "
-"de diretrizes de canais</a> que você também deve considerar. Certas "
+"Libera.Chat também mantém <a href=\"http://libera.chat/guidelines\">uma "
+"lista de diretrizes de canais</a> que você também deve considerar. Certas "
 "discussões como GNU contra BSD, vi contra <a href=\"/software/emacs/"
 "\">Emacs</a> são muitas vezes saudáveis para a discussão de software livre e "
 "nós encorajamos um debate saudável."
@@ -389,31 +398,41 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 1996-2009, 2014-2018, 2020 Free Software Foundation, Inc."
+"Copyright &copy; 1996-2009, 2014-2018, 2020, 2021 Free Software Foundation, "
+"Inc."
 msgstr ""
-"Copyright &copy; 1996-2009, 2014-2018, 2020 Free Software Foundation, Inc."
+"Copyright &copy; 1996-2009, 2014-2018, 2020, 2021 Free Software Foundation, "
+"Inc."
 
 #. type: Content of: <div><p>
 msgid ""
-"This page is licensed under a <a rel=\"license\" href=\"http://"
+"This page is licensed under a <a rel=\"license\" href=\"https://"
 "creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
 "NoDerivatives 4.0 International License</a>."
 msgstr ""
-"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
-"Atribuição-SemDerivações 4.0 Internacional</a>."
+"Esta página está licenciada sob uma licença <a rel=\"license\" href="
+"\"https://creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative "
+"Commons Atribuição-SemDerivações 4.0 Internacional</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
-"rafaelff@gnome.org&gt;</a>, 2018-2020"
+"rafaelff@gnome.org&gt;</a>, 2018-2021"
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid "Freenode guidelines"
+#~ msgstr "Diretrizes do freenode"
+
+#~ msgid ""
+#~ "Copyright &copy; 1996-2009, 2014-2018, 2020 Free Software Foundation, Inc."
+#~ msgstr ""
+#~ "Copyright &copy; 1996-2009, 2014-2018, 2020 Free Software Foundation, Inc."
 
 #~ msgid ""
 #~ "Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, "

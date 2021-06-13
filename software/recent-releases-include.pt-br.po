@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: recent-releases-include.html\n"
-"POT-Creation-Date: 2021-06-01 13:56+0000\n"
-"PO-Revision-Date: 2021-06-03 14:57-0300\n"
+"POT-Creation-Date: 2021-06-11 21:56+0000\n"
+"PO-Revision-Date: 2021-06-13 11:50-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -16,6 +16,90 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1)\n"
 "X-Generator: Gtranslator 40.0\n"
+
+#. type: Content of: <ul><li>
+msgid "<strong>June 11, 2021</strong>"
+msgstr "<strong>11 de junho de 2021</strong>"
+
+#. #set var="LINK" 
+#. value='<a href="//lists.gnu.org/archive/html/info-gnu/2021-06/msg00005.html">' 
+#. #echo 
+#. encoding="none" var="LINK" 
+#. type: Content of: <ul><li><ul><li>
+msgid "GNU and FSF move official IRC channels to Libera.Chat network"
+msgstr "GNU e FSF movem os canais de IRC oficiais para a rede Libera.Chat"
+
+#. #echo 
+#. encoding="none" var="LINK_CLOSE" 
+#. type: Content of: <ul><li><ul><li>
+msgid "Amin Bandali"
+msgstr "Amin Bandali"
+
+#. type: Content of: <ul><li>
+msgid "<strong>June 10, 2021</strong>"
+msgstr "<strong>10 de junho de 2021</strong>"
+
+#. #set var="LINK" 
+#. value='<a href="//lists.gnu.org/archive/html/info-gnu/2021-06/msg00004.html">' 
+#. #echo 
+#. encoding="none" var="LINK" 
+#. type: Content of: <ul><li><ul><li>
+msgid "GnuPG 2.2.28 (LTS) released"
+msgstr "GnuPG 2.2.28 (LTS) lançado"
+
+#. #echo 
+#. encoding="none" var="LINK_CLOSE" 
+#. type: Content of: <ul><li><ul><li>
+msgid "Werner Koch"
+msgstr "Werner Koch"
+
+#. type: Content of: <ul><li>
+msgid "<strong>June 08, 2021</strong>"
+msgstr "<strong>08 de junho de 2021</strong>"
+
+#. #set var="LINK" 
+#. value='<a href="//lists.gnu.org/archive/html/info-gnu/2021-06/msg00003.html">' 
+#. #echo 
+#. encoding="none" var="LINK" 
+#. type: Content of: <ul><li><ul><li>
+msgid "Jami Maloya released"
+msgstr "Jami Maloya lançado"
+
+#. type: Content of: <ul><li>
+msgid "<strong>June 07, 2021</strong>"
+msgstr "<strong>07 de junho de 2021</strong>"
+
+#. #set var="LINK" 
+#. value='<a href="//lists.gnu.org/archive/html/info-gnu/2021-06/msg00002.html">' 
+#. #echo 
+#. encoding="none" var="LINK" 
+#. type: Content of: <ul><li><ul><li>
+msgid "ANNOUNCE: Nettle-3.7.3"
+msgstr "ANÚNCIO: Nettle-3.7.3"
+
+#. #echo 
+#. encoding="none" var="LINK_CLOSE" 
+#. type: Content of: <ul><li><ul><li>
+msgid "Niels Möller"
+msgstr "Niels Möller"
+
+#. type: Content of: <ul><li>
+msgid "<strong>June 05, 2021</strong>"
+msgstr "<strong>05 de junho de 2021</strong>"
+
+#. #set var="LINK" 
+#. value='<a href="//lists.gnu.org/archive/html/info-gnu/2021-06/msg00001.html">' 
+#. #echo 
+#. encoding="none" var="LINK" 
+#. type: Content of: <ul><li><ul><li>
+msgid "GNU poke 1.3 released"
+msgstr "GNU poke 1.3 lançado"
+
+#. #echo 
+#. encoding="none" var="LINK_CLOSE" 
+#. type: Content of: <ul><li><ul><li>
+msgid "Jose E. Marchesi"
+msgstr "Jose E. Marchesi"
 
 #. type: Content of: <ul><li>
 msgid "<strong>June 01, 2021</strong>"
@@ -372,17 +456,8 @@ msgstr "Reuben Thomas"
 #~ msgid "GnuPG 2.3.1 released"
 #~ msgstr "GnuPG 2.3.1 lançado"
 
-#~ msgid "Werner Koch"
-#~ msgstr "Werner Koch"
-
 #~ msgid "<strong>April 18, 2021</strong>"
 #~ msgstr "<strong>18 de abril de 2021</strong>"
-
-#~ msgid "GNU poke 1.2 released"
-#~ msgstr "GNU poke 1.2 lançado"
-
-#~ msgid "Jose E. Marchesi"
-#~ msgstr "Jose E. Marchesi"
 
 #~ msgid "<strong>April 16, 2021</strong>"
 #~ msgstr "<strong>16 de abril de 2021</strong>"
@@ -416,12 +491,6 @@ msgstr "Reuben Thomas"
 
 #~ msgid "GNU poke 1.1 has been released"
 #~ msgstr "GNU poke 1.1 foi lançado"
-
-#~ msgid "ANNOUNCE: Nettle-3.7.2"
-#~ msgstr "ANÚNCIO: Nettle-3.7.2"
-
-#~ msgid "Niels Möller"
-#~ msgstr "Niels Möller"
 
 #~ msgid "<strong>March 18, 2021</strong>"
 #~ msgstr "<strong>18 de março de 2021</strong>"
@@ -863,9 +932,6 @@ msgstr "Reuben Thomas"
 
 #~ msgid "<strong>December 21, 2020</strong>"
 #~ msgstr "<strong>21 de dezembro de 2020</strong>"
-
-#~ msgid "GnuPG 2.2.26 released"
-#~ msgstr "GnuPG 2.2.26 lançado"
 
 #~ msgid "<strong>December 16, 2020</strong>"
 #~ msgstr "<strong>16 de dezembro de 2020</strong>"

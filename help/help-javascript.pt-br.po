@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: help-javascript.html\n"
-"POT-Creation-Date: 2021-05-31 15:55+0000\n"
-"PO-Revision-Date: 2021-06-03 16:22-0300\n"
+"POT-Creation-Date: 2021-06-08 06:25+0000\n"
+"PO-Revision-Date: 2021-06-13 12:17-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -261,83 +261,47 @@ msgstr ""
 "acesso conectado é ir além da obrigação de curto prazo."
 
 #. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"https://www.accuweather.com\">accuweather.com</a> (for looking at "
-"its weather info)"
+msgid "accuweather.com (for looking at its weather info)"
+msgstr "accuweather.com (para ver suas informações meteorológicas)"
+
+#. type: Content of: <div><ul><li>
+msgid "pubmed.ncbi.nlm.nih.gov (for downloading papers)"
+msgstr "pubmed.ncbi.nlm.nih.gov (para baixar artigos)"
+
+#. type: Content of: <div><ul><li>
+msgid "groups.google.com (for finding and viewing postings on groups)"
+msgstr "groups.google.com (para encontrar e visualizar postagens em grupos)"
+
+#. type: Content of: <div><ul><li>
+msgid "tripadvisor.com (at least to show a restaurant's full menu)"
 msgstr ""
-"<a href=\"https://www.accuweather.com\">accuweather.com</a> (para ver suas "
-"informações meteorológicas)"
+"tripadvisor.com (pelo menos para mostrar o menu completo de um restaurante)"
+
+#. type: Content of: <div><ul><li>
+msgid "blogger.com (to view the blogs)"
+msgstr "blogger.com (para ver os blogs)"
+
+#. type: Content of: <div><ul><li>
+msgid "britishmuseum.org/collection (to view the collection)"
+msgstr "britishmuseum.org/collection (para ver a coleção)"
+
+#. type: Content of: <div><ul><li>
+msgid "pdr.net (to view the information on the medicines)"
+msgstr "pdr.net (para ver as informações sobre os medicamentos)"
+
+#. type: Content of: <div><ul><li>
+msgid "reiseauskunft.bahn.de (to view train schedules, at least)"
+msgstr "reiseauskunft.bahn.de (para ver itinerário de trens, pelo menos)"
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"https://pubmed.ncbi.nlm.nih.gov/\">pubmed.ncbi.nlm.nih.gov</a> "
-"(for downloading papers)"
+"rgs.org/about/our-collections/online-exhibitions (to view the exhibitions)"
 msgstr ""
-"<a href=\"https://pubmed.ncbi.nlm.nih.gov/\">pubmed.ncbi.nlm.nih.gov</a> "
-"(para baixar artigos)"
+"rgs.org/about/our-collections/online-exhibitions/ (para ver as exposições)"
 
 #. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"https://groups.google.com/\">groups.google.com</a> (for finding "
-"and viewing postings on groups)"
-msgstr ""
-"<a href=\"https://groups.google.com/\">groups.google.com</a> (para encontrar "
-"e visualizar postagens em grupos)"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"https://tripadvisor.com\">tripadvisor.com</a> (at least to show a "
-"restaurant's full menu)"
-msgstr ""
-"<a href=\"https://tripadvisor.com\">tripadvisor.com</a> (pelo menos para "
-"mostrar o menu completo de um restaurante)"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"https://www.blogger.com/about/?bpli=1\">blogger.com</a> (to view "
-"the blogs)"
-msgstr ""
-"<a href=\"https://www.blogger.com/about/?bpli=1\">blogger.com</a> (para ver "
-"os blogs)"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"https://www.britishmuseum.org/collection\"> britishmuseum.org/"
-"collection</a> (to view the collection)"
-msgstr ""
-"<a href=\"https://www.britishmuseum.org/collection\"> britishmuseum.org/"
-"collection</a> (para ver a coleção)"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"https://www.pdr.net/\">pdr.net</a> (to view the information on the "
-"medicines)"
-msgstr ""
-"<a href=\"https://www.pdr.net/\">pdr.net</a> (para ver as informações sobre "
-"os medicamentos)"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"https://reiseauskunft.bahn.de//\">reiseauskunft.bahn.de</a> (to "
-"view train schedules, at least)"
-msgstr ""
-"<a href=\"https://reiseauskunft.bahn.de//\">reiseauskunft.bahn.de</a> (para "
-"ver itinerário de trens, pelo menos)"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"https://www.rgs.org/about/our-collections/online-exhibitions/\"> "
-"rgs.org/about/our-collections/online-exhibitions/</a> (to view the "
-"exhibitions)"
-msgstr ""
-"<a href=\"https://www.rgs.org/about/our-collections/online-exhibitions/\"> "
-"rgs.org/about/our-collections/online-exhibitions/</a> (para ver as "
-"exposições)"
-
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"https://worldcat.org\">worldcat.org</a> (to look up books)"
-msgstr ""
-"<a href=\"https://worldcat.org\">worldcat.org</a> (para procurar livros)"
+msgid "worldcat.org (to look up books)"
+msgstr "worldcat.org (para procurar livros)"
 
 #. type: Content of: <div><ul><li><p>
 msgid ""
@@ -358,62 +322,40 @@ msgstr ""
 "estão ausentes."
 
 #. type: Content of: <div><ul><li>
-msgid "<a href=\"https://scribd.com\">scribd.com</a> (to read texts)"
-msgstr "<a href=\"https://scribd.com\">scribd.com</a> (para ler textos)"
+msgid "scribd.com (to read texts)"
+msgstr "scribd.com (para ler textos)"
+
+#. type: Content of: <div><ul><li>
+msgid "soundcloud.com (to listen to audios)"
+msgstr "soundcloud.com (para ouvir a áudios)"
+
+#. type: Content of: <div><ul><li>
+msgid "documentcloud.org (to view documents)"
+msgstr "documentcloud.org (para ver documentos)"
+
+#. type: Content of: <div><ul><li>
+msgid "bandcamp.com (to listen to or download music)"
+msgstr "bandcamp.com (para ouvir ou baixar músicas)"
+
+#. type: Content of: <div><ul><li>
+msgid "manualslib.com (to download manuals)"
+msgstr "manualslib.com (para baixar manuais)"
+
+#. type: Content of: <div><ul><li>
+msgid "npr.com (to listen&mdash;try using its API)"
+msgstr "npr.com (para ouvir – tentar usar sua API)"
+
+#. type: Content of: <div><ul><li>
+msgid "nasa.gov (to look at the publications, including photos and videos)"
+msgstr "nasa.gov (para procurar nas publicações, incluindo fotos e vídeos)"
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"https://soundcloud.com\">soundcloud.com</a> (to listen to audios)"
+"reddit.com (for reading, at least).  At present, you can do this by using <a "
+"href=\"https://old.reddit.com\">old.reddit.com</a>."
 msgstr ""
-"<a href=\"https://soundcloud.com\">soundcloud.com</a> (para ouvir a áudios)"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"https://documentcloud.org\">documentcloud.org</a> (to view "
-"documents)"
-msgstr ""
-"<a href=\"https://documentcloud.org\">documentcloud.org</a> (para ver "
-"documentos)"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"https://bandcamp.com\">bandcamp.com</a> (to listen to or download "
-"music)"
-msgstr ""
-"<a href=\"https://bandcamp.com\">bandcamp.com</a> (para ouvir ou baixar "
-"músicas)"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"https://www.manualslib.com\">manualslib.com</a> (to download "
-"manuals)"
-msgstr ""
-"<a href=\"https://www.manualslib.com\">manualslib.com</a> (para baixar "
-"manuais)"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"http://npr.com\">npr.com</a> (to listen&mdash;try using its API)"
-msgstr ""
-"<a href=\"http://npr.com\">npr.com</a> (para ouvir – tentar usar sua API)"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"https://www.nasa.gov/\">nasa.gov</a> (to look at the publications, "
-"including photos and videos)"
-msgstr ""
-"<a href=\"https://www.nasa.gov/\">nasa.gov</a> (para procurar nas "
-"publicações, incluindo fotos e vídeos)"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"https://www.reddit.com/\">reddit.com</a> (for reading, at least).  "
-"At present, you can do this by using <a href=\"https://old.reddit.com\">old."
-"reddit.com</a>."
-msgstr ""
-"<a href=\"https://www.reddit.com/\">reddit.com</a> (para leitura, pelo "
-"menos). No momento, você pode fazer isso usando <a href=\"https://old.reddit."
-"com\">old.reddit.com</a>."
+"reddit.com (para leitura, pelo menos). No momento, você pode fazer isso "
+"usando <a href=\"https://old.reddit.com\">old.reddit.com</a>."
 
 #. type: Content of: <div><h3>
 msgid "Petition-signing sites (to let the user sign)"
@@ -421,199 +363,152 @@ msgstr "Sites de assinatura de petição (para deixar o usuário assinar)"
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"https://www.freedomunited.org/\">freedomunited.org</a> (appears to "
-"&ldquo;succeed&rdquo; but no confirmation comes back)"
+"freedomunited.org (appears to &ldquo;succeed&rdquo; but no confirmation "
+"comes back)"
 msgstr ""
-"<a href=\"https://www.freedomunited.org/\">freedomunited.org</a> (parece ter "
-"“sucesso”, mas nenhuma confirmação é mostrada)"
+"freedomunited.org (parece ter “sucesso”, mas nenhuma confirmação é mostrada)"
 
 #. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"https://www.sumofus.org/\">sumofus.org</a> (the old extension from "
-"years ago no longer works)"
-msgstr ""
-"<a href=\"https://www.sumofus.org/\">sumofus.org</a> (a extensão antiga de "
-"anos atrás não funciona mais)"
+msgid "sumofus.org (the old extension from years ago no longer works)"
+msgstr "sumofus.org (a extensão antiga de anos atrás não funciona mais)"
 
 #. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"https://www.change.org/\">change.org</a> (warning, this site's JS "
-"is very complex)"
-msgstr ""
-"<a href=\"https://www.change.org/\">change.org</a> (aviso, o JS deste site é "
-"muito complexo)"
+msgid "change.org (warning, this site's JS is very complex)"
+msgstr "change.org (atenção, o JS deste site é muito complexo)"
 
 #. type: Content of: <div><ul><li>
-msgid "<a href=\"https://www.afsc.org/\">afsc.org</a>"
-msgstr "<a href=\"https://www.afsc.org/\">afsc.org</a>"
+msgid "afsc.org"
+msgstr "afsc.org"
 
 #. type: Content of: <div><ul><li>
-msgid "<a href=\"https://act.ran.org/\">act.ran.org</a>"
-msgstr "<a href=\"https://act.ran.org/\">act.ran.org</a>"
+msgid "act.ran.org"
+msgstr "act.ran.org"
 
 #. type: Content of: <div><ul><li>
-msgid "<a href=\"https://home.coworker.org/\">coworker.org</a>"
-msgstr "<a href=\"https://home.coworker.org/\">coworker.org</a>"
+msgid "coworker.org"
+msgstr "coworker.org"
 
 #. type: Content of: <div><ul><li>
-msgid "<a href=\"https://defenders.org/\">defenders.org</a>"
-msgstr "<a href=\"https://defenders.org/\">defenders.org</a>"
+msgid "defenders.org"
+msgstr "defenders.org"
 
 #. type: Content of: <div><ul><li>
-msgid "<a href=\"https://earthjustice.org/\">earthjustice.org</a>"
-msgstr "<a href=\"https://earthjustice.org/\">earthjustice.org</a>"
+msgid "earthjustice.org"
+msgstr "earthjustice.org"
 
 #. type: Content of: <div><ul><li>
-msgid "<a href=\"https://amazonwatch.org/\">amazonwatch.org</a>"
-msgstr "<a href=\"https://amazonwatch.org/\">amazonwatch.org</a>"
+msgid "amazonwatch.org"
+msgstr "amazonwatch.org"
 
 #. type: Content of: <div><ul><li>
-msgid "<a href=\"https://pages.signherenow.org/\">signherenow.org</a>"
-msgstr "<a href=\"https://pages.signherenow.org/\">signherenow.org</a>"
+msgid "signherenow.org"
+msgstr "signherenow.org"
 
 #. type: Content of: <div><ul><li>
-msgid "<a href=\"https://front.moveon.org/\">moveon.org</a>"
-msgstr "<a href=\"https://front.moveon.org/\">moveon.org</a>"
+msgid "moveon.org"
+msgstr "moveon.org"
 
 #. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"https://publiccitizen.salsalabs.org/foundation/index.html\"> "
-"publiccitizen.salsalabs.org</a>"
-msgstr ""
-"<a href=\"https://publiccitizen.salsalabs.org/foundation/index.html\"> "
-"publiccitizen.salsalabs.org</a>"
+msgid "publiccitizen.salsalabs.org"
+msgstr "publiccitizen.salsalabs.org"
 
 #. type: Content of: <div><ul><li>
-msgid "<a href=\"https://action.splcenter.org\">action.splcenter.org</a>"
-msgstr "<a href=\"https://action.splcenter.org\">action.splcenter.org</a>"
+msgid "action.splcenter.org"
+msgstr "action.splcenter.org"
 
 #. type: Content of: <div><ul><li>
-msgid "<a href=\"https://secure.everyaction.com\">secure.everyaction.com</a>"
-msgstr "<a href=\"https://secure.everyaction.com\">secure.everyaction.com</a>"
+msgid "secure.everyaction.com"
+msgstr "secure.everyaction.com"
 
 #. type: Content of: <div><ul><li>
-msgid "<a href=\"https://www.amnesty.org\">amnesty.org</a>"
-msgstr "<a href=\"https://www.amnesty.org\">amnesty.org</a>"
+msgid "amnesty.org"
+msgstr "amnesty.org"
 
 #. type: Content of: <div><ul><li>
-msgid "<a href=\"https://addup.sierraclub.org/\">addup.sierraclub.org</a>"
-msgstr "<a href=\"https://addup.sierraclub.org/\">addup.sierraclub.org</a>"
+msgid "addup.sierraclub.org"
+msgstr "addup.sierraclub.org"
 
 #. type: Content of: <div><ul><li>
-msgid "<a href=\"https://www.ucsusa.org/\">ucsusa.org</a>"
-msgstr "<a href=\"https://www.ucsusa.org/\">ucsusa.org</a>"
+msgid "ucsusa.org"
+msgstr "ucsusa.org"
 
 #. type: Content of: <div><ul><li>
-msgid "<a href=\"https://engage.drugpolicy.org\">engage.drugpolicy.org</a>"
-msgstr "<a href=\"https://engage.drugpolicy.org\">engage.drugpolicy.org</a>"
+msgid "engage.drugpolicy.org"
+msgstr "engage.drugpolicy.org"
 
 #. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"https://engage.us.greenpeace.org\">engage.us.greenpeace.org</a>"
-msgstr ""
-"<a href=\"https://engage.us.greenpeace.org\">engage.us.greenpeace.org</a>"
+msgid "engage.us.greenpeace.org"
+msgstr "engage.us.greenpeace.org"
 
 #. type: Content of: <div><h3>
 msgid "Other kinds of sites"
 msgstr "Outros tipos de sites"
 
 #. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"https://house.gov/\">house.gov</a> (for viewinng pages and sending "
-"mail to representatives)"
-msgstr ""
-"<a href=\"https://house.gov/\">house.gov</a> (para ver páginas e enviar e-"
-"mails para deputados)"
+msgid "house.gov (for viewinng pages and sending mail to representatives)"
+msgstr "house.gov (para ver páginas e enviar e-mails para deputados)"
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"https://whitehouse.gov/\">whitehouse.gov</a> (for communicating "
-"with the White House and with the webmasters)"
+"whitehouse.gov (for communicating with the White House and with the "
+"webmasters)"
 msgstr ""
-"<a href=\"https://whitehouse.gov/\">whitehouse.gov</a> (para se comunicar "
-"com a Casa Branca e com os webmasters)"
+"whitehouse.gov (para se comunicar com a Casa Branca e com os webmasters)"
+
+#. type: Content of: <div><ul><li>
+msgid "Disqus comments, found in various websites (for posting a comment)"
+msgstr ""
+"Disqus, sistema de comentários encontrados em vários sites (para publicar um "
+"comentário)"
+
+#. type: Content of: <div><ul><li>
+msgid "regulations.gov (for commenting on proposed US regulations)"
+msgstr ""
+"regulations.gov (por comentar sobre as regulamentações propostas dos EUA)"
+
+#. type: Content of: <div><ul><li>
+msgid "surveymonkey.com (for answering surveys)"
+msgstr "surveymonkey.com (para responder pesquisas)"
+
+#. type: Content of: <div><ul><li>
+msgid "coworker.org/start-a-petition (for starting a petition)"
+msgstr "coworker.org/start-a-petition (para iniciar uma petição)"
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"https://disqus.com/\">Disqus</a> comments, found in various "
-"websites (for posting a comment)"
+"wetransfer.com (ideally for upload and download, but just downloading would "
+"be a good first step)"
 msgstr ""
-"<a href=\"https://disqus.com/\">Disqus</a>, sistema de comentários "
-"encontrados em vários sites (para publicar um comentário)"
+"wetransfe (idealmente para upload e download, mas apenas o download seria um "
+"bom primeiro passo)"
 
 #. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"https://www.regulations.gov/\">regulations.gov</a> (for commenting "
-"on proposed US regulations)"
-msgstr ""
-"<a href=\"https://www.regulations.gov/\">regulations.gov</a> (por comentar "
-"sobre as regulamentações propostas dos EUA)"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"https://www.surveymonkey.com/\">surveymonkey.com</a> (for "
-"answering surveys)"
-msgstr ""
-"<a href=\"https://www.surveymonkey.com/\">surveymonkey.com</a> (para "
-"responder pesquisas)"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"https://www.coworker.org/start-a-petition\"> coworker.org/start-a-"
-"petition</a> (for starting a petition)"
-msgstr ""
-"<a href=\"https://www.coworker.org/start-a-petition\"> coworker.org/start-a-"
-"petition</a> (para iniciar uma petição)"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"https://wetransfer.com\">wetransfer</a> (ideally for upload and "
-"download, but just downloading would be a good first step)"
-msgstr ""
-"<a href=\"https://wetransfer.com\">wetransfer</a> (idealmente para upload e "
-"download, mas apenas o download seria um bom primeiro passo)"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"https://stripe.com\">stripe.com</a> (for entering payments for "
-"other sites)"
-msgstr ""
-"<a href=\"https://stripe.com\">stripe.com</a> (para fazer pagamentos para "
-"outros sites)"
+msgid "stripe.com (for entering payments for other sites)"
+msgstr "stripe.com (para fazer pagamentos para outros sites)"
 
 #. type: Content of: <div><h3>
 msgid "Sites that people have handled in this way"
 msgstr "Sites que as pessoas trataram dessa maneira"
 
 #. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"https://accounts.google.com\">docs.google.com</a> (for downloading "
-"documents)"
-msgstr ""
-"<a href=\"https://accounts.google.com\">docs.google.com</a> (para baixar "
-"documentos)"
+msgid "docs.google.com (for downloading documents)"
+msgstr "docs.google.com (para baixar documentos)"
 
 #. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"https://pay.gov\">pay.gov</a> (for registering a DMCA contact)"
-msgstr ""
-"<a href=\"https://pay.gov\">pay.gov</a> (para registrar um contato de DMCA)"
+msgid "pay.gov (for registering a DMCA contact)"
+msgstr "pay.gov (para registrar um contato de DMCA)"
 
 #. type: Content of: <div><ul><li>
-msgid "<a href=\"https://rsf.org/\">rsf.org</a> (for signing petitions)"
-msgstr "<a href=\"https://rsf.org/\">rsf.org</a> (para assinar petição)"
+msgid "rsf.org (for signing petitions)"
+msgstr "rsf.org (para assinar petição)"
 
 #. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"https://www.theonion.com/\">theonion.com</a> (for looking at "
-"images and audio)"
-msgstr ""
-"<a href=\"https://www.theonion.com/\">theonion.com</a> (para olhar imagens e "
-"áudio)"
+msgid "theonion.com (for looking at images and audio)"
+msgstr "theonion.com (para olhar imagens e áudio)"
 
 #. type: Content of: <div><ul><li>
-msgid "<a href=\"https://goteo.org/\">goteo.org</a> (for payments)"
-msgstr "<a href=\"https://goteo.org/\">goteo.org</a> (para pagamentos)"
+msgid "goteo.org (for payments)"
+msgstr "goteo.org (para pagamentos)"
 
 #. type: Content of: <div><div><h3>
 msgid "Footnote"
@@ -697,3 +592,69 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid ""
+#~ "<a href=\"https://www.blogger.com/about/?bpli=1\">blogger.com</a> (to "
+#~ "view the blogs)"
+#~ msgstr ""
+#~ "<a href=\"https://www.blogger.com/about/?bpli=1\">blogger.com</a> (para "
+#~ "ver os blogs)"
+
+#~ msgid "<a href=\"https://www.afsc.org/\">afsc.org</a>"
+#~ msgstr "<a href=\"https://www.afsc.org/\">afsc.org</a>"
+
+#~ msgid "<a href=\"https://act.ran.org/\">act.ran.org</a>"
+#~ msgstr "<a href=\"https://act.ran.org/\">act.ran.org</a>"
+
+#~ msgid "<a href=\"https://home.coworker.org/\">coworker.org</a>"
+#~ msgstr "<a href=\"https://home.coworker.org/\">coworker.org</a>"
+
+#~ msgid "<a href=\"https://defenders.org/\">defenders.org</a>"
+#~ msgstr "<a href=\"https://defenders.org/\">defenders.org</a>"
+
+#~ msgid "<a href=\"https://earthjustice.org/\">earthjustice.org</a>"
+#~ msgstr "<a href=\"https://earthjustice.org/\">earthjustice.org</a>"
+
+#~ msgid "<a href=\"https://amazonwatch.org/\">amazonwatch.org</a>"
+#~ msgstr "<a href=\"https://amazonwatch.org/\">amazonwatch.org</a>"
+
+#~ msgid "<a href=\"https://pages.signherenow.org/\">signherenow.org</a>"
+#~ msgstr "<a href=\"https://pages.signherenow.org/\">signherenow.org</a>"
+
+#~ msgid "<a href=\"https://front.moveon.org/\">moveon.org</a>"
+#~ msgstr "<a href=\"https://front.moveon.org/\">moveon.org</a>"
+
+#~ msgid ""
+#~ "<a href=\"https://publiccitizen.salsalabs.org/foundation/index.html\"> "
+#~ "publiccitizen.salsalabs.org</a>"
+#~ msgstr ""
+#~ "<a href=\"https://publiccitizen.salsalabs.org/foundation/index.html\"> "
+#~ "publiccitizen.salsalabs.org</a>"
+
+#~ msgid "<a href=\"https://action.splcenter.org\">action.splcenter.org</a>"
+#~ msgstr "<a href=\"https://action.splcenter.org\">action.splcenter.org</a>"
+
+#~ msgid ""
+#~ "<a href=\"https://secure.everyaction.com\">secure.everyaction.com</a>"
+#~ msgstr ""
+#~ "<a href=\"https://secure.everyaction.com\">secure.everyaction.com</a>"
+
+#~ msgid "<a href=\"https://www.amnesty.org\">amnesty.org</a>"
+#~ msgstr "<a href=\"https://www.amnesty.org\">amnesty.org</a>"
+
+#~ msgid "<a href=\"https://addup.sierraclub.org/\">addup.sierraclub.org</a>"
+#~ msgstr "<a href=\"https://addup.sierraclub.org/\">addup.sierraclub.org</a>"
+
+#~ msgid "<a href=\"https://www.ucsusa.org/\">ucsusa.org</a>"
+#~ msgstr "<a href=\"https://www.ucsusa.org/\">ucsusa.org</a>"
+
+#~ msgid "<a href=\"https://engage.drugpolicy.org\">engage.drugpolicy.org</a>"
+#~ msgstr "<a href=\"https://engage.drugpolicy.org\">engage.drugpolicy.org</a>"
+
+#~ msgid ""
+#~ "<a href=\"https://engage.us.greenpeace.org\">engage.us.greenpeace.org</a>"
+#~ msgstr ""
+#~ "<a href=\"https://engage.us.greenpeace.org\">engage.us.greenpeace.org</a>"
+
+#~ msgid "<a href=\"https://goteo.org/\">goteo.org</a> (for payments)"
+#~ msgstr "<a href=\"https://goteo.org/\">goteo.org</a> (para pagamentos)"

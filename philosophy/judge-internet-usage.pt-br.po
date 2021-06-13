@@ -1,40 +1,36 @@
-# Brazilian Portuguese translation of http://www.gnu.org/philosophy/judge-internet-usage.html
-# Copyright (C) 2014 Free Software Foundation, Inc.
+# Brazilian Portuguese translation of https://www.gnu.org/philosophy/judge-internet-usage.html
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Renato Trevisan <rjltrevisan@gmail.com>, 2014.
 # Hudson Flávio Meneses Lacerda <hfmlacerda@yahoo.com.br>, 2014.
 # Renato José Lima Trevisan <rjltrevisan@gmail.com>, 2014.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: judge-internet-usage.html\n"
-"POT-Creation-Date: 2014-03-14 04:34+0000\n"
-"PO-Revision-Date: 2015-02-23 19:56+0100\n"
-"Last-Translator: Renato José Lima Trevisan <rjltrevisan@gmail.com>\n"
+"POT-Creation-Date: 2019-08-17 08:25+0000\n"
+"PO-Revision-Date: 2021-06-13 18:17-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Outdated-Since: 2015-02-23 17:57+0100\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Gtranslator 2.91.6\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 40.0\n"
 
-# Que tal usar prudente? è claro que sábio é a primeira coisa que se vem à mente. Sabido dá a ideia de orgulhoso. E esperto de mal intencionado... difícil...
 #. type: Content of: <title>
-#, fuzzy
 msgid ""
 "A wise user judges each Internet usage scenario carefully - GNU Project - "
 "Free Software Foundation"
 msgstr ""
-"O usuário esperto julga cuidadosamente cada cenário de uso da internet - "
+"Um usuário sábio julga cuidadosamente cada cenário de uso da internet - "
 "Projeto GNU - Free Software Foundation"
 
-# Que tal usar prudente? è claro que sábio é a primeira coisa que se vem à mente. Sabido dá a ideia de orgulhoso. E esperto de mal intencionado... difícil...
 #. type: Content of: <h2>
-#, fuzzy
 msgid "A wise user judges each Internet usage scenario carefully"
-msgstr "O usuário esperto julga cuidadosamente cada cenário de uso da internet"
+msgstr "Um usuário sábio julga cuidadosamente cada cenário de uso da internet"
 
 #. type: Content of: <p>
 msgid "by Richard Stallman"
@@ -42,11 +38,13 @@ msgstr "por Richard Stallman"
 
 #. type: Content of: <p>
 msgid ""
-"First published in <a href=\"http://www.europeanbusinessreview.com/?"
-"p=4623\">The European Business Review</a>"
+"First published in <a href=\"https://www.europeanbusinessreview.com/a-wise-"
+"user-judges-each-internet-usage-scenario-carefully/\">The European Business "
+"Review</a>"
 msgstr ""
-"Publicado pela primeira vez em <a href=\"http://www.europeanbusinessreview."
-"com/?p=4623\">The European Business Review</a>"
+"Publicado pela primeira vez em <a href=\"https://www.europeanbusinessreview."
+"com/a-wise-user-judges-each-internet-usage-scenario-carefully/\">The "
+"European Business Review</a>"
 
 #. type: Content of: <p>
 msgid ""
@@ -55,29 +53,10 @@ msgid ""
 "responsibility to the winds."
 msgstr ""
 "Empresas estão oferecendo agora, aos usuários de computadores, oportunidades "
-"tentadoras para deixar que outros armazenem suas informações e façam sua "
-"computação.  Em outras palavras, jogar cautela e responsabilidade pela "
-"janela."
+"tentadoras para deixar que outros armazenem seus dados e façam sua "
+"computação. Em outras palavras, jogar cautela e responsabilidade aos ventos."
 
-# "quite different" = "totalmente diferentes", segundo alguns dicionários; o termo, nesse caso, é enfático. Antes eu tinha escrito "muito", você colocou "bem", agora está "totalmente".
-# OK, acho preciso rever meu entendiment dessa palavra, deixe totalmente mesmo.
-#
-# Prefiro "tornando o termo tão amplo e nebuloso, que nada de significativo pode ser dito com ele." Do outro jeito ficou muito longo, e com muitas repetições de palavras. (Acho que do jeito anterior estava melhor, mas não voltei ao que era.)
-# Ok, concordo.
-#
-# A última frase ficou obscura na forma "Talvez intencionem que a nuvem da qual falam..." (e a sonoridade ficou com muitos "em" "am").
-# Que tal como coloquei?
-#
-# Comentários extraídos:
-# type: Content of: <p>
-#
-# (Editar)
-#
-# Comentários extraídos:
-# type: Content of: <p>
-#
 #. type: Content of: <p>
-#, fuzzy
 msgid ""
 "These businesses, and their boosters, like to call these computing practices "
 "&ldquo;cloud computing&rdquo;. They apply the same term to other quite "
@@ -89,11 +68,11 @@ msgid ""
 "inside the customer's mind."
 msgstr ""
 "Essas empresas, e seus incentivadores, gostam de chamar essas práticas "
-"computacionais de &ldquo;computação em nuvem&rdquo; [&ldquo;cloud "
-"computing&rdquo;].  Eles aplicam o mesmo termo também a outros cenários "
-"totalmente diferentes, tais como o aluguel de um servidor remoto, tornando o "
-"termo tão amplo e nebuloso, que nada de significativo pode ser dito com ele. "
-"Se ele tem algum significado, só pode ser o de uma certa atitude para com a "
+"computacionais de “computação em nuvem” <i lang=\"en\">(cloud computing)</"
+"i>. Elas aplicam o mesmo termo também a outros cenários totalmente "
+"diferentes, tais como o aluguel de um servidor remoto, tornando o termo tão "
+"amplo e nebuloso, que nada de significativo pode ser dito com ele. Se ele "
+"tem algum significado, só pode ser o de uma certa atitude para com a "
 "computação: uma atitude de não pensar cuidadosamente sobre o que está "
 "envolvido no cenário proposto ou quais riscos ele implica. Talvez tenham a "
 "intenção de que essa nuvem da qual falam se forme na mente do cliente."
@@ -107,11 +86,10 @@ msgid ""
 msgstr ""
 "Para substituir essa nuvem por clareza, este artigo discute diversos "
 "produtos e serviços que envolvem cenários de uso muito diferentes (por "
-"favor, não pense neles como &ldquo;computação em nuvem&rdquo;) e as "
-"distintas questões que eles levantam."
+"favor, não pense neles como “computação em nuvem”) e as distintas questões "
+"que eles levantam."
 
 #. type: Content of: <p>
-#, fuzzy
 msgid ""
 "First, let's classify the kinds of issues that a usage scenario <em>can</em> "
 "raise. In general, there are two kinds of issues to be considered.  One is "
@@ -119,8 +97,8 @@ msgid ""
 "of your computing</em>."
 msgstr ""
 "Primeiro, vamos classificar os tipos de questões que um cenário de uso "
-"<em>pode</em> levantar.  Em geral, há dois tipos de questões a serem "
-"consideradas.  Um é sobre o <em>tratamento de seus dados</em>, e o outro, "
+"<em>pode</em> levantar. Em geral, há dois tipos de questões a serem "
+"consideradas. Um é sobre o <em>tratamento de seus dados</em>, e o outro, "
 "sobre o <em>controle da sua computação</em>."
 
 #. type: Content of: <p>
@@ -133,14 +111,11 @@ msgid ""
 msgstr ""
 "Dentro do tratamento de seus dados, várias questões podem ser distinguidas: "
 "um serviço poderia perder seus dados, alterá-los, mostrá-los a alguém sem o "
-"seu consentimento, e/ou dificultar que você obtivesse seus dados de volta.  "
+"seu consentimento e/ou dificultar que você obtivesse seus dados de volta. "
 "Cada uma dessas questões é fácil de entender; o quão importantes elas são "
 "depende de que tipos de dados estão envolvidos."
 
-# "ficaria com raiva disso" está estranho. Você acha que "isso" é mesmo necessário?
-# Acho que dá para tirar sim.
 #. type: Content of: <p>
-#, fuzzy
 msgid ""
 "Keep in mind that a US company (or a subsidiary of one) is required to hand "
 "over nearly all data it has about a user on request of the FBI, without a "
@@ -155,19 +130,16 @@ msgid ""
 msgstr ""
 "Tenha em mente que uma empresa dos EUA (ou sua subsidiária) é obrigada a "
 "entregar praticamente todos os dados que ela tem sobre um usuário, a pedido "
-"do FBI, sem mandado judicial, sob o &ldquo;USA PATRIOT Act&rdquo;, cujo nome "
-"em negrobranco é tão orwelliano quanto suas disposições.  Sabemos que, "
-"embora os requerimentos que essa lei coloca sobre o FBI sejam bem frouxos, o "
-"FBI sistematicamente os viola.  O senador Wyden diz que se ele pudesse dizer "
+"do FBI, sem mandado judicial, sob o “USA PATRIOT Act”, cujo nome negrobranco "
+"é tão orwelliano quanto suas disposições.  Sabemos que, embora os "
+"requerimentos que essa lei coloca sobre o FBI sejam bem frouxos, o FBI "
+"sistematicamente os viola.  O senador Wyden diz que se ele pudesse dizer "
 "publicamente como o FBI estica a lei, <a href=\"http://www.wired.com/"
 "dangerroom/2011/05/secret-patriot-act/\">o público ficaria com raiva</a>. "
-"Organizações européias podem muito bem violar as leis de proteção de dados "
+"Organizações europeias podem muito bem violar as leis de proteção de dados "
 "de seus países, se confiarem dados a tais companhias."
 
-# A regência do verbo abdicar varia. Neste, penso ser v.t.i. ("abdicou de tal controle" ou "desse controle"). Mas não consegui confirmar se há uma regra conforme o caso, ou se é questão de preferência. Não mudei.
-# Pra falar a verdade, melhor o usar o "de" mesmo.
 #. type: Content of: <p>
-#, fuzzy
 msgid ""
 "Control of your computing is the other category of issue.  Users deserve to "
 "have control of their computing. Unfortunately, most of them have already "
@@ -176,7 +148,7 @@ msgid ""
 msgstr ""
 "Controle de sua computação é a outra categoria de questões. Usuários merecem "
 "ter o controle de sua computação. Infelizmente, a maioria deles já abdicou "
-"de tal controle, através do uso de software proprietário (não livre/libre)."
+"de tal controle, através do uso de software privativo (não livre)."
 
 #. type: Content of: <p>
 msgid ""
@@ -192,13 +164,13 @@ msgid ""
 msgstr ""
 "Com software, há apenas duas possibilidades: ou os usuários controlam o "
 "software, ou o software controla os usuários.  O primeiro caso nós chamamos "
-"de &ldquo;software livre&rdquo;, livre como em liberdade, porque os usuários "
-"têm o controle efetivo do software se eles têm certas liberdades "
-"essenciais.  Nós também o chamamos de &ldquo;free/libre&rdquo; para "
-"enfatizar que essa é uma <a href=\"/philosophy/free-sw.html\">questão de "
-"liberdade, não de preço</a>.  O segundo caso é software proprietário. O "
-"Windows e o MacOS são proprietários; e também o iOS, o software no iPhone. "
-"Tal sistema controla seus usuários, e uma empresa controla o sistema."
+"de “software livre”, livre como em liberdade, porque os usuários têm o "
+"controle efetivo do software se eles têm certas liberdades essenciais. Nós "
+"também o chamamos de “free/libre” para enfatizar que essa é uma <a href=\"/"
+"philosophy/free-sw.html\">questão de liberdade, não de preço</a>. O segundo "
+"caso é software privativo. O Windows e o MacOS são privativos; e também o "
+"iOS, o software no iPhone. Tal sistema controla seus usuários, e uma empresa "
+"controla o sistema."
 
 #. type: Content of: <p>
 msgid ""
@@ -211,14 +183,11 @@ msgstr ""
 "Quando uma corporação tem poder sobre os usuários desse modo, é provável que "
 "ela abuse desse poder.  Não surpreende que Windows e iOS sejam conhecidos "
 "por terem recursos de espionagem, recursos para restringir os usuários e "
-"portas dos fundos [back doors].  Quando usuários falam de &ldquo;fazer um "
-"jailbreak&rdquo; no iPhone [N.T.: &ldquo;jailbreaking&rdquo;, &ldquo;"
-"destravar&rdquo;], eles reconhecem que esse produto algema o usuário."
+"<em>backdoor</em>. Quando usuários falam de “fazer um "
+"jailbreak” (destravamento) no iPhone, eles reconhecem que esse produto "
+"algema o usuário."
 
-# Adotei a sigla SaaSS sem traduzir.
-# Sim, é mais prudente não traduzir siglas...
 #. type: Content of: <p>
-#, fuzzy
 msgid ""
 "When a service does the user's computing, the user loses control over that "
 "computing. We call this practice &ldquo;Software as a Service&rdquo; or "
@@ -227,12 +196,12 @@ msgid ""
 "server-really-serve.html\">It is definitely to be avoided.</a>"
 msgstr ""
 "Quando um serviço realiza a computação do usuário, o usuário perde o "
-"controle daquela computação. Chamamos essa prática de &ldquo;Serviço como "
-"Substituto de Software&rdquo; [&ldquo;Service as a Software "
-"Substitute&rdquo;], ou SaaSS, e isso é equivalente a rodar um programa "
-"proprietário com um recurso de espionagem e uma porta dos fundos. <a href=\"/"
-"philosophy/who-does-that-server-really-serve.html\">Definitivamente, isso "
-"tem que ser evitado.</a>"
+"controle daquela computação. Chamamos essa prática de “Serviço como "
+"Substituto de Software” <i lang=\"en\">(Service as a Software Substitute)</"
+"i>, ou SaaSS, e isso é equivalente a executar um programa privativo com um "
+"recurso de espionagem e um <em>backdoor</em>. <a href=\"/philosophy/who-does-"
+"that-server-really-serve.html\">Definitivamente, isso tem que ser evitado.</"
+"a>"
 
 #. type: Content of: <p>
 msgid ""
@@ -269,21 +238,19 @@ msgid ""
 "machine before upload, and decrypted on the user's machine after it is "
 "accessed."
 msgstr ""
-"Como iCloud tratará os dados do usuário?  No momento em que escrevo [N.T.: "
-"2011], não sabemos, mas podemos especular, com base no que outros serviços "
-"fazem. A Apple provavelmente será capaz de observar os dados, para seus "
-"próprios propósitos e para os propósitos de outros.  Sendo assim, tribunais "
-"serão capazes de obter os dados atravé de um mandado à Apple (<em>não ao "
-"usuário</em>).  O FBI poderá obtê-los sem um mandado.  Companhias de filmes "
-"e gravadoras, ou suas usinas de processos judiciais, poderão ser capazes de "
-"observá-los também.  A única maneira de isso poder ser evitado é se os dados "
-"forem criptografados na máquina do usuário antes de serem enviados, e "
-"decriptados na máquina do usuário depois que forem acessados."
+"Como iCloud tratará os dados do usuário?  No momento em que escrevo, não "
+"sabemos, mas podemos especular, com base no que outros serviços fazem. A "
+"Apple provavelmente será capaz de observar os dados, para seus próprios "
+"propósitos e para os propósitos de outros.  Sendo assim, tribunais serão "
+"capazes de obter os dados através de um mandado judicial distado à Apple "
+"(<em>não</em> ao usuário).  O FBI poderá obtê-los sem um mandado judicial. "
+"Empresas de filmes e gravadoras, ou suas usinas de processos judiciais, "
+"poderão ser capazes de observá-los também.  A única maneira de isso poder "
+"ser evitado é se os dados forem criptografados na máquina do usuário antes "
+"de serem enviados, e decriptados na máquina do usuário depois que forem "
+"acessados."
 
-# Acho o termo "bobo" meio bobo, infantil. "Foolish" abarca desde "bobo" até "estúpido", incluindo "tolo" e "imbecil", dependendo do contexto e da entonação. O tradutor francês usou "estúpido", mas acho que Stallman não pretende ser tão duro. Mas "bobo", eu, pessoalmente, acho leve demais.
-# Que tal "tonto"? Acho "tolo" formal demais para esse contexto, não passaria a imagem correta.
 #. type: Content of: <p>
-#, fuzzy
 msgid ""
 "In the specific case of iCloud, all the users will be running Apple "
 "software, so Apple will have total control over their data anyway. A spy "
@@ -293,14 +260,13 @@ msgid ""
 "know. If you're foolish enough to use an iPhone or iPad, maybe iCloud won't "
 "make things any worse, but that is no recommendation."
 msgstr ""
-"No caso específico do iCloud, todos os usuários estarão rodando software da "
-"Apple, então a Apple terá total controle sobre seus dados, de qualquer "
+"No caso específico do iCloud, todos os usuários estarão executando software "
+"da Apple, então a Apple terá total controle sobre seus dados, de qualquer "
 "maneira. Um recurso espião foi descoberto em software do iPhone e do iPad no "
-"início de 2011, levando as pessoas a falar de &ldquo;spyPhone&rdquo; "
-"[telefone espião]. A Apple poderia introduzir outro recurso espião no "
-"próximo &ldquo;upgrade&rdquo;, e somente a Apple saberia. Se você for tonto "
-"o suficiente para usar um iPhone ou iPad, talvez iCloud não torne as coisas "
-"muito piores, mas não se recomenda isso."
+"início de 2011, levando as pessoas a falar de “spyPhone”. A Apple poderia "
+"introduzir outro recurso espião na próxima “atualização”, e somente a Apple "
+"saberia. Se você for tonto o suficiente para usar um iPhone ou iPad, talvez "
+"iCloud não torne as coisas muito piores, mas não se recomenda isso."
 
 #. type: Content of: <p>
 msgid ""
@@ -322,19 +288,16 @@ msgid ""
 "replace the rest of the system.  Thus, they get almost as much control over "
 "their computing as they would with their own machines, but not entirely."
 msgstr ""
-"Esses computadores rodam o <a href=\"/gnu/linux-and-gnu.html\">sistema "
+"Esses computadores executam o <a href=\"/gnu/linux-and-gnu.html\">sistema "
 "operacional GNU/Linux</a>, e o cliente pode escolher todo o software "
-"instalado, com uma exceção: Linux, o componente do nível mais baixo (ou "
-"&ldquo;núcleo&rdquo; [&ldquo;kernel&rdquo;]) do sistema.  Os clientes "
-"precisam selecionar uma das versões do Linux oferecidas pela Amazon; eles "
-"não podem fazer e rodar suas próprias.  Mas eles podem substituir o resto do "
-"sistema.  Daí, eles têm quase tanto controle sobre sua computação quanto "
-"teriam com suas próprias máquinas, mas não inteiramente."
+"instalado, com uma exceção: Linux, o componente de nível mais baixo (ou "
+"kernel) do sistema.  Os clientes precisam selecionar uma das versões do "
+"Linux oferecidas pela Amazon; eles não podem fazer e executar suas próprias. "
+"Mas eles podem substituir o resto do sistema.  Daí, eles têm quase tanto "
+"controle sobre sua computação quanto teriam com suas próprias máquinas, mas "
+"não inteiramente."
 
-# "Nasty" poderia ser traduzido por um termo mais duro, pois "desagradável" e "inconveniente" não têm muita diferença. ("Desgradável" soa como eufemismo.) Mas não mudei (antes estava "ruim".)
-# O que acontece e que muitos termos nunca vão ter equivalentes completas em outra língua. "Nasty poderia ser uma mistura de "desagradável", "perverso", "inconveniente", "mal intencionado", "podre", etc. Mas, tendo que escolher só um termo, prefiro, aqui, então "podre", por conter a ideia de desagradável, apesar de que acho que deveria haver uma palavra que também carregasse a ideia de mal-intencionado. Mas aceito sugestões...
 #. type: Content of: <p>
-#, fuzzy
 msgid ""
 "EC2 does have some drawbacks. One is, since users cannot install their own "
 "versions of the kernel Linux, it is possible that Amazon has put something "
@@ -347,14 +310,14 @@ msgid ""
 "behalf."
 msgstr ""
 "EC2 tem algumas desvantagens. Uma é que, já que os usuários não podem "
-"instalar suas próprias versões do núcleo Linux, é possível que a Amazon "
+"instalar suas próprias versões do kernel Linux, é possível que a Amazon "
 "coloque alguma coisa de podre, ou meramente inconveniente, nas versões que "
 "oferece. Mas isso pode não importar realmente, dadas as outras falhas. Uma "
 "outra falha é que a Amazon tem o controle final sobre o computador e seus "
 "dados. O Estado poderia apreender todos os dados da Amazon. Se você os "
-"tivesse em sua casa ou escritório, o Estado teria que enviar um mandado a "
-"você, e você teria chances de lutar contra a apreensão na justiça. A Amazon "
-"pode não se importar em lutar contra o mandado em seu nome."
+"tivesse em sua casa ou escritório, o Estado teria que usar de um mandado "
+"contra você, e você teria chances de lutar contra a apreensão na justiça. A "
+"Amazon pode não se importar em lutar contra o mandado em seu nome."
 
 #. type: Content of: <p>
 msgid ""
@@ -385,7 +348,6 @@ msgstr ""
 "programas não livres também."
 
 #. type: Content of: <p>
-#, fuzzy
 msgid ""
 "The special feature of this system, its purpose, was to deny users two "
 "fundamental capabilities that GNU/Linux and other operating systems normally "
@@ -399,15 +361,15 @@ msgid ""
 msgstr ""
 "A principal característica desse sistema, seu propósito, era negar aos "
 "usuários duas capacidades fundamentais que o GNU/Linux e outros sistemas "
-"operacionais normalmente oferecem: armazenar dados e rodar aplicações "
-"localmente. Em vez disso, ChromeOS seria projetado para requerer que os "
-"usuários salvem seus dados em servidores (normalmente servidores da Google, "
-"suponho) e deixem que esses servidores façam sua computação também. Isso "
-"imediatamente levanta ambos tipos de questões na sua forma mais plena. A "
-"única maneira em que o ChromeOS, tal como concebido, poderia se tornar algo "
-"que usuários deveriam aceitar, é se eles instalassem uma versão modificada "
-"do sistema, restaurando as capacidades de armazenamento local de dados e de "
-"aplicações."
+"operacionais normalmente oferecem: armazenar dados e executar aplicativos "
+"localmente. Em vez disso, ChromeOS seria projetado para exigir que os "
+"usuários armazenem seus dados em servidores (normalmente servidores da "
+"Google, suponho) e deixem que esses servidores façam sua computação também. "
+"Isso imediatamente levanta ambos tipos de questões na sua forma mais plena. "
+"A única maneira em que o ChromeOS, tal como concebido, poderia se tornar "
+"algo que usuários deveriam aceitar, é se eles instalassem uma versão "
+"modificada do sistema, restaurando as capacidades de armazenamento local de "
+"dados e de aplicações."
 
 #. type: Content of: <p>
 msgid ""
@@ -419,9 +381,9 @@ msgid ""
 msgstr ""
 "Mais recentemente, ouvi dizer que a Google reconsiderou essa decisão e "
 "poderá reincorporar esses recursos locais. Se for assim, ChromeOS poderá "
-"simplesmente ser algo que as pessoas possam usar em liberdade &mdash; se "
-"forem evitados os muitos outros problemas que nós <a href=\"/philosophy/"
-"android-and-users-freedom.html\">observamos hoje no Android</a>."
+"simplesmente ser algo que as pessoas possam usar em liberdade – se forem "
+"evitados os muitos outros problemas que nós <a href=\"/philosophy/android-"
+"and-users-freedom.html\">observamos hoje no Android</a>."
 
 #. type: Content of: <p>
 msgid ""
@@ -432,16 +394,14 @@ msgid ""
 msgstr ""
 "Como esses exemplos mostram, cada cenário de uso da internet levanta seu "
 "próprio conjunto de questões, e elas precisam ser julgadas com base em sua "
-"especificidade. Afirmações vagas, tais como quaiquer afirmações formuladas "
-"em termos de &ldquo;computação em nuvem&rdquo;, só conseguem obstruir o "
-"caminho."
+"especificidade. Afirmações vagas, tais como quaisquer declarações formuladas "
+"em termos de “computação em nuvem”, só conseguem obstruir o caminho."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr " "
 
-# type: Content of: <div><p>
 #. type: Content of: <div><div><p>
 msgid ""
 "Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
@@ -452,11 +412,10 @@ msgid ""
 msgstr ""
 "Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
 "org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
-"meios de contatar</a> a FSF.  Links quebrados e outras correções ou "
-"sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
 "webmasters@gnu.org&gt;</a>."
 
-#
 #.  TRANSLATORS: Ignore the original text in this paragraph,
 #.         replace it with the translation of these two:
 #.         We work hard and do our best to provide accurate, good quality
@@ -475,36 +434,37 @@ msgid ""
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
-"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
 "\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas desse site."
+"envio de traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2011 Richard Stallman"
-msgstr "Copyright &copy; 2011 Richard Stallman"
+msgid "Copyright &copy; 2011, 2019 Richard Stallman"
+msgstr "Copyright &copy; 2011, 2019 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
-"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"<b>Tradução:</b> Hudson Flávio Meneses Lacerda e Renato José Lima Trevisan, "
-"2014"
+"Traduzido por: Hudson Flávio Meneses Lacerda e Renato José Lima Trevisan, "
+"2014;\n"
+"Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome."
+"org&gt;</a>, 2021."
 
-# type: Content of: <div><p>
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
-msgstr "Última atualização: "
+msgstr "Última atualização:"
