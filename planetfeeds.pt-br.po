@@ -6,10 +6,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: planetfeeds.html\n"
-"POT-Creation-Date: 2021-06-10 14:26+0000\n"
-"PO-Revision-Date: 2021-06-13 11:40-0300\n"
+"POT-Creation-Date: 2021-06-17 05:56+0000\n"
+"PO-Revision-Date: 2021-06-20 16:06-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
-"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language-Team: Brazilian Portuguese <debian-l10n-portuguese@lists.debian."
+"org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,52 +19,67 @@ msgstr ""
 "X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <p>
-msgid "Welcome our new member - jiderlesi"
-msgstr "Boas vindas a nosso novo membro - jiderlesi"
+msgid "My internship at the FSF, and the domino effect of thoughts"
+msgstr "Meu estágio na FSF e o efeito dominó de pensamentos"
 
-#.  TRANSLATORS: 
-#. http://savannah.gnu.org/forum/forum.php?forum_id=10008 
 #. type: Content of: <p>
 msgid ""
-": Dear www-zh-cn-translators: It&#39;s a good time to welcome our new "
-"member: User Details: ------------- Name: Yuqi Feng Login: jiderlesi Email: "
-"jiderlesi@o..."
+"Update to the FSF and GNU&#39;s plan to move IRC channels to Libera.Chat"
 msgstr ""
-": Prezados tradutores de www-zh-cn: É um ótimo momento para receber nosso "
-"novo membro: Detalhes do usuário: ------------- Nome: Yuqi Feng Login: "
-"jiderlesi..."
+"Atualização do plano da FSF e do GNU para mover os canais de IRC oficiais "
+"para Libera.Chat"
 
 #. type: Content of: <p>
-msgid "IFMSA Bangladesh joins the GNU Health Alliance"
-msgstr "IFMSA Bangladesh se junta à GNU Health Alliance"
+msgid "Listen to LibrePlanet 2021 audio in your podcast app!"
+msgstr "Ouça ao áudio da LibrePlanet 2021 em seu aplicativo de podcast!"
 
-#.  TRANSLATORS: 
-#. https://meanmicio.org/2021/06/07/ifmsa-bangladesh-joins-the-gnu-health-alliance/ 
-#. type: Content of: <p>
-msgid ""
-": The non-profit organization with 3500+ medical students and 65 "
-"universities across the country is now part of the GNU Health Alliance of "
-"Academ..."
-msgstr ""
-": A organização sem fins lucrativos com mais de 3500 estudantes de medicina "
-"e 65 universidades em todo o país agora faz parte da GNU Health Alliance de "
-"Academ..."
+#~ msgid "Reproducible data processing pipelines"
+#~ msgstr "Pipelines de processamento de dados reproduzíveis"
 
-#. type: Content of: <p>
-msgid "GNU/EDMA 0.19.1. Alpha Release"
-msgstr "GNU/EDMA 0.19.1. Lançamento alfa"
+#~ msgid ""
+#~ ": Last week, we at Guix-HPC published videos of a workshop on "
+#~ "reproducible software environments we organized on-line. The videos are "
+#~ "well worth watching..."
+#~ msgstr ""
+#~ ": Na semana passada, nós da Guix-HPC publicamos vídeos de um workshop "
+#~ "sobre ambientes de software reproduzíveis que organizamos on-line. Vale a "
+#~ "pena assistir..."
 
-#.  TRANSLATORS: 
-#. http://savannah.gnu.org/forum/forum.php?forum_id=10007 
-#. type: Content of: <p>
-msgid ""
-": GNU/EDMA 0.19.1 has been released as an Alpha Version. This version tries "
-"to fix the long standing issue with 64bits platforms. In order to fix that "
-"problem th..."
-msgstr ""
-": GNU/EDMA 0.19.1 foi lançado como uma versão alfa. Esta versão tenta "
-"corrigir o problema de longa data com plataformas de 64 bits. A fim de "
-"resolver esse..."
+#~ msgid "Welcome our new member - jiderlesi"
+#~ msgstr "Boas vindas a nosso novo membro - jiderlesi"
+
+#~ msgid ""
+#~ ": Dear www-zh-cn-translators: It&#39;s a good time to welcome our new "
+#~ "member: User Details: ------------- Name: Yuqi Feng Login: jiderlesi "
+#~ "Email: jiderlesi@o..."
+#~ msgstr ""
+#~ ": Prezados tradutores de www-zh-cn: É um ótimo momento para receber nosso "
+#~ "novo membro: Detalhes do usuário: ------------- Nome: Yuqi Feng Login: "
+#~ "jiderlesi..."
+
+#~ msgid "IFMSA Bangladesh joins the GNU Health Alliance"
+#~ msgstr "IFMSA Bangladesh se junta à GNU Health Alliance"
+
+#~ msgid ""
+#~ ": The non-profit organization with 3500+ medical students and 65 "
+#~ "universities across the country is now part of the GNU Health Alliance of "
+#~ "Academ..."
+#~ msgstr ""
+#~ ": A organização sem fins lucrativos com mais de 3500 estudantes de "
+#~ "medicina e 65 universidades em todo o país agora faz parte da GNU Health "
+#~ "Alliance de Academ..."
+
+#~ msgid "GNU/EDMA 0.19.1. Alpha Release"
+#~ msgstr "GNU/EDMA 0.19.1. Lançamento alfa"
+
+#~ msgid ""
+#~ ": GNU/EDMA 0.19.1 has been released as an Alpha Version. This version "
+#~ "tries to fix the long standing issue with 64bits platforms. In order to "
+#~ "fix that problem th..."
+#~ msgstr ""
+#~ ": GNU/EDMA 0.19.1 foi lançado como uma versão alfa. Esta versão tenta "
+#~ "corrigir o problema de longa data com plataformas de 64 bits. A fim de "
+#~ "resolver esse..."
 
 #~ msgid "GNU Scientific Library 2.7 released"
 #~ msgstr "GNU Scientific Library 2.7 lançado"
@@ -617,9 +633,6 @@ msgstr ""
 #~ msgstr ""
 #~ "Replicant: um sistema operacional livre para celular é mais importante do "
 #~ "que nunca e precisa da sua ajuda"
-
-#~ msgid "My internship with the FSF tech team and beyond"
-#~ msgstr "Meu estágio com a equipe de tecnologia da FSF e além"
 
 #~ msgid ""
 #~ ": At the end of his internship, perennial FSF volunteer Bandali reflects "
@@ -3717,9 +3730,6 @@ msgstr ""
 #~ msgstr ""
 #~ "Richard Stallman - &quot;Por que nós devemos reduzir drasticamente a "
 #~ "vigilância&quot; (Estugarda, Alemanha)"
-
-#~ msgid "Reproducible Windows builds"
-#~ msgstr "Compilações reproduzíveis do Windows"
 
 #~ msgid ""
 #~ ": I&#39;m working again on making reproducible .exe-s. I thought I&#39;d "

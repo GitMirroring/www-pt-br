@@ -6,16 +6,109 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: recent-releases-include.html\n"
-"POT-Creation-Date: 2021-06-11 21:56+0000\n"
-"PO-Revision-Date: 2021-06-13 11:50-0300\n"
+"POT-Creation-Date: 2021-06-19 18:26+0000\n"
+"PO-Revision-Date: 2021-06-20 16:10-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
-"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language-Team: Brazilian Portuguese <debian-l10n-portuguese@lists.debian."
+"org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1)\n"
 "X-Generator: Gtranslator 40.0\n"
+
+#. type: Content of: <ul><li>
+msgid "<strong>June 19, 2021</strong>"
+msgstr "<strong>19 de junho de 2021</strong>"
+
+#. #set var="LINK" 
+#. value='<a href="//lists.gnu.org/archive/html/info-gnu/2021-06/msg00011.html">' 
+#. #echo 
+#. encoding="none" var="LINK" 
+#. type: Content of: <ul><li><ul><li>
+msgid "GNU mtools 4.0.31 released"
+msgstr "GNU mtools 4.0.31 lançado"
+
+#. #echo 
+#. encoding="none" var="LINK_CLOSE" 
+#. type: Content of: <ul><li><ul><li>
+msgid "Alain Knaff"
+msgstr "Alain Knaff"
+
+#. type: Content of: <ul><li>
+msgid "<strong>June 17, 2021</strong>"
+msgstr "<strong>17 de junho de 2021</strong>"
+
+#. #set var="LINK" 
+#. value='<a href="//lists.gnu.org/archive/html/info-gnu/2021-06/msg00010.html">' 
+#. #echo 
+#. encoding="none" var="LINK" 
+#. type: Content of: <ul><li><ul><li>
+msgid "GNU mtools 4.0.30 released"
+msgstr "GNU mtools 4.0.30 lançado"
+
+#. #set var="LINK" 
+#. value='<a href="//lists.gnu.org/archive/html/info-gnu/2021-06/msg00009.html">' 
+#. #echo 
+#. encoding="none" var="LINK" 
+#. type: Content of: <ul><li><ul><li>
+msgid "[ANNOUNCE] DejaGnu 1.6.3 released"
+msgstr "[ANÚNCIO] DejaGnu 1.6.3 lançado"
+
+#. #echo 
+#. encoding="none" var="LINK_CLOSE" 
+#. type: Content of: <ul><li><ul><li>
+msgid "Jacob Bachmeyer"
+msgstr "Jacob Bachmeyer"
+
+#. #set var="LINK" 
+#. value='<a href="//lists.gnu.org/archive/html/info-gnu/2021-06/msg00008.html">' 
+#. #echo 
+#. encoding="none" var="LINK" 
+#. type: Content of: <ul><li><ul><li>
+msgid "gdbm-1.20 released [stable]"
+msgstr "gdbm-1.20 lançado [estável]"
+
+#. #echo 
+#. encoding="none" var="LINK_CLOSE" 
+#. type: Content of: <ul><li><ul><li>
+msgid "Sergey Poznyakoff"
+msgstr "Sergey Poznyakoff"
+
+#. type: Content of: <ul><li>
+msgid "<strong>June 15, 2021</strong>"
+msgstr "<strong>15 de junho de 2021</strong>"
+
+#. #set var="LINK" 
+#. value='<a href="//lists.gnu.org/archive/html/info-gnu/2021-06/msg00007.html">' 
+#. #echo 
+#. encoding="none" var="LINK" 
+#. type: Content of: <ul><li><ul><li>
+msgid "Update to GNU and FSF's plan to move IRC channels to Libera.Chat"
+msgstr ""
+"Atualização ao plano do GNU e da FSF de mover os canais de IRC para Libera."
+"Chat"
+
+#. #echo 
+#. encoding="none" var="LINK_CLOSE" 
+#. type: Content of: <ul><li><ul><li>
+msgid "Amin Bandali"
+msgstr "Amin Bandali"
+
+#. #set var="LINK" 
+#. value='<a href="//lists.gnu.org/archive/html/info-gnu/2021-06/msg00006.html">' 
+#. #echo 
+#. encoding="none" var="LINK" 
+#. type: Content of: <ul><li><ul><li>
+msgid "[ANNOUNCE] nano-5.8 is released"
+msgstr "[ANÚNCIO] nano-5.8 foi lançado"
+
+#. #echo 
+#. encoding="none" var="LINK_CLOSE" 
+#. type: Content of: <ul><li><ul><li>
+msgid "Benno Schulenberg"
+msgstr "Benno Schulenberg"
 
 #. type: Content of: <ul><li>
 msgid "<strong>June 11, 2021</strong>"
@@ -28,12 +121,6 @@ msgstr "<strong>11 de junho de 2021</strong>"
 #. type: Content of: <ul><li><ul><li>
 msgid "GNU and FSF move official IRC channels to Libera.Chat network"
 msgstr "GNU e FSF movem os canais de IRC oficiais para a rede Libera.Chat"
-
-#. #echo 
-#. encoding="none" var="LINK_CLOSE" 
-#. type: Content of: <ul><li><ul><li>
-msgid "Amin Bandali"
-msgstr "Amin Bandali"
 
 #. type: Content of: <ul><li>
 msgid "<strong>June 10, 2021</strong>"
@@ -130,12 +217,6 @@ msgstr "<strong>31 de maio de 2021</strong>"
 #. type: Content of: <ul><li><ul><li>
 msgid "GNU mtools 4.0.29 released"
 msgstr "GNU mtools 4.0.29 lançado"
-
-#. #echo 
-#. encoding="none" var="LINK_CLOSE" 
-#. type: Content of: <ul><li><ul><li>
-msgid "Alain Knaff"
-msgstr "Alain Knaff"
 
 #. type: Content of: <ul><li>
 msgid "<strong>May 30, 2021</strong>"
@@ -386,12 +467,6 @@ msgstr "Reuben Thomas"
 #~ msgid "<strong>April 29, 2021</strong>"
 #~ msgstr "<strong>29 de abril de 2021</strong>"
 
-#~ msgid "[ANNOUNCE] nano-5.7 is released"
-#~ msgstr "[ANÚNCIO] nano-5.7 foi lançado"
-
-#~ msgid "Benno Schulenberg"
-#~ msgstr "Benno Schulenberg"
-
 #~ msgid "<strong>April 28, 2021</strong>"
 #~ msgstr "<strong>28 de abril de 2021</strong>"
 
@@ -406,9 +481,6 @@ msgstr "Reuben Thomas"
 
 #~ msgid "dico-2.11 released [stable]"
 #~ msgstr "dico-2.11 lançado [estável]"
-
-#~ msgid "Sergey Poznyakoff"
-#~ msgstr "Sergey Poznyakoff"
 
 #~ msgid "gcide-0.53 released [stable]"
 #~ msgstr "gcide-0.53 lançado [estável]"
@@ -524,9 +596,6 @@ msgstr "Reuben Thomas"
 
 #~ msgid "<strong>March 03, 2021</strong>"
 #~ msgstr "<strong>03 de março de 2021</strong>"
-
-#~ msgid "[ANNOUNCE] nano-5.6.1 is released"
-#~ msgstr "[ANÚNCIO] nano-5.6.1 foi lançado"
 
 #~ msgid "<strong>February 28, 2021</strong>"
 #~ msgstr "<strong>28 de fevereiro de 2021</strong>"
@@ -911,9 +980,6 @@ msgstr "Reuben Thomas"
 
 #~ msgid "<strong>December 31, 2020</strong>"
 #~ msgstr "<strong>31 de dezembro de 2020</strong>"
-
-#~ msgid "wget-1.21 released [stable]"
-#~ msgstr "wget-1.21 lançado [estável]"
 
 #~ msgid "<strong>December 28, 2020</strong>"
 #~ msgstr "<strong>28 de dezembro de 2020</strong>"
