@@ -6,11 +6,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: planetfeeds.html\n"
-"POT-Creation-Date: 2021-06-17 05:56+0000\n"
-"PO-Revision-Date: 2021-06-20 16:06-0300\n"
+"POT-Creation-Date: 2021-06-21 05:56+0000\n"
+"PO-Revision-Date: 2021-06-25 20:04-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
-"Language-Team: Brazilian Portuguese <debian-l10n-portuguese@lists.debian."
-"org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,19 +18,61 @@ msgstr ""
 "X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <p>
-msgid "My internship at the FSF, and the domino effect of thoughts"
-msgstr "Meu estágio na FSF e o efeito dominó de pensamentos"
+msgid "Substitutes now also available from bordeaux.guix.gnu.org"
+msgstr "Substitutos agora também disponíveis em bordeaux.guix.gnu.org"
 
+#.  TRANSLATORS: 
+#. https://guix.gnu.org/blog/2021/substitutes-now-also-available-from-bordeauxguixgnuorg/ 
 #. type: Content of: <p>
 msgid ""
-"Update to the FSF and GNU&#39;s plan to move IRC channels to Libera.Chat"
+": There have been a number of different project operated sources of "
+"substitutes, for the last couple of years the default source of su..."
 msgstr ""
-"Atualização do plano da FSF e do GNU para mover os canais de IRC oficiais "
-"para Libera.Chat"
+": Houve uma série de fontes de substitutos operadas por projeto diferentes, "
+"nos últimos dois anos a fonte padrão de..."
 
 #. type: Content of: <p>
-msgid "Listen to LibrePlanet 2021 audio in your podcast app!"
-msgstr "Ouça ao áudio da LibrePlanet 2021 em seu aplicativo de podcast!"
+msgid "GNU dbm Version 1.20"
+msgstr "GNU dbm versão 1.20"
+
+#.  TRANSLATORS: 
+#. http://savannah.gnu.org/forum/forum.php?forum_id=10011 
+#. type: Content of: <p>
+msgid ""
+": Version 1.20 is available for download. Changes in this version: New "
+"bucket cache The bucket cache support has been rewritten from scratch. The "
+"new code provides for significant..."
+msgstr ""
+": A versão 1.20 está disponível para download. Novo neste lançamento: Novo "
+"cache de bucket O suporte de cache de bucket foi reescrito do zero. O novo "
+"código fornece para..."
+
+#. type: Content of: <p>
+msgid "How to issue a privacy-preserving central bank digital currency"
+msgstr ""
+"Como emitir uma moeda digital para o banco central que preserva a privacidade"
+
+#.  TRANSLATORS: 
+#. https://taler.net/en/news/news/2021-06.html 
+#. type: Content of: <p>
+msgid ""
+": We are happy to announce the publication of our policy brief on\"How to "
+"issue a privacy-preserving central bank digital currenc..."
+msgstr ""
+": Temos o prazer de anunciar a publicação de nosso resumo de política sobre "
+"\"Como emitir uma moeda digital de banco central para..."
+
+#~ msgid "My internship at the FSF, and the domino effect of thoughts"
+#~ msgstr "Meu estágio na FSF e o efeito dominó de pensamentos"
+
+#~ msgid ""
+#~ "Update to the FSF and GNU&#39;s plan to move IRC channels to Libera.Chat"
+#~ msgstr ""
+#~ "Atualização do plano da FSF e do GNU para mover os canais de IRC oficiais "
+#~ "para Libera.Chat"
+
+#~ msgid "Listen to LibrePlanet 2021 audio in your podcast app!"
+#~ msgstr "Ouça ao áudio da LibrePlanet 2021 em seu aplicativo de podcast!"
 
 #~ msgid "Reproducible data processing pipelines"
 #~ msgstr "Pipelines de processamento de dados reproduzíveis"
@@ -2281,9 +2322,6 @@ msgstr "Ouça ao áudio da LibrePlanet 2021 em seu aplicativo de podcast!"
 #~ "GNU e do site principal de arquivamento. Essa versão corrige compilação "
 #~ "em sistemas de 32 bits."
 
-#~ msgid "Version 1.9"
-#~ msgstr "Versão 1.9"
-
 #~ msgid "How hacking threats spurred secret U.S. blacklist"
 #~ msgstr "Como as ameaças de hackers geraram uma lista negra secreta dos EUA"
 
@@ -2511,15 +2549,6 @@ msgstr "Ouça ao áudio da LibrePlanet 2021 em seu aplicativo de podcast!"
 #~ ": A versão 1.32 está disponível para download. Novo neste lançamento: * "
 #~ "Corrige o uso de --checkpoint sem --checkpoint-action explícito * Corrige "
 #~ "extração com a opção -U Veja..."
-
-#~ msgid ""
-#~ ": Version 1.6 is available for download. New in this version: New option "
-#~ "--all (-A) Produce graphs for all global functions in the program. Use "
-#~ "this option if your program contains..."
-#~ msgstr ""
-#~ ": A versão 1.6 está disponível para download. Novo neste lançamento: Nova "
-#~ "opção --all (-A) Produz gráficos para todas as funções globais no "
-#~ "programa. Use essa opção se seu program..."
 
 #~ msgid "RenPyWeb - Ren&#39;Py in your HTML5 web browser"
 #~ msgstr "RenPyWeb - Ren&#39;Py em seu navegador web de HTML5"

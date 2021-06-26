@@ -1,0 +1,142 @@
+# Brazilian Portuguese translation of https://www.gnu.org/links/companies.html
+# Copyright (C) 2021 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: companies.html\n"
+"POT-Creation-Date: 2020-07-01 15:25+0000\n"
+"PO-Revision-Date: 2021-06-20 21:49-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <debian-l10n-portuguese@lists.debian."
+"org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 40.0\n"
+
+#. type: Content of: <title>
+msgid ""
+"Companies that sell computers with GNU/Linux preinstalled - GNU Project - "
+"Free Software Foundation"
+msgstr ""
+"Empresas que vedem computadores com GNU/Linux pré-instalado - Projeto GNU - "
+"Free Software Foundation"
+
+#. type: Content of: <h2>
+msgid ""
+"Companies that sell computers with <abbr title=\"GNU's Not Unix!\">GNU</"
+"abbr>/Linux preinstalled"
+msgstr ""
+"Empresas que vedem computadores com <abbr title=\"GNU não é Unix!\">GNU</"
+"abbr>/Linux pré-instalado"
+
+#. type: Content of: <p>
+msgid ""
+"There are computers capable of running with only free software. These "
+"computers put the user in complete control of per computer and are endorsed "
+"by FSF's Respects Your Freedom (RYF)  certification program. For a list of "
+"companies that sell this type of computers, look at <a href=\"https://fsf."
+"org/ryf\">fsf.org/ryf</a>."
+msgstr ""
+"Existem computadores que funcionam apenas com software livre. Esses "
+"computadores colocam o usuário no controle total de cada computador e são "
+"endossados pelo programa de certificação Respects Your Freedom (RYF) da FSF. "
+"Para obter uma lista de empresas que vendem este tipo de computador, "
+"consulte <a href=\"https://fsf.org/ryf\">fsf.org/ryf</a>."
+
+#. type: Content of: <p>
+msgid ""
+"There are also computers that come pre-installed with a fully free GNU/Linux "
+"operating system but require the use of a proprietary BIOS and if it is an "
+"Intel computer, it might contain Intel ME, which is <a href=\"https://www."
+"fsf.org/blogs/licensing/intel-me-and-why-we-should-get-rid-of-me\">a "
+"backdoor</a>. These computers are not certified by the FSF's Respects Your "
+"Freedom (RYF) certification program. For list of companies that sell this "
+"type of computers, <a href=\"/links/non-ryf.html\">look here</a>."
+msgstr ""
+"Existem também computadores que vêm pré-instalados com um sistema "
+"operacional GNU/Linux totalmente livre, mas exigem o uso de uma BIOS "
+"privativa e, se for um computador Intel, pode conter Intel ME, que é <a href="
+"\"https://www.fsf.org/blogs/licensing/intel-me-and-why-we-should-get-rid-of-"
+"me\">a <em>backdoor</em></a>. Esses computadores não são certificados pelo "
+"programa de certificação Respects Your Freedom (RYF) da FSF. Para obter a "
+"lista das empresas que vendem este tipo de computador, <a href=\"/links/non-"
+"ryf.html\">clique aqui</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas deste site."
+
+#. type: Content of: <div><p>
+msgid ""
+"Copyright &copy; 2014, 2015, 2016, 2017, 2018, 2020 Free Software "
+"Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2014, 2015, 2016, 2017, 2018, 2020 Free Software "
+"Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2021."
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização:"
