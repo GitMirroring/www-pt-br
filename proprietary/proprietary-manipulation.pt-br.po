@@ -1,0 +1,311 @@
+# Brazilian Portuguese translation of https://www.gnu.org/proprietary/proprietary-manipulation.html
+# Copyright (C) 2021 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: proprietary-manipulation.html\n"
+"POT-Creation-Date: 2021-06-09 16:56+0000\n"
+"PO-Revision-Date: 2021-06-26 09:40-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt-br\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. type: Content of: <title>
+msgid "Proprietary Manipulation - GNU Project - Free Software Foundation"
+msgstr "Manipulação privativa - Projeto GNU - Free Software Foundation"
+
+#. type: Content of: <div><a>
+msgid "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+msgstr "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+
+#. type: Attribute 'title' of: <div><a><img>
+msgid "Section contents"
+msgstr "Índice da Seção"
+
+#. type: Attribute 'alt' of: <div><a><img>
+msgid "&nbsp;[Section contents]&nbsp;"
+msgstr "&nbsp;[Índice da Seção]&nbsp;"
+
+#. type: Content of: <div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><p><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><p><a><img>
+msgid "GNU Home"
+msgstr "Página inicial do GNU"
+
+#. type: Content of: <div><p>
+msgid ""
+"</a>&nbsp;/ <a href=\"/proprietary/proprietary.html\">Malware</a>&nbsp;/ By "
+"type&nbsp;/"
+msgstr ""
+"</a>&nbsp;/ <a href=\"/proprietary/proprietary.html\"><em>Malware</em> "
+"privativo</a>&nbsp;/ Por tipo&nbsp;/"
+
+#. type: Content of: <div><h2>
+msgid "Proprietary Manipulation"
+msgstr "Manipulação privativa"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Nonfree (proprietary) software is very often malware (designed to mistreat "
+"the user). Nonfree software is controlled by its developers, which puts them "
+"in a position of power over the users; <a href=\"/philosophy/free-software-"
+"even-more-important.html\">that is the basic injustice</a>. The developers "
+"and manufacturers often exercise that power to the detriment of the users "
+"they ought to serve."
+msgstr ""
+"O software não livre (privativo) é muitas vezes um <em>malware</em> "
+"(projetado para maltratar o usuário). O software não livre é controlado por "
+"seus desenvolvedores, o que os coloca em uma posição de poder sobre os "
+"usuários; <a href=\"/philosophy/free-software-even-more-important.html"
+"\">isso é a injustiça básica</a>. Os desenvolvedores e fabricantes muitas "
+"vezes exercem esse poder em detrimento dos usuários aos quais eles deveriam "
+"servir."
+
+#. type: Content of: <div><div><p>
+msgid "This typically takes the form of malicious functionalities."
+msgstr "Isso geralmente assume a forma de funcionalidades maliciosas."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Manipulation of users is one of these malicious functionalities.  Here are "
+"examples of programs that are designed to do this by taking advantage of "
+"human psychology."
+msgstr ""
+"A manipulação de usuários é uma dessas funcionalidades maliciosas. Aqui "
+"estão alguns exemplos de programas projetados para fazer isso tirando "
+"proveito da psicologia humana."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"We have a special page for <a href=\"/proprietary/proprietary-addictions.html"
+"\">Addictive programs</a>, which also take advantage of human psychology, "
+"but in a much more elaborate and dangerous way."
+msgstr ""
+"Temos uma página especial para <a href=\"/proprietary/proprietary-addictions."
+"html\">Programas viciantes</a>, que também tiram proveito da psicologia "
+"humana, mas de uma forma muito mais elaborada e perigosa."
+
+#. type: Content of: <div><div><div><p>
+msgid ""
+"If you know of an example that ought to be in this page but isn't here, "
+"please write to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a> to inform us. Please include the URL of a trustworthy reference "
+"or two to serve as specific substantiation."
+msgstr ""
+"Se você conhece um exemplo que deveria estar nesta página, mas não está "
+"aqui, por favor, escreva para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a> para nos informar. Por favor, inclua a URL de uma "
+"ou duas referências confiáveis para servir como comprovação específica."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"The Prodigy maths game played in schools at no cost entices students to play "
+"it at home, where <a href=\"https://www.theguardian.com/technology/2021/"
+"feb/19/maths-app-targeting-uk-schools-is-criticised-over-premium-model\"> "
+"the company tries to lure them into paying for a premium subscription</a> in "
+"exchange for mere cosmetic features that, at school, underline the "
+"socioeconomic gap between those who can afford it and those who can't."
+msgstr ""
+"O jogo de matemática Prodigy, jogado gratuitamente nas escolas, incentiva os "
+"alunos a jogá-lo em casa, onde <a href=\"https://www.theguardian.com/"
+"technology/2021/feb/19/maths-app-targeting-uk-schools-is-criticised-over-"
+"premium-model\"> a empresa tenta atraí-los a pagar por uma assinatura "
+"premium</a> em troca de meras características cosméticas que, na escola, "
+"sublinham a lacuna socioeconômica entre aqueles que podem pagar e aqueles "
+"que não podem."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"The strategy of <a href=\"/education/edu-schools.html\">using schools as a "
+"fishing pool for customers</a> is a common practice traditionally adopted by "
+"nonfree software companies."
+msgstr ""
+"A estratégia de <a href=\"/education/edu-schools.html\">usar escolas como "
+"ponto de pesca de clientes </a> é uma prática comum tradicionalmente adotada "
+"por empresas de software não livres."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"BMW is trying to <a href=\"https://www.theverge.com/2020/7/2/21311332/bmw-in-"
+"car-purchase-heated-seats-software-over-the-air-updates\">lock certain "
+"features of its cars, and force people to pay to use part of the car they "
+"already bought</a>. This is done through forced update of the car software "
+"via a radio-operated back door."
+msgstr ""
+"BMW está tentando <a href=\"https://www.theverge.com/2020/7/2/21311332/bmw-"
+"in-car-purchase-heated-seats-software-over-the-air-updates\">bloquear certos "
+"recursos de seus carros e forçar as pessoas a pagar para usar parte do carro "
+"que já compraram</a>. Isso é feito por meio da atualização forçada do "
+"software do carro por meio de uma <em>backdoor</em> operada por rádio."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"The Femm &ldquo;fertility&rdquo; app is secretly a <a href=\"https://www."
+"theguardian.com/world/2019/may/30/revealed-womens-fertility-app-is-funded-by-"
+"anti-abortion-campaigners\"> tool for propaganda</a> by natalist "
+"Christians.  It spreads distrust for contraception."
+msgstr ""
+"O aplicativo de “fertilidade” Femm é secretamente uma <a href=\"https://www."
+"theguardian.com/world/2019/may/30/revealed-womens-fertility-app-is-funded-by-"
+"anti-abortion-campaigners\"> ferramenta de propaganda</a> por cristãos "
+"natalistas. Ele espalha a desconfiança pela contracepção."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid "It snoops on users, too, as you must expect from nonfree programs."
+msgstr ""
+"Ele bisbilhota os usuários também, como você deve esperar de programas não "
+"livres."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"The Jibo robot toys were tethered to the manufacturer's server, and <a href="
+"\"https://www.apnews.com/99c9ec8ebad242ca88178e22c7642648\"> the company "
+"made them all cease to work</a> by shutting down that server."
+msgstr ""
+"Os robôs de brinquedo Jibo foram amarrados ao servidor do fabricante, e <a "
+"href=\"https://www.apnews.com/99c9ec8ebad242ca88178e22c7642648\"> a empresa "
+"fez com que todos parassem de funcionar</a> desligando o servidor."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"The shutdown might ironically be good for their users, since the product was "
+"designed to manipulate people by presenting a phony semblance of emotions, "
+"and was most certainly spying on them."
+msgstr ""
+"O desligamento pode, ironicamente, ser bom para seus usuários, já que o "
+"produto foi projetado para manipular as pessoas, apresentando uma aparência "
+"falsa de emoções, e certamente estava espionando elas."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Tiny Lab Productions, along with online ad businesses run by Google, Twitter "
+"and three other companies are facing a lawsuit <a href=\"https://www.nytimes."
+"com/interactive/2018/09/12/technology/kids-apps-data-privacy-google-twitter."
+"html\">for violating people's privacy by collecting their data from mobile "
+"games and handing over these data to other companies/advertisers</a>."
+msgstr ""
+"A Tiny Lab Productions, junto com empresas de publicidade online "
+"administradas pelo Google, Twitter e três outras empresas estão enfrentando "
+"uma ação judicial <a href=\"https://www.nytimes.com/interactive/2018/09/12/"
+"technology/kids-apps-data-privacy-google-twitter.html\">por violar a "
+"privacidade das pessoas ao coletar seus dados de jogos para celular e "
+"repassar esses dados a outras empresas/anunciantes</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"<a href=\"https://www.theverge.com/2018/8/13/17684660/google-turn-off-"
+"location-history-data\">Google will track people even if people turn off "
+"location history</a>, using Google Maps, weather updates, and browser "
+"searches. Google basically uses any app activity to track people."
+msgstr ""
+"<a href=\"https://www.theverge.com/2018/8/13/17684660/google-turn-off-"
+"location-history-data\">O Google vai rastrear as pessoas mesmo se elas "
+"desativarem o histórico de localização</a>, usando o Google Maps, "
+"atualizações do tempo e pesquisas no navegador. O Google basicamente usa "
+"qualquer atividade do aplicativo para rastrear pessoas."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"&ldquo;Dark patterns&rdquo; are <a href=\"http://www.theverge."
+"com/2013/8/29/4640308/dark-patterns-inside-the-interfaces-designed-to-trick-"
+"you\">user interfaces designed to mislead users, or make option settings "
+"hard to find</a>."
+msgstr ""
+"“Padrões escuros” são <a href=\"http://www.theverge.com/2013/8/29/4640308/"
+"dark-patterns-inside-the-interfaces-designed-to-trick-you\">interfaces de "
+"usuário projetadas para enganar os usuários, ou tornar as configurações de "
+"opções difíceis de encontrar</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"This allows a company such as Apple to say, &ldquo;We allow users to turn "
+"this off&rdquo; while ensuring that few will understand how to actually turn "
+"it off."
+msgstr ""
+"Isso permite que uma empresa como a Apple diga: “Permitimos que os usuários "
+"desativem essa opção” ao mesmo tempo que garante que poucos compreenderão "
+"como realmente desligá-lo."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and contributing translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and contributing "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2019, 2020, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2019, 2020, 2021 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 "
+"International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by/4.0/deed.pt_BR\">Creative Commons Atribuição "
+"4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"A tradução das páginas na seção Proprietary teve a contribuição de:\n"
+"Cassiano Reinert Novais dos Santos <a href=\"mailto:caco@posteo.net\">&lt;"
+"caco@posteo.net&gt;</a> e\n"
+"Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome."
+"org&gt;</a>."
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização:"

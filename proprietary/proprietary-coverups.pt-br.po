@@ -1,0 +1,184 @@
+# Brazilian Portuguese translation of https://www.gnu.org/proprietary/proprietary-coverups.html
+# Copyright (C) 2021 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: proprietary-coverups.html\n"
+"POT-Creation-Date: 2021-01-18 12:56+0000\n"
+"PO-Revision-Date: 2021-06-26 09:40-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt-br\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. type: Content of: <title>
+msgid "Proprietary Coverups - GNU Project - Free Software Foundation"
+msgstr "Encobrimentos privativos - Projeto GNU - Free Software Foundation"
+
+#. type: Content of: <div><a>
+msgid "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+msgstr "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+
+#. type: Attribute 'title' of: <div><a><img>
+msgid "Section contents"
+msgstr "Índice da Seção"
+
+#. type: Attribute 'alt' of: <div><a><img>
+msgid "&nbsp;[Section contents]&nbsp;"
+msgstr "&nbsp;[Índice da Seção]&nbsp;"
+
+#. type: Content of: <div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><p><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><p><a><img>
+msgid "GNU Home"
+msgstr "Página inicial do GNU"
+
+#. type: Content of: <div><p>
+msgid ""
+"</a>&nbsp;/ <a href=\"/proprietary/proprietary.html\">Malware</a>&nbsp;/ By "
+"type&nbsp;/"
+msgstr ""
+"</a>&nbsp;/ <a href=\"/proprietary/proprietary.html\"><em>Malware</em> "
+"privativo</a>&nbsp;/ Por tipo&nbsp;/"
+
+#. type: Content of: <div><h2>
+msgid "Proprietary Coverups"
+msgstr "Encobrimentos privativos"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Nonfree (proprietary) software is very often malware (designed to mistreat "
+"the user). Nonfree software is controlled by its developers, which puts them "
+"in a position of power over the users; <a href=\"/philosophy/free-software-"
+"even-more-important.html\">that is the basic injustice</a>. The developers "
+"and manufacturers often exercise that power to the detriment of the users "
+"they ought to serve."
+msgstr ""
+"O software não livre (privativo) é muitas vezes um <em>malware</em> "
+"(projetado para maltratar o usuário). O software não livre é controlado por "
+"seus desenvolvedores, o que os coloca em uma posição de poder sobre os "
+"usuários; <a href=\"/philosophy/free-software-even-more-important.html"
+"\">isso é a injustiça básica</a>. Os desenvolvedores e fabricantes muitas "
+"vezes exercem esse poder em detrimento dos usuários aos quais eles deveriam "
+"servir."
+
+#. type: Content of: <div><div><p>
+msgid "This typically takes the form of malicious functionalities."
+msgstr "Isso geralmente assume a forma de funcionalidades maliciosas."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"This page lists instances where proprietary software had a bug, and the "
+"developers converted it into a malicious functionality by trying to cover up "
+"the existence of the bug."
+msgstr ""
+"Esta página lista situações em que o software privativo tinha um bug e os "
+"desenvolvedores o converteram em uma funcionalidade maliciosa ao tentar "
+"encobrir a existência do bug."
+
+#. type: Content of: <div><div><div><p>
+msgid ""
+"If you know of an example that ought to be in this page but isn't here, "
+"please write to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a> to inform us. Please include the URL of a trustworthy reference "
+"or two to serve as specific substantiation."
+msgstr ""
+"Se você conhece um exemplo que deveria estar nesta página, mas não está "
+"aqui, por favor, escreva para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a> para nos informar. Por favor, inclua a URL de uma "
+"ou duas referências confiáveis para servir como comprovação específica."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Price Waterhouse Coopers tried to suppress knowledge of a security flaw by "
+"<a href=\"http://www.zdnet.com/article/pwc-sends-security-researchers-cease-"
+"and-desist-letter-instead-of-fixing-security-flaw/\"> making legal threats "
+"against the security company that found it</a>."
+msgstr ""
+"Price Waterhouse Coopers tentou suprimir o conhecimento de uma falha de "
+"segurança <a href=\"http://www.zdnet.com/article/pwc-sends-security-"
+"researchers-cease-and-desist-letter-instead-of-fixing-security-flaw/\"> "
+"fazendo ameaças legais contra a empresa de segurança que a encontrou</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and contributing translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and contributing "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2017-2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2017-2021 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 "
+"International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by/4.0/deed.pt_BR\">Creative Commons Atribuição "
+"4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"A tradução das páginas na seção Proprietary teve a contribuição de:\n"
+"Cassiano Reinert Novais dos Santos <a href=\"mailto:caco@posteo.net\">&lt;"
+"caco@posteo.net&gt;</a> e\n"
+"Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome."
+"org&gt;</a>."
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização:"

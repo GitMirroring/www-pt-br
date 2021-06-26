@@ -1,0 +1,341 @@
+# Brazilian Portuguese translation of https://www.gnu.org/proprietary/proprietary-deception.html
+# Copyright (C) 2021 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: proprietary-deception.html\n"
+"POT-Creation-Date: 2021-01-18 12:56+0000\n"
+"PO-Revision-Date: 2021-06-26 09:40-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt-br\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. type: Content of: <title>
+msgid "Proprietary Deception - GNU Project - Free Software Foundation"
+msgstr "Engano privativo - Projeto GNU - Free Software Foundation"
+
+#. type: Content of: <div><a>
+msgid "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+msgstr "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+
+#. type: Attribute 'title' of: <div><a><img>
+msgid "Section contents"
+msgstr "Índice da Seção"
+
+#. type: Attribute 'alt' of: <div><a><img>
+msgid "&nbsp;[Section contents]&nbsp;"
+msgstr "&nbsp;[Índice da Seção]&nbsp;"
+
+#. type: Content of: <div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><p><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><p><a><img>
+msgid "GNU Home"
+msgstr "Página inicial do GNU"
+
+#. type: Content of: <div><p>
+msgid ""
+"</a>&nbsp;/ <a href=\"/proprietary/proprietary.html\">Malware</a>&nbsp;/ By "
+"type&nbsp;/"
+msgstr ""
+"</a>&nbsp;/ <a href=\"/proprietary/proprietary.html\"><em>Malware</em> "
+"privativo</a>&nbsp;/ Por tipo&nbsp;/"
+
+#. type: Content of: <div><h2>
+msgid "Proprietary Deception"
+msgstr "Engano privativo"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Nonfree (proprietary) software is very often malware (designed to mistreat "
+"the user). Nonfree software is controlled by its developers, which puts them "
+"in a position of power over the users; <a href=\"/philosophy/free-software-"
+"even-more-important.html\">that is the basic injustice</a>. The developers "
+"and manufacturers often exercise that power to the detriment of the users "
+"they ought to serve."
+msgstr ""
+"O software não livre (privativo) é muitas vezes um <em>malware</em> "
+"(projetado para maltratar o usuário). O software não livre é controlado por "
+"seus desenvolvedores, o que os coloca em uma posição de poder sobre os "
+"usuários; <a href=\"/philosophy/free-software-even-more-important.html"
+"\">isso é a injustiça básica</a>. Os desenvolvedores e fabricantes muitas "
+"vezes exercem esse poder em detrimento dos usuários aos quais eles deveriam "
+"servir."
+
+#. type: Content of: <div><div><p>
+msgid "This typically takes the form of malicious functionalities."
+msgstr "Isso geralmente assume a forma de funcionalidades maliciosas."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Deception is a malicious functionality that makes the program dishonest or "
+"conceals trickery. Here are examples of such malicious functionalities. "
+"Cases of deception that involve taking people's money are listed in <a href="
+"\"/proprietary/proprietary-fraud.html#main-heading\"> Proprietary Fraud</a>."
+msgstr ""
+"Engano é uma funcionalidade maliciosa que torna o programa desonesto ou "
+"oculta truques. Aqui estão alguns exemplos de tais funcionalidades "
+"maliciosas. Os casos de engano que envolvem tirar o dinheiro das pessoas "
+"estão listados em <a href=\"/proprietary/proprietary-fraud.html#main-heading"
+"\"> Fraude privativa</a>."
+
+#. type: Content of: <div><div><div><p>
+msgid ""
+"If you know of an example that ought to be in this page but isn't here, "
+"please write to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a> to inform us. Please include the URL of a trustworthy reference "
+"or two to serve as specific substantiation."
+msgstr ""
+"Se você conhece um exemplo que deveria estar nesta página, mas não está "
+"aqui, por favor, escreva para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a> para nos informar. Por favor, inclua a URL de uma "
+"ou duas referências confiáveis para servir como comprovação específica."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"HP tricked users into installing a mischievous update in their printers that "
+"<a href=\"https://www.eff.org/deeplinks/2020/11/ink-stained-wretches-battle-"
+"soul-digital-freedom-taking-place-inside-your-printer\">made the devices "
+"reject all third-party ink cartridges</a>."
+msgstr ""
+"A HP enganou os usuários para que instalassem uma atualização maliciosa em "
+"suas impressoras que <a href=\"https://www.eff.org/deeplinks/2020/11/ink-"
+"stained-wretches-battle-soul-digital-freedom-taking-place-inside-your-printer"
+"\">fez com que os dispositivos rejeitassem todos os cartuchos de tinta de "
+"terceiros</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Many Android apps fool their users by asking them to decide what permissions "
+"to give the program, and then <a href=\"https://nakedsecurity.sophos."
+"com/2019/07/10/android-apps-sidestepping-permissions-to-access-sensitive-"
+"data/\"> bypassing these permissions</a>."
+msgstr ""
+"Muitos aplicativos Android enganam seus usuários pedindo que eles decidam "
+"quais permissões dar ao programa e, em seguida, <a href=\"https://"
+"nakedsecurity.sophos.com/2019/07/10/android-apps-sidestepping-permissions-to-"
+"access-sensitive-data/\"> ignorando essas permissões</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"The Android system is supposed to prevent data leaks by running apps in "
+"isolated sandboxes, but developers have found ways to access the data by "
+"other means, and there is nothing the user can do to stop them from doing "
+"so, since both the system and the apps are nonfree."
+msgstr ""
+"O sistema Android deve impedir o vazamento de dados executando aplicativos "
+"em caixas de proteção isoladas, mas os desenvolvedores encontraram maneiras "
+"de acessar os dados por outros meios, e não há nada que o usuário possa "
+"fazer para impedi-lo, pois o sistema e o os aplicativos são não livres."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Volkswagen programmed its car engine computers to <a href=\"https://www."
+"petri.com/volkswagen-used-software-to-cheat-on-emissions\"> detect the "
+"Environmental Protection Agency's emission tests</a>, and run dirty the rest "
+"of the time. In real driving, the cars exceeded emissions standards by a "
+"factor of up to 35."
+msgstr ""
+"A Volkswagen programou seus computadores com motor de carro para <a href="
+"\"https://www.petri.com/volkswagen-used-software-to-cheat-on-emissions\"> "
+"detectar os testes de emissões da Agência de Proteção Ambiental</a>, e "
+"funcionar incorretamente o resto do tempo. Na condução real, os carros "
+"superaram os padrões de emissão em um fator de até 35."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Using free software would not have stopped Volkswagen from programming it "
+"this way, but would have made it harder to conceal, and given the users the "
+"possibility of correcting the deception."
+msgstr ""
+"Usar o software livre não teria impedido a Volkswagen de programá-lo dessa "
+"maneira, mas teria dificultado a ocultação e dado aos usuários a "
+"possibilidade de corrigir o engano."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Former executives of Volkswagen are being <a href=\"https://www.theguardian."
+"com/business/2019/apr/15/former-head-of-volkswagen-could-face-10-years-in-"
+"prison\"> sued over this fraud</a>."
+msgstr ""
+"Ex-executivos da Volkswagen estão sendo <a href=\"https://www.theguardian."
+"com/business/2019/apr/15/former-head-of-volkswagen-could-face-10-years-in-"
+"prison\"> processados por esta fraude</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"OfficeMax cheated customers by <a href=\"https://arstechnica.com/tech-"
+"policy/2019/03/office-depot-tricked-people-into-buying-pc-support-with-fake-"
+"virus-scans/\"> using proprietary &ldquo;PC Health Check&rdquo; software</a> "
+"rigged to give false results, deceiving the customer into thinking per "
+"computer was infected and buy unneeded support services from the company."
+msgstr ""
+"OfficeMax enganou os clientes <a href=\"https://arstechnica.com/tech-"
+"policy/2019/03/office-depot-tricked-people-into-buying-pc-support-with-fake-"
+"virus-scans/\"> usando software privativo de “Verificação de Saúde do PC”</"
+"a> preparado para dar resultados falsos, enganando o cliente a pensar que o "
+"computador estava infectado e comprar serviços de suporte desnecessários da "
+"empresa."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Twenty nine &ldquo;beauty camera&rdquo; apps that used to be on Google Play "
+"had one or more malicious functionalities, such as <a href=\"https://www."
+"teleanalysis.com/these-29-beauty-camera-apps-steal-private-photo/\"> "
+"stealing users' photos instead of &ldquo;beautifying&rdquo; them</a>, "
+"pushing unwanted and often malicious ads on users, and redirecting them to "
+"phishing sites that stole their credentials. Furthermore, the user interface "
+"of most of them was designed to make uninstallation difficult."
+msgstr ""
+"Vinte e nove aplicativos de “câmera de beleza” que costumavam estar no "
+"Google Play tinham uma ou mais funcionalidades maliciosas, como <a href="
+"\"https://www.teleanalysis.com/these-29-beauty-camera-apps-steal-private-"
+"photo/\"> roubar fotos dos usuários em vez de “embelezá-las”</a>, empurrando "
+"anúncios indesejados e muitas vezes maliciosos para os usuários, e "
+"redirecionando-os para sites de <i lang=\"en\">phishing</i> que roubaram "
+"suas credenciais. Além disso, a interface do usuário da maioria deles foi "
+"projetada para dificultar a desinstalação."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Users should of course uninstall these dangerous apps if they haven't yet, "
+"but they should also stay away from nonfree apps in general. <em>All</em> "
+"nonfree apps carry a potential risk because there is no easy way of knowing "
+"what they really do."
+msgstr ""
+"Os usuários devem, é claro, desinstalar esses aplicativos perigosos se ainda "
+"não o fizeram, mas eles também devem ficar longe de aplicativos não livres "
+"em geral. <em>Todos</em> os aplicativos não livres apresentam um risco "
+"potencial, porque não há uma maneira fácil de saber o que eles realmente "
+"fazem."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"<a href=\"http://jalopnik.com/america-figured-out-a-new-way-audi-cheated-on-"
+"emissions-1788630969\"> Audi's proprietary software used a simple method to "
+"cheat on emissions tests</a>: to activate a special low-emission "
+"gearshifting mode until the first time the car made a turn."
+msgstr ""
+"<a href=\"http://jalopnik.com/america-figured-out-a-new-way-audi-cheated-on-"
+"emissions-1788630969\"> O software privativo da Audi usava um método simples "
+"para trapacear nos testes de emissões</a>: ativar um modo especial de troca "
+"de marcha de baixa emissão até a primeira vez que o carro fizesse uma curva."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Many proprietary programs secretly <a href=\"https://www.theregister.co."
+"uk/2016/08/05/payperinstall_study/\">install other proprietary programs that "
+"the users don't want</a>."
+msgstr ""
+"Muitos programas privativos secretamente <a href=\"https://www.theregister."
+"co.uk/2016/08/05/payperinstall_study/\"> instalam outros programas "
+"privativos que os usuários não querem</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"The proprietor of the Pokémon Go game <a href=\"https://www.theguardian.com/"
+"technology/2016/jul/14/pokemon-go-sponsored-locations-restaurants-business"
+"\"> invites restaurants and other businesses to pay to have the game lure "
+"people there</a>."
+msgstr ""
+"O dono do jogo Pokémon Go <a href=\"https://www.theguardian.com/"
+"technology/2016/jul/14/pokemon-go-sponsored-locations-restaurants-business"
+"\"> convida restaurantes e outras empresas a pagar para que o jogo atraia as "
+"pessoas até lá</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"A top-ranking proprietary Instagram client promising to tell users who's "
+"been watching their pictures was in reality <a href=\"http://www.theguardian."
+"com/technology/2015/nov/11/top-ranking-free-app-stole-instagram-passwords"
+"\">stealing their credentials</a>, advertising itself on their feed, and "
+"posting images without their consent."
+msgstr ""
+"Um cliente privativo popular do Instagram prometendo dizer aos usuários quem "
+"estava assistindo suas fotos estava, na realidade, <a href=\"http://www."
+"theguardian.com/technology/2015/nov/11/top-ranking-free-app-stole-instagram-"
+"passwords\">roubando suas credenciais</a>, anunciando a si mesmo em seu feed "
+"e publicando imagens sem seu consentimento."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and contributing translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and contributing "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2015-2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2015-2021 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 "
+"International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by/4.0/deed.pt_BR\">Creative Commons Atribuição "
+"4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"A tradução das páginas na seção Proprietary teve a contribuição de:\n"
+"Cassiano Reinert Novais dos Santos <a href=\"mailto:caco@posteo.net\">&lt;"
+"caco@posteo.net&gt;</a> e\n"
+"Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome."
+"org&gt;</a>."
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização:"

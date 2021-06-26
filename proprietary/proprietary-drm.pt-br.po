@@ -1,0 +1,737 @@
+# Brazilian Portuguese translation of https://www.gnu.org/proprietary/proprietary-drm.html
+# Copyright (C) 2021 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: proprietary-drm.html\n"
+"POT-Creation-Date: 2021-06-08 06:25+0000\n"
+"PO-Revision-Date: 2021-06-26 09:40-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt-br\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. type: Content of: <title>
+msgid "Proprietary DRM - GNU Project - Free Software Foundation"
+msgstr "DRM privativo - Projeto GNU - Free Software Foundation"
+
+#. type: Content of: <div><a>
+msgid "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+msgstr "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+
+#. type: Attribute 'title' of: <div><a><img>
+msgid "Section contents"
+msgstr "Índice da Seção"
+
+#. type: Attribute 'alt' of: <div><a><img>
+msgid "&nbsp;[Section contents]&nbsp;"
+msgstr "&nbsp;[Índice da Seção]&nbsp;"
+
+#. type: Content of: <div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><p><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><p><a><img>
+msgid "GNU Home"
+msgstr "Página inicial do GNU"
+
+#. type: Content of: <div><p>
+msgid ""
+"</a>&nbsp;/ <a href=\"/proprietary/proprietary.html\">Malware</a>&nbsp;/ By "
+"type&nbsp;/"
+msgstr ""
+"</a>&nbsp;/ <a href=\"/proprietary/proprietary.html\"><em>Malware</em> "
+"privativo</a>&nbsp;/ Por tipo&nbsp;/"
+
+#. type: Content of: <div><h2>
+msgid "Proprietary DRM"
+msgstr "DRM privativo"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Nonfree (proprietary) software is very often malware (designed to mistreat "
+"the user). Nonfree software is controlled by its developers, which puts them "
+"in a position of power over the users; <a href=\"/philosophy/free-software-"
+"even-more-important.html\">that is the basic injustice</a>. The developers "
+"and manufacturers often exercise that power to the detriment of the users "
+"they ought to serve."
+msgstr ""
+"O software não livre (privativo) é muitas vezes um <em>malware</em> "
+"(projetado para maltratar o usuário). O software não livre é controlado por "
+"seus desenvolvedores, o que os coloca em uma posição de poder sobre os "
+"usuários; <a href=\"/philosophy/free-software-even-more-important.html"
+"\">isso é a injustiça básica</a>. Os desenvolvedores e fabricantes muitas "
+"vezes exercem esse poder em detrimento dos usuários aos quais eles deveriam "
+"servir."
+
+#. type: Content of: <div><div><p>
+msgid "This typically takes the form of malicious functionalities."
+msgstr "Isso geralmente assume a forma de funcionalidades maliciosas."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Here are examples of proprietary programs and systems that implement "
+"<em>digital restrictions management</em> (DRM): functionalities designed "
+"intentionally to restrict what users can do.  These functionalities are also "
+"called <em>digital handcuffs</em>."
+msgstr ""
+"Aqui estão alguns exemplos de programas e sistemas privativos que "
+"implementam <em>gestão digital de restrições</em> (DRM): funcionalidades "
+"projetadas intencionalmente para restringir o que os usuários podem fazer. "
+"Essas funcionalidades também são chamadas de <em>algemas digitais</em>."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"DRM is reinforced by <a href=\"http://www.theguardian.com/technology/"
+"blog/2014/feb/05/digital-rights-management\"> censorship laws</a> that ban "
+"software (and hardware) that can break the handcuffs.  Instead of these "
+"laws, DRM itself ought to be illegal.  Please support our campaign to <a "
+"href=\"http://DefectiveByDesign.org/\">abolish DRM</a>."
+msgstr ""
+"O DRM é reforçado pelas <a href=\"http://www.theguardian.com/technology/"
+"blog/2014/feb/05/digital-rights-management\"> leis de censura</a> que "
+"proíbem software (e hardware) que pode quebrar as algemas. Em vez dessas "
+"leis, o DRM em si deveria ser ilegal. Apoie nossa campanha para <a href="
+"\"http://DefectiveByDesign.org/\">abolir o DRM</a>."
+
+#. type: Content of: <div><div><div><p>
+msgid ""
+"If you know of an example that ought to be in this page but isn't here, "
+"please write to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a> to inform us. Please include the URL of a trustworthy reference "
+"or two to serve as specific substantiation."
+msgstr ""
+"Se você conhece um exemplo que deveria estar nesta página, mas não está "
+"aqui, por favor, escreva para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a> para nos informar. Por favor, inclua a URL de uma "
+"ou duas referências confiáveis para servir como comprovação específica."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"<a href=\"https://www.theguardian.com/technology/2021/may/30/gadgets-have-"
+"stopped-working-together-interoperability-apple\">Apple is systematically "
+"undermining interoperability</a>. At the hardware level, it does this via "
+"nonstandard plugs, buses and networks. At the software level, it does this "
+"by not letting the user have any data except within one app."
+msgstr ""
+"<a href=\"https://www.theguardian.com/technology/2021/may/30/gadgets-have-"
+"stopped-working-together-interoperability-apple\">A Apple está minando "
+"sistematicamente a interoperabilidade</a>. No nível do hardware, ele faz "
+"isso por meio de plugues, barramentos e redes não padrão. No nível do "
+"software, ele não permite que o usuário tenha nenhum dado, exceto dentro de "
+"um aplicativo."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Amazon's monopoly and DRM is <a href=\"https://www.washingtonpost.com/"
+"technology/2021/03/10/amazon-library-ebook-monopoly/\">stopping public "
+"libraries from lending e-books and audiobooks</a>. Amazon became powerful in "
+"e-book world by <a href=\"/philosophy/why-call-it-the-swindle.html"
+"\">Swindle</a>, and is now misusing its power and violates people's rights "
+"using <a href=\"https://www.defectivebydesign.org\">Digital Restrictions "
+"Management</a>."
+msgstr ""
+"O monopólio da Amazon e DRM está <a href=\"https://www.washingtonpost.com/"
+"technology/2021/03/10/amazon-library-ebook-monopoly/\">impedindo as "
+"bibliotecas públicas de emprestar e-books e audiolivros</a>. A Amazon se "
+"tornou poderosa no mundo dos e-books com o <a href=\"/philosophy/why-call-it-"
+"the-swindle.html\">Swindle</a> e agora está fazendo mau uso de seu poder e "
+"viola os direitos das pessoas usando <a href=\"https://www.defectivebydesign."
+"org\">Gestão Digital de Restrições</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"The article is written in a way that endorses DRM in general, which is "
+"unacceptable. <a href=\"/proprietary/proprietary-drm.html\">DRM is an "
+"injustice to people</a>."
+msgstr ""
+"O artigo foi escrito de uma forma que endossa o DRM em geral, o que é "
+"inaceitável. <a href=\"/proprietary/proprietary-drm.html\">DRM é uma "
+"injustiça para as pessoas</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Microsoft is <a href=\"https://www.slashgear.com/windows-10-users-are-grumpy-"
+"over-forced-updates-and-unwanted-apps-18643135/\">forcing Windows users</a> "
+"to <a href=\"https://support.microsoft.com/en-us/windows/manage-updates-in-"
+"windows-10-643e9ea7-3cf6-7da6-a25c-95d4f7f099fe\">install upgrades it "
+"pushes</a> using <a href=\"/proprietary/proprietary-back-doors.html#windows-"
+"update\">its universal back doors</a>. These upgrades can do various harms "
+"to users such as restricting computers from some functions and/or forcing "
+"users to defenselessly do whatever Microsoft tells them to do."
+msgstr ""
+"Microsoft está <a href=\"https://www.slashgear.com/windows-10-users-are-"
+"grumpy-over-forced-updates-and-unwanted-apps-18643135/\">forçando usuários "
+"do Windows</a> a <a href=\"https://support.microsoft.com/en-us/windows/"
+"manage-updates-in-windows-10-643e9ea7-3cf6-7da6-a25c-95d4f7f099fe\">instalar "
+"atualizações que são empurradas</a> usando <a href=\"/proprietary/"
+"proprietary-back-doors.html#windows-update\">seus <em>backdoors</em> "
+"universais</a>. Essas atualizações podem causar vários danos aos usuários, "
+"como restringir algumas funções dos computadores e/ou forçar os usuários a "
+"fazerem, sem qualquer defesa, tudo o que a Microsoft lhes diz para fazer."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Apple is putting DRM on iPhone batteries, and the system proprietary "
+"software <a href=\"https://www.vice.com/en/article/59nz3k/apple-is-locking-"
+"batteries-to-specific-iphones-a-nightmare-for-diy-repair\">turns off certain "
+"features when batteries are replaced other than by Apple.</a>"
+msgstr ""
+"A Apple está inserindo DRM em baterias do iPhone e o software de sistema "
+"privativo <a href=\"https://www.vice.com/en_us/article/59nz3k/apple-is-"
+"locking-batteries-to-specific-iphones-a-nightmare-for-diy-repair\">desliga "
+"certos recursos quando as baterias são substituídas por outra além da Apple."
+"</a>"
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Ebooks &ldquo;bought&rdquo; from Microsoft's store check that their DRM is "
+"valid by connecting to the store every time their &ldquo;owner&rdquo; wants "
+"to read them. Microsoft is going to close this store, <a href=\"https://www."
+"bbc.com/news/technology-47810367\"> bricking all DRM'ed ebooks it has ever "
+"&ldquo;sold&rdquo;</a>. (The article additionally highlights the pitfalls of "
+"DRM.)"
+msgstr ""
+"E-books “comprados” da loja da Microsoft verificam se seu DRM é válido "
+"conectando-se à loja toda vez que o “dono” quer lê-los. A Microsoft fechará "
+"esta loja, <a href=\"https://www.bbc.com/news/technology-47810367\"> "
+"inutilizando todos os e-books sob DRM que já “vendeu”</a>. (O artigo também "
+"destaca as armadilhas do DRM.)"
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"This is another proof that a DRM-encumbered product doesn't belong to the "
+"person who bought it. Microsoft said it will refund customers, but this is "
+"no excuse for selling them restricted books."
+msgstr ""
+"Esta é outra prova de que um produto com DRM não pertence à pessoa que o "
+"comprou. A Microsoft disse que reembolsará os clientes, mas isso não é "
+"desculpa para vendê-los livros restritos."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"The HP <a href=\"https://boingboing.net/2019/02/08/inkjet-dystopias.html\"> "
+"&ldquo;ink subscription&rdquo; cartridges have DRM that constantly "
+"communicates with HP servers</a> to make sure the user is still paying for "
+"the subscription, and hasn't printed more pages than were paid for."
+msgstr ""
+"Os <a href=\"https://boingboing.net/2019/02/08/inkjet-dystopias.html\"> "
+"cartuchos de “assinatura de tinta” têm DRM que se comunica constantemente "
+"com os servidores HP</a> para garantir que o usuário ainda esteja pagando "
+"pela assinatura e não imprima mais páginas do que o pago."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Even though the ink subscription program may be cheaper in some specific "
+"cases, it spies on users, and involves totally unacceptable restrictions in "
+"the use of ink cartridges that would otherwise be in working order."
+msgstr ""
+"Mesmo que o programa de assinatura de tinta possa ser mais barato em alguns "
+"casos específicos, ela espiona os usuários e envolve restrições totalmente "
+"inaceitáveis no uso de cartuchos de tinta que, de outra forma, estariam "
+"funcionando."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Printer manufacturers are very innovative&mdash;at blocking the use of "
+"independent replacement ink cartridges. Their &ldquo;security "
+"upgrades&rdquo; occasionally impose new forms of cartridge DRM. <a href="
+"\"https://www.vice.com/en/article/pa98ab/printer-makers-are-crippling-cheap-"
+"ink-cartridges-via-bogus-security-updates\"> HP and Epson have done this</a>."
+msgstr ""
+"Os fabricantes de impressoras são muito inovadores – ao bloquear o uso de "
+"cartuchos de tinta substitutos independentes. Suas “atualizações de "
+"segurança” ocasionalmente impõem novas formas de DRM de cartucho. <a href="
+"\"https://www.vice.com/en/article/pa98ab/printer-makers-are-crippling-cheap-"
+"ink-cartridges-via-bogus-security-updates\"> A HP e a Epson fizeram isso</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"The game Metal Gear Rising for MacOS was tethered to a server.  The company "
+"<a href=\"http://www.gamerevolution.com/news/400087-metal-gear-rising-mac-"
+"unplayable-drm\"> shut down the server, and all copies stopped working</a>."
+msgstr ""
+"O jogo Metal Gear Rising para MacOS foi amarrado a um servidor. A empresa <a "
+"href=\"http://www.gamerevolution.com/news/400087-metal-gear-rising-mac-"
+"unplayable-drm\"> desligou o servidor e todas as cópias pararam de "
+"funcionar</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"The DMCA and the EU Copyright Directive make it <a href=\"https://boingboing."
+"net/2017/11/25/la-la-la-cant-hear-you.html\"> illegal to study how iOS "
+"cr&hellip;apps spy on users</a>, because this would require circumventing "
+"the iOS DRM."
+msgstr ""
+"A DMCA e a Diretiva de Direitos Autorais da UE tornam <a href=\"https://"
+"boingboing.net/2017/11/25/la-la-la-cant-hear-you.html\"> ilegal estudar como "
+"aplicativos do iOS espionam os usuários</a>, pois isso exigiria contornar o "
+"DRM do iOS."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Google now allows Android apps to detect whether a device has been rooted, "
+"<a href=\"http://www.androidpolice.com/2017/05/13/netflix-confirms-blocking-"
+"rootedunlocked-devices-app-still-working-now/\">and refuse to install if so</"
+"a>. The Netflix app uses this ability to enforce DRM by refusing to install "
+"on rooted Android devices."
+msgstr ""
+"O Google agora permite que aplicativos Android detectem se foi feito root em "
+"um dispositivo, <a href=\"http://www.androidpolice.com/2017/05/13/netflix-"
+"confirms-blocking-rootedunlocked-devices-app-still-working-now/\">e se "
+"recusa a instalar se for o caso</a>. O aplicativo Netflix usa essa "
+"capacidade para aplicar DRM, recusando-se a instalar em dispositivos Android "
+"com root."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Update: Google <i>intentionally</i> changed Android so that apps <a href="
+"\"https://torrentfreak.com/netflix-use-of-google-drm-means-rooted-android-"
+"devices-are-banned-170515/\">can detect rooted devices and refuse to run on "
+"them</a>. The Netflix app is proprietary malware, and one shouldn't use it. "
+"However, that does not make what Google has done any less wrong."
+msgstr ""
+"Atualização: o Google mudou <i>intencionalmente</i> o Android para que os "
+"aplicativos <a href=\"https://torrentfreak.com/netflix-use-of-google-drm-"
+"means-rooted-android-devices-are-banned-170515/\">possam detectar "
+"dispositivos com acesso root e se recusar a executá-los</a>. O aplicativo "
+"Netflix é um <em>malware</em> privativo e não deve ser usado. No entanto, "
+"isso não torna o que o Google fez menos errado."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"<a href=\"https://itstillworks.com/kindle-drm-17841.html\"> The Amazon "
+"Kindle has DRM</a>.  That article is flawed in that it fails to treat DRM as "
+"an ethical question; it takes for granted that whatever Amazon might do to "
+"its users is legitimate.  It refers to DRM as digital &ldquo;rights&rdquo; "
+"management, which is the spin term used to promote DRM.  Nonetheless it "
+"serves as a reference for the facts."
+msgstr ""
+"<a href=\"https://itstillworks.com/kindle-drm-17841.html\"> O Amazon Kindle "
+"tem DRM</a>. Esse artigo tem falhas por não tratar o DRM como uma questão "
+"ética; pressupõe que tudo o que a Amazon possa fazer aos seus usuários é "
+"legítimo. Refere-se ao DRM como gestão digital de “direitos”, que é o termo "
+"usado para promover o DRM. Mesmo assim, serve de referência para os fatos."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"We refer to that product as the <a href=\"/philosophy/why-call-it-the-"
+"swindle.html\"> Amazon Swindle</a> because of this and <a href=\"/philosophy/"
+"ebooks.html\"> other malicious functionalities</a>."
+msgstr ""
+"Nós nos referimos a esse produto como <a href=\"/philosophy/why-call-it-the-"
+"swindle.html\"> Amazon Swindle</a> por causa disso e <a href=\"/philosophy/"
+"ebooks.html\"> outras funcionalidades maliciosas</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"The iPhone 7 contains DRM specifically designed to <a href=\"https://www."
+"vice.com/en/article/kbjm8e/iphone-7-home-button-unreplaceable-repair-"
+"software-lock\"> brick it if an &ldquo;unauthorized&rdquo; repair shop fixes "
+"it</a>.  &ldquo;Unauthorized&rdquo; essentially means anyone besides Apple."
+msgstr ""
+"O iPhone 7 contém DRM especificamente projetado para <a href=\"https://www."
+"vice.com/en/article/kbjm8e/iphone-7-home-button-unreplaceable-repair-"
+"software-lock\"> transformá-lo em um tijolo se uma loja de reparos “não "
+"autorizada” consertá-lo</a>. “Não autorizada” essencialmente significa "
+"qualquer pessoa além da Apple."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"<small>(The article uses the term &ldquo;lock&rdquo; to describe the DRM, "
+"but we prefer to use the term <a href=\"/philosophy/words-to-avoid."
+"html#DigitalLocks\"> digital handcuffs</a>.)</small>"
+msgstr ""
+"<small>(O artigo usa o termo <i lang=\"en\">“lock”</i> (cadeado) para "
+"descrever o DRM, mas preferimos usar o termo <a href=\"/philosophy/words-to-"
+"avoid.html#DigitalLocks\"> algemas digitais</a>.)</small>"
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"DRM-restricted files can be used to <a href=\"https://yro.slashdot.org/"
+"story/17/02/02/231229/windows-drm-protected-files-used-to-decloak-tor-"
+"browser-users\"> identify people browsing through Tor</a>. The vulnerability "
+"exists only if you use Windows."
+msgstr ""
+"Arquivos com restrição de DRM podem ser usados para <a href=\"https://yro."
+"slashdot.org/story/17/02/02/231229/windows-drm-protected-files-used-to-"
+"decloak-tor-browser-users\"> identificar as pessoas que navegam com Tor</a>. "
+"A vulnerabilidade existe apenas se você usar o Windows."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Chrome <a href=\"http://boingboing.net/2017/01/30/google-quietly-makes-"
+"optiona.html\">implements DRM</a>. So does Chromium, through nonfree "
+"software that is effectively part of it."
+msgstr ""
+"Chrome <a href=\"http://boingboing.net/2017/01/30/google-quietly-makes-"
+"optiona.html\"> implementa DRM</a>. O mesmo ocorre com o Chromium, por meio "
+"de software não livre que efetivamente faz parte dele."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"<a href=\"https://bugs.chromium.org/p/chromium/issues/detail_ezt?"
+"id=686430\">More information</a>."
+msgstr ""
+"<a href=\"https://bugs.chromium.org/p/chromium/issues/detail_ezt?"
+"id=686430\">Mais informações</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"HP's firmware downgrade <a href=\"https://www.theguardian.com/"
+"technology/2016/sep/20/hp-inkjet-printers-unofficial-cartridges-software-"
+"update\">imposed DRM on some printers, which now refuse to function with "
+"third-party ink cartridges</a>."
+msgstr ""
+"Um <i lang=\"en\">downgrade</i> de firmware da HP <a href=\"https://www."
+"theguardian.com/technology/2016/sep/20/hp-inkjet-printers-unofficial-"
+"cartridges-software-update\">impôs DRM a algumas impressoras, que agora "
+"recusam para funcionar com cartuchos de tinta de terceiros</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Oculus Rift games now have <a href=\"https://www.vice.com/en/article/vv77ea/"
+"new-oculus-drm-cross-platform\"> DRM meant to prevent running them on other "
+"systems</a>."
+msgstr ""
+"Os jogos Oculus Rift agora têm <a href=\"https://www.vice.com/en/article/"
+"vv77ea/new-oculus-drm-cross-platform\"> DRM destinado a impedir sua execução "
+"em outros sistemas</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"The <a href=\"http://michaelweinberg.org/post/137045828005/free-the-cube\"> "
+"&ldquo;Cube&rdquo; 3D printer was designed with DRM</a>: it won't accept "
+"third-party printing materials.  It is the Keurig of printers.  Now it is "
+"being discontinued, which means that eventually authorized materials won't "
+"be available and the printers may become unusable."
+msgstr ""
+"<a href=\"http://michaelweinberg.org/post/137045828005/free-the-cube\"> A "
+"impressora 3D “Cube” foi projetada com DRM</a>: ela não aceita materiais de "
+"impressão de terceiros. É o Keurig das impressoras. Agora ela está sendo "
+"descontinuada, o que significa que eventualmente materiais autorizados não "
+"estarão disponíveis e as impressoras podem ficar inutilizáveis."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"With a <a href=\"http://www.fsf.org/resources/hw/endorsement/aleph-objects"
+"\"> printer that gets the Respects Your Freedom</a>, this problem would not "
+"even be a remote possibility."
+msgstr ""
+"Com uma <a href=\"http://www.fsf.org/resources/hw/endorsement/aleph-objects"
+"\"> impressora que obtém a certificação Respects Your Freedom</a>, esse "
+"problema não seria nem mesmo uma possibilidade remota."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"How pitiful that the author of that article says that there was &ldquo;"
+"nothing wrong&rdquo; with designing the device to restrict users in the "
+"first place.  This is like putting a &ldquo;cheat me and mistreat me&rdquo; "
+"sign on your chest.  We should know better: we should condemn all companies "
+"that take advantage of people like him.  Indeed, it is the acceptance of "
+"their unjust practice that teaches people to be doormats."
+msgstr ""
+"É lamentável que o autor daquele artigo diga que não havia “nada de errado” "
+"com o design do dispositivo em restringir os usuários em primeiro lugar. "
+"Isso é como colocar um aviso “me engane e me maltrate” no seu peito. Devemos "
+"saber melhor: devemos condenar todas as empresas que se aproveitam de "
+"pessoas como ele. Na verdade, é a aceitação de sua prática injusta que "
+"ensina as pessoas a serem capachos."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"<a href=\"https://www.vice.com/en/article/bmvxp4/switzerland-wants-a-single-"
+"universal-phone-charger-by-2017\"> Apple uses DRM software to prevent people "
+"from charging an iThing with a generic USB cable</a>."
+msgstr ""
+"<a href=\"https://www.vice.com/en/article/bmvxp4/switzerland-wants-a-single-"
+"universal-phone-charger-by-2017\"> A Apple usa software com DRM para evitar "
+"que as pessoas carreguem uma iCoisa com um cabo USB genérico</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Philips &ldquo;smart&rdquo; lightbulbs had initially been designed to "
+"interact with other companies' smart light bulbs, but <a href=\"https://www."
+"techdirt.com/articles/20151214/07452133070/lightbulb-drm-philips-locks-"
+"purchasers-out-third-party-bulbs-with-firmware-update.shtml\"> later the "
+"company updated the firmware to disallow interoperability</a>."
+msgstr ""
+"Lâmpadas “inteligentes” da Philips foram inicialmente projetadas para "
+"interagir com lâmpadas inteligentes de outras empresas, mas <a href="
+"\"https://www.techdirt.com/articles/20151214/07452133070/lightbulb-drm-"
+"philips-locks-purchasers-out-third-party-bulbs-with-firmware-update.shtml\"> "
+"posteriormente, a empresa atualizou o firmware para impedir a "
+"interoperabilidade</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"If a product is &ldquo;smart&rdquo;, and you didn't build it, it is cleverly "
+"serving its manufacturer <em>against you</em>."
+msgstr ""
+"Se um produto for “inteligente” e você não o construiu, ele está servindo de "
+"maneira inteligente ao fabricante <em>contra você</em>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"The Netflix Android app <a href=\"http://torrentfreak.com/netflix-cracks-"
+"down-on-vpn-and-proxy-pirates-150103/\"> forces the use of Google DNS</a>. "
+"This is one of the methods that Netflix uses to enforce the geolocation "
+"restrictions dictated by the movie studios."
+msgstr ""
+"O aplicativo Netflix para Android <a href=\"http://torrentfreak.com/netflix-"
+"cracks-down-on-vpn-and-proxy-pirates-150103/\"> força o uso do DNS do "
+"Google</a>. Este é um dos métodos que a Netflix usa para fazer cumprir as "
+"restrições de geolocalização ditadas pelos estúdios de cinema."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Adobe made &ldquo;Digital Editions,&rdquo; the e-reader used by most US "
+"libraries, spy on the user <a href=\"https://web.archive.org/"
+"web/20141220181015/http://www.computerworlduk.com/blogs/open-enterprise/drm-"
+"strikes-again-3575860/\">for the sake of DRM.</a>"
+msgstr ""
+"Adobe faz o “DigitalEditions”, o e-reader usado pela maioria das bibliotecas "
+"dos EUA, espionar o usuário <a href=\"https://web.archive.org/"
+"web/20141220181015/http://www.computerworlduk.com/blogs/open-enterprise/drm-"
+"strikes-again-3575860/\"> por causa do DRM.</a>"
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"<a href=\"https://www.eff.org/deeplinks/2013/11/drm-cars-will-drive-"
+"consumers-crazy\"> DRM in cars will drive consumers crazy</a>."
+msgstr ""
+"<a href=\"https://www.eff.org/deeplinks/2013/11/drm-cars-will-drive-"
+"consumers-crazy\"> DRM em carros deixará os consumidores loucos</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"<a href=\"http://web.archive.org/web/20131007102857/http://www.nclnet.org/"
+"technology/73-digital-rights-management/124-whos-driving-the-copyright-laws-"
+"consumers-insist-on-the-right-to-back-it-up\"> DVDs and Bluray disks have "
+"DRM</a>."
+msgstr ""
+"<a href=\"http://web.archive.org/web/20131007102857/http://www.nclnet.org/"
+"technology/73-digital-rights-management/124-whos-driving-the-copyright-laws-"
+"consumers-insist-on-the-right-to-back-it-up\"> DVDs e discos Bluray têm DRM</"
+"a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"That page uses spin terms that favor DRM, including <a href=\"/philosophy/"
+"words-to-avoid.html#DigitalRightsManagement\"> digital &ldquo;rights&rdquo; "
+"management</a> and <a href=\"/philosophy/words-to-avoid.html#Protection"
+"\">&ldquo;protect&rdquo;</a>, and it claims that &ldquo;artists&rdquo; "
+"(rather than companies)  are primarily responsible for putting digital "
+"restrictions management into these disks.  Nonetheless, it is a reference "
+"for the facts."
+msgstr ""
+"Essa página usa termos invertidos que favorecem o DRM, incluindo <a href=\"/"
+"philosophy/words-to-avoid.html#DigitalRightsManagement\"> gestão de direitos "
+"“digitais”</a> e <a href=\"/philosophy/words-to-avoid.html#Protection\"> "
+"“proteger”</a>, e afirma que “artistas” (e não as empresas) são os "
+"principais responsáveis por colocar a gestão digital de restrições nesses "
+"discos. No entanto, é uma referência para os fatos."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Every Bluray disk (with few, rare exceptions) has DRM&mdash;so don't use "
+"Bluray disks!"
+msgstr ""
+"Todo disco Bluray (com poucas e raras exceções) tem DRM – portanto, não use "
+"discos Bluray!"
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Android <a href=\"https://developer.android.com/reference/android/drm/"
+"package-summary.html\"> contains facilities specifically to support DRM</a>."
+msgstr ""
+"Android <a href=\"https://developer.android.com/reference/android/drm/"
+"package-summary.html\"> contém recursos especificamente para oferecer "
+"suporte a DRM</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"DRM does more nastiness to published works than merely stopping people from "
+"looking at and/or copying them. Even when it allows you to look, it harasses "
+"you in many ways. Cory Doctorow's article presents <a href=\"https://"
+"boingboing.net/2010/02/18/infographic-buying-d.html\"> DVDs as an example</"
+"a>."
+msgstr ""
+"O DRM é mais desagradável às obras publicadas do que simplesmente impedir as "
+"pessoas de olhá-las e/ou copiá-las. Mesmo quando permite que você olhe, ele "
+"o perturba de várias maneiras. O artigo de Cory Doctorow apresenta <a href="
+"\"https://boingboing.net/2010/02/18/infographic-buying-d.html\"> DVDs como "
+"um exemplo</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"We condemn the propaganda term &ldquo;pirate&rdquo; when it is applied to "
+"people that share copies. Many of these DVDs are made and distributed "
+"commercially; in reference to that practice, &ldquo;pirate&rdquo; might be "
+"partly justified. But not when they protect users from harassment."
+msgstr ""
+"Condenamos o termo propaganda “pirata” quando é aplicado a pessoas que "
+"compartilham cópias. Muitos desses DVDs são feitos e distribuídos "
+"comercialmente; em referência a essa prática, “pirata” pode ser parcialmente "
+"justificado. Mas não quando eles protegem os usuários de assédio."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"The fundamental cause of this harassment, and the fundamental wrong of the "
+"DRM in DVDs, is the requirement to use nonfree software to play the DVD. "
+"Fortunately we have free replacement software."
+msgstr ""
+"A causa fundamental desse assédio, e o erro fundamental do DRM em DVDs, é o "
+"requisito de usar um software não livre para reproduzir o DVD. Felizmente, "
+"temos um software livre substituto."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"<a href=\"https://www.eff.org/deeplinks/2008/11/apple-downgrades-macbook-"
+"video-drm\"> DRM (digital restrictions mechanisms) in MacOS</a>. This "
+"article focuses on the fact that a new model of Macbook introduced a "
+"requirement for monitors to have malicious hardware, but DRM software in "
+"MacOS is involved in activating the hardware. The software for accessing "
+"iTunes is also responsible."
+msgstr ""
+"<a href=\"https://www.eff.org/deeplinks/2008/11/apple-downgrades-macbook-"
+"video-drm\"> DRM (mecanismos digitais de restrições) no MacOS</a>. Este "
+"artigo se concentra no fato de que um novo modelo de Macbook introduziu um "
+"requisito para monitores de hardware malicioso, mas o software com DRM no "
+"MacOS está envolvido na ativação do hardware. O software de acesso ao iTunes "
+"também é responsável."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"<a href=\"https://en.wikipedia.org/wiki/High-"
+"bandwidth_Digital_Content_Protection\"> HDCP</a> is a DRM system that "
+"encrypts video and audio data from the processor to the monitor. It is "
+"implemented mainly in hardware, but the system software also participates, "
+"which makes it qualify as malware."
+msgstr ""
+"<a href=\"https://en.wikipedia.org/wiki/High-"
+"bandwidth_Digital_Content_Protection\"> HDCP</a> é um sistema DRM que "
+"criptografa dados de vídeo e áudio do processador para o monitor. É "
+"implementado principalmente em hardware, mas o software do sistema também "
+"participa, o que o torna qualificado como <em>malware</em>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Besides controlling users, HDCP denies their fair-use rights and causes "
+"numerous practical problems."
+msgstr ""
+"Além de controlar os usuários, a HDCP nega seus direitos de uso justo e "
+"causa vários problemas práticos."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"<a href=\"https://www.eff.org/deeplinks/2008/02/adobe-pushes-drm-flash\"> "
+"DRM in Flash Player</a>."
+msgstr ""
+"<a href=\"https://www.eff.org/deeplinks/2008/02/adobe-pushes-drm-flash\"> "
+"DRM no Flash Player</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"<a href=\"http://arstechnica.com/apple/2007/08/aacs-tentacles/\">DRM in "
+"Windows</a>, introduced to cater to <a href=\"/proprietary/proprietary-drm."
+"html#bluray\">Bluray</a> disks.  (The article talks about how the same "
+"malware would later be introduced in MacOS.  That had not been done at the "
+"time, but it was done subsequently.)"
+msgstr ""
+"<a href=\"http://arstechnica.com/apple/2007/08/aacs-tentacles/\"> DRM no "
+"Windows</a>, introduzido para atender a discos de <a href=\"/proprietary/"
+"proprietary-drm.html#bluray\">Bluray</a>. (O artigo fala sobre como o mesmo "
+"<em>malware</em> seria posteriormente introduzido no MacOS. Isso não tinha "
+"sido feito na época, mas foi feito posteriormente.)"
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"iTunes videos have DRM, which allows Apple to <a href=\"https://en.wikipedia."
+"org/wiki/FairPlay\">dictate where its customers can watch the videos they "
+"purchased</a>."
+msgstr ""
+"Os vídeos do iTunes têm DRM, o que permite à Apple <a href=\"https://en."
+"wikipedia.org/wiki/FairPlay\">ditar onde seus clientes podem assistir aos "
+"vídeos que compraram</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and contributing translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and contributing "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2014-2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2014-2021 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 "
+"International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by/4.0/deed.pt_BR\">Creative Commons Atribuição "
+"4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"A tradução das páginas na seção Proprietary teve a contribuição de:\n"
+"Cassiano Reinert Novais dos Santos <a href=\"mailto:caco@posteo.net\">&lt;"
+"caco@posteo.net&gt;</a> e\n"
+"Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome."
+"org&gt;</a>."
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização:"

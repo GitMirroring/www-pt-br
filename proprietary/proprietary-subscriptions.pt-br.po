@@ -1,0 +1,339 @@
+# Brazilian Portuguese translation of https://www.gnu.org/proprietary/proprietary-subscriptions.html
+# Copyright (C) 2021 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: proprietary-subscriptions.html\n"
+"POT-Creation-Date: 2021-04-11 12:56+0000\n"
+"PO-Revision-Date: 2021-06-26 09:39-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt-br\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. type: Content of: <title>
+msgid "Proprietary Subscriptions - GNU Project - Free Software Foundation"
+msgstr "Assinaturas privativas - Projeto GNU - Free Software Foundation"
+
+#. type: Content of: <div><a>
+msgid "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+msgstr "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+
+#. type: Attribute 'title' of: <div><a><img>
+msgid "Section contents"
+msgstr "Índice da Seção"
+
+#. type: Attribute 'alt' of: <div><a><img>
+msgid "&nbsp;[Section contents]&nbsp;"
+msgstr "&nbsp;[Índice da Seção]&nbsp;"
+
+#. type: Content of: <div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><p><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><p><a><img>
+msgid "GNU Home"
+msgstr "Página inicial do GNU"
+
+#. type: Content of: <div><p>
+msgid ""
+"</a>&nbsp;/ <a href=\"/proprietary/proprietary.html\">Malware</a>&nbsp;/ By "
+"type&nbsp;/"
+msgstr ""
+"</a>&nbsp;/ <a href=\"/proprietary/proprietary.html\"><em>Malware</em> "
+"privativo</a>&nbsp;/ Por tipo&nbsp;/"
+
+#. type: Content of: <div><h2>
+msgid "Proprietary Subscriptions"
+msgstr "Assinaturas privativas"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Nonfree (proprietary) software is very often malware (designed to mistreat "
+"the user). Nonfree software is controlled by its developers, which puts them "
+"in a position of power over the users; <a href=\"/philosophy/free-software-"
+"even-more-important.html\">that is the basic injustice</a>. The developers "
+"and manufacturers often exercise that power to the detriment of the users "
+"they ought to serve."
+msgstr ""
+"O software não livre (privativo) é muitas vezes um <em>malware</em> "
+"(projetado para maltratar o usuário). O software não livre é controlado por "
+"seus desenvolvedores, o que os coloca em uma posição de poder sobre os "
+"usuários; <a href=\"/philosophy/free-software-even-more-important.html"
+"\">isso é a injustiça básica</a>. Os desenvolvedores e fabricantes muitas "
+"vezes exercem esse poder em detrimento dos usuários aos quais eles deveriam "
+"servir."
+
+#. type: Content of: <div><div><p>
+msgid "This typically takes the form of malicious functionalities."
+msgstr "Isso geralmente assume a forma de funcionalidades maliciosas."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"It sounds simple to say that a certain program &ldquo;requires a "
+"subscription.&rdquo; What that means concretely is that it contains a time "
+"bomb, so that it will refuse to operate after that date.  Or else it is <a "
+"href=\"/proprietary/proprietary-tethers.html#about-page\">tethered to a "
+"server</a>, and that server checks the date.  Either one is a malicious "
+"functionality."
+msgstr ""
+"Parece simples dizer que um determinado programa “requer uma assinatura”. O "
+"que isso significa concretamente é que contém uma bomba-relógio, de modo que "
+"se recusará a operar após essa data. Ou então está <a href=\"/proprietary/"
+"proprietary-tethers.html#about-page\">amarrado a um servidor</a>, e esse "
+"servidor verifica a data. Qualquer um deles é uma funcionalidade maliciosa."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Examples of software subscriptions that harmed users directly are given "
+"below."
+msgstr ""
+"Exemplos de assinaturas de software que prejudicaram os usuários diretamente "
+"são fornecidos abaixo."
+
+#. type: Content of: <div><div><div><p>
+msgid ""
+"If you know of an example that ought to be in this page but isn't here, "
+"please write to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a> to inform us. Please include the URL of a trustworthy reference "
+"or two to serve as specific substantiation."
+msgstr ""
+"Se você conhece um exemplo que deveria estar nesta página, mas não está "
+"aqui, por favor, escreva para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a> para nos informar. Por favor, inclua a URL de uma "
+"ou duas referências confiáveis para servir como comprovação específica."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Apple can remotely <a href=\"https://www.theguardian.com/games/2020/aug/18/"
+"apple-sets-deadline-in-feud-with-fortnite-maker-epic-games\"> cut off any "
+"developer's access to the tools for developing software</a> for iOS or MacOS."
+msgstr ""
+"A Apple pode, remotamente, <a href=\"https://www.theguardian.com/games/2020/"
+"aug/18/apple-sets-deadline-in-feud-with-fortnite-maker-epic-games\"> cortar "
+"qualquer acesso do desenvolvedor às ferramentas de desenvolvimento de "
+"software</a> para iOS ou MacOS."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Epic (Apple's target in this example)  makes nonfree games which have their "
+"own <a href=\"https://ekgaming.com/2019/03/17/is-the-epic-games-store-spying-"
+"on-your-computer/\"> malicious features</a>, but that doesn't make it "
+"acceptable for Apple to have this sort of power."
+msgstr ""
+"A Epic (alvo da Apple neste exemplo) faz jogos não livres que têm seus "
+"próprios <a href=\"https://ekgaming.com/2019/03/17/is-the-epic-games-store-"
+"spying-on-your-computer/\"> recursos maliciosos</a>, mas isso não torna "
+"aceitável que a Apple tenha esse tipo de poder."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"BMW is trying to <a href=\"https://www.theverge.com/2020/7/2/21311332/bmw-in-"
+"car-purchase-heated-seats-software-over-the-air-updates\">lock certain "
+"features of its cars, and force people to pay to use part of the car they "
+"already bought</a>. This is done through forced update of the car software "
+"via a radio-operated back door."
+msgstr ""
+"BMW está tentando <a href=\"https://www.theverge.com/2020/7/2/21311332/bmw-"
+"in-car-purchase-heated-seats-software-over-the-air-updates\">bloquear certos "
+"recursos de seus carros e forçar as pessoas a pagar para usar parte do carro "
+"que já compraram</a>. Isso é feito por meio da atualização forçada do "
+"software do carro por meio de uma <em>backdoor</em> operada por rádio."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Adobe has <a href=\"https://www.bleepingcomputer.com/news/software/adobe-to-"
+"ban-users-from-venezuela-due-to-us-executive-order/\"> cancelled the "
+"software subscriptions of all users in Venezuela</a>. This demonstrates how "
+"a requirement for subscription can be turned into a tool for sabotage."
+msgstr ""
+"A Adobe <a href=\"https://www.bleepingcomputer.com/news/software/adobe-to-"
+"ban-users-from-venezuela-due-to-us-executive-order/\"> cancelou as "
+"assinaturas de software de todos os usuários na Venezuela</a>. Isso "
+"demonstra como que um requisito de assinatura pode ser tornado em uma "
+"ferramenta para sabotagem."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"The HP <a href=\"https://boingboing.net/2019/02/08/inkjet-dystopias.html\"> "
+"&ldquo;ink subscription&rdquo; cartridges have DRM that constantly "
+"communicates with HP servers</a> to make sure the user is still paying for "
+"the subscription, and hasn't printed more pages than were paid for."
+msgstr ""
+"Os <a href=\"https://boingboing.net/2019/02/08/inkjet-dystopias.html\"> "
+"cartuchos de “assinatura de tinta” têm DRM que se comunica constantemente "
+"com os servidores HP</a> para garantir que o usuário ainda esteja pagando "
+"pela assinatura e não imprima mais páginas do que o pago."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Even though the ink subscription program may be cheaper in some specific "
+"cases, it spies on users, and involves totally unacceptable restrictions in "
+"the use of ink cartridges that would otherwise be in working order."
+msgstr ""
+"Mesmo que o programa de assinatura de tinta possa ser mais barato em alguns "
+"casos específicos, ela espiona os usuários e envolve restrições totalmente "
+"inaceitáveis no uso de cartuchos de tinta que, de outra forma, estariam "
+"funcionando."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Sony has brought back its robotic pet Aibo, this time <a href=\"https://www."
+"vice.com/en/article/bj778v/sony-wants-to-sell-you-a-subscription-to-a-robot-"
+"dog-aibo-90s-pet\"> with a universal back door, and tethered to a server "
+"that requires a subscription</a>."
+msgstr ""
+"A Sony trouxe de volta seu animal de estimação robótico Aibo, dessa vez <a "
+"href=\"https://www.vice.com/en/article/bj778v/sony-wants-to-sell-you-a-"
+"subscription-to-a-robot-dog-aibo-90s-pet\"> com um <em>backdoor</em> "
+"universal e amarrado a um servidor que requer assinatura</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"The Canary home surveillance camera has been sabotaged by its manufacturer, "
+"<a href=\"https://www.theverge.com/circuitbreaker/2017/10/4/16426394/canary-"
+"smart-home-camera-free-service-update-change\"> turning off many features "
+"unless the user starts paying for a subscription</a>."
+msgstr ""
+"A câmera de vigilância doméstica da Canary foi sabotada por seu fabricante, "
+"<a href=\"https://www.theverge.com/circuitbreaker/2017/10/4/16426394/canary-"
+"smart-home-camera-free-service-update-change\"> desligando muitos recursos, "
+"a menos que o usuário comece a pagar por uma assinatura</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid "With manufacturers like these, who needs security breakers?"
+msgstr "Com fabricantes como esses, quem precisa de <em>crackers</em>?"
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"The purchasers should learn the larger lesson and reject connected "
+"appliances with embedded proprietary software. Every such product is a "
+"temptation to commit sabotage."
+msgstr ""
+"Os consumidores devem aprender a lição maior e rejeitar aparelhos conectados "
+"com software privativo embarcado. Cada um desses produtos é uma tentação em "
+"cometer sabotagem."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Microsoft Office forces users <a href=\"https://www.computerworld.com/"
+"article/2948755/office-for-windows-10-will-require-office-365-subscription-"
+"on-pcs-larger-tablets.html\">to subscribe to Office 365 to be able to create/"
+"edit documents</a>."
+msgstr ""
+"O Microsoft Office força os usuários a <a href=\"https://www.computerworld."
+"com/article/2948755/office-for-windows-10-will-require-office-365-"
+"subscription-on-pcs-larger-tablets.html\">se inscreverem no Office 365 para "
+"poder criar/editar documentos</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"<a href=\"https://www.scientificamerican.com/article/adobe-software-"
+"subscription-model-means-you-cant-own-your-software/\"> Adobe tools require "
+"a subscription</a>.  Adobe also tried to <a href=\"http://chocolateandvodka."
+"com/2014/02/20/adobe-creative-cloud-subscription-warning/\"> rip people off "
+"by making the subscriptions annual</a>, but that is a secondary issue "
+"compared with the basic wrong of the time bomb.  When a program proprietary, "
+"and even malware, don't get distracted by the secondary issues like price."
+msgstr ""
+"<a href=\"https://www.scientificamerican.com/article/adobe-software-"
+"subscription-model-means-you-cant-own-your-software/\"> As ferramentas da "
+"Adobe exigem uma assinatura</a>. A Adobe também tentou <a href=\"http://"
+"chocolateandvodka.com/2014/02/20/adobe-creative-cloud-subscription-warning/"
+"\"> enganar as pessoas tornando as assinaturas anuais</a>, mas isso é uma "
+"questão secundária em comparação com o erro básico da bomba-relógio. Quando "
+"for um programa privativo, ou mesmo <em>malware</em>, não se distraia com "
+"questões secundárias, como preço."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"<small>(Please don't repeat the marketing term &ldquo;Creative Cloud&rdquo; "
+"except to express revulsion for it.  The <a href=\"/philosophy/words-to-"
+"avoid.html#CloudComputing\"> term &ldquo;cloud&rdquo; is designed to cloud "
+"users' minds</a>.)</small>"
+msgstr ""
+"<small>(Não repita o termo de marketing “Creative Cloud” exceto para "
+"expressar repulsa por ele. O <a href=\"/philosophy/words-to-avoid."
+"html#CloudComputing\"> termo “nuvem” é projetado para nebular a mente dos "
+"usuários</a>.)</small>"
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and contributing translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and contributing "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2016-2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2016-2021 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 "
+"International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by/4.0/deed.pt_BR\">Creative Commons Atribuição "
+"4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"A tradução das páginas na seção Proprietary teve a contribuição de:\n"
+"Cassiano Reinert Novais dos Santos <a href=\"mailto:caco@posteo.net\">&lt;"
+"caco@posteo.net&gt;</a> e\n"
+"Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome."
+"org&gt;</a>."
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização:"

@@ -1,0 +1,275 @@
+# Brazilian Portuguese translation of https://www.gnu.org/proprietary/proprietary-incompatibility.html
+# Copyright (C) 2021 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: proprietary-incompatibility.html\n"
+"POT-Creation-Date: 2021-01-18 12:56+0000\n"
+"PO-Revision-Date: 2021-06-26 09:39-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt-br\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. type: Content of: <title>
+msgid "Proprietary Incompatibility - GNU Project - Free Software Foundation"
+msgstr "Incompatibilidade privativa - Projeto GNU - Free Software Foundation"
+
+#. type: Content of: <div><a>
+msgid "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+msgstr "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+
+#. type: Attribute 'title' of: <div><a><img>
+msgid "Section contents"
+msgstr "Índice da Seção"
+
+#. type: Attribute 'alt' of: <div><a><img>
+msgid "&nbsp;[Section contents]&nbsp;"
+msgstr "&nbsp;[Índice da Seção]&nbsp;"
+
+#. type: Content of: <div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><p><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><p><a><img>
+msgid "GNU Home"
+msgstr "Página inicial do GNU"
+
+#. type: Content of: <div><p>
+msgid ""
+"</a>&nbsp;/ <a href=\"/proprietary/proprietary.html\">Malware</a>&nbsp;/ By "
+"type&nbsp;/"
+msgstr ""
+"</a>&nbsp;/ <a href=\"/proprietary/proprietary.html\"><em>Malware</em> "
+"privativo</a>&nbsp;/ Por tipo&nbsp;/"
+
+#. type: Content of: <div><h2>
+msgid "Proprietary Incompatibility"
+msgstr "Incompatibilidade privativa"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Nonfree (proprietary) software is very often malware (designed to mistreat "
+"the user). Nonfree software is controlled by its developers, which puts them "
+"in a position of power over the users; <a href=\"/philosophy/free-software-"
+"even-more-important.html\">that is the basic injustice</a>. The developers "
+"and manufacturers often exercise that power to the detriment of the users "
+"they ought to serve."
+msgstr ""
+"O software não livre (privativo) é muitas vezes um <em>malware</em> "
+"(projetado para maltratar o usuário). O software não livre é controlado por "
+"seus desenvolvedores, o que os coloca em uma posição de poder sobre os "
+"usuários; <a href=\"/philosophy/free-software-even-more-important.html"
+"\">isso é a injustiça básica</a>. Os desenvolvedores e fabricantes muitas "
+"vezes exercem esse poder em detrimento dos usuários aos quais eles deveriam "
+"servir."
+
+#. type: Content of: <div><div><p>
+msgid "This typically takes the form of malicious functionalities."
+msgstr "Isso geralmente assume a forma de funcionalidades maliciosas."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"One of these malicious functionalities is the deliberate incompatibility of "
+"a program with third party software that operates on the same data types."
+msgstr ""
+"Uma dessas funcionalidades maliciosas é a incompatibilidade deliberada de um "
+"programa com software de terceiros que opera nos mesmos tipos de dados."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"A fairly common sort of incompatibility is the use of secret formats or "
+"protocols. This directly blocks or hinders users from switching to any other "
+"program&mdash;and, in particular, from switching to free software which can "
+"liberate the device the software runs on."
+msgstr ""
+"Um tipo bastante comum de incompatibilidade é o uso de formatos ou "
+"protocolos secretos. Isso bloqueia ou impede diretamente os usuários de "
+"alternar para qualquer outro programa – e, em particular, de alternar para o "
+"software livre que pode liberar o dispositivo em que o software é executado."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Apart from being deliberately anticompetitive, secret formats put users' "
+"digital data at risk. For instance, retrieval of old data will become very "
+"difficult if support for the proprietary software that can read it is "
+"discontinued."
+msgstr ""
+"Além de serem deliberadamente anticompetitivos, os formatos secretos colocam "
+"os dados digitais dos usuários em risco. Por exemplo, a recuperação de dados "
+"antigos se tornará muito difícil se o suporte para o software privativo que "
+"pode lê-los for descontinuado."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Another sort of incompatibility occurs when a system makes some important "
+"operation which would be necessary for migrating data to any other system so "
+"cumbersome or so slow that it isn't doable for more than a small amount of "
+"data."
+msgstr ""
+"Outro tipo de incompatibilidade ocorre quando um sistema realiza alguma "
+"operação importante que seria necessária para a migração de dados para "
+"qualquer outro sistema tão pesada ou tão lenta que não é viável para mais do "
+"que uma pequena quantidade de dados."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"More generally, the major tech companies tend to impose <a href=\"https://"
+"www.eff.org/deeplinks/2019/07/interoperability-fix-internet-not-tech-"
+"companies\"> artificial restrictions</a> on the interoperability of their "
+"products to monopolize the market, and this is often achieved through "
+"proprietary malware."
+msgstr ""
+"De forma mais geral, as principais empresas de tecnologia tendem a impor <a "
+"href=\"https://www.eff.org/deeplinks/2019/07/interoperability-fix-internet-"
+"not-tech-companies\"> restrições artificiais</a> sobre a interoperabilidade "
+"de seus produtos para monopolizar o mercado, e isso geralmente é obtido por "
+"meio de <em>malware</em> privativo."
+
+#. type: Content of: <div><div><div><p>
+msgid ""
+"If you know of an example that ought to be in this page but isn't here, "
+"please write to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a> to inform us. Please include the URL of a trustworthy reference "
+"or two to serve as specific substantiation."
+msgstr ""
+"Se você conhece um exemplo que deveria estar nesta página, mas não está "
+"aqui, por favor, escreva para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a> para nos informar. Por favor, inclua a URL de uma "
+"ou duas referências confiáveis para servir como comprovação específica."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"In MacOS and iOS, the procedure for <a href=\"https://support.apple.com/"
+"guide/photos/export-photos-videos-and-slideshows-pht6e157c5f/mac\"> "
+"converting images from the Photos format</a> to a free format is so tedious "
+"and time-consuming that users just give up if they have a lot of them."
+msgstr ""
+"No MacOS e iOS, o procedimento para <a href=\"https://support.apple.com/"
+"guide/photos/export-photos-videos-and-slideshows-pht6e157c5f/mac\"> "
+"converter imagens do formato do Photos</a> para um formato livre é tão "
+"entediante e demorado que os usuários simplesmente desistem se tiverem "
+"muitos deles."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Apple devices lock users in <a href=\"https://gizmodo.com/homepod-is-the-"
+"ultimate-apple-product-in-a-bad-way-1822883347\"> solely to Apple services</"
+"a> by being designed to be incompatible with all other options, ethical or "
+"unethical."
+msgstr ""
+"Os dispositivos da Apple bloqueiam os usuários <a href=\"https://gizmodo.com/"
+"homepod-is-the-ultimate-apple-product-in-a-bad-way-1822883347\"> "
+"exclusivamente para os serviços da Apple</a> por serem projetados para ser "
+"incompatível com todas as outras opções, éticas ou antiéticas."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"iWork (office software that runs on MacOS, iOS and iCloud) uses secret "
+"formats and <a href=\"https://en.wikipedia.org/wiki/IWork\">provides no "
+"means of converting them to or from Open Document Formats</a>. iWork formats "
+"have changed several times since they were first introduced. This may have "
+"had the effect of thwarting <a href=\"https://github.com/obriensp/"
+"iWorkFileFormat\">reverse engineering efforts</a>, thus preventing free "
+"software from fully supporting them."
+msgstr ""
+"O iWork (software de escritório executado em MacOS, iOS e iCloud) usa "
+"formatos secretos e <a href=\"https://en.wikipedia.org/wiki/IWork\"> não "
+"oferece meios de convertê-los de ou para formatos de documentos abertos</a>. "
+"Os formatos do iWork mudaram várias vezes desde que foram introduzidos pela "
+"primeira vez. Isso pode ter impedido os <a href=\"https://github.com/"
+"obriensp/iWorkFileFormat\">esforços de engenharia reversa</a>, evitando que "
+"o software livre tivesse suporte total a eles."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"iWork formats are considered <a href=\"https://wiki.harvard.edu/confluence/"
+"download/attachments/204385883/Format%20profile%20-%20Apple%20iWork%20Pages"
+"%20v04.docx?version=1&amp;modificationDate=1459873751000&amp;api=v2\"> unfit "
+"for document preservation</a>."
+msgstr ""
+"Formatos do iWork são considerados <a href=\"https://wiki.harvard.edu/"
+"confluence/download/attachments/204385883/Format%20profile%20-%20Apple"
+"%20iWork%20Pages%20v04.docx?version=1&amp;modificationDate=1459873751000&amp;"
+"api=v2\"> inadequados para preservação de documento</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and contributing translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and contributing "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2018-2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2018-2021 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 "
+"International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by/4.0/deed.pt_BR\">Creative Commons Atribuição "
+"4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"A tradução das páginas na seção Proprietary teve a contribuição de:\n"
+"Cassiano Reinert Novais dos Santos <a href=\"mailto:caco@posteo.net\">&lt;"
+"caco@posteo.net&gt;</a> e\n"
+"Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome."
+"org&gt;</a>."
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização:"

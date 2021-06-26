@@ -1,0 +1,344 @@
+# Brazilian Portuguese translation of https://www.gnu.org/proprietary/proprietary-obsolescence.html
+# Copyright (C) 2021 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: proprietary-obsolescence.html\n"
+"POT-Creation-Date: 2021-01-04 11:26+0000\n"
+"PO-Revision-Date: 2021-06-26 09:40-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt-br\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. type: Content of: <title>
+msgid "Proprietary Obsolescence - GNU Project - Free Software Foundation"
+msgstr "Obsolescência privativa - Projeto GNU - Free Software Foundation"
+
+#. type: Content of: <div><a>
+msgid "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+msgstr "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+
+#. type: Attribute 'title' of: <div><a><img>
+msgid "Section contents"
+msgstr "Índice da Seção"
+
+#. type: Attribute 'alt' of: <div><a><img>
+msgid "&nbsp;[Section contents]&nbsp;"
+msgstr "&nbsp;[Índice da Seção]&nbsp;"
+
+#. type: Content of: <div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><p><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><p><a><img>
+msgid "GNU Home"
+msgstr "Página inicial do GNU"
+
+#. type: Content of: <div><p>
+msgid ""
+"</a>&nbsp;/ <a href=\"/proprietary/proprietary.html\">Malware</a>&nbsp;/ By "
+"type&nbsp;/"
+msgstr ""
+"</a>&nbsp;/ <a href=\"/proprietary/proprietary.html\"><em>Malware</em> "
+"privativo</a>&nbsp;/ Por tipo&nbsp;/"
+
+#. type: Content of: <div><h2>
+msgid "Proprietary Obsolescence"
+msgstr "Obsolescência privativa"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Nonfree (proprietary) software is very often malware (designed to mistreat "
+"the user). Nonfree software is controlled by its developers, which puts them "
+"in a position of power over the users; <a href=\"/philosophy/free-software-"
+"even-more-important.html\">that is the basic injustice</a>. The developers "
+"and manufacturers often exercise that power to the detriment of the users "
+"they ought to serve."
+msgstr ""
+"O software não livre (privativo) é muitas vezes um <em>malware</em> "
+"(projetado para maltratar o usuário). O software não livre é controlado por "
+"seus desenvolvedores, o que os coloca em uma posição de poder sobre os "
+"usuários; <a href=\"/philosophy/free-software-even-more-important.html"
+"\">isso é a injustiça básica</a>. Os desenvolvedores e fabricantes muitas "
+"vezes exercem esse poder em detrimento dos usuários aos quais eles deveriam "
+"servir."
+
+#. type: Content of: <div><div><p>
+msgid "This typically takes the form of malicious functionalities."
+msgstr "Isso geralmente assume a forma de funcionalidades maliciosas."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Programmed obsolescence is one of the malicious functionalities that may be "
+"designed into proprietary software."
+msgstr ""
+"A obsolescência programada é uma das funcionalidades maliciosas que podem "
+"ser projetadas em software privativo."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Computer technology inevitably has an environmental impact, but proprietary "
+"software makes it worse because it is often designed to lead or pressure "
+"users to discard devices sooner because support for them has ceased, or to "
+"discard defective hardware which could have been made repairable."
+msgstr ""
+"A tecnologia computacional tem inevitavelmente um impacto ambiental, mas o "
+"software privativo torna-o pior porque muitas vezes é projetado para levar "
+"ou pressionar os usuários a descartar dispositivos mais cedo porque o "
+"suporte a eles foi interrompido, ou descartar hardware defeituoso que "
+"poderia ter sido reparado."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Here are examples of proprietary programs that make hardware devices "
+"prematurely obsolete."
+msgstr ""
+"Aqui estão alguns exemplos de programas privativos que tornam os "
+"dispositivos de hardware prematuramente obsoletos."
+
+#. type: Content of: <div><div><div><p>
+msgid ""
+"If you know of an example that ought to be in this page but isn't here, "
+"please write to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a> to inform us. Please include the URL of a trustworthy reference "
+"or two to serve as specific substantiation."
+msgstr ""
+"Se você conhece um exemplo que deveria estar nesta página, mas não está "
+"aqui, por favor, escreva para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a> para nos informar. Por favor, inclua a URL de uma "
+"ou duas referências confiáveis para servir como comprovação específica."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"The personal finance management software &ldquo;Quicken&rdquo; <a href="
+"\"https://www.quicken.com/support/quicken-discontinuation-policy\"> has a "
+"discontinuation policy, a.k.a. planned obsolescence</a>, which is an "
+"injustice to users. A free (as in freedom) program would let users control "
+"the software. But when you use a proprietary software, you won't be in "
+"control."
+msgstr ""
+"O software de gestão de finanças pessoais “Quicken” <a href=\"https://www."
+"quicken.com/support/quicken-discontinuation-policy\"> tem uma política de "
+"descontinuação, também conhecida como obsolescência programada</a>, que é "
+"uma injustiça para os usuários. Um programa livre permitiria aos usuários "
+"controlar o software. Mas quando você usa um software privativo, você não "
+"estará no controle."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"ChromeBooks are programmed for obsolescence: ChromeOS has a universal back "
+"door that is used for updates and <a href=\"https://www.theregister.co."
+"uk/2019/08/22/buying_a_chromebook_dont_forget_to_check_when_it_expires/\"> "
+"ceases to operate at a predefined date</a>. From then on, there appears to "
+"be no support whatsoever for the computer."
+msgstr ""
+"O ChromeBooks está programado para obsolescência: o ChromeOS possui um "
+"<em>backdoor</em> universal usado para atualizações e <a href=\"https://www."
+"theregister.co.uk/2019/08/22/"
+"buying_a_chromebook_dont_forget_to_check_when_it_expires/\"> deixa de "
+"funcionar em uma data predefinida</a>. A partir de então, parece não haver "
+"suporte para o computador."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"In other words, when you stop getting screwed by the back door, you start "
+"getting screwed by the obsolescence."
+msgstr ""
+"Em outras palavras, quando você para de se ferrar pelo <em>backdoor</em>, "
+"começa a se ferrar pela obsolescência."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"The British supermarket Tesco sold tablets which were tethered to Tesco's "
+"server for reinstalling default settings.  Tesco <a href=\"https://www."
+"theguardian.com/money/2019/mar/25/tesco-hudl-tablet-support-kill-fix\"> "
+"turned off the server for old models</a>, so now if you try to reinstall the "
+"default settings, it bricks them instead."
+msgstr ""
+"O supermercado britânico Tesco vendeu tablets que estavam amarrados ao "
+"servidor da Tesco para reinstalar as configurações padrão. Tesco <a href="
+"\"https://www.theguardian.com/money/2019/mar/25/tesco-hudl-tablet-support-"
+"kill-fix\"> desligou o servidor para modelos antigos</a>, então, agora, se "
+"você tentar reinstalar as configurações padrão, eles serão inutilizados."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Apple and Samsung deliberately <a href=\"https://www.theguardian.com/"
+"technology/2018/oct/24/apple-samsung-fined-for-slowing-down-phones\">degrade "
+"the performance of older phones to force users to buy their newer phones</a>."
+msgstr ""
+"Apple e Samsung deliberadamente <a href=\"https://www.theguardian.com/"
+"technology/2018/oct/24/apple-samsung-fined-for-slowing-down-phones"
+"\">degradam o desempenho de telefones antigos para forçar usuários a comprar "
+"seus novos telefones</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Apple will stop <a href=\"https://www.theguardian.com/technology/2017/jun/06/"
+"iphone-ipad-apps-games-apple-5-5c-obsolete\">fixing bugs for older model "
+"iThings</a>."
+msgstr ""
+"A Apple vai parar de <a href=\"https://www.theguardian.com/technology/2017/"
+"jun/06/iphone-ipad-apps-games-apple-5-5c-obsolete\">corrigir erros em "
+"modelos mais antigos de iCoisas</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Meanwhile, Apple stops people from fixing problems themselves; that's the "
+"nature of proprietary software."
+msgstr ""
+"Enquanto isso, a Apple impede que as pessoas resolvam os problemas sozinhas; "
+"essa é a natureza do software privativo."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Revolv is a device that managed &ldquo;smart home&rdquo; operations: "
+"switching lights, operate motion sensors, regulating temperature, etc.  Its "
+"proprietary software depends on a remote server to do these tasks.  On May "
+"15th, 2016, Google/Alphabet <a href=\"https://www.eff.org/deeplinks/2016/04/"
+"nest-reminds-customers-ownership-isnt-what-it-used-be\">intentionally broke "
+"it by shutting down the server</a>."
+msgstr ""
+"O Revolv é um dispositivo que gerenciava as operações da “casa inteligente”: "
+"trocar luzes, operar sensores de movimento, regular a temperatura etc. Seu "
+"software privativo depende de um servidor remoto para executar essas "
+"tarefas. Em 15 de maio de 2016, Google/Alphabet <a href=\"https://www.eff."
+"org/deeplinks/2016/04/nest-reminds-customers-ownership-isnt-what-it-used-be"
+"\"> intencionalmente inutilizou-o desligando o servidor</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"If it were free software, users would have the ability to make it work "
+"again, differently, and then have a freedom-respecting home instead of a "
+"&ldquo;smart&rdquo; home. Don't let proprietary software control your "
+"devices and turn them into $300 out-of-warranty bricks. Insist on self-"
+"contained computers that run free software!"
+msgstr ""
+"Se fosse um software livre, os usuários teriam a capacidade de fazê-lo "
+"funcionar de novo, de maneira diferente, e então teriam uma casa que "
+"respeita a liberdade em vez de uma casa “inteligente”. Não permita que o "
+"software privativo controle seus dispositivos e os transforme em tijolos de "
+"US$ 300,00 sem garantia. Insista em computadores independentes que usem "
+"apenas software livre!"
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"The <a href=\"http://michaelweinberg.org/post/137045828005/free-the-cube\"> "
+"&ldquo;Cube&rdquo; 3D printer was designed with DRM</a>: it won't accept "
+"third-party printing materials.  It is the Keurig of printers.  Now it is "
+"being discontinued, which means that eventually authorized materials won't "
+"be available and the printers may become unusable."
+msgstr ""
+"<a href=\"http://michaelweinberg.org/post/137045828005/free-the-cube\"> A "
+"impressora 3D “Cube” foi projetada com DRM</a>: ela não aceita materiais de "
+"impressão de terceiros. É o Keurig das impressoras. Agora ela está sendo "
+"descontinuada, o que significa que eventualmente materiais autorizados não "
+"estarão disponíveis e as impressoras podem ficar inutilizáveis."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"With a <a href=\"http://www.fsf.org/resources/hw/endorsement/aleph-objects"
+"\"> printer that gets the Respects Your Freedom</a>, this problem would not "
+"even be a remote possibility."
+msgstr ""
+"Com uma <a href=\"http://www.fsf.org/resources/hw/endorsement/aleph-objects"
+"\"> impressora que obtém a certificação Respects Your Freedom</a>, esse "
+"problema não seria nem mesmo uma possibilidade remota."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"How pitiful that the author of that article says that there was &ldquo;"
+"nothing wrong&rdquo; with designing the device to restrict users in the "
+"first place.  This is like putting a &ldquo;cheat me and mistreat me&rdquo; "
+"sign on your chest.  We should know better: we should condemn all companies "
+"that take advantage of people like him.  Indeed, it is the acceptance of "
+"their unjust practice that teaches people to be doormats."
+msgstr ""
+"É lamentável que o autor daquele artigo diga que não havia “nada de errado” "
+"com o design do dispositivo em restringir os usuários em primeiro lugar. "
+"Isso é como colocar um aviso “me engane e me maltrate” no seu peito. Devemos "
+"saber melhor: devemos condenar todas as empresas que se aproveitam de "
+"pessoas como ele. Na verdade, é a aceitação de sua prática injusta que "
+"ensina as pessoas a serem capachos."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and contributing translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and contributing "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2019, 2020, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2019, 2020, 2021 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 "
+"International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by/4.0/deed.pt_BR\">Creative Commons Atribuição "
+"4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"A tradução das páginas na seção Proprietary teve a contribuição de:\n"
+"Cassiano Reinert Novais dos Santos <a href=\"mailto:caco@posteo.net\">&lt;"
+"caco@posteo.net&gt;</a> e\n"
+"Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome."
+"org&gt;</a>."
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização:"

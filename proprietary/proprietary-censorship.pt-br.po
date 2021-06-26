@@ -1,0 +1,314 @@
+# Brazilian Portuguese translation of https://www.gnu.org/proprietary/proprietary-censorship.html
+# Copyright (C) 2021 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: proprietary-censorship.html\n"
+"POT-Creation-Date: 2021-01-18 12:56+0000\n"
+"PO-Revision-Date: 2021-06-26 09:40-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt-br\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. type: Content of: <title>
+msgid "Proprietary Censorship - GNU Project - Free Software Foundation"
+msgstr "Censura privativa - Projeto GNU - Free Software Foundation"
+
+#. type: Content of: <div><a>
+msgid "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+msgstr "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+
+#. type: Attribute 'title' of: <div><a><img>
+msgid "Section contents"
+msgstr "Índice da Seção"
+
+#. type: Attribute 'alt' of: <div><a><img>
+msgid "&nbsp;[Section contents]&nbsp;"
+msgstr "&nbsp;[Índice da Seção]&nbsp;"
+
+#. type: Content of: <div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><p><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><p><a><img>
+msgid "GNU Home"
+msgstr "Página inicial do GNU"
+
+#. type: Content of: <div><p>
+msgid ""
+"</a>&nbsp;/ <a href=\"/proprietary/proprietary.html\">Malware</a>&nbsp;/ By "
+"type&nbsp;/"
+msgstr ""
+"</a>&nbsp;/ <a href=\"/proprietary/proprietary.html\"><em>Malware</em> "
+"privativo</a>&nbsp;/ Por tipo&nbsp;/"
+
+#. type: Content of: <div><h2>
+msgid "Proprietary Censorship"
+msgstr "Censura privativa"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Nonfree (proprietary) software is very often malware (designed to mistreat "
+"the user). Nonfree software is controlled by its developers, which puts them "
+"in a position of power over the users; <a href=\"/philosophy/free-software-"
+"even-more-important.html\">that is the basic injustice</a>. The developers "
+"and manufacturers often exercise that power to the detriment of the users "
+"they ought to serve."
+msgstr ""
+"O software não livre (privativo) é muitas vezes um <em>malware</em> "
+"(projetado para maltratar o usuário). O software não livre é controlado por "
+"seus desenvolvedores, o que os coloca em uma posição de poder sobre os "
+"usuários; <a href=\"/philosophy/free-software-even-more-important.html"
+"\">isso é a injustiça básica</a>. Os desenvolvedores e fabricantes muitas "
+"vezes exercem esse poder em detrimento dos usuários aos quais eles deveriam "
+"servir."
+
+#. type: Content of: <div><div><p>
+msgid "This typically takes the form of malicious functionalities."
+msgstr "Isso geralmente assume a forma de funcionalidades maliciosas."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"One kind of malicious functionality is censorship of what users can access.  "
+"Here are examples of programs which do this.  We have a <a href=\"/"
+"proprietary/proprietary-jails.html#about-page\">separate list of proprietary "
+"systems that censor installation</a> of application programs (we call them "
+"&ldquo;jails&rdquo;)."
+msgstr ""
+"Um tipo de funcionalidade maliciosa é a censura do que os usuários podem "
+"acessar. Aqui estão alguns exemplos de programas que fazem isso. Temos uma "
+"<a href=\"/proprietary/proprietary-jails.html#about-page\">lista separada de "
+"sistemas privativos que censuram a instalação</a> de programas de "
+"aplicativos (os chamamos de “prisões”)."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Selling products designed as platforms for a company to impose censorship "
+"ought to be forbidden by law, but it isn't."
+msgstr ""
+"Vender produtos concebidos como plataformas para uma empresa impor censura "
+"deveria ser proibido por lei, mas não é."
+
+#. type: Content of: <div><div><div><p>
+msgid ""
+"If you know of an example that ought to be in this page but isn't here, "
+"please write to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a> to inform us. Please include the URL of a trustworthy reference "
+"or two to serve as specific substantiation."
+msgstr ""
+"Se você conhece um exemplo que deveria estar nesta página, mas não está "
+"aqui, por favor, escreva para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a> para nos informar. Por favor, inclua a URL de uma "
+"ou duas referências confiáveis para servir como comprovação específica."
+
+#. type: Content of: <div><div><h3>
+msgid "Apple"
+msgstr "Apple"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Apple mainly uses iOS, which is a typical jail, to impose censorship through "
+"the Apple Store. Please refer to <a href=\"/proprietary/proprietary-jails."
+"html#apple\">Proprietary Jails</a> for more information."
+msgstr ""
+"A Apple usa principalmente o iOS, que é uma prisão típica, para impor "
+"censura por meio da Apple Store. Consulte <a href=\"/proprietary/proprietary-"
+"jails.html#apple\">Prisões privativas</a> para obter mais informações."
+
+#. type: Content of: <div><div><h3>
+msgid "Google"
+msgstr "Google"
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Google <a href=\"http://www.csmonitor.com/Technology/2017/0316/Google-Family-"
+"Link-gives-parents-a-way-to-monitor-preteens-accounts\"> offers censorship "
+"software</a>, ostensibly for parents to put into their children's computers."
+msgstr ""
+"Google <a href=\"http://www.csmonitor.com/Technology/2017/0316/Google-Family-"
+"Link-gives-parents-a-way-to-monitor-preteens-accounts\"> oferece software de "
+"censura</a>, ostensivamente, para os pais colocarem nos computadores de seus "
+"filhos."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"On Windows and MacOS, Chrome <a href=\"https://sites.google.com/a/chromium."
+"org/dev/developers/extensions-deployment-faq\"> disables extensions</a> that "
+"are not hosted in the Chrome Web Store."
+msgstr ""
+"No Windows e MacOS, o Chrome <a href=\"https://sites.google.com/a/chromium."
+"org/dev/developers/extensions-deployment-faq\"> desativa extensões</a> que "
+"não estão hospedadas no Chrome Web Store."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"For example, an extension was <a href=\"https://web.archive.org/"
+"web/20170120094917/https://consumerist.com/2017/01/18/why-is-google-blocking-"
+"this-ad-blocker-on-chrome/\"> banned from the Chrome Web Store, and "
+"permanently disabled</a> on more than 40,000 computers."
+msgstr ""
+"Por exemplo, uma extensão era <a href=\"https://web.archive.org/"
+"web/20170120094917/https://consumerist.com/2017/01/18/why-is-google-blocking-"
+"this-ad-blocker-on-chrome/\"> banida da Chrome Web Store e permanentemente "
+"desativada</a> em mais de 40.000 computadores."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"<a href=\"http://www.theguardian.com/media/2016/feb/03/google-pulls-ad-"
+"blocking-app-for-samsung-phones\"> Google censored installation of Samsung's "
+"ad-blocker</a> on Android phones, saying that blocking ads is &ldquo;"
+"interference&rdquo; with the sites that advertise (and surveil users through "
+"ads)."
+msgstr ""
+"<a href=\"http://www.theguardian.com/media/2016/feb/03/google-pulls-ad-"
+"blocking-app-for-samsung-phones\"> O Google censurou a instalação do "
+"bloqueador de anúncios da Samsung</a> em telefones Android, dizendo que o "
+"bloqueio de anúncios é “interferência” com os sites que anunciam (e vigiam "
+"os usuários por meio de anúncios)."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"The ad-blocker is proprietary software, just like the program (Google Play) "
+"that Google used to deny access to install it. Using a nonfree program gives "
+"the owner power over you, and Google has exercised that power."
+msgstr ""
+"O bloqueador de anúncios é um software privativo, assim como o programa "
+"(Google Play) que o Google usou para negar o acesso para instalá-lo. O uso "
+"de um programa não livre dá ao dono poder sobre você, e o Google exerce esse "
+"poder."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Google's censorship, unlike that of Apple, is not total: Android allows "
+"users to install apps in other ways. You can install free programs from f-"
+"droid.org."
+msgstr ""
+"A censura do Google, ao contrário da Apple, não é total: o Android permite "
+"que os usuários instalem aplicativos de outras maneiras. Você pode instalar "
+"programas livres em f-droid.org."
+
+#. type: Content of: <div><div><h3>
+msgid "Game consoles"
+msgstr "Consoles de jogos"
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"The <a href=\"https://www.gamespot.com/articles/nintendos-new-3ds-charges-30-"
+"cents-to-remove-an-in/1100-6421996/\"> Nintendo 3DS</a> censors web "
+"browsing; it is possible to turn off the censorship, but that requires "
+"identifying oneself to pay, which is a form of surveillance."
+msgstr ""
+"O <a href=\"https://www.gamespot.com/articles/nintendos-new-3ds-charges-30-"
+"cents-to-remove-an-in/1100-6421996/\"> Nintendo 3DS</a> censura a navegação "
+"na web; é possível desligar a censura, mas isso exige a identificação para "
+"pagar, o que é uma forma de vigilância."
+
+#. type: Content of: <div><div><h3>
+msgid "Online conferencing"
+msgstr "Conferência online"
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"The company behind Zoom does not only deny users' computer freedom by "
+"developing this piece of nonfree software, it also violates users' civil "
+"rights by <a href=\"https://www.theverge.com/2020/6/12/21288995/zoom-"
+"blocking-feature-chinese-government-censorship\">banning events and "
+"censoring users</a> to serve the agenda of governments."
+msgstr ""
+"A empresa por trás do Zoom não apenas nega a liberdade de uso do computador "
+"ao desenvolver este software não livre, mas também viola os direitos civis "
+"dos usuários <a href=\"https://www.theverge.com/2020/6/12/21288995/zoom-"
+"blocking-feature-chinese-government-censorship\">banindo eventos e "
+"censurando usuários</a> para servir à agenda dos governos."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Freedom respecting programs such as <a href=\"https://directory.fsf.org/wiki/"
+"Jitsi\">Jitsi</a> or BigBlueButton can be used instead, better still if "
+"installed in a server controlled by its users."
+msgstr ""
+"Programas que respeitam a liberdade como <a href=\"https://directory.fsf.org/"
+"wiki/Jitsi\">Jitsi</a> ou BigBlueButton podem ser usados, melhor ainda se "
+"instalados em um servidor controlado por seus usuários."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and contributing translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and contributing "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2014-2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2014-2021 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 "
+"International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by/4.0/deed.pt_BR\">Creative Commons Atribuição "
+"4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"A tradução das páginas na seção Proprietary teve a contribuição de:\n"
+"Cassiano Reinert Novais dos Santos <a href=\"mailto:caco@posteo.net\">&lt;"
+"caco@posteo.net&gt;</a> e\n"
+"Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome."
+"org&gt;</a>."
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização:"

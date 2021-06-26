@@ -1,0 +1,720 @@
+# Brazilian Portuguese translation of https://www.gnu.org/proprietary/proprietary-addictions.html
+# Copyright (C) 2021 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: proprietary-addictions.html\n"
+"POT-Creation-Date: 2021-01-12 08:55+0000\n"
+"PO-Revision-Date: 2021-06-26 09:40-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt-br\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. type: Content of: <title>
+msgid "Proprietary Addictions - GNU Project - Free Software Foundation"
+msgstr "Vícios privativos - Projeto GNU - Free Software Foundation"
+
+#. type: Content of: <div><a>
+msgid "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+msgstr "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+
+#. type: Attribute 'title' of: <div><a><img>
+msgid "Section contents"
+msgstr "Índice da Seção"
+
+#. type: Attribute 'alt' of: <div><a><img>
+msgid "&nbsp;[Section contents]&nbsp;"
+msgstr "&nbsp;[Índice da Seção]&nbsp;"
+
+#. type: Content of: <div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><p><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><p><a><img>
+msgid "GNU Home"
+msgstr "Página inicial do GNU"
+
+#. type: Content of: <div><p>
+msgid ""
+"</a>&nbsp;/ <a href=\"/proprietary/proprietary.html\">Malware</a>&nbsp;/ By "
+"type&nbsp;/"
+msgstr ""
+"</a>&nbsp;/ <a href=\"/proprietary/proprietary.html\"><em>Malware</em> "
+"privativo</a>&nbsp;/ Por tipo&nbsp;/"
+
+#. type: Content of: <div><h2>
+msgid "Proprietary Addictions"
+msgstr "Vícios privativos"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Nonfree (proprietary) software is very often malware (designed to mistreat "
+"the user). Nonfree software is controlled by its developers, which puts them "
+"in a position of power over the users; <a href=\"/philosophy/free-software-"
+"even-more-important.html\">that is the basic injustice</a>. The developers "
+"and manufacturers often exercise that power to the detriment of the users "
+"they ought to serve."
+msgstr ""
+"O software não livre (privativo) é muitas vezes um <em>malware</em> "
+"(projetado para maltratar o usuário). O software não livre é controlado por "
+"seus desenvolvedores, o que os coloca em uma posição de poder sobre os "
+"usuários; <a href=\"/philosophy/free-software-even-more-important.html"
+"\">isso é a injustiça básica</a>. Os desenvolvedores e fabricantes muitas "
+"vezes exercem esse poder em detrimento dos usuários aos quais eles deveriam "
+"servir."
+
+#. type: Content of: <div><div><p>
+msgid "This typically takes the form of malicious functionalities."
+msgstr "Isso geralmente assume a forma de funcionalidades maliciosas."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"This page deals with malicious functionalities that are added to some "
+"programs for the sole purpose of luring users into more and more frequent "
+"and intensive use of the program, with the risk of getting addicted."
+msgstr ""
+"Esta página trata de funcionalidades maliciosas que são adicionadas a alguns "
+"programas com o único propósito de atrair os usuários a um uso cada vez mais "
+"frequente e intensivo do programa, com o risco de se tornarem viciados."
+
+#. type: Content of: <div><div><div><p>
+msgid ""
+"If you know of an example that ought to be in this page but isn't here, "
+"please write to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a> to inform us. Please include the URL of a trustworthy reference "
+"or two to serve as specific substantiation."
+msgstr ""
+"Se você conhece um exemplo que deveria estar nesta página, mas não está "
+"aqui, por favor, escreva para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a> para nos informar. Por favor, inclua a URL de uma "
+"ou duas referências confiáveis para servir como comprovação específica."
+
+#. type: Content of: <div><div><h3>
+msgid "How software is made addictive"
+msgstr "Como software é tornado viciante"
+
+#. type: Content of: <div><div><h4>
+msgid "Games"
+msgstr "Jogos"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Many games are designed to keep gamers compulsively playing&mdash;and "
+"spending money on the game. To achieve this result, developers use <a href="
+"\"http://www.cracked.com/article_18461_5-creepy-ways-video-games-are-trying-"
+"to-get-you-addicted.html\"> techniques that derive from behavioral and brain "
+"research</a>:"
+msgstr ""
+"Muitos jogos são projetados para manter os jogadores jogando compulsivamente "
+"&ndash; e renovando suas assinaturas no jogo. Para alcançar esse resultado, "
+"os desenvolvedores usam <a href=\"http://www.cracked.com/article_18461_5-"
+"creepy-ways-video-games-are-trying-to-get-you-addicted.html\"> técnicas que "
+"derivam de pesquisa comportamental e cerebral</a>:"
+
+#. type: Content of: <div><div><dl><dt>
+msgid "The Skinner Box"
+msgstr "A Caixa de Skinner"
+
+#. type: Content of: <div><div><dl><dd>
+msgid ""
+"An environment in which the user is trained to &ldquo;push the lever&ldquo;, "
+"i.e. do a certain action over and over again in order to get a reward. This "
+"is also known as &ldquo;grinding.&rdquo;"
+msgstr ""
+"Um ambiente no qual o usuário é treinado para “empurrar a alavanca”, ou "
+"seja, fazer uma certa ação várias vezes para obter uma recompensa. Isso "
+"também é conhecido como <i lang=\"en\">“grinding”</i>."
+
+#. type: Content of: <div><div><dl><dt>
+msgid "Virtual food pellets"
+msgstr "Grãos de comida virtuais"
+
+#. type: Content of: <div><div><dl><dd>
+msgid ""
+"Items that have nothing to do with the game itself, but are valuable to "
+"gamers because of the work required to obtain them (e.g., EverQuest); some "
+"people will end up collecting them for the sake of collecting."
+msgstr ""
+"Itens que não têm nada a ver com o jogo em si, mas são valiosos para os "
+"jogadores por causa do trabalho necessário para obtê-los (por exemplo, "
+"EverQuest); algumas pessoas acabarão coletando-as só por coletar."
+
+#. type: Content of: <div><div><dl><dt>
+msgid "Random rewards"
+msgstr "Recompensas aleatórias"
+
+#. type: Content of: <div><div><dl><dd>
+msgid ""
+"They turn the game into the equivalent of a slot machine (e.g., World of "
+"Warcraft, ZT Online)."
+msgstr ""
+"Eles transformam o jogo no equivalente a um caça-níqueis (por exemplo, World "
+"of Warcraft, ZT Online)."
+
+#. type: Content of: <div><div><dl><dt>
+msgid "Elaborate cycles"
+msgstr "Ciclos elaborados"
+
+#. type: Content of: <div><div><dl><dd>
+msgid ""
+"Gamers' behavior can be &ldquo;shaped&rdquo; by making cycles (progress from "
+"one level to the next) slower and slower, designing complex tasks that are "
+"difficult to get out of (e.g. World of Warcraft), or conversely dividing "
+"them up in small chunks to avoid frustration (e.g., New Super Mario Bros."
+"Wii)."
+msgstr ""
+"O comportamento dos jogadores pode ser “moldado” tornando os ciclos "
+"(progredir de um nível para o outro) mais e mais lento, projetando tarefas "
+"complexas das quais é difícil sair (por exemplo, World of Warcraft) ou "
+"dividindo-as em pequenos pedaços para evitar frustrações (por exemplo, New "
+"Super Mario Bros.Wii)."
+
+#. type: Content of: <div><div><dl><dt>
+msgid "Decay of game assets"
+msgstr "Decadência de ativos <i lang=\"en\">(assets)</i> do jogo"
+
+#. type: Content of: <div><div><dl><dd>
+msgid ""
+"This makes it necessary for a gamer to keep playing, without vacations, "
+"simply to avoid losing what they have earned so far (e.g., Farmville, Ultima "
+"Online, Animal Crossing)."
+msgstr ""
+"Isso torna necessário que um jogador continue jogando, sem férias, "
+"simplesmente para evitar perder o que ganhou até agora (por exemplo, "
+"Farmville, Ultima Online, Animal Crossing)."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Games such as World of Warcraft, which are considered very addictive, use "
+"several of these techniques."
+msgstr ""
+"Jogos como World of Warcraft, que são considerados muito viciantes, usam "
+"várias dessas técnicas."
+
+#. type: Content of: <div><div><p>
+msgid "There are even more elaborate ways to get users addicted to a game."
+msgstr ""
+"Existem maneiras ainda mais elaboradas de tornar os usuários viciados em um "
+"jogo."
+
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"&ldquo;Loot boxes&rdquo; are a direct application of the random reward "
+"mechanism, and their addictiveness is enhanced by seductive animation. They "
+"are <a href=\"https://www.pcgamer.com/behind-the-addictive-psychology-and-"
+"seductive-art-of-loot-boxes/\"> akin to gambling</a>."
+msgstr ""
+"“Caixas de pilhagem” são uma aplicação direta do mecanismo de recompensa "
+"aleatória, e seu vício é reforçado por uma animação sedutora. Elas são <a "
+"href=\"https://www.pcgamer.com/behind-the-addictive-psychology-and-seductive-"
+"art-of-loot-boxes/\"> semelhantes aos jogos de azar</a>."
+
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"<a href=\"https://wikipedia.org/wiki/Gacha_game\"><i>Gacha</i></a> systems, "
+"widely used by Japanese games since 2010, may be considered the ancestors of "
+"loot boxes. A <i>gacha</i> is the virtual equivalent of a capsule-toy "
+"vending machine. Its addictiveness is based on random rewards, and also on "
+"the basic instinct of people to collect items."
+msgstr ""
+"Sistemas <a href=\"https://wikipedia.org/wiki/Gacha_game\"><i>Gacha</i></a>, "
+"amplamente utilizados pelos jogos japoneses desde 2010, podem ser "
+"considerados os ancestrais das caixas de pilhagem. Um <i>gacha</i> é o "
+"equivalente virtual de uma máquina de venda automática de brinquedos em "
+"cápsula. Sua dependência é baseada em recompensas aleatórias e também no "
+"instinto básico das pessoas para coletar itens."
+
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"The developers of gratis mobile games apply the techniques described above "
+"to <a href=\"https://www.psychguides.com/interact/the-psychology-of-freemium/"
+"\"> turn their products into slot machines</a>. This is clearly described in "
+"an infographic. The revenue generated by these games is directly related to "
+"the number of strongly addicted gamers (called &ldquo;whales&rdquo;) and to "
+"the amount of money they are willing to spend. Thus developers carefully "
+"study the behavior of millions of users to increase the addictiveness of "
+"their games."
+msgstr ""
+"Os desenvolvedores de jogos grátis para dispositivos móveis aplicam as "
+"técnicas descritas acima para <a href=\"https://www.psychguides.com/interact/"
+"the-psychology-of-freemium/\"> transformar seus produtos em caça-níqueis</"
+"a>. Isso está claramente descrito em um infográfico. O lucro gerado por "
+"esses jogos está diretamente relacionado ao número de jogadores fortemente "
+"viciados (chamados de “baleias”) e à quantidade de dinheiro que eles têm a "
+"intenção de gastar. Então, os desenvolvedores estudam cuidadosamente o "
+"comportamento de milhões de usuários para aumentar o vício em seus jogos."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"<small>(Unfortunately, the last two articles use &ldquo;free&rdquo; to mean "
+"&ldquo;zero price.&rdquo; We recommend saying &ldquo;gratis&rdquo; instead.)"
+"</small>"
+msgstr ""
+"<small>(Infelizmente, os últimos dois artigos usam <i lang=\"en\">“free”</i> "
+"no sentido de “preço zero”. Nós recomendamos dizer “grátis”.)</small>"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"However, the addictiveness of a game is only one of the determinants of "
+"addiction. Equally important are the psychological make-up and life "
+"circumstances of the gamer. Gaming addiction, like other addictions, is a "
+"form of mental escape from an unrewarding life. The sad truth is that, in "
+"the long run, it leads to an even worse life."
+msgstr ""
+"No entanto, a dependência de um jogo é apenas um dos determinantes do vício. "
+"Igualmente importante é a constituição psicológica e as circunstâncias da "
+"vida do jogador. O vício em jogos, como outros vícios, é uma forma de fuga "
+"mental de uma vida pouco recompensadora. A triste verdade é que, a longo "
+"prazo, leva a uma vida ainda pior."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"<small><em>Note:</em>&nbsp; We are not gamers. If you think we have "
+"misunderstood some point, or have suggestions for making this text clearer "
+"or more correct, please send them to &lt;<a href=\"mailto:webmasters@gnu.org"
+"\">webmasters@gnu.org</a>&gt;.</small>"
+msgstr ""
+"<small><em>Nota:</em>&nbsp;Nós não somos <i lang=\"en\">gamers</i>. Se você "
+"acredita que nos equivocamos algum ponto ou tem sugestões para tornar esse "
+"texto mais claro ou mais correto, envie-os para &lt;<a href=\"mailto:"
+"webmasters@gnu.org\">webmasters@gnu.org</a>&gt;.</small>"
+
+#. type: Content of: <div><div><h4>
+msgid "Online gambling"
+msgstr "Aposta online"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Online gambling services (and their nonfree client programs) are <a href="
+"\"https://www.theguardian.com/society/2019/feb/22/gambling-apps-more-"
+"dangerous-than-fobts-study-finds\"> designed to be addictive</a>, much like "
+"on-line games. They achieve this with various different malfunctionalities, "
+"often in combination."
+msgstr ""
+"Os serviços de jogos de azar on-line (e seus programas clientes não livres) "
+"são <a href=\"https://www.theguardian.com/society/2019/feb/22/gambling-apps-"
+"more-dangerous-than-fobts-study-finds\"> projetados para serem viciantes</"
+"a>, muito parecidos com outros jogos on-line. Eles conseguem isso com várias "
+"disfunções diferentes, muitas vezes em combinação."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Many of these malfunctionalities are implemented by the server and the "
+"client program together. In some cases, there is no honest way that the "
+"client program could counteract the nastiness&mdash;for instance, when the "
+"server manipulates amounts won in order to get the user addicted, the only "
+"way the client program could block that is to pretend the win did not "
+"happen. But users would not want that modification."
+msgstr ""
+"Muitas dessas disfuncionalidades são implementadas pelo servidor e pelo "
+"programa cliente juntos. Em alguns casos, não existe uma maneira honesta de "
+"o programa cliente neutralizar a maldade – por exemplo, quando o servidor "
+"manipula os montantes ganhos para que o usuário fique viciado, a única "
+"maneira de bloquear o programa é fingir que a vitória não aconteceu. Mas os "
+"usuários não querem essa modificação."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"However, modification of the client program could cover up some addictive "
+"behaviors without losing the user anything."
+msgstr ""
+"No entanto, a modificação do programa cliente pode encobrir alguns "
+"comportamentos aditivos sem perder nada do usuário."
+
+#. type: Content of: <div><div><h4>
+msgid "Social networks"
+msgstr "Redes sociais"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"The major social networks are continuously optimizing their design to <a "
+"href=\"https://medium.com/thrive-global/how-technology-hijacks-peoples-minds-"
+"from-a-magician-and-google-s-design-ethicist-56d62ef5edf3\"> grab users' "
+"attention</a> by taking advantage of the psychological vulnerabilities "
+"described above, eventually leading some to addiction.  For these people, a "
+"phone becomes the equivalent of a slot machine.  Many of the addictive "
+"features (menu, &ldquo;likes,&rdquo; photo tagging, autoplay, etc.) are "
+"built into the client software, and can't be removed because the software is "
+"proprietary."
+msgstr ""
+"As principais redes sociais otimizam continuamente seu design para <a href="
+"\"https://medium.com/thrive-global/how-technology-hijacks-peoples-minds-from-"
+"a-magician-and-google-s-design-ethicist-56d62ef5edf3\"> prender a atenção "
+"dos usuários</a> aproveitando as vulnerabilidades psicológicas descritas "
+"acima, levando alguns ao vício. Para essas pessoas, um telefone se torna o "
+"equivalente a uma máquina de caça-níqueis. Muitos dos recursos viciantes "
+"(menu, “curtir”, marcação de fotos, reprodução automática etc.) são "
+"integrados ao software cliente e não podem ser removidos porque o software é "
+"privativo."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Thus, some social networking apps <a href=\"https://www.jeffbullas.com/"
+"facebook-creates-addiction/\">try to merge into your daily routine</a> by "
+"exploiting social pressure and your natural desire for socialization, "
+"converting habitual gestures into thorough addiction. As already noted for "
+"games, addictiveness is essentially based on random rewards. In the present "
+"case, the rewards are messages from friends and followers, &ldquo;likes,"
+"&rdquo; news, interesting videos, etc. The software is designed to trigger "
+"users' desire for these rewards, and keep this desire alive as long as "
+"possible."
+msgstr ""
+"Então, alguns aplicativos de redes sociais <a href=\"https://www.jeffbullas."
+"com/facebook-creates-addiction/\">tentam se fundir à sua rotina diária</a> "
+"explorando a pressão social e seu desejo natural de socialização, "
+"convertendo os gestos habituais em um vício completo. Como já observado nos "
+"jogos, o vício é essencialmente baseada em recompensas aleatórias. No "
+"presente caso, as recompensas são mensagens de amigos e seguidores, "
+"“curtidas”, notícias, vídeos interessantes etc. O software foi projetado "
+"para despertar o desejo dos usuários por essas recompensas e manter esse "
+"desejo vivo o maior tempo possível."
+
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"By default, notifications are sent every time a new item comes in, instead "
+"of, say, once a day. They are associated with sounds or vibrations which "
+"make them even more compelling. (Remember Pavlov's experiments with rats.) "
+"These triggers are often opt-out, and many users don't try to turn them off. "
+"They are most effective when the app is installed on a mobile device which "
+"is always on and never leaves the user. As a side effect, they may "
+"contribute to the <a href=\"https://www.psychologytoday.com/us/blog/reading-"
+"between-the-headlines/201307/smartphone-addiction\"> addictiveness of &ldquo;"
+"smart&rdquo; phones</a>."
+msgstr ""
+"Por padrão, as notificações são enviadas toda vez que um novo item aparece, "
+"em vez de, digamos, uma vez por dia. Eles estão associados a sons ou "
+"vibrações que os tornam ainda mais atraentes. (Lembre-se das experiências de "
+"Pavlov com ratos.) Esses gatilhos geralmente estão desativados e muitos "
+"usuários não tentam desativá-los. Eles são mais eficazes quando o aplicativo "
+"é instalado em um dispositivo móvel que está sempre ativado e nunca sai do "
+"usuário. Como efeito colateral, eles podem contribuir para a <a href="
+"\"https://www.psychologytoday.com/us/blog/reading-between-the-"
+"headlines/201307/smartphone-addiction\"> dependência de telefones "
+"“inteligentes”</a>."
+
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"Users are served selected material that is likely to interest them, based on "
+"<a href=\"https://theconversation.com/facebook-is-killing-democracy-with-its-"
+"personality-profiling-data-93611\"> profiling</a>. (This paves the way to <a "
+"href=\"/proprietary/proprietary-manipulation.html\">manipulation</a>, by the "
+"way.)"
+msgstr ""
+"Usuários são servidos com materiais selecionados que provavelmente os "
+"interessa, com base em <a href=\"https://theconversation.com/facebook-is-"
+"killing-democracy-with-its-personality-profiling-data-93611\">perfilamento</"
+"a>. (Aliás, isso pavimenta o caminho para <a href=\"/proprietary/proprietary-"
+"manipulation.html\">manipulação</a>.)"
+
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"The app interface is designed to make users stay on the site as long as "
+"possible, using <a href=\"https://uxplanet.org/ux-infinite-scrolling-vs-"
+"pagination-1030d29376f1\"> infinite scrolling</a> for example."
+msgstr ""
+"A interface do aplicativo é projetada para fazer os usuários ficarem no site "
+"o máximo possível, usando <a href=\"https://uxplanet.org/ux-infinite-"
+"scrolling-vs-pagination-1030d29376f1\"> rolagem infinita</a>, por exemplo."
+
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"The company that owns the social network tries to cover users' needs as "
+"extensively as possible, by <a href=\"https://en.wikipedia.org/wiki/"
+"List_of_mergers_and_acquisitions_by_Facebook\"> acquiring other companies</"
+"a> if needed. Once users have concentrated most of their online activities "
+"and a lot of their personal data on a single platform (or a set of platforms "
+"that belong to the same group), they find it <a href=\"https://www."
+"theguardian.com/lifeandstyle/2018/jan/01/antisocial-media-why-decided-cut-"
+"back-facebook-instagram\"> almost impossible to leave</a>. And even if they "
+"wanted to, they would have a hard time digging out the relevant options, and "
+"the app would aggressively nag them to stay."
+msgstr ""
+"A empresa dona da rede social tenta cobrir as necessidades dos usuários o "
+"mais extensamente possível, <a href=\"https://en.wikipedia.org/wiki/"
+"List_of_mergers_and_acquisitions_by_Facebook\"> adquirindo outras empresas</"
+"a>, se necessário. Depois que os usuários concentram a maioria de suas "
+"atividades online e muitos dados pessoais em uma única plataforma (ou um "
+"conjunto de plataformas que pertencem ao mesmo grupo), eles acham <a href="
+"\"https://www.theguardian.com/lifeandstyle/2018/jan/01/antisocial-media-why-"
+"decided-cut-back-facebook-instagram\"> quase impossível sair</a>. E mesmo se "
+"quisessem, eles teriam dificuldade em descobrir as opções relevantes, e o "
+"aplicativo os importunaria agressivamente para ficar."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"A good way to minimize the risk of addiction, short of avoiding social media "
+"altogether, is to turn off notifications and leave as little as possible of "
+"your own data on the platform."
+msgstr ""
+"Uma boa maneira de minimizar o risco de dependência, além de evitar as "
+"mídias sociais, é desativar as notificações e deixar o mínimo possível de "
+"seus próprios dados na plataforma."
+
+#. type: Content of: <div><div><h3>
+msgid "Examples of addictive software"
+msgstr "Exemplos de software viciante"
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"The addictive Genshin Impact relentlessly <a href=\"https://www.theguardian."
+"com/games/2020/oct/22/genshin-impact-video-game-slowly-taking-over-the-world"
+"\">coerces players to spend money by overwhelming the game play with loot "
+"boxes</a>."
+msgstr ""
+"O viciante Genshin Impact implacavelmente <a href=\"https://www.theguardian."
+"com/games/2020/oct/22/genshin-impact-video-game-slowly-taking-over-the-world"
+"\">força os jogadores a gastar dinheiro sobrecarregando o jogo com caixas de "
+"pilhagem</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Roblox (among many other games)  created anti-features which sucker children "
+"into <a href=\"https://www.theguardian.com/money/2020/mar/11/my-kids-"
+"spent-600-on-their-ipads-without-my-knowledge\"> utilizing third-party "
+"payment services without authorization.</a>"
+msgstr ""
+"Roblox (entre muitos outros jogos) criou características indesejáveis que "
+"persuadiram crianças a <a href=\"https://www.theguardian.com/money/2020/"
+"mar/11/my-kids-spent-600-on-their-ipads-without-my-knowledge\"> utilizar "
+"serviços de pagamento de terceiros sem autorização.</a>"
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Resourceful children figured out how to <a href=\"https://www.bbc.co.uk/news/"
+"technology-48908766\"> empty their parents' bank account</a> buying packs of "
+"special players for an Electronic Arts soccer game."
+msgstr ""
+"Crianças engenhosas descobriram como <a href=\"https://www.bbc.co.uk/news/"
+"technology-48908766\"> esvaziar a conta bancária dos pais</a> comprando "
+"pacotes de jogadores especiais para um jogo de futebol da Electronic Arts."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"The random element of these packs (also called &ldquo;loot boxes&rdquo;) "
+"makes the game <a href=\"/proprietary/proprietary-addictions#addictiveness"
+"\"> strongly addictive</a>, but the fact that players are pressured to spend "
+"more in order to get ahead of their competitors further qualifies it as "
+"<em>predatory</em>.  Note that Belgium <a href=\"https://www."
+"rockpapershotgun.com/2019/01/29/fifa-ultimate-team-packs-blocked-in-belgium/"
+"\"> made these loot boxes illegal</a> in 2018."
+msgstr ""
+"O elemento aleatório desses pacotes (também chamados de “caixas de "
+"pilhagem”) torna o jogo <a href=\"/proprietary/proprietary-"
+"addictions#addictiveness\"> fortemente viciante</a>, mas o fato de que os "
+"jogadores são pressionados a gastar mais para chegar à frente de seus "
+"concorrentes qualifica-o como <em>predatório</em>. Observe que a Bélgica <a "
+"href=\"https://www.rockpapershotgun.com/2019/01/29/fifa-ultimate-team-packs-"
+"blocked-in-belgium/\"> tornou essas caixas de pilhagem</a> ilegais em 2018."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"The only good reason to have a copy of such a proprietary game is to study "
+"it for free software development."
+msgstr ""
+"A única boa razão para ter uma cópia desse jogo privativo é estudá-lo para o "
+"desenvolvimento de software livre."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Clash of Clans is a good example of a gratis mobile game that its developers "
+"<a href=\"https://gamerant.com/clash-of-clans-addiction/\"> made very "
+"addictive</a> for a large proportion of its users&mdash;and turned into a "
+"cash machine for themselves&mdash;by using <a href=\"/proprietary/"
+"proprietary-addictions.html#addictiveness\"> psychological manipulation "
+"techniques</a>."
+msgstr ""
+"Cash of Clans é um bom exemplo de um jogo grátis para celular cujos "
+"desenvolvedores <a href=\"https://gamerant.com/clash-of-clans-addiction/\"> "
+"tornaram muito viciante</a> para uma grande proporção de seus usuários – e o "
+"transformaram em um caixa eletrônico para eles mesmos – usando <a href=\"/"
+"proprietary/proprietary-addictions.html#addictiveness\"> técnicas de "
+"manipulação psicológica</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"<small>(The article uses &ldquo;free&rdquo; to mean &ldquo;zero price,"
+"&rdquo; which is a usage we should avoid. We recommend saying &ldquo;"
+"gratis&rdquo; instead.)</small>"
+msgstr ""
+"<small>(O artigo usa <i lang=\"en\">“free”</i> no sentido de “preço zero”, "
+"sentido este que deve ser evitado. Nós recomendamos dizer “grátis”.)</small>"
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"In the game Fruit Pop, the player buys boosts with coins to get a high "
+"score. The player gets coins at the end of each game, and can buy more coins "
+"with real money."
+msgstr ""
+"No jogo Fruit Pop, o jogador compra bônus com moedas para obter uma "
+"pontuação alta. O jogador recebe moedas no final de cada jogo e pode comprar "
+"mais moedas com dinheiro real."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Getting a higher score once leads the player to desire higher score again "
+"later. But the higher score resulting from the boost <a href=\"https://qz."
+"com/873348/50000-coins-for-1-99-how-mobile-game-in-app-purchases-are-warping-"
+"kids-understanding-of-basic-economic-ideas/\">does not give the player more "
+"coins, and does not help the player get a higher score in subsequent games</"
+"a>. To get that, the player will need a boost frequently, and usually has to "
+"pay real money for that. Since boosts are exciting and entertaining, the "
+"player is subtly pushed to purchase more coins with real money to get "
+"boosts, and it can develop into a costly habit."
+msgstr ""
+"Obter uma pontuação mais alta uma vez leva o jogador a desejar maior "
+"pontuação novamente mais tarde. Mas uma pontuação maior resultante do "
+"impulsionador <a href=\"https://qz.com/873348/50000-coins-for-1-99-how-"
+"mobile-game-in-app-purchases-are-warping-kids-understanding-of-basic-"
+"economic-ideas/\"> não dá ao jogador mais moedas, e não ajuda o jogador a "
+"obter uma pontuação mais alta nos jogos subsequentes</a>. Para conseguir "
+"isso, o jogador precisará de um impulsionador com frequência e, geralmente, "
+"terá que pagar em dinheiro real por isso. Como os impulsionadores são "
+"empolgantes e divertidos, o jogador é sutilmente empurrado para comprar mais "
+"moedas com dinheiro real para obter reforços, e isso pode se transformar em "
+"um hábito caro."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Many popular mobile games include a random-reward system called <a href="
+"\"#gacha\"><i>gacha</i></a> which is especially effective on children. One "
+"variant of gacha was declared illegal in Japan in 2012, but the other "
+"variants are still <a href=\"https://www.forbes.com/sites/"
+"olliebarder/2016/04/04/japanese-mobile-gaming-still-cant-shake-off-the-"
+"spectre-of-exploitation/\"> luring players into compulsively spending</a> "
+"inordinate amounts of money on virtual toys."
+msgstr ""
+"Muitos jogos populares para celular incluem um sistema de recompensa "
+"aleatório chamado <a href=\"#gacha\"><i>gacha</i></a>, que é especialmente "
+"eficaz para crianças. Uma variante do gacha foi declarada ilegal no Japão em "
+"2012, mas as outras variantes ainda estão <a href=\"https://www.forbes.com/"
+"sites/olliebarder/2016/04/04/japanese-mobile-gaming-still-cant-shake-off-the-"
+"spectre-of-exploitation/\"> atraindo jogadores para compulsivamente gastar</"
+"a> quantias excessivas de dinheiro em brinquedos virtuais."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Game Of War: Fire Age is an iPhone game with <a href=\"http://www.cracked."
+"com/personal-experiences-1762-5-reasons-i-lost-249000-iphone-game.html\"> "
+"addictive features</a> which are based on <a href=\"/proprietary/proprietary-"
+"addictions.html#addictiveness\">behavioral manipulation techniques</a>, "
+"compounded with group emulation. After a fairly easy start, the game slows "
+"down and becomes more difficult, so gamers are led to spend more and more "
+"money in order to keep up with their group. And if they stop playing for a "
+"while, the equipment they invested in gets destroyed by the &ldquo;"
+"enemy&rdquo; unless they buy an expensive &ldquo;shield&rdquo; to protect "
+"it. This game is also deceptive, as it uses confusing menus and complex "
+"stats to obfuscate true monetary costs."
+msgstr ""
+"Game Of War: Fire Age é um jogo para iPhone com <a href=\"http://www.cracked."
+"com/personal-experiences-1762-5-reasons-i-lost-249000-iphone-game.html"
+"\">recursos viciantes</a> baseados em <a href=\"/proprietary/proprietary-"
+"addictions.html#addictiveness\">técnicas de manipulação comportamental</a>, "
+"compostas com emulação de grupo. Depois de um começo bastante fácil, o jogo "
+"desacelera e se torna mais difícil, então os jogadores são levados a gastar "
+"mais e mais dinheiro para acompanhar o grupo. E se eles pararem de jogar por "
+"um tempo, o equipamento em que eles investiram será destruído pelo “inimigo” "
+"a menos que eles comprem um “escudo” caro para se proteger. Este jogo também "
+"é enganador, pois utiliza menus confusos e estatísticas complexas para "
+"ofuscar verdadeiros custos monetários."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Runescape is a popular online game with some <a href=\"https://www.reddit."
+"com/r/runescape/comments/33cd8g/question_why_is_runescape_so_addicting/\"> "
+"addictive features</a> derived from <a href=\"/proprietary/proprietary-"
+"addictions.html#addictiveness\"> behavioral manipulation techniques</a>. "
+"Certain repetitive aspects of the game, like <a href=\"https://en.wikipedia."
+"org/wiki/Grinding_(video_games)\"> grinding</a>, can be minimised by "
+"becoming a paying member, and can thus encourage children and impressionable "
+"people to spend money on the game."
+msgstr ""
+"Runescape é um jogo online popular com alguns <a href=\"https://www.reddit."
+"com/r/runescape/comments/33cd8g/question_why_is_runescape_so_addicting/\"> "
+"recursos viciantes</a> derivados de <a href=\"/proprietary/proprietary-"
+"addictions.html#addictiveness\"> técnicas de manipulação comportamental</a>. "
+"Certos aspectos repetitivos do jogo, como <a href=\"https://en.wikipedia.org/"
+"wiki/Grinding_(video_games)\"><i lang=\"en\">grinding</i></a>, podem ser "
+"minimizados ao se tornar um membro pagante e, assim, incentivar crianças e "
+"pessoas impressionáveis para gastar dinheiro no jogo."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
+"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and contributing translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and contributing "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções precisas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2019, 2020, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2019, 2020, 2021 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 "
+"International License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by/4.0/deed.pt_BR\">Creative Commons Atribuição "
+"4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"A tradução das páginas na seção Proprietary teve a contribuição de:\n"
+"Cassiano Reinert Novais dos Santos <a href=\"mailto:caco@posteo.net\">&lt;"
+"caco@posteo.net&gt;</a> e\n"
+"Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome."
+"org&gt;</a>."
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização:"
