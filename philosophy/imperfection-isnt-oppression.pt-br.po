@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: imperfection-isnt-oppression.html\n"
-"POT-Creation-Date: 2014-05-29 12:25+0000\n"
+"POT-Creation-Date: 2021-09-05 09:56+0000\n"
 "PO-Revision-Date: 2019-07-09 19:16-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -25,15 +25,15 @@ msgstr ""
 "Imperfeição não é o mesmo que opressão - Projeto GNU - Free Software "
 "Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Imperfection is not the same as oppression"
 msgstr "Imperfeição não é o mesmo que opressão"
 
-#. type: Content of: <p>
+#. type: Content of: <div><address>
 msgid "by <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
 msgstr "por <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "When a free program lacks capabilities that users want, that is unfortunate; "
 "we urge people to add what is missing. Some would go further and claim that "
@@ -52,7 +52,7 @@ msgstr ""
 "porque se baseia na identificação da capacidade com liberdade e da "
 "imperfeição com a opressão."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Each program inevitably has certain functionalities and lacks others that "
 "might be desirable. There are some jobs it can do, and others it can't do "
@@ -63,7 +63,7 @@ msgstr ""
 "outros que não podem ser realizados sem trabalho adicional. Essa é a "
 "natureza do <em>software</em>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The absence of key functionality can mean certain users find the program "
 "totally unusable. For instance, if you only understand graphical interfaces, "
@@ -86,7 +86,7 @@ msgstr ""
 "O <em>software</em> livre realmente deveria fornecer a funcionalidade que "
 "você precisa."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Free software really ought to provide it, but the lack of that feature does "
 "not make the program nonfree, because it is an imperfection, not oppression."
@@ -95,7 +95,7 @@ msgstr ""
 "recurso não faz o programa não-livre, porque é uma imperfeição, não uma "
 "opressão."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Making a program nonfree is an injustice committed by the developer that "
 "denies freedom to whoever uses it. The developer deserves condemnation for "
@@ -111,7 +111,7 @@ msgstr ""
 "tentamos resgatar as vítimas desenvolvendo um substituto livre, mas não "
 "podemos libertar o programa não-livre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Developing a free program without adding a certain important feature is not "
 "doing wrong to anyone. Rather, it's doing some good but not all the good "
@@ -127,7 +127,7 @@ msgstr ""
 "poderia fazê-lo. Seria ingrato, bem como autodestrutivo, destacar os autores "
 "do programa livre por não terem feito algum trabalho adicional."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "What we can do is state that completing the job calls for doing some "
 "additional work. That is constructive because it helps us convince someone "
@@ -137,7 +137,7 @@ msgstr ""
 "adicional. Isso é construtivo porque nos ajuda a convencer alguém a fazer "
 "esse trabalho."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If you think a certain extension in a free program is important, please push "
 "for it in the way that respects our contributors. Don't criticize the people "
@@ -180,14 +180,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
@@ -195,22 +195,22 @@ msgstr ""
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas deste site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2014 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2014 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2014, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2014, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
-"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
@@ -224,3 +224,6 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid "Copyright &copy; 2014 Free Software Foundation, Inc."
+#~ msgstr "Copyright &copy; 2014 Free Software Foundation, Inc."

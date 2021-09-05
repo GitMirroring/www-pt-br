@@ -4,11 +4,12 @@
 # Fernando Lozano, 2001.
 # Jan 2015: GNUNify; licensa > licença (T. Godefroy).
 # Rafael Fontenelle <rafaelff@gnome.org>, 2017-2021.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: rtlinux-patent.html\n"
-"POT-Creation-Date: 2014-03-14 04:35+0000\n"
-"PO-Revision-Date: 2021-05-03 10:15-0300\n"
+"POT-Creation-Date: 2021-09-05 10:26+0000\n"
+"PO-Revision-Date: 2021-07-29 16:39-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -44,20 +45,21 @@ msgstr ""
 "um acordo sobre uma versão totalmente compatível com GPL da Licença de "
 "Patente Aberta RTLinux do FSMLabs."
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "GPL-compliant version of RTLinux Open Patent License in Works"
 msgstr ""
 "Está Sendo Trabalhada Uma Versão Compatível com a GNU GPL da Licença de "
 "Patente Aberta do RTLinux"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"Here is our new announcement as of Oct 8 (its actual posting was delayed)."
+"Here is our new announcement as of Oct 8, 2001 (its actual posting was "
+"delayed)."
 msgstr ""
-"Aqui está o nosso novo anúncio a partir de 8 de outubro (sua publicação "
-"atual foi adiada)."
+"Aqui está o nosso novo anúncio a partir de 8 de outubro de 2001 (sua "
+"publicação atual foi adiada)."
 
-#. type: Content of: <p>
+#. type: Content of: <div><blockquote><p>
 msgid ""
 "The Free Software Foundation and Finite State Machine Labs Inc.  (FSMLabs) "
 "today announced the release of the Open RTLinux patent license Version 2 "
@@ -74,7 +76,7 @@ msgstr ""
 "pagamento de royalties. Esta licença protege o uso da GPL do processo "
 "RTLinux."
 
-#. type: Content of: <p>
+#. type: Content of: <div><blockquote><p>
 msgid ""
 "FSMLabs and FSF expect the release of this license to accelerate the rate of "
 "the free software revolution in the fields of embedded and realtime "
@@ -96,7 +98,7 @@ msgstr ""
 "pequenas empresas em todo o mundo. A FSF agradece a FSMLabs por suas "
 "contínuas contribuições para a comunidade de software livre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Here is the previous announcement, which was the subject of our <a href=\"/"
 "press/2001-09-18-RTLinux.html\">18 September press release</a>."
@@ -104,7 +106,7 @@ msgstr ""
 "Aqui está o anúncio anterior, que foi o assunto do nosso <a href=\"/"
 "press/2001-09-18-RTLinux.html\">comunicado de imprensa de 18 de setembro</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><blockquote><p>
 msgid ""
 "The Free Software Foundation and Finite State Machine Labs (FSMLAbs) have "
 "come to an agreement on a fully GPL-compliant version of FSMLabs RTLinux "
@@ -161,14 +163,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
@@ -176,22 +178,22 @@ msgstr ""
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas deste site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2001 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2001 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2001, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2001, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
-"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
@@ -200,9 +202,12 @@ msgstr ""
 "Traduzido por: Fernando Lozano <a href=\"mailto:fernando@lozano.eti.br\">&lt;"
 "fernando@lozano.eti.br&gt;</a>, 2001;\n"
 "Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome."
-"org&gt;</a>, 2017"
+"org&gt;</a>, 2017-2021"
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid "Copyright &copy; 2001 Free Software Foundation, Inc."
+#~ msgstr "Copyright &copy; 2001 Free Software Foundation, Inc."

@@ -5,13 +5,13 @@
 # Rodrigo Macedo <rodrigomacedo@rmsolucoeseminformatica.com>, 2012.
 # Rafael Beraldo <rberaldo@cabaladada.org>, 2012.
 # May 2014: trivial update (T. Godefroy).
-# Rafael Fontenelle <rafaelff@gnome.org>, 2020.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2020-2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: software-literary-patents.html\n"
-"POT-Creation-Date: 2020-10-26 13:25+0000\n"
-"PO-Revision-Date: 2020-12-13 18:26-0300\n"
+"POT-Creation-Date: 2021-08-28 13:56+0000\n"
+"PO-Revision-Date: 2021-09-05 19:49-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1)\n"
-"X-Generator: Gtranslator 3.38.0\n"
+"X-Generator: Gtranslator 40.0\n"
 
 # type: Content of: <title>
 #. type: Content of: <title>
@@ -31,30 +31,16 @@ msgstr ""
 "Foundation"
 
 # type: Content of: <h2>
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Software Patents and Literary Patents"
 msgstr "Patentes de Software e Patentes Literárias"
 
-# type: Content of: <p>
-#. type: Content of: <p>
-msgid ""
-"by <strong><a href=\"http://stallman.org/\">Richard Stallman</a></strong>"
-msgstr ""
-"por <strong><a href=\"http://stallman.org/\">Richard Stallman</a></strong>"
+#. type: Content of: <div><address>
+msgid "by <a href=\"https://stallman.org/\">Richard Stallman</a>"
+msgstr "por <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 
 # type: Content of: <p>
-#. type: Content of: <p>
-msgid ""
-"<em>The first version of this article was published in <cite>The Guardian</"
-"cite>, of London, on June 23, 2005.  It focused on the proposed European "
-"software patent directive.</em>"
-msgstr ""
-"<em>A primeira versão deste artigo foi publicada pela primeira vez em "
-"<cite>The Guardian</cite>, de Londres, em 23 de junho de 2005.  Ela focava "
-"na diretiva proposta de patentes de software europeia.</em>"
-
-# type: Content of: <p>
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "When politicians consider the question of software patents, they are usually "
 "voting blind; not being programmers, they don't understand what software "
@@ -80,7 +66,7 @@ msgstr ""
 "razão pela qual não deve jamais ser usado.)"
 
 # type: Content of: <p>
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Those who imagine effects like those of copyright law cannot grasp the "
 "disastrous effects of software patents.  We can use Victor Hugo as an "
@@ -91,7 +77,7 @@ msgstr ""
 "Podemos usar Victor Hugo como um exemplo para ilustrar a diferença."
 
 # type: Content of: <p>
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "A novel and a modern complex program have certain points in common: each one "
 "is large, and implements many ideas in combination.  So let's follow the "
@@ -110,7 +96,7 @@ msgstr ""
 "comparariam com os efeitos de direito autoral literário?"
 
 # type: Content of: <p>
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Consider Victor Hugo's novel <cite> Les Mis&eacute;rables</cite>.  Since he "
 "wrote it, the copyright belonged only to him.  He did not have to fear that "
@@ -129,7 +115,7 @@ msgstr ""
 "assim ele não estava ameaçado por direito autoral."
 
 # type: Content of: <p>
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Patents work differently.  Patents cover ideas; each patent is a monopoly on "
 "practicing some idea, which is described in the patent itself.  Here's one "
@@ -140,7 +126,7 @@ msgstr ""
 "patente.  Aqui está um exemplo de uma hipotética patente literária:"
 
 # type: Content of: <ul><li>
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "Claim 1: a communication process that represents in the mind of a reader the "
 "concept of a character who has been in jail for a long time and becomes "
@@ -151,7 +137,7 @@ msgstr ""
 "torna amargo em relação à sociedade e à humanidade."
 
 # type: Content of: <ul><li>
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "Claim 2: a communication process according to claim 1, wherein said "
 "character subsequently finds moral redemption through the kindness of "
@@ -162,7 +148,7 @@ msgstr ""
 "bondade de outro."
 
 # type: Content of: <ul><li>
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "Claim 3: a communication process according to claims 1 and 2, wherein said "
 "character changes his name during the story."
@@ -171,7 +157,7 @@ msgstr ""
 "1 e 2, em que o dito personagem muda seu nome durante a história."
 
 # type: Content of: <p>
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If such a patent had existed in 1862 when <cite>Les Mis&eacute;rables</cite> "
 "was published, the novel would have conflicted with all three claims, since "
@@ -187,12 +173,12 @@ msgstr ""
 "titular da patente."
 
 # type: Content of: <p>
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "Now consider this hypothetical literary patent:"
 msgstr "Agora considere esta hipotética patente literária:"
 
 # type: Content of: <ul><li>
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "Claim 1: a communication process that represents in the mind of a reader the "
 "concept of a character who has been in jail for a long time and subsequently "
@@ -203,7 +189,7 @@ msgstr ""
 "posteriormente mudou seu nome."
 
 # type: Content of: <p>
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<cite>Les Mis&eacute;rables</cite> would have been prohibited by that patent "
 "too, because this description too fits the life story of Jean Valjean.  And "
@@ -214,7 +200,7 @@ msgstr ""
 "E aqui está outra patente hipotética:"
 
 # type: Content of: <ul><li>
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "Claim 1: a communication process that represents in the mind of a reader the "
 "concept of a character who finds moral redemption and then changes his name."
@@ -224,12 +210,12 @@ msgstr ""
 "seu nome."
 
 # type: Content of: <p>
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "Jean Valjean would have been forbidden by this patent too."
 msgstr "Jean Valjean teria sido proibido por esta patente também."
 
 # type: Content of: <p>
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "All three patents would cover, and prohibit, the life story of this one "
 "character.  They overlap, but they do not precisely duplicate each other, so "
@@ -244,12 +230,12 @@ msgstr ""
 "deles poderia ter proibido a publicação de <cite>Les Misérables</cite>."
 
 # type: Content of: <p>
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "This patent also could have been violated:"
 msgstr "Essa patente também poderia ter sido violada:"
 
 # type: Content of: <ul><li>
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "Claim 1: a communication process that presents a character whose given name "
 "matches the last syllable of his family name."
@@ -258,15 +244,15 @@ msgstr ""
 "nome próprio é igual à última sílaba de seu sobrenome."
 
 # type: Content of: <p>
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"through the name &ldquo;Jean Valjean&rdquo;, but at least this patent would "
+"through the name &ldquo;Jean Valjean,&rdquo; but at least this patent would "
 "have been easy to avoid."
 msgstr ""
 "pelo nome “Jean Valjean”, mas pelo menos essa patente seria fácil de evitar."
 
 # type: Content of: <p>
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "You might think that these ideas are so simple that no patent office would "
 "have issued them.  We programmers are often amazed by the simplicity of the "
@@ -284,7 +270,7 @@ msgstr ""
 "perigosas."
 
 # type: Content of: <p>
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Other aspects of <cite>Les Mis&eacute;rables</cite> could also have run "
 "afoul of patents.  For instance, there could have been a patent on a "
@@ -307,7 +293,7 @@ msgstr ""
 "promoveriam progresso na literatura, somente o obstruiriam."
 
 # type: Content of: <p>
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "However, a very broad patent could have made all these issues irrelevant.  "
 "Imagine a patent with broad claims like these:"
@@ -316,7 +302,7 @@ msgstr ""
 "irrelevantes.  Imagine uma patente com reivindicações amplas como estas:"
 
 # type: Content of: <ul><li>
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "A communication process structured with narration that continues through "
 "many pages."
@@ -325,13 +311,13 @@ msgstr ""
 "várias páginas."
 
 # type: Content of: <ul><li>
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "A narration structure sometimes resembling a fugue or improvisation."
 msgstr ""
 "Uma estrutura narrativa por vezes se assemelhando a uma fuga ou improvisação."
 
 # type: Content of: <ul><li>
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "Intrigue articulated around the confrontation of specific characters, each "
 "in turn setting traps for the others."
@@ -340,17 +326,17 @@ msgstr ""
 "um, por sua vez, preparando armadilhas para os demais."
 
 # type: Content of: <ul><li>
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "Narration that presents many layers of society."
 msgstr "Narrativa que apresenta várias camadas da sociedade."
 
 # type: Content of: <ul><li>
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "Narration that shows the wheels of hidden conspiracy."
 msgstr "Narrativa que mostra as entranhas de uma conspiração secreta."
 
 # type: Content of: <p>
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Who would the patent holders have been? They could have been other "
 "novelists, perhaps Dumas or Balzac, who had written such novels&mdash;but "
@@ -371,7 +357,7 @@ msgstr ""
 "de ameaças e processos judiciais, estão efervescendo hoje em dia."
 
 # type: Content of: <p>
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Given these broad patents, Victor Hugo would not have reached the point of "
 "asking what patents might get him sued for using the character of Jean "
@@ -384,7 +370,7 @@ msgstr ""
 "romance desse tipo."
 
 # type: Content of: <p>
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This analogy can help nonprogrammers see what software patents do. Software "
 "patents cover features, such as defining abbreviations in a word processor, "
@@ -401,7 +387,7 @@ msgstr ""
 "O formato de vídeo MPEG 2 é coberto por 39 patentes diferentes nos EUA."
 
 # type: Content of: <p>
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Just as one novel could run afoul of many different literary patents at "
 "once, one program can be prohibited by many different patents at once.  It "
@@ -427,7 +413,7 @@ msgstr ""
 "distribuidor de um sistema completo?"
 
 # type: Content of: <p>
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The way to prevent software patents from bollixing software development is "
 "simple: don't authorize them.  This ought to be easy, since most patent laws "
@@ -446,15 +432,26 @@ msgstr ""
 "isso seja bloqueado, o resultado deixará todos os desenvolvedores de "
 "software em perigo."
 
-#. type: Content of: <blockquote><p>
+# type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
-"This essay is published in <a href=\"http://shop.fsf.org/product/free-"
+"The first version of this article was published in <cite>The Guardian</"
+"cite>, of London, on June 23, 2005.  It focused on the proposed European "
+"software patent directive."
+msgstr ""
+"A primeira versão deste artigo foi publicada em <cite>The Guardian</cite>, "
+"de Londres, em 23 de junho de 2005.  Ela focava na diretiva proposta de "
+"patentes de software europeia."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"This essay is published in <a href=\"https://shop.fsf.org/product/free-"
 "software-free-society/\"><cite>Free Software, Free Society: The Selected "
 "Essays of Richard M. Stallman</cite></a>."
 msgstr ""
 "Este ensaio foi publicado em <a href=\"http://shop.fsf.org/product/free-"
-"software-free-society/\"><cite>Software Livre, Sociedade Livre: Artigos "
-"selecionados de Richard M. Stallman</cite></a>."
+"software-free-society/\"><cite>Free Software, Free Society: The Selected "
+"Essays de Richard M. Stallman</cite></a>."
 
 # type: Content of: <div>
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
@@ -483,14 +480,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
@@ -498,13 +495,13 @@ msgstr ""
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas deste site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 # type: Content of: <div><p>
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2005, 2007, 2008, 2020 Richard Stallman"
-msgstr "Copyright &copy; 2005, 2007, 2008, 2020 Richard Stallman"
+msgid "Copyright &copy; 2005, 2009, 2021 Richard Stallman"
+msgstr "Copyright &copy; 2005, 2009, 2021 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -528,3 +525,13 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+# type: Content of: <p>
+#~ msgid ""
+#~ "by <strong><a href=\"http://stallman.org/\">Richard Stallman</a></strong>"
+#~ msgstr ""
+#~ "por <strong><a href=\"http://stallman.org/\">Richard Stallman</a></strong>"
+
+# type: Content of: <div><p>
+#~ msgid "Copyright &copy; 2005, 2007, 2008, 2020, 2021 Richard Stallman"
+#~ msgstr "Copyright &copy; 2005, 2007, 2008, 2020, 2021 Richard Stallman"

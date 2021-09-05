@@ -1,47 +1,68 @@
 # Brazilian Portuguese translation of http://www.gnu.org/philosophy/philosophy-menu.html
-# Copyright (C) 2019 Free Software Foundation, Inc.
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnu.org article.
 # Rafael Beraldo <rberaldo@cabaladada.org>, 2012.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2019.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2019-2021.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: philosophy-menu.html\n"
-"POT-Creation-Date: 2019-01-11 21:56+0000\n"
-"PO-Revision-Date: 2019-01-12 17:04-0200\n"
+"POT-Creation-Date: 2021-08-19 11:58+0000\n"
+"PO-Revision-Date: 2021-08-21 10:47-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bits\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 1.0.0-beta1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 40.0\n"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/philosophy/essays-and-articles.html\">Essays and articles</a>"
-msgstr "<a href=\"/philosophy/essays-and-articles.html\">Artigos e Ensaios</a>"
+"<a href=\"/philosophy/essays-and-articles.html\">Essays&nbsp;&amp;&nbsp;"
+"articles</a>"
+msgstr ""
+"<a href=\"/philosophy/essays-and-articles.html\">Ensaios&nbsp;e&nbsp;"
+"artigos</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/philosophy/speeches-and-interview.html\">Speeches and interviews</"
+"<a href=\"/philosophy/speeches-and-interview.html\">Speeches&nbsp;&amp;&nbsp;"
+"interviews</a>"
+msgstr ""
+"<a href=\"/philosophy/speeches-and-interview.html\">Discursos&nbsp;e&nbsp;"
+"entrevistas</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/third-party-ideas.html\">Third&nbsp;party&nbsp;ideas</"
 "a>"
 msgstr ""
-"<a href=\"/philosophy/speeches-and-interview.html\">Discursos e entrevistas</"
-"a>"
+"<a href=\"/philosophy/third-party-ideas.html\">Ideias&nbsp;de&nbsp;"
+"terceiros</a>"
 
-#. type: Content of: <ul><li>
-msgid "<a href=\"/philosophy/third-party-ideas.html\">Third party ideas</a>"
-msgstr "<a href=\"/philosophy/third-party-ideas.html\">Ideias de terceiros</a>"
-
-#. type: Content of: <ul><li>
-msgid "<a href=\"/server/sitemap.html#directory-philosophy\">All articles</a>"
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/philosophy/latest-articles.html\">Latest&nbsp;articles</a>"
 msgstr ""
-"<a href=\"/server/sitemap.html#directory-philosophy\">Todo os artigos</a>"
+"<a href=\"/philosophy/latest-articles.html\">Artigos&nbsp;mais&nbsp;"
+"recentes</a>"
 
-#. type: Content of: <ul><li>
-msgid "<a href=\"http://audio-video.gnu.org/\">Audio and video</a>"
-msgstr "<a href=\"http://audio-video.gnu.org/\">Áudio e vídeo</a>"
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"//audio-video.gnu.org/\">Audio&nbsp;&amp;&nbsp;video</a>"
+msgstr "<a href=\"//audio-video.gnu.org/\">Áudio&nbsp;e&nbsp;vídeo</a>"
+
+#, fuzzy
+#~| msgid ""
+#~| "<a href=\"/philosophy/essays-and-articles.html\">Essays and articles</a>"
+#~ msgid "<a href=\"/philosophy/latest-articles.html\">Latest articles</a>"
+#~ msgstr ""
+#~ "<a href=\"/philosophy/essays-and-articles.html\">Artigos e ensaios</a>"
+
+#~ msgid ""
+#~ "<a href=\"/server/sitemap.html#directory-philosophy\">All articles</a>"
+#~ msgstr ""
+#~ "<a href=\"/server/sitemap.html#directory-philosophy\">Todos os artigos</a>"
 
 #~ msgid "<a href=\"/philosophy/philosophy.html\">Introduction</a>"
 #~ msgstr "<a href=\"/philosophy/philosophy.html\">Introdução</a>"

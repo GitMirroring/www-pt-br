@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: contradictory-support.html\n"
-"POT-Creation-Date: 2020-12-19 16:25+0000\n"
+"POT-Creation-Date: 2021-09-02 10:56+0000\n"
 "PO-Revision-Date: 2020-12-19 16:44-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -26,15 +26,15 @@ msgstr ""
 "Cuidado com o “Suporte” Contraditório - Projeto GNU - Free Software "
 "Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Beware of Contradictory &ldquo;Support&rdquo;"
 msgstr "Cuidado com o “Suporte” Contraditório"
 
-#. type: Content of: <p>
-msgid "by <strong>Richard Stallman</strong>"
-msgstr "por <strong>Richard Stallman</strong>"
+#. type: Content of: <div><address>
+msgid "by Richard Stallman"
+msgstr "por Richard Stallman"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "There are organizations that proclaim support for free software or the GNU "
 "Project, and teach classes in use of nonfree software."
@@ -42,7 +42,7 @@ msgstr ""
 "Existem organizações que proclamam suporte para software livre ou o Projeto "
 "GNU e ensinam turmas no uso de software não livre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "It's possible that they do some <em>other</em> things that really support "
 "free software, but those classes certainly don't.  On the contrary, they "
@@ -56,7 +56,7 @@ msgstr ""
 "promovendo o uso do software não livre. Isso aumenta a magnitude do problema "
 "prático que é nossa missão corrigir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Even worse, that grants nonfree software legitimacy.  The basic point of the "
 "free software movement is that nonfree software is <a href=\"/philosophy/"
@@ -72,7 +72,7 @@ msgstr ""
 "eliminá-lo</em>. Ensinar a usá-lo passa a mensagem de que ele que não é um "
 "problema; isso se opõe ao movimento software livre no nível mais profundo."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Of course, people have the right to state that view, but they shouldn't "
 "pretend that it constitutes support for our cause."
@@ -80,7 +80,7 @@ msgstr ""
 "Claro, as pessoas têm o direito de afirmar essa visão, mas não devem fingir "
 "que constitui suporte para a nossa causa."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Even more outrageously, some of those organizations claim that their courses "
 "in using nonfree software are connected with or even certified by the GNU "
@@ -95,7 +95,7 @@ msgstr ""
 "teríamos nada a ver com isso, nem sequer falaríamos sobre isso, exceto com "
 "condenação."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Teaching use of nonfree programs works against free software; teaching it in "
 "association with the name GNU or the term &ldquo;free software&rdquo; causes "
@@ -105,7 +105,7 @@ msgstr ""
 "ensinar isso em associação com o nome GNU ou o termo “software livre” "
 "provoca confusão sobre o que defendemos."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If you encounter such an organization, please explain these points to the "
 "people who work on it: that such courses go directly against the principles "
@@ -119,7 +119,7 @@ msgstr ""
 "querem ajudar a causa do software livre, eles precisam ensinar as pessoas a "
 "escolher o software livre, e não legitimar o software não livre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If they ask you to participate in those courses, as a student or teacher, "
 "that gives you an opportunity to <a href=\"/philosophy/saying-no-even-once."
@@ -155,14 +155,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
@@ -170,12 +170,12 @@ msgstr ""
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas deste site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2016, 2020 Richard Stallman"
-msgstr "Copyright &copy; 2016, 2020 Richard Stallman"
+msgid "Copyright &copy; 2016, 2020, 2021 Richard Stallman"
+msgstr "Copyright &copy; 2016, 2020, 2021 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -200,3 +200,9 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid "by <strong>Richard Stallman</strong>"
+#~ msgstr "por <strong>Richard Stallman</strong>"
+
+#~ msgid "Copyright &copy; 2016, 2020 Richard Stallman"
+#~ msgstr "Copyright &copy; 2016, 2020 Richard Stallman"

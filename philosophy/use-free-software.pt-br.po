@@ -2,11 +2,12 @@
 # Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Rafael Fontenelle <rafaelff@gnome.org>, 2018-2021.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: use-free-software.html\n"
-"POT-Creation-Date: 2018-01-01 05:59+0000\n"
-"PO-Revision-Date: 2021-05-03 10:15-0300\n"
+"POT-Creation-Date: 2021-08-19 07:56+0000\n"
+"PO-Revision-Date: 2021-08-21 10:39-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -24,35 +25,32 @@ msgstr ""
 "A comunidade do Software Livre após 20 anos - Projeto GNU - Free Software "
 "Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "The Free Software Community After 20 Years:"
 msgstr "A comunidade do Software Livre após 20 anos:"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h3>
 msgid "With great but incomplete success, what now?"
 msgstr "Com grande sucesso, mas incompleto, e agora?"
 
-#. type: Content of: <p>
-msgid ""
-"by <a href=\"http://www.stallman.org/\"><strong>Richard Stallman</strong></a>"
-msgstr ""
-"por <a href=\"http://www.stallman.org/\"><strong>Richard Stallman</strong></"
-"a>"
+#. type: Content of: <div><address>
+msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
+msgstr "por <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "It was 5 Jan 1984, twenty years ago today, that I quit my job at MIT to "
-"begin developing a free software operating system, <a href=\"/gnu/the-gnu-"
-"project.html\">GNU</a>.  While we have never released a complete GNU system "
-"suitable for production use, a variant of the GNU system is now used by tens "
-"of millions of people who mostly are not aware it is such.  Free software "
-"does not mean &ldquo;gratis&rdquo;; it means that users are free to run the "
-"program, study the source code, change it, and redistribute it either with "
-"or without changes, either gratis or for a fee."
+"begin developing a free software operating system, <a href=\"/gnu/"
+"thegnuproject.html\">GNU</a>.  While we have never released a complete GNU "
+"system suitable for production use, a variant of the GNU system is now used "
+"by tens of millions of people who mostly are not aware it is such.  Free "
+"software does not mean &ldquo;gratis&rdquo;; it means that users are free to "
+"run the program, study the source code, change it, and redistribute it "
+"either with or without changes, either gratis or for a fee."
 msgstr ""
 "Foi em 5 de janeiro de 1984, vinte anos atrás, que eu larguei meu emprego no "
 "MIT para começar a desenvolver um sistema operacional de software livre, o "
-"<a href=\"/gnu/the-gnu-project.html\">GNU</a>. Embora nunca tenhamos lançado "
+"<a href=\"/gnu/thegnuproject.html\">GNU</a>. Embora nunca tenhamos lançado "
 "um sistema GNU completo adequado para uso em produção, uma variante do "
 "sistema GNU é agora usada por dezenas de milhões de pessoas que na maioria "
 "das vezes não sabem que é assim. Software livre não significa "
@@ -61,7 +59,7 @@ msgstr ""
 "código-fonte, alterá-lo e redistribuí-lo com ou sem alterações, "
 "gratuitamente ou por uma taxa."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "My hope was that a free operating system would open a path to escape forever "
 "from the system of subjugation which is proprietary software.  I had "
@@ -74,9 +72,9 @@ msgstr ""
 "aos seus usuários e eu estava determinado a escapar e dar aos outros uma "
 "maneira de escapar."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
-"Non-free software carries with it an antisocial system that prohibits "
+"Nonfree software carries with it an antisocial system that prohibits "
 "cooperation and community.  You are typically unable to see the source code; "
 "you cannot tell what nasty tricks, or what foolish bugs, it might contain.  "
 "If you don't like it, you are helpless to change it.  Worst of all, you are "
@@ -90,7 +88,7 @@ msgstr ""
 "você está proibido de compartilhá-lo com outras pessoas. Proibir o "
 "compartilhamento de software é cortar os laços da sociedade."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Today we have a large community of users who run GNU, Linux and other free "
 "software.  Thousands of people would like to extend this, and have adopted "
@@ -111,7 +109,7 @@ msgstr ""
 "liberdade ou substituímos esse objetivo pelo objetivo superficial da "
 "popularidade?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "It's easy to get in the habit of overlooking this distinction, because in "
 "many common situations it makes no difference.  When you're trying to "
@@ -127,7 +125,7 @@ msgstr ""
 "levaria para a mesma conduta prática. No entanto, em outras situações, os "
 "dois objetivos inspiram ações muito diferentes."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "For instance, what should we say when the nonfree Invidious video driver, "
 "the nonfree Prophecy database, or the nonfree Indonesia language interpreter "
@@ -146,7 +144,7 @@ msgstr ""
 "como um incômodo atrativo, uma tentação de aceitar a servidão, um problema a "
 "ser resolvido?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "If you take as your goal the increased popularity of certain free software, "
 "if you seek to convince more people to use some free programs some of the "
@@ -165,7 +163,7 @@ msgstr ""
 "aplaudir logicamente todos os aplicativos que são executados, sejam livres "
 "ou não."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "But if our goal is freedom, that changes everything.  Users cannot be free "
 "while using a nonfree program.  To free the citizens of cyberspace, we have "
@@ -179,7 +177,7 @@ msgstr ""
 "aceitá-los. Eles não são contribuições para a nossa comunidade, são "
 "tentações para se contentar com a contínua falta de liberdade."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "There are two common motivations to develop a free program.  One is that "
 "there is no program to do the job.  Unfortunately, accepting the use of a "
@@ -199,7 +197,7 @@ msgstr ""
 "de se comparar tecnicamente ao modelo não livre, você pode ajudar a "
 "encorajar os desenvolvedores livres a perseverar até que se torne superior."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Those nonfree programs are not trivial.  Developing free replacements for "
 "them will be a big job; it may take years.  The work may need the help of "
@@ -215,7 +213,7 @@ msgstr ""
 "fazer hoje para ajudar a convencer outras pessoas, no futuro, a manter a "
 "determinação e a persistência necessárias para concluir este trabalho?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The most effective way to strengthen our community for the future is to "
 "spread understanding of the value of freedom&mdash;to teach more people to "
@@ -227,9 +225,9 @@ msgstr ""
 "a reconhecer a inaceitabilidade moral do software não livre. As pessoas que "
 "valorizam a liberdade são, a longo prazo, sua melhor e essencial defesa."
 
-#. type: Content of: <p>
-msgid "<strong>Originally published on Newsforge.</strong>"
-msgstr "<strong>Originalmente publicado na Newsforge.</strong>"
+#. type: Content of: <div><div><p>
+msgid "Originally published on NewsForge."
+msgstr "Originalmente publicado na NewsForge."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -284,14 +282,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
@@ -299,12 +297,12 @@ msgstr ""
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas deste site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2004, 2017, 2018 Richard Stallman"
-msgstr "Copyright &copy; 2004, 2017, 2018 Richard Stallman"
+msgid "Copyright &copy; 2004, 2021 Richard Stallman"
+msgstr "Copyright &copy; 2004, 2021 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -321,9 +319,12 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
-"rafaelff@gnome.org&gt;</a>, 2018."
+"rafaelff@gnome.org&gt;</a>, 2018-2021."
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid "Copyright &copy; 2004, 2017, 2018, 2021 Richard Stallman"
+#~ msgstr "Copyright &copy; 2004, 2017, 2018, 2021 Richard Stallman"

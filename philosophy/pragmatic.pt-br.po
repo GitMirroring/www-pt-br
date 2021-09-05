@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: pragmatic.html\n"
-"POT-Creation-Date: 2020-10-26 13:25+0000\n"
-"PO-Revision-Date: 2021-05-03 10:15-0300\n"
+"POT-Creation-Date: 2021-08-28 13:56+0000\n"
+"PO-Revision-Date: 2021-07-29 15:20-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -24,18 +24,15 @@ msgid "Copyleft: Pragmatic Idealism - GNU Project - Free Software Foundation"
 msgstr ""
 "Copyleft: Idealismo Pragmático - Projeto GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Copyleft: Pragmatic Idealism"
 msgstr "Copyleft: Idealismo pragmático"
 
-#. type: Content of: <p>
-msgid ""
-"by <a href=\"http://www.stallman.org/\"><strong>Richard Stallman</strong></a>"
-msgstr ""
-"por <a href=\"http://www.stallman.org/\"><strong>Richard Stallman</strong></"
-"a>"
+#. type: Content of: <div><address>
+msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
+msgstr "por <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Every decision a person makes stems from the person's values and goals.  "
 "People can have many different goals and values; fame, profit, love, "
@@ -48,7 +45,7 @@ msgstr ""
 "valores que uma pessoa correta pode ter.  Quando o objetivo é uma questão de "
 "princípio, nós chamamos a isso idealismo."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "My work on free software is motivated by an idealistic goal: spreading "
 "freedom and cooperation.  I want to <a href=\"/philosophy/why-copyleft.html"
@@ -61,29 +58,30 @@ msgstr ""
 "software privativo, que proíbe a cooperação, e assim tornando nossa "
 "sociedade melhor."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "That's the basic reason why the GNU General Public License is written the "
-"way it is&mdash;as a <a href=\"/copyleft\"> copyleft</a>.  All code added to "
-"a GPL-covered program must be free software, even if it is put in a separate "
-"file.  I make my code available for use in free software, and not for use in "
-"proprietary software, in order to encourage other people who write software "
-"to make it free as well.  I figure that since proprietary software "
-"developers use copyright to stop us from sharing, we cooperators can use "
-"copyright to give other cooperators an advantage of their own: they can use "
-"our code."
+"way it is&mdash;as a <a href=\"/licenses/copyleft.html\"> copyleft</a>.  All "
+"code added to a GPL-covered program must be free software, even if it is put "
+"in a separate file.  I make my code available for use in free software, and "
+"not for use in proprietary software, in order to encourage other people who "
+"write software to make it free as well.  I figure that since proprietary "
+"software developers use copyright to stop us from sharing, we cooperators "
+"can use copyright to give other cooperators an advantage of their own: they "
+"can use our code."
 msgstr ""
 "E esta é a razão principal pela qual a GNU GPL (Licença Pública Geral GNU) "
-"foi escrita como foi — como <a href=\"/copyleft\"> copyleft</a>.  Todo "
-"código-fonte adicionado a um programa coberto pela GPL tem que ser software "
-"livre, mesmo se colocado em um arquivo separado.  Eu torno o meu código "
-"disponível para uso em software livre, e não em software privativo, a fim de "
-"encorajar outras pessoas que programam a deixar seu código livre também.  "
-"Acho que, já que desenvolvedores de software privativo usam copyright a fim "
-"de nos impedir compartilhar código, nós colaboradores podemos usar copyright "
-"para dar uma vantagem a outros colaboradores: eles podem usar o nosso código."
+"foi escrita como foi — como <a href=\"/licenses/copyleft.html\"> copyleft</"
+"a>.  Todo código-fonte adicionado a um programa coberto pela GPL tem que ser "
+"software livre, mesmo se colocado em um arquivo separado.  Eu torno o meu "
+"código disponível para uso em software livre, e não em software privativo, a "
+"fim de encorajar outras pessoas que programam a deixar seu código livre "
+"também.  Acho que, já que desenvolvedores de software privativo usam "
+"copyright a fim de nos impedir compartilhar código, nós colaboradores "
+"podemos usar copyright para dar uma vantagem a outros colaboradores: eles "
+"podem usar o nosso código."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Not everyone who uses the GNU GPL has this goal.  Many years ago, a friend "
 "of mine was asked to rerelease a copylefted program under noncopyleft terms, "
@@ -93,7 +91,7 @@ msgstr ""
 "pediram a um amigo meu que relançasse um programa seu, com copyleft, sob "
 "termos não copyleft, e ele respondeu mais ou menos assim:"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><blockquote><p>
 msgid ""
 "&ldquo;Sometimes I work on free software, and sometimes I work on "
 "proprietary software&mdash;but when I work on proprietary software, I expect "
@@ -103,7 +101,7 @@ msgstr ""
 "desenvolvendo software privativo — mas quando eu desenvolvo software "
 "privativo, eu espero ser <em>pago</em>.”"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "He was willing to share his work with a community that shares software, but "
 "saw no reason to give a handout to a business making products that would be "
@@ -116,7 +114,7 @@ msgstr ""
 "era diferente do meu, mas ele decidiu que a GNU GPL era útil para o seu "
 "objetivo também."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If you want to accomplish something in the world, idealism is not "
 "enough&mdash;you need to choose a method that works to achieve the goal.  In "
@@ -128,7 +126,7 @@ msgstr ""
 "outras palavras, você precisa ser “pragmático”.  E a GPL, é pragmática? "
 "Vamos dar uma olhada em seus resultados."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Consider GNU C++.  Why do we have a free C++ compiler? Only because the GNU "
 "GPL said it had to be free.  GNU C++ was developed by an industry "
@@ -149,7 +147,7 @@ msgstr ""
 "já que eles seriam ligados ao GCC, a GPL se aplicava a eles.  E o benefício "
 "para a nossa comunidade é evidente."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Consider GNU Objective C.  NeXT initially wanted to make this front end "
 "proprietary; they proposed to release it as <samp>.o</samp> files, and let "
@@ -166,7 +164,7 @@ msgstr ""
 "permitido.  Então eles fizeram a interface para o Objective C ser software "
 "livre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Those examples happened years ago, but the GNU GPL continues to bring us "
 "more free software."
@@ -174,7 +172,7 @@ msgstr ""
 "Estes exemplos aconteceram há anos atrás, mas a GNU GPL continua nos "
 "trazendo mais software livre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Many GNU libraries are covered by the GNU Lesser General Public License, but "
 "not all.  One GNU library which is covered by the ordinary GNU GPL is "
@@ -192,7 +190,7 @@ msgstr ""
 "edição via linha de comando de seu programa, mas o que acabou acontecendo "
 "foi ele relançá-lo sob a GNU GPL.  Agora este programa é software livre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The programmers who write improvements to GCC (or Emacs, or Bash, or Linux, "
 "or any GPL-covered program) are often employed by companies or "
@@ -210,7 +208,7 @@ msgstr ""
 "código pertence a nós!  Não queremos compartilhá-lo; nós decidimos "
 "transformar sua versão melhorada do programa em software privativo.”"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Here the GNU GPL comes to the rescue.  The programmer shows the boss that "
 "this proprietary software product would be copyright infringement, and the "
@@ -225,7 +223,7 @@ msgstr ""
 "Quase sempre ele permite ao programador fazer o que este sempre quis, e o "
 "código é liberado na nova versão do programa."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The GNU GPL is not Mr. Nice Guy.  It says no to some of the things that "
 "people sometimes want to do.  There are users who say that this is a bad "
@@ -239,7 +237,7 @@ msgstr ""
 "de software privativo que “precisam ser trazidos à comunidade do software "
 "livre.”"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But we are not excluding them from our community; they are choosing not to "
 "enter.  Their decision to make software proprietary is a decision to stay "
@@ -253,7 +251,7 @@ msgstr ""
 "juntar e cooperar conosco; não podemos “trazê-los para nossa comunidade” se "
 "eles não querem entrar."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "What we <em>can</em> do is offer them an inducement to join.  The GNU GPL is "
 "designed to make an inducement from our existing software: &ldquo;If you "
@@ -265,7 +263,7 @@ msgstr ""
 "você for tornar o seu software livre, você pode usar esse código.”  É claro, "
 "isso não ganhará a todos, mas ganha em algumas vezes."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Proprietary software development does not contribute to our community, but "
 "its developers often want handouts from us.  Free software users can offer "
@@ -284,7 +282,7 @@ msgstr ""
 "pessoas!”  A tentação pode ser poderosa, mas a longo prazo estaremos melhor "
 "se resistirmos a ela."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The temptation and pressure are harder to recognize when they come "
 "indirectly, through free software organizations that have adopted a policy "
@@ -304,7 +302,7 @@ msgstr ""
 "href=\"/philosophy/x.html\">X11R6.4 software não livre</a>, aqueles de nós "
 "que resistiram a essa pressão estão felizes por tê-lo feito."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In September 1998, several months after X11R6.4 was released with nonfree "
 "distribution terms, the Open Group reversed its decision and rereleased it "
@@ -320,7 +318,7 @@ msgstr ""
 "a decisão destes de voltarem atrás não invalida as conclusões que tiramos, "
 "do fato de que adicionar essas restrições era <em>possível</em>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Pragmatically speaking, thinking about greater long-term goals will "
 "strengthen your will to resist this pressure.  If you focus your mind on the "
@@ -334,7 +332,7 @@ msgstr ""
 "encontraremos a força para fazermos isso.  “Mantenha-se firme por alguma "
 "coisa, ou você cairá por qualquer coisa.”"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "And if cynics ridicule freedom, ridicule community&hellip;if &ldquo;hard-"
 "nosed realists&rdquo; say that profit is the only ideal&hellip;just ignore "
@@ -344,13 +342,13 @@ msgstr ""
 "comunidade&hellip; se “realistas” disserem que lucro é o único "
 "objetivo&hellip; apenas os ignore, e use copyleft assim mesmo."
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><div><p>
 msgid ""
-"This essay is published in <a href=\"http://shop.fsf.org/product/free-"
+"This essay is published in <a href=\"https://shop.fsf.org/product/free-"
 "software-free-society/\"><cite>Free Software, Free Society: The Selected "
 "Essays of Richard M. Stallman</cite></a>."
 msgstr ""
-"Este ensaio foi publicado em <a href=\"http://shop.fsf.org/product/free-"
+"Este ensaio foi publicado em <a href=\"https://shop.fsf.org/product/free-"
 "software-free-society/\"><cite>Free Software, Free Society: The Selected "
 "Essays of Richard M. Stallman</cite></a>."
 
@@ -380,14 +378,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
@@ -395,12 +393,12 @@ msgstr ""
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas deste site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 1998, 2003, 2020 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 1998, 2003, 2020 Free Software Foundation, Inc."
+msgid "Copyright &copy; 1998, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 1998, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -423,3 +421,8 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid ""
+#~ "Copyright &copy; 1998, 2003, 2020, 2021 Free Software Foundation, Inc."
+#~ msgstr ""
+#~ "Copyright &copy; 1998, 2003, 2020, 2021 Free Software Foundation, Inc."

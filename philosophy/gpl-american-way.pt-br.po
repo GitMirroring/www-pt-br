@@ -3,18 +3,21 @@
 # This file is distributed under the same license as the original article.
 # Fábio Fernandes, 2002.
 # Jan 2015: GNUNify; gratuitas > livres (T. Godefroy).
+# Rafael Fontenelle <rafaelff@gnome.org>, 2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gpl-american-way.html\n"
-"POT-Creation-Date: 2014-03-14 04:34+0000\n"
-"PO-Revision-Date: 2021-05-03 10:15-0300\n"
+"POT-Creation-Date: 2021-07-18 09:55+0000\n"
+"PO-Revision-Date: 2021-07-30 09:36-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -23,15 +26,15 @@ msgstr ""
 "A GNU GPL e o Modo Americano de Viver - Projeto GNU - Free Software "
 "Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "The GNU GPL and the American Way"
 msgstr "A GNU GPL e o Modo Americano de Viver"
 
-#. type: Content of: <p>
-msgid "by <strong>Richard M. Stallman</strong>"
-msgstr "por <strong>Richard Stallman</strong>"
+#. type: Content of: <div><address>
+msgid "by Richard M. Stallman"
+msgstr "por Richard M. Stallman"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Microsoft describes the GNU General Public License (GNU GPL) as an &ldquo;"
 "open source&rdquo; license, and says it is against the American Way.  To "
@@ -43,7 +46,7 @@ msgstr ""
 "GNU GPL, e reconhecer como ela incorpora o American Way, você precisa "
 "primeiro saber que a GPL não foi criada para open source."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The Open Source Movement, which was launched in 1998, aims to develop "
 "powerful, reliable software and improved technology, by inviting the public "
@@ -60,7 +63,7 @@ msgstr ""
 "encontradas no Movimento Open Source. Elas derivam dos objetivos e valores "
 "mais profundos do Movimento do Software Livre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The Free Software Movement was founded in 1984, but its inspiration comes "
 "from the ideals of 1776: freedom, community, and voluntary cooperation.  "
@@ -70,7 +73,7 @@ msgstr ""
 "dos ideais de 1776: liberdade, comunidade e cooperação voluntária. Isto é o "
 "que leva à livre empresa, à liberdade de opinião e à liberdade de software."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "As in &ldquo;free enterprise&rdquo; and &ldquo;free speech&rdquo;, the "
 "&ldquo;free&rdquo; in &ldquo;free software&rdquo; refers to freedom, not "
@@ -94,7 +97,7 @@ msgstr ""
 "confiável e uma tecnologia avançada são subprodutos úteis da liberdade, mas "
 "a liberdade de ter uma comunidade é tão importante quanto."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "We could not establish a community of freedom in the land of proprietary "
 "software where each program had its lord.  We had to build a new land in "
@@ -113,7 +116,7 @@ msgstr ""
 "usuários utilizam o GNU/Linux e desfrutam dos benefícios de liberdade e "
 "comunidade."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "I designed the GNU GPL to uphold and defend the freedoms that define free "
 "software&mdash;to use the words of 1776, it establishes them as inalienable "
@@ -129,7 +132,7 @@ msgstr ""
 "dizendo que ninguém está autorizado a tirar essas liberdades de você "
 "redistribuindo o programa."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "For the sake of cooperation, we encourage others to modify and extend the "
 "programs that we publish.  For the sake of freedom, we set the condition "
@@ -150,7 +153,7 @@ msgstr ""
 "que desejam participar devem nos oferecer a mesma cooperação que recebem de "
 "nós. Isso torna o sistema justo."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Millions of users, tens of thousands of developers, and companies as large "
 "as IBM, Intel, and Sun, have chosen to participate on this basis.  But some "
@@ -160,7 +163,7 @@ msgstr ""
 "grandes quanto IBM, Intel e Sun escolheram participar nessa base. Mas "
 "algumas empresas desejam as vantagens sem as responsabilidades."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "From time to time, companies have said to us, &ldquo;We would make an "
 "improved version of this program if you allow us to release it without "
@@ -180,7 +183,7 @@ msgstr ""
 "a liberdade de nossa comunidade mais do que uma forma irrelevante de "
 "popularidade."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Microsoft surely would like to have the benefit of our code without the "
 "responsibilities.  But it has another, more specific purpose in attacking "
@@ -196,7 +199,7 @@ msgstr ""
 "— não aprimorar a computação para seus usuários, mas eliminar alternativas "
 "para eles. "
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Microsoft uses an anticompetitive strategy called &ldquo;embrace and "
 "extend&rdquo;.  This means they start with the technology others are using, "
@@ -220,7 +223,7 @@ msgstr ""
 "Microsoft para o trabalho B. De qualquer modo, “abraçar e estender” amplia o "
 "efeito do poder de mercado da Microsoft."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "No license can stop Microsoft from practicing &ldquo;embrace and "
 "extend&rdquo; if they are determined to do so at all costs.  If they write "
@@ -243,7 +246,7 @@ msgstr ""
 "quiserem, sem nunca revolver nada. Eles querem que abandonemos nossas "
 "defesas."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "But defenselessness is not the American Way.  In the land of the brave and "
 "the free, we defend our freedom with the GNU GPL."
@@ -251,11 +254,11 @@ msgstr ""
 "Mas ser indefeso não é o American Way. Na terra do bravo e do livre, "
 "defendemos nossa liberdade com o GNU GPL."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><div><h3>
 msgid "Addendum:"
 msgstr "Adendo:"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Microsoft says that the GPL is against &ldquo;intellectual property rights."
 "&rdquo; I have no opinion on &ldquo;intellectual property rights,&rdquo; "
@@ -278,7 +281,7 @@ msgstr ""
 "nelas separadamente. O primeiro passo é recusar agrupá-las todas como "
 "“propriedade intelectual”."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "My views about copyright take an hour to expound, but one general principle "
 "applies: it cannot justify denying the public important freedoms.  As "
@@ -320,14 +323,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
@@ -335,22 +338,22 @@ msgstr ""
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas deste site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2001 Richard M. Stallman"
-msgstr "Copyright &copy; 2001 Richard M. Stallman"
+msgid "Copyright &copy; 2001, 2021 Richard M. Stallman"
+msgstr "Copyright &copy; 2001, 2021 Richard M. Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
-"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
@@ -361,3 +364,9 @@ msgstr "Tradução e adaptação do texto: Fábio Fernandes"
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid "by <strong>Richard M. Stallman</strong>"
+#~ msgstr "por <strong>Richard Stallman</strong>"
+
+#~ msgid "Copyright &copy; 2001 Richard M. Stallman"
+#~ msgstr "Copyright &copy; 2001 Richard M. Stallman"

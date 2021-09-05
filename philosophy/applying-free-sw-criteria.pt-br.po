@@ -2,11 +2,12 @@
 # Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Rafael Fontenelle <rafaelff@gnome.org>, 2019-2021.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: applying-free-sw-criteria.html\n"
-"POT-Creation-Date: 2016-01-01 05:55+0000\n"
-"PO-Revision-Date: 2021-05-03 10:15-0300\n"
+"POT-Creation-Date: 2021-09-05 08:25+0000\n"
+"PO-Revision-Date: 2021-07-29 15:18-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -23,15 +24,15 @@ msgstr ""
 "Aplicando os critérios de software livre - Projeto GNU - Free Software "
 "Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Applying the Free Software Criteria"
 msgstr "Aplicando os critérios de software livre"
 
-#. type: Content of: <p>
+#. type: Content of: <div><address>
 msgid "by Richard Stallman"
 msgstr "por Richard Stallman"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The four essential freedoms provide the criteria for <a href=\"/philosophy/"
 "free-sw.html\">whether a particular piece of code is free/libre</a> (i.e., "
@@ -45,7 +46,7 @@ msgstr ""
 "Como devemos aplicá-los para julgar se um pacote de software, um sistema "
 "operacional, um computador ou uma página web é adequado para recomendação?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Whether a program is free affects first of all our decisions about our "
 "private activities: to maintain our freedom, we need to reject the programs "
@@ -57,7 +58,7 @@ msgstr ""
 "rejeitar os programas que a levariam embora. No entanto, também afeta o que "
 "devemos dizer aos outros e fazer com os outros."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "A nonfree program is an injustice.  To distribute a nonfree program, to "
 "recommend a nonfree program to other people, or more generally steer them "
@@ -73,7 +74,7 @@ msgstr ""
 "usar software não livre não é o mesmo que instalar software não livre em "
 "seus computadores, mas não devemos levar as pessoas na direção errada."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "At a deeper level, we must not present a nonfree program as a solution "
 "because that would grant it legitimacy.  Nonfree software is a problem; <a "
@@ -85,7 +86,7 @@ msgstr ""
 "problema; <a href=\"/philosophy/compromise.html\"> apresentá-lo como uma "
 "solução nega a existência do problema</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This article explains how we apply the basic free software criteria to "
 "judging various kinds of things, so we can decide whether to recommend them "
@@ -95,11 +96,11 @@ msgstr ""
 "julgamento de vários tipos de coisas, para que possamos decidir se os "
 "recomendamos ou não."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Software packages"
 msgstr "Pacotes de softwares"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "For a software package to be free, all the code in it must be free.  But not "
 "only the code.  Since documentation files including manuals, README, change "
@@ -113,7 +114,7 @@ msgstr ""
 "pacote de software, <a href=\"/philosophy/free-doc.html\">eles também devem "
 "ser livres</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "A software package is typically used alongside many other packages, and "
 "interacts with some of them.  Which kinds of interaction with nonfree "
@@ -123,7 +124,7 @@ msgstr ""
 "interage com alguns deles. Quais tipos de interação com programas não livres "
 "são eticamente aceitáveis?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We developed GNU so that there would be a free operating system, because in "
 "1983 none existed.  As we developed the initial components of GNU, in the "
@@ -142,7 +143,7 @@ msgstr ""
 "Cada componente poderia ser executado somente em sistemas não livres, porque "
 "todos os sistemas não eram livres."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "After we released a component that could run on some nonfree systems, users "
 "ported it to other nonfree systems; those ports were no worse, ethically, "
@@ -155,7 +156,7 @@ msgstr ""
 "código específico da plataforma que precisávamos para desenvolver esses "
 "componentes, então incorporamos seus <i lang=\"en\">patches</i>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "When the kernel, Linux, was freed in 1992, it filled the last gap in the GNU "
 "system.  (Initially, in 1991, Linux had been distributed under a nonfree "
@@ -167,7 +168,7 @@ msgstr ""
 "licença não livre.) A combinação de GNU e Linux criou um sistema operacional "
 "livre completo &ndash; <a href=\"/gnu/linux-and-gnu.html\">GNU/Linux</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "At that point, we could have deleted the support for nonfree platforms, but "
 "we decided not to.  A nonfree system is an injustice, but it's not our fault "
@@ -182,7 +183,7 @@ msgstr ""
 "sistemas, mas também para atrair mais pessoas para contribuir para o "
 "desenvolvimento do programa livre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "However, a nonfree program that runs on top of a free program is a "
 "completely different issue, because it leads users to take a step away from "
@@ -191,7 +192,7 @@ msgid ""
 "a>.  When a program permits nonfree add-ons, it should at least not steer "
 "people towards using them.  For instance, we choose LibreOffice over "
 "OpenOffice because OpenOffice suggests use of nonfree add-ons, while "
-"LibreOffice shuns them.  We developed <a href=\"http://directory.fsf.org/"
+"LibreOffice shuns them.  We developed <a href=\"https://directory.fsf.org/"
 "wiki/IceCat\">IceCat</a> initially to avoid proposing the nonfree add-ons "
 "suggested by Firefox."
 msgstr ""
@@ -203,11 +204,11 @@ msgstr ""
 "deve pelo menos não orientar as pessoas para usá-los. Por exemplo, "
 "escolhemos o LibreOffice sobre o OpenOffice porque o OpenOffice sugere o uso "
 "de complementos não livres, enquanto o LibreOffice os evita. Nós "
-"desenvolvemos <a href=\"http://directory.fsf.org/wiki/IceCat\">IceCat</a> "
+"desenvolvemos <a href=\"https://directory.fsf.org/wiki/IceCat\">IceCat</a> "
 "inicialmente para evitar propor os complementos não livres sugeridos pelo "
 "Firefox."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In practice, if the IceCat package explains how to run IceCat on MacOS, that "
 "will not lead people to run MacOS.  But if it talked about some nonfree add-"
@@ -221,7 +222,7 @@ msgstr ""
 "complemento. Portanto, o pacote IceCat, incluindo manuais e site, não deve "
 "falar sobre essas coisas."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Sometimes a free program and a nonfree program interoperate but neither is "
 "based on the other.  Our rule for such cases is that if the nonfree program "
@@ -238,7 +239,7 @@ msgstr ""
 "programa não livre, se ele estiver instalado, mas evite informar aos "
 "usuários sobre a possibilidade de fazê-lo."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We reject &ldquo;enhancements&rdquo; that would work only on a nonfree "
 "system.  Those would encourage people to use the nonfree system instead of "
@@ -248,11 +249,11 @@ msgstr ""
 "livre. Estes encorajariam as pessoas a usarem o sistema não livre ao invés "
 "do GNU, marcando um objetivo próprio."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "GNU/Linux distros"
 msgstr "Distros GNU/Linux"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "After the liberation of Linux in 1992, people began developing GNU/Linux "
 "distributions (&ldquo;distros&rdquo;).  Only a few distros are <a href=\"/"
@@ -262,7 +263,7 @@ msgstr ""
 "distribuições GNU/Linux (“distros”). Apenas algumas distros são <a href=\"/"
 "distros\">totalmente em software livre</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The rules for a software package apply to a distro too: an ethical distro "
 "must contain only free software and steer users only towards free software.  "
@@ -274,7 +275,7 @@ msgstr ""
 "apenas para o software livre. Mas o que significa para uma distro “conter” "
 "um pacote de software específico?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Some distros install programs from binary packages that are part of the "
 "distro; others build each program from upstream source, and literally "
@@ -290,7 +291,7 @@ msgstr ""
 "instala um determinado pacote não é significativa; se apresentar esse pacote "
 "como uma opção, ou se o site o fizer, dizemos que “contém” esse pacote."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The users of a free system have control over it, so they can install "
 "whatever they wish.  Free distros provide general facilities with which "
@@ -308,7 +309,7 @@ msgstr ""
 "distribuição, porque os desenvolvedores da distribuição não são responsáveis "
 "pelo que os usuários obtêm e instalam por sua própria iniciativa."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The developers become responsible for installation of nonfree software when "
 "they steer the users toward a nonfree program&mdash;for instance, by putting "
@@ -322,7 +323,7 @@ msgstr ""
 "servidor ou apresentando-o como uma solução e não como um problema. Este é o "
 "ponto em que a maioria das distros GNU/Linux tem uma falha ética."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "People who install software packages on their own have a certain level of "
 "sophistication: if we tell them &ldquo;Baby contains nonfree code, but Gbaby "
@@ -338,7 +339,7 @@ msgstr ""
 "tais detalhes. Eles pensariam: “Qual nome eles disseram que eu deveria usar? "
 "Eu acho que foi Baby.”"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Therefore, to recommend a distro to the general public, we insist that its "
 "name not be similar to a distro we reject, so our message recommending only "
@@ -349,7 +350,7 @@ msgstr ""
 "mensagem recomendando apenas a distribuição livre pode ser transmitida de "
 "maneira confiável."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Another difference between a distro and a software package is how likely it "
 "is for nonfree code to be added.  The developers of a program carefully "
@@ -367,7 +368,7 @@ msgstr ""
 "\">blobs</i> binários” que foram adicionados ao Linux, mas são uma pequena "
 "fração dos programas livres que existem."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "By contrast, a GNU/Linux distro typically contains thousands of packages, "
 "and the distro's developers may add hundreds of packages a year.  Without a "
@@ -388,7 +389,7 @@ msgstr ""
 "free-system-distribution-guidelines.html\">diretrizes de distribuição livre "
 "do sistema GNU </a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We don't ask for such promises for free software packages: it's not "
 "feasible, and fortunately not necessary.  To get promises from the "
@@ -406,11 +407,11 @@ msgstr ""
 "interesse em nos fazer promessas. Então, lidamos com os raros casos que "
 "mudam de livre para não livres, quando descobrimos sobre eles."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Peripherals"
 msgstr "Periféricos"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "A computer peripheral needs software in the computer&mdash;perhaps a driver, "
 "perhaps firmware to be loaded by the system into the peripheral to make it "
@@ -426,7 +427,7 @@ msgstr ""
 "software não livre instalado &ndash; o driver do periférico e qualquer "
 "firmware que o sistema precise carregar nele são livres."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "It is simple to check this: connect the peripheral to a computer running a "
 "totally free GNU/Linux distro and see if it works.  But most users would "
@@ -441,7 +442,7 @@ msgstr ""
 "node.org/\">h-node.org</a>, um banco de dados de hardware para sistemas "
 "operacionais totalmente livres."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Computers"
 msgstr "Computadores"
 
@@ -449,7 +450,7 @@ msgstr "Computadores"
 # aspas e com letras maiúsculas foi exatamente para chamar atenção a este
 # nome, mantive este termo na mensagem original, acrescentando uma tradução
 # em seguida -- Rafael
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "A computer contains software at various levels.  On what criterion should we "
 "certify that a computer &ldquo;Respects Your Freedom&rdquo;?"
@@ -458,7 +459,7 @@ msgstr ""
 "certificar um computador como “Respects Your Freedom”, ou seja, que respeita "
 "sua liberdade?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Obviously the operating system and everything above it must be free.  In the "
 "90s, the startup software (BIOS, then) became replaceable, and since it runs "
@@ -472,7 +473,7 @@ msgstr ""
 "sistema operacional. Portanto, programas como firmware e drivers instalados "
 "em ou com o sistema ou o software de inicialização devem estar livres."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If a computer has hardware features that require nonfree drivers or firmware "
 "installed with the system, we may be able to endorse it.  If it is usable "
@@ -486,7 +487,7 @@ msgstr ""
 "será levada a instalar o software não livre para fazê-los funcionar, então "
 "poderemos endossá-lo. Caso contrário, não podemos. Este será um julgamento."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "A computer can have modifiable preinstalled firmware and microcode at lower "
 "levels.  It can also have code in true read-only memory.  We decided to "
@@ -508,7 +509,7 @@ msgstr ""
 "possível para outros níveis de processamento, também precisaremos de "
 "software livre nesses níveis."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Since certifying a product is active promotion of it, we insist that the "
 "seller support us in return, by talking about <a href=\"/philosophy/free-"
@@ -526,7 +527,7 @@ msgstr ""
 "Linux”</a>. Não temos obrigação de promover ativamente projetos que não "
 "reconheçam nosso trabalho e apoiem nosso movimento."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "See <a href=\"https://www.fsf.org/resources/hw/endorsement/criteria\">our "
 "certification criteria</a>."
@@ -534,11 +535,11 @@ msgstr ""
 "Veja <a href=\"https://www.fsf.org/resources/hw/endorsement/criteria"
 "\">nossos critérios para a certificação</a>."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Web pages"
 msgstr "Páginas web"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Nowadays many web pages contain complex JavaScript programs and won't work "
 "without them.  This is a harmful practice since it hampers users' control "
@@ -554,7 +555,7 @@ msgstr ""
 "espiona o usuário. <a href=\"/philosophy/javascript-trap.html\">O JavaScript "
 "se transformou em um ataque à liberdade dos usuários</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "To address this problem, we have developed <a href=\"/software/librejs"
 "\">LibreJS</a>, an add-on for Firefox that blocks nontrivial nonfree "
@@ -569,7 +570,7 @@ msgstr ""
 "Pedimos que os sites libertem seus programas em JavaScript e marquem suas "
 "licenças para reconhecimento pelo LibreJS."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Meanwhile, is it ethical to link to a web page that contains a nonfree "
 "JavaScript program? If we were totally unyielding, we would link only to "
@@ -590,7 +591,7 @@ msgstr ""
 "que funcionam sem JavaScript não livre, ao mesmo tempo em que instamos os "
 "usuários a se protegerem do JavaScript não livre em geral."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "However, if a page can't do its job without running the nonfree JavaScript "
 "code, linking to it undeniably asks people to run that nonfree code.  On "
@@ -601,11 +602,11 @@ msgstr ""
 "executem esse código não livre. Em princípio, não acrescentamos links a tais "
 "páginas."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Conclusion"
 msgstr "Conclusão"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Applying the basic idea that <em>software should be free</em> to different "
 "situations leads to different practical policies.  As new situations arise, "
@@ -650,14 +651,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
@@ -665,12 +666,12 @@ msgstr ""
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas deste site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2015, 2016 Richard Stallman"
-msgstr "Copyright &copy; 2015, 2016 Richard Stallman"
+msgid "Copyright &copy; 2015, 2021 Richard Stallman"
+msgstr "Copyright &copy; 2015, 2021 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -693,3 +694,6 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid "Copyright &copy; 2015, 2016, 2021 Richard Stallman"
+#~ msgstr "Copyright &copy; 2015, 2016, 2021 Richard Stallman"

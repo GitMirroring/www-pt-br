@@ -4,11 +4,12 @@
 # João Paulo Domingos Silva <joaopaulo.ds@gmail.com>, 2005.
 # Jan 2015: GNUNify; trivial update (T. Godefroy).
 # Rafael Fontenelle <rafaelff@gnome.org>, 2016-2021.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: selling.html\n"
-"POT-Creation-Date: 2018-01-01 05:58+0000\n"
-"PO-Revision-Date: 2021-05-03 10:15-0300\n"
+"POT-Creation-Date: 2021-07-16 13:55+0000\n"
+"PO-Revision-Date: 2021-07-29 15:40-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -22,11 +23,11 @@ msgstr ""
 msgid "Selling Free Software - GNU Project - Free Software Foundation"
 msgstr "Vender Software Livre - Projeto GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Selling Free Software"
 msgstr "Vender Software Livre"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<em><a href=\"/philosophy/selling-exceptions.html\">Some views on the ideas "
 "of selling exceptions to free software licenses, such as the GNU GPL</a> are "
@@ -36,7 +37,7 @@ msgstr ""
 "ideias de exceções de venda para licenças de software livre, tais como a GNU "
 "GPL</a> também estão disponíveis.</em>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Many people believe that the spirit of the GNU Project is that you should "
 "not charge money for distributing copies of software, or that you should "
@@ -47,7 +48,7 @@ msgstr ""
 "dinheiro para distribuir cópias de software ou cobrar o mínimo possível — "
 "somente o suficiente para cobrir os custos. Isso é um equívoco."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Actually, we encourage people who redistribute <a href=\"/philosophy/free-sw."
 "html\">free software</a> to charge as much as they wish or can.  If a "
@@ -60,7 +61,7 @@ msgstr ""
 "essa é uma licença não livre. Se isso parece surpreendente para você, por "
 "favor, continue a leitura."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The word &ldquo;free&rdquo; has two legitimate general meanings; it can "
 "refer either to freedom or to price.  When we speak of &ldquo;free "
@@ -77,7 +78,7 @@ msgstr ""
 "para executar, estudar e alterar, e redistribuir o programa com ou sem "
 "alterações."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Free programs are sometimes distributed gratis, and sometimes for a "
 "substantial price.  Often the same program is available in both ways from "
@@ -90,7 +91,7 @@ msgstr ""
 "independentemente do preço porque os usuários têm liberdade para usar o "
 "mesmo."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "<a href=\"/philosophy/categories.html#ProprietarySoftware\">Nonfree "
 "programs</a> are usually sold for a high price, but sometimes a store will "
@@ -104,7 +105,7 @@ msgstr ""
 "programas sejam software livre. Com ou sem preço, um programa como esse não "
 "é livre porque a seus usuários é negada liberdade."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Since free software is not a matter of price, a low price doesn't make the "
 "software free, or even closer to free.  So if you are redistributing copies "
@@ -118,7 +119,7 @@ msgstr ""
 "em>. Redistribuir software livre é uma atividade boa e válida; se você a "
 "efetua, pode também lucrar com a mesma."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Free software is a community project, and everyone who depends on it ought "
 "to look for ways to contribute to building the community.  For a "
@@ -134,7 +135,7 @@ msgstr ""
 "html\">Free Software Foundation</a>. Desta forma, você pode promover o mundo "
 "do software livre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "<strong>Distributing free software is an opportunity to raise funds for "
 "development.  Don't waste it!</strong>"
@@ -142,7 +143,7 @@ msgstr ""
 "<strong>Distribuir software livre é uma oportunidade de levantar fundos para "
 "o desenvolvimento. Não a desperdice!</strong>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "In order to contribute funds, you need to have some extra.  If you charge "
 "too low a fee, you won't have anything to spare to support development."
@@ -150,11 +151,11 @@ msgstr ""
 "Para conseguir fundos, você precisa ter algum dinheiro extra. Cobrando taxas "
 "muito baixas, não sobrará nada para ajudar o desenvolvimento."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><div><h3>
 msgid "Will a higher distribution price hurt some users?"
 msgstr "Preços maiores de distribuições agredirão alguns usuários?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "People sometimes worry that a high distribution fee will put free software "
 "out of range for users who don't have a lot of money.  With <a href=\"/"
@@ -167,7 +168,7 @@ msgstr ""
 "\">software privativo</a>, um preço alto faz exatamente isso — mas com o "
 "software livre é diferente."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The difference is that free software naturally tends to spread around, and "
 "there are many ways to get it."
@@ -175,7 +176,7 @@ msgstr ""
 "A diferença é que o software livre naturalmente tende a se espalhar e há "
 "diversas maneiras disso acontecer."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Software hoarders try their damnedest to stop you from running a proprietary "
 "program without paying the standard price.  If this price is high, that does "
@@ -185,7 +186,7 @@ msgstr ""
 "programa privativo sem o pagamento do preço de tabela. Se esse preço for "
 "alto, será complicado para que algumas pessoas usem o programa."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "With free software, users don't <em>have</em> to pay the distribution fee in "
 "order to use the software.  They can copy the program from a friend who has "
@@ -201,11 +202,11 @@ msgstr ""
 "então cada um pode instalar o software para si. Um preço alto por um CD-ROM "
 "não é um grande obstáculo quando o software é livre."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><div><h3>
 msgid "Will a higher distribution price discourage use of free software?"
 msgstr "Preços maiores de distribuições desmotivarão o uso de software livre?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Another common concern is for the popularity of free software.  People think "
 "that a high price for distribution would reduce the number of users, or that "
@@ -215,7 +216,7 @@ msgstr ""
 "pessoas pensam que preços altos de distribuições reduziriam o número de "
 "usuários ou que preços baixos poderiam motivar os mesmos."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "This is true for proprietary software&mdash;but free software is different.  "
 "With so many ways to get copies, the price of distribution service has less "
@@ -225,7 +226,7 @@ msgstr ""
 "diferente. Com tantas maneiras de se conseguir cópias, o preço da "
 "distribuição tem pouco efeito na popularidade."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "In the long run, how many people use free software is determined mainly by "
 "<em>how much free software can do</em>, and how easy it is to use.  Many "
@@ -241,7 +242,7 @@ msgstr ""
 "se queremos aumentar o número de usuários a longo prazo, deveríamos, acima "
 "de tudo, <em>desenvolver mais software livre</em>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The most direct way to do this is by writing needed <a href=\"http://"
 "savannah.gnu.org/projects/tasklist\">free software</a> or <a href=\"/doc/doc."
@@ -255,11 +256,11 @@ msgstr ""
 "ao invés de escrever, a melhor maneira de ajudar é levantando fundos para "
 "aqueles que escrevem tais distribuições."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><div><h3>
 msgid "The term &ldquo;selling software&rdquo; can be confusing too"
 msgstr "A expressão “vender software” também pode ser confusa"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Strictly speaking, &ldquo;selling&rdquo; means trading goods for money.  "
 "Selling a copy of a free program is legitimate, and we encourage it."
@@ -268,7 +269,7 @@ msgstr ""
 "Vender uma cópia de um programa livre é válido e nós incentivamos tal "
 "prática."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "However, when people think of <a href=\"/philosophy/words-to-avoid."
 "html#SellSoftware\">&ldquo;selling software&rdquo;</a>, they usually imagine "
@@ -280,7 +281,7 @@ msgstr ""
 "fazer isso como a maioria das empresas o fazem: tornando-o software "
 "privativo ao invés de livre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "So unless you're going to draw distinctions carefully, the way this article "
 "does, we suggest it is better to avoid using the term &ldquo;selling "
@@ -293,11 +294,11 @@ msgstr ""
 "escolher alguma outra expressão no lugar. Por exemplo, você poderia dizer "
 "“distribuir software livre por uma taxa” — isso não ficaria ambíguo."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><div><h3>
 msgid "High or low fees, and the GNU GPL"
 msgstr "Taxas altas ou baixas e a GNU GPL"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Except for one special situation, the <a href=\"/copyleft/gpl.html\">GNU "
 "General Public License</a> (GNU GPL)  has no requirements about how much you "
@@ -313,7 +314,7 @@ msgstr ""
 "portanto não reclame conosco se ninguém quiser pagar um bilhão de dólares "
 "por uma cópia."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The one exception is in the case where binaries are distributed without the "
 "corresponding complete source code.  Those who do this are required by the "
@@ -337,7 +338,7 @@ msgstr ""
 "comuns, entretanto, não há motivos para limitar taxas de distribuições, "
 "portanto, não as limitamos."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Sometimes companies whose activities cross the line stated in the GNU GPL "
 "plead for permission, saying that they &ldquo;won't charge money for the GNU "
@@ -381,14 +382,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
@@ -396,16 +397,16 @@ msgstr ""
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas deste site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 1996, 1997, 1998, 2001, 2007, 2015, 2016, 2017, 2018 Free "
-"Software Foundation, Inc."
+"Copyright &copy; 1996-1998, 2001, 2007, 2015, 2021 Free Software Foundation, "
+"Inc."
 msgstr ""
-"Copyright &copy; 1996, 1997, 1998, 2001, 2007, 2015, 2016, 2017, 2018 Free "
-"Software Foundation, Inc."
+"Copyright &copy; 1996-1998, 2001, 2007, 2015, 2021 Free Software Foundation, "
+"Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -421,14 +422,20 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"<b>Tradução</b>: Jotapê (João Paulo Domingos Silva)\n"
-"<a href=\"mailto:joaopaulo.ds@gmail.com\">&lt;joaopaulo.ds@gmail.com&gt;</"
-"a>, 2005; \n"
-"Rafael Fontenelle\n"
-"<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, 2016, "
-"2017"
+"Traduzido por:\n"
+"Jotapê (João Paulo Domingos Silva) <a href=\"mailto:joaopaulo.ds@gmail.com"
+"\">&lt;joaopaulo.ds@gmail.com&gt;</a>, 2005; \n"
+"Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome."
+"org&gt;</a>, 2016-2021"
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid ""
+#~ "Copyright &copy; 1996, 1997, 1998, 2001, 2007, 2015, 2016, 2017, 2018, "
+#~ "2021 Free Software Foundation, Inc."
+#~ msgstr ""
+#~ "Copyright &copy; 1996, 1997, 1998, 2001, 2007, 2015, 2016, 2017, 2018, "
+#~ "2021 Free Software Foundation, Inc."

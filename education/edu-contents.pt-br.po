@@ -1,20 +1,21 @@
 # Brazilian Portuguese translation of https://www.gnu.org/education/edu-contents.html
 # Copyright (C) 2019 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2018, 2019.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018-2021.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: edu-contents.html\n"
 "POT-Creation-Date: 2019-05-01 10:56+0000\n"
-"PO-Revision-Date: 2019-05-02 06:53-0200\n"
+"PO-Revision-Date: 2021-07-30 14:11-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 1.0.0-beta1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -55,7 +56,7 @@ msgstr ""
 
 #. type: Content of: <h3>
 msgid "Table of Contents"
-msgstr "Tabela de Conteúdo"
+msgstr "Conteúdo"
 
 #. type: Content of: <p>
 msgid "<a href=\"/education/education.html\">Education Main Page</a>"

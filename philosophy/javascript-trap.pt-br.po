@@ -2,12 +2,13 @@
 # Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original articles.
 # Rafael Fontenelle <rafaelff@gnome.org>, 2016-2021.
+# André Alvarenga <andrealvarenga@gmx.net>, 2021 (#61031, fix typos)
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: javascript-trap.html\n"
-"POT-Creation-Date: 2021-05-31 03:55+0000\n"
-"PO-Revision-Date: 2021-06-03 16:14-0300\n"
+"POT-Creation-Date: 2021-07-18 09:55+0000\n"
+"PO-Revision-Date: 2021-08-12 09:55-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -17,15 +18,15 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1)\n"
 "X-Generator: Gtranslator 40.0\n"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "The JavaScript Trap"
 msgstr "A Armadilha do JavaScript"
 
-#. type: Content of: <p>
-msgid "by <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
-msgstr "por <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
+#. type: Content of: <div><address>
+msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
+msgstr "por <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>You may be running nonfree programs on your computer every day "
 "without realizing it&mdash;through your web browser.</strong>"
@@ -33,7 +34,7 @@ msgstr ""
 "<strong>Você pode estar executando programas não livres em seu computador "
 "todo dia sem perceber &ndash; por meio de seu navegador web.</strong>"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Webmasters: there are <a href=\"/software/librejs/free-your-javascript.html"
 "\">several ways</a> to indicate the license of JavaScript programs in a web "
@@ -42,7 +43,7 @@ msgstr ""
 "Webmasters: há <a href=\"/software/librejs/free-your-javascript.html"
 "\">várias formas</a> de indicar a licença de programas JavaScript em um site."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In the free software community, the idea that <a href=\"/philosophy/free-"
 "software-even-more-important.html\"> any nonfree program mistreats its "
@@ -51,12 +52,12 @@ msgid ""
 "a strike against the program."
 msgstr ""
 "Na comunidade de software livre, a ideia de que <a href=\"/philosophy/free-"
-"software-even-more-important.html\"> qualquer programas não livre maltrata "
+"software-even-more-important.html\"> qualquer programa não livre maltrata "
 "seus usuários</a> é familiar. Alguns de nós defendem nossa liberdade "
 "rejeitando todos os softwares privativos em seus computadores. Muitos outros "
 "reconhecem a falta de liberdade como uma afronta ao programa."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Many users are aware that this issue applies to the plug-ins that browsers "
 "offer to install, since they can be free or nonfree.  But browsers run other "
@@ -69,9 +70,9 @@ msgstr ""
 "livres. Mas os navegadores executam outros programas não livres sem pedir "
 "autorização e sem avisar &ndash; programas contidos ou vinculados em páginas "
 "web. Esses programas são muito frequentemente escritos em JavaScript, porém "
-"outros linguagens também são usados."
+"outras linguagens também são usadas."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "JavaScript (officially called ECMAScript, but few use that name)  was once "
 "used for minor frills in web pages, such as cute but inessential navigation "
@@ -82,10 +83,10 @@ msgstr ""
 "JavaScript (oficialmente chamado de ECMAScript, mas poucos usam este nome) "
 "foi, certa vez, usado para pequenas decorações estéticas em páginas web, tal "
 "como recursos de exibição e navegação fofas, mas não essenciais. Era "
-"aceitável considerá-los como mera extensões de marcação HTML, em vez de "
+"aceitável considerá-los como meras extensões de marcação HTML, em vez de "
 "verdadeiros softwares, e em desconsideração da questão."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Some sites still use JavaScript that way, but many use it for major programs "
 "that do large jobs.  For instance, Google Docs tries to install into your "
@@ -106,7 +107,7 @@ msgstr ""
 "nome arbitrário abreviado, para que não seja possível dizer qual é seu "
 "suposto significado."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Part of the <a href=\"/philosophy/free-sw.html\">meaning of free software</"
 "a> is that users have access to the program's source code (its plan).  The "
@@ -125,10 +126,10 @@ msgstr ""
 "disponível para os usuários, portanto os usuários não podem entendê-lo; "
 "portanto, os programas são não livres."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In addition to being nonfree, many of these programs are <em>malware</em> "
-"because they <a href=\"http://github.com/w3c/fingerprinting-guidance/"
+"because they <a href=\"https://github.com/w3c/fingerprinting-guidance/"
 "issues/8\">snoop on the user</a>.  Even nastier, some sites use services "
 "which record <a href=\"https://freedom-to-tinker.com/2017/11/15/no-"
 "boundaries-exfiltration-of-personal-data-by-session-replay-scripts/\">all "
@@ -139,7 +140,7 @@ msgid ""
 "shouldn't get."
 msgstr ""
 "Além de ser não livre, muitos desses programas são <em>malwares</em> porque "
-"eles <a href=\"http://github.com/w3c/fingerprinting-guidance/"
+"eles <a href=\"https://github.com/w3c/fingerprinting-guidance/"
 "issues/8\">bisbilhotam o usuário</a>. Ainda mais desagradável, alguns sites "
 "usam serviços que registram <a href=\"https://freedom-to-tinker."
 "com/2017/11/15/no-boundaries-exfiltration-of-personal-data-by-session-replay-"
@@ -149,7 +150,7 @@ msgstr ""
 "forma confiável, todo o propósito desses serviços é fornecer ao site dados "
 "pessoais (de outras pessoas) que ele não deveria obter."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Browsers don't normally tell you when they load JavaScript programs.  Some "
 "browsers have a way to turn off JavaScript entirely, but even if you're "
@@ -166,7 +167,7 @@ msgstr ""
 "na comunidade de software livre, a maioria dos usuários não estão cientes "
 "desta questão, o silêncio dos navegadores tende a ocultar isso."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "To be clear, the language JavaScript is not inherently better or worse for "
 "users' freedom than any other language.  It is possible to release a "
@@ -191,7 +192,7 @@ msgstr ""
 "não apresentam nenhum problema moral especial diferente daqueles dos "
 "programas C."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The issue of the JavaScript trap applies when the JavaScript program comes "
 "along with a web page that users visit.  Those JavaScript programs are "
@@ -203,7 +204,7 @@ msgstr ""
 "JavaScript são escritos para funcionar com uma página ou site específico, e "
 "a página ou site depende deles para funcionar."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Suppose you copy and modify the page's JavaScript code.  Then another "
 "problem arises: even if the program's source is available, browsers do not "
@@ -217,7 +218,7 @@ msgstr ""
 "do original ao visitar aquela página ou aquele site. O efeito é comparável à "
 "tivoização, apesar de, em princípio, não ser tão difícil de superar."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "JavaScript is not the only language web sites use for programs sent to the "
 "user.  Flash supported programming through an extended variant of "
@@ -229,14 +230,14 @@ msgid ""
 msgstr ""
 "JavaScript não é a única linguagem que sites web usam para programas "
 "enviados pelo usuários. O Flash oferece suporte a programação por meio de "
-"uma variante estendida do JavaScript, mas está é uma coisa do passado. "
+"uma variante estendida do JavaScript, mas esta é uma coisa do passado. "
 "Silverlight da Microsoft parece criar um problema similar ao do Flash, só "
 "que pior, já que a Microsoft o usa como uma plataforma para codecs não "
 "livres. Um substituto livre para o Silverlight não faz o trabalho "
 "adequadamente para o mundo livre a menos que venha codecs livres em "
 "substituição."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Java applets also run in the browser, and raise similar issues.  In general, "
 "any sort of applet system poses this sort of problem.  Having a free "
@@ -248,20 +249,20 @@ msgstr ""
 "tipo de problema. Tendo um ambiente de execução livre para um applet só nos "
 "traz o suficiente para encontrar o problema."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "It is theoretically possible to program in HTML and CSS, but in practice "
 "this capability is limited and inconvenient; merely to make it do something "
 "is an impressive hack.  Such programs ought to be free, but CSS is not a "
 "serious problem for users' freedom as of 2019."
 msgstr ""
-"Teoricamente, é possível que programar em HTML e CSS, mas, na prática, essa "
+"Teoricamente, é possível programar em HTML e CSS, mas, na prática, essa "
 "capacidade é limitada e inconveniente; para que seja possível que o programa "
 "faça alguma coisa, é necessário um <cite>hack</cite> impressionante. Tais "
 "programas devem ser livres, mas CSS não é um problema sério para a liberdade "
 "dos usuários em 2019."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "A strong movement has developed that calls for web sites to communicate only "
 "through formats and protocols that are free (some say &quot;open&quot;); "
@@ -279,7 +280,7 @@ msgstr ""
 "para se comunicar apenas por meio de formatos e protocolos que são livres "
 "(alguns dizem “abertos”); isto é, cuja documentação está publicada e a qual "
 "qualquer um é livre para implementar. Porém, a presença de programas "
-"JavaScript nas páginas web tornar aquele critério ineficiente. A linguagem "
+"JavaScript nas páginas web tornam aquele critério ineficiente. A linguagem "
 "do JavaScript em si, como um formato, é livre, e o uso de JavaScript em um "
 "site web não necessariamente é ruim. Porém, como já vimos acima, pode ser "
 "ruim &ndash; se o programa JavaScript for não livre. Quando o site transmite "
@@ -288,7 +289,7 @@ msgstr ""
 "livre. “Transmita apenas programas livres para os usuários” deve se tornar "
 "parte do critério site web ético."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Silently loading and running nonfree programs is one among several issues "
 "raised by &quot;web applications&quot;.  The term &quot;web "
@@ -315,16 +316,16 @@ msgstr ""
 "Esse artigo tem como escopo apenas a questão do software do cliente. Nós "
 "vamos tratar da questão do servidor separadamente."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In practical terms, how can we deal with the problem of nontrivial nonfree "
 "JavaScript programs in web sites? The first step is to avoid running it."
 msgstr ""
-"Em termos práticos, como nós podemos lidar com o programa de programas "
+"Em termos práticos, como nós podemos lidar com o problema de programas "
 "JavaScript não livres e não triviais em sites? O primeiro passo é evitar "
 "executá-lo."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "What do we mean by &quot;nontrivial&quot;? It is a matter of degree, so this "
 "is a matter of designing a simple criterion that gives good results, rather "
@@ -334,7 +335,7 @@ msgstr ""
 "essa é uma questão de projetar um critério simples que fornece bons "
 "resultados, em vez de encontrar a resposta correta."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Our current criterion is to consider a JavaScript program nontrivial if any "
 "of these conditions is met:"
@@ -342,15 +343,15 @@ msgstr ""
 "Nosso critério atual é considerar um programa JavaScript como não trivial se "
 "qualquer uma dessas condições for atendida:"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "it is referred to as an external script (from another page)."
 msgstr "ele é referido como um script externo (de outra página)."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "it declares an array more than 50 elements long."
 msgstr "ele declara um vetor com mais de 50 elementos."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "it defines a named entity (function or method) that calls anything other "
 "than a primitive."
@@ -358,7 +359,7 @@ msgstr ""
 "ele define uma entidade dada (função ou método) que chama qualquer outra que "
 "não seja a primitiva."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "it defines a named entity with more than three conditional constructs and "
 "loop construction."
@@ -366,7 +367,7 @@ msgstr ""
 "ele define uma dada entidade com mais de três construtos condicionais e "
 "construção de loop."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "code outside of named definitions calls anything but primitives and "
 "functions defined further up in the page."
@@ -374,23 +375,23 @@ msgstr ""
 "um código fora das definições dadas chama qualquer coisa, exceto primitivas "
 "e funções definidas anteriormente na página."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "code outside of named definitions contains more than three conditional "
 "constructs and loop construction, total."
 msgstr ""
-"um código fora das definições dadas contém mais mais de três construtos "
+"um código fora das definições dadas contém mais de três construtos "
 "condicionais e construção de loop, no total."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "it calls <b>eval</b>."
 msgstr "ele chama <b>eval</b>."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "it does Ajax calls."
 msgstr "ele faz chamadas Ajax."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "it uses bracket notation for dynamic object property access, which looks "
 "like <b><em>object</em>[<em>property</em>]</b>."
@@ -398,11 +399,11 @@ msgstr ""
 "ele usa a notação de colchetes para o acesso à propriedade de objeto "
 "dinâmico, que se parece com <b><em>objeto</em>[<em>propriedade</em>]</b>."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "it alters the DOM."
 msgstr "ele altera o DOM."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "it uses dynamic JavaScript constructs that are difficult to analyze without "
 "interpreting the program, or is loaded along with scripts that use such "
@@ -412,11 +413,11 @@ msgid ""
 msgstr ""
 "ele usa construtos JavaScript dinâmicos que são difíceis de analisar sem "
 "interpretar o programa, ou é carregado junto com scripts que usam tais "
-"construtos. Especificamente, usando qualquer outra construtos que não uma "
+"construtos. Especificamente, usando quaisquer outra construtos que não uma "
 "string literal com determinados métodos (<b>Obj.write</b>, <b>Obj."
 "createElement</b> e outros)."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "How do we tell whether the JavaScript code is free? In a <a href=\"/licenses/"
 "javascript-labels.html\">separate article</a>, we propose a method by which "
@@ -430,7 +431,7 @@ msgstr ""
 "qual seu código-fonte está localizado, e pode indicar sua licença também, "
 "usando comentários estilizados."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Finally, we need to change free browsers to detect and block nontrivial "
 "nonfree JavaScript in web pages.  The program <a href=\"/software/librejs/"
@@ -444,7 +445,7 @@ msgstr ""
 "em páginas que você visita, e os bloqueia. LibreJS está incluso no IceCat e "
 "disponível como uma extensão para Firefox."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Browser users also need a convenient facility to specify JavaScript code to "
 "use <em>instead</em> of the JavaScript in a certain page.  (The specified "
@@ -469,7 +470,7 @@ msgstr ""
 "as alterações. O Projeto GNU gostaria de recomendar os sites que são "
 "dedicados unicamente às alterações livres."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "These features will make it possible for a JavaScript program included in a "
 "web page to be free in a real and practical sense.  JavaScript will no "
@@ -487,7 +488,7 @@ msgstr ""
 "livres que são oferecidos para instalação na forma comum. Nossa campanha "
 "para sites tornarem livres os seus JavaScript pode, então, começar."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In the mean time, there's one case where it is acceptable to run a nonfree "
 "JavaScript program: to send a complaint to the website operators saying they "
@@ -501,15 +502,15 @@ msgstr ""
 "Por favor, não hesite em habilitar temporariamente JavaScript para fazer "
 "isso &ndash; mas lembre-se de desabilitá-lo novamente em seguida."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Acknowledgements:</strong> I thank <a href=\"/people/people."
-"html#mattlee\">Matt Lee</a> and <a href=\"http://ejohn.org\">John Resig</a> "
-"for their help in defining our proposed criterion, and David Parunakian for "
-"bringing the problem to my attention."
+"html#mattlee\">Matt Lee</a> and <a href=\"https://johnresig.com/\">John "
+"Resig</a> for their help in defining our proposed criterion, and David "
+"Parunakian for bringing the problem to my attention."
 msgstr ""
 "<strong>Agradecimentos:</strong> Obrigado a <a href=\"/people/people."
-"html#mattlee\">Matt Lee</a> e <a href=\"http://ejohn.org\">John Resig</a> "
+"html#mattlee\">Matt Lee</a> e <a href=\"https://ejohn.org\">John Resig</a> "
 "por ajudarem na definição de nosso critério proposto e a David Parunakian "
 "por trazer o programa à minha atenção."
 
@@ -539,14 +540,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
@@ -554,14 +555,12 @@ msgstr ""
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas deste site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid ""
-"Copyright &copy; 2009-2013, 2016, 2017, 2018, 2019, 2021 Richard Stallman"
-msgstr ""
-"Copyright &copy; 2009-2013, 2016, 2017, 2018, 2019, 2021 Richard Stallman"
+msgid "Copyright &copy; 2009-2013, 2016-2019, 2021 Richard Stallman"
+msgstr "Copyright &copy; 2009-2013, 2016-2019, 2021 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -586,8 +585,13 @@ msgstr ""
 msgid "Updated:"
 msgstr "Última atualização:"
 
-#~ msgid "Copyright &copy; 2009-2013, 2016, 2017, 2018, 2019 Richard Stallman"
-#~ msgstr "Copyright &copy; 2009-2013, 2016, 2017, 2018, 2019 Richard Stallman"
+#~ msgid "by <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
+#~ msgstr "por <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
+
+#~ msgid ""
+#~ "Copyright &copy; 2009-2013, 2016, 2017, 2018, 2019, 2021 Richard Stallman"
+#~ msgstr ""
+#~ "Copyright &copy; 2009-2013, 2016, 2017, 2018, 2019, 2021 Richard Stallman"
 
 #~ msgid "calling methods with the square bracket notation,"
 #~ msgstr "chamando métodos com a notação de colchetes,"

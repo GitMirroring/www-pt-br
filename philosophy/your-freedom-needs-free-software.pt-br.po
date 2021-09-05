@@ -1,13 +1,14 @@
 # Brazilian Portuguese translation of https://www.gnu.org/philosophy/your-freedom-needs-free-software.html
 # Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2019-2021.
 # Cassiano Reinert Novais dos Santos <caco@posteo.net>, 2019. (#15217)
+# Rafael Fontenelle <rafaelff@gnome.org>, 2019-2021.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: your-freedom-needs-free-software.html\n"
-"POT-Creation-Date: 2017-08-27 14:56+0000\n"
-"PO-Revision-Date: 2021-05-03 10:15-0300\n"
+"POT-Creation-Date: 2021-09-05 10:26+0000\n"
+"PO-Revision-Date: 2021-07-29 16:26-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -24,11 +25,15 @@ msgstr ""
 "Sua liberdade precisa de software livre - Projeto GNU - Free Software "
 "Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Your Freedom Needs Free Software"
 msgstr "Sua liberdade precisa de software livre"
 
-#. type: Content of: <p>
+#. type: Content of: <div><address>
+msgid "by Richard Stallman"
+msgstr "por Richard Stallman"
+
+#. type: Content of: <div><p>
 msgid ""
 "Many of us know that governments can threaten the human rights of software "
 "users through censorship and surveillance of the Internet.  Many do not "
@@ -43,10 +48,10 @@ msgstr ""
 "“apenas uma ferramenta”, eles supõem que ela os obedece, quando, na verdade, "
 "ela geralmente obedece aos outros."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The software running in most computers is <a href=\"/philosophy/categories."
-"html#ProprietarySoftware\">non-free, proprietary software</a>: controlled by "
+"html#ProprietarySoftware\">nonfree, proprietary software</a>: controlled by "
 "software companies, not by its users.  Users can't check what these programs "
 "do, nor prevent them from doing what they don't want.  Most people accept "
 "this because they have seen no other way, but it is simply wrong to give "
@@ -60,14 +65,14 @@ msgstr ""
 "maneira, mas é simplesmente errado dar aos desenvolvedores poder sobre o "
 "computador dos usuários."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This unjust power, as usual, tempts its wielders to further misdeeds. If a "
 "computer talks to a network, and you don't control the software in it, it "
 "can easily spy on you.  Microsoft Windows spies on users; for instance, it "
 "reports what words a user searches for in her own files, and what other "
 "programs are installed.  RealPlayer spies too; it reports what the user "
-"plays.  Cell phones are full of non-free software, which spies.  Cell phones "
+"plays.  Cell phones are full of nonfree software, which spies.  Cell phones "
 "send out localizing signals even when &lsquo;off&rsquo;, many can send out "
 "your precise GPS location whether you wish or not, and some models can be "
 "switched on remotely as listening devices.  Users can't fix these malicious "
@@ -85,7 +90,7 @@ msgstr ""
 "ligados remotamente como dispositivos de escuta. Os usuários não podem "
 "corrigir esses recursos maliciosos porque eles não têm controle."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Some proprietary software is designed to restrict and attack its users.  <a "
 "href=\"http://badvista.org/\">Windows Vista</a> is a big advance in this "
@@ -112,21 +117,21 @@ msgstr ""
 "<a href=\"http://upgradefromwindows8.org/\">UpgradeFromWindows8.org</a>.) O "
 "Mac OS também contém recursos projetados para restringir seus usuários."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Microsoft has installed back doors for the US government's use in the past "
-"(<a href=\"http://www.heise.de/tp/artikel/5/5263/1.html\">reported on heise."
+"(<a href=\"https://www.heise.de/tp/artikel/5/5263/1.html\">reported on heise."
 "de</a>).  We cannot check whether they have successors today.  Other "
 "proprietary programs may or may not have back doors, but since we cannot "
 "check them, we cannot trust them."
 msgstr ""
 "A Microsoft instalou <em>backdoors</em> para o uso do governo dos EUA no "
-"passado (<a href=\"http://www.heise.de/tp/artikel/5/5263/1.html\">relatado "
+"passado (<a href=\"https://www.heise.de/tp/artikel/5/5263/1.html\">relatado "
 "em heise.de</a>). Não podemos verificar se eles têm sucessores hoje. Outros "
 "programas privativos podem ou não ter <em>backdoors</em>, mas como não "
 "podemos verificá-los, não podemos confiar neles."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The only way to assure that your software is working for you is to insist on "
 "Free/Libre software.  This means users get the source code, are free to "
@@ -134,9 +139,9 @@ msgid ""
 "changes.  The <a href=\"/gnu/linux-and-gnu.html\">GNU/Linux system</a>, "
 "developed <a href=\"/gnu/gnu.html\">specifically for users' freedom</a>, "
 "includes office applications, multimedia, games, and everything you really "
-"need to run a computer.  See <a href=\"http://www.gnewsense.org/\">gNewSense."
-"org</a> for a <a href=\"/distros/distros.html\">totally Free/Libre version "
-"of GNU/Linux</a>."
+"need to run a computer.  See <a href=\"https://www.gnewsense.org/"
+"\">gNewSense.org</a> for a <a href=\"/distros/distros.html\">totally Free/"
+"Libre version of GNU/Linux</a>."
 msgstr ""
 "A única maneira de garantir que o seu software esteja trabalhando para você "
 "é insistir no software Livre/Libre. Isso significa que os usuários obtêm o "
@@ -145,11 +150,11 @@ msgstr ""
 "html\">sistema GNU/Linux</a>, desenvolvido <a href=\"/gnu/gnu.html"
 "\">especificamente para a liberdade dos usuários</a>, inclui aplicativos de "
 "escritório, multimídia, jogos e tudo o que você realmente precisa para "
-"executar um computador. Consulte <a href=\"http://www.gnewsense.org/"
+"executar um computador. Consulte <a href=\"https://www.gnewsense.org/"
 "\">gNewSense.org</a> para obter uma <a href=\"/distros/distros.html\">versão "
 "totalmente Livre/Libre do GNU/Linux</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "A special problem occurs when activists for social change use proprietary "
 "software, because its developers, who control it, may be companies they wish "
@@ -166,7 +171,7 @@ msgstr ""
 "significa controle do que podemos dizer e para quem. Isso ameaça nossa "
 "liberdade em todas as áreas da vida."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "There is also danger in using a company's server to do your word processing "
 "or email&mdash;and not just if you are in China, as US lawyer Michael "
@@ -183,7 +188,7 @@ msgstr ""
 "desaparecessem, e não admitiu que isso fosse intencional até que um de seus "
 "funcionários delatou. Springmann desistiu de recuperar seus dados."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The US is not the only state that doesn't respect human rights, so keep your "
 "data on your own computer, and your backups under your own custody&mdash;and "
@@ -219,14 +224,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
@@ -234,12 +239,12 @@ msgstr ""
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas deste site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2007, 2017 Richard Stallman"
-msgstr "Copyright &copy; 2007, 2017 Richard Stallman"
+msgid "Copyright &copy; 2007, 2021 Richard Stallman"
+msgstr "Copyright &copy; 2007, 2021 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -256,10 +261,14 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
-"rafaelff@gnome.org&gt;</a>, 2019.Revisado por: Cassiano Reinert Novais dos "
-"Santos <a href=\"mailto:caco@posteo.net\">&lt;caco@posteo.net&gt;</a>, 2019."
+"rafaelff@gnome.org&gt;</a>, 2019-2021.<br/>\n"
+"Revisado por: Cassiano Reinert Novais dos Santos <a href=\"mailto:"
+"caco@posteo.net\">&lt;caco@posteo.net&gt;</a>, 2019."
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid "Copyright &copy; 2007, 2017, 2021 Richard Stallman"
+#~ msgstr "Copyright &copy; 2007, 2017, 2021 Richard Stallman"

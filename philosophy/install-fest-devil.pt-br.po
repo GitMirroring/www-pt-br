@@ -1,14 +1,14 @@
 # Brazilian Portuguese translation of https://www.gnu.org/philosophy/install-fest-devil.html
-# Copyright (C) 2020 Free Software Foundation, Inc.
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Cassiano Reinert Novais dos Santos <caco@posteo.net>, 2019. (#15126)
-# Rafael Fontenelle <rafaelff@gnome.org>, 2019-2020.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2019-2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: install-fest-devil.html\n"
-"POT-Creation-Date: 2020-10-24 06:55+0000\n"
-"PO-Revision-Date: 2020-12-13 18:22-0300\n"
+"POT-Creation-Date: 2021-09-05 09:56+0000\n"
+"PO-Revision-Date: 2021-07-29 16:37-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -16,29 +16,21 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1)\n"
-"X-Generator: Gtranslator 3.38.0\n"
+"X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <title>
 msgid "Install Fests - GNU Project - Free Software Foundation"
 msgstr "Festivais de Instalação - Projeto GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Install Fests: What to Do about the Deal with the Devil"
 msgstr "Festivais de Instalação: O que fazer com o pacto com o diabo"
 
-#. type: Content of: <p>
+#. type: Content of: <div><address>
 msgid "by Richard Stallman"
 msgstr "por Richard Stallman"
 
-#. type: Content of: <blockquote><p>
-msgid ""
-"Published for <a href=\"https://libreplanet.org/2019\"> LibrePlanet March "
-"23/24 2019</a>"
-msgstr ""
-"Publicado para <a href=\"https://libreplanet.org/2019\"> LibrePlanet, en 23 "
-"e 24 de Março de 2019</a>"
-
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Install fests invite users to bring their computers so that experts can "
 "install GNU/Linux on them.  This is meant to promote the <em>idea</em> of "
@@ -54,7 +46,7 @@ msgstr ""
 "usuários que desejam rejeitar o software não livre precisam escolher "
 "cuidadosamente seus computadores com cuidado para atingir esse objetivo."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The problem is that most computers can't run with a completely free GNU/"
 "Linux distro.  They contain peripherals, or coprocessors, that won't operate "
@@ -71,7 +63,7 @@ msgstr ""
 "única maneira de descobrir como é usar engenharia reversa, que na maioria "
 "dos casos ainda não foi feita."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This presents the install fest with a dilemma.  If it upholds the ideals of "
 "freedom, by installing only free software from <a href=\"/distros/distros."
@@ -98,7 +90,7 @@ msgstr ""
 "suprime <a href=\"/philosophy/free-software-even-more-important.html\">a "
 "mensagem do movimento do software livre sobre liberdade e justiça</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The nonfree software means the user sacrifices freedom for functionality.  "
 "If users had to wrestle with this choice, they could draw a moral lesson "
@@ -118,7 +110,7 @@ msgstr ""
 "jogo. Com efeito, o festival de instalação faz o pacto com o diabo, em nome "
 "do usuário, atrás de uma cortina para que o usuário não reconheça este pacto."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I propose that the install fest show users exactly what deal they are "
 "making.  Let them talk with the devil individually, learn the deal's bad "
@@ -128,7 +120,7 @@ msgstr ""
 "eles estão fazendo. Deixe-os falar com o diabo individualmente, aprenda as "
 "más implicações do pacto, faça um pacto &ndash; ou se recuse!"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "As always, I call on the install fest itself to install only free software, "
 "taking a strict stance.  In this way it can set a clear moral example of "
@@ -138,7 +130,7 @@ msgstr ""
 "software livre, assumindo uma postura rígida. Desta forma, ele pode definir "
 "um exemplo moral claro de rejeição de software não livre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "My new idea is that the install fest could allow the devil to hang around, "
 "off in a corner of the hall, or the next room.  (Actually, a human being "
@@ -155,7 +147,7 @@ msgstr ""
 "explicando ao usuário que o custo disso é usar um programa não livre "
 "(injusto)."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The install fest would tolerate the devil's presence but not officially "
 "sponsor the devil, or publicize the devil's availability.  Therefore, the "
@@ -172,7 +164,7 @@ msgstr ""
 "diabo, de modo que poderia reter plena autoridade moral quando fala sobre o "
 "imperativo da liberdade."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Those users that get nonfree drivers would see what their moral cost is, and "
 "that there are people in the community who refuse to pay that cost.  They "
@@ -186,7 +178,7 @@ msgstr ""
 "seus computadores defeituosos os colocaram e sobre como mudar essa situação, "
 "em pequena e grande escala."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The install fest should offer advice to users that would like to replace "
 "some of the machine's components with alternatives that do support free "
@@ -200,7 +192,7 @@ msgstr ""
 "comerciais, incluindo fsf.org/resources/hw para obter um computador que "
 "funcione totalmente sem <em>drivers</em> e <em>blobs</em> não livres."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "It should also suggest to these users that they send letters of criticism to "
 "the companies that make or sell the components that depend on nonfree "
@@ -210,7 +202,7 @@ msgstr ""
 "empresas que produzem ou vendem os componentes que dependem de software não "
 "livre para funcionar."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The install-fest devil has nothing to do with the cute BSD demon, and the "
 "install fest should make that very clear.  This issue concerns the "
@@ -222,7 +214,7 @@ msgstr ""
 "respeito à diferença entre várias distribuições GNU/Linux, e não é sobre o "
 "BSD. De fato, a mesma abordagem poderia ser usada para a instalação do BSD."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This devil would be a human being disguised to teach a moral lesson with a "
 "theatrical metaphor, so let's not take the metaphor too far.  I think we "
@@ -242,7 +234,7 @@ msgstr ""
 "mesmo) é <a href=\"https://www.fsfla.org/circular/2007-02.en."
 "html#1\">colocar-se em um congestionamento moral</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The devil's work would be something I don't approve of&mdash;installing "
 "nonfree software&mdash;so I will not get involved in discussing the "
@@ -263,7 +255,7 @@ msgstr ""
 "instalar o Windows? As pessoas que executam o festival de instalação devem "
 "perguntar a alguns usuários o que o diabo fez com seus computadores."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Isn't it morally better if the install fest doesn't allow the devil? "
 "Certainly! The FSF will not let a devil hang around its events.  But given "
@@ -285,6 +277,14 @@ msgstr ""
 "periféricos funcionarem, e então usarem o GNU/Linux sabendo que há <a href="
 "\"/philosophy/saying-no-even-once.html\">um passo adicional em direção à "
 "liberdade</a> que eles deveriam tomar."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Published for <a href=\"https://libreplanet.org/2019\"> LibrePlanet March "
+"23/24 2019</a>"
+msgstr ""
+"Publicado para <a href=\"https://libreplanet.org/2019\"> LibrePlanet, en 23 "
+"e 24 de Março de 2019</a>"
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -312,14 +312,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
@@ -327,12 +327,12 @@ msgstr ""
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas deste site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2019, 2020 Richard Stallman"
-msgstr "Copyright &copy; 2019, 2020 Richard Stallman"
+msgid "Copyright &copy; 2019, 2021 Richard Stallman"
+msgstr "Copyright &copy; 2019, 2021 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -349,7 +349,7 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
-"rafaelff@gnome.org&gt;</a>, 2019-2020. <br/>\n"
+"rafaelff@gnome.org&gt;</a>, 2019-2021. <br/>\n"
 "Revisado por: Cassiano Reinert Novais dos Santos <a href=\"mailto:"
 "caco@posteo.net\">&lt;caco@posteo.net&gt;</a>, 2019."
 
@@ -357,6 +357,9 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid "Copyright &copy; 2019, 2020, 2021 Richard Stallman"
+#~ msgstr "Copyright &copy; 2019, 2020, 2021 Richard Stallman"
 
 #~ msgid "Copyright &copy; 2019 Free Software Foundation, Inc."
 #~ msgstr "Copyright &copy; 2019 Free Software Foundation, Inc."

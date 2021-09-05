@@ -1,21 +1,22 @@
 # Brazilian Portuguese translation of https://www.gnu.org/gnu/yes-give-it-away.html
 # Copyright (C) 2018 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2018.
 # André N Batista <nandre@riseup.net>, 2018.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018-2021.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: yes-give-it-away.html\n"
 "POT-Creation-Date: 2016-11-18 06:57+0000\n"
-"PO-Revision-Date: 2018-12-13 07:23-0200\n"
-"Last-Translator: André N Batista <nandre@riseup.net>\n"
+"PO-Revision-Date: 2021-07-30 14:08-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 1.0.0-beta1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <title>
 msgid "Yes, Give It Away - GNU Project - Free Software Foundation"
@@ -43,10 +44,9 @@ msgstr ""
 "Richard Stallman escreveu este texto, que foi encontrado em um arquivo "
 "datado de maio de 1983, embora não esteja claro se ele foi escrito na época "
 "ou antes. Em maio de 1983, ele estava pensando em planos para desenvolver um "
-"sistema operacional livre, mas ele pode ainda não ter decidido torná-lo um "
-"sistema semelhante ao Unix, em vez de algo como a Máquina Lisp <i>(Lisp "
-"Machine)</i> do <abbr title=\"Massachusetts Institute of Technology\">MIT</"
-"abbr>."
+"sistema operacional livre, mas ele ainda não havia decidido se ele seria "
+"semelhante ao Unix, em vez de algo como a Máquina Lisp <i>(List Machine)</i> "
+"do MIT."
 
 #. type: Content of: <blockquote><p>
 msgid ""

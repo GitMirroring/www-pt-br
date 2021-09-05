@@ -2,11 +2,12 @@
 # Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Rafael Fontenelle <rafaelff@gnome.org>, 2019-2021.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: when-free-depends-on-nonfree.html\n"
-"POT-Creation-Date: 2018-01-01 05:59+0000\n"
-"PO-Revision-Date: 2021-05-03 10:15-0300\n"
+"POT-Creation-Date: 2021-09-05 10:26+0000\n"
+"PO-Revision-Date: 2021-07-29 16:15-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -24,34 +25,33 @@ msgstr ""
 "Quando software livre depende de não livre - Projeto GNU - Free Software "
 "Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "When Free Software Depends on Nonfree"
 msgstr "Quando software livre depende de não livre"
 
-#. type: Content of: <p>
-msgid "by <strong>Richard Stallman</strong>"
-msgstr "por <strong>Richard Stallman</strong>"
+#. type: Content of: <div><address>
+msgid "by Richard Stallman"
+msgstr "por Richard Stallman"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "When a program is free software (free as in freedom), that means it gives "
-"users the four freedoms (<a href=\"/philosophy/free-sw.html\">gnu.org/"
-"philosophy/free-sw.html</a>)  so that they control what the program does. In "
-"most cases, that is sufficient for the program's distribution to be ethical; "
-"but not always. There are additional problems that can arise in specific "
-"circumstances. This article describes a subtle problem, where upgrading the "
-"free program requires using a nonfree program."
+"users <a href=\"/philosophy/free-sw.html\">the four freedoms</a>, so that "
+"they control what the program does. In most cases, that is sufficient for "
+"the program's distribution to be ethical; but not always. There are "
+"additional problems that can arise in specific circumstances. This article "
+"describes a subtle problem, where upgrading the free program requires using "
+"a nonfree program."
 msgstr ""
 "Quando um programa é software livre (livre como em liberdade), isso "
-"significa que ele dá a seus usuários as quatro liberdades (<a href=\"/"
-"philosophy/free-sw.html\">gnu.org/philosophy/free-sw.html</a>) para que "
-"controlem o que o programa faz. Na maioria dos casos, isso é suficiente para "
-"que a distribuição do programa seja ética; mas nem sempre. Existem problemas "
-"adicionais que podem surgir em circunstâncias específicas. Este artigo "
-"descreve um problema sutil, em que a atualização do programa livre requer o "
-"uso de um programa não livre."
+"significa que ele dá a seus usuários <a href=\"/philosophy/free-sw.html\">as "
+"quatro liberdades</a> para que controlem o que o programa faz. Na maioria "
+"dos casos, isso é suficiente para que a distribuição do programa seja ética; "
+"mas nem sempre. Existem problemas adicionais que podem surgir em "
+"circunstâncias específicas. Este artigo descreve um problema sutil, em que a "
+"atualização do programa livre requer o uso de um programa não livre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If the free program's use depends unavoidably on another program which is "
 "nonfree, we say that the free program is &ldquo;trapped.&rdquo; Its code is "
@@ -67,7 +67,7 @@ msgstr ""
 "programa preso, porque isso implica entregar sua liberdade ao outro programa "
 "não livre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Someone who upholds the principles of free software would not knowingly make "
 "a program that is trapped. However, many free programs are developed by "
@@ -79,7 +79,7 @@ msgstr ""
 "pessoas ou empresas que não apoiam esses princípios ou que não entendem o "
 "problema."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Dependence on a nonfree program can take various forms. The most basic form "
 "is when the programming language used has no free implementation. The first "
@@ -99,7 +99,7 @@ msgstr ""
 "uma coisa do passado; agora temos compiladores e plataformas livres para "
 "praticamente todas as linguagens que alguém usa para escrever software livre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We can release the program from this kind of trap by translating it to "
 "another language, or by releasing a free implementation of the language it's "
@@ -113,7 +113,7 @@ msgstr ""
 "disponível, isso liberou todos os programas livres em Java da <a href=\"/"
 "philosophy/java-trap.html\">Armadilha do Java</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This kind of dependence is conceptually simple because it stems from the "
 "situation at one given instant in time. At time T, free program P won't run "
@@ -125,7 +125,7 @@ msgstr ""
 "P não será executado sem a plataforma de programação não livre Q. Para "
 "emprestar um termo da linguística, essa relação é “sincrônica”."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "More recently, we have seen another kind of dependence in database programs, "
 "where you can build and run any given version of the program in the free "
@@ -137,7 +137,7 @@ msgstr ""
 "mundo livre, mas a atualização da versão N para a versão N+1 requer um "
 "programa não livre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This happens because the internal format of the database changes from "
 "version N to version N+1. If you have been seriously using version N, you "
@@ -150,7 +150,7 @@ msgstr ""
 "N. Para atualizar para a versão N+1 do software de banco de dados, você "
 "precisa reformatar esse banco de dados."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If the way you are supposed to do this is by running a proprietary database "
 "reformat program, or using the developer's service which is SaaSS (<a href="
@@ -175,7 +175,7 @@ msgstr ""
 "dados está preso ao longo do tempo &ndash; podemos chamá-lo de “preso "
 "diacronicamente”, pegando emprestado outro termo da linguística."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "For example, the program OpenERP (since renamed &ldquo;Odoo&rdquo;), though "
 "free, is diachronically trapped. <a href=\"/software/health/\">GNU Health</"
@@ -185,7 +185,7 @@ msgid ""
 "medical data) to OpenERP's server for reformatting. This is SaaSS: it "
 "requires the user of GNU Health (a clinic) to entrust its own computing and "
 "its data to the company developer of OpenERP. Rather than bow down, Falcón "
-"rewrote GNU Health to use <a href=\"http://www.tryton.org\">Tryton</a> "
+"rewrote GNU Health to use <a href=\"https://www.tryton.org\">Tryton</a> "
 "instead."
 msgstr ""
 "Por exemplo, o programa OpenERP (desde que renomeado “Odoo”), embora livre, "
@@ -197,9 +197,9 @@ msgstr ""
 "reformatação. Isto é SaaSS: requer que o usuário do GNU Health (uma clínica) "
 "confie sua própria computação e seus dados ao desenvolvedor da empresa "
 "OpenERP. Em vez de se curvar, Falcón reescreveu o GNU Health para usar o <a "
-"href=\"http://www.tryton.org\">Tryton</a>."
+"href=\"https://www.tryton.org\">Tryton</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Using SaaSS is inherently equivalent to running a proprietary program with "
 "snooping functionality and a universal back door. The service could keep a "
@@ -207,21 +207,20 @@ msgid ""
 "that runs the service never to intentionally show any form of the data to "
 "anyone, we can't be sure that it won't be accessed by <a href=\"/philosophy/"
 "surveillance-vs-democracy.html\">the intelligence agencies of various "
-"countries</a> or security-breaking crackers <a href=\"http://stallman.org/"
-"articles/on-hacking.html\">(please don't call them &ldquo;hackers&rdquo;)</"
-"a>."
+"countries</a> or security-breaking crackers (<a href=\"https://stallman.org/"
+"articles/on-hacking.html\">please don't call them &ldquo;hackers&rdquo;</a>)."
 msgstr ""
 "O uso do SaaSS é inerentemente equivalente à execução de um programa "
-"privativo com funcionalidade bisbilhotar e uma <i lang=\"en\">back door</i> "
-"universal. O serviço pode manter uma cópia dos bancos de dados que os "
-"usuários reformatam. Mesmo se pudermos confiar na empresa que administra o "
-"serviço para nunca mostrar intencionalmente qualquer forma de dados a "
-"ninguém, não podemos ter certeza de que ela não será acessada pelas <a href="
-"\"/philosophy/surveillance-vs-democracy.html\">agências de inteligência de "
-"vários países</a> ou crackers de segurança <a href=\"http://stallman.org/"
-"articles/on-hacking.html\">(por favor, não os chame “hackers”)</a>."
+"privativo com funcionalidade bisbilhotar e uma <em>backdoor</em> universal. "
+"O serviço pode manter uma cópia dos bancos de dados que os usuários "
+"reformatam. Mesmo se pudermos confiar na empresa que administra o serviço "
+"para nunca mostrar intencionalmente qualquer forma de dados a ninguém, não "
+"podemos ter certeza de que ela não será acessada pelas <a href=\"/philosophy/"
+"surveillance-vs-democracy.html\">agências de inteligência de vários países</"
+"a> ou crackers de segurança (<a href=\"https://stallman.org/articles/on-"
+"hacking.html\">por favor, não os chame “hackers”</a>)."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "When a program is diachronically trapped, releasing it from the trap "
 "requires more than a one-time job of programming. Rather, the job has to be "
@@ -240,7 +239,7 @@ msgstr ""
 "aconteça. Dado o quão difícil é liberar o programa, é melhor você ficar "
 "longe dele."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "It is possible to try out a diachronically trapped free program without "
 "nonfree software, but if you're going to do more than dabble, you must steer "
@@ -280,14 +279,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
@@ -295,12 +294,12 @@ msgstr ""
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas deste site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2016, 2017, 2018 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2016, 2017, 2018 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2016, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2016, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -317,9 +316,22 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
-"rafaelff@gnome.org&gt;</a>, 2019."
+"rafaelff@gnome.org&gt;</a>, 2019-2021."
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#, fuzzy
+#~| msgid "Copyright &copy; 2016, 2017, 2018 Free Software Foundation, Inc."
+#~ msgid "Copyright &copy; 2016-2018, 2021 Free Software Foundation, Inc."
+#~ msgstr "Copyright &copy; 2016, 2017, 2018 Free Software Foundation, Inc."
+
+#~ msgid "by <strong>Richard Stallman</strong>"
+#~ msgstr "por <strong>Richard Stallman</strong>"
+
+#~ msgid ""
+#~ "Copyright &copy; 2016, 2017, 2018, 2021 Free Software Foundation, Inc."
+#~ msgstr ""
+#~ "Copyright &copy; 2016, 2017, 2018, 2021 Free Software Foundation, Inc."

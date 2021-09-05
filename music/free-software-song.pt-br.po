@@ -1,35 +1,52 @@
 # Brazilian Portuguese translation of https://www.gnu.org/music/free-software-song.html
-# Copyright (C) 2018 Free Software Foundation, Inc.
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original articles.
 # Initial translation by zhrO zh <zhrtvp@gmail.com>, 2016
-# Rafael Fontenelle <rafaelff@gnome.org>, 2016-2018.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2016-2021.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: free-software-song.html\n"
-"POT-Creation-Date: 2018-10-28 07:55+0000\n"
-"PO-Revision-Date: 2018-10-29 13:03-0200\n"
+"POT-Creation-Date: 2021-07-29 17:25+0000\n"
+"PO-Revision-Date: 2021-07-29 16:10-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 1.0.0-beta1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <title>
 msgid "The Free Software Song - GNU Project - Free Software Foundation"
 msgstr "A Música do Software Livre - Projeto GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><a><img>
+msgid "GNU Home"
+msgstr "Página inicial do GNU"
+
+#. type: Content of: <div>
+msgid ""
+"</a>&nbsp;/ <a href=\"/fun/humor.html#content\">GNU&nbsp;humor</a>&nbsp;/ <a "
+"href=\"/music/music.html#content\">Music</a>&nbsp;/"
+msgstr ""
+"</a>&nbsp;/ <a href=\"/fun/humor.html#content\">Humor&nbsp;do&nbsp;GNU</"
+"a>&nbsp;/ <a href=\"/music/music.html#content\">Música</a>&nbsp;/"
+
+#. type: Content of: <div><h2>
 msgid "The Free Software Song"
 msgstr "A Música do Software Livre"
 
-#. type: Content of: <p>
-msgid "by Richard Stallman"
-msgstr "por Richard Stallman"
+#. type: Content of: <div><address>
+msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
+msgstr "por <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "You can read the story of <a href=\"/music/writing-fs-song.html\">the "
 "writing of the song</a>, too."
@@ -38,65 +55,65 @@ msgstr ""
 "da música</a>, também."
 
 #.  :] 
-#. type: Content of: <p>
-msgid ""
-"The lyrics of the &ldquo;Free Software Song&rdquo; are sung to the melody of "
-"the Bulgarian folk song &ldquo;<a href=\"#SadiMoma\" id=\"REFSadiMoma\">Sadi "
-"moma bela loza</a>&rdquo;"
-msgstr ""
-"As letras da “Música do Software Livre” são cantadas na melodia da música "
-"popular búlgara “<a href=\"#SadiMoma\" id=\"REFSadiMoma\">Sadi moma bela "
-"loza</a>”  "
-
 #. type: Content of: <div><p>
+msgid ""
+"The lyrics of the <cite>Free Software Song</cite> are sung to the melody of "
+"the Bulgarian folk song <a href=\"#SadiMoma\" id=\"REFSadiMoma\"><cite>Sadi "
+"moma bela loza</cite></a>"
+msgstr ""
+"As letras da <cite>Música do Software Livre</cite> são cantadas na melodia "
+"da música popular búlgara <a href=\"#SadiMoma\" id=\"REFSadiMoma"
+"\"><cite>Sadi moma bela loza</cite></a>"
+
+#. type: Content of: <div><div><p>
 msgid "Join us now and share the software;"
 msgstr "Juntem-se a nós e partilhem o software;"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
-"You'll be free, <a href=\"http://stallman.org/articles/on-hacking.html"
+"You'll be free, <a href=\"https://stallman.org/articles/on-hacking.html"
 "\">hackers</a>, you'll be free."
 msgstr ""
-"Serão livres, <a href=\"http://stallman.org/articles/on-hacking.html"
+"Serão livres, <a href=\"https://stallman.org/articles/on-hacking.html"
 "\">hackers</a>, serão livres."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid "You'll be free, hackers, you'll be free."
 msgstr "Serão livres, hackers, serão livres."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid "Hoarders can get piles of money,"
 msgstr "Acumuladores podem obter pilhas de dinheiro,"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid "That is true, hackers, that is true."
 msgstr "Isso é verdade, hackers, isso é verdade."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid "But they cannot help their neighbors;"
 msgstr "Mas eles não conseguem ajudar os seus vizinhos;"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid "That's not good, hackers, that's not good."
 msgstr "Isso não é bom, hackers, isso não é bom."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid "When we have enough free software"
 msgstr "Quando tivermos software livre suficiente"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid "At our call, hackers, at our call,"
 msgstr "À nossa disposição, hackers, à nossa disposição,"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid "We'll kick out those dirty licenses"
 msgstr "Pontapearemos essas licenças sujas"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid "Ever more, hackers, ever more."
 msgstr "Cada vez mais, hackers, cada vez mais."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This song is in a rhythm of 7/8; those unaccustomed to odd rhythms often "
 "take the unevenness to be a mistake. The meter can be analyzed into three "
@@ -112,27 +129,28 @@ msgstr ""
 "analisam essa música como 3-2-3; porém, Yves Moreau, que colecionou e "
 "ensinou a dança, aprova o ritmo de 7."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Downloads"
 msgstr "Downloads"
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "Performances"
 msgstr "Performances"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"A <a href=\"/music/free-software-song.au\">recording (.au format)</a> of <a "
-"href=\"http://www.stallman.org/\">Richard Stallman</a> singing this song, "
-"also available in <a href=\"/music/free-software-song.ogg\">Ogg Vorbis "
-"format</a>."
+"A <a href=\"/music/free-software-song.au\">recording (.au format)</a> of "
+"Richard Stallman singing this song, also available in <a href=\"/music/free-"
+"software-song.ogg\">Ogg Vorbis format</a>. (If you are not used to a meter "
+"of 7/8, you may perceive it as inability to keep time.)"
 msgstr ""
 "Uma <a href=\"/music/free-software-song.au\">gravação (formato .au)</a> do "
-"<a href=\"http://www.stallman.org/\">Richard Stallman</a> cantando essa "
-"música, também disponível no <a href=\"/music/free-software-song.ogg"
-"\">formato Ogg Vorbis</a>."
+"Richard Stallman cantando essa música, também disponível no <a href=\"/music/"
+"free-software-song.ogg\">formato Ogg Vorbis</a>. (Se você não está "
+"acostumado com um medidor de 7/8, você pode perceber isso como uma "
+"incapacidade de marcar o tempo.)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "A <a href=\"/music/FreeSWSong.ogg\">recording (.ogg)</a> of the piece "
 "accompanied by Bulgarian instruments played in traditional style."
@@ -140,42 +158,42 @@ msgstr ""
 "Uma <a href=\"/music/FreeSWSong.ogg\">gravação (.ogg)</a> da peça "
 "acompanhada pelos instrumentos tocados no estilo tradicional."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"A <a href=\"http://audio-video.gnu.org/video/"
-"stallman_free_software_song_320x240.ogv\">video of RMS performing the song "
+"A <a href=\"https://audio-video.gnu.org/video/"
+"stallman_free_software_song_320x240.ogv\"> video of RMS performing the song "
 "(ogg)</a>, released under GFDLv1.3+ by the videographer, Julian Coccia."
 msgstr ""
-"Um <a href=\"http://audio-video.gnu.org/video/"
+"Um <a href=\"https://audio-video.gnu.org/video/"
 "stallman_free_software_song_320x240.ogv\">vídeo do RMS cantando a música "
 "(ogg)</a>, lançada sob GFDLv1.3+ pelo cinegrafista, Julian Coccia."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "A <a href=\"/music/free-software-song-herzog.ogg\">recording (.ogg)</a> of "
 "Katie Herzog performing the Free Software Song, released under <a href="
-"\"http://creativecommons.org/licenses/by-nc-nd/3.0/\">CC BY-NC-ND</a>."
+"\"https://creativecommons.org/licenses/by-nc-nd/3.0/\">CC BY-NC-ND</a>."
 msgstr ""
 "Uma <a href=\"/music/free-software-song-herzog.ogg\">gravação (.ogg)</a> de "
 "Katie Herzog cantando a Música do Software Livre, lançada sob <a href="
-"\"http://creativecommons.org/licenses/by-nc-nd/3.0/deed.pt_BR\">CC BY-NC-ND</"
-"a>."
+"\"https://creativecommons.org/licenses/by-nc-nd/3.0/deed.pt_BR\">CC BY-NC-"
+"ND</a>."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "Alternate versions"
 msgstr "Versões alternativas"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"http://audio-video.gnu.org/audio/Fenster-Free-Software-Song.ogg"
-"\">Another song</a>, inspired by this one but mostly different, sung by the "
-"band Fenster (4.5M)."
+"<a href=\"https://audio-video.gnu.org/audio/Fenster-Free-Software-Song.ogg"
+"\"> Another song</a>, inspired by this one but mostly different, sung by the "
+"band Fenster (4.5MB)."
 msgstr ""
-"<a href=\"http://audio-video.gnu.org/audio/Fenster-Free-Software-Song.ogg"
-"\">Uma outra música</a>, inspirada por esta, mas muito diferente, cantada "
+"<a href=\"https://audio-video.gnu.org/audio/Fenster-Free-Software-Song.ogg"
+"\"> Uma outra música</a>, inspirada por esta, mas muito diferente, cantada "
 "pela banda Fenster (4,5 MB)."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "A rhythmic version of free software song in <a href=\"/music/free-software-"
 "song-rhythmic.ogg\">Ogg Vorbis</a> format by Thor."
@@ -183,114 +201,115 @@ msgstr ""
 "Uma versão rítmica da música do software livre no formato <a href=\"/music/"
 "free-software-song-rhythmic.ogg\">Ogg Vorbis</a> por Thor."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "An improvised piano version by Markus Haist in <a href=\"/music/markushaist-"
-"free-software-song.ogg\">Ogg Vorbis</a> format (1.2 MB), released under <a "
+"free-software-song.ogg\">Ogg Vorbis</a> format (1.2MB), released under <a "
 "href=\"/licenses/gpl-3.0.html\">GPLv3</a>."
 msgstr ""
 "Uma versão improvisada no piano por Markus Haist no formato <a href=\"/music/"
 "markushaist-free-software-song.ogg\">Ogg Vorbis</a> (1,2 MB), lançada sob <a "
 "href=\"/licenses/gpl-3.0.html\">GPLv3</a>."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "Another rock-like version by Pjj &amp; Hairyone in <a href=\"/music/pjj-and-"
-"hairyone-freesoftwaresong.ogg\">Ogg Vorbis</a> format (1.6 MB)."
+"hairyone-freesoftwaresong.ogg\">Ogg Vorbis</a> format (1.6MB)."
 msgstr ""
 "Uma outra versão tipo rock por Pjj &amp; Hairyone no formato <a href=\"/"
 "music/pjj-and-hairyone-freesoftwaresong.ogg\">Ogg Vorbis</a> (1.6 MB)."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"A Spanish punk variant by ALEC in <a href=\"http://www.pc-freak.net/files/"
-"free-software-songs/Free_Software_Song_en_espa%c3%b1ol.ogv\">Ogg Vorbis</a> "
-"format (1.7 MB)."
+"A Spanish punk variant by ALEC in <a href=\"https://www.pc-freak.net/files/"
+"free-software-songs/Free_Software_Song_en_espa%c3%b1ol.ogv\"> Ogg Vorbis</a> "
+"format (1.7MB)."
 msgstr ""
-"Uma variação punk em espanhol por ALEC no formato <a href=\"http://www.pc-"
+"Uma variação punk em espanhol por ALEC no formato <a href=\"https://www.pc-"
 "freak.net/files/free-software-songs/Free_Software_Song_en_espa%c3%b1ol.ogv"
-"\">Ogg Vorbis</a> (1,7 MB)."
+"\"> Ogg Vorbis</a> (1,7 MB)."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "A version with a different structure in <a href=\"/music/freesoft.ogg\"> Ogg "
-"Vorbis</a> format (3.7 MB) by Robert Kay, released under <a href=\"http://"
-"creativecommons.org/licenses/by-nc-sa/3.0/legalcode\">CC-BY-NC-SA</a>."
+"Vorbis</a> format (3.7MB) by Robert Kay, released under <a href=\"https://"
+"creativecommons.org/licenses/by-nc-sa/3.0/legalcode\"> CC-BY-NC-SA</a>."
 msgstr ""
 "Uma versão com uma estrutura diferente no formato <a href=\"/music/freesoft."
-"ogg\">Ogg Vorbis</a> (3,7 MB) por Robert Kay, lançada sob <a href=\"http://"
-"creativecommons.org/licenses/by-nc-sa/3.0/legalcode\">CC-BY-NC-SA</a>."
+"ogg\">Ogg Vorbis</a> (3,7 MB) por Robert Kay, lançada sob <a href=\"https://"
+"creativecommons.org/licenses/by-nc-sa/3.0/legalcode.pt\">CC-BY-NC-SA</a>."
 
-# Acrescentado um ponto final para se combinar com outras frases -- Rafael
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"A version by the band Zweitgolf: <a href=\"free_software_song_sunnata.ogg"
-"\">free_software_song_sunnata.ogg</a>, released under the GPL"
+"A version by the band Zweitgolf: <a href=\"/music/free_software_song_sunnata."
+"ogg\">free_software_song_sunnata.ogg</a>, released under the GPL."
 msgstr ""
-"Uma versão da banda Zweitgolf: <a href=\"free_software_song_sunnata.ogg"
-"\">free_software_song_sunnata.ogg</a>, lançada sob a GPL."
+"Uma versão da banda Zweitgolf: <a href=\"/music/free_software_song_sunnata."
+"ogg\">free_software_song_sunnata.ogg</a>, lançada sob a GPL."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"Here is a metal version by Jono Bacon in <a href=\"http://www.pc-freak.net/"
-"files/free-software-songs/jonobacon-freesoftwaresong2.ogg\">Ogg Vorbis</a> "
-"format (3.9 MB), released under <a href=\"http://creativecommons.org/"
-"licenses/by-sa/2.0/\"> CC BY-SA</a>."
-msgstr ""
-"Aqui está uma versão metal por Jono Bacon no formato <a href=\"http://www.pc-"
-"freak.net/files/free-software-songs/jonobacon-freesoftwaresong2.ogg\">Ogg "
-"Vorbis</a> (3,9 MB), lançado sob <a href=\"http://creativecommons.org/"
+"Here is a metal version by Jono Bacon in <a href=\"https://www.pc-freak.net/"
+"files/free-software-songs/jonobacon-freesoftwaresong2.ogg\"> Ogg Vorbis</a> "
+"format (3.9MB), released under <a href=\"https://creativecommons.org/"
 "licenses/by-sa/2.0/\">CC BY-SA</a>."
+msgstr ""
+"Aqui está uma versão metal por Jono Bacon no formato <a href=\"https://www."
+"pc-freak.net/files/free-software-songs/jonobacon-freesoftwaresong2.ogg\"> "
+"Ogg Vorbis</a> (3,9 MB), lançado sob <a href=\"https://creativecommons.org/"
+"licenses/by-sa/2.0/deed.pt_BR\">CC BY-SA</a>."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "This rock/metal version is put out by <a href=\"https://web.archive.org/"
 "web/20150719082345/http://freesoftwaresong.altervista.org/\"> Loneload</a> "
-"available in <a href=\"/music/loneload-free-software-song.ogg\">Ogg Vorbis</"
-"a> format (2.2 MB), released under <a href=\"http://creativecommons.org/"
+"available in <a href=\"/music/loneload-free-software-song.ogg\"> Ogg Vorbis</"
+"a> format (2.2MB), released under <a href=\"https://creativecommons.org/"
 "licenses/by/3.0/\">CC BY</a>."
 msgstr ""
 "Essa versão rock/metal foi criada por <a href=\"https://web.archive.org/"
 "web/20150719082345/http://freesoftwaresong.altervista.org/\"> Loneload</a> "
 "no formato <a href=\"/music/loneload-free-software-song.ogg\">Ogg Vorbis</a> "
-"(2,2 MB), lançado sob <a href=\"http://creativecommons.org/licenses/by/3.0/"
-"\">CC BY</a>."
+"(2,2 MB), lançado sob <a href=\"https://creativecommons.org/licenses/by/3.0/"
+"deed.pt_BR\">CC BY</a>."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"http://archive.org/details/M00GNU\">MooGNU</a> by the anonymous "
+"<a href=\"https://archive.org/details/M00GNU\">MooGNU</a> by the anonymous "
 "posters on the 4chan technology image board /g/ is licensed under the <a "
-"href=\"http://creativecommons.org/licenses/by-sa/3.0/legalcode\">Creative "
+"href=\"https://creativecommons.org/licenses/by-sa/3.0/legalcode\">Creative "
 "Commons Attribution-ShareAlike 3.0 Unported License</a>.  Available in <a "
-"href=\"http://archive.org/download/M00GNU/Freedom-catmoognu.ogv\"> Ogg "
-"Video</a> format (4.5 MB)."
+"href=\"https://archive.org/download/M00GNU/Freedom-catmoognu.ogv\"> Ogg "
+"Video</a> format (4.5MB)."
 msgstr ""
-"<a href=\"http://archive.org/details/M00GNU\">MooGNU</a>, de publicadores "
+"<a href=\"https://archive.org/details/M00GNU\">MooGNU</a>, de publicadores "
 "anônimos no quadro de imagem tecnológica /g/ do 4chan, está licenciado sob a "
-"licença <a href=\"http://creativecommons.org/licenses/by-sa/3.0/legalcode"
+"licença <a href=\"https://creativecommons.org/licenses/by-sa/3.0/legalcode.pt"
 "\">Creative Commons Atribuição-CompartilhaIgual 3.0 Não Adaptada</a>. "
-"Disponível no formato <a href=\"http://archive.org/download/M00GNU/Freedom-"
+"Disponível no formato <a href=\"https://archive.org/download/M00GNU/Freedom-"
 "catmoognu.ogv\">Ogg Vídeo</a> (4,5 MB)."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "In 2012, the band Sebkha-Chott released a <em>matricide</em> of the Free "
-"Software Song to celebrate the death of <a href=\"http://www.laquadrature."
-"net/en/ACTA\">ACTA</a>. It's available in <a href=\"http://archive.org/"
-"download/Sebkha-Chott_FSFSongIsHip_2012/SC_FSF.ogg\">Ogg Vorbis</a> (2.3MB), "
-"or in <a href=\"http://archive.org/download/Sebkha-Chott_FSFSongIsHip_2012/"
-"SC_FSF.flac\">FLAC</a> (10.1MB), under the <a href=\"//directory.fsf.org/"
-"wiki/License:Free-Art-L-v1.3\">Free Art License, version 1.3</a>."
+"Software Song to celebrate the death of <a href=\"https://www.laquadrature."
+"net/en/ACTA\">ACTA</a>. It's available in <a href=\"https://ia800207.us."
+"archive.org/14/items/Sebkha-Chott_FSFSongIsHip_2012/SC_FSF.ogg\"> Ogg "
+"Vorbis</a> (2.3MB), or in <a href=\"https://ia800207.us.archive.org/14/items/"
+"Sebkha-Chott_FSFSongIsHip_2012/SC_FSF.flac\"> FLAC</a> (10.1MB), under the "
+"<a href=\"https://directory.fsf.org/wiki/License:Free-Art-L-v1.3\">Free Art "
+"License, version 1.3</a>."
 msgstr ""
 "Em 2012, a banda Sebkha-Chott lançou um <em>matricida</em> da Música do "
-"Software Livre para celebrar a morte da <a href=\"http://www.laquadrature."
-"net/en/ACTA\">ACTA</a>. Está disponível em <a href=\"http://archive.org/"
-"download/Sebkha-Chott_FSFSongIsHip_2012/SC_FSF.ogg\">Ogg vorbis</a> (2,3 MB) "
-"ou em <a href=\"http://archive.org/download/Sebkha-Chott_FSFSongIsHip_2012/"
-"SC_FSF.flac\">FLAC</a> (10,1 MB), sob a <a href=\"//directory.fsf.org/wiki/"
-"License:Free-Art-L-v1.3\">Licença de Arte Livre, versão 1.3</a>."
+"Software Livre para celebrar a morte da <a href=\"https://www.laquadrature."
+"net/en/ACTA\">ACTA</a>. Está disponível em <a href=\"https://ia800207.us."
+"archive.org/14/items/Sebkha-Chott_FSFSongIsHip_2012/SC_FSF.ogg\">Ogg Vorbis</"
+"a> (2,3 MB) ou em <a href=\"https://ia800207.us.archive.org/14/items/Sebkha-"
+"Chott_FSFSongIsHip_2012/SC_FSF.flac\"> FLAC</a> (10,1 MB), sob a <a href="
+"\"https://directory.fsf.org/wiki/License:Free-Art-L-v1.3\">Licença de Arte "
+"Livre, versão 1.3</a>."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "The <strong>ecantorix</strong> program, a singing synthesis frontend for "
 "espeak, released under the GPLv3+, features the <a href=\"/music/free-"
@@ -300,7 +319,7 @@ msgstr ""
 "espeak, lançado sob a GPLv3+, fornecendo a <a href=\"/music/free-software-"
 "song-ecantorix.ogg\">Música de Software Livre como uma saída de exemplo</a>."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"https://commons.wikimedia.org/wiki/File%3AFreesoftwaresong_126_mix."
 "ogg\"> Yet another version from Wikimedia Commons</a> (967kB) is licensed "
@@ -310,47 +329,47 @@ msgstr ""
 "ogg\">Mais uma versão do Wikimedia Commons</a> (967kB) está licenciada sob "
 "CC0."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "A <a href=\"https://anonfile.com/93uaA2j5b1/freesoftwaresong_organ-"
 "kalimba_ogg\"> Kalimba version</a> (Ogg Vorbis format, 690kB) is offered by "
 "Vaba &lt;vaba@riseup.net&gt; under the <a href=\"http://www.wtfpl.net/about/"
-"\">WTFPL</a>."
+"\"> WTFPL</a>."
 msgstr ""
 "Uma <a href=\"https://anonfile.com/93uaA2j5b1/freesoftwaresong_organ-"
 "kalimba_ogg\"> versão Kalimba</a> (formato Ogg Vorbis, 690kB) é oferecido "
 "por Vaba &lt;vaba@riseup.net&gt; sob a <a href=\"http://www.wtfpl.net/about/"
-"\">WTFPL</a>."
+"\"> WTFPL</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "You can get a <a href=\"/music/free-software-song.pdf\">typeset score</a> of "
-"the song made with <a href=\"http://lilypond.org\">GNU LilyPond</a>. The "
+"the song made with <a href=\"https://lilypond.org/\">GNU LilyPond</a>. The "
 "LilyPond <a href=\"/music/free-software-song.ly\">source</a> for the typeset "
 "score is also available."
 msgstr ""
 "Você pode obter uma <a href=\"/music/free-software-song.pdf\">formatação da "
-"partitura</a> da música feita com <a href=\"http://lilypond.org\">GNU "
+"partitura</a> da música feita com <a href=\"https://lilypond.org\">GNU "
 "LilyPond</a>. O <a href=\"/music/free-software-song.ly\">fonte</a> da "
 "formatação da partitura, feita no LilyPond, também está disponível."
 
-#. type: Content of: <h4>
-msgid "&ldquo;Sadi moma bela loza&rdquo;"
-msgstr "“Sadi moma bela loza”"
+#. type: Content of: <div><h4>
+msgid "<cite>Sadi moma bela loza</cite>"
+msgstr "<cite>Sadi moma bela loza</cite>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"Here is a description of the tune of &ldquo;Sadi moma bela loza,&rdquo; a "
+"Here is a description of the tune of <cite>Sadi moma bela loza</cite>, a "
 "Bulgarian dance tune, in an ad-hoc form of notation using letters for notes. "
 "A dash means the previous note continues. There are seven beats per measure, "
 "thus seven characters in each group."
 msgstr ""
-"Aqui está uma descrição do tom da “Sadi moma bela loza”, um tom de dança "
-"búlgara, em uma forma ad-hoc de notação usando letras para tons. Um traço "
-"significa a continuação da nota anterior. Há sete batidas por medida, então "
-"sete caracteres em cada grupo."
+"Aqui está uma descrição do tom da <cite>Sadi moma bela loza</cite>, um tom "
+"de dança búlgara, em uma forma ad-hoc de notação usando letras para tons. Um "
+"traço significa a continuação da nota anterior. Há sete batidas por medida, "
+"então sete caracteres em cada grupo."
 
-#. type: Content of: <pre>
+#. type: Content of: <div><pre>
 #, no-wrap
 msgid ""
 "    D-CB-A- B-CBAG- G--A--B C--B-BD A--A--- D-CB---\n"
@@ -359,18 +378,18 @@ msgstr ""
 "    D-CB-A- B-CBAG- G--A--B C--B-BD A--A--- D-CB---\n"
 "    D-CB-A- B-CBAG- G--A--B C--B-BD A--A--- A------"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "It is also available as an <a href=\"/music/sadi-moma.abc\">ABC file</a>."
 msgstr ""
 "Também está disponível como um <a href=\"/music/sadi-moma.abc\">arquivo ABC</"
 "a>."
 
-#. type: Content of: <h3>
-msgid "Licensing"
-msgstr "Licenciamento"
+#. type: Content of: <div><div><h3>
+msgid "Disclaimer"
+msgstr "Aviso legal"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Richard Stallman and the Free Software Foundation claim no copyright on this "
 "song."
@@ -404,14 +423,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
@@ -419,16 +438,16 @@ msgstr ""
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas deste site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 1993, 2001, 2002, 2003, 2004, 2005, 2006, 2010, 2011, 2014, "
-"2015, 2016, 2017, 2018 Richard Stallman"
+"Copyright &copy; 1993, 2001-2006, 2010, 2011, 2014-2018, 2021 Richard "
+"Stallman"
 msgstr ""
-"Copyright &copy; 1993, 2001, 2002, 2003, 2004, 2005, 2006, 2010, 2011, 2014, "
-"2015, 2016, 2017, 2018 Richard Stallman"
+"Copyright &copy; 1993, 2001-2006, 2010, 2011, 2014-2018, 2021 Richard "
+"Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -446,12 +465,25 @@ msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "<b>Tradução:</b> Rafael Fontenelle\n"
 "<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, "
-"2016-2018"
+"2016-2021"
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid "&ldquo;Sadi moma bela loza&rdquo;"
+#~ msgstr "“Sadi moma bela loza”"
+
+#~ msgid "Licensing"
+#~ msgstr "Licenciamento"
+
+#~ msgid ""
+#~ "Copyright &copy; 1993, 2001, 2002, 2003, 2004, 2005, 2006, 2010, 2011, "
+#~ "2014, 2015, 2016, 2017, 2018, 2021 Richard Stallman"
+#~ msgstr ""
+#~ "Copyright &copy; 1993, 2001, 2002, 2003, 2004, 2005, 2006, 2010, 2011, "
+#~ "2014, 2015, 2016, 2017, 2018, 2021 Richard Stallman"
 
 #~ msgid ""
 #~ "Natty Traywick has <a href=\"https://musescore.com/user/1102686/"

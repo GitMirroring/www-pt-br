@@ -1,22 +1,23 @@
 # Brazilian Portuguese translation of http://www.gnu.org/philosophy/fighting-software-patents.html
-# Copyright (C) 2005 Free Software Foundation, Inc.
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # César Blum Silveira <cesarbs@brturbo.com>, 2005.
 # Jan 2015: GNUNify.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2017.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017-2021.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: fighting-software-patents.html\n"
-"POT-Creation-Date: 2014-03-14 04:33+0000\n"
-"PO-Revision-Date: 2017-04-20 22:25-0300\n"
+"POT-Creation-Date: 2021-07-03 08:26+0000\n"
+"PO-Revision-Date: 2021-07-30 09:38-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 1.0.0-beta1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -26,15 +27,15 @@ msgstr ""
 "Combatendo Patentes de Software - Uma a uma e Todas Juntas - Projeto GNU - "
 "Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Fighting Software Patents - Singly and Together"
 msgstr "Combatendo Patentes de Software - Uma a uma e Todas Juntas"
 
-#. type: Content of: <p>
+#. type: Content of: <div><address>
 msgid "by Richard Stallman"
 msgstr "por Richard Stallman"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Software patents are the software project equivalent of land mines: each "
 "design decision carries a risk of stepping on a patent, which can destroy "
@@ -44,7 +45,7 @@ msgstr ""
 "software: cada decisão sobre o visual carrega o risco de pisar numa patente, "
 "que pode destruir o seu projeto."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Developing a large and complex program means combining many ideas, often "
 "hundreds or thousands of them. In a country that allows software patents, "
@@ -63,32 +64,32 @@ msgstr ""
 "único programa importante. É tão trabalhoso realizar tal estudo que apenas "
 "um foi feito até agora."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Practically speaking, if you are a software developer, you will usually be "
 "threatened by one patent at a time. When this happens, you may be able to "
 "escape unscathed if you find legal grounds to overturn the patent. You may "
 "as well try it; if you succeed, that will mean one less mine in the mine "
 "field. If this patent is particularly threatening to the public, the <a href="
-"\"http://www.pubpat.org\">Public Patent Foundation (pubpat.org)</a> may take "
-"up the case; that is its specialty. If you ask for the computer-using "
-"community's help in searching for prior publication of the same idea, to use "
-"as evidence to overturn a patent, we should all respond with whatever useful "
-"information we might have."
+"\"http://en.swpat.org/wiki/Public_Patent_Foundation\"> Public Patent "
+"Foundation</a> may take up the case; that is its specialty. If you ask for "
+"the computer-using community's help in searching for prior publication of "
+"the same idea, to use as evidence to overturn a patent, we should all "
+"respond with whatever useful information we might have."
 msgstr ""
 "Em termos práticos, se você é um desenvolvedor de software, você vai "
 "normalmente ser ameaçado por uma patente algumas vezes. Quando isso "
 "acontece, você pode sair ileso se você encontrar fundamentos legais para "
 "derrubar a patente. Você pode tentar; se você tiver sucesso, isso vai "
 "significar uma mina a menos no campo minado. Se essa patente for "
-"particularmente ameaçadora para o público, a <a href=\"http://www.pubpat.org"
-"\">Fundação pelas Patentes Públicas (pubpat.org)</a> pode se interessar pelo "
-"caso; essa é a especialidade dela. Se você pedir ajuda para a comunidade "
-"usuária de computadores para procurar por uma publicação prévia da mesma "
-"ideia, para utilizar como prova para derrubar a patente, nós todos "
-"deveríamos responder com qualquer informação útil que nós podemos ter."
+"particularmente ameaçadora para o público, a <a href=\"http://en.swpat.org/"
+"wiki/Public_Patent_Foundation\"> Fundação pelas Patentes Públicas</a> pode "
+"se interessar pelo caso; essa é a especialidade dela. Se você pedir ajuda "
+"para a comunidade usuária de computadores para procurar por uma publicação "
+"prévia da mesma ideia, para utilizar como prova para derrubar a patente, nós "
+"todos deveríamos responder com qualquer informação útil que nós podemos ter."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "However, fighting patents one by one will never eliminate the danger of "
 "software patents, any more than swatting mosquitos will eliminate malaria. "
@@ -108,7 +109,7 @@ msgstr ""
 "esforços não conseguiram eliminar essas minas tão rápido quanto eles "
 "instalam mais."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Some of these mines are impossible to clear. Every software patent is "
 "harmful, and every software patent unjustly restricts how you use your "
@@ -127,7 +128,7 @@ msgstr ""
 "há nada que nós possamos fazer quando o único erro relevante foi a política "
 "de permitir patentes de software."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "To make a part of the castle safe, you've got to do more than kill the "
 "monsters as they appear&mdash;you have to wipe out the generator that "
@@ -142,7 +143,7 @@ msgstr ""
 "patentes de maneira que as patentes não possam mais ameaçar desenvolvedores "
 "de software e usuários."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "There is no conflict between these two campaigns: we can work on the short-"
 "term escape and the long-term fix at once. If we take care, we can make our "
@@ -165,7 +166,7 @@ msgstr ""
 "incertos, “Uma patente de software a menos, uma ameaça a menos para os "
 "programadores: o alvo é zero”."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The battle over software patents in the European Union is reaching a crucial "
 "stage. The European Parliament voted a year ago to reject software patents "
@@ -175,8 +176,8 @@ msgid ""
 "reversed its vote. We must all do our utmost right now to convince an "
 "additional European country to change its vote, and to convince the newly "
 "elected members of the European Parliament to stand behind the previous "
-"vote. Please refer to <a href=\"http://www.ffii.org/\"> www.ffii.org</a> for "
-"more information on how to help, and to get in touch with other activists."
+"vote. Please refer to <a href=\"https://ffii.org/\">ffii.org</a> for more "
+"information on how to help, and to get in touch with other activists."
 msgstr ""
 "A batalha contra patentes de software na União Europeia está chegando a um "
 "estágio crucial. O Parlamento Europeu votou há um ano atrás para rejeitar "
@@ -186,9 +187,8 @@ msgstr ""
 "para isso já reverteu o seu voto. Nós todos devemos fazer o máximo agora "
 "para convencer um país europeu a mais para mudar o seu voto, e para "
 "convencer os novos membros eleitos do Parlamento Europeu para manter o voto "
-"de antes. Acesse <a href=\"http://www.ffii.org/\"> www.ffii.org</a> para "
-"mais informações sobre como ajudar, e para entrar em contato com outros "
-"ativistas."
+"de antes. Acesse <a href=\"https://www.ffii.org/\">ffii.org</a> para mais "
+"informações sobre como ajudar, e para entrar em contato com outros ativistas."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -216,14 +216,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
@@ -231,22 +231,22 @@ msgstr ""
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas deste site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2004 Richard Stallman"
-msgstr "Copyright &copy; 2004 Richard Stallman"
+msgid "Copyright &copy; 2004, 2021 Richard Stallman"
+msgstr "Copyright &copy; 2004, 2021 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
-"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
@@ -259,3 +259,6 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid "Copyright &copy; 2004 Richard Stallman"
+#~ msgstr "Copyright &copy; 2004 Richard Stallman"

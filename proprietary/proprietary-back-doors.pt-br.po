@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary-back-doors.html\n"
-"POT-Creation-Date: 2021-04-11 12:55+0000\n"
+"POT-Creation-Date: 2021-09-01 14:26+0000\n"
 "PO-Revision-Date: 2021-06-26 09:40-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -13,6 +13,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Outdated-Since: 2021-09-01 14:26+0000\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #. type: Content of: <title>
@@ -464,6 +465,30 @@ msgstr "Instalação, exclusão ou desabilitação de programas"
 
 #. type: Content of: <div><div><ul><li><p>
 msgid ""
+"Recent Samsung TVs have a back door with which Samsung can <a href=\"https://"
+"www.pcmag.com/news/samsung-can-remotely-disable-any-of-its-tvs-worldwide\"> "
+"brick them remotely</a>."
+msgstr ""
+"As TVs Samsung recentes têm um <em>backdoor</em> com a qual a Samsung pode "
+"<a href=\"https://www.pcmag.com/news/samsung-can-remotely-disable-any-of-its-"
+"tvs-worldwide\"> inutilizá-las remotamente </a>"
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"<a href=\"https://arstechnica.com/gadgets/2021/06/even-creepier-covid-"
+"tracking-google-silently-pushed-app-to-users-phones/\">Google automatically "
+"installed an app on many proprietary Android phones</a>. The app might or "
+"might not do malicious things but the power Google has over proprietary "
+"Android phones is dangerous."
+msgstr ""
+"<a href=\"https://arstechnica.com/gadgets/2021/06/even-creepier-covid-"
+"tracking-google-silently-pushed-app-to-users-phones/\">Google instalou "
+"automaticamente um aplicativo em muitos telefones privativos com Android</"
+"a>. O aplicativo pode não fazer coisas maliciosas, mas o poder que Google "
+"tem sobre os telefones privativos com Android é perigoso."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
 "Adobe Flash Player <a href=\"https://www.adobe.com/products/flashplayer/end-"
 "of-life.html\"> has a universal back door</a> which lets Adobe control the "
 "software and, for example, disable it whenever it wants. Adobe will block "
@@ -745,6 +770,53 @@ msgstr ""
 #. type: Content of: <div><div><h3>
 msgid "Full control"
 msgstr "Controle total"
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Peloton company which produces treadmills recently <a href=\"https://www."
+"bleepingcomputer.com/news/technology/peloton-tread-owners-now-forced-into-"
+"monthly-subscription-after-recall/\">locked people out of basic features of "
+"people's treadmills by a software update</a>. The company now asks people "
+"for a membership/subscription for what people already paid for."
+msgstr ""
+"A empresa Peloton, que produz esteiras, recentemente <a href=\"https://www."
+"bleepingcomputer.com/news/technology/peloton-tread-owners-now-forced-into-"
+"monthly-subscription-after-recall/\">bloqueou recursos básicos das esteiras "
+"das pessoas por meio de uma atualização de software</a>. A empresa agora "
+"pede às pessoas uma assinatura pelo que as pessoas já pagaram."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"The software used in the treadmill is proprietary and probably includes back "
+"doors to force software updates. It teaches the lesson that if a product "
+"talks to external networks, you must expect it to take in new malware."
+msgstr ""
+"O software usado na esteira é privativo e provavelmente inclui "
+"<em>backdoors</em> para forçar as atualizações do software. Ele ensina a "
+"lição de que, se um produto se comunicar com redes externas, você deve "
+"esperar que ele receba um novo <em>malware</em>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Please note that the company behind this product said they are working to "
+"reverse the changes so people will no longer need subscription to use the "
+"locked feature."
+msgstr ""
+"Observe que a empresa por trás deste produto disse que está trabalhando para "
+"reverter as mudanças para que as pessoas não precisem mais de assinatura "
+"para usar o recurso bloqueado."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Apparently public anger made the company back down. If we want that to be "
+"our safety, we need to build up the anger against malicious features (and "
+"the proprietary software that is their entry path)  to the point that even "
+"the most powerful companies don't dare."
+msgstr ""
+"Aparentemente, a raiva pública fez a empresa recuar. Se quisermos que isso "
+"seja nossa segurança, precisamos aumentar a raiva contra recursos maliciosos "
+"(e o software privativo que é seu caminho de entrada) a tal ponto que mesmo "
+"as empresas mais poderosas não ousem."
 
 #. type: Content of: <div><div><ul><li><p>
 msgid ""

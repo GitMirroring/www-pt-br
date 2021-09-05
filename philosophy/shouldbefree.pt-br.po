@@ -4,13 +4,14 @@
 # Juciê Dias Andrade, 2001.
 # Jan 2015: GNUNify; trivially update a few strings (T. Godefroy).
 # Diego Viola <diego.viola@gmail.com>, 2017.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2017-2021.
 # André N Batista <nandre@riseup.net>, 2018.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017-2021.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: shouldbefree.html\n"
-"POT-Creation-Date: 2020-07-01 15:25+0000\n"
-"PO-Revision-Date: 2021-05-03 10:15-0300\n"
+"POT-Creation-Date: 2021-08-28 13:56+0000\n"
+"PO-Revision-Date: 2021-09-05 19:48-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -25,22 +26,15 @@ msgid "Why Software Should Be Free - GNU Project - Free Software Foundation"
 msgstr ""
 "Por que o Software Deveria Ser Livre - Projeto GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Why Software Should Be Free"
 msgstr "Por que o Software Deveria Ser Livre"
 
-#. type: Content of: <p>
-msgid ""
-"by <a href=\"http://www.stallman.org/\"><strong>Richard Stallman</strong></a>"
-msgstr ""
-"por <a href=\"http://www.stallman.org/\"><strong>Richard Stallman</strong></"
-"a>"
+#. type: Content of: <div><address>
+msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
+msgstr "por <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
 
-#. type: Content of: <h3>
-msgid "Introduction"
-msgstr "Introdução"
-
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The existence of software inevitably raises the question of how decisions "
 "about its use should be made.  For example, suppose one individual who has a "
@@ -54,7 +48,7 @@ msgstr ""
 "possível a eles copiar o programa; quem deveria decidir se isto deve ser "
 "feito ou não? Os indivíduos envolvidos? Ou outra parte, chamada de “o dono”?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Software developers typically consider these questions on the assumption "
 "that the criterion for the answer is to maximize developers' profits. The "
@@ -68,7 +62,7 @@ msgstr ""
 "deste critério quanto da resposta proposta pelos desenvolvedores: o programa "
 "tem um dono, tipicamente uma empresa associada ao seu desenvolvimento."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I would like to consider the same question using a different criterion: the "
 "prosperity and freedom of the public in general."
@@ -76,7 +70,7 @@ msgstr ""
 "Eu gostaria de considerar a mesma questão usando um critério diferente: a "
 "prosperidade e liberdade do público em geral."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This answer cannot be decided by current law&mdash;the law should conform to "
 "ethics, not the other way around.  Nor does current practice decide this "
@@ -95,7 +89,7 @@ msgstr ""
 "levando em conta a liberdade individual bem como a produção de bens "
 "materiais."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In this essay, I will describe the effects of having owners, and show that "
 "the results are detrimental.  My conclusion is that programmers have the "
@@ -109,11 +103,11 @@ msgstr ""
 "melhorar o software que nós escrevemos: em outras palavras, escrever <a href="
 "\"/philosophy/free-sw.html\">software “livre”</a>.<a href=\"#f1\">(1)</a>"
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "How Owners Justify Their Power"
 msgstr "Como os Donos Justificam Seu Poder"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Those who benefit from the current system where programs are property offer "
 "two arguments in support of their claims to own programs: the emotional "
@@ -123,7 +117,7 @@ msgstr ""
 "oferecem dois argumentos em suporte à suas reivindicações: o argumento "
 "emocional e o econômico."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The emotional argument goes like this: &ldquo;I put my sweat, my heart, my "
 "soul into this program.  It comes from <em>me</em>, it's <em>mine</em>!"
@@ -133,7 +127,7 @@ msgstr ""
 "coração, minha alma neste programa. Ele veio de <em>mim</em>, é <em>meu</"
 "em>!”"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This argument does not require serious refutation.  The feeling of "
 "attachment is one that programmers can cultivate when it suits them; it is "
@@ -155,7 +149,7 @@ msgstr ""
 "que importava era que o trabalho havia sido feito — e o propósito ao qual "
 "ele serviria. Esta concepção prevaleceu durante séculos."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The economic argument goes like this: &ldquo;I want to get rich (usually "
 "described inaccurately as &lsquo;making a living&rsquo;), and if you don't "
@@ -171,7 +165,7 @@ msgstr ""
 "acabar ficando sem programas!” Esta ameaça é normalmente velada, como um "
 "conselho de amigo."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I'll explain later why this threat is a bluff.  First I want to address an "
 "implicit assumption that is more visible in another formulation of the "
@@ -180,7 +174,7 @@ msgstr ""
 "Depois eu irei explicar que esta ameaça é um blefe. Primeiro eu quero focar "
 "uma concepção que é mais visível em outra formulação do argumento."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This formulation starts by comparing the social utility of a proprietary "
 "program with that of no program, and then concludes that proprietary "
@@ -196,7 +190,7 @@ msgstr ""
 "privativo versus inexistência do software — e assumir que não existem outras "
 "possibilidades."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Given a system of software copyright, software development is usually linked "
 "with the existence of an owner who controls the software's use.  As long as "
@@ -215,11 +209,11 @@ msgstr ""
 "sendo entre software privativo versus software inexistente é desvirtuar a "
 "questão."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "The Argument against Having Owners"
 msgstr "O Argumento Contra Ter Donos"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The question at hand is, &ldquo;Should development of software be linked "
 "with having owners to restrict the use of it?&rdquo;"
@@ -227,7 +221,7 @@ msgstr ""
 "A questão é: “O desenvolvimento de software deveria ser ligado a ter donos "
 "para restringir sua utilização?”"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In order to decide this, we have to judge the effect on society of each of "
 "those two activities <em>independently</em>: the effect of developing the "
@@ -244,7 +238,7 @@ msgstr ""
 "atrapalha, nós estaríamos melhor descartando esta ligação e fazendo apenas a "
 "atividade que ajuda."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "To put it another way, if restricting the distribution of a program already "
 "developed is harmful to society overall, then an ethical software developer "
@@ -254,7 +248,7 @@ msgstr ""
 "já desenvolvido é prejudicial à sociedade como um todo, então um "
 "desenvolvedor ético irá rejeitar a opção de trabalhar deste modo."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "To determine the effect of restricting sharing, we need to compare the value "
 "to society of a restricted (i.e., proprietary) program with that of the same "
@@ -265,7 +259,7 @@ msgstr ""
 "privativo) com o valor do mesmo programa, disponível para todos. Isto "
 "significa comparar dois mundos possíveis."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This analysis also addresses the simple counterargument sometimes made that "
 "&ldquo;the benefit to the neighbor of giving him or her a copy of a program "
@@ -280,7 +274,7 @@ msgstr ""
 "benefício são de igual grandeza. A análise envolve comparar estas duas "
 "grandezas, e mostra que os benefícios são muito maiores."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "To elucidate this argument, let's apply it in another area: road "
 "construction."
@@ -288,7 +282,7 @@ msgstr ""
 "Para elucidar este argumento, vamos aplicá-lo a outra área: construção de "
 "vias públicas."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "It would be possible to fund the construction of all roads with tolls. This "
 "would entail having toll booths at all street corners.  Such a system would "
@@ -305,7 +299,7 @@ msgstr ""
 "artificial à condução suave de um veículo — artificial porque não é uma "
 "consequência de como estradas ou carros funcionam."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Comparing free roads and toll roads by their usefulness, we find that (all "
 "else being equal) roads without toll booths are cheaper to construct, "
@@ -327,7 +321,7 @@ msgstr ""
 "não por meio de pedágio. O uso das estradas, uma vez construídas, deveria "
 "ser gratuito."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "When the advocates of toll booths propose them as <em>merely</em> a way of "
 "raising funds, they distort the choice that is available.  Toll booths do "
@@ -344,7 +338,7 @@ msgstr ""
 "superiores pode não ser uma melhoria se isto significa substituir as vias "
 "gratuitas pelas vias com pedágio."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Of course, the construction of a free road does cost money, which the public "
 "must somehow pay.  However, this does not imply the inevitability of toll "
@@ -357,7 +351,7 @@ msgstr ""
 "casos estaremos pagando, faremos melhor negócio adquirindo uma estrada livre "
 "de pedágio."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I am not saying that a toll road is worse than no road at all.  That would "
 "be true if the toll were so great that hardly anyone used the road&mdash;but "
@@ -372,7 +366,7 @@ msgstr ""
 "desperdício e inconveniência significativos, é melhor levantar fundos de um "
 "modo menos perturbador."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "To apply the same argument to software development, I will now show that "
 "having &ldquo;toll booths&rdquo; for useful software programs costs society "
@@ -390,11 +384,11 @@ msgstr ""
 "irei explicar outros métodos de estímulo e (à medida do realmente "
 "necessário) financiamento para o desenvolvimento de software."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "The Harm Done by Obstructing Software"
 msgstr "O Dano Causado por Software Obstruído"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Consider for a moment that a program has been developed, and any necessary "
 "payments for its development have been made; now society must choose either "
@@ -408,7 +402,7 @@ msgstr ""
 "deve permitir seu livre uso e compartilhamento. Assuma que é desejável que o "
 "programa exista e que esteja disponível.<a href=\"#f3\">(3)</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Restrictions on the distribution and modification of the program cannot "
 "facilitate its use.  They can only interfere.  So the effect can only be "
@@ -418,25 +412,25 @@ msgstr ""
 "uso. Só podem interferir. Sendo assim o efeito só pode ser negativo. Mas "
 "quão negativo? E de que modo?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "Three different levels of material harm come from such obstruction:"
 msgstr "Três níveis diferentes de danos materiais se originam desta obstrução:"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "Fewer people use the program."
 msgstr "Menos pessoas usam o programa."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "None of the users can adapt or fix the program."
 msgstr "Nenhum dos usuários pode adaptar ou corrigir o programa."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "Other developers cannot learn from the program, or base new work on it."
 msgstr ""
 "Outros desenvolvedores não podem aprender a partir do programa, ou basear um "
 "novo trabalho nele."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Each level of material harm has a concomitant form of psychosocial harm. "
 "This refers to the effect that people's decisions have on their subsequent "
@@ -450,7 +444,7 @@ msgstr ""
 "maneira de pensar das pessoas terão um efeito posterior no seu "
 "relacionamento com seus concidadãos e podem ter consequências materiais."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The three levels of material harm waste part of the value that the program "
 "could contribute, but they cannot reduce it to zero.  If they waste nearly "
@@ -465,7 +459,7 @@ msgstr ""
 "programa que é lucrativo deveria prover algum benefício material líquido "
 "direto."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "However, taking account of the concomitant psychosocial harm, there is no "
 "limit to the harm that proprietary software development can do."
@@ -474,11 +468,11 @@ msgstr ""
 "existe limite para os danos que o desenvolvimento de software privativo pode "
 "causar."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "Obstructing Use of Programs"
 msgstr "Obstruindo O Uso de Programas"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The first level of harm impedes the simple use of a program.  A copy of a "
 "program has nearly zero marginal cost (and you can pay this cost by doing "
@@ -493,7 +487,7 @@ msgstr ""
 "ao uso do programa. Se um programa de ampla utilidade é privativo, muito "
 "menos pessoas irão utilizá-lo."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "It is easy to show that the total contribution of a program to society is "
 "reduced by assigning an owner to it.  Each potential user of the program, "
@@ -511,7 +505,7 @@ msgstr ""
 "abrir mão de usar o programa, isto causa um dano àquela pessoa sem "
 "beneficiar ninguém. A soma dos números negativos e zeros deve ser negativa."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But this does not reduce the amount of work it takes to <em>develop</em> the "
 "program.  As a result, the efficiency of the whole process, in delivered "
@@ -522,7 +516,7 @@ msgstr ""
 "processo como um todo, em termos da satisfação de usuário proporcionada por "
 "hora de trabalho."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This reflects a crucial difference between copies of programs and cars, "
 "chairs, or sandwiches.  There is no copying machine for material objects "
@@ -539,7 +533,7 @@ msgstr ""
 "nova cópia tem que ser construída de matéria-prima da mesma maneira que a "
 "primeira cópia foi."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "With material objects, a disincentive to use them makes sense, because fewer "
 "objects bought means less raw material and work needed to make them.  It's "
@@ -557,7 +551,7 @@ msgstr ""
 "custo de desenvolvimento não faz uma diferença qualitativa. E não requer "
 "restrições sobre a liberdade dos usuários comuns."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "However, imposing a price on something that would otherwise be free is a "
 "qualitative change.  A centrally imposed fee for software distribution "
@@ -567,7 +561,7 @@ msgstr ""
 "mudança qualitativa. Uma taxa centralmente imposta para a distribuição do "
 "software se torna um desincentivo poderoso."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "What's more, central production as now practiced is inefficient even as a "
 "means of delivering copies of software.  This system involves enclosing "
@@ -583,11 +577,11 @@ msgstr ""
 "venda. Este custo é apresentado como uma despesa de negócio; na verdade, é "
 "parte do desperdício causado por ter donos."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "Damaging Social Cohesion"
 msgstr "Prejudicando a União Social"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Suppose that both you and your neighbor would find it useful to run a "
 "certain program.  In ethical concern for your neighbor, you should feel that "
@@ -601,7 +595,7 @@ msgstr ""
 "permitisse a somente um dos dois a utilização do programa excluindo o outro "
 "causaria desarmonia; nem você nem seu colega achariam aceitável."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Signing a typical software license agreement means betraying your neighbor: "
 "&ldquo;I promise to deprive my neighbor of this program so that I can have a "
@@ -618,7 +612,7 @@ msgstr ""
 "cooperação mútua — assim o espírito público é prejudicado. Este é um dano "
 "psicossocial associado com o dano material de desencorajar o uso do programa."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Many users unconsciously recognize the wrong of refusing to share, so they "
 "decide to ignore the licenses and laws, and share programs anyway.  But they "
@@ -637,7 +631,7 @@ msgstr ""
 "Isto também é um tipo de dano psicossocial, mas alguém pode escapar disto "
 "decidindo que estas licenças e leis não têm força moral."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Programmers also suffer psychosocial harm knowing that many users will not "
 "be allowed to use their work.  This leads to an attitude of cynicism or "
@@ -656,7 +650,7 @@ msgstr ""
 "ignora isso a maior parte do tempo ou adota uma postura cínica elaborada "
 "para minimizar a relevância do fato."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Since the age of Reagan, the greatest scarcity in the United States is not "
 "technical innovation, but rather the willingness to work together for the "
@@ -667,11 +661,11 @@ msgstr ""
 "inovação tecnológica e sim a disposição de trabalhar junto para o bem "
 "público. Não faz sentido estimular o primeiro às custas do segundo."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "Obstructing Custom Adaptation of Programs"
 msgstr "Obstruindo a Adaptação Personalizada de Programas"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The second level of material harm is the inability to adapt programs.  The "
 "ease of modification of software is one of its great advantages over older "
@@ -686,7 +680,7 @@ msgstr ""
 "de você comprá-lo. Está disponível para você pegar ou largar, como uma caixa "
 "preta — e isto é tudo."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "A program that you can run consists of a series of numbers whose meaning is "
 "obscure.  No one, not even a good programmer, can easily change the numbers "
@@ -696,7 +690,7 @@ msgstr ""
 "significado é obscuro. Ninguém, nem mesmo um bom programador, pode "
 "facilmente mudar os números para fazer com que o programa aja diferente."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Programmers normally work with the &ldquo;source code&rdquo; for a program, "
 "which is written in a programming language such as Fortran or C.  It uses "
@@ -713,7 +707,7 @@ msgstr ""
 "auxiliar os programadores a ler e alterar programas. Aqui está um exemplo; "
 "um programa para calcular a distância entre dois pontos num plano:"
 
-#. type: Content of: <pre>
+#. type: Content of: <div><pre>
 #, no-wrap
 msgid ""
 "     float\n"
@@ -734,7 +728,7 @@ msgstr ""
 "       return sqrt (xdist * xdist + ydist * ydist);\n"
 "     }\n"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Precisely what that source code means is not the point; the point is that it "
 "looks like algebra, and a person who knows this programming language will "
@@ -747,7 +741,7 @@ msgstr ""
 "está o mesmo programa na forma executável, no computador que eu normalmente "
 "usava quando escrevi isso:"
 
-#. type: Content of: <pre>
+#. type: Content of: <div><pre>
 #, no-wrap
 msgid ""
 "     1314258944      -232267772      -231844864      1634862\n"
@@ -762,7 +756,7 @@ msgstr ""
 "     1644167167      -3214848        1090581031      1962942495\n"
 "     572518958       -803143692      1314803317\n"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Source code is useful (at least potentially) to every user of a program. But "
 "most users are not allowed to have copies of the source code. Usually the "
@@ -779,7 +773,7 @@ msgstr ""
 "que o computador irá executar. Isto significa que somente o dono do programa "
 "pode alterá-lo."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "A friend once told me of working as a programmer in a bank for about six "
 "months, writing a program similar to something that was commercially "
@@ -798,7 +792,7 @@ msgstr ""
 "Sendo assim ela teve que gastar seis meses nesta tarefa, trabalho este que "
 "conta no Produto Interno Bruto (PIB) mas que na verdade foi desperdício."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The <abbr title=\"Massachusetts Institute of Technology\">MIT</abbr> "
 "Artificial Intelligence Lab (AI Lab) received a graphics printer as a gift "
@@ -819,7 +813,7 @@ msgstr ""
 "usuários que tinham impressões na fila. Estas funcionalidades facilitavam a "
 "operação tranquila."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Later Xerox gave the AI Lab a newer, faster printer, one of the first laser "
 "printers.  It was driven by proprietary software that ran in a separate "
@@ -842,7 +836,7 @@ msgstr ""
 "quando havia um papel enroscado, de modo que a impressora frequentemente "
 "ficava por uma hora parada."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The system programmers at the AI Lab were capable of fixing such problems, "
 "probably as capable as the original authors of the program.  Xerox was "
@@ -855,7 +849,7 @@ msgstr ""
 "preferiu nos impedir, de modo que nós fomos forçados a aceitar os problemas. "
 "Eles nunca foram corrigidos."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Most good programmers have experienced this frustration.  The bank could "
 "afford to solve the problem by writing a new program from scratch, but a "
@@ -866,7 +860,7 @@ msgstr ""
 "usuário típico, não importa o quão conhecedor, não tem outra alternativa "
 "senão desistir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Giving up causes psychosocial harm&mdash;to the spirit of self-reliance.  It "
 "is demoralizing to live in a house that you cannot rearrange to suit your "
@@ -880,7 +874,7 @@ msgstr ""
 "espalhar e afetar outros aspectos da vida de uma pessoa. Pessoas que se "
 "sentem assim são infelizes e não produzem um bom trabalho."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Imagine what it would be like if recipes were hoarded in the same fashion as "
 "software.  You might say, &ldquo;How do I change this recipe to take out the "
@@ -895,7 +889,7 @@ msgstr ""
 "receita, o fruto do meu cérebro e do meu paladar, tentando mexer nela? Você "
 "não tem conhecimento para alterar minha receita e fazê-la funcionar.”"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "&ldquo;But my doctor says I'm not supposed to eat salt! What can I do? Will "
 "you take out the salt for me?&rdquo;"
@@ -903,7 +897,7 @@ msgstr ""
 "“Mas meu médico disse que eu não posso comer sal! O que eu posso fazer? Você "
 "vai tirar o sal pra mim?”"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "&ldquo;I would be glad to do that; my fee is only $50,000.&rdquo; Since the "
 "owner has a monopoly on changes, the fee tends to be large.  &ldquo;However, "
@@ -917,11 +911,11 @@ msgstr ""
 "uma comissão para projetar uma nova receita para o biscoito do navio para o "
 "Departamento da Marinha. Posso te dar um retorno daqui a dois anos.”"
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "Obstructing Software Development"
 msgstr "Obstruindo Desenvolvimento de Software"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The third level of material harm affects software development.  Software "
 "development used to be an evolutionary process, where a person would take an "
@@ -939,7 +933,7 @@ msgstr ""
 "período de vinte anos. Neste meio-tempo, partes do programa eram "
 "“canibalizadas” para formar o princípio de outros programas."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The existence of owners prevents this kind of evolution, making it necessary "
 "to start from scratch when developing a program.  It also prevents new "
@@ -951,7 +945,7 @@ msgstr ""
 "novos praticantes de estudar programas existentes para aprender técnicas "
 "úteis ou mesmo como grandes programas podem ser estruturados."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Owners also obstruct education.  I have met bright students in computer "
 "science who have never seen the source code of a large program.  They may be "
@@ -965,7 +959,7 @@ msgstr ""
 "para a construção de grandes programas se eles não podem ver como outros "
 "fizeram isto."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In any intellectual field, one can reach greater heights by standing on the "
 "shoulders of others.  But that is no longer generally allowed in the "
@@ -977,7 +971,7 @@ msgstr ""
 "área de software — você pode somente subir nos ombros das outras pessoas "
 "dentro <em>da sua empresa</em>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The associated psychosocial harm affects the spirit of scientific "
 "cooperation, which used to be so strong that scientists would cooperate even "
@@ -993,7 +987,7 @@ msgstr ""
 "seu trabalho para os soldados invasores dos Estados Unidos, e deixaram uma "
 "nota pedindo que eles tomassem cuidado com aquilo."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Conflict for profit has destroyed what international conflict spared.  "
 "Nowadays scientists in many fields don't publish enough in their papers to "
@@ -1009,11 +1003,11 @@ msgstr ""
 "eles foram capazes de fazer. Isto certamente é verdade em ciência da "
 "computação, onde o código-fonte do programa relatado é normalmente secreto."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "It Does Not Matter How Sharing Is Restricted"
 msgstr "Não Importa Como o Compartilhamento Seja Restringido"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I have been discussing the effects of preventing people from copying, "
 "changing, and building on a program.  I have not specified how this "
@@ -1030,7 +1024,7 @@ msgstr ""
 "Memory\">ROM</abbr>, números seriais de hardware, se é bem <em>sucedido</em> "
 "então causa dano."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Users do consider some of these methods more obnoxious than others.  I "
 "suggest that the methods most hated are those that accomplish their "
@@ -1039,11 +1033,11 @@ msgstr ""
 "Usuários consideram alguns destes métodos mais detestáveis que outros. Eu "
 "sugiro que os métodos mais odiados são aqueles que atingem seu objetivo."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "Software Should be Free"
 msgstr "O Software Deveria ser Livre"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I have shown how ownership of a program&mdash;the power to restrict changing "
 "or copying it&mdash;is obstructive.  Its negative effects are widespread and "
@@ -1054,7 +1048,7 @@ msgstr ""
 "amplamente disseminados e importantes. Segue que a sociedade não deveria ter "
 "donos para programas."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Another way to understand this is that what society needs is free software, "
 "and proprietary software is a poor substitute.  Encouraging the substitute "
@@ -1064,7 +1058,7 @@ msgstr ""
 "software livre, e software privativo é um substituto pobre. Encorajar o "
 "substituto não é uma maneira racional de obter o que nós precisamos."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Vaclav Havel has advised us to &ldquo;Work for something because it is good, "
 "not just because it stands a chance to succeed.&rdquo; A business making "
@@ -1076,11 +1070,11 @@ msgstr ""
 "chance de sucesso dentro dos seus próprios termos limitados, mas não é o que "
 "é bom para a sociedade."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Why People Will Develop Software"
 msgstr "Por Que as Pessoas Irão Desenvolver Software"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If we eliminate copyright as a means of encouraging people to develop "
 "software, at first less software will be developed, but that software will "
@@ -1100,11 +1094,11 @@ msgstr ""
 "de como isso pode ser feito, primeiro eu gostaria de questionar o quanto de "
 "incentivo artificial é realmente necessário."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "Programming is Fun"
 msgstr "Programar é Divertido"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "There are some lines of work that few will enter except for money; road "
 "construction, for example.  There are other fields of study and art in which "
@@ -1124,7 +1118,7 @@ msgstr ""
 "nenhuma das quais é muito bem remunerada. Elas chegam até a pagar pela "
 "chance de trabalhar na área, se elas têm condições para isso."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Such a field can transform itself overnight if it begins to offer the "
 "possibility of getting rich.  When one worker gets rich, others demand the "
@@ -1145,7 +1139,7 @@ msgstr ""
 "possíveis, prescrevendo privilégios especiais, poderes e monopólios à medida "
 "do necessário para que isto aconteça."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This change happened in the field of computer programming in the 1980s.  In "
 "the 1970s, there were articles on &ldquo;computer addiction&rdquo;: users "
@@ -1163,7 +1157,7 @@ msgstr ""
 "por uma alta taxa de remuneração. As pessoas se esqueceram do que elas "
 "sabiam naquela época."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "When it is true at a given time that most people will work in a certain "
 "field only for high pay, it need not remain true.  The dynamic of change can "
@@ -1180,7 +1174,7 @@ msgstr ""
 "reajustado suas atitudes, elas irão mais uma vez ansiar por trabalhar na "
 "área pelo prazer da conquista."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The question &ldquo;How can we pay programmers?&rdquo; becomes an easier "
 "question when we realize that it's not a matter of paying them a fortune.  A "
@@ -1190,11 +1184,11 @@ msgstr ""
 "nós entendemos que não é uma questão de pagá-los uma fortuna. Um mero viver "
 "é mais fácil de se conseguir."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "Funding Free Software"
 msgstr "Financiando o Software Livre"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Institutions that pay programmers do not have to be software houses.  Many "
 "other institutions already exist that can do this."
@@ -1202,7 +1196,7 @@ msgstr ""
 "Instituições que pagam programadores não têm que ser “software houses”. "
 "Muitas outras instituições já existem que podem fazer isto."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Hardware manufacturers find it essential to support software development "
 "even if they cannot control the use of the software.  In 1970, much of their "
@@ -1217,7 +1211,7 @@ msgstr ""
 "mostra seu entendimento que possuir o software não é o que é realmente "
 "importante para eles."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Universities conduct many programming projects.  Today they often sell the "
 "results, but in the 1970s they did not.  Is there any doubt that "
@@ -1232,7 +1226,7 @@ msgstr ""
 "ser financiados pelos mesmos contratos de governo e concessões que agora "
 "financiam o desenvolvimento de software privativo."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "It is common today for university researchers to get grants to develop a "
 "system, develop it nearly to the point of completion and call that &ldquo;"
@@ -1253,7 +1247,7 @@ msgstr ""
 "fossem expostos à tentação de fazer estas coisas, eles ainda assim fariam "
 "suas pesquisas."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Programmers writing free software can make their living by selling services "
 "related to the software.  I have been hired to port the <a href=\"/software/"
@@ -1269,7 +1263,7 @@ msgstr ""
 "Emacs</a>. (Eu ofereço estas melhorias ao público uma vez que elas ficam "
 "prontas.) Eu também ensino em salas de aula, pelo que eu sou pago."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I am not alone in working this way; there is now a successful, growing "
 "corporation which does no other kind of work.  Several other companies also "
@@ -1287,7 +1281,7 @@ msgstr ""
 "predominante. Ela dá aos usuários uma opção geralmente não disponível para o "
 "software privativo, exceto para os muito ricos."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "New institutions such as the <a href=\"/fsf/fsf.html\">Free Software "
 "Foundation</a> can also fund programmers.  Most of the Foundation's funds "
@@ -1309,7 +1303,7 @@ msgstr ""
 "fazer uma contribuição que eles sentem que nós merecemos. A fundação também "
 "recebe donativos consideráveis de fabricantes de computadores."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The Free Software Foundation is a charity, and its income is spent on hiring "
 "as many programmers as possible.  If it had been set up as a business, "
@@ -1321,7 +1315,7 @@ msgstr ""
 "para ganhos financeiros, distribuindo o mesmo software livre ao público "
 "pelos mesmos valores, daria agora uma vida muito boa ao seu fundador."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Because the Foundation is a charity, programmers often work for the "
 "Foundation for half of what they could make elsewhere.  They do this because "
@@ -1338,7 +1332,7 @@ msgstr ""
 "muitos programas úteis para nós. (Recentemente mesmo escritores técnicos "
 "começaram a se oferecer.)"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This confirms that programming is among the most fascinating of all fields, "
 "along with music and art.  We don't have to fear that no one will want to "
@@ -1347,11 +1341,11 @@ msgstr ""
 "Isto confirma que programação está entre as áreas mais fascinantes de todas, "
 "junto da música e da arte. Nós não temos medo que ninguém queira programar."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "What Do Users Owe to Developers?"
 msgstr "O Que os Usuários Devem aos Desenvolvedores?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "There is a good reason for users of software to feel a moral obligation to "
 "contribute to its support.  Developers of free software are contributing to "
@@ -1363,7 +1357,7 @@ msgstr ""
 "estão contribuindo para as atividades dos usuários, e é justo e a longo "
 "prazo interessante para os usuários prover os fundos para continuar."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "However, this does not apply to proprietary software developers, since "
 "obstructionism deserves a punishment rather than a reward."
@@ -1371,7 +1365,7 @@ msgstr ""
 "No entanto, isto não se aplica a software privativo, uma vez que o "
 "obstrucionismo merece uma punição em vez de uma recompensa."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We thus have a paradox: the developer of useful software is entitled to the "
 "support of the users, but any attempt to turn this moral obligation into a "
@@ -1383,7 +1377,7 @@ msgstr ""
 "numa exigência destrói a base para a obrigação. Um desenvolvedor pode tanto "
 "merecer a recompensa quanto exigi-la, mas não ambos."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I believe that an ethical developer faced with this paradox must act so as "
 "to deserve the reward, but should also entreat the users for voluntary "
@@ -1397,11 +1391,11 @@ msgstr ""
 "aprender a suportar os desenvolvedores sem coerção, assim como eles "
 "aprenderam a suportar as estações públicas de rádio e televisão."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "What Is Software Productivity?"
 msgstr "O Que É Produtividade De Software?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If software were free, there would still be programmers, but perhaps fewer "
 "of them.  Would this be bad for society?"
@@ -1409,7 +1403,7 @@ msgstr ""
 "Se o software fosse livre, ainda assim existiriam programadores, mas talvez "
 "um número menor deles. Seria isto ruim para a sociedade?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Not necessarily.  Today the advanced nations have fewer farmers than in "
 "1900, but we do not think this is bad for society, because the few deliver "
@@ -1424,11 +1418,11 @@ msgstr ""
 "exigiria muito menos programadores para satisfazer a demanda, por causa da "
 "produtividade de software aumentada em todos os níveis:"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "Wider use of each program that is developed."
 msgstr "Uso mais amplo de cada programa que é desenvolvido."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "The ability to adapt existing programs for customization instead of starting "
 "from scratch."
@@ -1436,15 +1430,15 @@ msgstr ""
 "A habilidade de adaptar programas para personalização em vez de começar do "
 "zero."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "Better education of programmers."
 msgstr "Melhor educação de programadores."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "The elimination of duplicate development effort."
 msgstr "A eliminação de esforço de desenvolvimento duplicado."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Those who object to cooperation claiming it would result in the employment "
 "of fewer programmers are actually objecting to increased productivity.  Yet "
@@ -1456,7 +1450,7 @@ msgstr ""
 "mesmas pessoas normalmente concordam com a crença largamente aceita que a "
 "indústria de software precisa de produtividade melhorada. Pode?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "&ldquo;Software productivity&rdquo; can mean two different things: the "
 "overall productivity of all software development, or the productivity of "
@@ -1475,11 +1469,11 @@ msgstr ""
 "de “produtividade de software” focam somente no segundo, limitado, sentido "
 "da frase, onde melhoria requer avanços tecnológicos difíceis."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Is Competition Inevitable?"
 msgstr "A Competição É Inevitável?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Is it inevitable that people will try to compete, to surpass their rivals in "
 "society? Perhaps it is.  But competition itself is not harmful; the harmful "
@@ -1489,7 +1483,7 @@ msgstr ""
 "sociedade? Talvez sim. Mas competição por si só não é prejudicial; o que é "
 "prejudicial é o <em>combate</em>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "There are many ways to compete.  Competition can consist of trying to "
 "achieve ever more, to outdo what others have done.  For example, in the old "
@@ -1507,7 +1501,7 @@ msgstr ""
 "competição pode beneficiar a todos, <em>contanto que</em> o espírito "
 "esportivo seja mantido."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Constructive competition is enough competition to motivate people to great "
 "efforts.  A number of people are competing to be the first to have visited "
@@ -1522,7 +1516,7 @@ msgstr ""
 "para encalhar seus rivais em ilhas desertas. Eles estão satisfeitos em que "
 "vença o melhor."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Competition becomes combat when the competitors begin trying to impede each "
 "other instead of advancing themselves&mdash;when &ldquo;Let the best person "
@@ -1536,7 +1530,7 @@ msgstr ""
 "seja uma forma de competição, mas porque é uma forma de combate entre "
 "cidadãos da nossa sociedade."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Competition in business is not necessarily combat.  For example, when two "
 "grocery stores compete, their entire effort is to improve their own "
@@ -1554,7 +1548,7 @@ msgstr ""
 "negócio compartilham esta característica. Ocultar informação que poderia "
 "ajudar o avanço de todos é uma forma de combate."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Business ideology does not prepare people to resist the temptation to combat "
 "the competition.  Some forms of combat have been banned with antitrust laws, "
@@ -1571,11 +1565,11 @@ msgstr ""
 "especificamente proibidas. Os recursos da sociedade são gastos no "
 "equivalente econômico da guerra civil faccionária."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "&ldquo;Why Don't You Move to Russia?&rdquo;"
 msgstr "“Por Que Você Não Se Muda Pra Rússia?”"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In the United States, any advocate of other than the most extreme form of "
 "laissez-faire selfishness has often heard this accusation.  For example, it "
@@ -1596,7 +1590,7 @@ msgstr ""
 "identificada nos Estados Unidos como Comunismo. Mas quão similar são estas "
 "ideias?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Communism as was practiced in the Soviet Union was a system of central "
 "control where all activity was regimented, supposedly for the common good, "
@@ -1609,7 +1603,7 @@ msgstr ""
 "equipamentos de cópia eram guardados hermeticamente para evitar cópias "
 "ilegais."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The American system of software copyright exercises central control over "
 "distribution of a program, and guards copying equipment with automatic "
@@ -1619,7 +1613,7 @@ msgstr ""
 "distribuição de um programa, e guarda os equipamentos de cópia com esquemas "
 "de proteção contra cópia automáticos para evitar a cópia ilegal."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "By contrast, I am working to build a system where people are free to decide "
 "their own actions; in particular, free to help their neighbors, and free to "
@@ -1632,7 +1626,7 @@ msgstr ""
 "que elas usam no seu cotidiano. Um sistema baseado em cooperação voluntária "
 "e decentralização."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Thus, if we are to judge views by their resemblance to Russian Communism, it "
 "is the software owners who are the Communists."
@@ -1640,11 +1634,11 @@ msgstr ""
 "Assim, se nós temos que julgar pontos de vista pelas suas semelhanças com o "
 "Comunismo Russo, são os donos de software que são os Comunistas."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "The Question of Premises"
 msgstr "A Questão das Premissas"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I make the assumption in this paper that a user of software is no less "
 "important than an author, or even an author's employer.  In other words, "
@@ -1656,7 +1650,7 @@ msgstr ""
 "seus interesses e necessidades têm igual peso, quando nós decidimos que "
 "curso de ação é melhor."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This premise is not universally accepted.  Many maintain that an author's "
 "employer is fundamentally more important than anyone else.  They say, for "
@@ -1670,7 +1664,7 @@ msgstr ""
 "autor a vantagem que ele merece — sem levar em consideração como isto pode "
 "afetar o público."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "It is no use trying to prove or disprove these premises.  Proof requires "
 "shared premises.  So most of what I have to say is addressed only to those "
@@ -1685,7 +1679,7 @@ msgstr ""
 "acreditam que os donos são mais importantes que todos os demais, este "
 "documento é irrelevante."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But why would a large number of Americans accept a premise that elevates "
 "certain people in importance above everyone else? Partly because of the "
@@ -1699,7 +1693,7 @@ msgstr ""
 "sociedade Americana. Algumas pessoas sentem que duvidar da premissa "
 "significa desafiar as bases da sociedade."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "It is important for these people to know that this premise is not part of "
 "our legal tradition.  It never has been."
@@ -1707,7 +1701,7 @@ msgstr ""
 "É importante para estas pessoas saber que esta premissa não é parte da nossa "
 "tradição legal. Nem nunca foi."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Thus, the Constitution says that the purpose of copyright is to &ldquo;"
 "promote the Progress of Science and the useful Arts.&rdquo; The Supreme "
@@ -1722,7 +1716,7 @@ msgstr ""
 "Unidos e o principal objetivo em conferir o monopólio [de copyright] reside "
 "nos benefícios derivados pelo público a partir do trabalho dos autores.”"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We are not required to agree with the Constitution or the Supreme Court.  "
 "(At one time, they both condoned slavery.)  So their positions do not "
@@ -1736,11 +1730,11 @@ msgstr ""
 "concepção radical direitista em vez de uma tradicionalmente reconhecida "
 "venha enfraquecer seu apelo."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Conclusion"
 msgstr "Conclusão"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We like to think that our society encourages helping your neighbor; but each "
 "time we reward someone for obstructionism, or admire them for the wealth "
@@ -1751,7 +1745,7 @@ msgstr ""
 "admiramos pela riqueza que ele ganhou deste modo, nós estamos enviando a "
 "mensagem oposta."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Software hoarding is one form of our general willingness to disregard the "
 "welfare of society for personal gain.  We can trace this disregard from "
@@ -1770,7 +1764,7 @@ msgstr ""
 "outras pessoas não irão nos ajudar, mais nos parece fútil ajudá-las. Assim a "
 "sociedade vai decaindo até se tornar uma selva."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If we don't want to live in a jungle, we must change our attitudes.  We must "
 "start sending the message that a good citizen is one who cooperates when "
@@ -1786,11 +1780,11 @@ msgstr ""
 "nós iremos substituir a selva por um sistema mais eficiente que encoraja e "
 "confia na cooperação voluntária."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Footnotes"
 msgstr "Notas de Rodapé"
 
-#. type: Content of: <ol><li>
+#. type: Content of: <div><ol><li>
 msgid ""
 "The word &ldquo;free&rdquo; in &ldquo;free software&rdquo; refers to "
 "freedom, not to price; the price paid for a copy of a free program may be "
@@ -1800,7 +1794,7 @@ msgstr ""
 "preço pago por uma cópia de um “free software” pode ser zero, ou pequeno, ou "
 "(raramente) bem grande."
 
-#. type: Content of: <ol><li>
+#. type: Content of: <div><ol><li>
 msgid ""
 "The issues of pollution and traffic congestion do not alter this "
 "conclusion.  If we wish to make driving more expensive to discourage driving "
@@ -1819,7 +1813,7 @@ msgstr ""
 "velocidade média evitando paradas e atrasos, para qualquer limite de "
 "velocidade dado."
 
-#. type: Content of: <ol><li>
+#. type: Content of: <div><ol><li>
 msgid ""
 "One might regard a particular computer program as a harmful thing that "
 "should not be available at all, like the Lotus Marketplace database of "
@@ -1839,13 +1833,13 @@ msgstr ""
 "<em>completamente</em> não disponível, como seria desejável no caso de um "
 "programa cujo uso fosse considerado destrutivo."
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><div><p>
 msgid ""
-"This essay is published in <a href=\"http://shop.fsf.org/product/free-"
+"This essay is published in <a href=\"https://shop.fsf.org/product/free-"
 "software-free-society/\"><cite>Free Software, Free Society: The Selected "
 "Essays of Richard M. Stallman</cite></a>."
 msgstr ""
-"Este ensaio foi publicado em <a href=\"http://shop.fsf.org/product/free-"
+"Este ensaio foi publicado em <a href=\"https://shop.fsf.org/product/free-"
 "software-free-society/\"><cite>Software Livre, Sociedade Livre: Artigos "
 "selecionados de Richard M. Stallman</cite></a>."
 
@@ -1875,14 +1869,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
@@ -1890,16 +1884,16 @@ msgstr ""
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas deste site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 1991, 1992, 1998, 2000, 2001, 2006, 2007, 2010, 2017, 2018, "
-"2020 Free Software Foundation, Inc."
+"Copyright &copy; 1991, 1992, 1998, 2006, 2010, 2021 Free Software "
+"Foundation, Inc."
 msgstr ""
-"Copyright &copy; 1991, 1992, 1998, 2000, 2001, 2006, 2007, 2010, 2017, 2018, "
-"2020 Free Software Foundation, Inc."
+"Copyright &copy; 1991, 1992, 1998, 2006, 2010, 2021 Free Software "
+"Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -1915,11 +1909,22 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduzido por: Juciê Dias Andrade, 2001;\n"
+"Traduzido por:\n"
+"Juciê Dias Andrade, 2001;\n"
 "Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">rafaelff@gnome.org</"
-"a>, 2017-2020"
+"a>, 2017-2021"
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid ""
+#~ "Copyright &copy; 1991, 1992, 1998, 2000, 2001, 2006, 2007, 2010, 2017, "
+#~ "2018, 2020, 2021 Free Software Foundation, Inc."
+#~ msgstr ""
+#~ "Copyright &copy; 1991, 1992, 1998, 2000, 2001, 2006, 2007, 2010, 2017, "
+#~ "2018, 2020, 2021 Free Software Foundation, Inc."
+
+#~ msgid "Introduction"
+#~ msgstr "Introdução"

@@ -4,13 +4,13 @@
 # Cláudio Machado, 2002.
 # Jan 2015: GNUNify. It seems that this translation was from a version of the
 # article which is not in the CVS.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2018-2020.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2018-2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: university.html\n"
-"POT-Creation-Date: 2020-10-26 13:26+0000\n"
-"PO-Revision-Date: 2020-12-13 17:50-0300\n"
+"POT-Creation-Date: 2021-08-28 13:56+0000\n"
+"PO-Revision-Date: 2021-07-30 09:43-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1)\n"
-"X-Generator: Gtranslator 3.38.0\n"
+"X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -28,11 +28,11 @@ msgstr ""
 "Lance Software Livre Caso Você Trabalhe em uma Universidade - Projeto GNU - "
 "Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Releasing Free Software If You Work at a University"
 msgstr "Lance Software Livre Caso Você Trabalhe em uma Universidade"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In the free software movement, we believe computer users should have the "
 "freedom to change and redistribute the software that they use.  The &ldquo;"
@@ -54,7 +54,7 @@ msgstr ""
 "maneira que eles encorajam seus cientistas e outros estudiosos a publicar "
 "seus trabalhos."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Alas, many university administrators have a grasping attitude towards "
 "software (and towards science); they see programs as opportunities for "
@@ -67,7 +67,7 @@ msgstr ""
 "para contribuir para o conhecimento humano. Os desenvolvedores de software "
 "livre vêm lidando com essa situação nos últimos 20 anos."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "When I started developing the <a href=\"/gnu/thegnuproject.html\">GNU "
 "operating system</a>, in 1984, my first step was to quit my job at MIT.  I "
@@ -90,7 +90,7 @@ msgstr ""
 "&ndash; e eu não queria ter que implorar para a administração do MIT para me "
 "deixar usá-la."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Over the years, university affiliates have often come to the Free Software "
 "Foundation for advice on how to cope with administrators who see software "
@@ -113,7 +113,7 @@ msgstr ""
 "de dólar desvanecerem na frente dos seus olhos, eles geralmente concordam em "
 "lançar como um software livre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "You can also ask your funding sponsor for help.  When a group at NYU "
 "developed the GNU Ada Compiler, with funding from the US Air Force, the "
@@ -132,7 +132,7 @@ msgstr ""
 "desenvolver software livre do que não ter nenhum contrato, então eles muito "
 "provavelmente aceitarão."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Whatever you do, raise the issue early&mdash;well before the program is half "
 "finished.  At this point, the university still needs you, so you can play "
@@ -155,7 +155,7 @@ msgstr ""
 "suas escolhas são ter um software livre com os créditos para a universidade "
 "ou nada, eles irão escolher a primeira opção."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The FSF can sometimes persuade your university to accept the GNU General "
 "Public License, or to accept GPL version 3.  If you can't do it alone, "
@@ -167,7 +167,7 @@ msgstr ""
 "sozinho, por favor nos dê uma chance de ajudá-lo. Envie um e-mail para "
 "licensing@fsf.org e coloque “urgent” no campo de assunto."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Not all universities have grasping policies.  The University of Texas has a "
 "policy that makes it easy to release software developed there as free "
@@ -189,7 +189,7 @@ msgstr ""
 "universidade tem como missão contribuir para o avanço do conhecimento humano "
 "ou seu único propósito é perpetuar a si própria?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In persuading the university, it helps to approach the issue with "
 "determination and based on an ethical perspective, as we do in the free "
@@ -201,7 +201,7 @@ msgstr ""
 "livre. Para tratar o público eticamente, os software devem ser livres para "
 "todas as pessoas."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Many developers of free software profess narrowly practical reasons for "
 "doing so: they advocate allowing others to share and change software as an "
@@ -219,7 +219,7 @@ msgstr ""
 "manter sua posição firme quando os administradores da universidade lhe "
 "pressionarem ou persuadirem a tornar seu programa não livre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "For instance, they may argue that &ldquo;We could make it even more powerful "
 "and reliable with all the money we can get.&rdquo; This claim may or may not "
@@ -237,7 +237,7 @@ msgstr ""
 "que eles não merecem liberdade e argumentaria que você obteria a cooperação "
 "da academia, o que é tudo (segundo eles) que você precisa."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If you start from values of convenience alone, it is hard to make a good "
 "case for rejecting these dead-end proposals, but you can do it easily if you "
@@ -256,7 +256,7 @@ msgstr ""
 "seus objetivos. O software livre respeita a liberdade dos usuários, enquanto "
 "softwares não livres a negam."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Nothing strengthens your resolve like knowing that the community's freedom "
 "depends, in one instance, on you."
@@ -264,13 +264,13 @@ msgstr ""
 "Nada fortalece mais sua posição do que saber que a liberdade de sua "
 "comunidade depende, em alguma instância, de você."
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><div><p>
 msgid ""
-"This essay is published in <a href=\"http://shop.fsf.org/product/free-"
+"This essay is published in <a href=\"https://shop.fsf.org/product/free-"
 "software-free-society/\"><cite>Free Software, Free Society: The Selected "
 "Essays of Richard M. Stallman</cite></a>."
 msgstr ""
-"Este ensaio foi publicado em <a href=\"http://shop.fsf.org/product/free-"
+"Este ensaio foi publicado em <a href=\"https://shop.fsf.org/product/free-"
 "software-free-society/\"><cite>Free Software, Free Society: The Selected "
 "Essays of Richard M. Stallman</cite></a>."
 
@@ -300,14 +300,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
@@ -315,12 +315,12 @@ msgstr ""
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas deste site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2002, 2020 Richard Stallman"
-msgstr "Copyright &copy; 2002, 2020 Richard Stallman"
+msgid "Copyright &copy; 2002, 2014, 2021 Richard Stallman"
+msgstr "Copyright &copy; 2002, 2014, 2021 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -336,11 +336,16 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduzido por: Cláudio Machado <a href=\"mailto:claudio.machado@bol.com.br"
-"\">&lt;claudio.machado@bol.com.br&gt;</a>, 2002. Rafael Fontenelle <a href="
-"\"mailto:rafaelff@gnome.org\"> &lt;rafaelff@gnome.org&gt;</a>, 2018-2020."
+"Traduzido por:\n"
+"Cláudio Machado <a href=\"mailto:claudio.machado@bol.com.br\">&lt;claudio."
+"machado@bol.com.br&gt;</a>, 2002;\n"
+"Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\"> &lt;rafaelff@gnome."
+"org&gt;</a>, 2018-2021."
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid "Copyright &copy; 2002, 2020 Richard Stallman"
+#~ msgstr "Copyright &copy; 2002, 2020 Richard Stallman"

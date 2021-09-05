@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: free-software-even-more-important.html\n"
-"POT-Creation-Date: 2021-03-10 15:25+0000\n"
-"PO-Revision-Date: 2021-05-03 10:15-0300\n"
+"POT-Creation-Date: 2021-09-05 08:26+0000\n"
+"PO-Revision-Date: 2021-09-05 08:48-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -27,43 +27,15 @@ msgstr ""
 "Software Livre é Ainda Mais Importante Agora - Projeto GNU - Fundação do "
 "Software Livre"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Free Software Is Even More Important Now"
 msgstr "Software Livre é Ainda Mais Importante Agora"
 
-#. type: Content of: <address>
-msgid "by <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
-msgstr "por <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
-
-#. type: Content of: <p>
-msgid ""
-"<em>A substantially edited version of this article was published in <a href="
-"\"http://www.wired.com/opinion/2013/09/why-free-software-is-more-important-"
-"now-than-ever-before\"> Wired</a>.</em>"
-msgstr ""
-"<em>Uma versão substancialmente editada deste artigo foi publicada em <a "
-"href=\"http://www.wired.com/opinion/2013/09/why-free-software-is-more-"
-"important-now-than-ever-before\">Wired</a>.</em>"
-
-#. type: Content of: <p>
-msgid ""
-"<em>Watch a <a href=\"https://www.fsf.org/blogs/rms/20140407-geneva-tedx-"
-"talk-free-software-free-society/\"> 14-min video presentation</a> of these "
-"ideas.</em>"
-msgstr ""
-"<em>Assista a um <a href=\"https://www.fsf.org/blogs/rms/20140407-geneva-"
-"tedx-talk-free-software-free-society/\"> vídeo de 14 minutos</a> "
-"apresentando estas ideias.</em>"
+#. type: Content of: <div><address>
+msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
+msgstr "por <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 
 #. type: Content of: <div><p>
-msgid ""
-"<a href=\"/help/help.html\">Suggested ways you can help the free software "
-"movement</a>"
-msgstr ""
-"<a href=\"/help/help.html\">Maneiras sugeridas para você ajudar o movimento "
-"do software livre</a>"
-
-#. type: Content of: <p>
 msgid ""
 "Since 1983, the Free Software Movement has campaigned for computer users' "
 "freedom&mdash;for users to control the software they use, rather than vice "
@@ -75,7 +47,7 @@ msgstr ""
 "não o contrário.  Quando um programa respeita a liberdade e comunidade dos "
 "usuários, o chamamos de “software livre” (do inglês, “free software”)."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We also sometimes call it &ldquo;libre software&rdquo; to emphasize that "
 "we're talking about liberty, not price.  Some proprietary (nonfree) "
@@ -92,7 +64,17 @@ msgstr ""
 "detalhe.  De qualquer maneira, eles dão ao desenvolvedor do programa poder "
 "sobre os usuários, poder que ninguém deveria ter."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
+msgid ""
+"<em>Watch a <a href=\"https://www.fsf.org/blogs/rms/20140407-geneva-tedx-"
+"talk-free-software-free-society/\"> 14-min video presentation</a> of these "
+"ideas.</em>"
+msgstr ""
+"<em>Assista a um <a href=\"https://www.fsf.org/blogs/rms/20140407-geneva-"
+"tedx-talk-free-software-free-society/\"> vídeo de 14 minutos</a> "
+"apresentando estas ideias.</em>"
+
+#. type: Content of: <div><p>
 msgid ""
 "Those two nonfree programs have something else in common: they are both "
 "<em>malware</em>.  That is, both have functionalities designed to mistreat "
@@ -108,7 +90,7 @@ msgstr ""
 "Este diretório lista cerca de 500 funcionalidades maliciosas diferentes (até "
 "janeiro de 2021), mas esta é, com certeza, apenas a ponta do iceberg."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "With free software, the users control the program, both individually and "
 "collectively.  So they control what their computers do (assuming those "
@@ -121,7 +103,7 @@ msgstr ""
 "html\">leais</a> e fazem o que os programas dos usuários dizem-lhes para "
 "fazer)."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "With proprietary software, the program controls the users, and some other "
 "entity (the developer or &ldquo;owner&rdquo;) controls the program.  So the "
@@ -135,7 +117,7 @@ msgstr ""
 "por si só; além disso, isso instiga o desenvolvedor a maltratar os usuários "
 "de outras maneiras."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Even when proprietary software isn't downright malicious, its developers "
 "have an incentive to make it <a href=\"https://observer.com/2016/06/how-"
@@ -155,7 +137,7 @@ msgstr ""
 "isso, mas geralmente eles seguem seus interesses. Se você deseja que isso "
 "não aconteça, certifique-se de que o programa é controlado por seus usuários."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Freedom means having control over your own life.  If you use a program to "
 "carry out activities in your life, your freedom depends on your having "
@@ -169,7 +151,7 @@ msgstr ""
 "programas que você usa, e ainda mais quando você os usa para algo importante "
 "na sua vida."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Users' control over the program requires four <a href=\"/philosophy/free-sw."
 "html\">essential freedoms</a>."
@@ -177,23 +159,22 @@ msgstr ""
 "O controle dos usuários sobre o programa requer quatro <a href=\"/philosophy/"
 "free-sw.html\">liberdades essenciais</a>."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid "(0) The freedom to run the program as you wish, for whatever purpose."
 msgstr ""
 "(0) A liberdade de executar o programa como quiser, para qualquer finalidade."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
-"(1) The freedom to study the program's &ldquo;source code&rdquo;, and change "
+"(1) The freedom to study the program's &ldquo;source code,&rdquo; and change "
 "it, so the program does your computing as you wish.  Programs are written by "
 "programmers in a programming language&mdash;like English combined with "
-"algebra&mdash;and that form of the program is the &ldquo;source "
-"code&rdquo;.  Anyone who knows programming, and has the program in source "
-"code form, can read the source code, understand its functioning, and change "
-"it too.  When all you get is the executable form, a series of numbers that "
-"are efficient for the computer to run but extremely hard for a human being "
-"to understand, understanding and changing the program in that form are "
-"forbiddingly hard."
+"algebra&mdash;and that form of the program is the &ldquo;source code.&rdquo; "
+"Anyone who knows programming, and has the program in source code form, can "
+"read the source code, understand its functioning, and change it too.  When "
+"all you get is the executable form, a series of numbers that are efficient "
+"for the computer to run but extremely hard for a human being to understand, "
+"understanding and changing the program in that form are forbiddingly hard."
 msgstr ""
 "(1) A liberdade de estudar o “código fonte” do programa e alterá-lo, de modo "
 "que o programa faça sua informática como você deseja.  Os programas são "
@@ -206,7 +187,7 @@ msgstr ""
 "difíceis para um ser humano compreender, entender e mudar o programa é  "
 "proibitivamente difícil."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "(2) The freedom to make and distribute exact copies when you wish.  (It is "
 "not an obligation; doing this is your choice.  If the program is free, that "
@@ -222,7 +203,7 @@ msgstr ""
 "liberdade para os usuários é maltratá-los; no entanto, a escolha de não "
 "distribuir o programa — usá-lo em privado — não maltrata ninguém)."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "(3) The freedom to make and distribute copies of your modified versions, "
 "when you wish."
@@ -230,7 +211,7 @@ msgstr ""
 "(3) A liberdade para fazer e distribuir cópias de suas versões modificadas, "
 "quando quiser."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The first two freedoms mean each user can exercise individual control over "
 "the program.  With the other two freedoms, any group of users can together "
@@ -245,7 +226,7 @@ msgstr ""
 "totalmente o programa.  Se alguma delas estiver ausente ou for insuficiente, "
 "o programa é privativo (não livre), e injusto."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Other kinds of works are also used for practical activities, including "
 "recipes for cooking, educational works such as textbooks, reference works "
@@ -265,7 +246,7 @@ msgstr ""
 "não os cobre; mas o mesmo raciocínio se aplica e leva à mesma conclusão: "
 "estas obras devem carregar as quatro liberdades."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "A free program allows you to tinker with it to make it do what you want (or "
 "cease to do something you dislike).  Tinkering with software may sound "
@@ -282,11 +263,11 @@ msgstr ""
 "tradicional de modificar carros é obstruído porque agora os carros contêm "
 "software não livre."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "The Injustice of Proprietariness"
 msgstr "A Injustiça da Proprietariedade"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If the users don't control the program, the program controls the users.  "
 "With proprietary software, there is always some entity, the developer or "
@@ -300,7 +281,7 @@ msgstr ""
 "sobre seus usuários.  Um programa não livre é um jugo, um instrumento de "
 "poder injusto."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In outrageous cases (though this outrage has become quite usual) <a href=\"/"
 "malware\">proprietary programs are designed to spy on the users, restrict "
@@ -323,33 +304,33 @@ msgstr ""
 "permissão.  O Kindle da Amazon tem uma porta-dos-fundos que pode apagar "
 "livros."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The use of nonfree software in the &ldquo;internet of things&rdquo; would "
 "turn it into the <a href=\"https://archive.ieet.org/articles/rinesi20150806."
 "html\"> &ldquo;internet of telemarketers&rdquo;</a> as well as the &ldquo;"
-"internet of snoopers&rdquo;."
+"internet of snoopers.&rdquo;"
 msgstr ""
 "O uso de software não livre na “internet das coisas” irá transformá-la na <a "
 "href=\"https://archive.ieet.org/articles/rinesi20150806.html\">“internet do "
 "telemarketing”</a> e na “internet dos bisbilhoteiros”."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "With the goal of ending the injustice of nonfree software, the free software "
 "movement develops free programs so users can free themselves.  We began in "
-"1984 by developing the free operating system <a href=\"/gnu/the-gnu-project."
+"1984 by developing the free operating system <a href=\"/gnu/thegnuproject."
 "html\">GNU</a>. Today, millions of computers run GNU, mainly in the <a href="
 "\"/gnu/gnu-linux-faq.html\">GNU/Linux combination</a>."
 msgstr ""
 "Com o objetivo de acabar com a injustiça do software não livre, o movimento "
 "do software livre desenvolve programas livres para que os usuários possam se "
 "libertar.  Começamos em 1984 a desenvolver o sistema operacional livre <a "
-"href=\"/gnu/the-gnu-project.html\">GNU</a>.  Hoje, milhões de computadores "
+"href=\"/gnu/thegnuproject.html\">GNU</a>.  Hoje, milhões de computadores "
 "executam GNU, principalmente na <a href=\"/gnu/gnu-linux-faq.html"
 "\">combinação GNU/Linux</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Distributing a program to users without freedom mistreats those users; "
 "however, choosing not to distribute the program does not mistreat anyone.  "
@@ -367,11 +348,11 @@ msgstr ""
 "livre, queremos dizer que cada cópia deve vir com as quatro liberdades, mas "
 "isso não significa que alguém tem a obrigação de oferecer-lhe uma cópia."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Nonfree Software and SaaSS"
 msgstr "Software Não livre e SaaSS"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Nonfree software was the first way for companies to take control of people's "
 "computing.  Nowadays, there is another way, called Service as a Software "
@@ -384,7 +365,7 @@ msgstr ""
 "Substitute).  Isso significa deixar o servidor de um terceiro fazer as "
 "tarefas de informática do usuário."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "SaaSS doesn't mean the programs on the server are nonfree (though they often "
 "are).  Rather, using SaaSS causes the same injustices as using a nonfree "
@@ -402,7 +383,7 @@ msgstr ""
 "exemplo) e envia a tradução de volta para o usuário.  Agora, o trabalho de "
 "tradução está sob o controle do operador do servidor, em vez do usuário."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If you use SaaSS, the server operator controls your computing.  It requires "
 "entrusting all the pertinent data to the server operator, which will be "
@@ -416,11 +397,11 @@ msgstr ""
 "server-really-serve.html\">A quem aquele servidor realmente serve, afinal?</"
 "a>"
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Primary And Secondary Injustices"
 msgstr "Injustiças Primária e Secundária"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "When you use proprietary programs or SaaSS, first of all you do wrong to "
 "yourself, because it gives some entity unjust power over you.  For your own "
@@ -435,7 +416,7 @@ msgstr ""
 "promessa, e um mal menor quebrá-la; para ser verdadeiramente correto, você "
 "não deve fazê-la."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "There are cases where using nonfree software puts pressure directly on "
 "others to do likewise.  Skype is a clear example: when one person uses the "
@@ -452,11 +433,11 @@ msgstr ""
 "programas.  Devemos nos recusar a usá-los, mesmo que brevemente, mesmo no "
 "computador de outra pessoa."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Another harm of using nonfree programs and SaaSS is that it rewards the "
 "perpetrator, encouraging further development of that program or &ldquo;"
-"service&rdquo;, leading in turn to even more people falling under the "
+"service,&rdquo; leading in turn to even more people falling under the "
 "company's thumb."
 msgstr ""
 "Outro dano proveniente do uso de programas não livres e SaaSS é que ele "
@@ -464,7 +445,7 @@ msgstr ""
 "“serviço”, que por sua vez leva ainda mais pessoas a caírem nas mãos da "
 "empresa."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "All the forms of indirect harm are magnified when the user is a public "
 "entity or a school."
@@ -472,11 +453,11 @@ msgstr ""
 "Todas as formas de dano indireto são ampliados quando o usuário é uma "
 "entidade pública ou uma escola."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Free Software and the State"
 msgstr "Software Livre e o Estado"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Public agencies exist for the people, not for themselves.  When they do "
 "computing, they do it for the people.  They have a duty to maintain full "
@@ -492,7 +473,7 @@ msgstr ""
 "do Estado).  Eles nunca devem permitir que o controle sobre a informática do "
 "Estado caia em mãos privadas."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "To maintain control of the people's computing, public agencies must not do "
 "it with proprietary software (software under the control of an entity other "
@@ -504,37 +485,37 @@ msgstr ""
 "não o Estado).  E eles não devem confiá-la a um serviço programado e "
 "executado por uma entidade que não o Estado, uma vez que isto seria SaaSS."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Proprietary software has no security at all in one crucial case &mdash; "
 "against its developer.  And the developer may help others attack.  <a href="
-"\"http://arstechnica.com/security/2013/06/nsa-gets-early-access-to-zero-day-"
-"data-from-microsoft-others/\"> Microsoft shows Windows bugs to the NSA</a> "
-"(the US government digital spying agency) before fixing them.  We do not "
-"know whether Apple does likewise, but it is under the same government "
-"pressure as Microsoft.  If the government of any other country uses such "
-"software, it endangers national security.  Do you want the NSA to break into "
-"your government's computers? See our <a href=\"/philosophy/government-free-"
-"software.html\">suggested policies for governments to promote free software</"
-"a>."
+"\"https://arstechnica.com/information-technology/2013/06/nsa-gets-early-"
+"access-to-zero-day-data-from-microsoft-others/\"> Microsoft shows Windows "
+"bugs to the NSA</a> (the US government digital spying agency) before fixing "
+"them.  We do not know whether Apple does likewise, but it is under the same "
+"government pressure as Microsoft.  If the government of any other country "
+"uses such software, it endangers national security.  Do you want the NSA to "
+"break into your government's computers? See our <a href=\"/philosophy/"
+"government-free-software.html\">suggested policies for governments to "
+"promote free software</a>."
 msgstr ""
 "O software privativo não tem segurança nenhuma em um caso crucial — contra "
 "seu desenvolvedor.  E o desenvolvedor pode ajudar outros a atacarem.  <a "
-"href=\"http://arstechnica.com/security/2013/06/nsa-gets-early-access-to-zero-"
-"day-data-from-microsoft-others/\">Microsoft mostra erros do Windows para a "
-"NSA</a> (A agência de espionagem digital do governo dos EUA) antes de "
-"corrigi-los.  Nós não sabemos se a Apple faz o mesmo, mas está sob a mesma "
-"pressão do governo que a Microsoft.  Se o governo de qualquer outro país usa "
-"esse software, isso põe em perigo a segurança nacional.  Você quer que a NSA "
-"invada os computadores do seu governo?  Veja nossas <a href=\"/philosophy/"
-"government-free-software.html\">políticas de governo sugeridas para promover "
-"o software livre</a>."
+"href=\"https://arstechnica.com/information-technology/2013/06/nsa-gets-early-"
+"access-to-zero-day-data-from-microsoft-others/\"> Microsoft mostra erros do "
+"Windows para a NSA</a> (A agência de espionagem digital do governo dos EUA) "
+"antes de corrigi-los.  Nós não sabemos se a Apple faz o mesmo, mas está sob "
+"a mesma pressão do governo que a Microsoft.  Se o governo de qualquer outro "
+"país usa esse software, isso põe em perigo a segurança nacional.  Você quer "
+"que a NSA invada os computadores do seu governo?  Veja nossas <a href=\"/"
+"philosophy/government-free-software.html\">políticas de governo sugeridas "
+"para promover o software livre</a>."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Free Software and Education"
 msgstr "Software Livre e Educação"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Schools (and this includes all educational activities) influence the future "
 "of society through what they teach.  They should teach exclusively free "
@@ -552,7 +533,7 @@ msgstr ""
 "livre, escolas irão direcionar o futuro da sociedade para a liberdade, e "
 "ajudar os programadores talentosos a dominar este ofício."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "They will also teach students the habit of cooperating, helping other "
 "people.  Each class should have this rule: &ldquo;Students, this class is a "
@@ -571,7 +552,7 @@ msgstr ""
 "software privativo para a sala de aula não é permitido, exceto para praticar "
 "engenharia reversa nele”."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Proprietary developers would have us punish students who are good enough at "
 "heart to share software and thwart those curious enough to want to change "
@@ -584,11 +565,11 @@ msgstr ""
 "ruim.  Veja mais discussão sobre <a href=\"/education/education.html\">o uso "
 "de software livre nas escolas</a>."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Free Software: More Than &ldquo;Advantages&rdquo;"
 msgstr "Software Livre: Mais do que “Vantagens”"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I'm often asked to describe the &ldquo;advantages&rdquo; of free software.  "
 "But the word &ldquo;advantages&rdquo; is too weak when it comes to freedom.  "
@@ -606,7 +587,7 @@ msgstr ""
 "informática que fazemos.  Esta é a coisa certa a se fazer, por razões "
 "egoístas; mas não apenas por razões egoístas."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Freedom includes the freedom to cooperate with others.  Denying people that "
 "freedom means keeping them divided, which is the start of a scheme to "
@@ -614,7 +595,7 @@ msgid ""
 "importance of the freedom to cooperate because our work consists of "
 "organized cooperation.  If your friend comes to visit and sees you use a "
 "program, she might ask for a copy.  A program which stops you from "
-"redistributing it, or says you're &ldquo;not supposed to&rdquo;, is "
+"redistributing it, or says you're &ldquo;not supposed to,&rdquo; is "
 "antisocial."
 msgstr ""
 "Liberdade inclui a liberdade de cooperar com os outros.  Negar às pessoas "
@@ -625,7 +606,7 @@ msgstr ""
 "programa, ele pode pedir uma cópia.  Um programa que te impede de "
 "redistribuí-lo, ou diz que você “não deveria fazê-lo”, é anti-social."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In computing, cooperation includes redistributing exact copies of a program "
 "to other users.  It also includes distributing your changed versions to "
@@ -647,18 +628,18 @@ msgstr ""
 "de um programa de outra pessoa, você não pode ver ou tocar o software que "
 "faz sua informática, então você não pode redistribuí-lo ou mudá-lo."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Conclusion"
 msgstr "Conclusão"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We deserve to have control of our own computing. How can we win this control?"
 msgstr ""
 "Merecemos ter o controle de nossa própria computação. Como podemos ganhar "
 "este controle?"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "By rejecting nonfree software on the computers we own or regularly use, and "
 "rejecting SaaSS."
@@ -666,7 +647,7 @@ msgstr ""
 "Rejeitando software não livre nos computadores que possuímos ou que usamos "
 "regularmente e rejeitar SaaSS."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "By <a href=\"/licenses/license-recommendations.html\"> developing free "
 "software</a> (for those of us who are programmers.)"
@@ -674,15 +655,15 @@ msgstr ""
 "<a href=\"/licenses/license-recommendations.html\"> Desenvolvendo software "
 "livre </a> (para aqueles de nós que são programadores)."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "By refusing to develop or promote nonfree software or SaaSS."
 msgstr "Recusando-se a desenvolver ou promover software não livre ou SaaSS."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "By <a href=\"/help/help.html\">spreading these ideas to others</a>."
 msgstr "<a href=\"/help/help.html\">Espalhando as ideias para outros</a>."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "By <a href=\"/philosophy/saying-no-even-once.html\">saying no and stating "
 "our reasons</a> when we are invited to run a nonfree program."
@@ -690,7 +671,7 @@ msgstr ""
 "<a href=\"/philosophy/saying-no-even-once.html\">Dizendo não e declarando "
 "nossos motivos</a> quando somos convidados a executar um programa não livre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We and thousands of users have done this since 1984, which is how we now "
 "have the free GNU/Linux operating system that anyone&mdash;programmer or "
@@ -701,6 +682,24 @@ msgstr ""
 "agora o sistema operacional livre GNU/Linux que qualquer um — programador ou "
 "não — pode usar.  Junte-se a nossa causa, como um programador ou um "
 "ativista.  Vamos fazer todos os usuários de computador livres."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"<a href=\"/help/help.html\">Suggested ways you can help the free software "
+"movement</a>"
+msgstr ""
+"<a href=\"/help/help.html\">Maneiras sugeridas para você ajudar o movimento "
+"do software livre</a>"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"A substantially edited version of this article was published in <a href="
+"\"https://www.wired.com/2013/09/why-free-software-is-more-important-now-than-"
+"ever-before/\"> <cite>Wired</cite></a>."
+msgstr ""
+"Uma versão substancialmente editada deste artigo foi publicada em <a href="
+"\"https://www.wired.com/2013/09/why-free-software-is-more-important-now-than-"
+"ever-before/\"> <cite>Wired</cite></a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -735,14 +734,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
@@ -750,12 +749,12 @@ msgstr ""
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas deste site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2015, 2017, 2018, 2019, 2020, 2021 Richard Stallman"
-msgstr "Copyright &copy; 2015, 2017, 2018, 2019, 2020, 2021 Richard Stallman"
+msgid "Copyright &copy; 2013-2015, 2017, 2021 Richard Stallman"
+msgstr "Copyright &copy; 2013-2015, 2017, 2021 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -771,9 +770,9 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduzido por: <a href=\"http://oitofelix.freeshell.org/\">Bruno Félix "
-"Rezende Ribeiro</a> <a href=\"mailto:oitofelix@gnu.org\">&lt;oitofelix@gnu."
-"org&gt;</a>, 2015;\n"
+"Traduzido por:\n"
+"<a href=\"http://oitofelix.freeshell.org/\">Bruno Félix Rezende Ribeiro</a> "
+"<a href=\"mailto:oitofelix@gnu.org\">&lt;oitofelix@gnu.org&gt;</a>, 2015;\n"
 "Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome."
 "org&gt;</a>, 2017-2021.<br/>\n"
 "Revisado por: André Phellip Ferreira <a href=\"mailto:werewolf@cyberdude.com"
@@ -783,6 +782,9 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid "by <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
+#~ msgstr "por <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
 
 #~ msgid ""
 #~ "We deserve to have control of our own computing; how can we win this "

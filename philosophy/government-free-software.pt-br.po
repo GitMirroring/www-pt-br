@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: government-free-software.html\n"
-"POT-Creation-Date: 2020-12-26 14:55+0000\n"
-"PO-Revision-Date: 2021-05-03 10:15-0300\n"
+"POT-Creation-Date: 2021-09-05 09:56+0000\n"
+"PO-Revision-Date: 2021-07-30 09:42-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -26,22 +26,19 @@ msgstr ""
 "Medidas que os governos podem usar para promover o software livre - Projeto "
 "GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Measures Governments Can Use to Promote Free Software"
 msgstr "Medidas que os governos podem usar para promover o software livre"
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "And why it is their duty to do so"
 msgstr "E porque é o trabalho deles fazê-lo"
 
-#. type: Content of: <p>
-msgid ""
-"by <a href=\"http://www.stallman.org/\"><strong>Richard Stallman</strong></a>"
-msgstr ""
-"por <a href=\"http://www.stallman.org/\"><strong>Richard Stallman</strong></"
-"a>"
+#. type: Content of: <div><address>
+msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
+msgstr "por <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "This article suggests policies for a strong and firm effort to promote free "
 "software within the state, and to lead the rest of the country towards "
@@ -51,12 +48,12 @@ msgstr ""
 "software livre no Estado e para liderar o resto do país em direção à "
 "liberdade de software."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The mission of the state is to organize society for the freedom and well-"
 "being of the people.  One aspect of this mission, in the computing field, is "
 "to encourage users to adopt free software: <a href=\"/philosophy/free-sw.html"
-"\">software that respects the users' freedom</a>.  A proprietary (non-free) "
+"\">software that respects the users' freedom</a>.  A proprietary (nonfree) "
 "program tramples the freedom of those that use it; it is a social problem "
 "that the state should work to eradicate."
 msgstr ""
@@ -67,7 +64,7 @@ msgstr ""
 "(não livre) atropela a liberdade daqueles que o usam; é um problema social "
 "que o Estado deve trabalhar para erradicar."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The state needs to insist on free software in its own computing for the sake "
 "of its computational sovereignty (the state's control over its own "
@@ -87,7 +84,7 @@ msgstr ""
 "Perder esse controle em uma agência, cuja missão é crítica, mina a segurança "
 "nacional."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Moving state agencies to free software can also provide secondary benefits, "
 "such as saving money and encouraging local software support businesses."
@@ -96,7 +93,7 @@ msgstr ""
 "benefícios secundários, como economizar dinheiro e incentivar as empresas "
 "locais de suporte a software."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In this text, &ldquo;state entities&rdquo; refers to all levels of "
 "government, and means public agencies including schools, public-private "
@@ -111,11 +108,11 @@ msgstr ""
 "e empresas “privadas” controladas pelo Estado ou estabelecidas com "
 "privilégios especiais ou funções pelo Estado."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Education"
 msgstr "Educação"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The most important policy concerns education, since that shapes the future "
 "of the country:"
@@ -123,11 +120,11 @@ msgstr ""
 "A política mais importante diz respeito à educação, pois isso molda o futuro "
 "do país:"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "<b>Teach only free software</b>"
 msgstr "<b>Ensinar apenas software livre</b>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "Educational activities, or at least those of state entities, must teach only "
 "free software (thus, they should never lead students to use a nonfree "
@@ -141,11 +138,11 @@ msgstr ""
 "software livre. Ensinar um programa não livre é ensinar dependência, o que é "
 "contrário à missão da escola."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "The State and the Public"
 msgstr "O Estado e o público"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Also crucial are state policies that influence what software individuals and "
 "organizations use:"
@@ -153,11 +150,11 @@ msgstr ""
 "Também cruciais são as políticas estatais que influenciam em qual softwares "
 "os indivíduos e as organizações usam:"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid "<b>Never require nonfree programs</b>"
 msgstr "<b>Nunca exigir programas não livres</b>"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Laws and public sector practices must be changed so that they never require "
 "or pressure individuals or organizations to use a nonfree program.  They "
@@ -173,11 +170,11 @@ msgstr ""
 "defectivebydesign.org/what_is_drm_digital_restrictions_management\">Gestão "
 "Digital de Restrições</a>)."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid "<b>Distribute only free software</b>"
 msgstr "<b>Distribuir apenas software livre</b>"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Whenever a state entity distributes software to the public, including "
 "programs included in or specified by its web pages, it must be distributed "
@@ -189,11 +186,11 @@ msgstr ""
 "ser distribuído como software livre e deve poder ser executado em uma "
 "plataforma que contenha software exclusivamente livre."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid "<b>State web sites</b>"
 msgstr "<b>Sites estatais</b>"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "State entity web sites and network services must be designed so that users "
 "can use them, without disadvantage, by means of free software exclusively."
@@ -202,11 +199,11 @@ msgstr ""
 "para que os usuários possam usá-los, sem desvantagens, por meio de software "
 "livre exclusivamente."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid "<b>Free formats and protocols</b>"
 msgstr "<b>Formatos e protocolos livres</b>"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "State entities must use only file formats and communication protocols that "
 "are well supported by free software, preferably with published "
@@ -224,7 +221,7 @@ msgstr ""
 "vídeo em formatos que exijam Flash ou codecs não livres, e as bibliotecas "
 "públicas devem não distribuir obras com Gestão Digital de Restrições."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "To support the policy of distributing publications and works in freedom-"
 "respecting formats, the state must insist that all reports developed for it "
@@ -234,11 +231,11 @@ msgstr ""
 "que respeitem a liberdade, o Estado deve insistir em que todos os relatórios "
 "desenvolvidos para ela sejam entregues em formatos que respeitem a liberdade."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid "<b>Untie computers from licenses</b>"
 msgstr "<b>Desprender computadores de licenças</b>"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Sale of computers must not require purchase of a proprietary software "
 "license.  The seller should be required by law to offer the purchaser the "
@@ -250,7 +247,7 @@ msgstr ""
 "opção de comprar o computador sem o software privativo e sem pagar a taxa de "
 "licença."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "The imposed payment is a secondary wrong, and should not distract us from "
 "the essential injustice of proprietary software, the loss of freedom which "
@@ -266,11 +263,11 @@ msgstr ""
 "prejudicial à liberdade dos usuários. É apropriado que o Estado impeça esse "
 "abuso."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Computational Sovereignty"
 msgstr "Soberania computacional"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Several policies affect the computational sovereignty of the state.  State "
 "entities must maintain control over their computing, not cede control to "
@@ -281,11 +278,11 @@ msgstr ""
 "controle a mãos privadas. Esses pontos se aplicam a todos os computadores, "
 "incluindo <i lang=\"en\">smartphones</i>."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid "<b>Migrate to free software</b>"
 msgstr "<b>Migrar para software livre</b>"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "State entities must migrate to free software, and must not install, or "
 "continue using, any nonfree software except under a temporary exception.  "
@@ -299,11 +296,11 @@ msgstr ""
 "essas exceções temporárias e somente quando mostradas razões convincentes. O "
 "objetivo desta agência deve ser reduzir o número de exceções para zero."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid "<b>Develop free IT solutions</b>"
 msgstr "<b>Desenvolver soluções de TI livres</b>"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "When a state entity pays for development of a computing solution, the "
 "contract must require it be delivered as free software, and that it be "
@@ -318,11 +315,11 @@ msgstr ""
 "se o desenvolvedor não cumprir esses requisitos, o trabalho não poderá ser "
 "pago."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid "<b>Choose computers for free software</b>"
 msgstr "<b>Escolher computadores para software livre</b>"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "When a state entity buys or leases computers, it must choose among the "
 "models that come closest, in their class, to being capable of running "
@@ -338,11 +335,11 @@ msgstr ""
 "critério. Os modelos disponíveis para o público e o Estado devem ser "
 "preferidos aos modelos disponíveis apenas para o Estado."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid "<b>Negotiate with manufacturers</b>"
 msgstr "<b>Negociar com fabricantes</b>"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "The state should negotiate actively with manufacturers to bring about the "
 "availability in the market (to the state and the public) of suitable "
@@ -354,11 +351,11 @@ msgstr ""
 "hardware adequados, em todas as áreas de produtos pertinentes, que não "
 "exijam software privativo."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid "<b>Unite with other states</b>"
 msgstr "<b>Unir-se a outros entes estatais</b>"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "The state should invite other states to negotiate collectively with "
 "manufacturers about suitable hardware products.  Together they will have "
@@ -368,11 +365,11 @@ msgstr ""
 "com os fabricantes sobre produtos de hardware adequados. Juntos, eles terão "
 "mais influência."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Computational Sovereignty II"
 msgstr "Soberania computacional II"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The computational sovereignty (and security) of the state includes control "
 "over the computers that do the state's work.  This requires avoiding <a href="
@@ -388,11 +385,11 @@ msgstr ""
 "estatal sob o mesmo ramo de governo, bem como outras práticas que diminuem o "
 "controle estatal sobre sua computação. Portanto,"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "<b>State must control its computers</b>"
 msgstr "<b>O Estado deve controlar seus computadores</b>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "Every computer that the state uses must belong to or be leased by the same "
 "branch of government that uses it, and that branch must not cede to "
@@ -409,20 +406,20 @@ msgstr ""
 "nele. Se o computador não for portátil, durante o uso, ele deverá estar em "
 "um espaço físico no qual o Estado é o ocupante (como dono ou como inquilino)."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Influence Development"
 msgstr "Influência sobre desenvolvimento"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "State policy affects free and nonfree software development:"
 msgstr ""
 "A política do Estado afeta o desenvolvimento de software livre e não livre:"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid "<b>Encourage free</b>"
 msgstr "<b>Encorajar livre</b>"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "The state should encourage developers to create or enhance free software and "
 "make it available to the public, e.g. by tax breaks and other financial "
@@ -435,11 +432,11 @@ msgstr ""
 "ser concedidos para o desenvolvimento, distribuição ou uso de software não "
 "livre."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid "<b>Don't encourage nonfree</b>"
 msgstr "<b>Não encorajar não livre</b>"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "In particular, proprietary software developers should not be able to &ldquo;"
 "donate&rdquo; copies to schools and claim a tax write-off for the nominal "
@@ -449,19 +446,19 @@ msgstr ""
 "“doar” cópias para as escolas e reivindicar uma baixa de imposto pelo valor "
 "nominal do software. O software privativo não é legítimo em uma escola."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "E-waste"
 msgstr "Lixo eletrônico"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "Freedom should not imply e-waste:"
 msgstr "A liberdade não deve implicar lixo eletrônico:"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid "<b>Replaceable software</b>"
 msgstr "<b>Software substituível</b>"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Many modern computers are designed to make it impossible to replace their "
 "preloaded software with free software.  Thus, the only way to free them is "
@@ -471,7 +468,7 @@ msgstr ""
 "substituir o software de fábrica por software livre. Assim, a única maneira "
 "de libertá-los é descartá-los. Essa prática é prejudicial à sociedade."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Therefore, it should be illegal, or at least substantially discouraged "
 "through heavy taxation, to sell, import or distribute in quantity a new "
@@ -494,11 +491,11 @@ msgstr ""
 "necessário para instalar um sistema operacional diferente ou no qual as "
 "interfaces para alguns periféricos são secretos."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Technological neutrality"
 msgstr "Neutralidade tecnológica"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "With the measures in this article, the state can recover control over its "
 "computing, and lead the country's citizens, businesses and organizations "
@@ -511,7 +508,7 @@ msgstr ""
 "sua computação. No entanto, alguns contestam com o argumento de que isso "
 "violaria o “princípio” da neutralidade tecnológica."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The idea of technological neutrality is that the state should not impose "
 "arbitrary preferences on technical choices.  Whether that is a valid "
@@ -568,14 +565,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
@@ -583,15 +580,15 @@ msgstr ""
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas deste site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2011, 2015, 2016, 2017, 2018, 2020 Free Software "
+"Copyright &copy; Copyright &copy; 2011-2014, 2016, 2017 Free Software "
 "Foundation, Inc."
 msgstr ""
-"Copyright &copy; 2011, 2015, 2016, 2017, 2018, 2020 Free Software "
+"Copyright &copy; Copyright &copy; 2011-2014, 2016, 2017 Free Software "
 "Foundation, Inc."
 
 #. type: Content of: <div><p>
@@ -609,12 +606,33 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
-"rafaelff@gnome.org&gt;</a>, 2019, 2020."
+"rafaelff@gnome.org&gt;</a>, 2019-2021."
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid ""
+#~ "Copyright &copy; Copyright &copy; 2011-2014, 2016, 2017, 2021 Free "
+#~ "Software Foundation, Inc."
+#~ msgstr ""
+#~ "Copyright &copy; Copyright &copy; 2011-2014, 2016, 2017, 2021 Free "
+#~ "Software Foundation, Inc."
+
+#~ msgid ""
+#~ "Copyright &copy; 2011, 2015, 2016, 2017, 2018, 2020 Free Software "
+#~ "Foundation, Inc."
+#~ msgstr ""
+#~ "Copyright &copy; 2011, 2015, 2016, 2017, 2018, 2020 Free Software "
+#~ "Foundation, Inc."
+
+#~ msgid ""
+#~ "Copyright &copy; 2011, 2015, 2016, 2017, 2018, 2020, 2021 Free Software "
+#~ "Foundation, Inc."
+#~ msgstr ""
+#~ "Copyright &copy; 2011, 2015, 2016, 2017, 2018, 2020, 2021 Free Software "
+#~ "Foundation, Inc."
 
 #~ msgid ""
 #~ "Copyright &copy; 2011, 2015, 2016, 2017, 2018 Free Software Foundation, "

@@ -2,11 +2,12 @@
 # Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Rafael Fontenelle <rafaelff@gnome.org>, 2018-2021.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: bug-nobody-allowed-to-understand.html\n"
-"POT-Creation-Date: 2015-10-16 13:25+0000\n"
-"PO-Revision-Date: 2021-05-03 10:15-0300\n"
+"POT-Creation-Date: 2021-09-02 08:56+0000\n"
+"PO-Revision-Date: 2021-09-05 12:55-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -24,15 +25,15 @@ msgstr ""
 "O erro que ninguém tem permissão para entender - Projeto GNU - Free Software "
 "Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "The Bug Nobody is Allowed to Understand"
 msgstr "O erro que ninguém tem permissão para entender"
 
-#. type: Content of: <p>
-msgid "by <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
-msgstr "por <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
+#. type: Content of: <div><address>
+msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
+msgstr "por <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In the 1980s, proprietary software users discovered the problem of <em>the "
 "bug that nobody is allowed to understand</em>. When a problem occurs in the "
@@ -48,15 +49,15 @@ msgstr ""
 "todos os programas pertinentes. Como resultado, nenhum deles pode entender a "
 "má interação entre eles e o erro nunca é corrigido, exceto por acidente."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"According to <a href=\"http://www.guardian.co.uk/commentisfree/joris-"
+"According to <a href=\"https://www.guardian.co.uk/commentisfree/joris-"
 "luyendijk-banking-blog/2012/may/30/former-it-salesman-voices-of-finance\"> "
 "this article</a>, a similar problem now occurs between multiple instances of "
 "<a href=\"/philosophy/who-does-that-server-really-serve.html\">Service as a "
 "Software Substitute</a>."
 msgstr ""
-"De acordo com <a href=\"http://www.guardian.co.uk/commentisfree/joris-"
+"De acordo com <a href=\"https://www.guardian.co.uk/commentisfree/joris-"
 "luyendijk-banking-blog/2012/may/30/former-it-salesman-voices-of-finance\"> "
 "esse artigo</a>, um problema similar agora ocorre entre múltiplas instâncias "
 "de <a href=\"/philosophy/who-does-that-server-really-serve.html\">Serviço "
@@ -88,14 +89,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
@@ -103,12 +104,12 @@ msgstr ""
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas deste site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2014, 2015 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2014, 2015 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2012, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2012, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -131,3 +132,9 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid "by <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
+#~ msgstr "por <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
+
+#~ msgid "Copyright &copy; 2014, 2015, 2021 Free Software Foundation, Inc."
+#~ msgstr "Copyright &copy; 2014, 2015, 2021 Free Software Foundation, Inc."

@@ -6,10 +6,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: latest-articles.html\n"
-"POT-Creation-Date: 2021-06-02 14:25+0000\n"
-"PO-Revision-Date: 2021-06-03 14:58-0300\n"
+"POT-Creation-Date: 2021-08-18 15:55+0000\n"
+"PO-Revision-Date: 2021-09-05 19:41-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
-"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language-Team: Brazilian Portuguese <gnome-pt_br-list@gnome.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -32,6 +32,13 @@ msgid ""
 msgstr ""
 "Aqui estão os artigos publicados mais recentemente sobre software livre e o "
 "projeto GNU."
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/wwworst-app-store.html\">The WWWorst app store</a>"
+msgstr ""
+"<a href=\"/philosophy/wwworst-app-store.html\">Uma loja de aplicativos da "
+"pior espécie</a>"
 
 #. type: Content of: <div><ul><li>
 msgid ""
@@ -141,30 +148,6 @@ msgstr ""
 "<a href=\"/philosophy/applying-free-sw-criteria.html\"> Aplicando os "
 "critérios de software livre</a>"
 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/komongistan.html\">The Curious History of Komongistan "
-"(Busting the term &ldquo;intellectual property&rdquo;)</a>"
-msgstr ""
-"<a href=\"/philosophy/komongistan.html\">A curiosa história de Comongistão "
-"(Detonando o termo “propriedade intelectual”)</a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/free-hardware-designs.html\"> Free Hardware and Free "
-"Hardware Designs</a>"
-msgstr ""
-"<a href=\"/philosophy/free-hardware-designs.html\"> Hardware livre e "
-"projetos de hardware livre</a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/loyal-computers.html\"> What Does It Mean for Your "
-"Computer to Be Loyal?</a>"
-msgstr ""
-"<a href=\"/philosophy/loyal-computers.html\"> O que significa para você que "
-"seu computador seja leal?</a>"
-
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
@@ -234,6 +217,27 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid ""
+#~ "<a href=\"/philosophy/komongistan.html\">The Curious History of "
+#~ "Komongistan (Busting the term &ldquo;intellectual property&rdquo;)</a>"
+#~ msgstr ""
+#~ "<a href=\"/philosophy/komongistan.html\">A curiosa história de "
+#~ "Comongistão (Detonando o termo “propriedade intelectual”)</a>"
+
+#~ msgid ""
+#~ "<a href=\"/philosophy/free-hardware-designs.html\"> Free Hardware and "
+#~ "Free Hardware Designs</a>"
+#~ msgstr ""
+#~ "<a href=\"/philosophy/free-hardware-designs.html\"> Hardware livre e "
+#~ "projetos de hardware livre</a>"
+
+#~ msgid ""
+#~ "<a href=\"/philosophy/loyal-computers.html\"> What Does It Mean for Your "
+#~ "Computer to Be Loyal?</a>"
+#~ msgstr ""
+#~ "<a href=\"/philosophy/loyal-computers.html\"> O que significa para você "
+#~ "que seu computador seja leal?</a>"
 
 #~ msgid ""
 #~ "Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, "

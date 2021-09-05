@@ -7,14 +7,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: software.html\n"
-"POT-Creation-Date: 2021-05-02 16:25+0000\n"
-"PO-Revision-Date: 2021-05-03 10:15-0300\n"
+"POT-Creation-Date: 2021-08-21 17:25+0000\n"
+"PO-Revision-Date: 2021-09-05 12:47-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Outdated-Since: 2021-08-21 17:25+0000\n"
 "Plural-Forms: nplurals=2; plural=(n > 1)\n"
 "X-Generator: Gtranslator 40.0\n"
 
@@ -313,8 +314,8 @@ msgstr ""
 "\">recursos de desenvolvedor de software GNU</a>."
 
 #. type: Content of: <h3>
-msgid "<a id=\"allgnupkgs\">All GNU packages</a>"
-msgstr "<a id=\"allgnupkgs\">Todos os pacotes GNU</a>"
+msgid "All GNU packages"
+msgstr "Todos os pacotes do GNU"
 
 #. type: Content of: <p>
 msgid ""
@@ -451,6 +452,9 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid "<a id=\"allgnupkgs\">All GNU packages</a>"
+#~ msgstr "<a id=\"allgnupkgs\">Todos os pacotes GNU</a>"
 
 #, fuzzy
 #~| msgid ""

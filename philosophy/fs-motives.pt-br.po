@@ -1,24 +1,25 @@
 # Brazilian Portuguese translation of http://www.gnu.org/philosophy/fs-motives.html
-# Copyright (C) 2017 Free Software Foundation, Inc.
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnu.org article.
 # Rafael Beraldo <rberaldo@cabaladada.org>, 2012.
 # André Jan Smit <ajansmit@gmail.com>, 2012.
 # Hudson Flávio Meneses Lacerda <hfmlacerda@yahoo.com.br>, 2013.
 # Dec 2014: trivial update of a few strings (T. Godefroy).
-# Rafael Fontenelle <rafaelff@gnome.org>, 2017.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017-2021.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: fs-motives.html\n"
-"POT-Creation-Date: 2014-06-24 12:55+0000\n"
-"PO-Revision-Date: 2017-05-20 16:20-0300\n"
+"POT-Creation-Date: 2021-09-05 08:26+0000\n"
+"PO-Revision-Date: 2021-07-29 16:35-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 1.0.0-beta1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -26,11 +27,11 @@ msgid ""
 msgstr ""
 "Motivos para Escrever Software Livre - Projeto GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Motives For Writing Free Software"
 msgstr "Motivos para Escrever Software Livre"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Don't make the mistake of supposing that all software development has one "
 "simple motive.  Here are some of the motives we know influence many people "
@@ -40,11 +41,11 @@ msgstr ""
 "único motivo. Aqui estão alguns motivos que nós sabemos que influenciam "
 "muitas pessoas a escrever software livre."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "Fun"
 msgstr "Diversão"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "For some people, often the best programmers, writing software is the "
 "greatest fun, especially when there is no boss to tell you what to do."
@@ -53,17 +54,17 @@ msgstr ""
 "software livre é a melhor forma de diversão, especialmente quando não existe "
 "nenhum chefe para lhe dizer o que fazer."
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid "Nearly all free software developers share this motive."
 msgstr ""
 "Praticamente todos os desenvolvedores de software livre compartilham esse "
 "motivo."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "Political idealism"
 msgstr "Idealismo político"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "The desire to build a world of freedom, and help computer users escape from "
 "the power of software developers."
@@ -71,11 +72,11 @@ msgstr ""
 "O desejo de construir um mundo de liberdade e ajudar aos usuários de "
 "computador a escapar do poder dos desenvolvedores de software."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "To be admired"
 msgstr "Ser admirado"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "If you write a successful, useful free program, the users will admire you.  "
 "That feels very good."
@@ -83,11 +84,11 @@ msgstr ""
 "Se você escrever um programa bem-sucedido e útil, os usuários irão te "
 "admirar. E isso é muito agradável."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "Professional reputation"
 msgstr "Reputação profissional"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "If you write a successful, useful free program, that will suffice to show "
 "you are a good programmer."
@@ -95,11 +96,11 @@ msgstr ""
 "Se você escrever um programa livre bem-sucedido e útil, será o suficiente "
 "para mostrar que você é um bom programador."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "Community"
 msgstr "Comunidade"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "Being part of a community by collaborating with other people in public free "
 "software projects is a motive for many programmers."
@@ -107,11 +108,11 @@ msgstr ""
 "Ser parte de uma comunidade colaborando com outras pessoas em projetos "
 "públicos de software livre é um motivo por muitos programadores."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "Education"
 msgstr "Educação"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "If you write free software, it is often an opportunity to dramatically "
 "improve both your technical and social skills; if you are a teacher, "
@@ -125,11 +126,11 @@ msgstr ""
 "software livre existentes ou organize um novo projeto. Isso provê uma "
 "excelente oportunidade para eles."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "Gratitude"
 msgstr "Gratidão"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "If you have used the community's free programs for years, and it has been "
 "important to your work, you feel grateful and indebted to their developers.  "
@@ -141,17 +142,17 @@ msgstr ""
 "os desenvolvedores. Quando você escreve um programa que pode ser útil para "
 "muitas pessoas, é sua chance de passar adiante o favor."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "Hatred for Microsoft"
 msgstr "Ódio pela Microsoft"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "It is a mistake <a href=\"/philosophy/microsoft.html\">to focus our "
 "criticism narrowly on Microsoft</a>.  Indeed, Microsoft is evil, since it "
 "makes nonfree software.  Even worse, it is often <a href=\"/philosophy/"
 "proprietary/malware-microsoft.html\"> malware</a> in various ways including "
-"<a href=\"http://DefectiveByDesign.org\">DRM</a>.  However, many other "
+"<a href=\"https://DefectiveByDesign.org\">DRM</a>.  However, many other "
 "companies do these things, and the nastiest enemy of our freedom nowadays is "
 "<a href=\"/philosophy/proprietary/malware-apple.html\">Apple</a>."
 msgstr ""
@@ -159,12 +160,12 @@ msgstr ""
 "estreitamente na Microsoft</a>. Certamente a Microsoft é maligna, uma vez "
 "que ela cria software não livre. Ainda pior, geralmente <a href=\"/"
 "philosophy/proprietary/malware-microsoft.html\"> malware</a> em várias "
-"formas incluindo <a href=\"http://DefectiveByDesign.org\">DRM</a>. Mas "
+"formas incluindo <a href=\"https://DefectiveByDesign.org\">DRM</a>. Mas "
 "muitas outras companhias fazem essas coisas, e o inimigo mais malvado de "
 "nossa liberdade nos dias de hoje é a <a href=\"/philosophy/proprietary/"
 "malware-apple.html\">Apple</a>."
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "Nonetheless, it is a fact that many people utterly despise Microsoft, and "
 "some contribute to free software based on that feeling."
@@ -172,11 +173,11 @@ msgstr ""
 "Todavia, é fato que muitas pessoas desprezam completamente a Microsoft e "
 "alguns podem contribuir para o software livre baseados nesse sentimento."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "Money"
 msgstr "Dinheiro"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "A considerable number of people are paid to develop free software or have "
 "built businesses around it."
@@ -184,11 +185,11 @@ msgstr ""
 "Um número considerável de pessoas são pagas para desenvolver software livre "
 "ou construíram negócios ao redor dele."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "Wanting a better program to use"
 msgstr "Querer um programa melhor para usar"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "People often work on improvements in programs they use, in order to make "
 "them more convenient.  (Some commentators recognize no motive other than "
@@ -199,7 +200,7 @@ msgstr ""
 "reconhecem nenhum motivo além desse, mas sua imagem da natureza humana é "
 "muito estreita.)"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Human nature is complex, and it is quite common for a person to have "
 "multiple simultaneous motives for a single action."
@@ -207,7 +208,7 @@ msgstr ""
 "A natureza humana é muito complexa e é muito comum que uma pessoa tenha "
 "múltiplos motivos simultâneos para uma mesma ação."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Each person is different, and there could be other motives that are missing "
 "from this list.  If you know of other motives not listed here, please send "
@@ -247,14 +248,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
@@ -262,22 +263,22 @@ msgstr ""
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas deste site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2009 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2009 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2009, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2009, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
-"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
@@ -287,12 +288,15 @@ msgstr ""
 "<a href=\"mailto:rberaldo@cabaladada.org\">&lt;rberaldo@cabaladada.org&gt;</"
 "a>, 2012;\n"
 "Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome."
-"org&gt;</a>, 2017"
+"org&gt;</a>, 2017-2021"
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid "Copyright &copy; 2009 Free Software Foundation, Inc."
+#~ msgstr "Copyright &copy; 2009 Free Software Foundation, Inc."
 
 #~ msgid "These are some of the motives for writing free software."
 #~ msgstr "Esses são alguns motivos para escrever software livre."

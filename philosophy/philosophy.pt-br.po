@@ -15,10 +15,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: philosophy.html\n"
-"POT-Creation-Date: 2021-06-02 15:25+0000\n"
-"PO-Revision-Date: 2021-06-03 15:03-0300\n"
+"POT-Creation-Date: 2021-08-19 14:56+0000\n"
+"PO-Revision-Date: 2021-09-05 19:45-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
-"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language-Team: Brazilian Portuguese <gnome-pt_br-list@gnome.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -74,20 +74,12 @@ msgstr ""
 msgid "For further reading, please select a section from the menu above."
 msgstr "Para demais leituras, por favor selecione uma seção no menu acima."
 
-#. type: Content of: <div><div><div><p>
-msgid ""
-"We also maintain a list of <a href=\"/philosophy/latest-articles.html\">most "
-"recently added articles</a>."
-msgstr ""
-"Nós também mantemos uma lista dos <a href=\"/philosophy/latest-articles.html"
-"\">artigos mais recentes</a>."
-
 #. type: Content of: <div><div><p>
 msgid ""
-"See <a href=\"http://audio-video.gnu.org/\">audio-video.gnu.org</a> for "
+"See <a href=\"//audio-video.gnu.org/\">audio-video.gnu.org</a> for "
 "recordings of Richard Stallman's speeches."
 msgstr ""
-"Acesse <a href=\"http://audio-video.gnu.org/\">audio-video.gnu.org</a> para "
+"Consulte <a href=\"//audio-video.gnu.org/\">audio-video.gnu.org</a> para "
 "gravações de discursos do Richard Stallman."
 
 #. type: Content of: <h3>
@@ -267,6 +259,13 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid ""
+#~ "We also maintain a list of <a href=\"/philosophy/latest-articles.html"
+#~ "\">most recently added articles</a>."
+#~ msgstr ""
+#~ "Nós também mantemos uma lista dos <a href=\"/philosophy/latest-articles."
+#~ "html\">artigos mais recentes</a>."
 
 #~ msgid ""
 #~ "Copyright &copy; 2013, 2015, 2016, 2017, 2018, 2021 Free Software "

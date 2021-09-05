@@ -1,20 +1,23 @@
 # Brazilian Portuguese translation of http://www.gnu.org/philosophy/drdobbs-letter.html
-# Copyright (C) 2018 Free Software Foundation, Inc.
+# Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Fernando Lozano, 2001.
 # Jan 2014: GNUNify; licensa > licença (T. Godefroy).
+# Rafael Fontenelle <rafaelff@gnome.org>, 2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: drdobbs-letter.html\n"
-"POT-Creation-Date: 2014-04-05 00:02+0000\n"
-"PO-Revision-Date: 2015-01-20 21:20+0100\n"
-"Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
+"POT-Creation-Date: 2021-09-02 17:25+0000\n"
+"PO-Revision-Date: 2021-09-05 12:57-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -24,15 +27,15 @@ msgstr ""
 "Carta ao Editor do Dr. Dobb's Journal - Projeto GNU - Free Software "
 "Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Letter to the Editor of Dr. Dobb's Journal"
 msgstr "Carta ao Editor do Dr. Dobb's Journal"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "Dear Editor,"
 msgstr "Querido editor,"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I am sure you don't realize how ironic it is to associate me and Tim "
 "O'Reilly with &ldquo;open source&rdquo;."
@@ -40,7 +43,7 @@ msgstr ""
 "Eu tenho certeza de que você não compreende o como é irônico associar a mim "
 "e a Tim O'Reilly com “software aberto”."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If the House Un-American Activities Committee asked me, &ldquo;Are you now "
 "or have you ever been a supporter of the open source movement,&rdquo; I "
@@ -55,7 +58,7 @@ msgstr ""
 "pelo <em>software livre</em>, pela liberdade. (Veja o Manifesto GNU, Dr. "
 "Dobbs Journal, Setembro de 1985.) "
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Free software means, roughly, that you are free to study what it does, free "
 "to change it, free to redistribute it, and free to publish improved "
@@ -75,7 +78,7 @@ msgstr ""
 "forte da Microsoft</a>, para defender estas liberdades para todos os "
 "usuários, no espírito do movimento pelo software livre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Years later, in 1998, another group began operating under the term &ldquo;"
 "open source&rdquo;.  They have contributed to the free software community in "
@@ -91,7 +94,7 @@ msgstr ""
 "pelo software livre; eles citam apenas benefícios práticos de curto prazo "
 "como as rasões pelas quais eles fazem o seu movimento."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Their stated definition for the term &ldquo;open source&rdquo; is somewhat "
 "broader than free software, and thus includes my work.  But describing the "
@@ -107,7 +110,7 @@ msgstr ""
 "software livre; ela não vem do movimento pelo software aberto. Eu não sou um "
 "membro do movimento pelo software aberto, e nunca fui."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Tim O'Reilly, by contrast, is a pillar of the open source movement, at least "
 "to hear him tell it.  However, if you look at actions rather than words, "
@@ -125,7 +128,7 @@ msgstr ""
 "\"House Un-American Activities Committee\">HUAC</abbr> — “Sim, eu falei "
 "sobre software aberto, mas eu na verdade não fiz muito na prática”."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If O'Reilly moves to selling free-as-in-freedom books in the future, he "
 "could become a true supporter of the free software movement, or at least the "
@@ -140,7 +143,7 @@ msgstr ""
 "contribuição para a comunidade do software livre, e nós torcemos para mais "
 "do mesmo.]"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "With the recent founding of FSF-Europe, and the coming inauguration of FSF-"
 "India, the free software movement is going stronger than ever.  Please don't "
@@ -150,17 +153,25 @@ msgstr ""
 "o movimento pelo software livre está se tornando mais forte do que nunca. "
 "Por favor não nos confunda com outros movimentos em nossa comunidade."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "Sincerely,"
 msgstr "Sinceramente, "
 
-#. type: Content of: <p>
-msgid ""
-"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Richard Stallman President, Free Software "
-"Foundation"
-msgstr ""
-"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Richard Stallman, Presidente, Fundação para o "
-"Software Livre"
+#. type: Content of: <div><address>
+msgid "&mdash;"
+msgstr "&mdash;"
+
+#. type: Content of: <div><address>
+msgid "Richard Stallman"
+msgstr "Richard Stallman"
+
+#. type: Content of: <div><address>
+msgid "President,"
+msgstr "Presidente,"
+
+#. type: Content of: <div><address>
+msgid "Free Software Foundation"
+msgstr "Free Software Foundation"
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -188,14 +199,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
@@ -203,22 +214,22 @@ msgstr ""
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas deste site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2000, 2007, 2014 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2000, 2007, 2014 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2000, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2000, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
-"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
@@ -231,3 +242,15 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid ""
+#~ "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Richard Stallman President, Free Software "
+#~ "Foundation"
+#~ msgstr ""
+#~ "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Richard Stallman, Presidente, Fundação para "
+#~ "o Software Livre"
+
+#~ msgid ""
+#~ "Copyright &copy; 2000, 2007, 2014, 2021 Free Software Foundation, Inc."
+#~ msgstr ""
+#~ "Copyright &copy; 2000, 2007, 2014, 2021 Free Software Foundation, Inc."

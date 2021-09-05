@@ -10,14 +10,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: why-free.html\n"
-"POT-Creation-Date: 2020-07-01 15:26+0000\n"
-"PO-Revision-Date: 2021-05-03 10:15-0300\n"
+"POT-Creation-Date: 2021-08-28 13:56+0000\n"
+"PO-Revision-Date: 2021-09-05 08:42-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Outdated-Since: 2021-08-28 13:56+0000\n"
 "Plural-Forms: nplurals=2; plural=(n > 1)\n"
 "X-Generator: Gtranslator 40.0\n"
 
@@ -36,18 +37,15 @@ msgstr ""
 "GNU, Projeto GNU, FSF, Software Livre, Free Software Foundation, Por que o "
 "software não deve ter donos"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Why Software Should Not Have Owners"
 msgstr "Por Que o Software Não Deve Ter Donos"
 
-#. type: Content of: <p>
-msgid ""
-"by <a href=\"http://www.stallman.org/\"><strong>Richard Stallman</strong></a>"
-msgstr ""
-"por <a href=\"http://www.stallman.org/\"><strong>Richard Stallman</strong></"
-"a>"
+#. type: Content of: <div><address>
+msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
+msgstr "por <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Digital information technology contributes to the world by making it easier "
 "to copy and modify information.  Computers promise to make this easier for "
@@ -57,10 +55,10 @@ msgstr ""
 "fácil copiar e modificar informação. Os computadores prometem facilitar "
 "essas coisas para todos nós."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Not everyone wants it to be easier.  The system of copyright gives software "
-"programs &ldquo;owners&rdquo;, most of whom aim to withhold software's "
+"programs &ldquo;owners,&rdquo; most of whom aim to withhold software's "
 "potential benefit from the rest of the public.  They would like to be the "
 "only ones who can copy and modify the software that we use."
 msgstr ""
@@ -69,7 +67,7 @@ msgstr ""
 "potenciais do software do resto do público. Eles gostariam de ser os únicos "
 "que podem copiar e modificar o software que usamos."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The copyright system grew up with printing&mdash;a technology for mass-"
 "production copying.  Copyright fit in well with this technology because it "
@@ -85,7 +83,7 @@ msgstr ""
 "possuísse uma máquina impressora, poderia copiar livros apenas com caneta e "
 "tinta, e poucos leitores foram processados por isso."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Digital technology is more flexible than the printing press: when "
 "information has digital form, you can easily copy it to share it with "
@@ -101,7 +99,7 @@ msgstr ""
 "prática para aplicar os direitos autorais de software. Consideremos essas "
 "quatro práticas da Software Publishers Association (SPA):"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "Massive propaganda saying it is wrong to disobey the owners to help your "
 "friend."
@@ -109,14 +107,14 @@ msgstr ""
 "Propaganda massiva dizendo que é errado desobedecer aos donos para ajudar um "
 "amigo."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "Solicitation for stool pigeons to inform on their coworkers and colleagues."
 msgstr ""
 "Solicitação aos dedos-duros que deem informações sobre seus colegas de "
 "trabalho e amigos."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "Raids (with police help) on offices and schools, in which people are told "
 "they must prove they are innocent of illegal copying."
@@ -124,7 +122,7 @@ msgstr ""
 "Batidas (com ajuda policial) em escritórios e escolas, nas quais dizem às "
 "pessoas que elas precisam provar que são inocentes de cópia ilegal."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "Prosecution (by the US government, at the SPA's request) of people such as "
 "<abbr title=\"Massachusetts Institute of Technology\">MIT</abbr>'s David "
@@ -138,7 +136,7 @@ msgstr ""
 "simplesmente por deixar recursos de cópia desprotegidos e falhar em censurar "
 "seu uso. <a href=\"#footnote1\">[1]</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "All four practices resemble those used in the former Soviet Union, where "
 "every copying machine had a guard to prevent forbidden copying, and where "
@@ -158,7 +156,7 @@ msgstr ""
 "Qualquer tentativa de bloquear o compartilhamento de informações, não "
 "importa qual, leva aos mesmos métodos e à mesma truculência."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Owners make several kinds of arguments for giving them the power to control "
 "how we use information:"
@@ -166,15 +164,15 @@ msgstr ""
 "Donos têm vários argumentos para justificar o poder de controlar o modo como "
 "usamos a informação:"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "Name calling."
 msgstr "Insultos."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"Owners use smear words such as &ldquo;piracy&rdquo; and &ldquo;theft&rdquo;, "
+"Owners use smear words such as &ldquo;piracy&rdquo; and &ldquo;theft,&rdquo; "
 "as well as expert terminology such as &ldquo;intellectual property&rdquo; "
-"and &ldquo;damage&rdquo;, to suggest a certain line of thinking to the "
+"and &ldquo;damage,&rdquo; to suggest a certain line of thinking to the "
 "public&mdash;a simplistic analogy between programs and physical objects."
 msgstr ""
 "Os donos usam palavras caluniosas como “pirataria” e “roubo”, bem como "
@@ -182,7 +180,7 @@ msgstr ""
 "sugerir uma certa linha de raciocínio para o público &mdash; uma analogia "
 "simplista entre programas e objetos físicos."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Our ideas and intuitions about property for material objects are about "
 "whether it is right to <em>take an object away</em> from someone else.  They "
@@ -194,11 +192,11 @@ msgstr ""
 "diretamente a <em>fazer uma cópia</em> de algo. Mas os donos nos pedem que "
 "as apliquemos de qualquer maneira."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "Exaggeration."
 msgstr "Exagero."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Owners say that they suffer &ldquo;harm&rdquo; or &ldquo;economic "
 "loss&rdquo; when users copy programs themselves.  But the copying has no "
@@ -211,7 +209,7 @@ msgstr ""
 "prejudica a ninguém. O dono pode perder apenas se a pessoa que fez a cópia "
 "teria, em outras circunstâncias, pago por uma do dono."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "A little thought shows that most such people would not have bought copies.  "
 "Yet the owners compute their &ldquo;losses&rdquo; as if each and every one "
@@ -221,11 +219,11 @@ msgstr ""
 "cópias. No entanto, os donos computam suas “perdas” como se todos e cada um "
 "deles teria comprado uma cópia. Isso é exagero &mdash; colocado gentilmente."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "The law."
 msgstr "A lei."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Owners often describe the current state of the law, and the harsh penalties "
 "they can threaten us with.  Implicit in this approach is the suggestion that "
@@ -239,7 +237,7 @@ msgstr ""
 "ao mesmo tempo, somos levados a enxergar essas penas como fatos da natureza "
 "dos quais ninguém é culpado."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "This line of persuasion isn't designed to stand up to critical thinking; "
 "it's intended to reinforce a habitual mental pathway."
@@ -247,7 +245,7 @@ msgstr ""
 "Essa linha de persuasão não é projetada para resistir ao pensamento crítico; "
 "é projetada para reforçar um modo habitual de pensar."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "It's elementary that laws don't decide right and wrong.  Every American "
 "should know that, in the 1950s, it was against the law in many states for a "
@@ -259,11 +257,11 @@ msgstr ""
 "pessoa negra sentar na frente de um ônibus, mas apenas os racistas diriam "
 "que sentar lá era errado."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "Natural rights."
 msgstr "Direitos naturais."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Authors often claim a special connection with programs they have written, "
 "and go on to assert that, as a result, their desires and interests "
@@ -279,7 +277,7 @@ msgstr ""
 "autores, têm os direitos autorais sobre software, mas espera-se que "
 "ignoremos essa discrepância.)"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "To those who propose this as an ethical axiom&mdash;the author is more "
 "important than you&mdash;I can only say that I, a notable software author "
@@ -289,7 +287,7 @@ msgstr ""
 "importante que você &mdash; só posso dizer que eu, um notável autor de "
 "software, chamo isso de sem noção."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "But people in general are only likely to feel any sympathy with the natural "
 "rights claims for two reasons."
@@ -297,7 +295,7 @@ msgstr ""
 "Mas as pessoas em geral só tendem a sentir simpatia pelas alegações de "
 "direitos naturais por duas razões."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "One reason is an overstretched analogy with material objects.  When I cook "
 "spaghetti, I do object if someone else eats it, because then I cannot eat "
@@ -312,7 +310,7 @@ msgstr ""
 "quem? A menor distinção entre nós é suficiente para fazer pender a balança "
 "ética."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "But whether you run or change a program I wrote affects you directly and me "
 "only indirectly.  Whether you give a copy to your friend affects you and "
@@ -325,7 +323,7 @@ msgstr ""
 "não deveria ter o poder de lhe dizer para não fazer essas coisas. Ninguém "
 "deveria."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "The second reason is that people have been told that natural rights for "
 "authors is the accepted and unquestioned tradition of our society."
@@ -333,7 +331,7 @@ msgstr ""
 "A segunda razão é que têm-se dito às pessoas que os direitos naturais dos "
 "autores são uma tradição aceita e inquestionável da nossa sociedade."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "As a matter of history, the opposite is true.  The idea of natural rights of "
 "authors was proposed and decisively rejected when the US Constitution was "
@@ -353,7 +351,7 @@ msgstr ""
 "o autor. O copyright realmente recompensa um pouco os autores, e mais às "
 "editoras, mas foi projetado como um meio de modificar seu comportamento."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "The real established tradition of our society is that copyright cuts into "
 "the natural rights of the public&mdash;and that this can only be justified "
@@ -363,11 +361,11 @@ msgstr ""
 "reduz os direitos naturais do público &mdash; e isso só pode ser justificado "
 "por causa do público."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "Economics."
 msgstr "Economia."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "The final argument made for having owners of software is that this leads to "
 "production of more software."
@@ -375,7 +373,7 @@ msgstr ""
 "O argumento final defendendo que o software tenha donos é que isso leva a "
 "produção de mais software."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Unlike the others, this argument at least takes a legitimate approach to the "
 "subject.  It is based on a valid goal&mdash;satisfying the users of "
@@ -387,7 +385,7 @@ msgstr ""
 "usuários do software. E é empiricamente claro que as pessoas vão produzir "
 "mais de alguma coisa se elas são bem pagas para isso."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "But the economic argument has a flaw: it is based on the assumption that the "
 "difference is only a matter of how much money we have to pay.  It assumes "
@@ -399,7 +397,7 @@ msgstr ""
 "se que a <em>produção de software</em> é o que queremos, tenha o software "
 "dono ou não."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "People readily accept this assumption because it accords with our "
 "experiences with material objects.  Consider a sandwich, for instance.  You "
@@ -419,7 +417,7 @@ msgstr ""
 "uma vez. Se você consegue o sanduíche de um dono ou não, isso não afeta "
 "diretamente nada, apenas a quantidade de dinheiro que você tem depois."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "This is true for any kind of material object&mdash;whether or not it has an "
 "owner does not directly affect what it <em>is</em>, or what you can do with "
@@ -429,7 +427,7 @@ msgstr ""
 "não um dono não afeta o que ele <em>é</em>, nem o que você pode fazer com o "
 "objeto se você o comprar."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "But if a program has an owner, this very much affects what it is, and what "
 "you can do with a copy if you buy one.  The difference is not just a matter "
@@ -443,7 +441,7 @@ msgstr ""
 "software a produzir alguma coisa &mdash; mas não o que a sociedade realmente "
 "necessita. E isso causa uma poluição ética que nos afeta a todos."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "What does society need? It needs information that is truly available to its "
 "citizens&mdash;for example, programs that people can read, fix, adapt, and "
@@ -456,7 +454,7 @@ msgstr ""
 "donos de software tipicamente fornecem é uma caixa preta que não podemos "
 "estudar ou modificar."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Society also needs freedom.  When a program has an owner, the users lose "
 "freedom to control part of their own lives."
@@ -464,11 +462,11 @@ msgstr ""
 "A sociedade também precisa de liberdade. Quando um programa tem um dono, os "
 "usuários perdem a liberdade de controlar uma parte de suas próprias vidas."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "And, above all, society needs to encourage the spirit of voluntary "
 "cooperation in its citizens.  When software owners tell us that helping our "
-"neighbors in a natural way is &ldquo;piracy&rdquo;, they pollute our "
+"neighbors in a natural way is &ldquo;piracy,&rdquo; they pollute our "
 "society's civic spirit."
 msgstr ""
 "E, acima de tudo, a sociedade precisa encorajar o espírito de cooperação "
@@ -476,7 +474,7 @@ msgstr ""
 "ajudar nossos vizinhos de maneira natural é “pirataria”, eles poluem o "
 "espírito cívico de nossa sociedade."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This is why we say that <a href=\"/philosophy/free-sw.html\">free software</"
 "a> is a matter of freedom, not price."
@@ -484,7 +482,7 @@ msgstr ""
 "É por isso que dizemos que o <a href=\"/philosophy/free-sw.html\">software "
 "livre</a> é uma questão de liberdade, não preço."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The economic argument for owners is erroneous, but the economic issue is "
 "real.  Some people write useful software for the pleasure of writing it or "
@@ -496,7 +494,7 @@ msgstr ""
 "escrever e por admiração e amor, mas se queremos mais software dessas "
 "pessoas, então precisamos levantar fundos."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Since the 1980s, free software developers have tried various methods of "
 "finding funds, with some success.  There's no need to make anyone rich; a "
@@ -508,7 +506,7 @@ msgstr ""
 "ninguém rico, um rendimento típico é incentivo suficiente para fazer muitos "
 "trabalhos que são menos satisfatórios que programar."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "For years, until a fellowship made it unnecessary, I made a living from "
 "custom enhancements of the free software I had written.  Each enhancement "
@@ -524,7 +522,7 @@ msgstr ""
 "melhorias que eles desejavam, ao invés de trabalhar em recursos que eu "
 "poderia ter considerado a prioridade mais alta."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Some free software developers make money by selling support services.  In "
 "1994, Cygnus Support, with around 50 employees, estimated that about 15 "
@@ -537,7 +535,7 @@ msgstr ""
 "era desenvolvimento de software livre &mdash; de uma porcentagem respeitável "
 "para uma empresa de software."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In the early 1990s, companies including Intel, Motorola, Texas Instruments "
 "and Analog Devices combined to fund the continued development of the GNU C "
@@ -552,7 +550,7 @@ msgstr ""
 "na década de 90 pela Força Aérea dos EUA, e é continuado desde então por uma "
 "empresa especialmente criada para este propósito."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The free software movement is still small, but the example of listener-"
 "supported radio in the US shows it's possible to support a large activity "
@@ -562,7 +560,7 @@ msgstr ""
 "suportada por ouvintes nos EUA mostra que é possível suportar uma grande "
 "atividade sem forçar todos os usuários a pagar."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "As a computer user today, you may find yourself using a <a href=\"/"
 "philosophy/categories.html#ProprietarySoftware\">proprietary</a> program.  "
@@ -580,7 +578,7 @@ msgstr ""
 "vida justa, abertamente e com orgulho, e isso significa dizer não ao "
 "software privativo."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "You deserve to be able to cooperate openly and freely with other people who "
 "use software.  You deserve to be able to learn how the software works, and "
@@ -592,25 +590,26 @@ msgstr ""
 "software e  ensinar seus alunos com ele. Você merece poder contratar seu "
 "programador preferido para consertá-lo quando ele quebra."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "You deserve free software."
 msgstr "Você merece o software livre."
 
-#. type: Content of: <h3>
-msgid "Footnotes"
-msgstr "Notas de rodapé"
+# TODO: needs reviewing.
+#. type: Content of: <div><h3>
+msgid "Footnote"
+msgstr "Nota de rodapé"
 
-#. type: Content of: <ol><li>
+#. type: Content of: <div><ol><li>
 msgid "The charges were subsequently dismissed."
 msgstr "As acusações foram posteriormente retiradas."
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><div><p>
 msgid ""
-"This essay is published in <a href=\"http://shop.fsf.org/product/free-"
+"This essay is published in <a href=\"https://shop.fsf.org/product/free-"
 "software-free-society/\"><cite>Free Software, Free Society: The Selected "
 "Essays of Richard M. Stallman</cite></a>."
 msgstr ""
-"Este ensaio foi publicado em <a href=\"http://shop.fsf.org/product/free-"
+"Este ensaio foi publicado em <a href=\"https://shop.fsf.org/product/free-"
 "software-free-society/\"><cite>Software Livre, Sociedade Livre: Artigos "
 "selecionados de Richard M. Stallman</cite></a>."
 
@@ -640,14 +639,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
@@ -655,11 +654,11 @@ msgstr ""
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas deste site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 1994, 2009, 2020 Richard Stallman"
+msgid "Copyright &copy; 1994, 2009, 2021 Richard Stallman"
 msgstr "Copyright &copy; 1994, 2009, 2020 Richard Stallman"
 
 #. type: Content of: <div><p>
@@ -682,9 +681,15 @@ msgstr ""
 "Rafael Beraldo <a href=\"mailto:rberaldo@cabaladada.org\">&lt;"
 "rberaldo@cabaladada.org&gt;</a>, 2012; e\n"
 "Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome."
-"org&gt;</a>, 2020"
+"org&gt;</a>, 2020-2021"
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid "Copyright &copy; 1994, 2009, 2020, 2021 Richard Stallman"
+#~ msgstr "Copyright &copy; 1994, 2009, 2020, 2021 Richard Stallman"
+
+#~ msgid "Footnotes"
+#~ msgstr "Notas de rodapé"

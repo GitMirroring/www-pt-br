@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: freedom-or-power.html\n"
-"POT-Creation-Date: 2021-05-31 03:55+0000\n"
-"PO-Revision-Date: 2021-05-31 11:41-0300\n"
+"POT-Creation-Date: 2021-09-05 08:26+0000\n"
+"PO-Revision-Date: 2021-07-29 16:45-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -42,29 +42,23 @@ msgstr ""
 "falada “liberdade de escolher qualquer licença que você deseje para o "
 "software que você escreve”."
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Freedom or Power?"
 msgstr "Liberdade ou Poder?"
 
-#. type: Content of: <p>
-msgid ""
-"by <strong>Bradley M. Kuhn</strong> and <strong>Richard M. Stallman</strong>"
-msgstr ""
-"por <strong>Bradley M. Kuhn</strong> e <strong>Richard M. Stallman</strong>"
+#. type: Content of: <div><address>
+msgid "by Bradley M. Kuhn and Richard M. Stallman"
+msgstr "por Bradley M. Kuhn e Richard M. Stallman"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><blockquote><p>
 msgid ""
 "The love of liberty is the love of others; the love of power is the love of "
-"ourselves."
+"ourselves. &mdash;<i>William&nbsp;Hazlitt</i>"
 msgstr ""
 "O amor à liberdade é o amor ao próximo; o amor ao poder é o amor a nós "
-"mesmos."
+"mesmos. &mdash; <i>William&nbsp;Hazlitt</i>"
 
-#. type: Content of: <blockquote><p>
-msgid "-- William Hazlitt"
-msgstr "-- William Hazlitt"
-
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In the free software movement, we stand for freedom for the users of "
 "software.  We formulated our views by looking at what freedoms are necessary "
@@ -81,7 +75,7 @@ msgstr ""
 "especificam as liberdades que o usuário de um programa necessita de modo que "
 "ele possa cooperar em uma comunidade. "
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We stand for freedom for programmers as well as for other users.  Most of us "
 "are programmers, and we want freedom for ourselves as well as for you.  But "
@@ -97,7 +91,7 @@ msgstr ""
 "usuários, sejam eles programadores frequentes, ocasionais, ou não sejam "
 "programadores em absoluto."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "However, one so-called freedom that we do not advocate is the &ldquo;freedom "
 "to choose any license you want for software you write.&rdquo; We reject this "
@@ -108,7 +102,7 @@ msgstr ""
 "escreve”. Nós rejeitamos isto porque é na verdade uma forma de poder, não de "
 "liberdade."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This oft overlooked distinction is crucial.  Freedom is being able to make "
 "decisions that affect mainly you; power is being able to make decisions that "
@@ -121,7 +115,7 @@ msgstr ""
 "confundirmos poder com liberdade, nós falharemos em sustentar a verdadeira "
 "liberdade."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Making a program proprietary is an exercise of power.  Copyright law today "
 "grants software developers that power, so they and only they choose the "
@@ -150,7 +144,7 @@ msgstr ""
 "contentar com isso. Elas não podem se ajudar uns aos outros a aperfeiçoar o "
 "software."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Proprietary software developers are often businesses.  We in the free "
 "software movement are not opposed to business, but we have seen what happens "
@@ -168,7 +162,7 @@ msgstr ""
 "mas ela não é o único exemplo. Mesmo quando não há monopólio, o software "
 "privativo prejudica a sociedade. A escolha de mestres não é liberdade."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Discussions of rights and rules for software have often concentrated on the "
 "interests of programmers alone.  Few people in the world program regularly, "
@@ -189,7 +183,7 @@ msgstr ""
 "atendidas pelo slogan “liberdade de escolha (somente para os "
 "desenvolvedores)”."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If &ldquo;code is law,&rdquo; <a href=\"#f1\">(1)</a> then the real question "
 "we face is: who should control the code you use&mdash;you, or an elite few? "
@@ -202,14 +196,14 @@ msgstr ""
 "software que você utiliza, e dar a você este controle é o objetivo do "
 "software livre. "
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We believe you should decide what to do with the software you use; however, "
 "that is not what today's law says.  Current copyright law places us in the "
 "position of power over users of our code, whether we like it or not.  The "
 "ethical response to this situation is to proclaim freedom for each user, "
 "just as the Bill of Rights was supposed to exercise government power by "
-"guaranteeing each citizen's freedoms.  That is what the <a href=\"/copyleft/"
+"guaranteeing each citizen's freedoms.  That is what the <a href=\"/licenses/"
 "copyleft.html\">GNU General Public License</a> is for: it puts you in "
 "control of your usage of the software while <a href=\"/philosophy/why-"
 "copyleft.html\">protecting you from others</a> who would like to take "
@@ -221,12 +215,12 @@ msgstr ""
 "código, gostemos ou não disto. A resposta ética a esta situação é proclamar "
 "a liberdade para cada usuário, assim como a Lei dos Direitos foi criada para "
 "que o governo exercesse o poder pela garantia da liberdade de todos os "
-"cidadãos. É para isto que serve a <a href=\"/copyleft/copyleft.html"
-"\">licença pública geral GNU</a>: ela coloca você no controle da utilização "
+"cidadãos. É para isto que serve a <a href=\"/licenses/copyleft.html"
+"\">Licença Pública Geral GNU</a>: ela coloca você no controle da utilização "
 "do software, enquanto que <a href=\"/philosophy/why-copyleft.html\">protege "
 "você de outros</a> que gostariam de tomar o controle sobre as suas decisões."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "As more and more users realize that code is law, and come to feel that they "
 "too deserve freedom, they will see the importance of the freedoms we stand "
@@ -238,29 +232,30 @@ msgstr ""
 "pelas quais nós lutamos, assim como mais e mais usuários aprenderam a "
 "apreciar o valor prático do software livre que nós desenvolvemos."
 
-#. type: Content of: <h4>
-msgid "Footnotes"
-msgstr "Notas de Rodapé"
+# TODO: needs reviewing.
+#. type: Content of: <div><h3>
+msgid "Footnote"
+msgstr "Nota de rodapé"
 
-#. type: Content of: outside any tag (error?)
+#. type: Content of: <div><ol><li>
 msgid ""
-"<a id=\"f1\"></a> William J. Mitchell, <em>City of Bits: Space, Place, and "
-"the Infobahn </em> (Cambridge, Mass.: MIT Press, 1995), p. 111, as quoted by "
-"Lawrence Lessig in <em>Code and Other Laws of Cyberspace, Version 2.0</em> "
-"(New York, NY: Basic Books, 2006), p. 5."
+"William J. Mitchell, <cite>City of Bits: Space, Place, and the Infobahn</"
+"cite> (Cambridge, Mass.: MIT Press, 1995), p. 111, as quoted by Lawrence "
+"Lessig in <cite>Code and Other Laws of Cyberspace, Version 2.0</cite> (New "
+"York, NY: Basic Books, 2006), p. 5."
 msgstr ""
-"<a id=\"f1\"></a> William J. Mitchell, <em>City of Bits: Space, Place, and "
-"the Infobahn </em> (Cambridge, Mass.: MIT Press, 1995), p. 111, citado por "
-"Lawrence Lessig em <em>Code and Other Laws of Cyberspace, Version 2.0</em>  "
-"(New York, NY: Basic Books, 2006), p. 5."
+"William J. Mitchell, <cite>City of Bits: Space, Place, and the Infobahn</"
+"cite> (Cambridge, Mass.: MIT Press, 1995), p. 111, como citado por Lawrence "
+"Lessig em <cite>Code and Other Laws of Cyberspace, Version 2.0</cite> (New "
+"York, NY: Basic Books, 2006), p. 5."
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><div><p>
 msgid ""
-"This essay is published in <a href=\"http://shop.fsf.org/product/free-"
+"This essay is published in <a href=\"https://shop.fsf.org/product/free-"
 "software-free-society/\"><cite>Free Software, Free Society: The Selected "
 "Essays of Richard M. Stallman</cite></a>."
 msgstr ""
-"Este ensaio foi publicado em <a href=\"http://shop.fsf.org/product/free-"
+"Este ensaio foi publicado em <a href=\"https://shop.fsf.org/product/free-"
 "software-free-society/\"><cite>Software Livre, Sociedade Livre: Artigos "
 "selecionados de Richard M. Stallman</cite></a>."
 
@@ -290,14 +285,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
@@ -305,16 +300,14 @@ msgstr ""
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas deste site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2001, 2009, 2020, 2021 Bradley M. Kuhn and Richard M. "
-"Stallman"
+"Copyright &copy; 2001, 2009, 2021 Bradley M. Kuhn and Richard M. Stallman"
 msgstr ""
-"Copyright &copy; 2001, 2009, 2020, 2021 Bradley M. Kuhn and Richard M. "
-"Stallman"
+"Copyright &copy; 2001, 2009, 2021 Bradley M. Kuhn and Richard M. Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -335,6 +328,12 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid "-- William Hazlitt"
+#~ msgstr "-- William Hazlitt"
+
+#~ msgid "Footnotes"
+#~ msgstr "Notas de Rodapé"
 
 #~ msgid ""
 #~ "Copyright &copy; 2001, 2009, 2020 Bradley M. Kuhn and, 2021 Richard M. "

@@ -4,14 +4,15 @@
 # André Phellip Ferreira <werewolf@cyberdude.com>, 2017.
 # Daniel Pimentel <d4n1@d4n1.org>, 2017. (proofread)
 # Rafael Fontenelle <rafaelff@gnome.org>, 2018-2021.
+# Jorge <jorgesumle>, 2021 (#61093).
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: home.html\n"
-"POT-Creation-Date: 2021-06-15 22:25+0000\n"
-"PO-Revision-Date: 2021-06-16 06:08-0300\n"
+"POT-Creation-Date: 2021-07-21 16:56+0000\n"
+"PO-Revision-Date: 2021-08-31 10:24-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
-"Language-Team: Brazilian Portuguese <gnome-pt_br-list@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -359,7 +360,7 @@ msgid ""
 "as in &ldquo;free beer&rdquo;."
 msgstr ""
 "Software Livre é uma questão de liberdade, não de preço. Para entender o "
-"conceito, você deve pensar em “livre” como em “discurso ivre”, não como em "
+"conceito, você deve pensar em “livre” como em “discurso livre”, não como em "
 "“gratuidade”."
 
 #. type: Content of: <div><div><p>
@@ -491,6 +492,31 @@ msgstr "<a href=\"/gnu/gnu.html\">Mais informação</a>"
 
 #. type: Content of: <div><div><div><p>
 msgid ""
+"<strong>UK universities find that <a href=\"https://www.theguardian.com/"
+"education/2021/jul/13/covid-has-been-a-big-catalyst-universities-plan-for-"
+"post-pandemic-life\">many students are fed up with virtual courses and want "
+"to attend class physically</a>. Others feel the opposite.</strong>"
+msgstr ""
+"<strong>Universidades do Reino Unido descobriram que <a href=\"https://www."
+"theguardian.com/education/2021/jul/13/covid-has-been-a-big-catalyst-"
+"universities-plan-for-post-pandemic-life\">muitos alunos estão fartos de "
+"cursos virtuais e querem assistir às aulas fisicamente</a>. Outros sentem o "
+"contrário.</strong>"
+
+#. type: Content of: <div><div><div><p>
+msgid ""
+"If you are a student, or have been admitted, and you are disgusted with "
+"being forced to use nonfree software for school, now is your chance to make "
+"a difference &mdash; tell the university you don't want to do that. Be civil "
+"to the staff, but show how strongly you feel this."
+msgstr ""
+"Se você é um estudante, ou foi admitido, e está aborrecido por ser forçado a "
+"usar um software não livre para a escola, agora é sua chance de fazer a "
+"diferença – diga à universidade que você não quer fazer isso. Seja educado "
+"com a equipe, mas mostre o quão fortemente você sente isso."
+
+#. type: Content of: <div><div><div><p>
+msgid ""
 "<strong>GNU and FSF move official IRC channels to Libera.Chat network.  Read "
 "the full <a href=\"https://lists.gnu.org/archive/html/info-gnu/2021-06/"
 "msg00005.html\">announcement</a></strong> and the follow-up <strong><a href="
@@ -505,27 +531,25 @@ msgstr ""
 
 #. type: Content of: <div><div><div><p>
 msgid ""
-"<strong>The GNU Project supports the Free Software Foundation's petition to "
-"call on school administrators around the world to stop requiring students to "
-"run nonfree software. <a href=\"https://my.fsf.org/give-students-userfreedom"
-"\">Sign the petition for freedom in the classroom</a></strong>."
+"The GNU Project supports the Free Software Foundation's petition to call on "
+"school administrators around the world to stop requiring students to run "
+"nonfree software. <a href=\"https://my.fsf.org/give-students-userfreedom"
+"\">Sign the petition for freedom in the classroom</a>."
 msgstr ""
-"<strong>O Projeto GNU apoia a petição da Free Software Foundation de "
-"convidar os administradores de escolas de todo o mundo a parar de exigir que "
-"os alunos usem softwares não livres. <a href=\"https://my.fsf.org/give-"
-"students-userfreedom\">Assine a petição por liberdade na sala de aula</a></"
-"strong>."
+"O Projeto GNU apoia a petição da Free Software Foundation de convidar os "
+"administradores de escolas de todo o mundo a parar de exigir que os alunos "
+"usem softwares não livres. <a href=\"https://my.fsf.org/give-students-"
+"userfreedom\">Assine a petição por liberdade na sala de aula</a>."
 
 #. type: Content of: <div><div><div><p>
 msgid ""
-"<strong>The GNU Project strongly urges the community to communicate in ways "
-"that are friendly, welcoming and kind. See the <a href=\"/philosophy/kind-"
-"communication.html\"> GNU Kind Communications Guidelines</a></strong>."
+"The GNU Project strongly urges the community to communicate in ways that are "
+"friendly, welcoming and kind. See the <a href=\"/philosophy/kind-"
+"communication.html\"> GNU Kind Communications Guidelines</a>."
 msgstr ""
-"<strong>O Projeto GNU insiste fortemente que a comunidade se comunique em "
-"formas que sejam amistosas, receptivas e gentis. Veja as <a href=\"/"
-"philosophy/kind-communication.html\"> Diretrizes de Comunicação Gentil do "
-"GNU</a></strong>."
+"O Projeto GNU insiste fortemente que a comunidade se comunique em formas que "
+"sejam amistosas, receptivas e gentis. Veja as <a href=\"/philosophy/kind-"
+"communication.html\"> Diretrizes de Comunicação Gentil do GNU</a>."
 
 #. type: Content of: <div><div><div><h3><a>
 msgid ""
@@ -781,19 +805,6 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
-
-#, fuzzy
-#~| msgid ""
-#~| "<strong>GNU and FSF move official IRC channels to Libera.Chat network.  "
-#~| "Read the full <a href=\"https://lists.gnu.org/archive/html/info-"
-#~| "gnu/2021-06/msg00005.html\">announcement</a></strong>."
-#~ msgid ""
-#~ "Also read the <strong><a href=\"https://lists.gnu.org/archive/html/info-"
-#~ "gnu/2021-06/msg00007.html\">update announcement</a></strong>."
-#~ msgstr ""
-#~ "<strong>GNU e FSF movem os canais de IRC oficiais para a rede Libera."
-#~ "Chat. Leia o <a href=\"https://lists.gnu.org/archive/html/info-"
-#~ "gnu/2021-06/msg00005.html\">anúncio</a> completo</strong>."
 
 #~ msgid "German"
 #~ msgstr "Alemão"

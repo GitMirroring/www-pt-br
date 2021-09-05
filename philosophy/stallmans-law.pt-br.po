@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: stallmans-law.html\n"
-"POT-Creation-Date: 2016-12-27 18:25+0000\n"
+"POT-Creation-Date: 2021-07-09 10:26+0000\n"
 "PO-Revision-Date: 2017-09-29 17:03-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -21,11 +21,11 @@ msgstr ""
 msgid "Stallman's Law - GNU Project - Free Software Foundation"
 msgstr "A Lei de Stallman - Projeto GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Stallman's Law"
 msgstr "A Lei de Stallman"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Now that corporations dominate society and write the laws, each advance or "
 "change in technology is an opening for them to further restrict or mistreat "
@@ -61,14 +61,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
@@ -76,12 +76,12 @@ msgstr ""
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas deste site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2012, 2016 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2012, 2016 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2012, 2016, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2012, 2016, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -102,6 +102,9 @@ msgstr "<b>Tradução:</b> Hudson Flávio Meneses Lacerda (maio de 2013)"
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid "Copyright &copy; 2012, 2016 Free Software Foundation, Inc."
+#~ msgstr "Copyright &copy; 2012, 2016 Free Software Foundation, Inc."
 
 #~ msgid "Copyright &copy; 2012 Free Software Foundation, Inc."
 #~ msgstr "Copyright &copy; 2012 Free Software Foundation, Inc."

@@ -1,19 +1,21 @@
 # Brazilian Portuguese translation of http://www.gnu.org/philosophy/why-copyleft.html
 # Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2017-2021.
 # André N Batista <nandre@riseup.net>, 2018.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017-2021.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: why-copyleft.html\n"
-"POT-Creation-Date: 2020-07-01 15:26+0000\n"
-"PO-Revision-Date: 2021-05-03 10:15-0300\n"
+"POT-Creation-Date: 2021-08-28 13:56+0000\n"
+"PO-Revision-Date: 2021-09-05 19:54-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Outdated-Since: 2021-08-28 13:56+0000\n"
 "Plural-Forms: nplurals=2; plural=(n > 1)\n"
 "X-Generator: Gtranslator 40.0\n"
 
@@ -21,19 +23,19 @@ msgstr ""
 msgid "Why Copyleft? - GNU Project - Free Software Foundation"
 msgstr "Por que Copyleft? - Projeto GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Why Copyleft?"
 msgstr "Por que Copyleft?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
-"<cite>&ldquo;When it comes to defending the freedom of others, to lie down "
-"and do nothing is an act of weakness, not humility.&rdquo;</cite>"
+"<em>When it comes to defending everyone's freedom, to lie down and do "
+"nothing is an act of weakness, not humility.</em>"
 msgstr ""
-"<cite>“Quando se trata de defender a liberdade dos outros, ficar sentado e "
-"fazer nada é um ato de fraqueza, e não de humildade.”</cite>"
+"<em>Quando se trata de defender a liberdade dos outros, ficar sentado e "
+"fazer nada é um ato de fraqueza, e não de humildade.</em>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In the GNU Project we usually recommend people use <a href=\"/licenses/"
 "copyleft.html\">copyleft</a> licenses like GNU GPL, rather than permissive "
@@ -51,12 +53,12 @@ msgstr ""
 "por aquelas licenças mostram um padrão de argumentação dura contra a <abbr "
 "title=\"Licença Pública Geral\">GPL</abbr>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In one such argument, a person stated that his use of one of the BSD "
 "licenses was an &ldquo;act of humility&rdquo;: &ldquo;I ask nothing of those "
 "who use my code, except to credit me.&rdquo; It is rather a stretch to "
-"describe a legal demand for credit as &ldquo;humility&rdquo;, but there is a "
+"describe a legal demand for credit as &ldquo;humility,&rdquo; but there is a "
 "deeper point to be considered here."
 msgstr ""
 "Em um de tais argumentos, uma pessoal declarou que seu uso de uma das "
@@ -65,7 +67,7 @@ msgstr ""
 "legal por crédito como “humildade”, mas há uma questão mais profunda a ser "
 "considerada aqui."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Humility is disregarding your own self-interest, but the interest you "
 "abandon when you don't copyleft your code is much bigger than your own.  "
@@ -82,7 +84,7 @@ msgstr ""
 "dos outros, ficar sentado e fazer nada é um ato de fraqueza, e não de "
 "humildade."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Releasing your code under <a href=\"/licenses/bsd.html\"> one of the BSD "
 "licenses</a>, or some other lax, permissive license, is not doing wrong; the "
@@ -96,7 +98,7 @@ msgstr ""
 "comunidade. Porém é fraco e, na maioria dos casos, não é a melhor forma de "
 "promover a liberdade dos usuários de compartilhar e modificar softwares."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Here are specific examples of nonfree versions of free programs that have "
 "done major harm to the free world."
@@ -104,7 +106,7 @@ msgstr ""
 "Aqui estão exemplos específicos de versões não livres de programas livres "
 "que causaram grandes danos ao mundo livre."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "Those who released LLVM under a non-copyleft license <a href=\"https://www."
 "anandtech.com/show/5238/nvidia-releases-cuda-41-cuda-goes-llvm-and-open-"
@@ -123,17 +125,18 @@ msgstr ""
 "não gratuita do LLVM é o único compilador para essas máquinas e é provável "
 "assim que permaneça."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"Intel uses <a href=\"http://www.tomshardware.com/news/google-removing-minix-"
+"Intel uses <a href=\"https://www.tomshardware.com/news/google-removing-minix-"
 "management-engine-intel,35876.html\">a proprietary version of the MINIX "
 "system</a>, which is free but not copylefted, in the Management Engine back "
 "door in its modern processors."
 msgstr ""
-"A Intel usa <a href=\"http://www.tomshardware.com/news/google-removing-minix-"
-"management-engine-intel,35876.html\">uma versão privativa do sistema MINIX</"
-"a>, que é livre, mas sem proteção de copyleft, no backdoor Mecanismo de "
-"Gerenciamento (Intel Management Engine) em seus processadores modernos."
+"A Intel usa <a href=\"https://www.tomshardware.com/news/google-removing-"
+"minix-management-engine-intel,35876.html\">uma versão privativa do sistema "
+"MINIX</a>, que é livre, mas sem proteção de copyleft, no backdoor Mecanismo "
+"de Gerenciamento (<i lang=\"en\">Intel Management Engine</i>) em seus "
+"processadores modernos."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -161,14 +164,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
@@ -176,16 +179,12 @@ msgstr ""
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas deste site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid ""
-"Copyright &copy; 2003, 2007, 2008, 2013, 2017, 2018, 2020 Free Software "
-"Foundation, Inc."
-msgstr ""
-"Copyright &copy; 2003, 2007, 2008, 2013, 2017, 2018, 2020 Free Software "
-"Foundation, Inc."
+msgid "Copyright &copy; 2003, 2017, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2003, 2017, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -202,9 +201,23 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
-"rafaelff@gnome.org&gt;</a>, 2017-2020"
+"rafaelff@gnome.org&gt;</a>, 2017-2021"
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid ""
+#~ "Copyright &copy; 2003, 2007, 2008, 2013, 2017, 2018, 2020 Free Software "
+#~ "Foundation, Inc."
+#~ msgstr ""
+#~ "Copyright &copy; 2003, 2007, 2008, 2013, 2017, 2018, 2020 Free Software "
+#~ "Foundation, Inc."
+
+#~ msgid ""
+#~ "Copyright &copy; 2003, 2007, 2008, 2013, 2017, 2018, 2020, 2021 Free "
+#~ "Software Foundation, Inc."
+#~ msgstr ""
+#~ "Copyright &copy; 2003, 2007, 2008, 2013, 2017, 2018, 2020, 2021 Free "
+#~ "Software Foundation, Inc."

@@ -6,14 +6,14 @@
 # Renato Candido <renatocan@gmail.com>, 2013.
 # May 2014: fix link; trivial update (T. Godefroy).
 # Diego Viola <diego.viola@gmail.com>, 2017 (corrections).
-# Rafael Fontenelle <rafaelff@gnome.org>, 2016-2020.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2016-2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: right-to-read.html\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-06 08:28+0000\n"
-"PO-Revision-Date: 2020-07-25 13:11-0300\n"
+"POT-Creation-Date: 2021-08-28 13:56+0000\n"
+"PO-Revision-Date: 2021-09-05 11:49-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -21,29 +21,21 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1)\n"
-"X-Generator: Gtranslator 3.36.0\n"
+"X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <title>
 msgid "The Right to Read - GNU Project - Free Software Foundation"
 msgstr "O Direito de Ler - Projeto GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "The Right to Read"
 msgstr "O Direito de Ler"
 
-#. type: Content of: <address>
-msgid "by <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
-msgstr "por <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
+#. type: Content of: <div><address>
+msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
+msgstr "por <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 
-#. type: Content of: <p>
-msgid ""
-"<em>This article appeared in the February 1997 issue of <cite>Communications "
-"of the ACM</cite> (Volume 40, Number 2).</em>"
-msgstr ""
-"<em>Este artigo foi publicado na edição de fevereiro de 1997 de "
-"<cite>Communications of the ACM</cite> (Volume 40, Number 2).</em>"
-
-#. type: Content of: <div><blockquote><p>
+#. type: Content of: <div><p>
 msgid ""
 "From <cite>The Road To Tycho</cite>, a collection of articles about the "
 "antecedents of the Lunarian Revolution, published in Luna City in 2096."
@@ -302,13 +294,13 @@ msgstr ""
 "o direito universal à leitura rapidamente se tornou um de seus objetivos "
 "centrais."
 
-#. type: Content of: <div><div><blockquote><p>
+#. type: Content of: <div><div><p>
 msgid ""
-"<a href=\"http://defectivebydesign.org/ebooks.html\">Join our mailing list "
-"about the dangers of e-books</a>."
+"<a href=\"https://www.defectivebydesign.org/ebooks.html\"> Join our mailing "
+"list about the dangers of e-books</a>."
 msgstr ""
-"<a href=\"http://defectivebydesign.org/ebooks.html\">Junte-se à nossa lista "
-"de discussão sobre os perigos de e-books</a>."
+"<a href=\"https://defectivebydesign.org/ebooks.html\"> Junte-se à nossa "
+"lista de discussão sobre os perigos de e-books</a>."
 
 #. type: Content of: <div><div><h3>
 msgid "Author's Notes"
@@ -334,14 +326,14 @@ msgstr ""
 msgid ""
 "Computer-enforced restrictions on lending or reading books (and other kinds "
 "of published works) are known as DRM, short for &ldquo;Digital Restrictions "
-"Management&rdquo;.  To eliminate DRM, the Free Software Foundation has "
-"established the <a href=\"http://DefectiveByDesign.org\">Defective by "
+"Management.&rdquo; To eliminate DRM, the Free Software Foundation has "
+"established the <a href=\"https://www.defectivebydesign.org/\">Defective by "
 "Design</a> campaign.  We ask for your support."
 msgstr ""
 "Restrições impostas por computador ao empréstimo e leitura de livros (e "
 "outros tipos de obras publicadas) são conhecidas como DRM, abreviação para "
 "“Gestão Digital de Restrições”. Para eliminar DRM, a Free Software "
-"Foundation estabeleceu a campanha <a href=\"http://DefectiveByDesign.org"
+"Foundation estabeleceu a campanha <a href=\"https://DefectiveByDesign.org"
 "\">Defective by Design</a>. Nós pedimos por seu apoio."
 
 #. type: Content of: <div><div><ul><li><div><p>
@@ -473,8 +465,8 @@ msgstr ""
 #. type: Content of: <div><div><ul><li><div><p>
 msgid ""
 "The proponents of this scheme gave early versions names such as &ldquo;"
-"trusted computing&rdquo; and &ldquo;Palladium&rdquo;, but as ultimately put "
-"into use, it is called &ldquo;secure boot&rdquo;."
+"trusted computing&rdquo; and &ldquo;Palladium,&rdquo; but as ultimately put "
+"into use, it is called &ldquo;secure boot.&rdquo;"
 msgstr ""
 "Os proponentes deste esquema deram às versões anteriores nomes como “trusted "
 "computing” (computação confiável) e “Palladium” (paládio), mas, no final das "
@@ -687,16 +679,16 @@ msgstr ""
 #. type: Content of: <div><div><div><p>
 msgid ""
 "If we want to stop the bad news and create some good news, we need to "
-"organize and fight.  Subscribe to the FSF's <a href=\"http://"
-"defectivebydesign.org\"> Defective by Design</a> campaign to lend a hand.  "
-"You can <a href=\"http://www.fsf.org/associate\">join the FSF</a> to support "
-"our work more generally.  There is also a <a href=\"/help/help.html\">list "
-"of ways to participate in our work</a>."
+"organize and fight.  Subscribe to the FSF's <a href=\"https://www."
+"defectivebydesign.org/\"> Defective by Design</a> campaign to lend a hand.  "
+"You can <a href=\"https://www.fsf.org/associate\">join the FSF</a> to "
+"support our work more generally.  There is also a <a href=\"/help/help.html"
+"\">list of ways to participate in our work</a>."
 msgstr ""
 "Se você deseja parar as más notícias e criar alguma notícia boa, nós "
-"precisamos organizar e lutar. Se inscreva na companha <a href=\"http://"
-"defectivebydesign.org\">Defective by Design</a> da FSF para ajudar. Você "
-"pode <a href=\"http://www.fsf.org/associate\">se juntar à FSF</a> para "
+"precisamos organizar e lutar. Se inscreva na companha <a href=\"https://"
+"defectivebydesign.org/\">Defective by Design</a> da FSF para ajudar. Você "
+"pode <a href=\"https://www.fsf.org/associate\">se juntar à FSF</a> para "
 "apoiar nosso trabalho de forma mais geral. Há também uma <a href=\"/help/"
 "help.html\">lista de formas para participar em nosso trabalho</a>."
 
@@ -718,30 +710,30 @@ msgstr ""
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"http://www.wired.com/wired/archive/4.01/white.paper_pr.html\">An "
-"explanation of the White Paper: The Copyright Grab</a>, Pamela Samuelson, "
-"<cite>Wired</cite>, January 1st, 1996."
+"<a href=\"https://www.wired.com/1996/01/white-paper/\">An explanation of the "
+"White Paper: The Copyright Grab</a>, Pamela Samuelson, <cite>Wired</cite>, "
+"January 1st, 1996."
 msgstr ""
-"<a href=\"http://www.wired.com/wired/archive/4.01/white.paper_pr.html\">An "
-"explanation of the White Paper: The Copyright Grab</a>, Pamela Samuelson, "
-"<cite>Wired</cite>, 1º de janeiro de 1996."
+"<a href=\"https://www.wired.com/1996/01/white-paper/\">An explanation of the "
+"White Paper: The Copyright Grab</a>, Pamela Samuelson, <cite>Wired</cite>, "
+"1º de janeiro de 1996."
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"http://www.law.duke.edu/boylesite/sold_out.htm\">Sold Out</a>, "
-"James Boyle, <cite>New York Times</cite>, March 31, 1996."
+"<a href=\"https://law.duke.edu/boylesite/sold_out.htm\">Sold Out</a>, James "
+"Boyle, <cite>New York Times</cite>, March 31, 1996."
 msgstr ""
-"<a href=\"http://www.law.duke.edu/boylesite/sold_out.htm\">Sold Out</a>, "
-"James Boyle, <cite>New York Times</cite>, 31 de março de 1996."
+"<a href=\"https://law.duke.edu/boylesite/sold_out.htm\">Sold Out</a>, James "
+"Boyle, <cite>New York Times</cite>, 31 de março de 1996."
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"http://web.archive.org/web/20130508120533/http://www.interesting-"
+"<a href=\"https://web.archive.org/web/20130508120533/http://www.interesting-"
 "people.org/archives/interesting-people/199611/msg00012.html\">Public Data or "
 "Private Data</a>, Dave Farber, <cite>Washington Post</cite>, November 4, "
 "1996."
 msgstr ""
-"<a href=\"http://web.archive.org/web/20130508120533/http://www.interesting-"
+"<a href=\"https://web.archive.org/web/20130508120533/http://www.interesting-"
 "people.org/archives/interesting-people/199611/msg00012.html\">Public Data or "
 "Private Data</a>, Dave Farber, <cite>Washington Post</cite>, 4 de novembro "
 "de 1996."
@@ -757,13 +749,21 @@ msgstr ""
 "pretende resistir e reverter a extensão exagerada dos poderes dos direitos "
 "autorais e patentes."
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><div><p>
 msgid ""
-"This essay is published in <a href=\"http://shop.fsf.org/product/free-"
+"This article appeared in the February 1997 issue of <cite>Communications of "
+"the ACM</cite> (Volume 40, Number 2)."
+msgstr ""
+"Este artigo foi publicado na edição de fevereiro de 1997 de "
+"<cite>Communications of the ACM</cite> (Volume 40, Number 2)."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"This essay is published in <a href=\"https://shop.fsf.org/product/free-"
 "software-free-society/\"><cite>Free Software, Free Society: The Selected "
 "Essays of Richard M. Stallman</cite></a>."
 msgstr ""
-"Este artigo foi publicado em <a href=\"http://shop.fsf.org/product/free-"
+"Este artigo foi publicado em <a href=\"https://shop.fsf.org/product/free-"
 "software-free-society/\"><cite>Free Software, Free Society: The Selected "
 "Essays of Richard M. Stallman</cite></a>."
 
@@ -799,14 +799,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
@@ -814,16 +814,16 @@ msgstr ""
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas deste site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 1996, 2002, 2007, 2009, 2010, 2014, 2015, 2016, 2019, 2020 "
-"Richard Stallman"
+"Copyright &copy; 1996, 2002, 2007, 2009, 2012, 2014, 2016, 2021 Richard "
+"Stallman"
 msgstr ""
-"Copyright &copy; 1996, 2002, 2007, 2009, 2010, 2014, 2015, 2016, 2019, 2020 "
-"Richard Stallman"
+"Copyright &copy; 1996, 2002, 2007, 2009, 2012, 2014, 2016, 2021 Richard "
+"Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -847,9 +847,19 @@ msgstr ""
 "Renato Candido, 2013;\n"
 "Hudson Flávio Meneses Lacerda;\n"
 "Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome."
-"org&gt;</a>, 2016-2020"
+"org&gt;</a>, 2016-2021"
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid "by <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
+#~ msgstr "por <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
+
+#~ msgid ""
+#~ "Copyright &copy; 1996, 2002, 2007, 2009, 2010, 2014, 2015, 2016, 2019, "
+#~ "2020, 2021 Richard Stallman"
+#~ msgstr ""
+#~ "Copyright &copy; 1996, 2002, 2007, 2009, 2010, 2014, 2015, 2016, 2019, "
+#~ "2020, 2021 Richard Stallman"

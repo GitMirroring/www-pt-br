@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnu-users-never-heard-of-gnu.html\n"
-"POT-Creation-Date: 2021-04-07 17:55+0000\n"
-"PO-Revision-Date: 2021-04-20 05:17-0300\n"
+"POT-Creation-Date: 2021-08-30 13:26+0000\n"
+"PO-Revision-Date: 2021-09-05 12:04-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -27,33 +27,21 @@ msgstr ""
 "Usuários do GNU que nunca ouviram falar do GNU - Projeto GNU - Free Software "
 "Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "GNU Users Who Have Never Heard of&nbsp;GNU"
 msgstr "Usuários do GNU que nunca ouviram falar do&nbsp;GNU"
 
-#. type: Content of: <address>
+#. type: Content of: <div><address>
 msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 msgstr "por <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 
-#. type: Content of: <div><div><p>
-msgid ""
-"To learn more about this issue, you can also read our <a href=\"/gnu/gnu-"
-"linux-faq.html\">GNU/Linux FAQ</a>, our page on <a href=\"/gnu/why-gnu-linux."
-"html\">Why GNU/Linux?</a> and our page on <a href=\"/gnu/linux-and-gnu.html"
-"\">Linux and the GNU Project</a>."
-msgstr ""
-"Para saber mais sobre esse assunto, leia também nosso <a href=\"/gnu/gnu-"
-"linux-faq.html\">GNU/Linux FAQ</a>, nossa página sobre <a href=\"/gnu/why-"
-"gnu-linux.html\">Por que GNU/Linux?</a> e nossa página sobre <a href=\"/gnu/"
-"linux-and-gnu.html\">Linux e o Projeto GNU</a>."
-
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Most people have never heard of GNU.  Even most of the people who use the "
 "GNU system have never heard of GNU, since so many people and companies teach "
-"them to call it &ldquo;Linux&rdquo;.  Indeed, GNU users often say they are "
-"&ldquo;running Linux&rdquo;, which is like saying you are &ldquo;driving "
-"your carburetor&rdquo; or &ldquo;driving your transmission&rdquo;."
+"them to call it &ldquo;Linux.&rdquo; Indeed, GNU users often say they are "
+"&ldquo;running Linux,&rdquo; which is like saying you are &ldquo;driving "
+"your carburetor&rdquo; or &ldquo;driving your transmission.&rdquo;"
 msgstr ""
 "A maioria das pessoas nunca ouviu falar do GNU. Até mesmo a maioria das "
 "pessoas que usam o sistema GNU nunca ouviram falar do GNU, graças a tantas "
@@ -62,7 +50,7 @@ msgstr ""
 "que dizer que você está “dirigindo seu carburador” ou “dirigindo sua "
 "transmissão”."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Nonetheless, those who know about GNU associate it with the ideals of "
 "freedom of the free software movement.  That association is no accident; the "
@@ -74,7 +62,7 @@ msgstr ""
 "motivo pelo qual o desenvolvimento GNU foi especificamente feito para "
 "possibilitar o seu uso em um computador e ter liberdade."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "A person seeing the name &ldquo;GNU&rdquo; for the first time in &ldquo;GNU/"
 "Linux&rdquo; won't immediately know what it represents, but has come one "
@@ -92,7 +80,7 @@ msgstr ""
 "a> e na Wikipédia. Isso existe ao redor da web; se esses usuários "
 "pesquisarem por GNU, eles encontrarão as ideias que o GNU defende."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "If they don't search, they may encounter them anyway.  The <a href=\"/"
 "philosophy/open-source-misses-the-point.html\">&ldquo;open source&rdquo;</a> "
@@ -113,14 +101,14 @@ msgstr ""
 "resultado de uma campanha por liberdade e comunidade) se eles sabem que são "
 "usuários do sistema GNU."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Over time, calling the system &ldquo;GNU/Linux&rdquo; spreads awareness of "
 "the ideals of freedom for which we developed the GNU system.  It is also "
 "useful as a reminder for people in our community who know about these "
 "ideals, in a world where much of discussion of free software takes a totally "
 "practical (and thus amoral) approach.  When we ask you to call the system "
-"&ldquo;GNU/Linux&rdquo;, we are asking you to help in making the public "
+"&ldquo;GNU/Linux,&rdquo; we are asking you to help in making the public "
 "aware of the free software ideals."
 msgstr ""
 "Ao longo do tempo, chamar o sistema de “GNU/Linux” dissemina a consciência "
@@ -131,6 +119,18 @@ msgstr ""
 "Quando pedimos a você que chame o sistema de “GNU/Linux”, o fazemos porque a "
 "consciência sobre o GNU conduz, lentamente mas certamente, à consciência "
 "sobre os ideais de liberdade e comunidade do software livre."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"To learn more about this issue, you can also read our <a href=\"/gnu/gnu-"
+"linux-faq.html\">GNU/Linux FAQ</a>, our page on <a href=\"/gnu/why-gnu-linux."
+"html\">Why GNU/Linux?</a> and our page on <a href=\"/gnu/linux-and-gnu.html"
+"\">Linux and the GNU System</a>."
+msgstr ""
+"Para saber mais sobre esse assunto, leia também nosso <a href=\"/gnu/gnu-"
+"linux-faq.html\">GNU/Linux FAQ</a>, nossa página sobre <a href=\"/gnu/why-"
+"gnu-linux.html\">Por que GNU/Linux?</a> e nossa página sobre <a href=\"/gnu/"
+"linux-and-gnu.html\">Linux e o Sistema GNU</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -177,12 +177,8 @@ msgstr ""
 "contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid ""
-"Copyright &copy; 2006, 2007, 2013-2015, 2017, 2019, 2021 Free Software "
-"Foundation, Inc."
-msgstr ""
-"Copyright &copy; 2006, 2007, 2013-2015, 2017, 2019, 2021 Free Software "
-"Foundation, Inc."
+msgid "Copyright &copy; 2006, 2015, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2006, 2015, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -198,14 +194,21 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"<b>Tradução:</b> Hudson Flávio Meneses Lacerda, 2014<br/><b>Tradução e "
-"Revisão</b>: Daniel Pimentel\n"
-"<a href=\"mailto:d4n1@d4n1.org\">&lt;d4n1@d4n1.org&gt;</a>, 2016"
+"Traduzido por: Hudson Flávio Meneses Lacerda, 2014<br/>\n"
+"Tradução e Revisão: Daniel Pimentel <a href=\"mailto:d4n1@d4n1.org\">&lt;"
+"d4n1@d4n1.org&gt;</a>, 2016"
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid ""
+#~ "Copyright &copy; 2006, 2007, 2013-2015, 2017, 2019, 2021 Free Software "
+#~ "Foundation, Inc."
+#~ msgstr ""
+#~ "Copyright &copy; 2006, 2007, 2013-2015, 2017, 2019, 2021 Free Software "
+#~ "Foundation, Inc."
 
 #~ msgid ""
 #~ "<strong>by <a href=\"http://www.stallman.org/\">Richard Stallman</a></"

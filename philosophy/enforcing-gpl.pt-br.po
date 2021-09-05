@@ -3,38 +3,43 @@
 # This file is distributed under the same license as the original article.
 # Fernando Lozano, 2001.
 # Jan 2015: GNUNify; licensa > licença (T. Godefroy).
+# Rafael Fontenelle <rafaelff@gnome.org>, 2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: enforcing-gpl.html\n"
-"POT-Creation-Date: 2014-03-14 04:33+0000\n"
-"PO-Revision-Date: 2021-05-03 10:15-0300\n"
+"POT-Creation-Date: 2021-09-05 08:25+0000\n"
+"PO-Revision-Date: 2021-08-21 11:07-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <title>
 msgid "Enforcing the GNU GPL - GNU Project - Free Software Foundation"
 msgstr "Fazendo Valer a GNU GPL - Projeto GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Enforcing the GNU GPL"
 msgstr "Fazendo Valer a GNU GPL"
 
-#. type: Content of: <p>
+#. type: Content of: <div><address>
 msgid ""
-"by <a href=\"http://moglen.law.columbia.edu/\"><strong>Eben Moglen</strong></"
-"a>"
-msgstr "por <a href=\"http://moglen.law.columbia.edu/\">Eben Moglen</a>"
+"by <a href=\"http://moglen.law.columbia.edu/\">Eben Moglen</a>&nbsp;<a href="
+"\"#moglen\"><sup>[*]</sup></a>"
+msgstr ""
+"por <a href=\"http://moglen.law.columbia.edu/\">Eben Moglen</a>&nbsp;<a href="
+"\"#moglen\"><sup>[*]</sup></a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<em>10 September 2001</em>"
 msgstr "<em>10 de Setembro de 2001</em>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Microsoft's anti-GPL offensive this summer has sparked renewed speculation "
 "about whether the GPL is &ldquo;enforceable.&rdquo; This particular example "
@@ -51,7 +56,7 @@ msgstr ""
 "isto me deixa pensando sobre porque está todo mundo preocupado: Fazer valer "
 "a <a href=\"/licenses/gpl.html\">GPL</a> é algo que eu faço o tempo todo."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Because <a href=\"/philosophy/free-sw.html\">free software</a> is an "
 "unorthodox concept in contemporary society, people tend to assume that such "
@@ -82,7 +87,7 @@ msgstr ""
 "possível, é uma máquina bastante robusta precisamente porque ela é feita das "
 "partes mais simples."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The essence of copyright law, like other systems of property rules, is the "
 "power to exclude.  The copyright holder is legally empowered to exclude all "
@@ -93,7 +98,7 @@ msgstr ""
 "de excluir todos os demais de copiar, distribuir, e criar trabalhos "
 "derivados."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This right to exclude implies an equally large power to license&mdash;that "
 "is, to grant permission to do what would otherwise be forbidden.  Licenses "
@@ -108,7 +113,7 @@ msgstr ""
 "porque ele não tem nenhum direito de agir exceto dentro do que a licença "
 "permitir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But most proprietary software companies want more power than copyright alone "
 "gives them.  These companies say their software is &ldquo;licensed&rdquo; to "
@@ -131,7 +136,7 @@ msgstr ""
 "de clique” on-line. Copyright é apenas uma desculpa para retirar ainda mais "
 "[liberdade] dos usuários."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The GPL, on the other hand, subtracts from copyright rather than adding to "
 "it.  The license doesn't have to be complicated, because we try to control "
@@ -157,7 +162,7 @@ msgstr ""
 "copyright. Licenças muito mais restritivas são geralmente válidas; cada "
 "licença em cada um processo de copyright é mais restritiva do que a GPL."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Because there's nothing complex or controversial about the license's "
 "substantive provisions, I have never even seen a serious argument that the "
@@ -169,7 +174,7 @@ msgstr ""
 "licenciante. Mas às vezes se diz que a GPL não pode ser imposta porque os "
 "usuários não a “aceitaram”."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This claim is based on a misunderstanding.  The license does not require "
 "anyone to accept it in order to acquire, install, use, inspect, or even "
@@ -205,7 +210,7 @@ msgstr ""
 "cada cópia de software coberto por ela inclua o texto da licença, de modo "
 "que todos estejam bem informados."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Despite the FUD, as a copyright license the GPL is absolutely solid.  That's "
 "why I've been able to enforce it dozens of times over nearly ten years, "
@@ -215,7 +220,7 @@ msgstr ""
 "por isso que eu fui capaz de fazê-la valer dúzias de vezes em quase dez "
 "anos, sem nunca ter que ir à corte."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Meanwhile, much murmuring has been going on in recent months to the supposed "
 "effect that the absence of judicial enforcement, in US or other courts, "
@@ -235,7 +240,7 @@ msgstr ""
 "Nós nunca nos vimos defendendo a GPL na corte porque ninguém ainda assumiu o "
 "risco de contestá-la contra nós ali."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So what happens when the GPL is violated? With software for which the Free "
 "Software Foundation holds the copyright (either because we wrote the "
@@ -259,7 +264,7 @@ msgstr ""
 "violações que nos ajudem a estabelecer os fatos pertinentes</a>, e então nós "
 "conduzimos qualquer investigação que seja necessária."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We reach this stage dozens of times a year.  A quiet initial contact is "
 "usually sufficient to resolve the problem.  Parties thought they were "
@@ -286,7 +291,7 @@ msgstr ""
 "tornariam a subsequente ação judicial simples e rápida em caso de futuras "
 "violações."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In approximately a decade of enforcing the GPL, I have never insisted on "
 "payment of damages to the Foundation for violation of the license, and I "
@@ -303,7 +308,7 @@ msgstr ""
 "os objetivos mais importantes. Nós sempre fizemos tudo para tornar fácil aos "
 "violadores se adequarem, e nós oferecemos perdão para ocorrências passadas."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In the early years of the free software movement, this was probably the only "
 "strategy available.  Expensive and burdensome litigation might have "
@@ -334,7 +339,7 @@ msgstr ""
 "batalha judicial que nunca poderia ser ganha, os violadores escolheram não "
 "fazer do jeito difícil."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We have even, once or twice, faced enterprises which, under US copyright "
 "law, were engaged in deliberate, criminal copyright infringement: taking the "
@@ -366,7 +371,7 @@ msgstr ""
 "pertinência da questão. O roubo de software livre é um lugar onde o crime "
 "não compensa."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But perhaps we have succeeded too well.  If I had used the courts to enforce "
 "the GPL years ago, Microsoft's whispering would now be falling on deaf "
@@ -384,7 +389,7 @@ msgstr ""
 "posso. Eu realmente necessito de alguém para ser o exemplo. Você gostaria de "
 "ser o voluntário?”"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Someday someone will.  But that someone's customers are going to go "
 "elsewhere, talented technologists who don't want their own reputations "
@@ -404,15 +409,15 @@ msgstr ""
 "o ponto. Software livre é importante porque ele mostra que o modo diferente "
 "é o modo certo no final das contas."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"<cite> Eben Moglen is professor of law and legal history at Columbia "
-"University Law School.  He serves without fee as General Counsel of the Free "
-"Software Foundation.  </cite>"
+"[*] Eben Moglen is professor of law and legal history at Columbia University "
+"Law School.  He serves without fee as General Counsel of the Free Software "
+"Foundation."
 msgstr ""
-"<cite>Eben Moglen é professor de direito e história legal na Escola de "
-"Direito da Universidade da Colúmbia. Ele serve sem cobrar honorários como "
-"Conselheiro Geral da Fundação para o Software Livre.</cite>"
+"[*] Eben Moglen é professor de direito e história legal na Escola de Direito "
+"da Universidade da Colúmbia. Ele serve sem cobrar honorários como "
+"Conselheiro Geral da Free Software Foundation."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -440,14 +445,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
@@ -455,8 +460,8 @@ msgstr ""
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas deste site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
 msgid "Copyright &copy; 2001 Eben Moglen"

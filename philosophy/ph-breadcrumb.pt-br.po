@@ -1,0 +1,312 @@
+# Brazilian Portuguese translation of https://www.gnu.org/philosophy/ph-breadcrumb.html
+# Copyright (C) 2021 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ph-breadcrumb.html\n"
+"POT-Creation-Date: 2021-08-19 08:01+0000\n"
+"PO-Revision-Date: 2021-08-21 11:05-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 40.0\n"
+
+#. type: Attribute 'title' of: <div><img>
+msgid "GNU Home"
+msgstr "Página inicial do GNU"
+
+#. type: Content of: outside any tag (error?)
+msgid "&nbsp;/"
+msgstr "&nbsp;/"
+
+#. #set var='LINK'
+#.  value='<a href="/philosophy/philosophy.html#content">' 
+#. #echo
+#.  encoding='none' var='LINK' 
+#. type: Content of: outside any tag (error?)
+msgid "Philosophy"
+msgstr "Filosofia"
+
+#. #if expr="$TAGS = /speeches/" 
+#. #set var='LINK'
+#.  value='<a href="/philosophy/speeches-and-interview#content">' 
+#. #echo
+#.  encoding='none' var='LINK' 
+#. type: Content of: outside any tag (error?)
+msgid "Speeches&nbsp;&amp;&nbsp;interviews"
+msgstr "Discursose&nbsp;e&nbsp;entrevistas"
+
+#. #elif expr="$TAGS = /thirdparty/" 
+#. #set var='LINK'
+#.  value='<a href="/philosophy/third-party-ideas.html#content">' 
+#. #echo
+#.  encoding='none' var='LINK' 
+#. type: Content of: outside any tag (error?)
+msgid "Third&nbsp;party&nbsp;ideas"
+msgstr "Ideias&nbsp;de&nbsp;terceiros"
+
+#. #else 
+#. #set var='LINK'
+#.  value='<a href="/philosophy/essays-and-articles.html#content">' 
+#. #echo
+#.  encoding='none' var='LINK' 
+#. type: Content of: outside any tag (error?)
+msgid "Essays&nbsp;&amp;&nbsp;articles"
+msgstr "Artigos&nbsp;e&nbsp;ensaios"
+
+#. #if expr="$TAGS = /aboutfs/" 
+#. #set var='LINK'
+#.  value='<a href="/philosophy/essays-and-articles.html#aboutfs">' 
+#. #echo
+#.  encoding='none' var='LINK' 
+#. type: Content of: outside any tag (error?)
+msgid "About&nbsp;free&nbsp;software"
+msgstr "Sobre&nbsp;software&nbsp;livre"
+
+#. #if expr="$TAGS = /principles/" 
+#. #set var='LINK'
+#.  value='<a href="/philosophy/essays-and-articles.html#principles">' 
+#. #echo
+#.  encoding='none' var='LINK' 
+#. type: Content of: outside any tag (error?)
+msgid "Principles"
+msgstr "Princípios"
+
+#. #elif expr="$TAGS = /practice/" 
+#. #set var='LINK'
+#.  value='<a href="/philosophy/essays-and-articles.html#practice">' 
+#. #echo
+#.  encoding='none' var='LINK' 
+#. type: Content of: outside any tag (error?)
+msgid "Practice"
+msgstr "Prática"
+
+#. #elif expr="$TAGS = /extension/" 
+#. #set var='LINK'
+#.  value='<a href="/philosophy/essays-and-articles.html#extension">' 
+#. #echo
+#.  encoding='none' var='LINK' 
+#. type: Content of: outside any tag (error?)
+msgid "Other&nbsp;areas"
+msgstr "Outras&nbsp;áreas"
+
+#. #elif expr="$TAGS = /free-open/" 
+#. #set var='LINK'
+#.  value='<a href="/philosophy/essays-and-articles.html#free-open">' 
+#. #echo
+#.  encoding='none' var='LINK' 
+#. type: Content of: outside any tag (error?)
+msgid "Free&nbsp;software&nbsp;&amp;&nbsp;open&nbsp;source"
+msgstr "Software&nbsp;livre&nbsp;e&nbsp;código&nbsp;aberto"
+
+#. #elif expr="$TAGS = /free-nonfree/" 
+#. #set var='LINK'
+#.  value='<a href="/philosophy/essays-and-articles.html#free-nonfree">' 
+#. #echo
+#.  encoding='none' var='LINK' 
+#. type: Content of: outside any tag (error?)
+msgid "Mixing&nbsp;free&nbsp;&amp;&nbsp;nonfree"
+msgstr "Misturando&nbsp;livre&nbsp;e&nbsp;não&nbsp;livre"
+
+#. #endif 
+#. #elif expr="$TAGS = /upholding/" 
+#. #set var='LINK'
+#.  value='<a href="/philosophy/essays-and-articles.html#upholding">' 
+#. #echo
+#.  encoding='none' var='LINK' 
+#. type: Content of: outside any tag (error?)
+msgid "Upholding&nbsp;free&nbsp;software"
+msgstr "Defendendo&nbsp;o&nbsp;software&nbsp;livre"
+
+#. #if expr="$TAGS = /fsmovement/" 
+#. #set var='LINK'
+#.  value='<a href="/philosophy/essays-and-articles.html#fsmovement">' 
+#. #echo
+#.  encoding='none' var='LINK' 
+#. type: Content of: outside any tag (error?)
+msgid "Free&nbsp;software&nbsp;movement"
+msgstr "Movimento&nbsp;software&nbsp;livre"
+
+#. #elif expr="$TAGS = /need/" 
+#. #set var='LINK'
+#.  value='<a href="/philosophy/essays-and-articles.html#need">' 
+#. #echo
+#.  encoding='none' var='LINK' 
+#. type: Content of: outside any tag (error?)
+msgid "Need&nbsp;for&nbsp;free&nbsp;software"
+msgstr "Necessidade&nbsp;por&nbsp;software&nbsp;livre"
+
+#. #elif expr="$TAGS = /action/" 
+#. #set var='LINK'
+#.  value='<a href="/philosophy/essays-and-articles.html#action">' 
+#. #echo
+#.  encoding='none' var='LINK' 
+#. type: Content of: outside any tag (error?)
+msgid "Guide&nbsp;for&nbsp;action"
+msgstr "Guia&nbsp;para&nbsp;ação"
+
+#. #endif 
+#. #elif expr="$TAGS = /licensing/" 
+#. #set var='LINK'
+#.  value='<a href="/philosophy/essays-and-articles.html#LicensingFreeSoftware">' 
+#. #echo
+#.  encoding='none' var='LINK' 
+#. type: Content of: outside any tag (error?)
+msgid "Licensing&nbsp;free&nbsp;software"
+msgstr "Licenciando&nbsp;software&nbsp;livre"
+
+#. #if expr="$TAGS = /copyleft/" 
+#. #set var='LINK'
+#.  value='<a href="/philosophy/essays-and-articles.html#copyleft">' 
+#. #echo
+#.  encoding='none' var='LINK' 
+#. type: Content of: outside any tag (error?)
+msgid "Copyleft"
+msgstr "Copyleft"
+
+#. #elif expr="$TAGS = /non-cpleft/" 
+#. #set var='LINK'
+#.  value='<a href="/philosophy/essays-and-articles.html#non-copyleft">' 
+#. #echo
+#.  encoding='none' var='LINK' 
+#. type: Content of: outside any tag (error?)
+msgid "Non-copyleft"
+msgstr "Não&nbsp;copyleft"
+
+#. #elif expr="$TAGS = /traps/" 
+#. #set var='LINK'
+#.  value='<a href="/philosophy/essays-and-articles.html#traps">' 
+#. #echo
+#.  encoding='none' var='LINK' 
+#. type: Content of: outside any tag (error?)
+msgid "Traps"
+msgstr "Armadilhas"
+
+#. #endif 
+#. #elif expr="$TAGS = /laws/" 
+#. #set var='LINK'
+#.  value='<a href="/philosophy/essays-and-articles.html#Laws">' 
+#. #echo
+#.  encoding='none' var='LINK' 
+#. type: Content of: outside any tag (error?)
+msgid "Legal&nbsp;issues"
+msgstr "Problemas&nbsp;legais"
+
+#. #if expr="$TAGS = /patents/" 
+#. #set var='LINK'
+#.  value='<a href="/philosophy/essays-and-articles.html#patents">' 
+#. #echo
+#.  encoding='none' var='LINK' 
+#. type: Content of: outside any tag (error?)
+msgid "Patents"
+msgstr "Patentes"
+
+#. #elif expr="$TAGS = /copyright/" 
+#. #set var='LINK'
+#.  value='<a href="/philosophy/essays-and-articles.html#copyright">' 
+#. #echo
+#.  encoding='none' var='LINK' 
+#. type: Content of: outside any tag (error?)
+msgid "Copyright"
+msgstr "Copyright"
+
+#. #elif expr="$TAGS = /noip/" 
+#. #set var='LINK'
+#.  value='<a href="/philosophy/essays-and-articles.html#noip">' 
+#. #echo
+#.  encoding='none' var='LINK' 
+#. type: Content of: outside any tag (error?)
+msgid "&ldquo;Intellectual&nbsp;property&rdquo;"
+msgstr "“Propriedade&nbsp;intelectual”"
+
+#. #elif expr="$TAGS = /sco/" 
+#. #set var='LINK'
+#.  value='<a href="/philosophy/essays-and-articles.html#sco">' 
+#. #echo
+#.  encoding='none' var='LINK' 
+#. type: Content of: outside any tag (error?)
+msgid "SCO's&nbsp;attacks"
+msgstr "Ataques&nbsp;da&nbsp;SCO"
+
+#. #endif 
+#. #elif expr="$TAGS = /cultural/" 
+#. #set var='LINK'
+#.  value='<a href="/philosophy/essays-and-articles.html#cultural">' 
+#. #echo
+#.  encoding='none' var='LINK' 
+#. type: Content of: outside any tag (error?)
+msgid "Cultural&nbsp;&amp;&nbsp;social&nbsp;issues"
+msgstr "Problemas&nbsp;sociais&nbsp;e&nbsp;culturais"
+
+#. #if expr="$TAGS = /society/" 
+#. #set var='LINK'
+#.  value='<a href="/philosophy/essays-and-articles.html#society">' 
+#. #echo
+#.  encoding='none' var='LINK' 
+#. type: Content of: outside any tag (error?)
+msgid "Digital&nbsp;society"
+msgstr "Sociedade&nbsp;digital"
+
+#. #elif expr="$TAGS = /drm/" 
+#. #set var='LINK'
+#.  value='<a href="/philosophy/essays-and-articles.html#drm">' 
+#. #echo
+#.  encoding='none' var='LINK' 
+#. type: Content of: outside any tag (error?)
+msgid "DRM"
+msgstr "DRM"
+
+#. #elif expr="$TAGS = /ns/" 
+#. #set var='LINK'
+#.  value='<a href="/philosophy/essays-and-articles.html#ns">' 
+#. #echo
+#.  encoding='none' var='LINK' 
+#. type: Content of: outside any tag (error?)
+msgid "Network&nbsp;services"
+msgstr "Serviços&nbsp;de&nbsp;rede"
+
+#. #elif expr="$TAGS = /access/" 
+#. #set var='LINK'
+#.  value='<a href="/philosophy/essays-and-articles.html#access">' 
+#. #echo
+#.  encoding='none' var='LINK' 
+#. type: Content of: outside any tag (error?)
+msgid "Accessing&nbsp;culture"
+msgstr "Acessando&nbsp;cultura"
+
+#. #elif expr="$TAGS = /funding/" 
+#. #set var='LINK'
+#.  value='<a href="/philosophy/essays-and-articles.html#funding">' 
+#. #echo
+#.  encoding='none' var='LINK' 
+#. type: Content of: outside any tag (error?)
+msgid "Funding&nbsp;culture"
+msgstr "Financiando&nbsp;cultura"
+
+#. #elif expr="$TAGS = /evils/" 
+#. #set var='LINK'
+#.  value='<a href="/philosophy/essays-and-articles.html#evils">' 
+#. #echo
+#.  encoding='none' var='LINK' 
+#. type: Content of: outside any tag (error?)
+msgid "Surveillance&nbsp;etc."
+msgstr "Vigilância&nbsp;etc."
+
+#. #endif 
+#. #elif expr="$TAGS = /term/" 
+#. #set var='LINK'
+#.  value='<a href="/philosophy/essays-and-articles.html#terminology">' 
+#. #echo
+#.  encoding='none' var='LINK' 
+#. type: Content of: outside any tag (error?)
+msgid "Terminology"
+msgstr "Terminologia"
+
+#~ msgid "Misc"
+#~ msgstr "Diversos"

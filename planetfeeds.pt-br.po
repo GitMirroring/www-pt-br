@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: planetfeeds.html\n"
-"POT-Creation-Date: 2021-06-21 05:56+0000\n"
-"PO-Revision-Date: 2021-06-25 20:04-0300\n"
+"POT-Creation-Date: 2021-09-02 17:28+0000\n"
+"PO-Revision-Date: 2021-09-05 12:46-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -17,50 +17,265 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1)\n"
 "X-Generator: Gtranslator 40.0\n"
 
+#. type: Content of: <p><a>
+msgid ""
+"<a href='http://www.fsf.org/blogs/licensing/fsf-funded-call-for-white-papers-"
+"on-philosophical-and-legal-questions-around-copilot'>"
+msgstr ""
+"<a href='http://www.fsf.org/blogs/licensing/fsf-funded-call-for-white-papers-"
+"on-philosophical-and-legal-questions-around-copilot'>"
+
+#. type: Content of: <p><a>
+msgid ""
+"FSF-funded call for white papers on philosophical and legal questions around "
+"Copilot"
+msgstr ""
+"Chamada de artigos financiada pela FSF sobre questões filosóficas e "
+"jurídicas em torno do Copilot"
+
 #. type: Content of: <p>
-msgid "Substitutes now also available from bordeaux.guix.gnu.org"
-msgstr "Substitutos agora também disponíveis em bordeaux.guix.gnu.org"
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <p>
+msgid "August GNU Spotlight with Mike Gerwitz: 13 new GNU releases!"
+msgstr "Holofote GNU de agosto com Mike Gerwitz: 13 novos lançamentos!"
 
 #.  TRANSLATORS: 
-#. https://guix.gnu.org/blog/2021/substitutes-now-also-available-from-bordeauxguixgnuorg/ 
+#. http://www.fsf.org/blogs/community/august-gnu-spotlight-with-mike-gerwitz-13-new-gnu-releases 
+#. type: Content of: <p>
+msgid ": 13 new GNU releases in the last month (as of August 29, 2021):"
+msgstr ": 13 novos lançamentos do GNU no último mês (até 29 de agosto, 2021):"
+
 #. type: Content of: <p>
 msgid ""
-": There have been a number of different project operated sources of "
-"substitutes, for the last couple of years the default source of su..."
+"FSF copyright handling: A basis for distribution, licensing and enforcement"
 msgstr ""
-": Houve uma série de fontes de substitutos operadas por projeto diferentes, "
-"nos últimos dois anos a fonte padrão de..."
+"Tratamento de direitos autorais da FSF: uma base para distribuição, "
+"licenciamento e aplicação"
 
-#. type: Content of: <p>
-msgid "GNU dbm Version 1.20"
-msgstr "GNU dbm versão 1.20"
+#, fuzzy
+#~| msgid "GNU poke 1.3 released"
+#~ msgid "GNU Taler v0.8 released"
+#~ msgstr "GNU poke 1.3 lançado"
 
-#.  TRANSLATORS: 
-#. http://savannah.gnu.org/forum/forum.php?forum_id=10011 
-#. type: Content of: <p>
-msgid ""
-": Version 1.20 is available for download. Changes in this version: New "
-"bucket cache The bucket cache support has been rewritten from scratch. The "
-"new code provides for significant..."
-msgstr ""
-": A versão 1.20 está disponível para download. Novo neste lançamento: Novo "
-"cache de bucket O suporte de cache de bucket foi reescrito do zero. O novo "
-"código fornece para..."
+#, fuzzy
+#~| msgid ": We are extremely happy to announce the release of Bison 3.6..."
+#~ msgid ": We are happy to announce the release of GNU Taler v0.8."
+#~ msgstr ""
+#~ ": Estamos extremamente felizes em anunciar o lançamento do Bison 3.6..."
 
-#. type: Content of: <p>
-msgid "How to issue a privacy-preserving central bank digital currency"
-msgstr ""
-"Como emitir uma moeda digital para o banco central que preserva a privacidade"
+#, fuzzy
+#~| msgid "MyGNUHealth maintenance release 1.0.2 is out!"
+#~ msgid "MyGNUHealth maintenance release 1.0.4 is out!"
+#~ msgstr "A versão de manutenção do MyGNUHealth 1.0.2 foi lançada!"
 
-#.  TRANSLATORS: 
-#. https://taler.net/en/news/news/2021-06.html 
-#. type: Content of: <p>
-msgid ""
-": We are happy to announce the publication of our policy brief on\"How to "
-"issue a privacy-preserving central bank digital currenc..."
-msgstr ""
-": Temos o prazer de anunciar a publicação de nosso resumo de política sobre "
-"\"Como emitir uma moeda digital de banco central para..."
+#, fuzzy
+#~| msgid ""
+#~| ": Dear GNU community: I am happy to announce that the release 1.0.3 of "
+#~| "the GNU Health Personal Health Record (PHR) component, MyGNUHealth. This "
+#~| "release updates the..."
+#~ msgid ""
+#~ ": Dear community I am pleased to announce the maintanance release 1.0.4 "
+#~ "from MyGNUHealth, the GNUHealth Personal Health Record. It fixes "
+#~ "plotting..."
+#~ msgstr ""
+#~ ": Prezada comunidade GNU: Tenho o prazer de anunciar o lançamento 1.0.3 "
+#~ "do componente GNU Health Personal Health Record (PHR), MyGNUHealth. Esta "
+#~ "versão atualiza o..."
+
+#, fuzzy
+#~| msgid "GNU Parallel 20210522 (&#39;Gaza&#39;) released"
+#~ msgid "GNU Parallel 20210822 (&#39;Kabul&#39;) released"
+#~ msgstr "GNU Parallel 20210522 (&#39;Gaza&#39;) lançado"
+
+#, fuzzy
+#~| msgid ""
+#~| ": GNU Parallel 20210522 (&#39;Gaza&#39;) has been released. It is "
+#~| "available for download at: lbry://@GnuParallel:4 Please help spreading "
+#~| "GNU Par..."
+#~ msgid ""
+#~ ": GNU Parallel 20210822 (&#39;Kabul&#39;) has been released. It is "
+#~ "available for download at: lbry://@GnuParallel:4 Quote of the month: Safe "
+#~ "to..."
+#~ msgstr ""
+#~ ": GNU Parallel 20210522 (&#39;Gaza&#39;) foi lançado. Está disponível "
+#~ "para download em: lbry://@GnuParallel:4 Por favor, ajuda a espalhar o "
+#~ "GNU..."
+
+#, fuzzy
+#~| msgid "parted-3.4 released [stable]"
+#~ msgid "grep-3.7 released [stable]"
+#~ msgstr "parted-3.4 lançado [estável]"
+
+#, fuzzy
+#~| msgid ""
+#~| ": This is to announce automake-1.16.3, a stable release. There have been "
+#~| "62 commits by 15 people in the 35 weeks since 1.16.2.  Special thanks to "
+#~| "Karl Berry an..."
+#~ msgid ""
+#~ ": This is to announce grep-3.7, a stable release. There have been 33 "
+#~ "commits by 6 people in the 40 weeks since 3.6. See the NEWS below for a "
+#~ "brief summary. Thanks to..."
+#~ msgstr ""
+#~ ": Isso é para anunciar o automake-1.16.3, uma versão estável. Houve 62 "
+#~ "commits por 15 pessoas nas 35 semanas desde o 1.16.2. Agradecimento "
+#~ "especial para Karl..."
+
+#~ msgid "Code Blau GmbH deploys first external Taler auditor"
+#~ msgstr "Code Blau GmbH implanta o primeiro auditor Taler externo"
+
+#~ msgid ""
+#~ ": We received a grant from NLnet foundation with the goal to qualify Code "
+#~ "Blau GmbH to act as an external auditor for GNU Taler. To do this..."
+#~ msgstr ""
+#~ ": Recebemos uma doação da fundação NLnet com o objetivo de qualificar a "
+#~ "Code Blau GmbH para atuar como auditor externo do GNU Taler. Para fazer "
+#~ "isso..."
+
+#~ msgid "GNUnet 0.15.0"
+#~ msgstr "GNUnet 0.15.0"
+
+#~ msgid ""
+#~ ": GNUnet 0.15.0 released We are pleased to announce the release of GNUnet "
+#~ "0.15.0. This is a new major release. It breaks protocol compatibility "
+#~ "with the 0.14.x versions. Please b..."
+#~ msgstr ""
+#~ ": GNUnet 0.15.0 lançado Temos o prazer de anunciar o lançamento do GNUnet "
+#~ "0.15.0. Esse é um lançamento principal. Ele quebra a compatibilidade de "
+#~ "protocolo com as versões 0.14.x..."
+
+#, fuzzy
+#~| msgid "The GNU C Library version 2.31 is now available"
+#~ msgid "The GNU C Library version 2.34 is now available"
+#~ msgstr "O GNU C Library versão 2.31 está agora disponível"
+
+#, fuzzy
+#~| msgid ""
+#~| ": The GNU C Library ================= The GNU C Library version 2.31 is "
+#~| "now available. The GNU C Library is used as the C library in the GNU "
+#~| "sys..."
+#~ msgid ""
+#~ ": The GNU C Library ================= The GNU C Library version 2.34 is "
+#~ "now available. The GNU C Library is used as the C library in the GNU "
+#~ "sys..."
+#~ msgstr ""
+#~ ": GNU C Library ================= GNU C Library versão 2.31 está agora "
+#~ "disponível. GNU C Library é usada como a biblioteca C no sistema GNU..."
+
+#~ msgid "FSF job opportunity: Operations assistant"
+#~ msgstr "Oportunidade de trabalho na FSF: assistente de operações"
+
+#~ msgid ""
+#~ ": The Free Software Foundation (FSF), a Massachusetts 501(c)(3) charity "
+#~ "with a worldwide mission to protect and promote computer-user freedom, "
+#~ "seeks a..."
+#~ msgstr ""
+#~ ": A Free Software Foundation (FSF), uma instituição de caridade em "
+#~ "Massachusetts 501(c)(3) com uma missão mundial para proteger a liberdade "
+#~ "do usuário de computa..."
+
+#~ msgid "Release of MyGNUHealth 1.0.3"
+#~ msgstr "Lançamento de MyGNUHealth 1.0.3"
+
+#~ msgid ""
+#~ ": MyGNUHealth 1.0.2 is ready to be downloaded from GNU.org! This "
+#~ "maintenance release fixes some issues with global (drawer) menus in MATE, "
+#~ "XFCE de..."
+#~ msgstr ""
+#~ ": MyGNUHealth 1.0.2 está pronto para ser baixado do GNU.org! Esta versão "
+#~ "de manutenção corrige alguns problemas com menus globais (gaveta) no "
+#~ "MATE, XFCE de..."
+
+#~ msgid "Step by step encryption with the updated Email Self-Defense guide"
+#~ msgstr ""
+#~ "Criptografia passo a passo com o guia de autodefesa de e-mail atualizado"
+
+#~ msgid "Push freedom even further at double the speed this week"
+#~ msgstr ""
+#~ "Leve a liberdade ainda mais longe com o dobro da velocidade esta semana"
+
+#, fuzzy
+#~| msgid "FSF board frequently asked questions (FAQ)"
+#~ msgid "New! Contributor&#39;s Frequently Asked Questions (FAQ) guide"
+#~ msgstr "Perguntas frequentes à diretoria da FSF (FAQ)"
+
+#, fuzzy
+#~| msgid "Gnuastro 0.15 released"
+#~ msgid "Texinfo 6.8 released"
+#~ msgstr "Gnuastro 0.15 lançado"
+
+#, fuzzy
+#~| msgid ""
+#~| ": We have released version 6.6 of Texinfo, the GNU documentation format. "
+#~| "It&#39;s available via a mirror (xz is much smaller than gz, but gz is "
+#~| "available too just in case)..."
+#~ msgid ""
+#~ ": We have released version 6.8 of Texinfo, the GNU documentation format. "
+#~ "It&#39;s available via a mirror (xz is much smaller than gz, but gz is "
+#~ "available too just in case)..."
+#~ msgstr ""
+#~ ": Lançamos a versão 6.6 do Texinfo, o formato de documentação do GNU. "
+#~ "Está disponível através de um espelho (xz é muito menor que gz, mas gz "
+#~ "está disponível também)..."
+
+#~ msgid "Welcome to MyGNUHealth, the GNU Health Libre Personal Health Record"
+#~ msgstr ""
+#~ "Bem-vindo ao MyGNUHealth, o registro de saúde pessoal livre do GNU Health"
+
+#~ msgid ""
+#~ ": Original article including MyGNUHealth pictures is at (https://"
+#~ "meanmicio.org/2021/06/24/welcome-to-mygnuhealth-the-libre-p..."
+#~ msgstr ""
+#~ ": Artigo original incluindo fotos de MyGNUHealth está em (https://"
+#~ "meanmicio.org/2021/06/24/welcome-to-mygnuhealth-the-libre-p..."
+
+#~ msgid "Support the FSF tech team"
+#~ msgstr "Apoie a equipe de tecnologia da FSF"
+
+#~ msgid "Welcome to MyGNUHealth, the Libre Personal Health Record"
+#~ msgstr "Bem-vindo ao MyGNUHealth, o registro de saúde pessoal livre"
+
+#~ msgid ""
+#~ ": MyGNUHealth 1.0 us out! The GNU Health Libre Personal Health Record is "
+#~ "now ready for prime time! This is great news. Great news becau..."
+#~ msgstr ""
+#~ ": MyGNUHealth 1.0 foi lançado! O registro de saúde pessoal GNU Health "
+#~ "Libre agora está pronto para o horário nobre! Esta é uma grande notícia..."
+
+#~ msgid "Substitutes now also available from bordeaux.guix.gnu.org"
+#~ msgstr "Substitutos agora também disponíveis em bordeaux.guix.gnu.org"
+
+#~ msgid ""
+#~ ": There have been a number of different project operated sources of "
+#~ "substitutes, for the last couple of years the default source of su..."
+#~ msgstr ""
+#~ ": Houve uma série de fontes de substitutos operadas por projeto "
+#~ "diferentes, nos últimos dois anos a fonte padrão de..."
+
+#~ msgid "GNU dbm Version 1.20"
+#~ msgstr "GNU dbm versão 1.20"
+
+#~ msgid ""
+#~ ": Version 1.20 is available for download. Changes in this version: New "
+#~ "bucket cache The bucket cache support has been rewritten from scratch. "
+#~ "The new code provides for significant..."
+#~ msgstr ""
+#~ ": A versão 1.20 está disponível para download. Novo neste lançamento: "
+#~ "Novo cache de bucket O suporte de cache de bucket foi reescrito do zero. "
+#~ "O novo código fornece para..."
+
+#~ msgid "How to issue a privacy-preserving central bank digital currency"
+#~ msgstr ""
+#~ "Como emitir uma moeda digital para o banco central que preserva a "
+#~ "privacidade"
+
+#~ msgid ""
+#~ ": We are happy to announce the publication of our policy brief on\"How to "
+#~ "issue a privacy-preserving central bank digital currenc..."
+#~ msgstr ""
+#~ ": Temos o prazer de anunciar a publicação de nosso resumo de política "
+#~ "sobre \"Como emitir uma moeda digital de banco central para..."
 
 #~ msgid "My internship at the FSF, and the domino effect of thoughts"
 #~ msgstr "Meu estágio na FSF e o efeito dominó de pensamentos"
@@ -134,9 +349,6 @@ msgstr ""
 #~ "GSL fornece uma grande coleção de rotinas para computação numérica em C. "
 #~ "Esta versão..."
 
-#~ msgid "GNU poke 1.3 released"
-#~ msgstr "GNU poke 1.3 lançado"
-
 #~ msgid ""
 #~ ": I am happy to announce a new release of GNU poke, version 1.3. This is "
 #~ "a bug fix release in the poke 1.x series. See the file NEWS in the "
@@ -158,9 +370,6 @@ msgstr ""
 #~ "meses, tenho trabalhado no MyGNUHealth e portado para o PinePhone. Por "
 #~ "que fazer isso? Porque..."
 
-#~ msgid "Gnuastro 0.15 released"
-#~ msgstr "Gnuastro 0.15 lançado"
-
 #~ msgid ""
 #~ ": The 15th release of Gnuastro is now available. See the full "
 #~ "announcement for more."
@@ -178,26 +387,8 @@ msgstr ""
 #~ ": Veja o anúncio de lançamento aqui: https://lists.gnu.org/archive/html/"
 #~ "m4-announce/2021-05/msg00002.html"
 
-#~ msgid "May GNU Spotlight with Mike Gerwitz: 11 new GNU releases!"
-#~ msgstr "Holofote GNU de maio com Mike Gerwitz: 11 novos lançamentos!"
-
-#~ msgid ": 11 new GNU releases in the last month (as of May 25, 2021):"
-#~ msgstr ": 11 novos lançamentos do GNU no último mês (até 25 de maio, 2021):"
-
 #~ msgid "Community meeting on the future of our IRC presence"
 #~ msgstr "Reunião da comunidade sobre o futuro da nossa presença no IRC"
-
-#~ msgid "GNU Parallel 20210522 (&#39;Gaza&#39;) released"
-#~ msgstr "GNU Parallel 20210522 (&#39;Gaza&#39;) lançado"
-
-#~ msgid ""
-#~ ": GNU Parallel 20210522 (&#39;Gaza&#39;) has been released. It is "
-#~ "available for download at: lbry://@GnuParallel:4 Please help spreading "
-#~ "GNU Par..."
-#~ msgstr ""
-#~ ": GNU Parallel 20210522 (&#39;Gaza&#39;) foi lançado. Está disponível "
-#~ "para download em: lbry://@GnuParallel:4 Por favor, ajuda a espalhar o "
-#~ "GNU..."
 
 #~ msgid "FreeIPMI 1.6.8 Released"
 #~ msgstr "FreeIPMI 1.6.8 lançado"
@@ -268,9 +459,6 @@ msgstr ""
 #~ ": BOSTON, Massachusetts, EUA -- sexta-feira, 30 de abril de 2021 -- a "
 #~ "Free Software Foundati..."
 
-#~ msgid "FSF board frequently asked questions (FAQ)"
-#~ msgstr "Perguntas frequentes à diretoria da FSF (FAQ)"
-
 #~ msgid "Beyond the shouting match: what is a blockchain, really?"
 #~ msgstr "Além da disputa de gritos: o que é um blockchain, realmente?"
 
@@ -309,9 +497,6 @@ msgstr ""
 #~ "Muitos outros erros menores foram corrigidos. Consulte https://www.gnu."
 #~ "org/software/libredwg/ e https://github.com/LibreDWG/libredwg/blob/0.12.4/"
 #~ "NEWS..."
-
-#~ msgid "GNUnet 0.14.1"
-#~ msgstr "GNUnet 0.14.1"
 
 #~ msgid ""
 #~ ": GNUnet 0.14.1Continuing to \"release early / release often\", we "
@@ -511,9 +696,6 @@ msgstr ""
 #~ ": Android Rebuilds fornece compilações licenciadas livremente de "
 #~ "ferramentas de desenvolvimento Android de uma empresa baseada em Mountain "
 #~ "View. Binários privativos são..."
-
-#~ msgid "parted-3.4 released [stable]"
-#~ msgstr "parted-3.4 lançado [estável]"
 
 #~ msgid ""
 #~ ": Parted 3.4 has been released. This release includes many bug fixes and "
@@ -754,24 +936,6 @@ msgstr ""
 
 #~ msgid "Support user freedom by purchasing gifts from the GNU Press Shop"
 #~ msgstr "Apoie a liberdade de usuário comprando presentes da GNU Press Shop"
-
-#~ msgid ""
-#~ ": This is to announce automake-1.16.3, a stable release. There have been "
-#~ "62 commits by 15 people in the 35 weeks since 1.16.2.  Special thanks to "
-#~ "Karl Berry an..."
-#~ msgstr ""
-#~ ": Isso é para anunciar o automake-1.16.3, uma versão estável. Houve 62 "
-#~ "commits por 15 pessoas nas 35 semanas desde o 1.16.2. Agradecimento "
-#~ "especial para Karl..."
-
-#~ msgid ""
-#~ ": GNUnet 0.14.0 released We are pleased to announce the release of GNUnet "
-#~ "0.14.0. This is a new major release. It breaks protocol compatibility "
-#~ "with the 0.13.x versions. Please b..."
-#~ msgstr ""
-#~ ": GNUnet 0.14.0 lançado Temos o prazer de anunciar o lançamento do GNUnet "
-#~ "0.14.0. Esse é um lançamento principal. Ele quebra a compatibilidade de "
-#~ "protocolo com as versões 0.13.x..."
 
 #~ msgid "[From Arch 32] plasma-workspace needs manual intervention"
 #~ msgstr "[Do Arch 32] plasma-workspace precisa de intervenção manual"
@@ -1018,10 +1182,6 @@ msgstr ""
 #~ "recuperação do coronavírus, escolas e universidades podem ter que "
 #~ "continuar sua luta para oferecer aos alunos uma educação de qualidade "
 #~ "enquanto usam serviços de comunicação remota ..."
-
-#~ msgid ": We are extremely happy to announce the release of Bison 3.6..."
-#~ msgstr ""
-#~ ": Estamos extremamente felizes em anunciar o lançamento do Bison 3.6..."
 
 #~ msgid "A new way to enjoy LibrePlanet 2020 sessions: Podcast format"
 #~ msgstr ""
@@ -1375,17 +1535,6 @@ msgstr ""
 #~ ": O FOSDEM 2020 acabou e o suporte a hiperlink acabou de chegar ao GNU "
 #~ "Poke! Espere, hiperlinks!? O que os hiperlinks, um conceito da Web, "
 #~ "significam para o GNU Poke, um aplicativo de terminal..."
-
-#~ msgid "The GNU C Library version 2.31 is now available"
-#~ msgstr "O GNU C Library versão 2.31 está agora disponível"
-
-#~ msgid ""
-#~ ": The GNU C Library ================= The GNU C Library version 2.31 is "
-#~ "now available. The GNU C Library is used as the C library in the GNU "
-#~ "sys..."
-#~ msgstr ""
-#~ ": GNU C Library ================= GNU C Library versão 2.31 está agora "
-#~ "disponível. GNU C Library é usada como a biblioteca C no sistema GNU..."
 
 #~ msgid "[From Arch] rsync compatibility"
 #~ msgstr "[Do Arch] Compatibilidade do rsync"
@@ -2574,15 +2723,6 @@ msgstr ""
 #~ "funcionando novamente, os quais tinham sido quebrados anteriormente por "
 #~ "causa do trab..."
 
-#~ msgid ""
-#~ ": We have released version 6.6 of Texinfo, the GNU documentation format. "
-#~ "It&#39;s available via a mirror (xz is much smaller than gz, but gz is "
-#~ "available too just in case)..."
-#~ msgstr ""
-#~ ": Lançamos a versão 6.6 do Texinfo, o formato de documentação do GNU. "
-#~ "Está disponível através de um espelho (xz é muito menor que gz, mas gz "
-#~ "está disponível também)..."
-
 #~ msgid "GNU FreeDink 109.6"
 #~ msgstr "GNU FreeDink 109.6"
 
@@ -3174,15 +3314,6 @@ msgstr ""
 #~ msgstr ""
 #~ ": Anúncios da Microsoft em 04 e 10 de outubro, que se juntou tanto a LOT "
 #~ "quanto a Open Invention Network (OIN), são sig..."
-
-#~ msgid ""
-#~ ": The Free Software Foundation (FSF), a Massachusetts 501(c)(3) charity "
-#~ "with a worldwide mission to protect computer user freedom, seeks a "
-#~ "motivated and ta..."
-#~ msgstr ""
-#~ ": A Free Software Foundation (FSF), uma instituição de caridade em "
-#~ "Massachusetts 501(c)(3) com uma missão mundial para proteger a liberdade "
-#~ "do usuário de computa..."
 
 #~ msgid ""
 #~ "John Sullivan - &quot;How can free communication tools win?&quot; "

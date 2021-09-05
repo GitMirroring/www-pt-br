@@ -2,11 +2,12 @@
 # Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Rafael Fontenelle <rafaelff@gnome.org>, 2019-2021.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: 15-years-of-free-software.html\n"
-"POT-Creation-Date: 2020-07-01 14:25+0000\n"
-"PO-Revision-Date: 2021-05-03 10:15-0300\n"
+"POT-Creation-Date: 2021-09-05 08:25+0000\n"
+"PO-Revision-Date: 2021-07-29 16:41-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -36,15 +37,15 @@ msgstr ""
 "Richard Stallman discute a história do movimento para desenvolver um sistema "
 "operacional livre."
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "15 Years of Free Software"
 msgstr "15 anos de software livre"
 
-#. type: Content of: <p>
-msgid "by <strong>Richard M. Stallman</strong>"
-msgstr "por <strong>Richard M. Stallman</strong>"
+#. type: Content of: <div><address>
+msgid "by Richard Stallman"
+msgstr "por Richard Stallman"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "It is now just over 15 years since the beginning of the Free Software "
 "Movement and the GNU Project. We have come a long way."
@@ -52,7 +53,7 @@ msgstr ""
 "Agora são apenas mais de 15 anos desde o início do Movimento Software Livre "
 "e do Projeto GNU. Percorremos um longo caminho."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In 1984, it was impossible to use a modern computer without installing a "
 "proprietary operating system, which you would have to obtain under a "
@@ -68,7 +69,7 @@ msgstr ""
 "atender às suas próprias necessidades. Os donos do software ergueram muros "
 "para nos dividir uns dos outros."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The GNU Project was founded to change all that. Its first goal: to develop a "
 "Unix-compatible portable operating system that would be 100% free software. "
@@ -89,7 +90,7 @@ msgstr ""
 "tempo diz que o GNU é algo diferente. Tecnicamente, o GNU é como o Unix. Mas "
 "ao contrário do Unix, o GNU dá liberdade aos seus usuários."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "It took many years of work, by hundreds of programmers, to develop this "
 "operating system. Some were paid by the Free Software Foundation and by free "
@@ -106,7 +107,7 @@ msgstr ""
 "juntos ajudaram a liberar o potencial da rede de computadores para toda a "
 "humanidade."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In 1991, the last major essential component of a Unix-like system was "
 "developed: Linux, the free kernel written by Linus Torvalds. Today, the "
@@ -124,7 +125,7 @@ msgstr ""
 "gráfico do GNU, que esperamos que torne o sistema GNU/Linux tão fácil de "
 "usar quanto qualquer outro sistema operacional."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But our freedom is not permanently assured. The world does not stand still, "
 "and we cannot count on having freedom five years from now, just because we "
@@ -143,7 +144,7 @@ msgstr ""
 "aplicativos livres para lidar com toda a gama de trabalhos que os usuários "
 "querem fazer."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In future columns, I will be writing about the specific challenges facing "
 "the free software community, and other issues affecting freedom for computer "
@@ -180,14 +181,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
@@ -195,12 +196,12 @@ msgstr ""
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas deste site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 1999, 2014, 2020 Richard M. Stallman"
-msgstr "Copyright &copy; 1999, 2014, 2020 Richard M. Stallman"
+msgid "Copyright &copy; 1999, 2021 Richard Stallman"
+msgstr "Copyright &copy; 1999, 2021 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -223,3 +224,9 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid "by <strong>Richard M. Stallman</strong>"
+#~ msgstr "por <strong>Richard M. Stallman</strong>"
+
+#~ msgid "Copyright &copy; 1999, 2014, 2020, 2021 Richard M. Stallman"
+#~ msgstr "Copyright &copy; 1999, 2014, 2020, 2021 Richard M. Stallman"

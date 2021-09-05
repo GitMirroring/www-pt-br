@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: home-pkgblurbs.html\n"
-"POT-Creation-Date: 2021-03-22 12:57+0000\n"
-"PO-Revision-Date: 2021-05-03 10:15-0300\n"
+"POT-Creation-Date: 2021-09-01 14:28+0000\n"
+"PO-Revision-Date: 2021-09-05 12:41-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -530,6 +530,18 @@ msgstr ""
 "conhecimento e a funcionalidade para trabalhar em sistemas planetários e "
 "investigar seu interior na liberdade.  <small>(<a href=\"/manual/manual."
 "html#behistun\">doc</a>)</small>"
+
+#. type: Content of: <h4>
+msgid "<a href=\"/software/bfd/\">BFD</a>"
+msgstr "<a href=\"/software/bfd/\">BFD</a>"
+
+#. type: Content of: <p>
+msgid ""
+"See <a href=\"#binutils\">binutils</a>.  <small>(<a href=\"/manual/manual."
+"html#bfd\">doc</a>)</small>"
+msgstr ""
+"Veja <a href=\"#binutils\">binutils</a>.  <small>(<a href=\"/manual/manual."
+"html#bfd\">doc</a>)</small>"
 
 #. type: Content of: <h4>
 msgid "<a href=\"/software/binutils/\">Binutils</a>"
@@ -1232,28 +1244,6 @@ msgstr ""
 "permite comparar três arquivos. Finalmente, o <code>sdiff</code> oferece um "
 "meio interativo para mesclar dois arquivos.  <small>(<a href=\"/manual/"
 "manual.html#diffutils\">doc</a>)</small>"
-
-#.  TRANSLATORS: stale 
-#. type: Content of: <h4>
-msgid "<a href=\"/software/dionysus/\">Dionysus</a>"
-msgstr "<a href=\"/software/dionysus/\">Dionysus</a>"
-
-#.  TRANSLATORS: stale 
-#. type: Content of: <p>
-msgid ""
-"GNU Dionysus is a convenient system for quickly retrieving the values of "
-"mathematical constants used in science and engineering.  Values can be "
-"searched using a simple command-line tool, choosing from three databases: "
-"universal constants, atomic numbers, and constants related to "
-"semiconductors.  <small>(<a href=\"/manual/manual.html#dionysus\">doc</a>)</"
-"small>"
-msgstr ""
-"GNU Dionysus é um sistema conveniente para recuperar rapidamente os valores "
-"das constantes matemáticas usadas em ciência e engenharia. Os valores podem "
-"ser pesquisados usando uma ferramenta de linha de comando simples, "
-"escolhendo entre três bancos de dados: constantes universais, números "
-"atômicos e constantes relacionadas a semicondutores.  <small>(<a href=\"/"
-"manual/manual.html#dionysus\">doc</a>)</small>"
 
 #. type: Content of: <h4>
 msgid "<a href=\"/software/direvent/\">Direvent</a>"
@@ -2145,25 +2135,6 @@ msgstr ""
 "html#glean\">doc</a>)</small>"
 
 #. type: Content of: <h4>
-msgid "<a href=\"/software/gleem/\">Gleem</a>"
-msgstr "<a href=\"/software/gleem/\">Gleem</a>"
-
-#. type: Content of: <p>
-msgid ""
-"GNU gleem is a library for Java and C++ offering a set of 3D widgets that "
-"support direct user interaction with a 3D scene.  These widgets are used to "
-"translate along a line, translate in a plane, and do three-dimensional "
-"translation and rotation.  This package is looking for a maintainer.  <small>"
-"(<a href=\"/manual/manual.html#gleem\">doc</a>)</small>"
-msgstr ""
-"GNU gleem é uma biblioteca para Java e C++ que oferece um conjunto de "
-"widgets 3D que oferecem suporte a a interação direta do usuário com uma cena "
-"3D. Esses widgets são usados para traduzir ao longo de uma linha, traduzir "
-"em um plano e fazer translação e rotação tridimensionais. Esse pacote está "
-"procurando por um mantenedor.  <small>(<a href=\"/manual/manual.html#gleem"
-"\">doc</a>)</small>"
-
-#. type: Content of: <h4>
 msgid "<a href=\"/software/glib/\">GLib</a>"
 msgstr "<a href=\"/software/glib/\">GLib</a>"
 
@@ -2330,22 +2301,6 @@ msgid ""
 msgstr ""
 "Veja <a href=\"#gnats\">gnats</a>.  <small>(<a href=\"/manual/manual."
 "html#gnatsweb\">doc</a>)</small>"
-
-#. type: Content of: <h4>
-msgid "<a href=\"/software/gneuralnetwork/\">Gneural Network</a>"
-msgstr "<a href=\"/software/gneuralnetwork/\">Gneural Network</a>"
-
-#. type: Content of: <p>
-msgid ""
-"Gneural Network implements a programmable neural network.  It currently "
-"supports feed-forward networks which can learn simple tasks such as curve-"
-"fitting.  <small>(<a href=\"/manual/manual.html#gneuralnetwork\">doc</a>)</"
-"small>"
-msgstr ""
-"Gneural Network implementa uma rede neural programável. Atualmente, oferece "
-"suporte a redes feedforward que podem aprender tarefas simples, como ajuste "
-"de curvas.  <small>(<a href=\"/manual/manual.html#gneuralnetwork\">doc</a>)</"
-"small>"
 
 #. type: Attribute 'alt' of: <h4><img>
 msgid "logo for gnome"
@@ -5628,29 +5583,6 @@ msgstr ""
 "anteriores.  <small>(<a href=\"/manual/manual.html#pth\">doc</a>)</small>"
 
 #. type: Content of: <h4>
-msgid "<a href=\"/software/pyconfigure/\">Pyconfigure</a>"
-msgstr "<a href=\"/software/pyconfigure/\">Pyconfigure</a>"
-
-#. type: Content of: <p>
-msgid ""
-"GNU pyconfigure provides template files for easily implementing standards-"
-"compliant configure scripts and Makefiles for Python-based packages.  It is "
-"designed to work alongside existing Python setup scripts, making it easy to "
-"integrate into existing projects.  Powerful and flexible Autoconf macros are "
-"available, allowing you to easily make adjustments to the installation "
-"procedure based on the capabilities of the target computer.  <small>(<a href="
-"\"/manual/manual.html#pyconfigure\">doc</a>)</small>"
-msgstr ""
-"GNU pyconfigure fornece arquivos de modelo para implementar facilmente os "
-"scripts de configure e Makefiles, compatíveis com padrões, para pacotes "
-"baseados em Python. Ele foi projetado para funcionar junto com os scripts de "
-"configuração existentes do Python, facilitando a integração em projetos "
-"existentes. Macros Autoconf poderosas e flexíveis estão disponíveis, "
-"permitindo que você faça ajustes facilmente no procedimento de instalação "
-"com base nos recursos do computador de destino.  <small>(<a href=\"/manual/"
-"manual.html#pyconfigure\">doc</a>)</small>"
-
-#. type: Content of: <h4>
 msgid "<a href=\"/software/qexo/\">Qexo</a>"
 msgstr "<a href=\"/software/qexo/\">Qexo</a>"
 
@@ -6525,22 +6457,6 @@ msgstr ""
 "href=\"/manual/manual.html#texmacs\">doc</a>)</small>"
 
 #. type: Content of: <h4>
-msgid "<a href=\"/software/thales/\">Thales</a>"
-msgstr "<a href=\"/software/thales/\">Thales</a>"
-
-#. type: Content of: <p>
-msgid ""
-"GNU Thales provides macros for performing unit testing in Guile and for "
-"checking the stability of the public interface of your modules.  This "
-"package is looking for a maintainer.  <small>(<a href=\"/manual/manual."
-"html#thales\">doc</a>)</small>"
-msgstr ""
-"GNU Thales fornece macros para realizar testes unitários no Guile e para "
-"verificar a estabilidade da interface pública de seus módulos. Este pacote "
-"está procurando um mantenedor.  <small>(<a href=\"/manual/manual.html#thales"
-"\">doc</a>)</small>"
-
-#. type: Content of: <h4>
 msgid "<a href=\"/software/time/\">Time</a>"
 msgstr "<a href=\"/software/time/\">Time</a>"
 
@@ -6961,7 +6877,7 @@ msgstr "<a href=\"/software/zile/\">Zile</a>"
 
 #. type: Content of: <p>
 msgid ""
-"GNU Zile is a lightweight Emacs clone.  It usage is similar to the default "
+"GNU Zile is a lightweight Emacs clone.  Its usage is similar to the default "
 "Emacs configuration, but it carries a much lighter feature set.  <small>(<a "
 "href=\"/manual/manual.html#zile\">doc</a>)</small>"
 msgstr ""
@@ -6969,15 +6885,89 @@ msgstr ""
 "padrão do Emacs, mas carrega um conjunto de recursos muito mais leve.  "
 "<small>(<a href=\"/manual/manual.html#zile\">doc</a>)</small>"
 
-#~ msgid "<a href=\"/software/bfd/\">BFD</a>"
-#~ msgstr "<a href=\"/software/bfd/\">BFD</a>"
+#~ msgid "<a href=\"/software/dionysus/\">Dionysus</a>"
+#~ msgstr "<a href=\"/software/dionysus/\">Dionysus</a>"
 
 #~ msgid ""
-#~ "See <a href=\"#binutils\">binutils</a>.  <small>(<a href=\"/manual/manual."
-#~ "html#bfd\">doc</a>)</small>"
+#~ "GNU Dionysus is a convenient system for quickly retrieving the values of "
+#~ "mathematical constants used in science and engineering.  Values can be "
+#~ "searched using a simple command-line tool, choosing from three databases: "
+#~ "universal constants, atomic numbers, and constants related to "
+#~ "semiconductors.  <small>(<a href=\"/manual/manual.html#dionysus\">doc</a>)"
+#~ "</small>"
 #~ msgstr ""
-#~ "Veja <a href=\"#binutils\">binutils</a>.  <small>(<a href=\"/manual/"
-#~ "manual.html#bfd\">doc</a>)</small>"
+#~ "GNU Dionysus é um sistema conveniente para recuperar rapidamente os "
+#~ "valores das constantes matemáticas usadas em ciência e engenharia. Os "
+#~ "valores podem ser pesquisados usando uma ferramenta de linha de comando "
+#~ "simples, escolhendo entre três bancos de dados: constantes universais, "
+#~ "números atômicos e constantes relacionadas a semicondutores.  <small>(<a "
+#~ "href=\"/manual/manual.html#dionysus\">doc</a>)</small>"
+
+#~ msgid "<a href=\"/software/gleem/\">Gleem</a>"
+#~ msgstr "<a href=\"/software/gleem/\">Gleem</a>"
+
+#~ msgid ""
+#~ "GNU gleem is a library for Java and C++ offering a set of 3D widgets that "
+#~ "support direct user interaction with a 3D scene.  These widgets are used "
+#~ "to translate along a line, translate in a plane, and do three-dimensional "
+#~ "translation and rotation.  This package is looking for a maintainer.  "
+#~ "<small>(<a href=\"/manual/manual.html#gleem\">doc</a>)</small>"
+#~ msgstr ""
+#~ "GNU gleem é uma biblioteca para Java e C++ que oferece um conjunto de "
+#~ "widgets 3D que oferecem suporte a a interação direta do usuário com uma "
+#~ "cena 3D. Esses widgets são usados para traduzir ao longo de uma linha, "
+#~ "traduzir em um plano e fazer translação e rotação tridimensionais. Esse "
+#~ "pacote está procurando por um mantenedor.  <small>(<a href=\"/manual/"
+#~ "manual.html#gleem\">doc</a>)</small>"
+
+#~ msgid "<a href=\"/software/gneuralnetwork/\">Gneural Network</a>"
+#~ msgstr "<a href=\"/software/gneuralnetwork/\">Gneural Network</a>"
+
+#~ msgid ""
+#~ "Gneural Network implements a programmable neural network.  It currently "
+#~ "supports feed-forward networks which can learn simple tasks such as curve-"
+#~ "fitting.  <small>(<a href=\"/manual/manual.html#gneuralnetwork\">doc</a>)"
+#~ "</small>"
+#~ msgstr ""
+#~ "Gneural Network implementa uma rede neural programável. Atualmente, "
+#~ "oferece suporte a redes feedforward que podem aprender tarefas simples, "
+#~ "como ajuste de curvas.  <small>(<a href=\"/manual/manual."
+#~ "html#gneuralnetwork\">doc</a>)</small>"
+
+#~ msgid "<a href=\"/software/pyconfigure/\">Pyconfigure</a>"
+#~ msgstr "<a href=\"/software/pyconfigure/\">Pyconfigure</a>"
+
+#~ msgid ""
+#~ "GNU pyconfigure provides template files for easily implementing standards-"
+#~ "compliant configure scripts and Makefiles for Python-based packages.  It "
+#~ "is designed to work alongside existing Python setup scripts, making it "
+#~ "easy to integrate into existing projects.  Powerful and flexible Autoconf "
+#~ "macros are available, allowing you to easily make adjustments to the "
+#~ "installation procedure based on the capabilities of the target computer.  "
+#~ "<small>(<a href=\"/manual/manual.html#pyconfigure\">doc</a>)</small>"
+#~ msgstr ""
+#~ "GNU pyconfigure fornece arquivos de modelo para implementar facilmente os "
+#~ "scripts de configure e Makefiles, compatíveis com padrões, para pacotes "
+#~ "baseados em Python. Ele foi projetado para funcionar junto com os scripts "
+#~ "de configuração existentes do Python, facilitando a integração em "
+#~ "projetos existentes. Macros Autoconf poderosas e flexíveis estão "
+#~ "disponíveis, permitindo que você faça ajustes facilmente no procedimento "
+#~ "de instalação com base nos recursos do computador de destino.  <small>(<a "
+#~ "href=\"/manual/manual.html#pyconfigure\">doc</a>)</small>"
+
+#~ msgid "<a href=\"/software/thales/\">Thales</a>"
+#~ msgstr "<a href=\"/software/thales/\">Thales</a>"
+
+#~ msgid ""
+#~ "GNU Thales provides macros for performing unit testing in Guile and for "
+#~ "checking the stability of the public interface of your modules.  This "
+#~ "package is looking for a maintainer.  <small>(<a href=\"/manual/manual."
+#~ "html#thales\">doc</a>)</small>"
+#~ msgstr ""
+#~ "GNU Thales fornece macros para realizar testes unitários no Guile e para "
+#~ "verificar a estabilidade da interface pública de seus módulos. Este "
+#~ "pacote está procurando um mantenedor.  <small>(<a href=\"/manual/manual."
+#~ "html#thales\">doc</a>)</small>"
 
 #~ msgid "logo for speex"
 #~ msgstr "logo do speex"

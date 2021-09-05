@@ -1,21 +1,22 @@
 # Brazilian Portuguese translation of http://www.gnu.org/music/writing-fs-song.html
 # Copyright (C) 2020 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2020.
 # Cassiano Reinert Novais dos Santos <caco@posteo.net>, 2020.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2020-2021.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: writing-fs-song.html\n"
-"POT-Creation-Date: 2014-04-05 00:02+0000\n"
-"PO-Revision-Date: 2020-01-05 01:20-0300\n"
+"POT-Creation-Date: 2021-07-12 16:25+0000\n"
+"PO-Revision-Date: 2021-07-29 12:34-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 1.0.0-beta1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 40.0\n"
 
 #. type: Content of: <title>
 msgid "Writing the Free Software Song - GNU Project - Free Software Foundation"
@@ -23,11 +24,31 @@ msgstr ""
 "Escrevendo a Música do Software Livre - Projeto GNU - Free Software "
 "Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><a><img>
+msgid "GNU Home"
+msgstr "Página inicial do GNU"
+
+#. type: Content of: <div>
+msgid ""
+"</a>&nbsp;/ <a href=\"/fun/humor.html#content\">GNU&nbsp;humor</a>&nbsp;/ <a "
+"href=\"/music/music.html#content\">Music</a>&nbsp;/"
+msgstr ""
+"</a>&nbsp;/ <a href=\"/fun/humor.html#content\">Humor&nbsp;do&nbsp;GNU</"
+"a>&nbsp;/ <a href=\"/music/music.html#content\">Música</a>&nbsp;/"
+
+#. type: Content of: <div><h2>
 msgid "Writing the Free Software Song"
 msgstr "Escrevendo a Música do Software Livre"
 
-#. type: Content of: <p>
+#. type: Content of: <div><address>
+msgid "by Richard Stallman"
+msgstr "por Richard Stallman"
+
+#. type: Content of: <div><p>
 msgid ""
 "This is the story of the writing of the <a href=\"/music/free-software-song."
 "html\">Free Software Song</a>."
@@ -35,7 +56,7 @@ msgstr ""
 "Esta é a história da escrita da <a href=\"/music/free-software-song.html"
 "\">Música do Software Livre</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I wrote the free software song at a <a href=\"#filksinging\"> filksinging</"
 "a> session at a science fiction convention, probably in early 1991.  It was "
@@ -57,7 +78,7 @@ msgstr ""
 "tendo nenhuma inspiração em particular. Eu tive que procurar sobre o que "
 "escrever e como."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So first I asked myself, what topic should it be about? I realized I had "
 "never written a filksong relating to free software, so I figured it was time "
@@ -67,7 +88,7 @@ msgstr ""
 "nunca havia escrito um <em>filksong</em> relacionado ao Software Livre, "
 "então achei que estava na hora de escrever."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Then I asked myself, what tune should I use? I realized I had never written "
 "a filksong using Bulgarian dance music, so I figured that would be a good "
@@ -80,7 +101,7 @@ msgstr ""
 "<cite>Sadi Moma</cite> porque não é muito rápida ou complicada e é fácil de "
 "cantar."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "By the time it was my turn again, the song was ready.  After I sang it, "
 "someone else in the room said, &ldquo;That has an anthem-like quality.  You "
@@ -92,19 +113,19 @@ msgstr ""
 "Você deve mostrá-la a Richard Stallman”. (Naquele ano, eu era um pouco "
 "famoso e era convidado da convenção.)"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "I said, &ldquo;I am Richard Stallman.&rdquo;"
 msgstr "Eu disse: “Eu sou Richard Stallman.”"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "She said, &ldquo;Oh, I'm sorry!&rdquo;"
 msgstr "Ela falou: “Ah, me desculpe!”"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "I responded, &ldquo;Don't be sorry, it's fun when that happens.&rdquo;"
 msgstr "Eu respondi “Não se preocupe. É divertido quando isso acontece.”"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "&ldquo;filksong&rdquo; started as a typo for &ldquo;folksong&rdquo;, and the "
 "term was adopted in science fiction fandom to refer to the practice of "
@@ -149,14 +170,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
@@ -164,36 +185,40 @@ msgstr ""
 "favor, envie seus comentários e sugestões em geral sobre as traduções para "
 "<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
 "a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
-"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
-"envio de traduções das páginas deste site."
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e a "
+"contribuição com traduções das páginas deste site."
 
 #. type: Content of: <div><p>
-msgid ""
-"Copyright &copy; 1993, 2001, 2002, 2003, 2004, 2005, 2006, 2009, 2014 "
-"Richard Stallman"
-msgstr ""
-"Copyright &copy; 1993, 2001, 2002, 2003, 2004, 2005, 2006, 2009, 2014 "
-"Richard Stallman"
+msgid "Copyright &copy; 1993, 2001-2006, 2009, 2014, 2021 Richard Stallman"
+msgstr "Copyright &copy; 1993, 2001-2006, 2009, 2014, 2021 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
-"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
-"rafaelff@gnome.org&gt;</a>, 2020.Revisado por: Cassiano Reinert Novais dos "
-"Santos <a href=\"mailto:caco@posteo.net\">&lt;caco@posteo.net&gt;</a>, 2020."
+"rafaelff@gnome.org&gt;</a>, 2020-2021.<br/>\n"
+"Revisado por: Cassiano Reinert Novais dos Santos <a href=\"mailto:"
+"caco@posteo.net\">&lt;caco@posteo.net&gt;</a>, 2020."
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid ""
+#~ "Copyright &copy; 1993, 2001, 2002, 2003, 2004, 2005, 2006, 2009, 2014 "
+#~ "Richard Stallman"
+#~ msgstr ""
+#~ "Copyright &copy; 1993, 2001, 2002, 2003, 2004, 2005, 2006, 2009, 2014 "
+#~ "Richard Stallman"
