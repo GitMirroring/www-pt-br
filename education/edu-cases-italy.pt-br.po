@@ -1,0 +1,174 @@
+# Brazilian Portuguese translation of https://www.gnu.org/education/edu-cases-italy.html
+# Copyright (C) 2026 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Dalton Scavassa <dalton.scavassa@uffs.edu.br>, 2026.
+# File pending peer review.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: edu-cases-italy.html\n"
+"POT-Creation-Date: 2024-05-18 13:55+0000\n"
+"PO-Revision-Date: 2026-10-05 19:07-0300\n"
+"Last-Translator: Dalton Scavassa <dalton.scavassa@uffs.edu.br>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.9\n"
+
+#. type: Content of: <title>
+msgid ""
+"Education - Case Studies in Italy - GNU Project - Free Software Foundation"
+msgstr ""
+"Educação - Estudos de caso na Itália - Projeto GNU - Free Software Foundation"
+
+#. type: Content of: <div><a>
+msgid "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+msgstr "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+
+#. type: Attribute 'title' of: <div><a><img>
+msgid "Education Contents"
+msgstr "Conteúdo de educação"
+
+#. type: Attribute 'alt' of: <div><a><img>
+msgid "&nbsp;[Education Contents]&nbsp;"
+msgstr "&nbsp;[Educação]&nbsp;"
+
+#. type: Content of: <div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><p><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><p><a><img>
+msgid "GNU Home"
+msgstr "Página inicial do GNU"
+
+#. type: Content of: <div><p>
+msgid ""
+"</a>&nbsp;/ <a href=\"/education/education.html\">Education</a>&nbsp;/ <a "
+"href=\"/education/edu-cases.html\">Case&nbsp;Studies</a>&nbsp;/"
+msgstr ""
+"</a>&nbsp;/ <a href=\"/education/education.html\">Educação</a>&nbsp;/ <a "
+"href=\"/education/edu-cases.html\">Estudos&nbsp;de&nbsp;caso</a>&nbsp;/"
+
+#. type: Content of: <div><h2>
+msgid "Case Studies in Italy"
+msgstr "Estudos de caso na Itália"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Italy consists of 20 administrative divisions called &ldquo;regions,&rdquo; "
+"fifteen of which have ordinary statutes, and five are autonomous under "
+"special statutes that grant them particular forms of autonomy."
+msgstr ""
+"A Itália é constituída por 20 divisões administrativas chamadas de "
+"“regiões”. Quinze delas possuem legislação comum e cinco são autônomas, "
+"seguindo legislação especial que lhes garante formas específicas de "
+"autonomia."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Below are listed some of the educational institutions in Italy that are "
+"using free/libre software."
+msgstr ""
+"A seguir, estão listadas algumas das instituições educacionais da Itália que "
+"têm utilizado software livre."
+
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"<a href= \"/education/edu-cases-italy-south-tyrol.html\"> Schools in South "
+"Tyrol</a>"
+msgstr ""
+"<a href= \"/education/edu-cases-italy-south-tyrol.html\"> Escolas de Tirol "
+"do Sul</a>"
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"South Tyrol, also known as the Autonomous Province of Bolzano, is one of the "
+"two provinces that form the autonomous region of Trentino-Alto Adige "
+"(<i>Südtirol</i> in German and Ladin)."
+msgstr ""
+"Tirol do Sul, também conhecida como Província Autônoma de Bolzano, é uma das "
+"duas províncias que formam a região autônoma de Trentino-Alto Ádige "
+"(<i>Südtirol</i> em alemão e ladino dolomita) <a href=\"#nota-"
+"traducao-1\">[1]</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Official languages in South Tyrol are Italian, German, and Ladin.  The "
+"school system includes educational institutions for each of these languages: "
+"78 for German, 24 for Italian, and 7 for Ladin. All Italian-language schools "
+"in South Tyrol were migrated to free software."
+msgstr ""
+"Os idiomas oficiais de Tirol do Sul são italiano, alemão e ladino dolomita. "
+"O sistema escolar engloba instituições educacionais para cada uma dessas "
+"línguas: 78 para alemão, 24 para italiano e 7 para ladino. Todas as escolas "
+"de idioma italiano em Tirol do Sul foram migradas para software livre."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr ""
+"<h3>Nota de tradução</h3>\n"
+"<ol>\n"
+"<li id=\"nota-traducao-1\">Nomenclatura lusófona para idioma e região como "
+"na <a href=\"https://pt.wikipedia.org/wiki/"
+"Bolzano_(prov%C3%ADncia_aut%C3%B3noma)\">Wikipédia</a>.</li>\n"
+"</ol>"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a "
+"href=\"mailto:gnu@gnu.org\">&lt;gnu@gnu.org&gt;</a>.  There are also <a "
+"href=\"/contact/\">other ways to contact</a> the FSF.  Broken links and "
+"other corrections or suggestions can be sent to <a "
+"href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>."
+msgstr ""
+
+#
+#
+#
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and contributing translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>.
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/"
+"README.translations.html\">Translations README</a> for information on "
+"coordinating and contributing translations of this article."
+msgstr ""
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2024 Free Software Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2024 Free Software Foundation, Inc.<br/>\n"
+"Copyright &copy; 2026 Dalton Scavassa (translation)"
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr "Tradução: Dalton Scavassa, 2026."
+
+#.  timestamp start
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr ""

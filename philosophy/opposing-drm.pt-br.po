@@ -1,0 +1,335 @@
+# Brazilian Portuguese translation of https://www.gnu.org/philosophy/opposing-drm.html
+# Copyright (C) 2026 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Dalton Scavassa <dalton.scavassa@uffs.edu.br>, 2026.
+# Peer reviewed by another community member who requested to remain uncredited.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: opposing-drm.html\n"
+"POT-Creation-Date: 2026-10-04 01:31-0300\n"
+"PO-Revision-Date: 2026-10-05 19:12-0300\n"
+"Last-Translator: Dalton Scavassa <dalton.scavassa@uffs.edu.br>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.9\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#. type: Content of: <title>
+msgid ""
+"Opposing Digital Rights Mismanagement - GNU Project - Free Software "
+"Foundation"
+msgstr ""
+"Oposição à ingerência digital de direitos - Projeto GNU - Free Software "
+"Foundation"
+
+#. type: Content of: <div><h2>
+msgid "Opposing Digital Rights Mismanagement"
+msgstr "Oposição à ingerência digital de direitos"
+
+#. type: Content of: <div><h2>
+msgid ""
+"<span style=\"font-size: .7em\">(Or Digital Restrictions Management, as we "
+"now call it)</span>"
+msgstr ""
+"<span style=\"font-size: .7em\">(ou gestão digital de restrições, como a "
+"chamamos agora)</span>"
+
+#. type: Content of: <div><address>
+msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
+msgstr "por <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
+
+#. type: Content of: <div><p>
+msgid ""
+"In 1989, in a very different world, I wrote the first version of the GNU "
+"General Public License, a license that gives computer users freedom. The GNU "
+"GPL, of all the free software licenses, is the one that most fully embodies "
+"the values and aims of the free software movement, by ensuring the four "
+"fundamental freedoms for every user. These are freedoms to 0)  run the "
+"program as you wish; 1) study the source code and change it to do what you "
+"wish; 2) make and distribute copies, when you wish; 3) and distribute "
+"modified versions, when you wish."
+msgstr ""
+"Em 1989, em um mundo bem diferente, escrevi a primeira versão da Licença "
+"Pública Geral GNU, uma licença que dá liberdade a pessoas usuárias de "
+"computador. A GNU GPL, entre todas as licenças de software livre, é a que "
+"mais completamente incorpora os valores e os objetivos do movimento do "
+"software livre, assegurando as quatro liberdades essenciais para cada pessoa "
+"usuária. Elas são as liberdades de (0) executar o programa como você quiser; "
+"(1) estudar o código-fonte e modificá-lo para fazer o que você desejar; (2) "
+"realizar e distribuir cópias, quando quiser; e (3) distribuir versões "
+"modificadas, quando preferir."
+
+#. type: Content of: <div><p>
+msgid ""
+"Any license that grants these freedoms is a free software license. The GNU "
+"GPL goes further: it protects these freedoms for all users of all versions "
+"of the program by forbidding middlemen from stripping them off.  Most "
+"components of the GNU/Linux operating system, including the Linux component "
+"that was made free software in 1992, are licensed under GPL version 2, "
+"released in 1991. Now, with legal advice from Professor Eben Moglen, I am "
+"designing version 3 of the GNU GPL."
+msgstr ""
+"Qualquer licença que concede essas liberdades é uma licença de software "
+"livre. A GNU GPL vai além: ela protege essas liberdades para todas as "
+"pessoas usuárias de todas as versões do programa ao proibir que "
+"intermediários as retirem. A maioria dos componentes do sistema operacional "
+"GNU/Linux, inclusive o componente Linux que foi tornado software livre em "
+"1992, é licenciado sob GPL versão 2, lançada em 1991. Agora, sob "
+"aconselhamento legal do Professor Eben Moglen, estou projetando a versão 3 "
+"da GNU GPL."
+
+#. type: Content of: <div><p>
+msgid ""
+"GPLv3 must cope with threats to freedom that we did not imagine in 1989.  "
+"The coming generation of computers, and many products with increasingly "
+"powerful embedded computers, are being turned against us by their "
+"manufacturers before we buy them&mdash;they are designed to restrict what we "
+"can use them to do."
+msgstr ""
+"A GPLv3 deve enfrentar ameaças à liberdade que não imaginamos em 1989. A "
+"próxima geração de computadores, e muitos produtos com progressivamente mais "
+"poderosos computadores embarcados, têm sido voltados contra nós por seus "
+"fabricantes antes mesmo de os comprarmos &mdash; são projetados para "
+"restringir o que podemos fazer com eles."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"<a href=\"https://www.defectivebydesign.org\">Join our campaign against DRM</"
+"a>."
+msgstr ""
+"<a href=\"https://www.defectivebydesign.org\">Una-se a nossa campanha contra "
+"DRM</a>."
+
+#. type: Content of: <div><p>
+msgid ""
+"First, there was the TiVo. People may think of it as an appliance to record "
+"TV programs, but it contains a real computer running a GNU/Linux system. As "
+"required by the GPL, you can get the source code for the system. You can "
+"change the code, recompile and install it. But once you install a changed "
+"version, the TiVo won't run at all, because of a special mechanism designed "
+"to sabotage you. Freedom No. 1, the freedom to change the software to do "
+"what you wish, has become a sham."
+msgstr ""
+"Primeiro, havia o TiVo. As pessoas podem pensar nele como um equipamento "
+"para gravar programas de TV, mas ele contém um computador real executando o "
+"sistema GNU/Linux. Como manda a GPL, você pode obter o código-fonte do "
+"sistema. Pode alterar o código, recompilá-lo e instalá-lo. Porém, depois de "
+"você ter instalado uma versão modificada, o TiVo não vai funcionar de jeito "
+"algum, por conta de um mecanismo especial projetado para sabotar você. A "
+"Liberdade 1, a liberdade de alterar o software para que ele faça o que você "
+"quer, tornou-se um fingimento."
+
+#. type: Content of: <div><p>
+msgid ""
+"Then came Treacherous Computing, promoted as &ldquo;Trusted "
+"Computing,&rdquo; meaning that companies can &ldquo;trust&rdquo; your "
+"computer to obey them instead of you. It enables network sites to tell which "
+"program you are running; if you change the program, or write your own, they "
+"will refuse to talk to you. Once again, freedom No. 1 becomes a sham."
+msgstr ""
+"Então veio a Computação Traiçoeira, promovida como “Computação Confiável”, "
+"significando que as empresas podem “confiar” no seu computador para obedecer "
+"a elas em vez de a você. Isso permite que <i>sites</i> na rede saibam quais "
+"programas você está rodando; se você alterar o programa delas ou escrever o "
+"seu próprio programa, elas vão se recusar a falar com você. Mais uma vez, a "
+"liberdade Número 1 se torna um engodo."
+
+#. type: Content of: <div><p>
+msgid ""
+"Microsoft has a scheme, originally called Palladium, that enables an "
+"application program to &ldquo;seal&rdquo; data so that no other program can "
+"access it. If Disney distributes movies this way, you'll be unable to "
+"exercise your legal rights of fair use and de minimis use. If an application "
+"records your data this way, it will be the ultimate in vendor lock-in. This "
+"too destroys freedom No. 1; if modified versions of a program cannot access "
+"the same data, you can't really change the program to do what you wish. "
+"Something like Palladium is planned for a coming version of Windows."
+msgstr ""
+"A Microsoft tem um esquema, originalmente chamado de Palladium, que permite "
+"a um programa aplicativo “lacrar” os dados de maneira que nenhum outro "
+"programa consiga acessá-los. Se a Disney distribuir filmes dessa maneira, "
+"você não vai conseguir exercer seus direitos legais de utilização justa e de "
+"insignificância. Se um aplicativo registrar seus dados dessa maneira, isso "
+"será seu supremo aprisionamento ao fornecedor. Também destrói a liberdade nº "
+"1: se versões modificadas de um programa não podem acessar os mesmos dados, "
+"você não consegue realmente alterar o programa para que ele faça o que você "
+"quer. Algo como Palladium está planejado para uma próxima versão do Windows."
+
+#. type: Content of: <div><p>
+msgid ""
+"AACS, the &ldquo;Advanced Access Content System,&rdquo; promoted by Disney, "
+"IBM, Microsoft, Intel, Sony, and others, aims to restrict use of HDTV "
+"recordings&mdash;and software&mdash;so they can't be used except as these "
+"companies permit. Sony was caught last year installing a "
+"&ldquo;rootkit&rdquo; into millions of people's computers, and not telling "
+"them how to remove it. Sony has learned its lesson: it will install the "
+"&ldquo;rootkit&rdquo; in your computer before you get it, and you won't be "
+"able to remove it.  This plan explicitly requires devices to be "
+"&ldquo;robust&rdquo;&mdash;meaning you cannot change them. Its implementors "
+"will surely want to include GPL-covered software, trampling freedom No. 1. "
+"This scheme should get &ldquo;AACSed,&rdquo; and <a href=\"https://"
+"web.archive.org/web/20140217075603/http://bluraysucks.com/\"> a boycott of "
+"HD DVD and Blu-ray has already been announced</a>."
+msgstr ""
+"AACS, o “Sistema Avançado de Acesso a Conteúdo” (Advanced Access Content "
+"System), promovido por Disney, IBM, Microsoft, Intel, Sony e outras, "
+"objetiva restringir o uso de gravações &mdash; e software &mdash; de HDTV "
+"para que não possam ser usadas exceto como essas empresas permitirem. A Sony "
+"foi pega ano passado instalando um <i>rootkit</i> nos computadores de "
+"milhões de pessoas, sem dizê-las como removê-lo. A Sony aprendeu esta lição: "
+"vai instalar o <i>rootkit</i> no seu computador antes que você o adquira, e "
+"você não vai conseguir removê-lo. Esse plano explicitamente demanda "
+"dispositivos que sejam “robustos” &mdash; no sentido de que você não pode "
+"alterá-los. Seus praticantes certamente vão querer incluir software coberto "
+"pela GPL, atropelando a liberdade nº 1. Esse esquema deve receber “AACS” e "
+"<a href=\"https://web.archive.org/web/20140217075603/http://bluraysucks.com/"
+"\">um boicote a HD DVD e Blu-ray já foi anunciado</a>."
+
+#. type: Content of: <div><p>
+msgid ""
+"Allowing a few businesses to organize a scheme to deny our freedoms for "
+"their profit is a failure of government, but so far most of the world's "
+"governments, led by the U.S., have acted as paid accomplices rather than "
+"policemen for these schemes. The copyright industry has promulgated its "
+"peculiar ideas of right and wrong so vigorously that some readers may find "
+"it hard to entertain the idea that individual freedom can trump their "
+"profits."
+msgstr ""
+"Permitir que alguns comerciantes organizem um esquema para negar nossas "
+"liberdades para lucrarem é um fracasso do governo, mas até agora a maioria "
+"dos governos do mundo, liderados pelos EUA, têm agido mais como cúmplices "
+"pagos do que como guardas sobre esses esquemas. A indústria do direito "
+"autoral propagou tão vigorosamente suas peculiares ideias sobre o que é "
+"certo ou errado que alguns leitores podem achar difícil vislumbrar a ideia "
+"de que a liberdade individual pode sobrepujar os lucros dela."
+
+#. type: Content of: <div><p>
+msgid ""
+"Facing these threats to our freedom, what should the free software community "
+"do? Some say we should give in and accept the distribution of our software "
+"in ways that don't allow modified versions to function, because this will "
+"make our software more popular. Some refer to free software as &ldquo;open "
+"source,&rdquo; that being the slogan of an amoral approach to the matter, "
+"which cites powerful and reliable software as the highest goals.  If we "
+"allow companies to use our software to restrict us, this &ldquo;open source "
+"DRM&rdquo; could help them restrict us more powerfully and reliably.  Those "
+"who wield the power could benefit by sharing and improving the source code "
+"of the software they use to do so. We too could read that source "
+"code&mdash;read it and weep, if we can't make a changed version run. For the "
+"goals of freedom and community&mdash;the goals of the free software "
+"movement&mdash;this concession would amount to failure."
+msgstr ""
+"Diante dessas ameaças a nossa liberdade, o que a comunidade do software "
+"livre deve fazer? Há quem diga que deveríamos ceder e aceitar a distribuição "
+"do nosso software de maneiras que não permitam versões modificadas de "
+"funcionar, pois isso faria nossos programas serem mais populares. Outras "
+"pessoas se referem a software livre como “código aberto”, sendo esse o lema "
+"de uma abordagem amoral à matéria, citando software poderoso e confiável "
+"como os mais altos objetivos. Se permitirmos que empresas usem nosso "
+"software para nos restringir, esse “DRM de código aberto” poderia ajudá-los "
+"a nos restringir de forma mais poderosa e confiável. Aqueles que exercem o "
+"poder podem se beneficiar do compartilhamento e da melhoria do código-fonte "
+"do software que utilizam para realizar isso. Nós também poderíamos ler "
+"aquele código-fonte &mdash; ler e chorar, se não pudermos executar uma "
+"versão modificada. Para objetivos de liberdade e comunidade &mdash; os "
+"objetivos do movimento do software livre &mdash; essa concessão resultaria "
+"no fracasso."
+
+#. type: Content of: <div><p>
+msgid ""
+"We developed the GNU operating system so that we could control our own "
+"computers, and cooperate freely in using them in freedom. To seek popularity "
+"for our software by ceding this freedom would defeat the purpose; at best, "
+"we might flatter our egos. Therefore we have designed version 3 of the GNU "
+"GPL to uphold the user's freedom to modify the source code and put modified "
+"versions to real use."
+msgstr ""
+"Desenvolvemos o sistema operacional GNU para que possamos controlar nossos "
+"próprios computadores e cooperar livremente, utilizando-os em liberdade. "
+"Buscar popularidade para nosso software abrindo mão dessa liberdade "
+"derrotaria o propósito. No máximo, poderíamos afagar nossos egos. Portanto, "
+"projetamos a versão 3 da GNU GPL para sustentar a liberdade das pessoas "
+"usuárias para modificar o código-fonte e colocar versões modificadas em uso "
+"real."
+
+#. type: Content of: <div><p>
+msgid ""
+"The debate about the GPL v3 is part of a broader debate about DRM versus "
+"your rights. The motive for DRM schemes is to increase profits for those who "
+"impose them, but their profit is a side issue when millions of people's "
+"freedom is at stake; desire for profit, though not wrong in itself, cannot "
+"justify denying the public control over its technology.  Defending freedom "
+"means thwarting DRM."
+msgstr ""
+"O debate sobre a GPLv3 é parte de um debate mais amplo sobre DRM contra os "
+"seus direitos. A motivação dos esquemas de DRM é aumentar os lucros para "
+"aqueles que os impõem, porém seu lucro é uma questão secundária quando a "
+"liberdade de milhões de pessoas está em perigo. O desejo de lucrar, embora "
+"não esteja errado por si só, não pode justificar a negação do controle do "
+"público sobre sua tecnologia. Defender a liberdade significa anular a DRM."
+
+#. type: Content of: <div><div><p>
+msgid "First published by <cite>BusinessWeek Online</cite>."
+msgstr "Publicado pela primeira vez em <cite>BusinessWeek Online</cite>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a "
+"href=\"mailto:gnu@gnu.org\">&lt;gnu@gnu.org&gt;</a>.  There are also <a "
+"href=\"/contact/\">other ways to contact</a> the FSF.  Broken links and "
+"other corrections or suggestions can be sent to <a "
+"href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>."
+msgstr ""
+
+#
+#
+#
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and contributing translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>.
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/"
+"README.translations.html\">Translations README</a> for information on "
+"coordinating and contributing translations of this article."
+msgstr ""
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2006, 2021 Richard Stallman"
+msgstr ""
+"Copyright &copy; 2006, 2021 Richard Stallman<br/>\n"
+"Copyright &copy; 2026 Dalton Scavassa (translation)"
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr "Tradução: Dalton Scavassa, 2026."
+
+#.  timestamp start
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr ""
